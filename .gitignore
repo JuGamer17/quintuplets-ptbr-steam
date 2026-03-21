@@ -1,0 +1,5 @@
+*.bkp-*
+__pycache__/
+*.pyc
+contexto.json
+.kiro/
