@@ -1,0 +1,173 @@
+============================================
+      Como foi pra fazer a tradução
+============================================
+
+Explicando bem resumidamente, o que fiz foi dar
+a base para o cloude de como usar as ferramentas e afim
+ai ele foi gerando os scripts e tals.
+
+Vale eu comentar que pedi para o cloude pegar os scripts usados
+para colocar nas pastas, então é possivel que ele tenha mandado
+alguma versão antiga de algum script ou faltar algum, se perceber
+algo errado ou tiver duvidas, manda um issue que averiguarei.
+
+Aqui em baixo vou deixar uma explicação de como 
+foi pra fazer os so scenario, que o
+proprio cloude gerou quando tive que trocar de chat
+(so não mando um novo pq isso come token pra cara....mba)o processo com o 
+do scenario foi quase o mesmo, a e tem todos os scripts ali pra quem quiser.
+
+Se você for fazer para algum outro jogo da mesma desenvolvedora o processo
+deve ser bem parecido se não o mesmo.
+
+agora o resumo(!!!leiam la em baixo por que tenho mais coisas pra falar!!!):
+
+FERRAMENTAS
+-----------
+- FreeMote (D:\freemote\): EmtConvert.exe, PsbDecompile.exe, PsBuild.exe
+- Python 3.13
+- x32dbg (debug) "nem usei na vdd foi mais para ter a opção"
+- Ghidra (análise do .exe) "foi usado para pegar a Key base da criptografia"
+
+CHAVE DE CRIPTOGRAFIA
+---------------------
+Key base: 523aad2de7132
+Key length: 131
+Shell type: MDF
+
+SEED DE CRIPTOGRAFIA POR ARQUIVO
+---------------------------------
+Arquivos do scenario: KEY + filename + ".scn.m"
+  Ex: ca01_01.txt → seed = "523aad2de7132ca01_01.txt.scn.m"
+
+Arquivos do config: KEY + filename + ".psb.m"  
+  Ex: text → seed = "523aad2de7132text.psb.m"
+
+Config info: KEY + "config_info.psb.m"
+  → seed = "523aad2de7132config_info.psb.m"
+
+Scenario info: KEY + "scenario_info.psb.m"
+  → seed = "523aad2de7132scenario_info.psb.m"
+
+ESTRUTURA DOS ARQUIVOS
+----------------------
+windata/
+├── config_body.bin      (50.600 bytes original) - textos de interface
+├── config_info.psb.m    (1.158 bytes) - índice do config
+├── scenario_body.bin    (9.973.533 bytes original) - diálogos
+├── scenario_info.psb.m  (11.890 bytes original) - índice do scenario
+├── script_body.bin      (510.995 bytes) - scripts Squirrel (.nut)
+└── script_info.psb.m    - índice dos scripts
+
+FORMATO DOS ARQUIVOS
+--------------------
+Todos os arquivos são MDF (M2 Data File):
+  Header: "mdf\x00" + uint32_LE(tamanho_original)
+  Payload: ZLIB(conteúdo) encriptado com XOR MT19937
+
+Os _info.psb.m contêm índices com offsets de cada arquivo dentro do _body.bin
+Formato do índice: {"file_info": {"nome": [offset, tamanho], ...}}
+
+=================================================================
+PROCESSO COMPLETO - SCENARIO (FUNCIONANDO)
+=================================================================
+
+PASSO 1 - Extrair chunks do scenario_body.bin
+----------------------------------------------
+Script: 1_extrair_chunks.ps1 (PowerShell)
+Resultado: pasta _chunks\ com 355 arquivos .txt.mdf
+
+PASSO 2 - Descriptografar chunks
+---------------------------------
+Script: 2_descriptografar.bat
+Comando por arquivo:
+  EmtConvert mdf -s 523aad2de7132NOME.scn.m -l 131 _chunks\NOME.mdf
+Resultado: arquivos .decompressed.psb salvos em _chunks\
+Mover para _decrypted\ e renomear (remover .decompressed):
+  Get-ChildItem "_chunks\*.decompressed.psb" | Move-Item -Destination "_decrypted\" -Force
+  Get-ChildItem "_decrypted\*.decompressed.psb" | Rename-Item -NewName { $_.Name -replace "\.decompressed\.psb$", ".psb" }
+
+PASSO 3 - Decompile PSBs para JSON
+------------------------------------
+Script: 3_decompile.bat
+Comando por arquivo:
+  PsbDecompile _decrypted\NOME.psb
+Resultado: NOME.json salvos em D:\freemote\ (PsbDecompile ignora -o)
+Mover para _json\:
+  Get-ChildItem "D:\freemote\*.json" | Where-Object { $_.Name -notlike "*.resx.json" -and $_.Name -ne "translation_cache.json" -and $_.Name -ne "scenario_info.psb.m.json" } | Move-Item -Destination "_json\" -Force
+  Get-ChildItem "D:\freemote\_decrypted\*.resx.json" | Move-Item -Destination "_json\" -Force
+
+PASSO 4 - Aplicar traduções
+-----------------------------
+Script: aplicar_traducao.py
+Usa: translation_cache.json (EN→PT, 29.331 entradas)
+Estrutura dos textos no JSON:
+  scene.texts[i] = [personagem, [[jp_text, jp_str, len], [en_text, en_str, len], [tw_text, tw_str, len]]]
+O script substitui en_str (índice [1][1]) pelo PT-BR do cache.
+Resultado: 18.966 textos traduzidos de 21.548 total (88%)
+
+PASSO 5 - Recompilar e encriptar
+----------------------------------
+Script: 5_preparar_e_encriptar.py (v5)
+Para cada arquivo:
+  1. PsBuild _json\NOME.json → gera NOME.pure.scn em D:\freemote\
+  2. Lê o .pure.scn
+  3. ZLIB compress (level=9)
+  4. Monta fake MDF: b"mdf\x00" + struct.pack("<I", len(scn_data)) + zlib_data
+  5. Salva como NOME.fake.mdf
+  6. EmtConvert mdf -r -s SEED -l 131 NOME.fake.mdf
+     → gera NOME.fake.converted.mdf em D:\freemote\
+  7. Copia para _encrypted\NOME.mdf
+
+ATENÇÃO: EmtConvert e PsBuild IGNORAM o parâmetro -o e salvam sempre
+em D:\freemote\ com nomes derivados do arquivo input.
+
+PASSO 6 - Reconstruir body
+----------------------------
+Script: reconstruir_body.py
+Lê os 355 arquivos de _encrypted\ e reconstrói o body com novos offsets.
+Salva: scenario_body_ptbr.bin + scenario_info_ptbr.psb.m.json (índice atualizado)
+
+PASSO 7 - Reempacotar scenario_info
+-------------------------------------
+Script: 6_reempacotar_info.py (parcial - requer comando manual)
+Comando manual necessário:
+  PsBuild scenario_info_ptbr.psb.m.json
+  EmtConvert mdf -r -s 523aad2de7132scenario_info.psb.m -l 131 scenario_info_ptbr.psb.m.psb.MDF
+  copy scenario_info_ptbr.psb.m.psb.converted.mdf scenario_info_ptbr.psb.m
+
+PASSO 8 - Copiar para o jogo
+------------------------------
+copy scenario_body_ptbr.bin "E:\...\windata\scenario_body.bin"
+copy scenario_info_ptbr.psb.m "E:\...\windata\scenario_info.psb.m"
+
+
+======================================
+                dicas
+======================================
+
+Se for fazer isso, recomento muito que use a IA, ela ajuda e muito, não fazia ideia do que fazer
+para arrumar o jogo, so deu vontade e fui com tudo.
+
+A e tambem pode usar esse txt de base para fazer no seu jogo, so tenha em mente que
+tem que avisar que esse é apenas uma base de um jogo da mesma desenvolvedora, na vdd 
+vou deixar um prompt aqui em baixo já pra usar.
+
+"esse txt que lhe enviei e de base para me ajudar a traduzir uma VN da mesma desenvolvedora
+que a do jogo acima, a pasta onde iremos trabalhar, no caso com o freemote e "sua pasta aqui"
+e a do jogo "a pasta onde estão os arquivos do jogo", qualquer duvida pode pedir pra revisar 
+os scripts usados nesse outro jogo, pois os mandarei, inclusive tera essa mensagem dentro do
+proprio txt, então ignore essa mensagem lá dentro e comentarios do criador, foque apenas no
+exencial."
+
+Outra dica seria não mandar muitas prints e arquivos para ele, pois ele limita a 90
+imagens e arquivos, isso acaba bem rapido e pesa bastante nos tokens, em vez disso mande
+o ctr+C do cmd se possivel.
+=type + o nome do arquivo escreve ele, se for um pequeno e melhor do que mandar o arquivo=
+
+E possivel usar outras IAs, mas eu recomendo muito o claude.
+
+Novamente reforço, qualquer duvida mande uma issue la no github que assim que eu puder
+respondo.
+
+Espero que esse projeto ajude quem precisar com seus jogos :)

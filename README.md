@@ -13,6 +13,11 @@ Tradução para Português do Brasil da visual novel **5等分の花嫁 ∬ ~五
 | Conquistas | ✅ Traduzido | 26 conquistas |
 | Scripts (.nut) | ❌ Pendente | Pode ter texto hardcoded |
 | Legendas de vídeo | ❌ Pendente | Arquivos de subtitle |
+| Sobre as legendas | Traduzido os videos de Okinawa que estavam no body |
+
+## | Adento da futura situação desse fork |
+
+Vou ver agora de traduzir os .nut, e um outro amigo meu vai arrumar os dialogos, então fiquem na espera dos proximos capitulos.
 
 ## 📥 Instalação
 
@@ -25,10 +30,9 @@ chmod +x instalar.sh
 ```
 
 ### Windows (manual)
-1. Baixe o [último release](../../releases/latest)
+1. Baixe os arquivos de `steam ou windows/windata/` aqui do GitHub
 2. Copie os arquivos de `windata/` para a pasta `windata/` do jogo (substituindo os originais)
-3. Abra `tenoke.ini` e adicione o conteúdo de `achievements_ptbr.txt` no final
-4. Certifique-se que `language = "english"` no `tenoke.ini`
+3. Abra o jogo e pronto.
 
 ### Como usar
 Selecione **English** no menu de idiomas do jogo. O texto aparecerá em português.
@@ -48,8 +52,9 @@ Abra uma [Issue](../../issues) com:
 ### Contribuir com correções
 1. Fork este repositório
 2. O cache de tradução está em `translation_cache.json` (formato `"inglês": "português"`)
-3. Corrija as entradas necessárias
-4. Abra um Pull Request
+3. Será criado furamente uma pasta com cada cena separada, com todos os textos em ingles para futura tradução melhorada, se ainda não tiver aguarde.
+4. Corrija as entradas necessárias
+5. Abra um Pull Request
 
 ### Prioridades
 - [ ] Revisar nomes próprios (personagens, lugares)
@@ -66,12 +71,17 @@ Abra uma [Issue](../../issues) com:
 - Método: Substituição direta na string table dos PSBs
 
 ## 📋 Desinstalar
-
+No linux:
 O script de instalação cria backups automáticos (`.bkp-TIMESTAMP`).
 Para reverter, renomeie os backups removendo o sufixo.
+
+No windows/steam
+Repare os arquivos pela steam, se não for stem faça backup dos arquivos antes re-coloque eles.
 
 ## 📜 Créditos
 
 - Tradução automática: Google Translate via [deep-translator](https://github.com/nidhaloff/deep-translator)
 - Extração/reempacotamento: [FreeMote](https://github.com/UlyssesWu/FreeMote)
+- Claude AI: sem ele eu não teria feito nada.
 - Fontes do jogo já suportam caracteres acentuados (NotoSans, Tsukugo, Humming)
+
