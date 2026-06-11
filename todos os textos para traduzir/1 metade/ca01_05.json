@@ -1,0 +1,204 @@
+{
+  "arquivo": "ca01_05",
+  "total": 33,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Whew...\\nI had so much fun at Shurijo Castle.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Ichika",
+      "texto_en": "Just as you said, there were so many sights to behold.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Nino",
+      "texto_en": "I'm a bit tired now.\\nLet's take a break.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Miku",
+      "texto_en": "I am...going to get some rest inside...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "Are you okay, Miku?\\nI'll go with you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Miku",
+      "texto_en": "Thanks...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "Me too, I might take a look at the shops inside.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, I want to rummage for some souvenirs too!\\nHow about you, Raiha-chan? You comin'?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Raiha",
+      "texto_en": "You bet!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "I might go too.\\nI'm curious to see what they have.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "After this, we are going to Kokusai dori, right?\\nThat might be the best place to find souvenirs.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "But there might be some things here\\nthat we can't find anywhere else.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "What about you, Futaro-kun? Are you coming with us too?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "I'm fine. I'm just gonna rest here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "Okay, we'll be back soon.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "(Souvenirs... I should buy something for Dad\\n as a souvenir.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "(And for the others who have helped me,\\n like the store manager, Maeda, and Takeda...\\n No, I might not have a chance to give it to them.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "(Hahaha, it's funny how things have changed.\\n Meeting the quintuplets and Ichika...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "(I never would have dreamed\\n that we'd be making memories like this.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "(Memories, eh...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "(I wonder if I will look back on this moment someday.\\n What we bought here, for example.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "...Ah, I see.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "(If we all bought something together\\n as a memento of our Okinawa trip,\\n it would be the best memory ever, wouldn't it?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "(Ah, well, the quintuplets and Raiha could get matching\\n souvenirs, but to have me included...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "...That might be pretty embarrassing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "We're back, Futaro-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Oh, you're back.\\nMiku, you okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Miku",
+      "texto_en": "Yes, I took a proper break, so I'm okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "Let's move on, then.\\nTo Kokusai dori.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Ichika",
+      "texto_en": "Okay, let's go.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "(If we're looking for matching souvenirs,\\n Kokusai dori would be the best place to go.\\n Alright...!)",
+      "texto_ptbr": ""
+    }
+  ]
+}

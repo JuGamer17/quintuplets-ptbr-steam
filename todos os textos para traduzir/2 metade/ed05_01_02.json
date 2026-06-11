@@ -1,0 +1,246 @@
+{
+  "arquivo": "ed05_01_02",
+  "total": 40,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Itsuki",
+      "texto_en": "(Uesugi-kun went to Tokyo,\\n and my university life began...\\n It was a dizzying time for a while after that.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "(University and high school are completely different\\n things. It's a time when you're constantly thinking\\n about what you want to do, why you're studying...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "(But, I have dreams, and goals.\\n Above all, there are people who support me%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "Phew...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "(I'm still not used to writing reports. It's not so\\n much about solving problems as it is about\\n organizing information and writing your own thoughts.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "Nnn...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "(I've lost my focus.\\n Should I take a break here?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Miku",
+      "texto_en": "Itsuki, you've been working hard.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, Miku.\\nSorry for taking up the table.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Miku",
+      "texto_en": "It's okay. It's not like it's something new.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "Well, I can't concentrate in my room sometimes,\\nand I wanted to change the environment and take a break.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "Reports are tough, aren't they.\\nHave you made any progress?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "Not really...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "But, I'm enjoying it.\\nEven the struggle to put my thoughts into words.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Miku",
+      "texto_en": "Yotsuba looks like she's dying as she writes them.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "Ahaha...\\nWell, everyone is different.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Miku",
+      "texto_en": "But pushing yourself too hard\\njust because you enjoy it isn't good.\\nI brought some drinks, so let's take a break.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "Thank you! I was just thinking of taking a break too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "Is barley tea okay?\\nI put it in your usual glass.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "...Heheh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "(This glass that I exchanged with Uesugi-kun,\\n no matter how many times I look at it%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Miku",
+      "texto_en": "Do you really like it that much?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, I really, really do.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Miku",
+      "texto_en": "It's a bit crooked, isn't it...\\nIs it perhaps handmade?\\nDid you make it yourself, Itsuki?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "No, it's not like that.\\nBut don't you think this shape\\nhas its own unique taste?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Miku",
+      "texto_en": "Well, I guess you could call it a taste...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "(As Miku said, it's a bit awkward, but it has\\n a warmth that can only come from something handmade.\\n I can feel his presence in it, too...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "(Plus, this colorful dot pattern\\n that's mixed with five colors%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "Really, it's these kinds of things that...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Miku",
+      "texto_en": "Hm? What?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, nothing. I was just thinking\\nhow much I like this glass.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Miku",
+      "texto_en": "I can really tell...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "(Whenever I look at this glass,\\n I always feel you by my side, Uesugi-kun.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Itsuki",
+      "texto_en": "...Well then!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Miku",
+      "texto_en": "Are you going to continue?\\nYou said you'd take a break.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "I think I'll push on a little harder.\\nSeeing the glass has given me energy.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Miku",
+      "texto_en": "Don't push yourself too hard, okay?\\nI'm going to my room, then.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "Okay. Thanks for the drink.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "(Uesugi-kun must still be working hard.\\n Then I'll work hard with him%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Itsuki",
+      "texto_en": "That's right... Futaro.",
+      "texto_ptbr": ""
+    }
+  ]
+}

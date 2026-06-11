@@ -1,0 +1,408 @@
+{
+  "arquivo": "ca05_mv1_01",
+  "total": 67,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, Ichika.\\nWhat are you looking at over there?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Ichika",
+      "texto_en": "Hey, Itsuki-chan and Futaro-kun.\\nWhy are you calling out to me?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Why?\\nCause we saw you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Ichika",
+      "texto_en": "Aren't you on a date?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "A d-date!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Well, you do know that there are seven of us on this trip, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "Th-that's right!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "And? Ichika, what were you looking around for?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Ichika",
+      "texto_en": "It's not like I was looking for anything in particular.\\nI just thought there were a lot of souvenir shops,\\nbut there are quite a few food shops too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "Well, it's the main street of Naha,\\nso I'm sure they have everything.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "I think there's a market nearby\\nthat's even called the kitchen of Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Ichika",
+      "texto_en": "The kitchen of Okinawa, huh?\\nI wonder if they sell goya there?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "What a cliche idea...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "It's fine, isn't it?\\nGoya is what comes to mind\\nwhen you think of Okinawan cuisine.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "Indeed, goya champuru is especially famous\\namong Okinawan dishes.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "By the way, goya is rich in vitamin C\\nand can also help prevent heatstroke.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Ichika",
+      "texto_en": "Oh, cool.\\nIt's the perfect vegetable for Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "You know a lot about it, Itsuki.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "Well, since it's our Okinawa trip,\\nI did some research beforehand.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Ichika",
+      "texto_en": "Okaay!\\nItsuki-chan, who's done her homework,\\nI have a question for you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "Sure, what is it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "Goya champuru is famous,\\nbut what other goya dishes are there?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "...Ummm?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "You haven't researched that, have you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "I can't think of anything else right away\\nbecause goya champuru is so dominant in my mind...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "Somen champuru is another one,\\nbut that doesn't use goya.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "I think champuru means something like a mixture.\\nIt refers to the state of being cooked altogether.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "I see.\\nSo it's called champuru because it's a stir-fry dish\\nwith various ingredients mixed together, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "So, goya champuru is just a champuru\\nwhere goya is the main ingredient?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Ichika",
+      "texto_en": "Goya is a pretty bitter vegetable,\\nisn't it?\\nIt seems difficult to use it well in cooking.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "Mmh...\\nI don't cook, so I have no idea what to imagine.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Itsuki",
+      "texto_en": "In that sense,\\nNino might be able to do something about it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "It would be fun to buy some goya\\nand ask her to make something with it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Indeed, she could probably come up\\nwith some delicious dish, with a strange name.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "N-no, I'll make it!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "I can't just leave it all to Nino!\\nLet me feed you too, Ues-...\\nFutaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Ichika",
+      "texto_en": "Ooh?\\nThis is...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Itsuki",
+      "texto_en": "What do you think?\\nWould you like to try my cooking?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "Make sure you cook up something edible, yeah?\\nI can't imagine you cooking.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "How rude!\\nI could do it if I put my mind to it!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Ohhh?\\nI'm really looking forward to it then.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "...Well, I DO think I can do it,\\nbut I don't want to be judged based on Nino's cooking.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "You suddenly seem unsure of yourself!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "I'd like to try your cooking, Itsuki.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Itsuki",
+      "texto_en": "Leave it to me!\\nI'll make goya taste delicious for you, Futaro!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Ichika",
+      "texto_en": "That's a high bar to set, you know?\\nGoya is difficult to cook.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Itsuki",
+      "texto_en": "No worries, I'll do my best!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Ichika",
+      "texto_en": "It's not exactly a problem that can \\nbe solved with determination, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "In that case, I'll cook, too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Itsuki",
+      "texto_en": "Wha...? Why is that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Well, if I move to Tokyo, I'll be living alone.\\nIt's convenient to be able to cook for myself.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "So, how about we cook for each other?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Itsuki",
+      "texto_en": "For each other...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "It'll be good practice to have another person taste it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Itsuki",
+      "texto_en": "Yes! Let's definitely do that!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Itsuki",
+      "texto_en": "Let's do our best together.\\nFu-... Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Ichika",
+      "texto_en": "Itsuki-chan, you're becoming quite overly eager.\\nSuddenly talking about making homemade food.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Itsuki",
+      "texto_en": "Futaro, is there anything else you want to eat?\\nI'll make whatever you like.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "Whatever I like...\\nAs long as it's edible, it's fine.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Ichika",
+      "texto_en": "Come on now, don't be rude, Futaro-kun.\\nDepending on how you say that,\\nit can be extremely disrespectful.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Itsuki",
+      "texto_en": "Indeed. But, I understand, so it's okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Ichika",
+      "texto_en": "Oh? Itsuki-chan understands.\\nAs expected of his girlfriend.\\nSuch composure.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Itsuki",
+      "texto_en": "Th-that's not what I meant!\\nIchika, you understand too, right?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Ichika",
+      "texto_en": "Aww, you're so cute, Itsuki-chan.\\nRight, Futaro-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "Don't put me on the spot...",
+      "texto_ptbr": ""
+    }
+  ]
+}

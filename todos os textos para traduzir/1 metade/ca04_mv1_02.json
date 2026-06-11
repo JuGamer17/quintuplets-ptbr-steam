@@ -1,0 +1,462 @@
+{
+  "arquivo": "ca04_mv1_02",
+  "total": 76,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Yo, is this where you've been, Itsuki?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, Uesugi-kun?\\nWhat brings you here?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahaha, it looks like we bumped into each other.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Oh, you're here too, Yotsuba.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, I was just about to ask Itsuki.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "Huh? Did both of you come here for the same reason?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah. Itsuki, do you have anything you want to do\\nafter this?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "Well...didn't you make plans though, Yotsuba?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, but I thought\\nI'd ask everyone what they want to do again, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Sightseeing or shopping or whatever,\\nI don't care.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Itsuki",
+      "texto_en": "Well, let's see.\\nFirst, how about some Okinawan sweets\\nthat are only available here?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "Sweets!\\nOh yeah, the desserts at the hotel restaurant\\nwere REALLY delicious.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "Yes! They were delectable!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "There are many shops that use\\nplenty of tropical fruits and specialty \\nOkinawan sweet potatoes in their sweets!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "With Okinawa, you often hear about brown sugar, don't\\nyou? The manufacturing technology for brown sugar was\\napparently introduced from China in the early Edo era.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "Most of the coloring of brown sugar comes from molasses,\\nvitamins, and minerals, doesn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "Although it's only in trace amounts,\\nsome people may be able to sense differences in flavor.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, wow, that's interesting.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "My my, you really know your stuff.\\nI can't believe you used to be a straight-F student.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "It seems like you're underestimating me, Uesugi-kun.\\nEveryone has their own areas of expertise.\\nWhen it comes to sweets, I am a master.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "...I can't argue with you when it comes to taste.\\nI'll back down for today.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Yotsuba",
+      "texto_en": "You're right, Uesugi-san doesn't stand a chance.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "But you're amazing, Itsuki.\\nWhen did you have time to study all that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "Well, it's because I have a strong interest in it.\\nIt also comes in handy when I write reviews%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Itsuki",
+      "texto_en": "Ah! No, I mean!\\nMy reviews are, well, something I do personally!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "(She's still trying to hide it...\\n Everyone already knows that the famous reviewer\\n 'M·A·Y' is really Itsuki.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Yotsuba",
+      "texto_en": "Hmhm, let's start with a tour of Okinawan sweets.\\nIs there anything else?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "Umm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "That's right.\\nI saw someone standing on the ocean earlier.\\nIs that also an activity?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "Isn't that surfing?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Itsuki",
+      "texto_en": "They were standing on something like a board,\\nbut it wasn't surfing.\\nThey also had something like an oar...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Yotsuba",
+      "texto_en": "That's probably stand-up paddleboarding.\\nIt's a marine activity also known as 'SUP.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Wow, there's something like that too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Yotsuba",
+      "texto_en": "You use a large, specialized board,\\nso there are many ways to enjoy it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Yotsuba",
+      "texto_en": "You can paddle like you're in a kayak%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Yotsuba",
+      "texto_en": "Or, you can paddle while you're standing up,\\nlike a boatman.\\nIt feels like you're taking a walk on the sea.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Yotsuba",
+      "texto_en": "You can also do things\\nlike surfing or doing yoga on the board.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "Ah! I've seen water yoga in a magazine before.\\nSo that's what it was.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Yoga on the water?\\nIs that for core strength?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, the instability that the water has is\\nimportant for building and maintaining balance\\nin the body.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Wow...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Seems like it'd be a challenging activity for me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh come on,\\neven you, Uesugi-san, can do it if you practice.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Yotsuba",
+      "texto_en": "You can sit down if it's feeling dicey,\\nand if you do fall, you'll just fall into the water.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Yotsuba",
+      "texto_en": "That's right!\\nRecently, even in tourist areas,\\nthere are river tours using 'SUP.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "River tours?\\nWow, I've never heard of those before.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Yotsuba",
+      "texto_en": "Even in familiar towns,\\npeople are finding new things\\nwhen riding along the river.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "Yotsuba, you'd master it quick.\\nWith your good motor skills and core strength.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Yotsuba",
+      "texto_en": "Hehe, thanks but actually,\\nI'm already pretty confident in my abilities.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "That's my Yotsuba.\\nI want to try water yoga too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Yotsuba",
+      "texto_en": "How do you feel about surfing, Uesugi-san?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Yotsuba",
+      "texto_en": "The SUP is bigger than a surfboard,\\nso even beginners can do it with ease.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "Surfing...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun, surfing...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Yotsuba",
+      "texto_en": "W-well, it's all about trying new things, right?\\nYou might find a hidden talent, Uesugi-san!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "Let's put surfing aside\\nand just take a walk on the water.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Yotsuba",
+      "texto_en": "I agree!\\nRecently, even in tourist areas,\\nthere are river tours using 'SUP.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "River tours?\\nWow, I've never heard of those before.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Yotsuba",
+      "texto_en": "Even in familiar towns,\\npeople are finding new things\\nwhen riding along the river.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "I'd like to take a walk.\\nSeems like it'd feel really nice.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Yotsuba",
+      "texto_en": "Moreover, this beautiful ocean, you know.\\nIt's definitely refreshing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Itsuki",
+      "texto_en": "If possible, I'd like to try water yoga.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Yotsuba",
+      "texto_en": "Maybe with a little practice,\\nyou'll be able to pick it up quick.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Itsuki",
+      "texto_en": "Really? But, what if I fail...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "If it's your first time, it's not weird to fail.\\nActually, you should try it keeping in mind\\nthat it's natural to fail.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Yotsuba",
+      "texto_en": "Plus, since we're wearing swimsuits,\\nit's okay to fall!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Itsuki",
+      "texto_en": "That's true.\\nIf I'm afraid of failing from the beginning,\\nI won't be able to do anything at all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Yotsuba",
+      "texto_en": "That's right!\\nRecently, even in tourist areas,\\nthere are river tours using 'SUP.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "River tours?\\nWow, I've never heard of those before.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Yotsuba",
+      "texto_en": "Even in familiar towns,\\npeople are finding new things\\nwhen riding along the river.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Itsuki",
+      "texto_en": "New discoveries...\\nThat might be fun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Futaro",
+      "texto_en": "For now, we can consider it as practice\\nfor getting used to 'SUP.'\\nThat might be a good candidate, don't you think?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Yotsuba",
+      "texto_en": "That's right.\\nWe haven't heard everyone's thoughts yet.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Futaro",
+      "texto_en": "In that case, I'll resume the survey.\\nSee you, Itsuki.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Itsuki",
+      "texto_en": "Right, see you later.",
+      "texto_ptbr": ""
+    }
+  ]
+}

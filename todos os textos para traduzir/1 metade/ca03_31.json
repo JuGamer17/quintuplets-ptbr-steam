@@ -1,0 +1,402 @@
+{
+  "arquivo": "ca03_31",
+  "total": 66,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "Congratulations,\\nUesugi-san and Miku, on winning first place!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Raiha",
+      "texto_en": "Congratulations!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Miku",
+      "texto_en": "Th-thanks...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Hey, you guys.\\nYou guys purposely kept quiet about the kissing part, didn't y'all?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "N-no, it wasn't on purpose!\\nWe just failed to convey the message!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "It's pretty much the same thing!!!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "It wasn't intentional, really.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Ichika",
+      "texto_en": "But that was cool, you know?\\nTaking Miku's hand and running out like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Officiant",
+      "texto_en": "Oh, there you are!\\nHey, sorry about that back there.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Wuh oh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Officiant",
+      "texto_en": "Don't make that face. It's okay.\\nWe just want you to receive your prize for winning.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Prize?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Miku",
+      "texto_en": "...Phew.\\nThanks.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Pheew...\\nThat was heavenly.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Miku",
+      "texto_en": "Yeah, that was really tasty.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Miku",
+      "texto_en": "But, is it really okay?\\nHaving such a wonderful lunch at this nice cafe,\\nwith the terrace all to ourselves.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "It's a prize for winning,\\nso let's graciously accept it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "The breeze feels good...\\nAnd the ocean's right in front of us,\\nwith a beautiful view...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "They said this place is popular around here.\\nI can see why.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Miku",
+      "texto_en": "It'd normally be crowded, right?\\nIt feels like we're really splurging.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Employee",
+      "texto_en": "Excuse me. If you've finished your meal,\\nI can show you to a relaxation spot.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "A relaxation spot?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Employee",
+      "texto_en": "Yes. We've specially prepared something for you two\\nfrom our store.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Miku",
+      "texto_en": "Futaro.\\nLet's use it, since we're here anyway.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, you're right.\\nSorry, could you show us the way?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Miku",
+      "texto_en": "Is this...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "...a hammock?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "W-whoa! This thing is really wobbly, huh?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Miku",
+      "texto_en": "Futaro! You're close! Too close!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "S-sorry!\\nI'll move away right away%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Miku",
+      "texto_en": "Hyaah?!\\nI'm going to fall! Stay still!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "O-okay!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Miku",
+      "texto_en": "...It seems it's best to stay still.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Yep...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Miku",
+      "texto_en": "*sigh*",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Miku",
+      "texto_en": "Certainly, this is a relaxing spot.\\nSwaying in the wind while looking at the sea...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Just looking out at the ocean%p-2;――\\n%p;It's the most luxurious way to spend your time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "However, what about the relaxation part?\\nThis hammock doesn't feel very relaxing to me...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Miku",
+      "texto_en": "It seems like if we stay still, it won't sway.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "That's not what I meant.\\nWell, if you don't mind, then it's not a problem.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Miku",
+      "texto_en": "Ah...\\nThat's what you meant...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Miku",
+      "texto_en": "I-it's no problem.\\nI feel calm when I'm like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "...My heart is pounding non-stop.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Miku",
+      "texto_en": "I'm also really nervous, and my heart is racing.\\nBut I feel%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Miku",
+      "texto_en": "Being next to you, Futaro, helps me calm down.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "I see...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Miku",
+      "texto_en": "...I was really happy earlier.\\nWhen you took my hand and led me out of there.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Miku",
+      "texto_en": "Everyone was expecting the kiss there and then,\\nand I thought you wanted to do it too,\\nso I was thinking we would just...kiss in front of everyone.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Miku",
+      "texto_en": "Then, you said you didn't want to\\nmake a spectacle out of it...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Obviously.\\nI want to cherish it more.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Miku",
+      "texto_en": "Me too.\\nIt's our first kiss as a couple,\\nso I wanted to cherish it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "So, I wonder if it's okay now?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Miku",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Miku",
+      "texto_en": "Yeah, it is.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "...Nn?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "(Mi-ku...?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Miku",
+      "texto_en": "Nn-nnnhh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "(It feels like Miku's arms,\\n which I'm entangled in%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "(Is pleading with me,\\n wanting me to stay in this position.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Miku",
+      "texto_en": "Futaro... I love you...",
+      "texto_ptbr": ""
+    }
+  ]
+}

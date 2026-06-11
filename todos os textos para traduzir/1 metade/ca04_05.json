@@ -1,0 +1,432 @@
+{
+  "arquivo": "ca04_05",
+  "total": 71,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Ichika",
+      "texto_en": "Ahh that was a good swim!\\nI'm totally awake now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Miku",
+      "texto_en": "Ichika, you were just relaxing on a floater,\\nright?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Huff... Puff...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "Are you okay, Uesugi-kun...?\\nYou look like you're out of breath.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Don't worry about it.\\nI was putting too much effort into swimming.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "Don't go too hard.\\nWe still have three more days, you know.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Yotsuba",
+      "texto_en": "Now that everyone is here,\\nshall we start some activities?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Raiha",
+      "texto_en": "What are we gonna do?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Yotsuba",
+      "texto_en": "First, we'll do parasailing!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "Wow, you picked something interesting.\\nSounds fun!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Miku",
+      "texto_en": "What is parasailing, again?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "We ride on a parachute, which is pulled by a motorboat,\\nand the air resistance lifts us up into the sky\\nand the speed of the boat changes our altitude.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Miku",
+      "texto_en": "Say that in English?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "It IS in English!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Umm...\\nWell, it's like flying a kite. \\nJust think of us as being attached to the kite.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Miku",
+      "texto_en": "Oh, like how a ninja sneaks into a castle.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "Is that an okay explanation?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "It seems difficult,\\nbut can beginners do it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Yotsuba",
+      "texto_en": "Don't worry. We signed up for the beginner course,\\nand there will be an instructor with us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "What if we fall into the sea?\\nIt would be dangerous if the parachute sank\\nbecause of the weight of the water, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Yotsuba",
+      "texto_en": "Come on, don't be so worried.\\nI'll go first, to show you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "This is one of Yotsuba's specialties.\\nWatch and learn.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, leave it to me!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "Also, we signed up for the two-person type,\\nso someone else will have to fly with me...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Nino",
+      "texto_en": "Then, Fu-kun, of course.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Yotsuba",
+      "texto_en": "U-Uesugi-san?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "What's with that reaction?\\nIs there some sort of problem?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, no, there's no problem...\\nUesugi-san, what do you think?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "Well, the first flight is the most important.\\nDo whatever you'd like.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Yotsuba",
+      "texto_en": "Okay...\\nYou say I can do whatever I'd like,\\nbut...umm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Miku",
+      "texto_en": "If there's no problem, then why don't you\\ngo with Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Yotsuba",
+      "texto_en": "Okay, then it's settled...\\nI can't wait, Uesugi-san!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, me too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Both",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "Um?\\nNino, Miku? What's wrong?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Miku",
+      "texto_en": "Oh, nothing, really.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Ichika",
+      "texto_en": "Let's decide on the other pairs\\nafter watching them demonstrate.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Ichika",
+      "texto_en": "Come on, Yotsuba.\\nWe have a boat waiting for us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, that's right.\\nEveryone! Over here!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "(After finishing registration, we got on the\\n parasailing boat and headed out to sea\\n under the bright blue sky.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "(We received instructions from the instructor on board,\\n and then, finally...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Instructor",
+      "texto_en": "Are you ready?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Yotsuba",
+      "texto_en": "Yes! Thank you so much for this!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Instructor",
+      "texto_en": "Alright, here we go.\\nEnjoy!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "WOAAAAHH?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Yotsuba",
+      "texto_en": "WAAAOOH!\\nYAHOOOO...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Yotsuba",
+      "texto_en": "Wow, Uesugi-san, this is amazing!\\nWe're climbing higher and higher!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah! We are!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "By the way, Yotsuba!\\nJust how high are we going to go?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahahaha!\\nI asked, but I forgot!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "Why didn't you remember?\\nThat's an important detail, isn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Yotsuba",
+      "texto_en": "Look, over there!\\nThe boat we were on is already way over there!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Hey?!\\nAren't we pretty high up?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Yotsuba",
+      "texto_en": "Hey, everyone, look!\\nRaiha-chan! Are. You. Watching?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "Don't wave your hands!\\nWhat if you fall?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Yotsuba",
+      "texto_en": "Don't worry, we're securely fastened.\\nYou don't even need both hands.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Yotsuba",
+      "texto_en": "Come on, Uesugi-san,\\nit's not scary at all! Do it with me!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "No thanks, I'll pass.\\nIt's not that scary,\\nbut I'll just watch from here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, it looks like we've hit the peak!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "Oohh...\\nMy feet were a little wobbly,\\nbut once we're up here, it doesn't really sway much.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Yotsuba",
+      "texto_en": "Wowww, the horizon looks so far away.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "Hey, you can see pretty far from here, huh!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Yotsuba",
+      "texto_en": "Wowww, the ocean is so beautiful.\\nThis view is like something out of a dream.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "I feel exactly how a bird does.\\nThis is even more fun than I thought it would be.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Yotsuba",
+      "texto_en": "I'm glad we chose parasailing,\\nand it was definitely the right decision to do\\na two-person ride.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "What's that? You're scared to ride alone?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Yotsuba",
+      "texto_en": "No, it's not that. I just thought it would be a shame\\nto have this amazing view all to myself.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Yotsuba",
+      "texto_en": "It's so much more fun to share it with someone else,\\ndon't you think?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Yotsuba",
+      "texto_en": "Ehehe...\\nI'm glad I'm doing this with you, Uesugi-san.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, me too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Yotsuba",
+      "texto_en": "Hey, the wind feels so great!\\nLet's just keep flying higher and higher!",
+      "texto_ptbr": ""
+    }
+  ]
+}

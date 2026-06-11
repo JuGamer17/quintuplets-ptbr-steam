@@ -1,0 +1,174 @@
+{
+  "arquivo": "ca05_09",
+  "total": 28,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Raiha",
+      "texto_en": "It's already evening, huh?\\nTime flew by so quickly.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Yotsuba",
+      "texto_en": "It was really fast,\\nbut it was fun to check out all the shops,\\nwasn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Raiha",
+      "texto_en": "Did you two have fun too?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "Yeah, we had a lot of fun.\\nI was together with\\nF-Futaro the entire time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Nino",
+      "texto_en": "Hmmm.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "Isn't that right, Futaro?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah, that's right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "(As expected, Itsuki is being unusually proactive today,\\n or rather, her energy level is high.\\n It's not a bad thing, but it feels a bit strange...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "Hey, Itsuki.\\nIs it just me, or are you acting a little strange today?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "Huh? What about me is strange?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "I mean, in general.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "It doesn't feel like you're being the usual Itsuki-chan.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Raiha",
+      "texto_en": "Yeah, I guess I can understand that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Yotsuba",
+      "texto_en": "It's not necessarily a bad thing, though,\\nyou know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "(I see. So it's not just me,\\n everyone else is thinking the same thing.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "N-no, that's not true!\\nI'm the same as always!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "Now, I really wonder.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "Anyway, anyway,\\nit's time for our long-awaited dinner!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "We made a reservation,\\nso let's not be late. Let's get goooiiing!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh, Itsuki?\\nWe still have time, so we don't need to hurry%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Itsuki",
+      "texto_en": "I've been resisting the temptation\\nof delicious-looking restaurants just for this moment,\\nso I can't wait any longer!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Miku",
+      "texto_en": "She left.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "I wonder if her priority...is always food.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "(It's true that her energy level\\n usually goes up during meals, but...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "Anyway, let's go after her.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "Yeah, let's hurry and catch up with her.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Yeah. ",
+      "texto_ptbr": ""
+    }
+  ]
+}

@@ -1,0 +1,426 @@
+{
+  "arquivo": "ca02_mv3_02",
+  "total": 70,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Miku, Itsuki.\\nWhat are you looking at?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Miku",
+      "texto_en": "Ah, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "I'm not sure about Nino,\\nbut I don't think it's something\\nthat would interest you, Uesugi-kun...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "What do you mean? You just made me curious.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "No, I didn't mean it in a bad way.\\nI just thought that you're not someone\\nwho would be interested in cosmetics.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Cosmetics?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Oh, cosmetics, yeah, cosmetics.\\nIt depends on the person, but I don't hate cosmetics.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Nino",
+      "texto_en": "That's the same reaction I got from you when you were \\nspeaking about aromas.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "Those are basically skincare products.\\nIt's not food.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "Then why use a foreign word to describe it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Miku",
+      "texto_en": "Nino, this one looks good.\\nIt's a facial toner made with hibiscus.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "Oh, I've never seen that before.\\nThere's such a thing?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "This shop carries cosmetics\\nmade with regional products.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "How about it?\\nWould you like to try it too, Uesugi-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "...Nah, I'll be alright.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Miku",
+      "texto_en": "There's also a beauty oil that smells really good.\\nIt seems to be made with shikuwasa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Woah! This citrus scent is amazing.\\nI thought it was something to eat.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "Please don't eat it, okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "I'm not gonna eat it! I just thought about it!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "They also sell bath salts.\\nThese are made with natural salt from Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "(Now it's salt.\\n How is it different from food?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "It also contains herbs from Okinawa.\\nLet's see here...an herb called gettou?\\nHmm, I've never heard of this either.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "(Now, herbs...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Miku",
+      "texto_en": "Facial toner, or oils...\\nI want to buy one, but which one is better?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "Since you're already here,\\nwhy not buy both?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Miku",
+      "texto_en": "But I still have some that I'm using.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "It's not something that spoils easily,\\nso you could buy it now\\nand use it later, couldn't you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "Ah! This soap is nice too.\\nIt's made with seaweed\\nand makes your skin smooth, they say.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Nino",
+      "texto_en": "I'm interested in that too.\\nApparently combining this soap with the mud pack here\\nis good for your skin.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "(They're really getting into this...\\n It's a world I can't keep up with anymore.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "...Oh!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "I know this one!\\nThis is aroma! Hey, Nino! This is aroma, isn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "Yes, yes, it's an aroma candle.\\nYou remembered it well.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Miku",
+      "texto_en": "He's so happy, just from remembering that...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "Was he feeling lonely\\nbecause he couldn't join in on the conversation?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Nino",
+      "texto_en": "The one I gave to you before, Futaro,\\nhad a fragrance that helps with fatigue recovery%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Nino",
+      "texto_en": "This series seems to have a scent inspired by the sun, sea, \\nand sky of Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "Hey, don't you want to get this one, Futaro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "Even if I did, beats me how to use it...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Nino",
+      "texto_en": "I taught you how to use it before, didn't I?\\nDoesn't it help you relax when you use it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "To be honest, I don't know if it really works.\\nMaybe it's just not for me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Miku",
+      "texto_en": "Is there really such a thing as being suited\\nor not suited for aromatherapy?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "I wonder...\\nIf you're not interested in scents,\\nthen maybe it's not for you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Nino",
+      "texto_en": "But you did like the scent, didn't you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "Well, yeah. It wasn't bad or anything.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Nino",
+      "texto_en": "Okay then, let me choose for you.\\nForget about the relaxation part\\nand let's just enjoy the scent.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Looking at the flame calms me down.\\nThe flickering light draws you in.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "Are you sure you're using it correctly?\\nAromatherapy candles are meant to be enjoyed\\nfor their scent.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "Really?\\nWell, I guess the scent wasn't bad either.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Miku",
+      "texto_en": "It's okay to enjoy the ambiance of the flickering flame.\\nIt's also part of the experience.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Nino",
+      "texto_en": "It's nice to just relax\\nand watch the burning candle in the bath, too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "In the bath, huh?\\nI didn't think of using it like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Nino",
+      "texto_en": "If you like watching the flame, then let's buy one!\\nI'll choose something that I think you'll like, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "Sure, you pick one out for me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Nino",
+      "texto_en": "Leave it to me!\\nWhat kind of scent do you prefer?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "Scent, eh.\\nThe one I got before\\nthat had a relaxing effect wasn't bad.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Nino",
+      "texto_en": "Okay, how about something with a sweeter scent\\nthan that? Do you have a preference?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "I'm not sure about something too sweet.\\nI just want something\\nthat won't interfere with my studies.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Nino",
+      "texto_en": "Hmm, then how about something with a component\\nthat can help boost concentration?\\nI'd say, a mild scent...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "Sorry. Pretty vague instructions, huh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Nino",
+      "texto_en": "No, it's fine.\\nIt's fun to learn more about your preferences like this,\\nFutaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Miku",
+      "texto_en": "Futaro,\\nit's amazing how you do these things unconsciously.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Itsuki",
+      "texto_en": "You forgot about our presence, didn't you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Nino",
+      "texto_en": "If you're looking for relaxation effects,\\nthen lavender, rose, jasmine...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Nino",
+      "texto_en": "Oh, and gettou too, it seems.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Nino",
+      "texto_en": "It is also good for improving concentration and memory...\\nOh yes, it's perfect for you, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "(Nino seems to be having fun.\\n I'm glad I decided to let her choose.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "(...Hm?\\n Wait, does it mean that\\n I'm not the one taking the lead?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "(Pull yourself together, man!)",
+      "texto_ptbr": ""
+    }
+  ]
+}

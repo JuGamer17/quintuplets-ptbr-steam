@@ -1,0 +1,402 @@
+{
+  "arquivo": "ed01_02_02",
+  "total": 66,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Whew...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Ceremony Hall Staff",
+      "texto_en": "You must be worn out.\\nPlease relax for a while until the reception starts.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Ceremony Hall Staff",
+      "texto_en": "After the bride has finished changing,\\nI will let you know.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "E-excuse me.\\nHave you by any chance...seen the bride's sisters?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Ceremony Hall Staff",
+      "texto_en": "Yes.\\nThey have been here since early on.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Is that so.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Ceremony Hall Staff",
+      "texto_en": "Well then, please excuse me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Ah, yes?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Ceremony Hall Staff",
+      "texto_en": "Dear groom.\\nThe bride's family has arrived.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Ah, really?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Great!\\nI was starting to think they wouldn't come.\\nWhy didn't they show up for the ceremony?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "???",
+      "texto_en": "I apologize.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Maruo",
+      "texto_en": "I was considering whether to attend the ceremony or not\\nuntil the last minute.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "D-Dad!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Maruo",
+      "texto_en": "You have no reason to call me 'Dad.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Thank you so much for coming!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "I thought you might not want to see me...\\nI was quite rude when I was younger!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Maruo",
+      "texto_en": "Uesugi-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Y-yes, sir?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Maruo",
+      "texto_en": "I shall ask you straight out.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Maruo",
+      "texto_en": "Is Ichika truly happy, from the bottom of her heart?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Maruo",
+      "texto_en": "Is Nino truly happy, from the bottom of her heart?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Maruo",
+      "texto_en": "Is Miku truly happy, from the bottom of her heart?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Maruo",
+      "texto_en": "Is Yotsuba truly happy, from the bottom of her heart?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Maruo",
+      "texto_en": "Is Itsuki truly happy, from the bottom of her heart?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Yes.\\nAs am I.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Maruo",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Maruo",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Uuh, uumm…?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Maruo",
+      "texto_en": "I'll have some wine.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Huh?\\nAlright...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Here you are, sir.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "...It's been over ten years\\nsince my mother passed away.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Maruo",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "The accident happened\\njust after she opened her dream restaurant.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "All that was left to our family\\nwas a large amount of debt\\nborrowed for the startup capital.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Perhaps half of the reason my Dad\\nrented that empty store to Nino and Miku\\nwas to help them%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "And perhaps the other half\\nwas to entrust my mother's dream to them.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "I want to be a man\\nwho loves one woman for his entire life.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Like both of the dads I know.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Maruo",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Maruo",
+      "texto_en": "Stop it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "Ah, I'm sorry.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Maruo",
+      "texto_en": "I'm not used to you calling me 'Dad.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Ceremony Hall Staff",
+      "texto_en": "Dear groom.\\nThe bride is calling for you. This way, please. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Ah...\\nUm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Maruo",
+      "texto_en": "Go.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Maruo",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Isanari",
+      "texto_en": "Heh-heh-heh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Maruo",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Isanari",
+      "texto_en": "Maruo, my man.\\nWe've gotten old.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Maruo",
+      "texto_en": "Don't associate me with you.\\nI look five years younger than you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Isanari",
+      "texto_en": "What'd you say?!\\nMy skin is still tight!!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Maruo",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Isanari",
+      "texto_en": "You only drink on celebratory occasions, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Maruo",
+      "texto_en": "That's right. That's why I'm drinking now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Isanari",
+      "texto_en": "HA!\\nI see, I see!\\nYou're a lightweight, eh? Don't get drunk.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Maruo",
+      "texto_en": "There's no need to say that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Isanari",
+      "texto_en": "...Hey.\\nDo you think they'll be happy?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Maruo",
+      "texto_en": "Such matters cannot be judged by parents alone.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Maruo",
+      "texto_en": "However, it's certain that it won't be easy.\\nAfter all, your son is marrying into OUR family.",
+      "texto_ptbr": ""
+    }
+  ]
+}

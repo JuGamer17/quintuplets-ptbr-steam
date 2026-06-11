@@ -1,0 +1,186 @@
+{
+  "arquivo": "gr_02_02",
+  "total": 30,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Nino",
+      "texto_en": "Hey, Futaro?\\nLet's take Raiha-chan too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Raiha too?\\nReally?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Nino",
+      "texto_en": "Of course, she's already like family, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "......\\nWell, I guess so, yeah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Ichika",
+      "texto_en": "Great!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Yotsuba",
+      "texto_en": "Hmm.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "What's with you two?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Ichika",
+      "texto_en": "Well, I just thought that hearing 'Futaro' from Nino\\nhas become quite familiar.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san seems to have gotten used to it too.\\nAt first, he was blushing every time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Miku",
+      "texto_en": "That was embarrassing to watch.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Sh-shut up!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Ichika",
+      "texto_en": "Well, not just that,\\nbut to call each other family,\\ncould it be that you two...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "What?!\\nN-no way, Nino... that far?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Miku",
+      "texto_en": "It's okay, they haven't gone that far.\\nNino is reserved in that sense,\\nand Futaro is%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Nino",
+      "texto_en": "H-hold it! Don't make wild assumptions!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "Well, it's heartwarming, isn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "What are you looking at?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Ichika",
+      "texto_en": "A big sister's perspective? Just kidding.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Ichika",
+      "texto_en": "But, Futaro-kun?\\nBe careful not to make Nino uneasy.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "...I know.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "(I don't have to be told that. I know myself\\n that there hasn't been much progress\\n since I confessed my feelings to Nino.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "(I had exams, and I had a job as a tutor.\\n Nino was considerate of me in that regard.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "(I'm done with my exams now, but as long as I\\n go to Tokyo, we'll be forced into a so-called\\n long-distance relationship.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "(I have no doubt about Nino's feelings.\\n But as a beginner in love...\\n to be honest, I'm nothing but anxious.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "(That's why, on this trip, I want to deepen my bond\\n with Nino even more.\\n For that reason...!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "(During this trip! I will KISS HER!!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "(Remember, that guy kissed her before.\\n As they say, love is about taking the initiative...\\n So I'll do as you say, Nino!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, that's right, Uesugi-san,\\ndon't worry about Raiha-chan's travel expenses!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "Since we're the ones inviting her,\\nit's only natural for us to cover the cost.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "O-okay.\\nI feel kinda bad. Thanks for the help.",
+      "texto_ptbr": ""
+    }
+  ]
+}

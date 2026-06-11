@@ -1,0 +1,162 @@
+{
+  "arquivo": "ca02_07",
+  "total": 26,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(After leaving Tinu Beach, we went around the island\\n and visited the power spots recommended by Nino.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(We also enjoyed Okinawan tourism,\\n and delectable seafood for lunch...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(We returned to the front of Ocean Tower again.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "As expected of Okinawa, the seafood was delicious.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Raiha",
+      "texto_en": "It's just too good\\nto be able to eat freshly caught seafood!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Yotsuba",
+      "texto_en": "Teehee, it's only the first day of the trip and there will be\\neven more delicious dishes to have!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Both",
+      "texto_en": "Wowee!!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Miku",
+      "texto_en": "You too, Itsuki?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "That's so her.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "Umm, today we went to Heart Rock at Tinu Beach,\\na cave at Chigunu Beach,\\nand...Tokei Beach.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "Yes, we went around and visited many places.\\nWe must have seen all the famous spots.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "Everywhere we went the ocean was clear and beautiful.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, the view was wonderful, especially with the sunny weather.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "I'm looking forward to seeing the photos later.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Anyway, that's about it for today's sightseeing, huh?\\nConsidering the time to head back,\\nit's probably about time to wrap up.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "Ah! Wait!\\nBefore we go back, can we go to Tinu Beach again?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Did you forget something?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "No, it's not that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Nino",
+      "texto_en": "If we go now, we can see Tinu Beach at dusk.\\nI want to see it as the finishing touch for today.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Ah, I see. The sunset!\\nWe should be able to see it from Tinu Beach.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Ichika",
+      "texto_en": "Wow, I want to see it!\\nIt's got to be beautiful!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Itsuki",
+      "texto_en": "Since we have plenty of time,\\nlet's go as Nino suggested.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Miku",
+      "texto_en": "Okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "I agree too!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Raiha",
+      "texto_en": "Me too!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "All right then,\\nlet's go.",
+      "texto_ptbr": ""
+    }
+  ]
+}

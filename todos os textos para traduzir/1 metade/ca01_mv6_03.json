@@ -1,0 +1,468 @@
+{
+  "arquivo": "ca01_mv6_03",
+  "total": 77,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Itsuki",
+      "texto_en": "Hmm, I see. That's valuable information.\\nThank you, Raiha-chan.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Raiha",
+      "texto_en": "I was curious about it too\\nand was keeping an eye on it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(Information? Keeping an eye on it?\\n I don't understand the details,\\n but I have a bad feeling about it.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Hey, what are you guys talking about?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "Alright, next, please tell me the details of last night.\\nWhat were Uesugi-kun and Ichika doing\\nafter the lights went out%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Hey, what are you talking about?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "U-Uesugi-kun?!\\nDid you catch us?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Hey, Itsuki?\\nWhat were you talking about?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "...It's an investigation into your behavior,\\nUesugi-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "Don't ask Raiha that sort of thing!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Raiha",
+      "texto_en": "It's okay, don't worry, big bro.\\nI just conveyed the facts.\\nThat nothing happened.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*\\nDo people not trust me that much?\\nIt's a bit depressing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "N-no! It's not like that!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "I trust you, Uesugi-kun,\\nand think you're a reliable person.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "However, um...\\nI'm more worried about Ichika, to be honest.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "Well, she's the most mature and adult-like among us,\\nso...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "And?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "P-please don't make me say more than this!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "You were the one trying to say something though...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "Anyway, Uesugi-kun.\\nThere's something I wanted to ask you\\nwhile we're at it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "What is it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "You're planning to move to Tokyo\\nright after this graduation trip, right?\\nWhat are your plans after that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "After that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "For example, how often do you plan\\nto come back to your hometown?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "I don't know.\\nIt depends on how busy I am with university.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "Then...have you thought about what kind of room\\nyou want to live in?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "What kind?\\nWell, a typical one-person apartment%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "I mean, it'll be a one-person apartment\\nthat fits my economic situation.\\nIt might be quite different from your idea.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "I see...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "So, what kind of lifestyle\\nare you planning to have in your new life?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Lifestyle? It depends on my situation in university.\\nI won't know until I start.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "R-right!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Itsuki",
+      "texto_en": "U-um, well, what kind of bed\\ndo you plan on having in your room?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "What's the point of asking something like that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "...I don't know, what's the point indeed?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Repeating the same question won't help me answer yours.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "Then, are you planning to work in Tokyo\\nafter graduation?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "I don't know that either.\\nIt depends on what kind of job I get.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Itsuki",
+      "texto_en": "Oooohh...\\nIt seems like you don't know anything.\\nWhat do you know, then?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "I'd like to help you but I can't...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "What are you trying to say, exactly?\\nI don't know what you're asking, so I can't answer.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "But that's obvious, isn't it?\\nWhat I want to know is%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "AAH?!\\nN-no what I want to say is, ummmm!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "What is it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "I-I wonder?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Don't ask me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "I tried to ask a lot of things,\\nbut it didn't go well at all...\\nI thought I could be of help to Ichika...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "Itsuki? What's wrong?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Is it that you're worried about your future?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "Eh? Why do you ask?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "You asked about my future vision,\\nbecause you're anxious about your own future, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, that's what you meant.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "It's difficult for me to answer questions about myself,\\nbut I'll be happy to help you with your concerns.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "You don't have to ask in such a roundabout way,\\nas your guys' tutor I'll help you%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Itsuki",
+      "texto_en": "No, it's not anything like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "Is that so? Then what is it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Itsuki",
+      "texto_en": "U-um, well...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Itsuki",
+      "texto_en": "I tried to ask a lot of things,\\nbut it didn't go well at all...\\nI thought I could be of help to Ichika...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "Itsuki? What's wrong?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "I plan to focus on my university life first,\\nbecause there are so many uncertainties \\nregarding the future.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Itsuki",
+      "texto_en": "Ah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "After I study what I need to study,\\nI will figure out what job will suit me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Itsuki",
+      "texto_en": "That's what I thought...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "Anyway, that's my answer to your question\\nabout my job hunting plan.\\nIs that enough?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, you answered my question perfectly.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun,\\nI didn't know you were thinking about your future\\nthis much.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "Obviously.\\nI'm not going to university on a whim.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Itsuki",
+      "texto_en": "I tried to ask a lot of things,\\nbut it didn't go well at all...\\nI thought I could be of help to Ichika...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "Itsuki? What's wrong?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Itsuki",
+      "texto_en": "Raiha-chan! Let's go swimming!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Raiha",
+      "texto_en": "Wha?\\nWe can go swim,\\nbut didn't you want to go ask big bro some stuff?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Itsuki",
+      "texto_en": "It's fine.\\nWhat I need to do right now\\nis cool my head with seawater.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Itsuki",
+      "texto_en": "Right, let's go!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Raiha",
+      "texto_en": "Ah, wait, Itsuki-saaan!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Futaro",
+      "texto_en": "(...What was that all about?)",
+      "texto_ptbr": ""
+    }
+  ]
+}

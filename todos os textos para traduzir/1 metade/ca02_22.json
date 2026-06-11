@@ -1,0 +1,552 @@
+{
+  "arquivo": "ca02_22",
+  "total": 91,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Ichika",
+      "texto_en": "Phew, I made some good deals.\\nI have all the souvenirs I need!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Raiha",
+      "texto_en": "Me too!\\nI was able to buy something perfect\\nfor my school friends.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Miku",
+      "texto_en": "Did anyone buy a souvenir for Dad?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, I bought him a ryukyu glass paperweight.\\nIt seems like something he could use for work too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Yotsuba",
+      "texto_en": "I see, you decided to go with a paperweight after all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "(Before I knew it, it was time to meet up.\\n I wanted to lead Nino,\\n but I haven't done anything...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "(At this rate, I won't be able to show Nino\\n the kind of man I am.\\n Dammit, how pathetic!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Nino",
+      "texto_en": "Hey, can I talk to you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Miku",
+      "texto_en": "What?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "I found a place nearby\\nwhere you can try your hand at making shisa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "It doesn't seem to take that much time either.\\nDo you want to go?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "(Making shisa?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Raiha",
+      "texto_en": "Shisa are the lion-dogs\\nthat are often placed at entrances\\nor on roofs, right? Can you actually make them?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "Yeah.\\nOf course, they're not very big,\\nthey're about the size of your palm.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Miku",
+      "texto_en": "That sounds like fun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Yotsuba",
+      "texto_en": "If we all made them, that'd be a great memory.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, I agree.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "How about you, Futaro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Of course, I'm in!\\nI'll make the most lively shisa ever!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "What's a lively shisa?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Miku",
+      "texto_en": "I can tell you're enthusiastic, Futaro...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Miku",
+      "texto_en": "But, did you like making things like this?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah!\\nIsn't it fun to create something on your own?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "Teehee, it is.\\nRight, let's go then!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Alright...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "(Now's my chance to show Nino\\n my aesthetic sense!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "(I'm not even leading her!\\n And this isn't about showing her the kind of man I am.\\n NO! This is a matter of my pride and dignity!!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun?\\nWhy do you have such a scary expression?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "It's a sign of my determination.\\nJust watch, I'll make the best one there is!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "*sigh*",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "(We headed straight to the shisa-making shop\\n and completed the necessary procedures.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "(It turned out that the shisa could be made in about an hour \\n and taken home with us.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "(While receiving careful guidance from the staff,\\n everyone made their own shisa in their own way%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "That was fun.\\nI didn't think they would be so easy to make.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Yotsuba",
+      "texto_en": "Hey, hey, what does your shisa look like, Itsuki?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "This is mine.\\nI tried to make it just like the model,\\nbut what do you think?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Ichika",
+      "texto_en": "Wow! You did a great job.\\nIt looks just like the shisa sold in the store.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Miku",
+      "texto_en": "Yes, exactly like it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Itsuki",
+      "texto_en": "Thanks.\\nWhat kind of shisa did you make, Ichika?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Ichika",
+      "texto_en": "Ta-da!\\nIntroducing the sprawling shisa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Raiha",
+      "texto_en": "Ahaha, it's really lying down!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Miku",
+      "texto_en": "That's so you, Ichika.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Ichika",
+      "texto_en": "Hehe, it's nice, isn't it?\\nI thought I'd make a shisa\\nthat would protect my sleep.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Nino",
+      "texto_en": "If it's sleeping, it won't protect you, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "That's true.\\nThis little one seems like\\nit would end up sleeping with Ichika.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Ichika",
+      "texto_en": "Oh my, it turned into a cuddling shisa, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Ichika",
+      "texto_en": "Hey, how's yours, Miku?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Miku",
+      "texto_en": "Here's mine.\\nI tried putting armor on it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Ichika",
+      "texto_en": "Wow, this is quite unique.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "It really feels like it's a charm.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Raiha",
+      "texto_en": "Even though you're quintuplets,\\nthe ones you made turned out completely different.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Nino",
+      "texto_en": "Well, our preferences are completely different.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Raiha",
+      "texto_en": "How about yours, Nino-san?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Nino",
+      "texto_en": "I tried making mine more deformed than the model.\\nWhat do you think?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Raiha",
+      "texto_en": "Wow, it's so cute!\\nThis could actually be an existing character!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Miku",
+      "texto_en": "Yeah, it could even be a local mascot.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Yotsuba",
+      "texto_en": "The merch for that would sell well.\\nI'd buy it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Nino",
+      "texto_en": "Wh-what's with all the compliments?\\nIt's making me uncomfortable.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Itsuki",
+      "texto_en": "That's how good your taste is, Nino.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, we aren't kidding you right now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Nino",
+      "texto_en": "Th-thanks.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Nino",
+      "texto_en": "And, what about you, Futaro?\\nWhat kind of shisa did you make?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "Ooh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Ichika",
+      "texto_en": "Futaro-kun, you've been quiet this whole time.\\nDo you have so much confidence in your skills?\\nAre you gonna show off...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Ichika",
+      "texto_en": "Ah, you messed it up, didn't you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "Hey...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Itsuki",
+      "texto_en": "This is...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "I mean, if you wanna laugh, just laugh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Itsuki",
+      "texto_en": "How could I!\\nI wouldn't dare laugh at something\\nyou worked hard to make in your own way!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "(Ugh...\\n Itsuki's full-on support is actually painful!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Ichika",
+      "texto_en": "I mean, this has its own unique style, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Miku",
+      "texto_en": "I'm sure this is what they call surrealism.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Futaro",
+      "texto_en": "You're saying that without even knowing the meaning.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Miku",
+      "texto_en": "Then, cubism.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Futaro",
+      "texto_en": "Stop enumerating art movements like that!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Raiha",
+      "texto_en": "You should've just followed the example\\nwithout forcing anything.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, you're right.\\nI got a little too carried away.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Futaro",
+      "texto_en": "(I was trying to show off my sense of style,\\n but ended up getting lost in the process,\\n and this is the result of hitting a dead end.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Futaro",
+      "texto_en": "(What's Nino thinking about that...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Nino",
+      "texto_en": "Well, that's just how you are, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Futaro",
+      "texto_en": "(How I am...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 84,
+      "personagem": "Futaro",
+      "texto_en": "(What is she trying to tell me?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 85,
+      "personagem": "Futaro",
+      "texto_en": "(I can't even lead Nino, and I'm completely useless\\n at anything other than studying...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 86,
+      "personagem": "Futaro",
+      "texto_en": "To be honest,\\nI think I'll just disappoint you from now on.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 87,
+      "personagem": "Nino",
+      "texto_en": "I fell in love with you because you're you, Fu-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 88,
+      "personagem": "Futaro",
+      "texto_en": "(Could it be that Nino\\n has just accepted me for who I am...?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 89,
+      "personagem": "Nino",
+      "texto_en": "Futaro? What's wrong?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 90,
+      "personagem": "Futaro",
+      "texto_en": "No, nothing.",
+      "texto_ptbr": ""
+    }
+  ]
+}

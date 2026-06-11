@@ -1,0 +1,354 @@
+{
+  "arquivo": "ca06_23",
+  "total": 58,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun, look at this.\\nDon't you think this dolphin stuffed animal is cute?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, but still, it's hard to choose\\nwhen this whale shark here is also so appealing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "If we're talking about a souvenir\\nfrom Churaumi Aquarium, then I think\\nthe whale shark is the way to go, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "There aren't any regular\\nshark stuffed animals, huh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Well, a whale shark is still a shark.\\nLet's include it in the group.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "This 'chinsuko' biscuit is also shaped like a whale shark.\\nAre we able to sample it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Hey, didn't you just eat a sweet potato tart earlier?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, I did. And it was really delicious, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "You're the one who ate it though...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "(I was too naive...!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "(I thought I could do it earlier,\\n but while we were moving around,\\n they all got shuffled about.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "(Even if I get a hint to figure them out,\\n it can't be maintained and I have to start over\\n from scratch every time the location changes...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun?\\nWhy do you look so troubled?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "...It's nothing. I just wonder if this is how it feels \\nto have the stones you worked so hard to pile up \\nonly to have someone knock them down on a whim. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "What now?\\nWere you building something with stones somewhere?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "It's a metaphor. Don't worry about it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun, why don't you buy something\\nas a souvenir for Raiha-chan, too?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "Look! There are plenty of cute things here\\nthat a girl would love.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "(If she's concerned about Raiha,\\n maybe it's something to do with Yotsuba or Itsuki?\\n No, this cute stuff might be Nino's specialty.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "(Are there any other hints around here...?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Bright Girl",
+      "texto_en": "Hey, look over there!\\nAll those girls are wearing the same clothes.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "...Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Energetic Girl",
+      "texto_en": "Are they sisters?\\nThey all look exactly alike.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "(Probably talking about the quintuplets.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "(If they approach us again, it'll be a hassle.\\n It might be best to give up on souvenir shopping here\\n and leave early.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Vain Guy",
+      "texto_en": "Is that so? They do look alike,\\nbut if you look closely,\\nthere are differences, aren't there?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "?!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Bright Girl",
+      "texto_en": "Huh, you can tell them apart?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Vain Guy",
+      "texto_en": "Wh-what's the big deal?\\nIt's easy to tell with a quick glance.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Bright Girl",
+      "texto_en": "Ohh, really? I don't see it.\\nCan you tell me what the difference is?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "(No way...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Vain Guy",
+      "texto_en": "Well, um... It's difficult to explain,\\nor rather... You should be able to see it\\nwithout me having to explain it?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Bright Girl",
+      "texto_en": "Ahaha!\\nYou actually can't do it at all, huh.\\nHow embarrassing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "(Haah...\\n Geez, seriously.\\n Trying to show off and all.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "(If it were that easy,\\n I wouldn't have gone through all this trouble...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "Um... Uesugi-kun, can I talk to you for a moment?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, I already noticed without you saying anything.\\nThis doesn't look good.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "A crowd of onlookers is gathering quickly.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Energetic Girl",
+      "texto_en": "I mean, I can't tell them apart at all.\\nThey might actually be five identical people.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Bright Girl",
+      "texto_en": "There's no way they're exactly the same.\\nTheir body shape should at least be different, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Energetic Girl",
+      "texto_en": "Oh, could this be for some kind of shoot?\\nGathering people in the same outfit?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Bright Girl",
+      "texto_en": "Wow, really?!\\nMaybe there are hidden TV cameras or something?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "Uwaa, this could get bad.\\nItsuki-chan, let me hide behind your back a second.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, okay.\\nGo ahead.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "Wait, but we're all wearing the same thing right now,\\naren't we?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun, this is getting really dangerous.\\nIt might become even more of a commotion\\nthan yesterday...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, you're right.\\nWe need to get out of here before it gets any worse%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Bright Girl",
+      "texto_en": "Hey, don't those girls\\nlook a bit like the actress Nakano Ichika?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Vain Guy",
+      "texto_en": "Ah! They do look alike!\\nWait, doesn't Nakano Ichika have sisters?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "Wha?\\nThey just said Ichika...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "Oh no, did we get caught?\\nYou guys, we're getting out of here, now!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "Yeah, let's hurry!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Itsuki",
+      "texto_en": "Ichika, let's go.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Itsuki",
+      "texto_en": "Sorry about this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Itsuki",
+      "texto_en": "It's fine, just hurry up, hurry up!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "Okay, everyone's gone.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "(*sigh*\\n Quintuplets are really, such a pain.)",
+      "texto_ptbr": ""
+    }
+  ]
+}

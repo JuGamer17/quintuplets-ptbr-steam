@@ -1,0 +1,534 @@
+{
+  "arquivo": "ca04_02",
+  "total": 88,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "Raiha-chan, how was dinner?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Raiha",
+      "texto_en": "It was super delicious! I'm so full!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "I couldn't quite tell what some of the dishes were,\\nbut they were all really tasty.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Raiha",
+      "texto_en": "Okinawan cuisine often uses unusual ingredients,\\ndoesn't it.\\nThough that is what it's famous for.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Yotsuba",
+      "texto_en": "The cake for dessert was also amazing!\\nIt was so good that it surprised Itsuki.\\nNow that's a good cake!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "(After dinner, Raiha invited me to their room,\\n and they were even more energetic than usual.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "(We're staying at a luxurious hotel, and dining\\n at a restaurant. Plus, we're starting our sightseeing\\n tomorrow...it's no wonder they're so excited.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Raiha",
+      "texto_en": "But, is it okay to be having this much fun\\non the first day?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Yotsuba",
+      "texto_en": "It's okay, Raiha-chan.\\nWe came here to have fun, after all!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Yotsuba",
+      "texto_en": "This trip is an extravagant adventure\\nfilled with exciting activities,\\nso there's still room to have more fun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Raiha",
+      "texto_en": "An extravagant adventure, huh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Raiha",
+      "texto_en": "Oh, that reminds me, let's review\\nthe travel guide that Yotsuba-san made.\\nI'll go get it!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Yotsuba, thank you for inviting Raiha.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Yotsuba",
+      "texto_en": "Don't worry about it, I only suggested it.\\nIchika and the others were the ones who\\nagreed to it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "I see. It's just that...\\nAfter that, it seems\\nthings with your sisters have gotten better.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "(After I confessed,\\n things were awkward for a while...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Yotsuba",
+      "texto_en": "Okay.\\nI'm sorry for worrying you\\nso much back then.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "There's no need to apologize.\\nBesides, it's not easy for family members\\nto discuss and resolve issues like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Yotsuba",
+      "texto_en": "That's right...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "Of course, things have changed since then, you know?\\nBut everything's okay now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Yotsuba",
+      "texto_en": "Cause, like...\\nThanks to everyone.\\nI can be next to you now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Yotsuba",
+      "texto_en": "Just like how I was able to change,\\neveryone else is moving forward too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "I see.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "Ehehe...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Raiha",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "...R-Raiha?\\nWhy are you grinning like that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Raiha",
+      "texto_en": "I was just thinking, you two get along so well.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Yotsuba",
+      "texto_en": "U-umm, I guess so...\\nAhahaha...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Raiha",
+      "texto_en": "Hey, hey, Yotsuba-san.\\nWhat did big bro say when he confessed?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "PFFTUH?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Yotsuba",
+      "texto_en": "FWEEH?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "H-h-hold on a sec!\\nYou can't just ask that in front of me!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Raiha",
+      "texto_en": "Oh, okay. Then, if big bro isn't here,\\nwill you tell me?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "W-what?! No way! And Yotsuba,\\ndon't just blurt things out\\nbecause Raiha asked you to, okay?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Yotsuba",
+      "texto_en": "I'm in total agreement with him.\\nI'm sorry, Raiha-chan.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Raiha",
+      "texto_en": "Booo, you're so STINGY, big bro!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Some things I just won't let up on,\\neven if you hit me with a pillow.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Raiha",
+      "texto_en": "I won't stop until you surrender, big bro!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "Ha-ha-ha! Do you really think that kind of attack\\nwill work on me?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "(I don't want Raiha to hear about my embarrassments.\\n If I wait a little longer, she'll get tired and give\\n up, and then we can talk about something else...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Raiha",
+      "texto_en": "Huh?\\nSay, Yotsuba-san?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Yotsuba",
+      "texto_en": "Yes, what is it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Raiha",
+      "texto_en": "Why are there so many pillows here?\\nWe only need two, one for me and one for you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Yotsuba",
+      "texto_en": "W-well, um... I asked the hotel\\nto prepare them for us...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Raiha",
+      "texto_en": "Ah! Could it be that you were planning\\nto stay in this room, big bro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "PFFTUH?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Yotsuba",
+      "texto_en": "WHAAA?!\\nThat's not it! Not it at all!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "(Oh, it's not... I see...\\n Wait, why am I disappointed?!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Yotsuba",
+      "texto_en": "Um, this is a bit embarrassing to admit, but...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Yotsuba",
+      "texto_en": "Actually, I'm a really bad sleeper.\\nSo I always put another pillow at the foot of the bed\\nwhen I sleep.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Yotsuba",
+      "texto_en": "Like, if there are pillows on both ends of the bed,\\nI don't have to worry about changing positions\\nwhile I sleep.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Raiha",
+      "texto_en": "Oh, so that's why.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "I wonder how bad your sleep has to be\\nto come up with an idea like that...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Yotsuba",
+      "texto_en": "It's not like I do it on purpose, you know.\\nWhen we were living in an apartment,\\nI was often scolded by Miku, who slept next to me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Raiha",
+      "texto_en": "Hmm.\\nThat means you'll be in big trouble, big bro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "My sleeping position isn't that bad, you know.\\nYou know that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Raiha",
+      "texto_en": "That's not what I meant.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Raiha",
+      "texto_en": "*sigh*\\nBig bro, the ignorance you have of your own\\nlove life isn't so easily fixed, is it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "...Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Raiha",
+      "texto_en": "After hearing about you two,\\nI was thinking I'd get to see what it would be like\\nto date someone.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Raiha",
+      "texto_en": "But, when I see\\nthe two of you together, it's a little different.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Raiha",
+      "texto_en": "Big bro and Yotsuba-san, it's like you're\\nmore good friends than lovers.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "...So, that's how it looks, eh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahaha... Nino and Miku\\nsay the same thing to me all the time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Raiha",
+      "texto_en": "Ah, but! There's no right way to date,\\nand if it works for you two,\\nthen that's what's important.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Yotsuba",
+      "texto_en": "*sigh*\\nYou really are mature, Raiha-chan.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "You're almost in college, aren't you? Yotsuba?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Yotsuba",
+      "texto_en": "Uwaaa that's right!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "(And yet...it's like we're friends, huh?\\n Even Raiha's saying that.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "(Certainly, as we are now, I feel\\n like we can't really be seen as lovers.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "(Then, we really do need to deepen our relationship\\n on this trip, and maybe I should take the lead\\n and finally kiss her...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Raiha",
+      "texto_en": "That's right. Yotsuba-san is also going to college,\\nso you two need to be more proactive.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Yotsuba",
+      "texto_en": "P-proactive?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Raiha",
+      "texto_en": "Like, kissing big bro%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Yotsuba",
+      "texto_en": "C-can we change the topic?!\\nWhy don't we talk about it tomorrow, huh?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Yotsuba",
+      "texto_en": "Tomorrow is the main event of this trip!\\nWe're going the beach!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Raiha",
+      "texto_en": "Wow, an Okinawan beach.\\nIt must be really beautiful.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Yotsuba",
+      "texto_en": "You should look forward to tomorrow Raiha-chan.\\nWe have a barbecue and a lot of beach activities\\nplanned for everyone.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Raiha",
+      "texto_en": "Yeah!\\nHey, what kind of activities are we going to do?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Yotsuba",
+      "texto_en": "Hee-hee.\\nThat's a surprise for tomorrow.\\nI'm sure you'll love it though!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Yotsuba",
+      "texto_en": "This is a commemorative trip \\ncelebrating our graduation after all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Yotsuba",
+      "texto_en": "I'm gonna make this the best trip\\nthat no one will forget!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Futaro",
+      "texto_en": "I see.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Futaro",
+      "texto_en": "(That's Yotsuba for you...\\n In that respect, she hasn't changed at all.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 84,
+      "personagem": "Futaro",
+      "texto_en": "(Maybe...I'm just a little too tense.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 85,
+      "personagem": "Futaro",
+      "texto_en": "(Our graduation trip has just begun.\\n First, let's make fun memories together\\n just like Yotsuba wants.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 86,
+      "personagem": "Futaro",
+      "texto_en": "All right, the main event starts tomorrow!\\nDon't oversleep, either of you!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 87,
+      "personagem": "Both",
+      "texto_en": "Yeah!",
+      "texto_ptbr": ""
+    }
+  ]
+}

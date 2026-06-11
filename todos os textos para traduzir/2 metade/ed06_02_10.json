@@ -1,0 +1,432 @@
+{
+  "arquivo": "ed06_02_10",
+  "total": 71,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(Was this the meeting place?\\n I'm pretty sure it was here?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "Sorry for keeping you waiting, Uesugi-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Nah, I just got here too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "I'm sorry for dragging you around\\nwhile you're back home.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "No need to apologize.\\nIt's only natural for me to spend time helping you out.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Besides, if I study at home,\\nRaiha always complains.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "Wait, are you saying that you were\\nworking on school assignments\\nwhile you were at your parent's home?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "I always say that a student's job is studying,\\nand that doesn't change,\\neven when you're a university student.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "Teehee! You're still the same as always.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "But, studying isn't the only thing\\nthat's important in life.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Right now, the time I spend with you\\nis more important.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "R-really? Thank you...so much.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "So, what are we going to do now?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "What do you mean...now? Um, well...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "We're gonna go announce it, right?\\nDo you need to go somewhere else first?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "No, I don't! We'll head straight there.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "Shall we go, then?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "(...This is the second time I've come here, huh.\\n I remember standing here with Itsuki\\n during that time, too.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "Mother, I know I'm late in telling you.\\nBut, I was able to enter the university\\nI was aiming for.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Itsuki",
+      "texto_en": "I've only just taken the first step towards my dream\\nof becoming a teacher...but I'll do my best\\nto become a teacher like you, Mother.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "So please, watch over me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "(Come to think of it, Itsuki told me about her dream\\n of becoming a teacher here, too.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "I couldn't have made it this far\\nwithout Uesugi-kun's help.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "What? Why are you suddenly saying that?\\nIt's weird.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "Mom, this is the blunt and tactless guy\\nI'm currently dating, Uesugi Futaro-san.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "He's a little awkward and lacks delicacy,\\nbut don't worry.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "I've made sure he's the right person for me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "...I should probably introduce myself too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "Yes.\\nI'm sure Mother will be happy too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Mom%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "You have no reason to call her, 'Mom.' Not yet.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "...How else should I refer to her?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "That's true. Well then,\\nlet's consider this time as a special occasion.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "(...So it's a 'not yet,' huh?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Now, let me try again.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Mom, I apologize for the late introduction.\\nI am Uesugi Futaro,\\nthe person currently dating your daughter.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "I'm still just a humble university student%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "But I promise that I will make Itsuki happy!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "Wha?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "So, please watch over Itsuki and I\\nas we continue on our path!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "W-why are you suddenly%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "What's wrong?\\nI just announced my determination to your mom.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Itsuki",
+      "texto_en": "Even if you're going to report it,\\nthere's no need to shout like that...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "I made up my mind and said it.\\nIt would be troublesome if she didn't hear it, you know.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, come on...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "Hey, there's no need to rush like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Itsuki",
+      "texto_en": "Who do you think is at fault here?\\nIt's because you're being rude!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "For sure, it wasn't a good idea to raise my voice\\nin the cemetery. I regret it now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "You should!\\nJust thinking about how much it echoed around...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "When you put it that way,\\nI'm starting to feel a bit embarrassed too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "NOW, you start to feel so?\\nIf you think so, then please be careful from now on.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Itsuki",
+      "texto_en": "Although there were some...issues,\\nI'm glad I could announce various things to Mother.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "Today's announcement had a special meaning for you, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Itsuki",
+      "texto_en": "Which one are you talking about?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "Huh?\\nI mean, the university acceptance...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Itsuki",
+      "texto_en": "To me, both are important.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "Ah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Itsuki",
+      "texto_en": "Your announcement is important too.\\nI think Mother would be happy about it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "...If that's the case, I'm happy too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun.\\nPlease continue to take care of me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah, of course. Likewise.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "A-alright! Let's go back to the apartment and study!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "You still have some assignments you don't understand,\\nright?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Itsuki",
+      "texto_en": "That's right.\\nI apologize for involving you in studying\\nduring your visit home.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "I'll say it again, there's no need to apologize.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "I'm happy to dedicate time for you, in any form.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Itsuki",
+      "texto_en": "I feel the same way.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Itsuki",
+      "texto_en": "Any time spent with you is precious to me,\\nregardless of the circumstances.",
+      "texto_ptbr": ""
+    }
+  ]
+}

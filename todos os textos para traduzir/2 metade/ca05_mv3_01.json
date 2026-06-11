@@ -1,0 +1,336 @@
+{
+  "arquivo": "ca05_mv3_01",
+  "total": 55,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, look.\\nSeems there's a facility called the 'Sea Turtle House.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Wow, so there's a separate building\\nfrom Churaumi Aquarium?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "I also associate sea turtles with Okinawa.\\nWhat about you, Uesugi-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Sea turtles, huh...\\nI suppose?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "By the way, there are places\\non the main island of Okinawa\\nwhere you can swim with sea turtles.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "I've seen sea turtles swimming on TV and the Internet,\\nand they look very graceful.\\nIt's like they're flying in the air.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Although their movements may look relaxed,\\ntheir swimming speed is surprisingly fast.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "Huh? How fast are they?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Like, around ten kilometers per hour...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "...Is that like how fast jogging is?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Nah, that's like running, more than jogging.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Itsuki",
+      "texto_en": "That's quite fast. To keep up with a sea turtle,\\nyou would need to swim at that speed, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Well, if you think about it in basic terms,\\nthat would be the case.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "If you think about it in that way, \\nsea turtles may not exactly be the most graceful...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "It was just a fantasy.\\nWell, the sea turtles would probably be troubled\\nif we imposed our human image on them.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "For sure...\\nIt was only just a thought.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "...Hm?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "What's up?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "They ARE creatures of the sea.\\nComparing them to humans\\nis a strange thing to do in the first place.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "That's right.\\nThe environments where we live are different after all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "The sea turtles may be thinking\\nabout just how slow and clumsy humans are.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Itsuki",
+      "texto_en": "...Hm?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "What's up?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "They don't always swim fast.\\nThere must be moments of elegance.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Their swimming style would surely vary\\ndepending on whether they're in a dangerous situation,\\nlike being chased by an enemy, or in a safe environment.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Itsuki",
+      "texto_en": "Now that you mention it, that's true.\\nIt would be exhausting to always swim at full speed.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "When we swim with sea turtles,\\nwe need to approach them gently\\nso as not to be perceived as a threat.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "...Hm?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "What's up?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "If we imagine the scenario where the fisherman \\nfrom that one fairy tale, Urashima Taro,\\nis riding on a turtle%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "If the turtle is swimming at a speed of ten\\nkilometers per hour, he would be thrown off\\ndue to the resistance of the water, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "That's a fairy tale for a reason.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "That's why I said,\\nit's just a hypothetical scenario, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "It's too hypothetical.\\nIf we're going to talk about it, we should first ask\\nwhether it's even possible to breathe underwater.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "...Yeah, you're right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Well, if we had to come up with a reason...\\nMaybe the turtle was considerate of its fisherman rescuer?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "Or, perhaps it was just a naturally relaxed turtle\\nthat always swam leisurely.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "However, it would've taken too long\\nto get to their destination, Ryugu Castle.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, he would have turned into an old man\\nbefore he arrived, without the magic box that kept him young.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Ah! Maybe there was a warp pad?\\nA mechanism, perhaps,\\nthat shortened the distance to Ryugu Castle.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "If we could create a mechanism like the magic box\\nthat speeds up time,\\nmaybe we could do that%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Wait, why am I even considering this all so seriously...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "Teehee!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "Kkh! Don't laugh!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Itsuki",
+      "texto_en": "No, but%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "For some reason,\\nI thought you were cute just now, Uesugi-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Cute...\\nThat's not something you should say to a guy.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "R-right!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Itsuki",
+      "texto_en": "W-well, if I were to swim with the turtles,\\nI'd like to meet a relaxed one too!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Do you really want to swim with the turtles that badly?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, if possible.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Itsuki",
+      "texto_en": "I considered it as an option for this trip,\\nbut the timing of the tour reservation didn't work out.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "That's too bad.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Itsuki",
+      "texto_en": "But, I haven't given up.\\nEven if it's impossible this time, someday...\\nfor sure.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, I hope that comes true.",
+      "texto_ptbr": ""
+    }
+  ]
+}

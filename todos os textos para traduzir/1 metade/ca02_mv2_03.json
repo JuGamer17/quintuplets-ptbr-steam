@@ -1,0 +1,456 @@
+{
+  "arquivo": "ca02_mv2_03",
+  "total": 75,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Hey, Miku and Raiha.\\nWere you resting here?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Raiha",
+      "texto_en": "Ah, big bro.\\nDid you come here to take a break too?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Not really for a break, I just came to see you guys.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Miku",
+      "texto_en": "Well, shall we take a break together, Futaro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Sure, why not?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Miku",
+      "texto_en": "Raiha-chan, did you get tired\\nfrom swimming with Yotsuba?\\nAre you okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Raiha",
+      "texto_en": "I'm fine, but Itsuki-san swam with us too and got\\ntotally annihilated.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Oh, she was quite exhausted.\\nBut Nino took care of her,\\nso I think she's okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Raiha",
+      "texto_en": "I was surprised that Yotsuba-san swam\\nwithout getting out of breath!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Raiha",
+      "texto_en": "I heard she's good at sports,\\nbut now she is as fast as an athlete.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Miku",
+      "texto_en": "Yotsuba joined various sports clubs and set records.\\nIn a way, she's already an athlete.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "Yeah, that's right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "She said that she wanted a break herself,\\nso maybe she's resting somewhere.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Raiha",
+      "texto_en": "I was surprised that Yotsuba-san swam\\nwithout getting out of breath!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Raiha",
+      "texto_en": "I heard she's good at sports,\\nbut she's like an athlete now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Miku",
+      "texto_en": "Yotsuba has participated in various sports clubs\\nand set records.\\nIn a way, she's already like an athlete.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "As a result, she even got recommended\\nto a sports academy. That's amazing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Raiha",
+      "texto_en": "Wowww.\\nYotsuba-san might become a professional athlete\\nin the future.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "Yotsuba, as a pro athlete...\\nI'd never imagined that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "The scary thing about Yotsuba is that even becoming an \\nathlete is not impossible.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Raiha",
+      "texto_en": "She could even be a competitive swimmer!\\nTo be able to swim THAT well is mind boggling.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Indeed. However, it's surprising\\nthat we are allowed to swim in the ocean \\nat this time of the year.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Miku",
+      "texto_en": "In Honshu, it's still too cold to swim.\\nIt's amazing how the temperature can differ so much even in \\nthe same country.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Miku",
+      "texto_en": "If the temperature is this high at this time of year, \\nit would be too hot and dry in mid-summer.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Come to think of it. I read that somewhere in Okinawa,\\nin the height of summer, you can actually get burned\\nby the sun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Raiha",
+      "texto_en": "What? Then you can't even walk outside, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, that's why sunscreen and parasols are essential.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Miku",
+      "texto_en": "The environment is really different.\\nIt was a good decision to come to Okinawa\\nduring this time of the year.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "Okinawa IS a subtropical region, \\nbut some parts have a tropical climate.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "By the way, Honshu has a mostly warm humid climate.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Miku",
+      "texto_en": "I learned that in class.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Wow, what we learn in class\\ncan be useful in our daily lives!\\nAmazing, eh?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Raiha",
+      "texto_en": "Come on...\\nYou always manage to connect everything and anything\\nback to studying, don't you, big bro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Miku",
+      "texto_en": "Anyway, let's make sure to apply sunscreen properly.\\nRaiha-chan, you also swam in the ocean,\\nso it's better to reapply it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Raiha",
+      "texto_en": "Okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Miku",
+      "texto_en": "Futaro, make sure you do it properly too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, it's a hassle,\\nbut it's necessary to protect ourselves.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "It's nice that there are fewer people around.\\nWe can enjoy the beach at our own leisure.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Miku",
+      "texto_en": "Indeed. I thought there would be more people\\nsince this is a tourist spot.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Miku",
+      "texto_en": "There aren't so many people that we're unable to swim,\\nand we can relax on our floats...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Miku",
+      "texto_en": "Thinking about it, coming here at this time of the year\\nwas definitely the right choice.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "So, my proposal was perfect, wasn't it?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Miku",
+      "texto_en": "Teehee, it was.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Miku",
+      "texto_en": "Anyway, let's make sure to apply sunscreen properly.\\nRaiha-chan, you also swam in the ocean,\\nso it's better to reapply it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Raiha",
+      "texto_en": "Okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Miku",
+      "texto_en": "Futaro, make sure you do it properly too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, it's a hassle,\\nbut it's necessary to protect ourselves.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "It'd be great in midsummer too.\\nI wonder if the stories are exaggerated,\\nor if it's really that hot.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Raiha",
+      "texto_en": "Huh?\\nDo you wanna get sunburned, big bro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "It's not like I want to get sunburned.\\nI just want to know if it gets as hot as they say,\\nand experience it for myself.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "Experiencing it for yourself\\nis different from just hearing about it, ya know.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Miku",
+      "texto_en": "Futaro, you've changed.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Huh? How so?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Miku",
+      "texto_en": "You used to be so full of yourself,\\nbut your way of thinking has changed.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Miku",
+      "texto_en": "We all have changed.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "Well... A lot of things happened.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Raiha",
+      "texto_en": "But, I still think that you are too headstrong, big bro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Miku",
+      "texto_en": "Yes, you still need to work on that, perhaps.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Miku",
+      "texto_en": "Anyway, let's make sure to apply sunscreen properly.\\nRaiha-chan, you also swam in the ocean,\\nso it's better to reapply it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Raiha",
+      "texto_en": "Okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Miku",
+      "texto_en": "Futaro, make sure you do it properly too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, it's a hassle,\\nbut it's necessary to protect ourselves.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Raiha",
+      "texto_en": "During winter, you don't need sunscreen, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "Well, I'm not sure, but I think it'll be okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Miku",
+      "texto_en": "...For me Okinawa is all about the ocean,\\nbut it might be nice to come back in winter\\nand explore other tourist spots besides the ocean.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, maybe getting some winter-exclusive gourmet food?\\nItsuki would definitely be interested in that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Miku",
+      "texto_en": "I thought that visiting at a different time of the year might \\nbe a another way to enjoy sightseeing in Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Miku",
+      "texto_en": "If there's another chance to come to Okinawa,\\nit would be nice to enjoy it in winter.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "Next time, eh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Miku",
+      "texto_en": "If we make a plan, will you come too, Futaro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "If I don't bother you quintuplets too much.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Miku",
+      "texto_en": "It's not a bother at all.\\nAnd also, we'll make sure you can spend time with Nino\\nas well. You can rest assured about that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Futaro",
+      "texto_en": "Rest assured, huh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Miku",
+      "texto_en": "Raiha-chan, you're also invited, just\\ncome along with Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Raiha",
+      "texto_en": "Teehee, thank you very much!",
+      "texto_ptbr": ""
+    }
+  ]
+}

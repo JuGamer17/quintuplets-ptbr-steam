@@ -1,0 +1,258 @@
+{
+  "arquivo": "ca05_30",
+  "total": 42,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Raiha",
+      "texto_en": "Ahh, I played so much!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Miku",
+      "texto_en": "I can't move anymore...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "It's easy to forget,\\nbut playing in the ocean uses up a lot of energy.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Yotsuba",
+      "texto_en": "We went snorkeling, swam a lot,\\nplayed with a beach ball...\\nWhat a fulfilling day!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Absolutely. We enjoyed it to the fullest!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Yotsuba",
+      "texto_en": "But, I can still play more!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "That's just you, though.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Ichika",
+      "texto_en": "Well, the sun will set soon,\\nso should we pack up and head back?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "Um, wait a minute.\\nI have a suggestion.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "Hm? What?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "Why don't we just stay here until sunset?\\nWith today's weather,\\nI think we can see a beautiful one.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Oh, that's a great idea, let's do it!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, there's no rush to leave, anyway.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "Yes!\\nI'm sure it will be beautiful.\\nIf we all watch it together, it will be a great memory%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "No no, this is definitely a time\\nfor just the two of you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "%p-2;――%p; Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Why is that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "Why?\\nBecause watching the sunset on the beach\\nis quite a romantic situation, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Nino",
+      "texto_en": "Sounds like a time for lovers,\\nno matter how you see it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "B-but...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Miku",
+      "texto_en": "What about you, Futaro?\\nDon't you want to watch it just with Itsuki?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "I...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "(Watching the sunset with everyone\\n would definitely be wonderful, but%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "I'd like to watch it together with Itsuki.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "And besides, once you guys have made up your mind,\\nthere's no changing it, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Miku",
+      "texto_en": "Yeah. You understand us well.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "It's been around you guys a long time. \\nI've figured that much out.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "And Itsuki, how do you feel?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "I also...want to be with you...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Ichika",
+      "texto_en": "Great, great. I'm glad you're so honest.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Nino",
+      "texto_en": "So, how about you two change your clothes,\\nand take a stroll to Sunset Beach?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Sunset Beach?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Itsuki",
+      "texto_en": "It's a beach just like this one,\\nwhere you can see a gorgeous sunset.\\nIt's not too far if we walk along the coast.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Nino",
+      "texto_en": "That's the one.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Yotsuba",
+      "texto_en": "Or, we could go there instead if you want.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Nah, walking along the coast sounds nice.\\nWhat do you think, Itsuki?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, let's do that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Yotsuba",
+      "texto_en": "Okay, then let's meet back at the hotel\\nafter watching the sunset!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Yeah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Yotsuba",
+      "texto_en": "Don't get too caught up in your own little world\\nand forget to come back, 'kay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "D-don't worry!\\nWe'll be back before dinner!",
+      "texto_ptbr": ""
+    }
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "arquivo": "ca05_05",
+  "total": 76,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Nino",
+      "texto_en": "Phew, that was delicious.\\nMaybe steak was the right choice after all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Raiha",
+      "texto_en": "You ate quite a bit, Nino-san.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Nino",
+      "texto_en": "Yeah, the sauce was unusual\\nand I couldn't help myself.\\nIt had a unique sourness to it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, it was a sauce unlike any I've tasted before.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Miku",
+      "texto_en": "Are you satisfied?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "Yes! Thank you very much!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "Now that we're full, shall we wander around aimlessly?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "Post-meal exercise, huh?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Wait, whenever you mention exercise,\\nI get a bad feeling.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahaha, don't worry.\\nI won't suggest we have a competition\\nor anything like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Raiha",
+      "texto_en": "You can see the ocean from anywhere here, huh-.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "Yeah, it's a breathtaking view that never gets old.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "I bet it would be even more beautiful\\nwhen the sun's setting.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "I saw a flyer earlier\\nthat there are light-up shows at night.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "I saw something mentioned somewhere\\nabout projection mapping, too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Yotsuba",
+      "texto_en": "This whole town is white,\\nso it would be perfect for turning it all into screens, huh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "We could come back at night.\\nIt's not far from the hotel.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "That's right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "...Hey, Itsuki?\\nIs something the matter?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Itsuki",
+      "texto_en": "Huh? What?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "You've been following me closely from behind for a while now.\\nI'm curious as to why.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Itsuki",
+      "texto_en": "I-I wonder? What a mystery.\\nI'm just walking normally.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "...Well, that's fine, then.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "(No, that's not normal.\\n I feel like I'm being stalked.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "Oh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Miku",
+      "texto_en": "What's up?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Nino",
+      "texto_en": "Look!\\nAren't the accessories at this store super nice?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Ichika",
+      "texto_en": "Ah, for sure. They're simple, but eye-catching.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun, can we take a look?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, sure. Do as you please.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Raiha",
+      "texto_en": "Interesting patterns too.\\nI wonder, are those waves?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Yotsuba",
+      "texto_en": "Umm, it seems to be a traditional Okinawan pattern.\\nThere's a brief explanation over here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Ichika",
+      "texto_en": "Wow, that's cool.\\nIt'd be perfect as a souvenir of our trip to Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Miku",
+      "texto_en": "Oh, you can even have them made to order.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "Really?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Miku",
+      "texto_en": "Look, it's written here.\\nThey say that ring orders for couples\\nare especially popular.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "(Oh, I see... Couple rings are popular for things\\n like commemorating a relationship\\n or going on a trip to Okinawa together.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "(There are things like this too.\\n I can't afford it now, but...\\n I'll remember it.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "U-Uesugi-kun!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "Would you like to get some rings?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "WHAAA?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "Matching rings are so wonderful!\\nI want one! Please buy them!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "Hey, Itsuki, calm down!\\nYour face is too close!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "I-it's okay to be close to you, isn't it?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "HUH?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "I-I mean, we're going out, and all that, right?\\nWe came all the way to Okinawa as a couple,\\nso let's buy rings to serve as our memory together!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "W-well, I think the idea itself is good,\\nbut there's a problem%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Itsuki",
+      "texto_en": "Wh-what kind of problem is there\\nfor us to buy matching rings?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Miku",
+      "texto_en": "Itsuki.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Itsuki",
+      "texto_en": "Wh-what?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Miku",
+      "texto_en": "Look at the price.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Itsuki",
+      "texto_en": "%p-2;――%p; Ah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Itsuki",
+      "texto_en": "I-I-I'm sorry!\\nI didn't think it would be so expensive!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "Well, there's no need to apologize, you know.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Itsuki",
+      "texto_en": "No, please let me make an apology!\\nI was doing the same thing as earlier...\\nOoohh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Nino",
+      "texto_en": "Well, maybe save this conversation for your wedding rings. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Itsuki",
+      "texto_en": "W-wedding?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san, do your best to find something\\nthat will suit Itsuki.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah, of course.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Yotsuba",
+      "texto_en": "Oohh?!\\nAre you proposing, Uesugi-san?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "Hey, quiet! Don't jump to conclusions like that!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Ichika",
+      "texto_en": "But you've got to be thinking about it, right-?\\nIsn't that right, Itsuki-chan?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Miku",
+      "texto_en": "...She's frozen.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Raiha",
+      "texto_en": "Itsuki-saaan, come back!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Ichika",
+      "texto_en": "Hmmm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Yotsuba",
+      "texto_en": "Could it be that you think something's off too, Ichika?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Ichika",
+      "texto_en": "About Itsuki-chan, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah.\\nShe's acting kind of weird.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Ichika",
+      "texto_en": "I agree.\\nItsuki-chan isn't the type to be selfish like that\\nand ask for things, like she was doing with Futaro-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Yotsuba",
+      "texto_en": "Hmm, but they're dating, so\\nit's not necessarily a bad thing\\nto be a little selfish, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Yotsuba",
+      "texto_en": "Maybe, you know?\\nIt's just because they're on a trip,\\nand their excitement is getting the best of them.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Ichika",
+      "texto_en": "If it's a trip with her boyfriend,\\neven serious Itsuki-chan\\nmight get a little carried away.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Yotsuba",
+      "texto_en": "Uh-huh. That's probably it.",
+      "texto_ptbr": ""
+    }
+  ]
+}

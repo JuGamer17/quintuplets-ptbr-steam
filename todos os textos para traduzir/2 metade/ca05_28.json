@@ -1,0 +1,336 @@
+{
+  "arquivo": "ca05_28",
+  "total": 55,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Ichika",
+      "texto_en": "Okaay, I'll open it now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "We're back.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Ichika",
+      "texto_en": "Welcome back!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Miku",
+      "texto_en": "Welcome back.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Nino",
+      "texto_en": "Finally, you're back.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Yotsuba",
+      "texto_en": "It's not like she was that late, was she?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "Everyone's gathered in here?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Ichika",
+      "texto_en": "Well, of course,\\nwe want to know how your date with Futaro-kun went,\\nyou know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "Our d-date...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "Nn-nnnh!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "Thank you so much for today.\\nGiving us the time for just the two of us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "Did it go well with Futaro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "You already know the answer to that, don't you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "What are you talking about?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Yotsuba",
+      "texto_en": "Nino, I don't think we can fool her anymore.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "It looks like it was pretty obvious after all.\\nDid Futaro-kun notice too?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "No, just me.\\nI saw Yotsuba's ribbon at Churaumi Aquarium.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Ichika",
+      "texto_en": "Ahh, so she did see it then...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "S-sorry!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "When I noticed, I was really surprised, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Yotsuba",
+      "texto_en": "You know, I'm sorry to you too, Itsuki. \\nIt was supposed to be your time alone together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "No, please don't apologize.\\nI know you were just worried about us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Itsuki",
+      "texto_en": "I'm the one who should apologize.\\nI'm sorry for causing trouble.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Ichika",
+      "texto_en": "You don't have to bow your head for that.\\nYou did nothing wrong, Itsuki-chan!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Miku",
+      "texto_en": "Yeah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "So?\\nWhere did you go after American Village?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "Well%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "Is it okay if I keep it a secret?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Miku",
+      "texto_en": "Mmmhh...\\nI can't believe you would say such a thing,\\nItsuki.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Yotsuba",
+      "texto_en": "Now I'm curious!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Miku",
+      "texto_en": "Did you two perhaps do something\\nthat you can't tell us about?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Yotsuba",
+      "texto_en": "Huhhh?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Itsuki",
+      "texto_en": "I'll leave it to your imagination.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Nino",
+      "texto_en": "Hmph. You seem pretty composed now.\\nIt's a big difference from last night, isn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "That's also thanks to everyone's support.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Yotsuba",
+      "texto_en": "Today will be a memory just for you two, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "Yes.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Yotsuba",
+      "texto_en": "In that case,\\nyou'll want to spend tomorrow alone together too, right?\\nLike today, with free time to yourselves%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Itsuki",
+      "texto_en": "Wait a moment.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "There's something I want to ask everyone.\\nCan you all listen to me for a moment?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Ichika",
+      "texto_en": "Something you want to ask?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "Today, I realized once again%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Itsuki",
+      "texto_en": "That my relationship with Uesugi-kun,\\nand even myself,\\nis being supported by everyone here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "That's why I want us all to be together\\nand enjoy this trip with each other.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Itsuki",
+      "texto_en": "So, I want to change our plans for tomorrow,\\nand go to the beach together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "Today's plans were cancelled because of my request,\\nso it wouldn't be right if we didn't go to the beach\\nin Okinawa and have fun there, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah! Let's all go swimming together!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Nino",
+      "texto_en": "That's right.\\nWe can't say we enjoyed Okinawa\\nwithout going to the beach.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Yotsuba",
+      "texto_en": "Ninooo?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Nino",
+      "texto_en": "...Okay, let's go together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Miku",
+      "texto_en": "Yes, all together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Ichika",
+      "texto_en": "Let's make lots of memories!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Itsuki",
+      "texto_en": "Okay!",
+      "texto_ptbr": ""
+    }
+  ]
+}

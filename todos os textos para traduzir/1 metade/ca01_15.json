@@ -1,0 +1,186 @@
+{
+  "arquivo": "ca01_15",
+  "total": 30,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Ichika",
+      "texto_en": "Running like this on a trip makes \\nthe scenery feels fresh and fun!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Well, I can't, really enjoy, the scenery\\nwhen I'm...trying my best...to keep up with you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Ichika",
+      "texto_en": "Aww, what a waste then.\\nWe're running through the streets of Okinawa,\\nlet's at least enjoy the fresh air.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "If that's...the case...can you...slow down a bit more?\\nI don't...have running gear...like you do.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Ichika",
+      "texto_en": "Okay, okay.\\nI'll slow down a bit.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "(What a relief...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Haah, haah...\\nHey...don't you think...it's a bit strange...to go for a run\\nduring a trip? Most people...don't do that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Ichika",
+      "texto_en": "That may be true?\\nBut...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "But?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "Well, I was thinking that in the future,\\nmaybe this could become a regular thing we do?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Huh? What do you mean?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Ichika",
+      "texto_en": "You don't have to worry about it, Futaro-kun!\\nNot right now, at least.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "(What the hell...?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "But anyways, it's pretty empty now\\ncompared to yesterday afternoon,\\nwhen there were so many people around.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Well, it is early in the morning.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "Most shops are still closed...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Ichika",
+      "texto_en": "Oh, that's right!\\nWe have to search for souvenirs again today.\\nWe couldn't find any yesterday.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Yeah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Ichika",
+      "texto_en": "But today we're going to Ocean Expo Park,\\nso it might be hard to spend a lot of time\\nlooking around shops.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Okay...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "(Uuugh... Ichika has so much energy to talk...\\n Meanwhile, I'm over here about to cry \\n from my lack of physical strength.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "I don't want to do this every day,\\nbut I think it would be better for me \\nto go for a run every once in a while.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Ichika",
+      "texto_en": "Really?\\nThen occasionally, you can go for a run with me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "Well, if it's just occasionally.\\nI want to improve my stamina a bit too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Ichika",
+      "texto_en": "Definitely!\\nBut I'll cry in shock if I hear you say that \\nyou're skipping a day cause you're tired, okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "I won't say that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "(But seriously... What kind of situation is\\n she imagining? I don't really get it, but Ichika\\n looks like she's having fun, so I guess it's fine.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Ichika",
+      "texto_en": "Alright! I'm starting to feel pumped up,\\nso should we run a bit more than planned?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "I have to train you so we can run together more often.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "H-hey, wait...a minute!\\nI can't just...suddenly run long distances!\\nI need my energy for sightseeing!",
+      "texto_ptbr": ""
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "arquivo": "ed06_01_01",
+  "total": 23,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(This is the place she specified.\\n Somewhere around here%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(...Found her!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "???",
+      "texto_en": "Who did you come to meet?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Nino, it's you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "???",
+      "texto_en": "I see...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Wha...!\\nIchika?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "...Miku.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "???",
+      "texto_en": "I see...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Wha!\\nIchika?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "You, Yotsuba.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "???",
+      "texto_en": "I see...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Wha...!\\nIchika?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "I kept you waiting, Itsuki.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "???",
+      "texto_en": "I see...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Wha...!\\nIchika?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "...Too bad.\\nYou couldn't tell, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Ichika",
+      "texto_en": "Futaro-kun,\\nperhaps you're still lacking in the love department?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "...I have no words to respond.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Ichika",
+      "texto_en": "The name you said before,\\nI'll keep it in my heart for the time being. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Ichika",
+      "texto_en": "But, should I let you use it when the time comes?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Wha%p-2;――%p;?!\\nThat means%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "Just kidding, just kidding.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    }
+  ]
+}

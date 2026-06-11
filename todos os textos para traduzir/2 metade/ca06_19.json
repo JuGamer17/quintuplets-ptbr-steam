@@ -1,0 +1,270 @@
+{
+  "arquivo": "ca06_19",
+  "total": 44,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(I was bewildered by the two Itsukis in the\\nexhibition corner, so I tried to change targets to\\nother Itsukis, but the result was equally dismal...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(Meanwhile, in my confusion,\\nthe quintuplets finished touring the entire building\\nand gathered again in the entrance hall.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "There were so many interesting things to see! We were\\nable to learn about Okinawa's history and culture\\nthat we couldn't find in textbooks.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "The exhibition on the Ryukyu Kingdom era was also great.\\nThe vibrant colors unique to Okinawa\\nare a traditional feature.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "The art museum was also wonderful!\\nIf we had more time,\\nwe could have participated in the workshops too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, there were many interesting things\\nlike a 'sanshin' instrument experience,\\nand making 'shisa' lion-dog crafts.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "...Indeed.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "(*sigh*\\n My head is already hurting from their confusing\\n methods, and yet they look so joyful.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "(But seriously, this is really tough.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "(To think they would even mimic other quintuplets\\n other than Itsuki during their quintuplets game...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "(I can't tell if they forgot\\n they were mimicking Itsuki,\\n or if they were mimicking another sister.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "(At first, I thought it would be fine\\n to talk together while they're acting...\\n but that was really naive.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "(Are they intentionally trying to make me notice,\\n or is it the slightly obvious trap\\n that makes it worse?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "(...But then again, I'm the one who's reacting to it!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "(Damn, it's already troublesome enough\\n that they're all playing as Itsuki,\\n and now they're setting traps on top of that!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "(However, I can't just let them keep doing\\n whatever they want.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "(Fine then. If that's the case,\\n I'll need to be more thorough!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "...Alright.\\nI need a plan first.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "Are you alright? You seem tired.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Huh? No, I'm fine. I was just getting motivated.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "Teehee!\\nThat's exactly what I expect from you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Hmph, I'll definitely figure this out. Just wait.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "...Eh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "(It's not a joke that our year and a half together\\n would be denied by you guys yourselves.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "To figure this out...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Itsuki",
+      "texto_en": "Both of you.\\nIt's getting late, shall we discuss dinner now?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "Ah! Yes!\\nThat's right.\\nI think there's a cafe inside the hotel.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "Instead of eating here, let's go back to Kokusai dori.\\nIt's close to the hotel!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "There are many delicious-looking restaurants\\non Kokusai dori... H-how should we decide?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "In this case, why don't we go on a food tour?\\nI'm sure it'll be fun!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun, is there something you want to try?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "(Insisting on a food tour, isn't that Itsuki?\\n No, that's too obvious.\\n It could be a fake...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Itsuki",
+      "texto_en": "What is it?\\nDon't stare at me like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Mmm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "Um, your gaze is a little scary, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "...That so?\\nWell, don't worry about me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "Even if you say that...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "Even you must be hungry, Uesugi-kun.\\nLet's hurry and go!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Yeah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "Itsuki? What's wrong?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, no, it's nothing.\\nLet's hurry too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    }
+  ]
+}

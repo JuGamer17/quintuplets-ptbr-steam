@@ -1,0 +1,426 @@
+{
+  "arquivo": "ca06_mv6_01",
+  "total": 70,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(Wow...\\n I had no idea there was a beach here.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "Oh?\\nYou came here too, Uesugi-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Hey, you guys are here too?\\nThe ocean is really beautiful.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, it is!\\nAs expected of a beach named Emerald Beach.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, it's a stunning emerald green.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "The sand is so white, too...\\nWe unexpectedly stumbled upon a lovely place.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "Why don't you come over here, Uesugi-kun?\\nThe water is cool and refreshing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "Heheh!\\nThe waves washing up to shore tickle my feet.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Hey, now.\\nDon't get too carried away and fall.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Both",
+      "texto_en": "Okaaay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Geez, you're acting like children,\\nrunning around like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "(Well, I guess my spirits\\n are also lifted by such a beautiful sea.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Strolling Girl",
+      "texto_en": "Hey, those girls over there, are they twins?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Carefree Girl",
+      "texto_en": "They sure are.\\nThey seem very close with their matching outfits.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "(...Here we go again.\\n Even though there are fewer tourists here\\n than in other places, they still attract attention.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "(Though I thought it would be fine\\n if it's just the two of them...\\n It's only natural they stand out being this lively.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Hey, let's head over to somewhere else.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "What are you talking about?\\nThis is such a beautiful coast.\\nWe should fully enjoy it while we're here!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Ah, hey, don't go too far.\\nIt'll be a hassle if you get tangled up \\nwith any troublemakers.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "Oh?\\nWho are these troublesome people you speak of?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "Could it be...pick-up artists?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Well, I suppose so.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "Then, we'll do this!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "Eh?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, I see! Like this?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "H-hey, what are you doing?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "What are you waiting for?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "Actually, it's a pretty good idea, isn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "Just back off, will you?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "It's to deal with any troublemakers,\\nso we can't do that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, that's right.\\nWe can stay like this, and feel safe.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "This is only going to make us stand out more.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "Do you think so?\\nIt's pretty normal in tourist spots, isn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "What kind of logic is that?\\nJust back off already.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "You said not to go too far,\\nand now you're telling me to go away?\\nYou're a very demanding person.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Well, I guess this could work, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "Is that so?\\nYou don't seem to mind it, do you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "N-no, that's not what I meant!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "I mean, what's my position in all this?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Itsuki",
+      "texto_en": "Is that bothering you?\\nWell...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "You might be a sleazy guy who's dating both of us\\nat the same time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "Or, maybe you're a questionable guy\\nwho deceives women.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Hold on a second! Don't just label me as the bad guy!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "This way, any nearby troublesome guys\\nwon't come near us, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "But we're standing out even more, aren't we?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "You say that, but deep down you're actually happy,\\naren't you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "N-no, it's not like that...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "It's okay to not be embarrassed, you know.\\nYou should be more honest with yourself.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "(Teasing me like this...\\n Could this be Ichika?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "(No, it could also be one of the other sisters\\n acting like Ichika... Which is it?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "Are you happy, or not?\\nThat's all I want to know.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "It doesn't matter either way...\\nJust please, get off me already!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*\\nCome on, I feel like I'm wasting my energy for nothing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Itsuki",
+      "texto_en": "But isn't this what you wanted, Uesugi-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "...Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Itsuki",
+      "texto_en": "'I really love you five.\\nI hope we can stay in this same relationship forever,\\nthe six of us.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Itsuki",
+      "texto_en": "You said that on the first day of the school festival.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "Well, that's...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Itsuki",
+      "texto_en": "And then to 'not choose anyone,' on top of all that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Itsuki",
+      "texto_en": "Words like that can lead to this kind of situation,\\nif you really think about it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Itsuki",
+      "texto_en": "Saying to 'not choose anyone' is a line\\nthat couldn't be said, unless you had confidence\\nthat all five of us liked you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "I-I didn't mean it like that.\\nI just%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, come on. It was just a joke.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, it was just a little joke.\\nDon't worry about it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "What do you mean, a joke...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Itsuki",
+      "texto_en": "It seems like we really are attracting \\ntoo much attention now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, shall we move before we cause any more commotion,\\nlike we did before?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "H-hey?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "(...Was she really joking just now?)",
+      "texto_ptbr": ""
+    }
+  ]
+}

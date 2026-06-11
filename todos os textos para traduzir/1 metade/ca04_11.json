@@ -1,0 +1,612 @@
+{
+  "arquivo": "ca04_11",
+  "total": 101,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Ichika",
+      "texto_en": "Alrighty.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "Good evening.\\nI brought Raiha-chan with me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Raiha",
+      "texto_en": "Good evening.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Ichika",
+      "texto_en": "Welcome.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Nino",
+      "texto_en": "Now we're all here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Raiha",
+      "texto_en": "Hey, did we all gather like this\\nbecause of big bro and Yotsuba-san?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "Yes, that's right.\\nYou're sharp, Raiha-chan.\\nThat's reassuring.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "Where are those two?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "They should be in the lounge\\nlooking at the night view.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "Eh? You set it up?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Miku",
+      "texto_en": "Itsuki...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Itsuki",
+      "texto_en": "Wh-why are you disappointed?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "Watching the night view while talking together\\nis a classic date.\\nThey might even be kissing by now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "WHA?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Raiha",
+      "texto_en": "Oooohh!\\nBig bro's first steps to becoming a man!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "Well, I wonder if Futaro-kun\\nhas the courage to go that far?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Miku",
+      "texto_en": "Nope.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Ichika",
+      "texto_en": "Wow, a declaration.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "You're ruthless today, Miku.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Miku",
+      "texto_en": "I just said what was on my mind.\\nThose two don't look like they're dating yet.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "That's true.\\nNormally, they would be happy to be alone together\\nor team up as a pair, wouldn't they?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "I tried to lead them in that direction during the day,\\nbut like, they didn't seem to notice at ALL.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "I also prepared myself to be considerate\\ndepending on how their situation was,\\nbut there was no such kind of atmosphere...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "Well now, nothing has changed since then.\\nIt's been half a year since Fu-kun\\nconfessed to Yotsuba.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Miku",
+      "texto_en": "He was busy with college exams until now, so\\nI think there's no choice but to accept that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Miku",
+      "texto_en": "But now that Futaro's finally released\\nfrom those exams,\\nI think he can let loose a little bit.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "Do you think he can really do that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Miku",
+      "texto_en": "If they start getting lovey-dovey in front of us,\\nthat would be a problem too...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Nino",
+      "texto_en": "W-well, even if they didn't have those feelings,\\nit might be tough if they felt\\nlike they were being pressured.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Nino",
+      "texto_en": "But not doing things that a couple should do\\nmakes me feel uneasy,\\nlike they're trying to be considerate.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "But, shouldn't we be careful not to interfere too much?\\nIt's their problem after all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Nino",
+      "texto_en": "As her sisters, their problem is our problem.\\nAlso, it's Raiha-chan's problem, isn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Miku",
+      "texto_en": "Besides, Futaro is going to Tokyo soon.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Nino",
+      "texto_en": "Right! That's it!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Nino",
+      "texto_en": "Living alone in an unfamiliar place.\\nFu-kun has been completely dependent on Raiha-chan\\nup until now. He doesn't have many life skills.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Raiha",
+      "texto_en": "Hmm, that's true.\\nI'm worried if he'll be able to\\nwake up alone in the morning.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Nino",
+      "texto_en": "If a new woman appears in front of Fu-kun,\\nwho's really the one who is\\ngoing to have a lonely college life%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "Yotsuba as she is now might have\\nno chance against them!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Miku",
+      "texto_en": "Besides, long-distance relationships\\nwould also be a handicap for Yotsuba.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Ichika",
+      "texto_en": "I don't doubt their feelings,\\nbut long-distance is tough, isn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Nino",
+      "texto_en": "However, no matter what, it's unacceptable for Yotsuba\\nto lose to a stranger here!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Miku",
+      "texto_en": "I wouldn't accept it either.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "Umm, isn't the conversation jumping around too much?\\nBesides, Uesugi-kun is not the kind of person\\nwho is very popular with women, to put it politely.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Ichika",
+      "texto_en": "That's kind of harsh, Itsuki-chan.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Ichika",
+      "texto_en": "But Futaro-kun is naturally clumsy, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Miku",
+      "texto_en": "That's why I'm worried.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Nino",
+      "texto_en": "Itsuki, you also like Fu-kun, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Itsuki",
+      "texto_en": "W-what do you mean, I LIKE him?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Nino",
+      "texto_en": "As a friend.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "Well, of course. I respect him as a friend.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Nino",
+      "texto_en": "Then you understand, don't you?\\nHow wonderful Fu-kun is.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "Well, I suppose.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Raiha",
+      "texto_en": "I'm so happy to hear my brother praised so highly!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Itsuki",
+      "texto_en": "I totally agree Raiha-chan.\\nCertainly, he has many good points.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Raiha",
+      "texto_en": "Yeah, I'm REALLY happy...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Nino",
+      "texto_en": "Anyway, getting back onto the subject.\\nI think we need to take drastic action\\nfor Fu-kun and Yotsuba's future.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Itsuki",
+      "texto_en": "WHA?! What are you planning to do?\\nWe have to treat this matter delicately, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Nino",
+      "texto_en": "I wouldn't dare to treat anything so gracelessly.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Miku",
+      "texto_en": "Nino isn't being very persuasive.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Ichika",
+      "texto_en": "Right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Nino",
+      "texto_en": "Did you say something?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Ichika",
+      "texto_en": "No no, nothing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Miku",
+      "texto_en": "If you're not gonna be forceful,\\nwhat are you gonna do?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Nino",
+      "texto_en": "Let's see.\\nHow about we get all nice and close with Fu-kun,\\nand make Yotsuba feel like she's in a crisis?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Itsuki",
+      "texto_en": "Whaaat?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Miku",
+      "texto_en": "Good idea.\\nLet's do it starting tomorrow.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Itsuki",
+      "texto_en": "EHHHHHH?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Nino",
+      "texto_en": "What are you gonna do, Itsuki?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Itsuki",
+      "texto_en": "Me?!\\nI...c-can't do it...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Nino",
+      "texto_en": "Yeah, figured.\\nThen, Miku and I will do it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Miku",
+      "texto_en": "Ichika, Itsuki, you don't need to bother us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Ichika",
+      "texto_en": "Okay.\\nBut, don't go too overboard, alright?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Nino",
+      "texto_en": "Get ready, Yotsuba.\\nI said I would steal him if I saw a chance, didn't I?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Miku",
+      "texto_en": "I said I wouldn't 'push' them no matter what,\\nand I meant it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Ichika",
+      "texto_en": "Ooohh. I didn't hear that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Itsuki",
+      "texto_en": "I-Ichika! I think we need to stop this now!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Ichika",
+      "texto_en": "Hm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Ichika",
+      "texto_en": "To be honest, I wonder how long those two\\nwill continue their relationship like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Itsuki",
+      "texto_en": "Even you think so, Ichika?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Ichika",
+      "texto_en": "Of course, I don't mean to say that it's a bad thing.\\nBut don't you think that\\neven you feel that way deep down inside, Itsuki-chan?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Itsuki",
+      "texto_en": "...I did ask Yotsuba once,\\n'How long are you going to use polite language?'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Itsuki",
+      "texto_en": "Also, I can't really tell Uesugi-kun's attitude\\ntowards Yotsuba, and it's bothering me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, that's true.\\nI'd also want to see more masculinity from Futaro-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 84,
+      "personagem": "Raiha",
+      "texto_en": "Big bro is bad at communication\\nand new at love,\\nso it's pretty hard to deal with him, huh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 85,
+      "personagem": "Ichika",
+      "texto_en": "I really do think he's gotten better with us, though.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 86,
+      "personagem": "Ichika",
+      "texto_en": "Anyway, we should watch over them for now.\\nIf things get worse, we'll step in.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 87,
+      "personagem": "Itsuki",
+      "texto_en": "...Alright.\\nLet's watch them for a while.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 88,
+      "personagem": "Raiha",
+      "texto_en": "My big bro is pretty dang weird,\\nbut please take care of him.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 89,
+      "personagem": "Ichika",
+      "texto_en": "So, Nino? How long do you plan on doing this strategy,\\neven if it means it makes Yotsuba feel bad?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 90,
+      "personagem": "Nino",
+      "texto_en": "Well...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 91,
+      "personagem": "Nino",
+      "texto_en": "How about we make it a goal to have her\\nstop using honorifics%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 92,
+      "personagem": "Nino",
+      "texto_en": "Or, start calling Fu-kun by his name during this trip,\\nand end the strategy there?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 93,
+      "personagem": "Itsuki",
+      "texto_en": "It seems like everyone is worried about that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 94,
+      "personagem": "Miku",
+      "texto_en": "I'm worried too.\\nIt's strange that Futaro\\ndoesn't seem to be bothered by it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 95,
+      "personagem": "Itsuki",
+      "texto_en": "But isn't that goal too difficult to achieve\\nduring this trip...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 96,
+      "personagem": "Nino",
+      "texto_en": "Well really, an easy goal would be meaningless,\\nwouldn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 97,
+      "personagem": "Itsuki",
+      "texto_en": "...Alright then.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 98,
+      "personagem": "Nino",
+      "texto_en": "Okay, it's settled!\\nMiku, the plan starts tomorrow!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 99,
+      "personagem": "Miku",
+      "texto_en": "Roger.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 100,
+      "personagem": "Itsuki",
+      "texto_en": "Do your best, Yotsuba.",
+      "texto_ptbr": ""
+    }
+  ]
+}

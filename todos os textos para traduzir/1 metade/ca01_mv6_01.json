@@ -1,0 +1,498 @@
+{
+  "arquivo": "ca01_mv6_01",
+  "total": 82,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Ichika",
+      "texto_en": "I had so much fun on the banana boat,\\nand I'm interested in trying out other activities too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "Yotsuba mentioned it before,\\nbut this beach has a lot of great activities.\\nLook, there's a guide here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "What are you doing? Signing up for activities?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Nino",
+      "texto_en": "Ah, Fu-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Ichika",
+      "texto_en": "No, I was just checking out what they have.\\nIf there's something good, I'd like to try it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Ichika",
+      "texto_en": "Ah! This sea kayaking looks nice.\\nYou can leisurely explore the sea.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Wow, it seems like a different kind of fun\\nthan the banana boat.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Ichika",
+      "texto_en": "There's a two-person kayak too.\\nHow about it, Futaro-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "A-again?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "Apparently, we have to align our breathwork \\nand row as a team.\\nDon't you think we'd be good at this?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Why did you word it like that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "Ichika, you're quite the go-getter.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "Am I? Isn't this normal?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun is getting all flustered.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "I-I'm not!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "Oh, I wanted to ride the jet ski too.\\nIt looks so exhilarating.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Ichika",
+      "texto_en": "Hey, let me ride with you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "No way, I can't drive it!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Ichika",
+      "texto_en": "Why not? You have a motorcycle license, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "But a jet ski is different.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Ichika",
+      "texto_en": "I see.\\nI thought it would be okay\\nsince it's called a water motorcycle.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Come on, Ichika...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Ichika",
+      "texto_en": "Can't you just take the exam and get a license?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "It's not that easy.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Ichika",
+      "texto_en": "Hmm, if jet skiing is out,\\nthen maybe we should go with the sea kayak.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "It seems like we can also go snorkeling,\\nbut kayak is the best option to spend some\\nalone time together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "You're really fixated on that, aren't you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "I wonder if kayaking is tiring.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "I don't have experience, so I'm not sure,\\nbut it might be somewhat tiring, I think?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Ichika",
+      "texto_en": "Then, Futaro-kun, what if you get exhausted\\nand left stranded at sea?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "I'm not that weak.\\nDon't worry, I'll turn back before that happens.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Ichika",
+      "texto_en": "By the way, if I'm stranded at sea\\nwith you, I won't feel lonely, so don't worry!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "What are you talking about...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Nino",
+      "texto_en": "Hey, Fu-kun,\\ndon't you think Ichika is acting a bit strange today?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "...No doubt, she's full of energy today.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Nino",
+      "texto_en": "She's so excited anyone can tell just by looking at her.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "Traveling is meant to be enjoyable,\\nso of course it's natural, but still.\\nAt this moment, I'm a little worried.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "Maybe it's just the atmosphere getting to her.\\nAfter all, it's Okinawa, and the beach.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Nino",
+      "texto_en": "Well, there is a sense of freedom here, but...\\nis it really necessary to be so obviously excited?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "Maybe she's like that because\\neverything around us feels like a vacation.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Nino",
+      "texto_en": "Hmm...\\nI suppose that could be it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Ichika",
+      "texto_en": "What now, what now?\\nWhat are you two talking about?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Nino",
+      "texto_en": "Oh, it's just about how everything\\nis because of the ocean.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Ichika",
+      "texto_en": "Huh?\\nWhat do you mean?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Nino",
+      "texto_en": "No idea?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "W-well, don't worry about it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Ichika",
+      "texto_en": "Alright! Let's keep on having fun!\\nShall we try to conquer ALL the activities?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Ichika",
+      "texto_en": "Let's start with kayaking!\\nIt seems to be the easiest one to start with.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "It's good to let loose. After all,\\nshe's usually busy with work, so she needs some time\\nto relax and have fun once in a while.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Nino",
+      "texto_en": "Although it seems like she's relaxing a little too much.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "But since we're on a trip, cut her some slack.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Nino",
+      "texto_en": "Mmm.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "Wh-what?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Nino",
+      "texto_en": "I just felt a little jealous of Ichika.\\nWhen I saw your face just now, Fu-kun,\\nyou looked so kind.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "Is that so...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Nino",
+      "texto_en": "Good lord, I'm jelly.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Ichika",
+      "texto_en": "Hm? What are you talking about?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Nino",
+      "texto_en": "It's nothing, really.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Ichika",
+      "texto_en": "Alright! Let's keep on having fun!\\nShall we try to complete ALL the activities?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Ichika",
+      "texto_en": "Let's start with kayaking!\\nIt seems to be the easiest one to start with.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, she is being a little weird, isn't she?\\nI think this is the first time\\nI've seen her so excited.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Nino",
+      "texto_en": "Me too.\\nIt's a side of Ichika \\nthat I've never seen before.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Ichika",
+      "texto_en": "What now, what now?\\nWhat are you talking about?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Nino",
+      "texto_en": "We're talking about\\nhow you're acting strangely excited.\\nAre you okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Ichika",
+      "texto_en": "What do you mean, 'are you okay?'\\nWe're on a trip, so when else should we be excited?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Ichika",
+      "texto_en": "Come on! It's our last and only\\ngraduation trip to Okinawa,\\nso let's have fun! Right, Futaro-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "Well... It's better than NOT being excited.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Nino",
+      "texto_en": "I still think she's a little too hyper, though.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Nino",
+      "texto_en": "Well, it looks like you're having fun, so it's okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Ichika",
+      "texto_en": "Alright! Let's keep on having fun!\\nShall we try to complete ALL the activities?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Ichika",
+      "texto_en": "Let's start with kayaking!\\nIt seems to be the easiest one to start with.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Ichika",
+      "texto_en": "I still want to ride together with Futaro-kun...\\nIs that okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Futaro",
+      "texto_en": "I'm fine with it%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Nino",
+      "texto_en": "Do what you'd like, Ichika?\\nI'm not really interested in kayaking.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Ichika",
+      "texto_en": "Yay!\\nThanks, Nino.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Futaro",
+      "texto_en": "Is it really okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Nino",
+      "texto_en": "Well, dealing with an excited Ichika like this\\nwill just tire me out.\\nFu-kun, make sure to take care of her properly.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Futaro",
+      "texto_en": "I see...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Ichika",
+      "texto_en": "We're okay to go, let's head out then, Futaro-kun!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Futaro",
+      "texto_en": "Got it. I'll keep you company until the very end. \\nI want to have fun too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Ichika",
+      "texto_en": "Okay!",
+      "texto_ptbr": ""
+    }
+  ]
+}

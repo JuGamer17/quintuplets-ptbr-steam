@@ -1,0 +1,252 @@
+{
+  "arquivo": "ed02_01_01",
+  "total": 41,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Are you okay, Nino?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Nino",
+      "texto_en": "I'm fine.\\nAren't you the one who's forgetting something, Futaro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "No, I'm well prepared for moving to Tokyo.\\nI checked everything multiple times,\\nand Raiha checked my luggage for me as well.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "(It's been a few days\\n since we returned from our graduation trip.\\n Today's the day I'm moving to Tokyo.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "(Nino came to see me off at the station...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "(She's trying to be strong,\\n but she looks like she's about to cry.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "(Ichika told me before\\n that Nino is the most delicate of the sisters,\\n even though she doesn't look like it.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "(It didn't ring a bell at the time, but I understand now.\\n Nino really is delicate and gets lonely fast...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "(No.\\n I can't take her with me.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "...I'm really okay.\\nIt's not like you're going overseas.\\nWe can meet if we want to.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, I can easily meet you if I take the Shinkansen.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Plus, I'm planning to come back\\nduring long breaks. Don't be so pessimistic.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "I'm sorry, but I can't do it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "Starting tomorrow, you won't be by my side anymore,\\nFutaro. I don't know when we'll meet again.\\nIt's just too much...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Nino...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "I'm really sorry. I wanted to see you off with a smile, but...\\nWhining in front of you as the last thing you're going to see \\nfrom me for a while is horrible.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "But... I just can't smile for you...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Don't force it. Your tears are tough,\\nbut forcing a smile on your face is even harder.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Nino",
+      "texto_en": "Futaro...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "You told me before, right?\\nTo make lots of memories\\nand cherish them while we're apart.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "I don't think I can make you smile right now.\\nSo, I'll leave it to the memories of me in your mind.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Frankly, it doesn't sit well with me\\nthat I'm not the one who can make you smile.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "Ah, well, maybe it is me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Hahaha, it seems I'm quite a jealous guy, huh!\\nI'm embarrassing myself, oh my god.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Nino",
+      "texto_en": "...Teehee, you're right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Nino",
+      "texto_en": "I had the same thought.\\nIt's irritating me that the memory of myself \\nhas command over you and conquered your heart, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "I have no choice, but leaving it to you.\\nSo, I have to do my best with what I can do now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Nino",
+      "texto_en": "I won't be able to see you for a while...\\nSo, I have to show you my best side\\nwhen we say goodbye.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "Futaro, look at me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "(W-woah, i-is she, gonna k-kiss me?!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "W-wa-wa-wait, Nino!\\nNot in public!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Nino",
+      "texto_en": "I'm not doing that.\\nYou really are too self-conscious.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Th-then, what's this all about?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Nino",
+      "texto_en": "Teehee...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Nino",
+      "texto_en": "Futaro, do your best.\\nI'll do my best over here too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Nino",
+      "texto_en": "Take care!",
+      "texto_ptbr": ""
+    }
+  ]
+}

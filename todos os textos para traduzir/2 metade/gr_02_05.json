@@ -1,0 +1,174 @@
+{
+  "arquivo": "gr_02_05",
+  "total": 28,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, that's right.\\nWhy don't we take Raiha-chan along with us?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Raiha too?\\nWell, I'm concerned about travel expenses.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "Don't worry about the details.\\nI want to take her with us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "Well, she is like family to me, after all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "...I see. In that case, please bring Raiha too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "What are you two blushing about?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "(There's no way out!\\n Even Itsuki blushes when she says it herself!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Nino",
+      "texto_en": "You were so quick to say that they're like family,\\nbut you sure took your time to answer him before. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "W-well, I took my time with my response\\nbecause I was considering marriage!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "...Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "AH!!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Ichika",
+      "texto_en": "Oh, I see, I see. That's how it was.\\nYou were really agonizing over it, weren't you,\\nItsuki-chan.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "That's because Itsuki is so serious at trying her best at all times. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "Mmh~~~~~.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "I-I, uh, just remembered something I have to do!\\nExcuse me!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Miku",
+      "texto_en": "Itsuki, whoa.\\nCalm down.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "Oo-ooohh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "(Oh, I see,\\n Itsuki was prepared to face me to that extent.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "(If that's the case, then I must also face Itsuki's\\n determination properly.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "(I know that, and yet the relationship between Itsuki\\n and I hasn't really progressed since I confessed...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "(Both of us had exams, and honestly,\\n we didn't have any spare time.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "(Not only that, with exams being over and me\\n moving to Tokyo, we're going to be in a\\n so-called long-distance relationship.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "(Although we are both determined, a long-distance\\n relationship between two people who are inexperienced\\n in love... It honestly makes me worry.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "(That's why, on this trip, I want to deepen my bond\\n with Itsuki even more.\\n And for that reason...!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "(During this trip! I will KISS HER!!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "(Well, in other words,\\n we haven't actually kissed yet...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "(Time for the games to begin,\\n Uesugi Futaro!!)",
+      "texto_ptbr": ""
+    }
+  ]
+}

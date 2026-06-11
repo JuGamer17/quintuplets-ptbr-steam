@@ -1,0 +1,144 @@
+{
+  "arquivo": "ca02_27",
+  "total": 23,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Nino",
+      "texto_en": "Phew, we finally made it.\\nOcean Expo Park is unexpectedly far, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "I wonder if everyone else is coming too?\\nOr are they going somewhere else?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Well, I haven't asked them about their plans.\\nEither way, it's just the two of us today.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Nino",
+      "texto_en": "Th-that's right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Nino",
+      "texto_en": "(Aagh, Futaro, you're so sneaky!\\n Acting all normal like that!\\n I wasn't prepared for this happening so suddenly, you know?!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "(Just when did those girls team up with Futaro?\\n Ichika didn't say anything last night!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "Hey, Futaro?\\nIt's nice to be alone with you,\\nbut what's the sudden rush about?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Well, you told me to be aggressive, didn't you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "Huh...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "I've been taking your advances only during this trip,\\nhaven't I? I'll make up for it, or rather,\\ntry harder...is what I mean.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "O-oh, so that's how it is.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "I see then.\\nI'm looking forward to seeing you\\non how you'll take the initiative.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Leave it to me.\\nI'll give you a day you can't forget.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Nino",
+      "texto_en": "(Oh no! My heart can't take it\\n with Futaro being like this!\\n He looked even cooler than usual when he invited me!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "(I really...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Nino?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "Ah, it's nothing!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Nino",
+      "texto_en": "So, where should we go from here?\\nThere are various facilities gathered here,\\nright?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, I have a few places in mind.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "I think the highlight is Churaumi Aquarium.\\nLet's save that for last\\nand check out the other facilities first.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "I'll guide you, so follow me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Nino",
+      "texto_en": "O-okay!",
+      "texto_ptbr": ""
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "arquivo": "ca04_21",
+  "total": 38,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Okay, this is a good place and time to call for him.\\nIchika, can you make contact?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Ichika",
+      "texto_en": "Okay.\\nI'll send the message with this wording then.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Ichika",
+      "texto_en": "Alright, it's done.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Now we just have to wait for a response.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Raiha",
+      "texto_en": "Hey, big bro.\\nWhere is Manzamo?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "It's a cliff along the coast.\\nThere's a pretty nice view there.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "Why did you have to call Daddy out\\nto such a place?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Well, creating the right atmosphere is important\\nfor this kind of thing.\\nIt's like...a last stand!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Miku",
+      "texto_en": "I see.\\nIt's proof of your resolve to not back down.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "Well, actually, in a suspense drama,\\nit'd be a scene where the culprit\\nis cornered by the detective.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Raiha",
+      "texto_en": "I see, you're the culprit, big bro.\\nThe one who kidnapped Yotsuba-san.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Yotsuba",
+      "texto_en": "R-Raiha-chan?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Kidnapping sounds really bad...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "But, from Dad's perspective,\\nI guess that's how he feels.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "Oh, speak of the devil.\\nWe've got a reply.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Ichika",
+      "texto_en": "He says he understands.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "...I see.\\nThe stage is set.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Okay, I'm off.\\nWait for my good news.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?!\\nAre you planning to go alone, Uesugi-san?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, that was the plan from the start.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Yotsuba",
+      "texto_en": "I'll go too!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "No, Yotsuba.\\nLeave it to me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "But!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Listen.\\nFathers are really sweet on their daughters.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Well, that's just what my own old man says, though.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "(The quintuplets' father is a really troublesome guy,\\n but he values his daughters above all else.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "(That's why...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "I should be the one to talk to him alone.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Nino",
+      "texto_en": "Let him go quickly, Yotsuba.\\nIf he's late here, it'll give a bad impression.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, please go with plenty of time to spare.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Miku",
+      "texto_en": "Good luck, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Ichika",
+      "texto_en": "Do your best, Futaro-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Raiha",
+      "texto_en": "Do your best, big bro!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Right, I'm off.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Yotsuba",
+      "texto_en": "Okay...",
+      "texto_ptbr": ""
+    }
+  ]
+}

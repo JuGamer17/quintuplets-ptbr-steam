@@ -1,0 +1,78 @@
+{
+  "arquivo": "ca06_05",
+  "total": 12,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Nino",
+      "texto_en": "Is it okay to stop here?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Miku",
+      "texto_en": "Yes.\\nFutaro isn't following us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san had a strange expression.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "But we mustn't explain the reason why we ran off.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Ichika",
+      "texto_en": "So? What are you going to tell me?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Miku",
+      "texto_en": "Ichika, you've made up your mind.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "Yep, that's right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "My lord, you were slow to decide.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "You're right.\\nEven though I'm late...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Ichika",
+      "texto_en": "I also don't want to keep these feelings I have\\nas a lie.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Ichika",
+      "texto_en": "Everyone said that you'd all be my rivals. Right?",
+      "texto_ptbr": ""
+    }
+  ]
+}

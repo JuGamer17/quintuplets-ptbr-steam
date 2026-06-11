@@ -1,0 +1,234 @@
+{
+  "arquivo": "ca03_mv5_02",
+  "total": 38,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Miku",
+      "texto_en": "What should I get as a souvenir for Dad?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "This pen looks really lovely.\\nIt's made from wood from Okinawa, I hear.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Miku",
+      "texto_en": "That does sound good.\\nAlright then%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Miku!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Miku",
+      "texto_en": "Ah!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Miku, hold on%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "I-I-I'm gonna go check out some other shops.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Wait%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "Wait, Miku!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Miku",
+      "texto_en": "I-Itsuki?\\nWhat, what's wrong?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "Aren't we looking for a souvenir for Father together?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "But, a pen's not that great.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "I-I haven't decided yet!\\nThat's just one of the options!\\nThere are other things I'm considering too!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "If we all work together, we can make a decision,\\nso please help us look for something, Miku!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Miku",
+      "texto_en": "Okay...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "Then, Uesugi-kun, could you help us too?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "No, I just had something to say to Miku%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "You'll HELP us, won't you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "G-got it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "So, you still haven't talked to Miku yet?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "You saw it too, didn't you?\\nBefore I can even talk to her,\\nshe runs away just from seeing my face.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Itsuki",
+      "texto_en": "Well then, this is your chance.\\nI'm glad I managed to keep her here somehow.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "...Huh?\\nIf that's the case,\\nwouldn't it be better if I wasn't here?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "Just stay with us for now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "Do you have any ideas?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "I don't have any yet, but...even if we're alone, we\\nwon't be able to have a decent conversation. I just want\\nto create an atmosphere where it's easier to talk.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "Create an atmosphere, huh.\\nAlright, let's give it a try.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Miku",
+      "texto_en": "What have you two been talking about?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Both",
+      "texto_en": "UWAA?!\\nEEEP?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "I-it's nothing!\\nLet's just go look for a SOUVENIR!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah! For your dad, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Miku",
+      "texto_en": "Actually,\\nI think the pen from earlier would be good.\\nIt's simple and writes well.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Miku",
+      "texto_en": "Let's leave the final decision to Itsuki.\\nI'll go check out another store.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, Miku!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Thanks, Itsuki! See ya later!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "Y-yes.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "Ooohh...\\nIt's difficult to subtly help those two, isn't it.",
+      "texto_ptbr": ""
+    }
+  ]
+}

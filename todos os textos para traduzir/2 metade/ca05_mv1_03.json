@@ -1,0 +1,444 @@
+{
+  "arquivo": "ca05_mv1_03",
+  "total": 73,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Miku",
+      "texto_en": "Uwaaa...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Raiha",
+      "texto_en": "This is...kind of unbelievable...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Miku",
+      "texto_en": "Yeah, it's completely immersed in there.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Oh, if it isn't Miku and Raiha?\\nWhat are you looking at?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Miku",
+      "texto_en": "Ah, Futaro and Itsuki.\\nThis.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "Eh? A snake in a bottle?\\nWhat is this?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Could this be habu sake?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Miku",
+      "texto_en": "Yes, it's habu sake.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Raiha",
+      "texto_en": "It's entirely submerged in the sake.\\nIt might be scary for those \\nwho are afraid of snakes.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Miku",
+      "texto_en": "Even if you're not afraid,\\nthe impact is incredible.\\nIt feels like it's still alive.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, it'd take a lot of courage to drink this.\\nI wonder what it tastes like.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "You're underage, so don't drink it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "I-I know that without you telling me!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Raiha",
+      "texto_en": "The first person who put a poisonous snake in alcohol\\nmust have been courageous.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Miku",
+      "texto_en": "Even so, there are surprisingly many foods like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "Like fugu liver?\\nThere are also some foods that take years\\nto remove the toxins to even become edible. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Do you know?\\nThey still don't know the reason why the poison disappears. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Miku",
+      "texto_en": "Oh, really?\\nSo you eat it because it's delicious\\neven though you don't know why?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "That's right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "I bow my head to the human desire for\\nunending culinary exploration!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Miku",
+      "texto_en": "I wonder if this habu sake is actually tasty?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "I don't know.\\nWe'll have to wait a while to know the taste.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Raiha",
+      "texto_en": "Habu...\\nCome to think of it, mongooses and\\nhabu snakes are enemies, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, yes, I've heard that.\\nThey're supposed to be natural enemies.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "No, that perception is wrong.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Raiha",
+      "texto_en": "Really?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "Originally, the mongoose was brought to Okinawa\\nas an animal to eradicate the habu%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "But it didn't seem to be of much help.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "Why is that?\\nDidn't they fight?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "There were plenty of other animals to feed on\\nwithout having to risk dangerous battles\\nwith habu snakes.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "So the mongooses ended up eating a lot of\\nother animals without attacking the habu,\\nwhich resulted in the destruction of the ecosystem.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Raiha",
+      "texto_en": "I see...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Actually, the number of indigenous creatures\\nin Okinawa has decreased due to the impact\\nof the mongoose. Have you heard of the Yanbaru rail?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Basically, the desire for them to be natural enemies\\nis just a human wish.\\nThey're not really enemies.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Miku",
+      "texto_en": "These animals were just tossed around by human desires.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "I didn't know that.\\nI always thought they were like dogs and cats.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Proverbs are overused\\nand turn into a fixed way of thinking.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Miku",
+      "texto_en": "...Heheh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "What's wrong?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Miku",
+      "texto_en": "Oh, nothing.\\nIt just reminded me of something from the past.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "From the past?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Miku",
+      "texto_en": "The time when I first saw you two interact,\\nFutaro, Itsuki.\\nYou two were like cats and dogs back then.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "Ah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "...Well, there was a time like that, huh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Miku",
+      "texto_en": "And now, you two are lovers. Wow.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "Don't say that...\\nIt's embarrassing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Miku",
+      "texto_en": "Itsuki, you were so cold and distant before.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "But I couldn't help it back then!\\nI still didn't understand much about Uesugi-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Itsuki",
+      "texto_en": "Plus, the past is the past, right, Uesugi-ku...\\nFutaro?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "That's right. Regardless of the past,\\nit's already something that's already happened.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Miku",
+      "texto_en": "Well then, we'll leave it at that.\\nYou two lovebirds can spend time together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "People can change.\\nI've really felt that since I met you guys.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "We feel the same way.\\nWe've changed too, since we met you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Miku",
+      "texto_en": "That's right. Especially Itsuki.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Itsuki",
+      "texto_en": "For sure, if I were to tell my old self\\nabout the present, she wouldn't believe me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Itsuki",
+      "texto_en": "That, well...\\nI'm dating Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Miku",
+      "texto_en": "I'm sure me, nor anyone else, would have believed it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Miku",
+      "texto_en": "Well then, we'll leave it at that.\\nYou two lovebirds can spend time together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "I could never forget that encounter.\\nIt was THAT impactful.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, definitely.\\nHow you could say something like that to a complete stranger.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Raiha",
+      "texto_en": "Big bro, what did you say?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Miku",
+      "texto_en": "I can kind of imagine it though.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Itsuki",
+      "texto_en": "You don't need to picture that!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Itsuki",
+      "texto_en": "However, looking back on it now,\\nthat meeting was also a good memory.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "Absolutely.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Itsuki",
+      "texto_en": "Uesu...\\nFutaro, you think so too, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "I mean, if it wasn't for that encounter,\\nwe wouldn't be where we are now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Miku",
+      "texto_en": "Well then, we'll leave it at that.\\nYou two lovebirds can spend time together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Raiha",
+      "texto_en": "For sure.\\nMake sure to escort Itsuki-san properly, big bro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, Miku?!\\nYou don't have to worry so much%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Itsuki",
+      "texto_en": "Ah...... They left...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "Well, I guess we'll just have to take their word for it. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Itsuki",
+      "texto_en": "Y-yeah.",
+      "texto_ptbr": ""
+    }
+  ]
+}

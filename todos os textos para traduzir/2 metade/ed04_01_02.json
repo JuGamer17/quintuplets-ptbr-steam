@@ -1,0 +1,240 @@
+{
+  "arquivo": "ed04_01_02",
+  "total": 39,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "(After Uesugi-san went to Tokyo\\n and my college life began%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Yotsuba",
+      "texto_en": "(The following months went by\\n in the blink of an eye.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Yotsuba",
+      "texto_en": "(Recently, I finally feel like\\n I'm actually a college student, and it's sinking in.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Yotsuba",
+      "texto_en": "(Like, in moments like these...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Yotsuba",
+      "texto_en": "Hmm...mmm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "Looks like you're struggling with your report.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Yotsuba",
+      "texto_en": "Itsukii!\\nI'm about to hit my limit.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "*sigh*\\nAt first, I thought it would be like\\nhigh school homework, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Yotsuba",
+      "texto_en": "As I was doing it, I started to lose track\\nof what I was even writing about.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "Besides, the focus is different\\nbetween high school assignments and college reports.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Yotsuba",
+      "texto_en": "There's only one more week until the deadline.\\nI want at least a C...\\nI have to work hard here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Itsuki",
+      "texto_en": "...Ah.\\nYotsuba, isn't it time already?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, right!\\nThanks, Itsuki!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "Good luck today.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Yotsuba",
+      "texto_en": "Alright, I have to get ready quickly.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Yotsuba",
+      "texto_en": "Today is an important online class day\\nwith Uesugi-san, after all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Yotsuba",
+      "texto_en": "(This is an important time to fulfill our promise.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Yotsuba",
+      "texto_en": "Hmm,\\nI didn't understand some parts of the lesson...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, I know!\\nMaybe I'll ask Uesugi-san for his opinion\\non the theme of the report I'm working on right now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "But, there's not enough time for everything...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Yotsuba",
+      "texto_en": "Hmm...\\nI have to become better at studying.\\nI can't rely on Uesugi-san for everything.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Yotsuba",
+      "texto_en": "(I'm still bad at studying, but once I'm done with it,\\n here comes my favorite time of the day.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Yotsuba",
+      "texto_en": "What should we talk about after class?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "Like, if the new clothes I bought were\\nunpopular with everyone, or if the beef bowl\\nat the school cafeteria was delicious!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Yotsuba",
+      "texto_en": "Hmm?\\nSomehow, my topics don't seem very interesting.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Yotsuba",
+      "texto_en": "Let's try to have a conversation like lovers...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Yotsuba",
+      "texto_en": "I'm not quite ready for that yet.\\nAlright, I'll leave today's topic to Uesugi-san.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Yotsuba",
+      "texto_en": "(Small, trivial everyday topics,\\n like when we were in high school.\\n Although insignificant, it was a fun conversation.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Yotsuba",
+      "texto_en": "(Thanks to that, even though we're apart,\\n I feel like he was sitting right next to me.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Yotsuba",
+      "texto_en": "...But, I still want to see you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Yotsuba",
+      "texto_en": "Futaro...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Yotsuba",
+      "texto_en": "...Hm?\\nA text?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Yotsuba",
+      "texto_en": "WHAAA?!\\nU-U-Uesugi-san? Why?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Yotsuba",
+      "texto_en": "What?! When did that happen?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": " So, just wait a moment.]",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Yotsuba",
+      "texto_en": "U-um, when did you start listening in?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, never mind! You don't have to say anything!\\nMore importantly, just%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Yotsuba",
+      "texto_en": "Please take care of me today!",
+      "texto_ptbr": ""
+    }
+  ]
+}

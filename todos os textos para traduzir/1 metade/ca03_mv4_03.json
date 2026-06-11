@@ -1,0 +1,456 @@
+{
+  "arquivo": "ca03_mv4_03",
+  "total": 75,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Raiha",
+      "texto_en": "Miku-san, 'haitaaai!'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Raiha",
+      "texto_en": "...Like this?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Miku",
+      "texto_en": "Pretty good, I think.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Miku, Raiha too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Miku",
+      "texto_en": "Ah...\\nFutaro...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Raiha",
+      "texto_en": "Big bro, 'haitaaai!'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "'Haitai?'\\nIt's high tide?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Raiha",
+      "texto_en": "Ahaha!\\nWay off! Right, Miku-san?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Miku",
+      "texto_en": "I learned some words of the Okinawan language,\\nfrom one of the attendants\\nin the Native Okinawan Village.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Raiha",
+      "texto_en": "The language is called 'Uchinaaguchi.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, I've heard of it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "'Haitai' is a greeting that means 'hello.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Raiha",
+      "texto_en": "Men say 'haisai' and women say 'haitai!'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Interesting, it changes depending on the gender.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Raiha",
+      "texto_en": "Big bro, 'haitaaai!'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "'Haisaaai.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Miku",
+      "texto_en": "Teehee...\\nBoth of you are cute.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Raiha",
+      "texto_en": "Now, time for a quiz, big bro!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Ohh?\\nHow sudden.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Raiha",
+      "texto_en": "What does the phrase\\n'akisamiyo' mean in Uchinaaguchi?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "No idea.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Miku",
+      "texto_en": "Wow...\\nYou give up too easily.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Raiha",
+      "texto_en": "Think about it a little...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "It's not something you figure out just by thinking about it, you need to do some research.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Miku",
+      "texto_en": "Well, I guess.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Just tell me what it means.\\nIt's unsettling not to know.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Raiha",
+      "texto_en": "'Akisamiyo' means something like\\n'oh my' or 'how surprising.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "...There's no way I would've gotten that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Miku",
+      "texto_en": "When you're surprised, you sometimes say 'akisamiyo'\\nwithout thinking about it. It's kind of strange.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Some sort of word to make a command?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Raiha",
+      "texto_en": "Unfortunately, that's incorrect!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Ugh... Wrong, eh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Miku",
+      "texto_en": "Why do you think that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "I had a feeling that the last part, 'miyo',\\nmight be telling someone to do something.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Miku",
+      "texto_en": "Well, that could be a possible interpretation.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Just tell me what it means.\\nIt's unsettling not to know.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Raiha",
+      "texto_en": "'Akisamiyo' means something like\\n'oh my' or 'how surprising.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "...There's no way I would've gotten that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Miku",
+      "texto_en": "When you're surprised, you sometimes say 'akisamiyo'\\nwithout thinking about it. It's kind of strange.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "...I have a bad feeling about this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Raiha",
+      "texto_en": "A bad feeling?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Raiha, are you trying to make me say embarrassing things\\nin front of Miku with words I don't know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Raiha",
+      "texto_en": "Huh? Like what?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "Like...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "I-I love you, or something like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Miku",
+      "texto_en": "Whaaa...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Raiha",
+      "texto_en": "Oh, I see! I could have done that!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "WHAT THE?!\\nSo that means my answer is WRONG?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Raiha",
+      "texto_en": "Totally unrelated.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "(NNAH! I messed up!\\n Now it's even more awkward...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Raiha",
+      "texto_en": "True... I should've gone for 'dejisukisa.'\\nNot 'akisamiyo.' Mmmm. What a shame.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "Hey, even I can understand this one!\\nIt's obvious when you say it!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Miku",
+      "texto_en": "'Deji...sukisa...'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "Just tell me what it means.\\nIt's unsettling not to know.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Raiha",
+      "texto_en": "'Akisamiyo' means something like\\n'oh my' or 'how surprising.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "...There's no way I would've gotten that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Miku",
+      "texto_en": "When you're surprised, you sometimes say 'akisamiyo'\\nwithout thinking about it. It's kind of strange.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "For sure.\\nIt's natural for someone\\nwho grew up in Okinawa, though.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "Did you learn any others?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Miku",
+      "texto_en": "Yes, a few.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Miku",
+      "texto_en": "The word I like is 'Nankurunaisa.'\\nIt means to be positive\\nand believe that everything will work out.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "I've heard of that one.\\nIt has a positive meaning, huh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Miku",
+      "texto_en": "The sound is kind of gentle too.\\nI might try saying it to myself\\nwhen I'm feeling down.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, isn't that nice?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Raiha",
+      "texto_en": "Big bro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "What's wrong?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Raiha",
+      "texto_en": "You and Miku-san are looking really good right now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah, I guess.\\nThanks to you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Raiha",
+      "texto_en": "Keep up the good relationship with Miku-san, okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "Okay...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Raiha",
+      "texto_en": "Fine, then.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Miku",
+      "texto_en": "?\\nWhat's wrong, you two?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Raiha",
+      "texto_en": "It's nothing!\\nNankurunaisa!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Miku",
+      "texto_en": "O-okay.",
+      "texto_ptbr": ""
+    }
+  ]
+}

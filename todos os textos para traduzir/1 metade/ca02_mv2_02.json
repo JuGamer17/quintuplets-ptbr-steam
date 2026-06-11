@@ -1,0 +1,390 @@
+{
+  "arquivo": "ca02_mv2_02",
+  "total": 64,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "Mmmmm, should I swim a little more?\\nThere's still time, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "Didn't you swim enough for now, after swimming the WHOLE\\nday?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Yotsuba",
+      "texto_en": "It just feels so good, you know?\\nThe ocean is so beautiful, and the more I swim,\\nthe more I feel like it's not enough!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Yotsuba",
+      "texto_en": "Come on, Nino, let's swim together!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Nino",
+      "texto_en": "I'm good. Right now, I feel like\\njust gazing at the ocean.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Yotsuba and Nino, huh?\\nWhat are you guys up to?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "Ah, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Nino",
+      "texto_en": "Can't you say something?\\nYotsuba is about to go swimming AGAIN.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, I want to swim as much as I can! \\nUesugi-san, you agree, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, for sure.\\nI understand the feeling.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "But take a little break, too.\\nWhen you're swimming so much it's easy to\\nget dehydrated.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "Well, if you put it that way, gazing at the ocean\\ndoesn't sound that bad, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "Just relaxing, huh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Yotsuba",
+      "texto_en": "Hmm, I guess it's weird to\\npush yourself too hard during a vacation.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Nino",
+      "texto_en": "I think about that sometimes.\\nNowadays vacations are always about going \\naway somewhere, ya know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "I mean, that's true, but%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "I think that just being with the people you love is a great way \\nto spend your vacation.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Yotsuba",
+      "texto_en": "I see.\\nWell, I guess I'm disturbing you guys.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "N-no, you're not interrupting.\\nWe came as a group to Okinawa!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "Teehee, that's right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "W-well, I guess everyone has their own way\\nof spending their vacation. Some people relax at home,\\nsome people go on vacation, and some people study.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "Studying is definitely not an option, though.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Oh, speaking of relaxing,\\nthere's a word in Okinawa called 'uchina time.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "Huh? What's that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Yotsuba",
+      "texto_en": "It sounds like a secret technique!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "What the? A secret technique?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Yotsuba",
+      "texto_en": "It's like as if you're\\nmanipulating the flow of time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Yotsuba",
+      "texto_en": "Secret Technique: Uchina Time!\\nNow we control the time!!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "...You're the only one who thinks that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Yotsuba",
+      "texto_en": "Really?\\nI thought it sounded kind of cool.\\nWhat do you think, Nino?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "Don't drag me into this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Yotsuba",
+      "texto_en": "AHH!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Uchina time refers to the unique sense of time\\nin Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Nino",
+      "texto_en": "A sense of time?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Yotsuba, your imagination runs wild...\\nThat's not an ordinary thought that comes to mind.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Yotsuba",
+      "texto_en": "Yay! I got a compliment!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Nino",
+      "texto_en": "Yeah, it kinda sounded like a compliment?\\nIt's an idea I couldn't come up with.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Uchina time refers to the unique sense of time\\nin Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Nino",
+      "texto_en": "A sense of time?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "You're kinda right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Yotsuba",
+      "texto_en": "Really?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Nino",
+      "texto_en": "Huh? What do you mean?\\nHave you just said that I'm correct, Futaro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "I'm not kidding.\\nWell, it's a unique Okinawan culture.\\nIt's not your fault if you guys don't know about it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "Uchina time refers to the unique sense of time\\nin Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Nino",
+      "texto_en": "A sense of time?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "For example, if we made plans to meet somewhere,\\nwe would set up a time and meet accordingly%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "In Okinawa, it's common to arrive late for a meeting,\\nand the other person won't be complaining.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh? Is that true?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "Of course, not all Okinawans are like that.\\nIn the end, it probably depends\\non the individual's personality.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Nino",
+      "texto_en": "So, Uchina time means being loose with time?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "...Yeah, you could say that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Yotsuba",
+      "texto_en": "If you're that loose with time,\\nwouldn't you have trouble catching a train,\\nfor example?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Well, there's only one monorail in Okinawa,\\nso maybe that's a part of their unique Okinawan identity.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Yotsuba",
+      "texto_en": "Also, when it comes to school or work,\\nit might be tough if you go by Uchina time, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Nino",
+      "texto_en": "Apparently, they are punctual in a professionnal setting, \\nbut tardy in their private lives.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Yotsuba",
+      "texto_en": "Hahaha, that's true.\\nThe staff of the hotel restaurant was always on time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Yotsuba",
+      "texto_en": "But it's an interesting lifestyle.\\nFor people who live life at their own pace,\\nOkinawa might be a really nice place.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Nino",
+      "texto_en": "When traveling, you're sometimes surprised\\nby these unique cultural differences.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Nino",
+      "texto_en": "It's the same overseas, isn't it?\\nI often hear that Italy's sense of time differs from that of \\nother European countries.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "Oh yeah, I've heard that too.\\nTheir sense of punctuality is so different from ours it'll \\ndefinitely be causing problems.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "Did you know that Greeks live at their own pace too?\\nMaybe they'd get along well with Okinawans.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh really, I didn't know that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Nino",
+      "texto_en": "...They probably have different values, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Nino",
+      "texto_en": "It's interesting how people\\nare changed by the culture they are living in. \\nIt's fascinating.",
+      "texto_ptbr": ""
+    }
+  ]
+}

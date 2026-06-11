@@ -1,0 +1,126 @@
+{
+  "arquivo": "ca05_22",
+  "total": 20,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "So, what should we do?\\nToday is a free day,\\nso let's go wherever you want, Itsuki.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "How about we go to a place that interests you,\\nUesugi-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Is that so?\\nHmm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "I'm interested in historical sites like castles,\\nbut Okinawa is so big.\\nIt might be tough to go there right now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "A castle, you say?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "There's a place\\nwhere the castle walls have been restored.\\nLike Nakagusuku Castle.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, well, how about we stop by there on the last day,\\non our way to Okinawa World?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Ah, that's right.\\nWell then...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "...Oh, no.\\nThere are too many options to choose from.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "Okinawa has so many attractive places\\nthat it's difficult to decide.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Come to think of it, tomorrow's plan\\nwas to go to Ocean Expo Park,\\nand then head to American Village.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "American Village, that's a shopping mall, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, there are buildings that are designed\\nwith an American style.\\nIt's a good place to take our time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Okay, let's go there then.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, let's do that.\\nWe don't want to waste time thinking too much.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "I deeply feel that we're not good at spontaneity.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Haha, that's for sure.\\nI'm also the type to plan out my travels precisely.\\nI can't decide intuitively like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "Is this also our way of doing things?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Let's go with that for now.\\nRight, let's head to American Village.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "Okay.",
+      "texto_ptbr": ""
+    }
+  ]
+}

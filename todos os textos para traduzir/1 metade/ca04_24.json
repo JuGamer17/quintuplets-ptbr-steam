@@ -1,0 +1,408 @@
+{
+  "arquivo": "ca04_24",
+  "total": 67,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "Tah-dah!\\nToday, we're shopping in American Village!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Raiha",
+      "texto_en": "Whaaaa?!\\nWhy is America in Okinawa?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Miku",
+      "texto_en": "This is a shopping mall\\nthat's designed like America.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "I can understand why you're surprised, Raiha-chan.\\nThe cityscape doesn't look like Japan at all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Yotsuba",
+      "texto_en": "I heard that this entire area was designed\\nto resemble the west coast of the United States.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "It's pretty big.\\nIt seems like there are a lot of interesting shops too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Yotsuba",
+      "texto_en": "Hehehe, for you, Nino, I've got this!\\nUse this shop list.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Nino",
+      "texto_en": "Oh, how thoughtful of you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Yotsuba",
+      "texto_en": "Teehee.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "(Same old Yotsuba...\\n No, something's a little different.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "(I shouldn't judge people\\n based on their speech or actions anymore.\\n That would just be my own self-centeredness.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Ichika",
+      "texto_en": "Futaro-kun, you're surprisingly quiet today.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "Did something Dad say to you yesterday\\nget to you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, that was honestly pretty tough.\\nI really need to step up and be more responsible.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "Teehee, I see.\\nSo you've grown on this trip too, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "Alright, where should we start?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Knowing you guys,\\nyou probably all want to go different places, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Miku",
+      "texto_en": "So, shall we just do our own thing?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Yotsuba",
+      "texto_en": "Hm... I got it!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Miku",
+      "texto_en": "What's up?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Yotsuba",
+      "texto_en": "I want to go somewhere with Uesugi-san.\\nIs that okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Miku",
+      "texto_en": "Just the two of you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "Of course, just the two of us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Nino",
+      "texto_en": "You don't have to worry about us.\\nYou can go wherever you want.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, if you want to do that, Yotsuba,\\nwe have no objections.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "That's right. Take your time and have fun, okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Raiha",
+      "texto_en": "Have a good time!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Yotsuba",
+      "texto_en": "And what about you, Uesugi-san?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Why are you asking me?\\nThere's no way I'd refuse.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Yotsuba",
+      "texto_en": "...Okay!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "(Led by Yotsuba, we started walking\\n and ended up in a labyrinth-like area.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "(It seems like this shopping mall\\n is actually a combination of multiple buildings.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "(In the midst of it all,\\n Yotsuba seemed to be wandering down random paths,\\n yet%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Yotsuba? Where are we now?\\nI don't even know which direction we're facing anymore.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Yotsuba",
+      "texto_en": "Tee-hee-hee.\\nNow, I wonder?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Hey, don't tell me you're lost or something.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Yotsuba",
+      "texto_en": "But it's fun to get lost here.\\nIt never gets boring to look at it all.\\nIt feels like a theme park!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "We're actually lost, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Yotsuba",
+      "texto_en": "Don't worry.\\nIt's not a real maze, so even if you get a little lost,\\nyou'll eventually find your way out.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "Wait a minute.\\nDoesn't that mean we're actually lost?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahahaha!\\nYou worry too much, Uesugi-san.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Jeez...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "Sometimes, it's nice to just walk around\\nwithout a care in the world, like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Yotsuba",
+      "texto_en": "It's a little unsettling not knowing where it leads,\\nbut that's what makes it exciting, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "For sure.\\nIt IS like a theme park.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Yotsuba",
+      "texto_en": "All the shops look so interesting,\\nit's hard not to stop by each and every one.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Yotsuba",
+      "texto_en": "Also, there are so many decorations\\nthat just looking at them gets you excited!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, this isn't half bad.\\nLet's keep going further ahead.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, let's go!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "Sometimes, it's nice to just walk around\\nwithout a care in the world, like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Yotsuba",
+      "texto_en": "It's a little unsettling not knowing where it leads,\\nbut that's what makes it exciting, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "It's alright to get lost.\\nI don't mind either way.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "I mean, as long as I'm with you,\\nI don't mind getting lost...\\nis what I mean.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "With you,\\nI feel like I can walk down any path I want.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Yotsuba",
+      "texto_en": "...Okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "C-come on, here we go!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah! Let's keep on keepin' on!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "Sometimes, it's nice to just walk around\\nwithout a care in the world, like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Yotsuba",
+      "texto_en": "It's a little unsettling not knowing where it leads,\\nbut that's what makes it exciting, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "I feel like I finally understand something\\nyou said a long time ago.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh? What are you talking about?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "(If you're with someone you like,\\n just walking around is enjoyable.\\n I guess that's what a date is like.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "So, where are we heading?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Yotsuba",
+      "texto_en": "That's a surprise for when we get there!\\nCome on, this way!",
+      "texto_ptbr": ""
+    }
+  ]
+}

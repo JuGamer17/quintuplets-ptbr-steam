@@ -1,0 +1,480 @@
+{
+  "arquivo": "ca04_mv5_01",
+  "total": 79,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Ichika",
+      "texto_en": "Huh? Futaro-kun, are you alone?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Oh, it's Ichika.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Ichika",
+      "texto_en": "What now?\\nYou seem a bit disappointed.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "No, not really.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Ichika",
+      "texto_en": "Hmm. Well, let's just leave it at that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "This is the Native Okinawan Village, right?\\nIt's surprising to see you taking an interest\\nin a place like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "Really?\\nSince I came all the way here, I wanted to see buildings\\nthat truly scream Okinawa!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, Uesugi-san?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Ah!\\nY-Yotsuba, you were here too, huh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Yotsuba",
+      "texto_en": "What a coincidence to meet here like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, it is. I just happened to come this way.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Yotsuba",
+      "texto_en": "R-right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "Hmmm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "Yotsuba.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Yotsuba",
+      "texto_en": "Hm? What?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "If you want to look around with Futaro-kun,\\nwhy don't you invite him instead of hesitating?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Yotsuba",
+      "texto_en": "Whaaaat?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Huh? What's the matter?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Yotsuba",
+      "texto_en": "Nothing!\\nWe're just talking about something else!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "I-Ichika!\\nThe timing now's a little off...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Ichika",
+      "texto_en": "Hey, Futaro-kun.\\nHow about taking a look around with Yotsuba?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Yotsuba",
+      "texto_en": "Uwawaa?!\\nB-but I'm looking around at things\\nwith you right now, Ichika!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Ichika",
+      "texto_en": "Don't worry about me,\\nyou're free to go wherever you want.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "Umm, well, uh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Yotsuba",
+      "texto_en": "L-look!\\nEven you must want to see something, right?\\nPlease go ahead, don't mind me!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Well, it is free time, isn't it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "That's right.\\nIt's your special free time, isn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Yeah.\\nI get what you're saying.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "Hmm, this is tough.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, look at that!\\nThere's a shisa on the roof! See?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah, you're right!\\nWhy is it placed up there?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Ichika",
+      "texto_en": "Come on...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "It's impossible to just ignore Ichika.\\nWe'd just be leaving her all alone.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Yotsuba",
+      "texto_en": "Th-that's right!\\nThat'd be so selfish of us!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Ichika",
+      "texto_en": "Even still it's ok to be a little selfish sometimes.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh? Ichika?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Ichika",
+      "texto_en": "Both of you, Futaro-kun and Yotsuba,\\nare serious, in a good way AND bad way.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, look at that!\\nThere's a shisa on the roof! See?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah, you're right!\\nWhy is it placed up there?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Ichika",
+      "texto_en": "Come on...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "It might be nice to go see things together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "...Ummm.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Ichika",
+      "texto_en": "Heh, it seems like your true feelings\\nslipped out accidentally, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Ichika",
+      "texto_en": "So? What are you gonna do?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "Well, even Yotsuba must have things she wants to see,\\nand since it's free time, I think we should prioritize\\nwhat each person wants to see, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Yotsuba",
+      "texto_en": "Th-that's right!\\nIt IS free time, after all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Ichika",
+      "texto_en": "I think it's okay for you to decide\\nwhat you want to prioritize.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, look at that!\\nThere's a shisa on the roof! See?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah, you're right!\\nWhy is it placed up there?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Ichika",
+      "texto_en": "Come on...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, yeah, it's a shisa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Ichika",
+      "texto_en": "They say it's protecting the 'Hinukan,'\\nwhich is the god of the hearth in that house.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "Oh, really.\\nYou're quite knowledgeable.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Ichika",
+      "texto_en": "Actually, I just heard it earlier.\\nIt's what the guide told me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh? But, isn't it strange to put it on the roof\\nto protect the god of the hearth?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Ichika",
+      "texto_en": "Most old houses used to have thatched roofs,\\nso it's to prevent fires from breaking out.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Yotsuba",
+      "texto_en": "Wow, I see.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "Makes sense.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Yotsuba",
+      "texto_en": "Speaking of which, we often see shisa in the city\\nwith their mouths open or closed, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "Probably the A-un pair, yeah?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Ichika",
+      "texto_en": "A-un...\\nAre those the komainu at shrines?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "Oh, that's right.\\nThe A-un pair of komainu\\nsymbolizes the beginning and the end of all things.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "Wasn't that explained by the guide?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Ichika",
+      "texto_en": "Well, I didn't hear it directly from the guide.\\nI just overheard it\\nwhen they were explaining to someone else.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Yotsuba",
+      "texto_en": "In that case, it's time to ask for help\\nfrom the amazing smartphone!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Yotsuba",
+      "texto_en": "Let me see...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Yotsuba",
+      "texto_en": "Shisa come in male and female pairs,\\nwith one with an open mouth being male,\\nand the one with a closed mouth being female.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "Oh, I didn't know that they were male and female.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Yotsuba",
+      "texto_en": "The male protects the house from external threats,\\nwhile the female prevents good fortune\\nfrom escaping outside, or so they say.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Ichika",
+      "texto_en": "I see.\\nThat's why they're often placed in front of gates.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Yotsuba",
+      "texto_en": "They always stick together to protect the house,\\ndon't they?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Ichika",
+      "texto_en": "In that case,\\nwhy don't you two go be lovey-dovey too?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Yotsuba",
+      "texto_en": "HUH?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Ichika",
+      "texto_en": "Don't mind me, just go have fun together,\\nyou two lovebirds.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "I said, stop worrying about us like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Yotsuba",
+      "texto_en": "That's right! Since we're on a trip together,\\nwe should all have fun together!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Yotsuba",
+      "texto_en": "Come on, Ichika! Let's go see the next place!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Ichika",
+      "texto_en": "Aa-ah, really, now.\\nWell then, see you later, Futaro-kun.",
+      "texto_ptbr": ""
+    }
+  ]
+}

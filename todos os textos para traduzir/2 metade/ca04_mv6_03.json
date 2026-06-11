@@ -1,0 +1,552 @@
+{
+  "arquivo": "ca04_mv6_03",
+  "total": 91,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "Hmm, what should we do?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Raiha",
+      "texto_en": "There are so many options, it's tough to decide.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Oh, what's wrong with you two?\\nLooks like you're having trouble.\\nDid something happen?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, Uesugi-san.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Raiha",
+      "texto_en": "Big bro, perfect timing!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Raiha",
+      "texto_en": "We were talking about where to go.\\nHow about you join us?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Oh, sure, I don't mind.\\nShall we go around together?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "O-okay!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Raiha",
+      "texto_en": "But, we can't quite decide on a destination,\\nso we're having a tough time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Raiha",
+      "texto_en": "I heard the Dream Center over there\\nhas lots of rare flowers to see.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Yotsuba",
+      "texto_en": "That's a botanical garden with tropical plants, right!\\nSounds good, doesn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Raiha",
+      "texto_en": "The Oceanic Culture Museum has a planetarium,\\nwhere you can see the Okinawan starry sky.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "That sounds good too.\\nIt's quite romantic, don't you think?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "I don't mind that either.\\nOkinawa's starry sky\\nis totally different from our hometown's.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Raiha",
+      "texto_en": "Mmhh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "What's wrong, Raiha? Did something happen?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Raiha",
+      "texto_en": "Also, it might be nice to see the beautiful view\\nat the nearby Emerald Beach.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "That's a good idea too.\\nThat beach is known for its beauty, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, Emerald Beach...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "(...Hm?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Raiha",
+      "texto_en": "Oh, come on!\\nI've been the only one suggesting places the whole time,\\nyou know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Huh? Well,\\nwherever you want to go takes top priority\\nover what we say...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Raiha",
+      "texto_en": "Don't worry about me!\\nPlease decide on a place just between you two!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "Oh dear.\\nWhat do you think, Yotsuba?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Yotsuba",
+      "texto_en": "Umm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Yotsuba",
+      "texto_en": "If it's alright, how about we go to Emerald Beach?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "Haven't gotten enough beaches yet, eh?\\nWe went swimming there yesterday.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Yotsuba",
+      "texto_en": "That's true. But I heard this particular beach\\nis exceptionally beautiful,\\nand I'd like to go if possible.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "I gotcha.\\nSince we're here, let's check it out then.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Yotsuba",
+      "texto_en": "Okay, thanks!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "Raiha, you cool with that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Raiha",
+      "texto_en": "Yes, I'm fine with it.\\nBut...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "What, what's wrong?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Raiha",
+      "texto_en": "I said to make a decision just between the two of you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, but you're also going with us,\\nso we should make sure with you as well...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Raiha",
+      "texto_en": "Hmm, well, I appreciate your consideration, big bro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Yotsuba",
+      "texto_en": "I-it's okay, Raiha-chan.\\nThat's just...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Yotsuba",
+      "texto_en": "The good thing about Uesugi-san.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Raiha",
+      "texto_en": "Okay, if Yotsuba-san says so, then I'll allow it!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "Got it, let's go.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh? Really?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Raiha",
+      "texto_en": "Big bro actually made a big decision?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "What's the matter?\\nIs it so strange?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "Judging from Yotsuba's behavior,\\nit was clear that she wanted to go to Emerald Beach.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "You don't have do be so shy...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahaha... Excuse me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Raiha",
+      "texto_en": "Nice, nice.\\nGreat job, big bro!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Raiha",
+      "texto_en": "Uwaaa! It's so beautiful!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Yotsuba",
+      "texto_en": "The sea is a stunning emerald green!\\nJust as its name says.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "It's not just any emerald green.\\nThe depth of the color increases\\nas you go further out to sea.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "However, I didn't expect to find such a beach\\nright next to the park.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Yotsuba",
+      "texto_en": "And, it looks like no one else is here except for us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Raiha",
+      "texto_en": "Amazing! It's like a private beach!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "Raiha! Don't run and fall!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Raiha",
+      "texto_en": "Yeah!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "(This is a pleasant surprise.\\n It's probably just a coincidence,\\n but it's like it was prepared just for us.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Raiha",
+      "texto_en": "Hey, Yotsuba-san!\\nThere's a shisa here too!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh wow, you're right!\\nIt must be protecting the peace of this beach!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Raiha",
+      "texto_en": "Hey, hey, let's take a photo as a memento!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Yotsuba",
+      "texto_en": "Of course! Leave it to me!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Yotsuba",
+      "texto_en": "I'm going to follow Raiha.\\nI'll be back in a flash!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "Oh, sure. Take your time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Yotsuba",
+      "texto_en": "Umm, this is the resting beach,\\nthat side is the viewing beach,\\nand over there is the playing beach.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Raiha",
+      "texto_en": "Where should we go first?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Yotsuba",
+      "texto_en": "Before that,\\nlet's take a photo with the sea as the background!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Raiha",
+      "texto_en": "Yaaay!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "(Haha, what kind of photos are the two of them taking?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh! Look at this!\\nThis driftwood looks really cool.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Raiha",
+      "texto_en": "Yeah, it looks like a boat.\\nYotsuba-san, let's ride it together!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Yotsuba",
+      "texto_en": "Before that, I'm gonna take photo!\\nOkay, strike a pose!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Futaro",
+      "texto_en": "(A photo, eh.\\n I wonder how many we've taken on this trip.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Yotsuba",
+      "texto_en": "This seashell is really pretty.\\nI wonder if this one over here is a fragment of coral?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Yotsuba",
+      "texto_en": "There's a lighthouse beyond that cape.\\nI'll show it to everyone later.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahaha. That cloud looks like a shark, doesn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Futaro",
+      "texto_en": "(Haha, that Yotsuba takes photos of everything,\\n doesn't she?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Yotsuba",
+      "texto_en": "But, the sea is really beautiful...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Yotsuba",
+      "texto_en": "I'm glad I came here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Yotsuba",
+      "texto_en": "...Hm?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Futaro",
+      "texto_en": "Ah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san, is everything okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 84,
+      "personagem": "Futaro",
+      "texto_en": "I-it's nothing!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 85,
+      "personagem": "Raiha",
+      "texto_en": "Yotsuba! A sea urchin!\\nLook, there's a spiky sea urchin!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 86,
+      "personagem": "Yotsuba",
+      "texto_en": "A sea urchin? We DEFINITELY have to look at that!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 87,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 88,
+      "personagem": "Futaro",
+      "texto_en": "(I took a photo without thinking.\\n What am I doing...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 89,
+      "personagem": "Futaro",
+      "texto_en": "(But%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 90,
+      "personagem": "Futaro",
+      "texto_en": "(I took...a really good photo.)",
+      "texto_ptbr": ""
+    }
+  ]
+}

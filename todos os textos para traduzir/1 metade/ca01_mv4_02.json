@@ -1,0 +1,414 @@
+{
+  "arquivo": "ca01_mv4_02",
+  "total": 68,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Nino",
+      "texto_en": "I thought the main attraction here\\nwas Churaumi Aquarium, but there seem to be\\nmany other interesting places too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, I'm getting confused on where we should go.\\nThere's no way we can see everything.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, if it isn't Uesugi-san.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Yo.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Nino",
+      "texto_en": "What are you up to?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "I was wandering around, taking in the sights.\\nWhere are you guys headed?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Yotsuba",
+      "texto_en": "We're still deciding.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Nino",
+      "texto_en": "It's tough. Having too many options can be a problem.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Yotsuba",
+      "texto_en": "The more we think, the more time passes...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Yotsuba",
+      "texto_en": "If we keep this up, we'll just end up\\nstaring at the fountain until it's time to meet up!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "That would be a waste.\\nWhy don't you just move somewhere\\nthat catches your eye?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "Somewhere that catches our eye...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "What about Emerald Beach? I'm interested in checking\\nthat out. It's got white sandy beaches and emerald\\ngreen waters, which is quintessentially Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "What about you, Yotsuba?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Yotsuba",
+      "texto_en": "I'd like to conquer the seaside promenade.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "C-conquer?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh!\\nI should say 'explore' or something like that, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Well, I didn't mean it that way.\\nYou can't really 'conquer'\\na promenade in the first place.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Nino",
+      "texto_en": "Hey, Fu-kun, is there anywhere you want to go?\\nCome on, don't waste this opportunity.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "I can't think of anywhere in particular.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "You're answering so quickly. Are you sure?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Well, I have nowhere in mind, so it can't be helped.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Yotsuba",
+      "texto_en": "I mean, I get that, but you know,\\nit's like when someone says 'anything is fine'\\nfor dinner. It just make things harder, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "Yeah, I know what you mean.\\nI wish you would consider our feelings more\\nand not just leave it all up to us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Ooh...\\nUm...then, what about that 'Emerald Beach'\\nyou mentioned, Nino?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "I'm interested in Emerald Beach.\\nIs it really that beautiful?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "Yeah, look, there are photos of it in the brochure%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Wow! Now this looks amazing!\\nIt might be a waste if we don't see it in person.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Nino",
+      "texto_en": "Right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Yotsuba",
+      "texto_en": "I want to go too!\\nIf that's ok with the both of you,\\nI'd love to tag along.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "Okay, then it's decided.\\nWe won't be able to swim,\\nbut let's go admire the view.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Alright!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Maybe taking a stroll could be good too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Nino",
+      "texto_en": "What?\\nThat's not an answer you know.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Well, maybe we could encounter\\ninteresting things while walking?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "You know, surrendering yourself completely to\\nthe unexpected on vacation can be quite interesting,\\ndon't you think?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Yotsuba",
+      "texto_en": "I see.\\nThat's a romantic idea.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "Yes, now that you mention it... That sounds good.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Nino",
+      "texto_en": "Alright then, shall we take a stroll\\naccording to Fu-kun's whims from here on?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Huh? Mine?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Yotsuba",
+      "texto_en": "We're counting on what captures\\nyour romantic sensor, Uesugi-san!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "What's THAT sensor?\\nI don't want you two putting any\\nweird expectations on me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Yotsuba",
+      "texto_en": "Ohhh, this is...!\\nIs this truly a real-life scene?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "Of course it's real,\\nwhat else could it be if not real?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Nino",
+      "texto_en": "But I know what you mean.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Nino",
+      "texto_en": "If you woke up and saw a scene like this,\\nyou'd think you were still dreaming.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Well, I didn't think it would be this beautiful.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Yotsuba",
+      "texto_en": "As expected, Uesugi-san's romantic sensor\\nwould choose a place like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "No, it's just that Nino's words about Emerald Beach\\nstuck in my head, so I just ended up walking here.\\nIt wasn't really a coincidence or anything.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Nino",
+      "texto_en": "That's fine.\\nI was able to witness this scenery, after all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Yotsuba",
+      "texto_en": "We're planning to go to the beach this afternoon, right?\\nWhy not swim here instead?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "That might be possible, but\\nchanging plans suddenly is difficult.\\nBesides, I didn't bring a change of clothes.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, you're right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Nino",
+      "texto_en": "It's a shame, but we'll just have to watch today.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Yotsuba",
+      "texto_en": "We're planning to go to the beach this afternoon, right?\\nWhy not swim here instead?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "That might be possible, but\\nchanging plans suddenly is difficult.\\nBesides, I didn't bring a change of clothes.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, you're right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Nino",
+      "texto_en": "It's a shame, but we'll just have to watch today.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh! You can see an island over there!\\nDo you think we could swim all the way over there?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "Hey, don't suggest something crazy like that\\nout of nowhere.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Nino",
+      "texto_en": "Someday, I'd like to visit one of the outlying islands.\\nBut we don't have time for that this time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Yotsuba",
+      "texto_en": "Right!\\nLet's go diving in Ishigaki Island or Miyako Island!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Yotsuba",
+      "texto_en": "In that case,\\nwe'll have to come to Okinawa again with everyone,\\nwon't we? You too, Uesugi-san?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, that's true.\\nIf we have the chance, it would be nice.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Nino",
+      "texto_en": "We don't have to wait for the chance.\\nWe could even do it this summer, couldn't we?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "Really...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Yotsuba",
+      "texto_en": "Really!\\nTee-hee!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "(This summer, huh?\\n I can't even imagine how I'll be living by then...)",
+      "texto_ptbr": ""
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "arquivo": "ca06_02",
+  "total": 31,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*\\nFinally, I'm alone...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(Even though I just ate, I feel oddly tired.\\n Nino and Miku kept trying to\\n alternately feed me their food...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(As expected, it was a mistake for those two\\n to sit on both sides of me.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "(At times like this, Itsuki,\\n who always has my back, just silently ate.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "(On the other hand, Yotsuba was considerate,\\n and kept talking to me... Because of that, she \\n didn't even have time to enjoy her meal.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "(I remember that there were expensive-looking dishes,\\n but I can't remember what I ate at all.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "...Anyway, what was up with Nino and Miku?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "(Until recently, those two haven't been too obvious \\n with their rivalry.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "(Yet, even Itsuki seems to be\\n turning a blind eye to their actions...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "(This trip was planned by them,\\n even before I proposed it.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "(Just like how I'm trying to come up with an answer,\\n they're also seeking an answer from me, right?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "(If so, this graduation trip\\n isn't just about making memories.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "...We were thinking of similar things, huh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "(From the moment I agreed to this trip,\\n the stage had already been set%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "I see. So that's the source of this strange feeling.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "(Judging by their attitude today,\\n Nino and Miku are subtly pleading \\n for me to choose them.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "(If that's the case, then what about Itsuki,\\n who's silently allowing it%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "(Does she hope that Nino and Miku's feelings\\n will be realized, even if it causes friction\\n between the sisters?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "(Yotsuba seems to be her usual self,\\n but there's no way she doesn't know\\n what her other sisters are thinking.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "(Ichika... I wonder...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "To think we talked about making memories,\\nand yet I'm in this situation from day one%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "(Making memories, huh?\\n Looking back, I can't believe\\n I actually said that.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "(It's all my fault that we ended up in this mess,\\n as I kept delaying my answer.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "(I've caused everyone pain\\n by toying with their feelings.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "(...There's no way this trip can be our last.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "(They're waiting for me.\\n I need to give them my answer soon.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "(That's...honestly, all I can do for now.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "(Anyway, I need to clarify my own feelings\\nstarting tomorrow.)",
+      "texto_ptbr": ""
+    }
+  ]
+}

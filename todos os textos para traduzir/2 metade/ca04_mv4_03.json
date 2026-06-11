@@ -1,0 +1,462 @@
+{
+  "arquivo": "ca04_mv4_03",
+  "total": 76,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Raiha",
+      "texto_en": "Ah, big bro!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Hmm?\\nWhat are the two of you doing?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Miku",
+      "texto_en": "Just taking a break.\\nWe're thirsty.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "I see, take your time and rest.\\nI'll go check out some other things,\\nso don't be late for our meeting time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Miku",
+      "texto_en": "Don't go.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Uwaaa?!\\nWhat's up, all of a sudden?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "Futaro, why don't you take a break too?\\nYou must be tired from walking around.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*\\nWell, I am a little tired.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Miku",
+      "texto_en": "Okay, then it's settled.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "Alright.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Raiha",
+      "texto_en": "That's right, look, big bro.\\nSee, there's a tea that's only available in Okinawa.\\nIt's called sanpin-cha.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Wow, for sure, I've never seen it before.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Miku",
+      "texto_en": "It's different from green tea and black tea.\\nIt has a unique taste, but it's delicious.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Oh, I'm curious about the taste.\\nCan I have a sip?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Raiha",
+      "texto_en": "Oh, sorry. I already finished mine.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Miku",
+      "texto_en": "F-Futarooo?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "What's up?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "Um, well... I have half of mine left...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Miku",
+      "texto_en": "A-actually, nevermind!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Miku",
+      "texto_en": "Th-they sell it at that shop over there.\\nWhy don't you buy some, Futaro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Raiha",
+      "texto_en": "Ah, get me one too!\\nI want one more.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "Sure, wait a minute.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Oh, this is really refreshing.\\nAnd there's a faint sweet fragrance too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Miku",
+      "texto_en": "Yeah, it's delicious.\\nI think it goes well with sweet snacks.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Raiha",
+      "texto_en": "I think this is like jasmine tea.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Miku",
+      "texto_en": "Yeah, it's a type of jasmine tea.\\nSanpin-cha is actually a word in the Okinawan language.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "Jasmine tea is a type of Chinese tea, right?\\nYou seem to know more about tea than I do, Miku.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Miku",
+      "texto_en": "Huh? Me?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Miku",
+      "texto_en": "Well, I think I read somewhere...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Miku",
+      "texto_en": "That, the difference between green tea and black tea\\nis the degree of fermentation.\\nIs jasmine tea the same?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "If you don't know, Miku, then we're stuck.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Miku",
+      "texto_en": "Wait, let me check on my phone.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Miku",
+      "texto_en": "Um...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Miku",
+      "texto_en": "Jasmine tea is green tea scented with jasmine.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Miku",
+      "texto_en": "You stack green tea leaves and jasmine flowers\\nto transfer the fragrance of the flowers\\nto the tea leaves.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Miku",
+      "texto_en": "So, this is also green tea.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "That's pretty complicated.\\nTea types can be quite complex.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Miku",
+      "texto_en": "That's true, but that's what makes it interesting.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Raiha",
+      "texto_en": "Big bro, you like barley tea,\\nand it's actually made from barley, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, they boil barley to make it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Raiha",
+      "texto_en": "Oh, then is genmaicha made from rice?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Miku",
+      "texto_en": "Let me see...\\nit says here that genmaicha is made\\nby mixing green tea and roasted brown rice.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "Green tea again here, too.\\nIt seems it makes a big difference\\ndepending on what you mix it with.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "Does adding a fragrance have an effect?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Miku",
+      "texto_en": "I feel like Nino said that the scent of jasmine\\nhas a refreshing effect.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Miku",
+      "texto_en": "Maybe this tea is the same.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "Well, I do feel refreshed, that's for sure.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Raiha",
+      "texto_en": "A scent's effect is important, isn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "Come to think of it, on my birthday,\\nNino gave me something with a scent that's\\nsupposed to have a fatigue-reducing effect.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "What was it again... Aloha?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Raiha",
+      "texto_en": "Big bro, that's clothing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Miku",
+      "texto_en": "Teehee. If it's an Aloha shirt you want,\\nthey might sell it in Okinawa too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Raiha",
+      "texto_en": "Oh, then is genmaicha made from rice?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Miku",
+      "texto_en": "Let me see...\\nit says here that genmaicha is made\\nby mixing green tea and roasted brown rice.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "Green tea again here, too.\\nIt seems it makes a big difference\\ndepending on what you mix it with.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "I'm impressed by the potential of green tea.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Miku",
+      "texto_en": "Yeah. Just by changing the processing method,\\nit can change so much.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Miku",
+      "texto_en": "And the wisdom of the people from the past\\nwho brought out its potential is also amazing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Raiha",
+      "texto_en": "Maybe we should try drinking more of other types of tea.\\nWe might find a new favorite.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Miku",
+      "texto_en": "But I still think green tea is the best.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "It seems sanpin-cha was pretty good.\\nBut, it just can't beat green tea, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "Aren't you starting to crave matcha soda now?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Miku",
+      "texto_en": "Haha, we've only been in Okinawa for three days,\\nyou know.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Raiha",
+      "texto_en": "Oh, then is genmaicha made from rice?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Miku",
+      "texto_en": "Let me see...\\nit says here that genmaicha is made\\nby mixing green tea and roasted brown rice.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "Green tea again here, too.\\nIt seems it makes a big difference\\ndepending on what you mix it with.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Miku",
+      "texto_en": "People are the same way. They can change drastically\\ndepending on who they're with.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Miku",
+      "texto_en": "If you're with someone for a long time,\\ntheir influence also becomes significant.\\nYou know that too, right, Futaro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "Well, I understand what\\nyou're trying to say...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Miku",
+      "texto_en": "You changed me into who I am, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Futaro",
+      "texto_en": "Hey...\\nDon't say that in a way that could be misunderstood.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Miku",
+      "texto_en": "Teehee, but it's true.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "(Since we left the hotel, something's been off.\\n What's going on?)",
+      "texto_ptbr": ""
+    }
+  ]
+}

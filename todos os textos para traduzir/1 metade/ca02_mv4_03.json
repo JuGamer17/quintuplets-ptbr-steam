@@ -1,0 +1,492 @@
+{
+  "arquivo": "ca02_mv4_03",
+  "total": 81,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Are those two over there Raiha and Yotsuba?\\nWhat are they looking at?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "Isn't that a traditional Okinawan costume?\\nHey, let's take a closer look too!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Yo, what are you two looking at?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Raiha",
+      "texto_en": "Ah, big bro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Raiha",
+      "texto_en": "That outfit on display in the shop window\\nis a traditional Okinawan costume.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "I thought so. What was it called again?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Yotsuba",
+      "texto_en": "Ryusou!\\nIt's a garment that was worn by kings and nobles\\nduring the Ryukyu Kingdom era.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Wow, it's a really gorgeous costume.\\nI bet the colors and patterns\\nhave some special meanings too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, you're spot on, Uesugi-san!\\nThe colors of the garment indicate\\nthe wearer's social status.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Yotsuba",
+      "texto_en": "Ehehe.\\nActually, just a moment ago, a shop staff member\\ntalked to me a little about Ryusou%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Yotsuba",
+      "texto_en": "I was itching to tell someone,\\nso it's good timing\\nthat I can tell you two!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "Okay okay, go ahead and tell me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "First, it's about the patterns on kimono.\\nFor women's kimono, they often use a type of dyeing\\ncalled bingata that features natural motifs.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "I see. The patterns are inspired\\nby flowers and landscapes.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Raiha",
+      "texto_en": "They're all so vivid and beautiful.\\nJust looking at them makes you happy.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Yotsuba",
+      "texto_en": "Also, with ryusou, you can have fun playing with\\nthe color combinations of the inner and outer layers.\\nLike pairing red and blue, or yellow and black.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "Color combinations, huh...\\nIn other words, the wearer's sense of style\\nis being put to the test.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "Hey, Futaro.\\nWhat color do you think would look good on me?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "What color would look good on you?\\nWell, I think any color would.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "What? Is something wrong?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Raiha",
+      "texto_en": "Big bro.\\nYou're being asked a question.\\nYou need to give a proper answer.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "I did answer.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Raiha",
+      "texto_en": "Your answer was way too vague!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Nino",
+      "texto_en": "It's fine, Raiha-chan.\\nIt's Futaro being Futaro. I could have expected that reply.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "(I was serious when I said she'd look good in anything,\\n but even Nino helped me out here...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Yotsuba",
+      "texto_en": "Umm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Yotsuba",
+      "texto_en": "If I had to say, when it comes to things like kimono,\\nNino often wears black or purple!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Nino",
+      "texto_en": "Yeah, I suppose.\\nThose colors suit me well.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, you look good in black and purple, Nino!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "(Is that so?\\n I'll remember that.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Hm.\\nThey have something black over there.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, that's for men.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Nino",
+      "texto_en": "It would look good on you, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "I wonder.\\nI can't quite picture it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Nino",
+      "texto_en": "It'll totally suit you.\\nI bet you'd look good in something more stylish.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Stylish, huh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Nino",
+      "texto_en": "Seems like you still don't get it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, Uesugi-san is a fashion amateur, after all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "Sh-shut up, Yotsuba!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Nino",
+      "texto_en": "Come to think of it,\\ndo you have a favorite color, Futaro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Not particularly.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "I'll be matching with Nino.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Nino",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "Well, you like black too, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Nino",
+      "texto_en": "Teehee, that's right.\\nMatching is good, but%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Nino",
+      "texto_en": "In that case, we shouldn't necessarily choose black,\\nbut colors that complement each other\\nand look good side by side.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Nino",
+      "texto_en": "Don't you think it's better for us to stand out\\nindividually rather than just matching each other?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Indeed.\\nThat opinion is so typical of you, Nino.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Nino",
+      "texto_en": "Right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Nino",
+      "texto_en": "Come to think of it,\\ndo you have a favorite color, Futaro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Not particularly.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "Well... I'd wear it at your recommendation.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Nino",
+      "texto_en": "Really?!\\nThen, why don't we try them on together?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "WHA%p-2;――%p;?!\\nRight here, right now?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Nino",
+      "texto_en": "Right here.\\nActually, there won't be another chance to wear it,\\ndon't you think?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "Th-that's true.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Nino",
+      "texto_en": "This shop rents them out, right?\\nLet's ask!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Yotsuba",
+      "texto_en": "Umm, Nino?\\nSorry to rain on your parade, but%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Yotsuba",
+      "texto_en": "It's by reservation only,\\nand they're not accepting any more today.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Nino",
+      "texto_en": "Ehhh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Nino",
+      "texto_en": "What the hell.\\nI wanted to try them on with Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "Well, things like this are popular among tourists.\\nThere's nothing we can do about it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Nino",
+      "texto_en": "I see, I should have looked it up properly.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Nino",
+      "texto_en": "We can try it again\\nwhen we come back next time, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Nino",
+      "texto_en": "Come to think of it,\\ndo you have a favorite color, Futaro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "Not particularly.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Nino",
+      "texto_en": "Quick answer...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Nino",
+      "texto_en": "But, if you don't have a favorite color,\\nit just means there are more things\\nto look forward to, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "Wh-what's with that smile?\\nWhat do you mean?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Nino",
+      "texto_en": "I'll be coordinating your outfits from now on.\\nLet's find your favorite color together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Futaro",
+      "texto_en": "Oh, I see.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Raiha",
+      "texto_en": "Does it mean that Nino-san is going to dye you in her colors,\\nbig bro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "What?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Nino",
+      "texto_en": "Teehee, I guess you could say that, hm?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Nino",
+      "texto_en": "Hey, which is better, you dyeing me,\\nor me dyeing you, Futaro... Which do you prefer?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Yotsuba",
+      "texto_en": "This means... Uesugi-san, you have to try harder!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Futaro",
+      "texto_en": "(Exactly.\\n Nino seems to be having fun, but\\n you can hardly say that I'm leading her.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Futaro",
+      "texto_en": "(This is a more vexing problem\\n than I thought...)",
+      "texto_ptbr": ""
+    }
+  ]
+}

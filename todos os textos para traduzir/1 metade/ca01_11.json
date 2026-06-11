@@ -1,0 +1,438 @@
+{
+  "arquivo": "ca01_11",
+  "total": 72,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(After that, we tried going around various places\\n in American Village,\\n but we couldn't find any souvenirs.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(Although it wasn't a replacement, we enjoyed\\n the sunset from the Ferris Wheel and had dinner\\n at a restaurant before heading back to the hotel.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Whew, we're back.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Ichika",
+      "texto_en": "Good work today.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Since we've had dinner,\\nall we have to do now is sleep.\\nIs it okay to split up like this?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Ichika",
+      "texto_en": "Ah, wait.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "What is it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Ichika",
+      "texto_en": "U-um...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "Yeah, yeah, we get it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun, there's something urgent.\\nWe have to change room assignments starting today.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Wha?\\nWhen did that happen...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Oh, could it be that Ichika messed up the room so much\\nthat you couldn't handle it, Nino?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "I didn't!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "Well, some things happened,\\nso now Ichika, Uesugi-kun, and Raiha-chan\\nwill be in the same room from now on.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "%p-2;――%p; Whaa?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Miku",
+      "texto_en": "I'll be with Nino, Itsuki and Yotsuba\\nwill have their own rooms. That's what we decided.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "WHAAAAA?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Ichika",
+      "texto_en": "So, I'm looking forward to rooming with you two,\\nFutaro-kun, Raiha-chan.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Woah, woah, woah, woah!\\nWhy did it have to be like that?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "W-well, you see!\\nI'm really bad at sleeping,\\nso I'd be a bother to Raiha-chan.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Raiha",
+      "texto_en": "Yeah, right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "You're sleeping in the bed right next to hers.\\nHow could you bother her with your sleeping position?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, it's really bad. I do acrobatics in my sleep!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "That's impossible!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Nino",
+      "texto_en": "Anyway, it's been decided, so let's make the best of it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Miku",
+      "texto_en": "It was the result of a strict discussion.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "(Whaaaa... What's with this development...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "(As for me, well, it's not a bad thing that I'll be\\n spending more time with Ichika.\\n It means more chances to kiss her...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "(No, wait!\\n Wouldn't sharing a room lead to various problems?!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun? What are you thinking about?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "N-nothing, nothing at all?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Ichika",
+      "texto_en": "Hmm? \\nWere you picturing all sorts of things, Futaro-kun? \\nAre you worried about being with the big sister?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "H-hey, you know what they say,\\nto separate boys and girls at the age of seven!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Ichika",
+      "texto_en": "At age seven? What?\\nNino, did you know that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Nino",
+      "texto_en": "No idea?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Miku",
+      "texto_en": "I didn't know either.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Yotsuba",
+      "texto_en": "Did you know, Itsuki?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "Um, no, not really.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "(These guys...!\\n They never change when it comes to this kind of stuff!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Nino",
+      "texto_en": "Anyway, the room assignments have been decided.\\nYou don't mind, do you, Fu-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Well, I don't mind, but...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "That kind of thing...\\nit's bad for Raiha's upbringing, isn't it?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Raiha",
+      "texto_en": "Big brooo? Don't talk to people\\nlike they're little kids. I'm already\\na second-year middle school student, ya know.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "Uuuh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Nino",
+      "texto_en": "Or rather, Fu-kun, you weren't planning on doing \\nanything bad to damage that upbringing?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Uuggh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "Based on what I've seen so far,\\nit's actually you who's had the poor upbringing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Miku",
+      "texto_en": "I agree.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Nnngghh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Nino",
+      "texto_en": "Anyway, the room assignments have been decided.\\nYou don't mind, do you, Fu-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "Well, I don't mind, but...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Stop that kind of talk.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Ichika",
+      "texto_en": "Eh? What do you mean?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "I'm saying...\\nthat there are times when it's not a joke.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Ichika",
+      "texto_en": "...I'm sorry.\\nI didn't realize you thought that way about me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "Well, it's okay because it's me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Ichika",
+      "texto_en": "You're treating me like I'm something precious.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "Of course you are...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Nino",
+      "texto_en": "Hey, what are we looking at right now?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Miku",
+      "texto_en": "Affection...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Nino",
+      "texto_en": "Anyway, the room assignments have been decided.\\nYou don't mind, do you, Fu-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "Well, I don't mind, but...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Nino",
+      "texto_en": "Alright then, it's settled.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*\\nOkay, if Ichika wants it that way, I don't mind.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Ichika",
+      "texto_en": "Thank you, Futaro-kun!\\nAs soon as we get back, I'll move to your room!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Raiha",
+      "texto_en": "Um, Itsuki-san, do you think I'd be a bother\\nat times like this?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Itsuki",
+      "texto_en": "W-well... I'm not sure, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "It's no bother at all!\\nAnd it won't be weird at all!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Raiha",
+      "texto_en": "Even though you say that, big bro,\\nmaybe you actually prefer being alone\\nwith Ichika-san%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "SHUUUT IIIT!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahaha...\\nRaiha-chan sure is mature.",
+      "texto_ptbr": ""
+    }
+  ]
+}

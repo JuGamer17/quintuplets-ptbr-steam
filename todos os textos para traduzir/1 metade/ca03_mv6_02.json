@@ -1,0 +1,258 @@
+{
+  "arquivo": "ca03_mv6_02",
+  "total": 42,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Miku",
+      "texto_en": "Have you decided on a souvenir for Dad?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Yotsuba",
+      "texto_en": "No, not yet.\\nIt's hard to find something suitable.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Miku!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Miku",
+      "texto_en": "Ah... Futaro...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Yotsuba",
+      "texto_en": "P-perfect timing!\\nI'm picking out a souvenir for Dad.\\nCan you help me choose?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "Th-then I can go, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "W-wait, wait!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Yotsuba",
+      "texto_en": "Help us, Miku!\\nLet's all decide together!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Miku",
+      "texto_en": "Yotsuba is saying the same thing as Itsuki...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san, I'll try to keep the conversation going.\\nTalk to Miku when you have the chance, okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san, do you want to talk to Miku?\\nI'll keep the conversation going.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, that's a big help.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, look, Miku!\\nThere's a set of rare canned juices.\\nWhat about this?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Miku",
+      "texto_en": "No, that's beer.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, I see!\\nI don't know what kind of alcohol Dad likes,\\nso let's skip that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah! M-Miku!\\nWhat about this three-stringed instrument?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "That's a sanshin, an Okinawan instrument.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "I don't think Dad\\nis the type to enjoy playing a musical instrument,\\nso that's not quite the right choice, is it, Miku?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Miku",
+      "texto_en": "Yeah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Yotsuba",
+      "texto_en": "O-okay, then what about this...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Yotsuba",
+      "texto_en": "Th-this!\\nHow's this?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Miku",
+      "texto_en": "...I don't think Dad likes stuffed animals.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Yotsuba",
+      "texto_en": "Y-yeah, you're right!\\nIt'd be surprising if he hugged\\na shisa stuffed animal! Ahahahahaha!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "(Oh no, Yotsuba is getting nervous and flustered.\\n If this keeps up...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Miku",
+      "texto_en": "Hey, Yotsuba.\\nAre you really looking for a souvenir for Dad?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Yotsuba",
+      "texto_en": "Th-that's...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Searching blindly is not very efficient.\\nFirst, you need to decide on a direction.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh? A direction?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Like food or something else,\\na broad category is fine.\\nIt's better to start from there.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Miku",
+      "texto_en": "Yeah, that's a good idea.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Yotsuba",
+      "texto_en": "Okay! Let's decide from there!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Yotsuba",
+      "texto_en": "Sorry...\\nI wasn't able to help at all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Nah, don't worry about it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Yotsuba",
+      "texto_en": "Alright, I've decided on this.\\nI'll go buy it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Right, go on.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "(Okay, I'll talk to Miku here%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Hey, Miku%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "(Wha%p-2;――%p;? She's not here?! When did she go?!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "(A-anyway, gotta go look!)",
+      "texto_ptbr": ""
+    }
+  ]
+}

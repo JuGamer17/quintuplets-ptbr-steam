@@ -1,0 +1,738 @@
+{
+  "arquivo": "ca01_26",
+  "total": 122,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Your fever has gone down. Good.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, I slept really well,\\nand I feel completely fine now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Ichika",
+      "texto_en": "Thanks for taking care of me all this time.\\nI couldn't have done it without you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Oh, don't say that.\\nI didn't do anything special.\\nI just sat here with you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Ichika",
+      "texto_en": "No, that's not true.\\nYou helped me a lot by holding my hand the whole time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Ah... I guess your mother's charm really worked",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "Teehee, yeah, it seems so.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "However, you still need to be careful\\nand take it easy until you're completely better.\\nIf there's anything you need, just let me know.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Ichika",
+      "texto_en": "Okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "So, do you want something to eat?\\nIt seems like your appetite has come back\\nnow that you're feeling better.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Ichika",
+      "texto_en": "Well, I'm fine with room service...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Nah, I'll go buy something.\\nIs there something you want?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "I don't have anything specific in mind,\\nso it's up to you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Alright, I'll pick something out.\\nContact me if something happens, okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "Thanks, I'm looking forward to see \\nwhat you'll end up getting me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "I'm a little nervous.\\nI feel like I'm being tested.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Let's see.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "(Hmm, I should probably get\\n something easy to digest\\n since she's still recovering%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "(Hmm? A text message?\\n From Raiha, eh.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Raiha",
+      "texto_en": "We were supposed to go to the Valley of Gangala\\nafter Okinawa World, but we cancelled it\\nbecause we're still worried about Ichika-san.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Raiha",
+      "texto_en": "We're going to buy a lot of souvenirs on Kokusai dori\\nand then head back to the hotel.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "(I guess they're coming back after all.\\n ...Well, I can understand their concern.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Raiha",
+      "texto_en": "We're gonna buy a lot of food and come back,\\nso don't eat, and wait for us!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "(If that's the case,\\n it seems like I don't need to go shopping.\\n Should I take advantage of their kindness?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "I'm home.\\nIchika, about dinner%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "Ah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Ichika",
+      "texto_en": "WHAAAAA?!\\nWh-h-wh-wh-why did you come back?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "Wh-why? Because this is my room!\\nI-I mean, I'm sorry!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Ichika",
+      "texto_en": "Don't look at me!\\nTurn right! Just go to the bathroom for now!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "G-got it!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Ichika",
+      "texto_en": "*sigh*",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Ichika",
+      "texto_en": "I should have changed in the bathroom after all.\\nI let my guard down...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Ichika",
+      "texto_en": "Futaro-kun, you can come out now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "O-okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "I'm sorry, Ichika!! \\nI didn't think you'd be changing!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Ichika",
+      "texto_en": "I-it's okay. You don't have to bow so much.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Ichika",
+      "texto_en": "I'm in the wrong too. I started changing in \\nyou and Raiha-chan's room,\\nwithout asking. It's all good.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Ichika",
+      "texto_en": "Ahaha...\\nThis is such a typical thing \\nyou would imagine happening, huh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Typical?\\nBut it's better not to have such an accident, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Ichika",
+      "texto_en": "R-right. Sorry.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Ichika",
+      "texto_en": "What I meant was, it might happen in the future,\\nso it's good to experience it earlier...\\nor something like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Huh? What are you talking about?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Ichika",
+      "texto_en": "Wha?!\\nDid I say something?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "Didn't you say something\\nabout it happening in the future?\\nI didn't hear you clearly.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Ichika",
+      "texto_en": "N-no!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Ichika",
+      "texto_en": "(Oh no, I said it out loud.\\n We haven't even talked about moving in together yet.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "What's your matter?\\nYou've been acting weird for a while now.\\nIf you have something to say, just say it clearly.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Ichika",
+      "texto_en": "Well, umm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Ichika",
+      "texto_en": "Huh?!\\nI-is someone coming?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah, it's probably Raiha and your sisters.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Raiha",
+      "texto_en": "We're back!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Ah, welcome back.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Itsuki",
+      "texto_en": "We're back.\\nHow are you feeling, Ichika?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Ichika",
+      "texto_en": "Huh? Why is everyone...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Raiha",
+      "texto_en": "You seem better now, Ichika-san. Good.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Ichika",
+      "texto_en": "Ah, yes.\\nThanks to Futaro-kun taking care of me the whole time,\\nI'm feeling much better.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "Her fever went down, too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Itsuki",
+      "texto_en": "I'm glad to hear that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Nino",
+      "texto_en": "Hmm? Are you really feeling better?\\nBut your face is still red?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Ichika",
+      "texto_en": "Huh?!\\nTh-that's...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Miku",
+      "texto_en": "Your face is red too, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "Maybe it's just your imagination.\\nHahahaha...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Nino",
+      "texto_en": "What happened? Tell us honestly, would you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Ichika",
+      "texto_en": "Nothing happened!\\nRight, Futaro-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, nothing happened!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Ichika",
+      "texto_en": "A-anyway, why is everyone back already?\\nWeren't you all still sightseeing?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh? Didn't you hear from Uesugi-san?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Itsuki",
+      "texto_en": "We were worried about you, Ichika,\\nso we decided to cut the trip short.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "Well, before we could talk about that,\\nyou all came back.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah! But anyway, we enjoyed our sightseeing, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Miku",
+      "texto_en": "Yeah, we did!\\nAlso, we can enjoy Okinawa in this room, too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Ichika",
+      "texto_en": "In this room?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Yotsuba",
+      "texto_en": "Ta-dah! THIS is what we mean!\\nWe bought a lot of food from Kokusai dori!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Miku",
+      "texto_en": "Today, we changed our plans\\nand decided to enjoy Okinawan cuisine in the room.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Ichika",
+      "texto_en": "Wha...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Itsuki",
+      "texto_en": "How's your appetite?\\nIf it's still a little weak,\\nwe also bought some light snacks.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Ichika",
+      "texto_en": "No way! Actually, I'm super hungry!\\nI'm going to eat a lot to cheer myself up!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Nino",
+      "texto_en": "But you're still recovering from your illness, right?\\nYou should probably avoid eating too much.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Miku",
+      "texto_en": "How about this? Pork and egg rice balls.\\nThey're apparently eaten for breakfast in Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Ichika",
+      "texto_en": "Oh! It has a local feel to it. Nice!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Nino",
+      "texto_en": "We also bought some fruits, fresh tarts,\\nand drinks like sanpin-cha and juice.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Futaro",
+      "texto_en": "Th-that's a lot of food.\\nCan we finish it all?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Itsuki",
+      "texto_en": "No problem!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 84,
+      "personagem": "Futaro",
+      "texto_en": "(...Even though Itsuki said a couple words,\\n they were very convincing.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 85,
+      "personagem": "Ichika",
+      "texto_en": "Wow, what Nino's eating looks delicious!\\nI'm gonna take one.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 86,
+      "personagem": "Nino",
+      "texto_en": "Oh, come on!\\nWe bought plenty, you can eat your own!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 87,
+      "personagem": "Ichika",
+      "texto_en": "But it looked so tasty! Now, what should I eat next?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 88,
+      "personagem": "Raiha",
+      "texto_en": "Oh, right! Yotsuba-san, didn't you buy shaved ice?\\nYou need to eat it quickly before it melts.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 89,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah! That's right!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 90,
+      "personagem": "Ichika",
+      "texto_en": "Ahaha! It's probably turned into water by now, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 91,
+      "personagem": "Miku",
+      "texto_en": "I told you not to get it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 92,
+      "personagem": "Itsuki",
+      "texto_en": "We should have bought frozen fruit instead, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 93,
+      "personagem": "Ichika",
+      "texto_en": "Wow, they sell that here too?\\nOkinawa has such an abundance of fruits.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 94,
+      "personagem": "Futaro",
+      "texto_en": "(Ichika and everyone seem to be having fun.\\n I was worried for a moment, but I'm relieved now.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 95,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun?\\nWhy are you grinning like that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 96,
+      "personagem": "Futaro",
+      "texto_en": "Nah, I just thought it looked delicious.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 97,
+      "personagem": "Itsuki",
+      "texto_en": "Then, please help yourself.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 98,
+      "personagem": "Itsuki",
+      "texto_en": "The food here serves as Ichika's get-well present,\\nand is also our way to thank you, Uesugi-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 99,
+      "personagem": "Futaro",
+      "texto_en": "Yep, I'll dive in.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 100,
+      "personagem": "Yotsuba",
+      "texto_en": "If you need more, please let me know.\\nI'll go and buy some for you!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 101,
+      "personagem": "Futaro",
+      "texto_en": "I'm really glad Ichika is feeling better.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 102,
+      "personagem": "Ichika",
+      "texto_en": "Ahaha, sorry for making you worry.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 103,
+      "personagem": "Itsuki",
+      "texto_en": "I'm so relieved that it wasn't a serious illness.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 104,
+      "personagem": "Miku",
+      "texto_en": "It's good to see you eating properly.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 105,
+      "personagem": "Nino",
+      "texto_en": "Just be careful not to overdo it and get sick yourself.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 106,
+      "personagem": "Ichika",
+      "texto_en": "I'll be careful.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 107,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun, don't hesitate to take more if you want to.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 108,
+      "personagem": "Yotsuba",
+      "texto_en": "If you take too long, Ichika will eat it all!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 109,
+      "personagem": "Futaro",
+      "texto_en": "Yep, I'll dive in.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 110,
+      "personagem": "Futaro",
+      "texto_en": "I was thinking how nice of a scene this is.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 111,
+      "personagem": "Itsuki",
+      "texto_en": "Huh...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 112,
+      "personagem": "Futaro",
+      "texto_en": "When you're all together, laughing and having fun.\\nI guess I've gotten used to it,\\nbut it's not something that's always guaranteed.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 113,
+      "personagem": "Itsuki",
+      "texto_en": "...Now is it YOU who's sick, Uesugi-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 114,
+      "personagem": "Futaro",
+      "texto_en": "Ooh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 115,
+      "personagem": "Futaro",
+      "texto_en": "(Yeah, I guess I said something corny just now.\\n Is it because of the trip's mood?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 116,
+      "personagem": "Futaro",
+      "texto_en": "Please pretend you didn't hear that...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 117,
+      "personagem": "Ichika",
+      "texto_en": "But I did hear it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 118,
+      "personagem": "Futaro",
+      "texto_en": "Ichika?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 119,
+      "personagem": "Ichika",
+      "texto_en": "I don't see why you should be embarrassed about it.\\nAfter all, I felt the same way as you did.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 120,
+      "personagem": "Ichika",
+      "texto_en": "It's not something that's always guaranteed.\\nThat's why we have to cherish it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 121,
+      "personagem": "Futaro",
+      "texto_en": "...Yeah.",
+      "texto_ptbr": ""
+    }
+  ]
+}

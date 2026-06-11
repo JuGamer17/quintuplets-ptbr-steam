@@ -1,0 +1,360 @@
+{
+  "arquivo": "ca05_mv4_02",
+  "total": 59,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Itsuki",
+      "texto_en": "I feel like I'm not in Japan, no matter where I look.\\nI wonder if the real America is like this too?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "I don't know. America is vast,\\nand the climate varies depending on the location.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "That's true. Hawaii and Alaska are both in America too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "Come to think of it, where is Hollywood located?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Hollywood is in Los Angeles.\\nIt's on the West Coast, on the Pacific Ocean.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "But why the sudden change of topic?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "No, I mean, when you think of America,\\nit's the home of cinema, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Well, yeah, Hollywood is there,\\nand it has that kind of image.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "Recently, I've been thinking.\\nIf Ichika continues to be an actress%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "She might eventually become a world-famous actress\\nand go abroad, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Well, that's a premature discussion.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Itsuki",
+      "texto_en": "However, it's not impossible, is it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Well, yeah. If she keeps challenging herself,\\neventually, that kind of thing might happen.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "Yes. Ichika takes her work as an actress seriously.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "But if that happens,\\nshe won't be able to live with us\\nlike she does now, will she?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "Of course, it's not just Ichika.\\nThe others might also graduate from university\\nor vocational school, and move out.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "Someday, the days when we all lived together\\nwill come to an end.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Itsuki...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "Everyone will live in different places.\\nThat future will end up coming, someday...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "And you'll feel lonely?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "Of course.\\nWe've been together all this time, after all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Oh, I see. That's true.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "(I guess... It's not like I'll be lonely\\n going to Tokyo and leaving home.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Itsuki",
+      "texto_en": "Whatever the future holds, when the day comes\\nfor Ichika to set off in pursuit of her dreams,\\nlet's celebrate in a grand fashion.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Again, isn't that premature?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Someday, that day will come.\\nYou may be quintuplets, but each of you\\nare an individual person as well.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "That's true.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "When we were little, we looked exactly alike,\\nbut eventually we developed our own preferences\\nand changed our hairstyles...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "Of course, that doesn't mean I don't like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "We can learn things from each other\\nbecause we're all different.\\nAnd there are four of us to learn from.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "But there was nothing you could do\\nabout your inability to study,\\neven when all five of you pooled your efforts.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Itsuki",
+      "texto_en": "Ooohh...\\nI have no response to that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "Whatever the future holds, when the day comes\\nfor Ichika to set off in pursuit of her dreams,\\nlet's celebrate in a grand fashion.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Again, isn't that premature?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Yet, there are things that'll never change.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "Things that will never change...\\nAre you talking about us being sisters?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, that's what I mean.\\nIf something happens to one of you,\\nthe other four would come running to help, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, I would be the first.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "You'd come running too, Uesugi-kun, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "...Are you okay with that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "Are you saying that to be mean?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "Of course, it's fine.\\nYou also cherish my dear sisters.\\nThat makes me very happy.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "Whatever the future holds, when the day comes\\nfor Ichika to set off in pursuit of her dreams,\\nlet's celebrate in a grand fashion.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "Again, isn't that premature?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "Thinking about it wouldn't hurt, right?\\nAfter all, they say it's better to be prepared.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Itsuki",
+      "texto_en": "Above all, I don't want to see Ichika off\\nwith a sad face as she chases her dream.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "But, isn't there another concern\\nthat should be addressed first?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Itsuki",
+      "texto_en": "Another one?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Well, if she's going to America,\\nthere's no way Ichika's English skills\\nwill be good enough to get by.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "Y-yes, indeed.\\nThat's a huge problem...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "Well then, why don't you teach her?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "Oh? Are you saying that you trust me enough\\nto become her teacher, Uesugi-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "Ooh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "(Actually, the way I said that just now,\\n it sounds like there isn't any doubt,\\n that I trust her completely.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Itsuki",
+      "texto_en": "What do you think, Uesugi-kun?\\nPlease tell me your honest opinion.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "(Kkh... With that little grin...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "W-well, I think you'll be able\\nto make your dreams come true,\\nso I bet you can become her teacher.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Itsuki",
+      "texto_en": "Teehee!\\nThank you very much.\\nI'll make sure to live up to your expectations.",
+      "texto_ptbr": ""
+    }
+  ]
+}

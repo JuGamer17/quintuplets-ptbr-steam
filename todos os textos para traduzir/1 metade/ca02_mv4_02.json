@@ -1,0 +1,390 @@
+{
+  "arquivo": "ca02_mv4_02",
+  "total": 64,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Oh?\\nI think Itsuki just went into that store right there.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "You're right.\\nIs that%p-2;――%p; a glass accessory shop over there?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Nino",
+      "texto_en": "Hey, Futaro.\\nShouldn't we check it out too?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Sure, come on.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun, Nino.\\nLooks like both of you took a liking\\nto this shop too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "Yes, we could see the beautiful blue color from afar.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "As expected.\\nThe accessories here are lovely.\\nIt's like they've captured the sea and sky of Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, that's for sure.\\nI heard that they are all handmade,\\nso each one has a different shade.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "(They all look like the same to me...\\n But now that it's been pointed out,\\n the colors are indeed different.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "These three here,\\nthey represent the sea, the blue sky, and the night sky,\\nright? They're all blue, but have a completely different shade.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "Woah, this one has green in it, too!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "It's probably the emerald green sea\\nand the blue sky. The gradation is beautiful.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, it expresses the beauty of Okinawa\\nfrom the manufacturer's perspective.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "Ah...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Nino",
+      "texto_en": "Look at this necklace.\\nYou can see stars inside.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "So, it might be the night sky?\\nAlthough the blue seems a bit too light for that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "It could be representing star sand from the beach.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "In that case, it's the sea, huh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Nino",
+      "texto_en": "What do you think?\\nIt could be the sea, or the starry sky.\\nOh, maybe there are starry skies in the sea too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "Teehee!\\nThis is really nice.\\nYou can come up with many stories from just this one piece.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "Hey Futaro, does it look good on me?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah, it does, doesn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Nino",
+      "texto_en": "Huh?\\nYou could contribute a bit more to the conversation, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "Well, what else should I say?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "Maybe you could say that the other one looks better,\\nor try to broaden the conversation a bit?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Ggh...\\nWell, I guess...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "But, it is Futaro we're talking about.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "I know that you think it looks good on me.\\nThank you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "(That doesn't look like a thank you face.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "(Oh no, I missed the chance of leading her.\\n I need to do something to redeem myself...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Hey, Nino.\\nCan you show me that too?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "Futaro, you took a liking to that piece too?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, a little.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "(Jeez, it's so expensive!\\n It's priced higher than I thought!\\n I wanted to buy it for her, but...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun?\\nIs something wrong? You suddenly froze.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Ah...\\nNah, something just struck me as off...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "Something struck you as off?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Nino",
+      "texto_en": "I see.\\nIt's fine, Futaro, don't worry about it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "It's not impossible.\\nTh-this, isn't a problem at all!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Nino",
+      "texto_en": "It's fine. You don't have to put on a show.\\nI don't want to burden you, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "Ah...\\nSo that's what you meant.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Sorry about that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Nino",
+      "texto_en": "Your feelings are more than enough.\\nThank you, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "(I made things awkward.\\n I meant to lead, but this is making things worse...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "(At this rate,\\n I won't be able to show Nino\\n what kind of man I am...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Sorry...\\nThe price is higher than I expected and I don't have enough\\nmoney with me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, that's what you meant.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Nino",
+      "texto_en": "You don't have to apologize.\\nI never asked you to buy it for me, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Ahh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "(I'm so useless!\\n I can't even buy Nino a present that she likes, can I.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "(In addition, the fact they're kind of helping me out\\n like this. This is bad, if I don't do something%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "(At this rate,\\n I won't be able to show Nino\\n what kind of man I am...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "It does suit you after all. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Nino",
+      "texto_en": "EH?!\\nWh-what now, all of a sudden?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "Ah, uh, sorry, it just slipped out.\\nI just thought it would look good on you\\nand wanted to buy it for you...sorry.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Nino",
+      "texto_en": "It's totally fine.\\nYour feelings are more than enough.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Itsuki",
+      "texto_en": "You didn't just say that\\nwithout thinking, did you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Itsuki",
+      "texto_en": "I'm sorry for doubting you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "Oh, no, it's fine.\\nDon't apologize.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Itsuki",
+      "texto_en": "But, wow, Nino.\\nYou understand Uesugi-kun's true feelings.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Nino",
+      "texto_en": "Of course.\\nFutaro and I are dating, after all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "(I made things awkward for Nino.\\n I meant to lead, but this is making things worse...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "(At this rate,\\n I won't be able to show Nino\\n what kind of man I am...)",
+      "texto_ptbr": ""
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "arquivo": "ca02_mv5_05",
+  "total": 49,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Nino",
+      "texto_en": "Hey, Futaro.\\nHear something?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "It's music.\\nIs someone playing nearby?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "I can hear it coming from over there.\\nShall we go check it out?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Nino",
+      "texto_en": "Ah!\\nThe fountain water...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Is it moving to the rythm of the music?\\nWow, I didn't know they had events like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "(I can hear Okinawan folk music.\\n The sound of the traditional three-stringed instrument\\n is really pleasant.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "This is like, really Okinawan, huh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "Teehee! I know what you mean when you say that.\\nThe music and the atmosphere\\nare so reminiscent of Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "I wonder how this type of music came about.\\nIt must have a long history.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "It was originally music for the gods,\\nor for the court...\\nI'm not exactly sure.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "Oh, so that was music for praying to the gods.\\nNow that you mention it, it does have that feeling.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "Alright, then....",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "(She's putting her hands together...\\n is she praying?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "I took this opportunity\\nto pray to the gods for our happiness, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Here? I don't think this is a prayer spot.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Nino",
+      "texto_en": "I know that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "But, I feel like praying right now.\\nIt's not about the place, it's about the feeling.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "I pray that I can always be with you, Futaro,\\nand that we can be happy together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Is that so?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Guess I'll pray too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "You too, Futaro?\\nThat doesn't seem like something you'd do.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Well, even if I don't believe in any god...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Making a promise in front of you can give me motivation\\nto make it happen in reality.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "I-I see...\\nIt's more than a prayer...it's like a promise.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "Then let's make a promise together,\\nyou and I, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Nino",
+      "texto_en": "To always be together, and to be happy.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "You don't need to do that.\\nI mean...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "I'll make you happy, I promise.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Nino",
+      "texto_en": "Futaro...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Nah, woah, what am I saying!\\nSorry, forget I said anything!\\nI said something really weird! Hahaha!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Nino",
+      "texto_en": "No, I won't forget that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Nino",
+      "texto_en": "And it wasn't weird.\\nIt's something only you can do for me, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Nino",
+      "texto_en": "Because, my happiness can't exist without you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Nino...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "Make me happy, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah! Of course!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Nino",
+      "texto_en": "I promise to make you happy too, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "Hm?\\nThe music stopped, is it over now?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Nino",
+      "texto_en": "Seems so.\\nI kinda wanted to listen a little more, though.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Nino",
+      "texto_en": "There seem to be various other events in this park.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Nino",
+      "texto_en": "Instead of looking around the facilities,\\nI wonder if we can find something just by taking a walk?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "Considering its size,\\nit might even take a whole day to explore.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Nino",
+      "texto_en": "But even that one day will probably end in a flash\\nif I'm with you, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "That makes me think of Einstein.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Nino",
+      "texto_en": "Einstein?\\nWhat are you talking about?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "N-no, it's nothing.\\nAnyway, shall we try going somewhere else?",
+      "texto_ptbr": ""
+    }
+  ]
+}

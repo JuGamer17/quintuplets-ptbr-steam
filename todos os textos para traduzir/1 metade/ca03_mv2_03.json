@@ -1,0 +1,360 @@
+{
+  "arquivo": "ca03_mv2_03",
+  "total": 59,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Raiha",
+      "texto_en": "Uwaaa...\\nIf this came into my house...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "I wouldn't be able to handle it...\\nI feel like I'll pass out just from thinking about it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "What are you two so scared of?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Raiha",
+      "texto_en": "Big bro, look at this.\\nThere's a HUGE spider.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "Apparently it's the biggest spider in Japan,\\nand it lives in Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Wow, that SURE is a big spider.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Oh, it's big, but it's not particularly venomous.\\nSo there's no reason to be scared of.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "No, you shouldn't underestimate it.\\nIt eats birds that get caught up in its web.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Raiha",
+      "texto_en": "Like the Japanese white-eye, and the Japanese tit!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "Spiders eating birds...\\nSeriously, that's gross.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Raiha",
+      "texto_en": "I didn't know there were such big insects in Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Itsuki",
+      "texto_en": "Oh yeah, come to think of it,\\nI have the impression that larger insects\\nlive in warmer places than in colder places.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Raiha",
+      "texto_en": "Yeah, I would assume insects in tropical jungles are probably really big.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "That's like the opposite\\nof the so-called Bergmann's rule.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Raiha",
+      "texto_en": "Bergmann?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "Oh, you haven't heard of him?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "You see, warm-blooded animals can maintain their body\\ntemperature more easily, the larger their body size.\\nSo in colder regions, their bodies tend to be larger.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "This is Bergmann's rule. Even among bears,\\nthe polar bear is larger than\\nthe Asian black bear that lives in Japan, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Raiha",
+      "texto_en": "Yeah, I've seen that in an encyclopedia.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "On the other hand, cold-blooded animals like insects\\ntend to be smaller in colder regions.\\nSo it's like the reverse Bergmann's rule.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "I see.\\nAs expected of you, Uesugi-kun.\\nYou're very knowledgeable.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Heh, it comes in handy to know these things when you're visiting a museum.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "However, it might be better to have Miku listen to such stories\\nrather than me, don't you think?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "...Why are you saying this all of a sudden.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Raiha",
+      "texto_en": "But, what Itsuki-san is saying is true.\\nYou should be walking around with Miku-san instead of us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Miku isn't interested in things like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "If it's you, Uesugi-kun,\\nMiku will happily listen to anything you say.\\n...You do understand that, don't you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "(Normally, that would be true...\\n But I wonder if that will still be the case\\n considering how Miku's acting lately?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Well, I know that.\\nHowever...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "What is it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "You saw it too, Itsuki, right?\\nFor some reason, Miku's been avoiding me.\\nI really want to know the reason.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "What's wrong?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "Nothing.\\nAs long as you continue to try, you will always find an answer.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Well I don't have any other choice, do I?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "Teehee, that's right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "Honestly, I really wanna do that too. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Itsuki",
+      "texto_en": "Wha...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Raiha",
+      "texto_en": "Ohh!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "What's with that reaction?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Raiha",
+      "texto_en": "I mean, it's just that it's rare for you\\nto open up to us like this, big bro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, quite surprising.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "It's been bothering you that much, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "...I know it's unlike me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "No, you're actually quite honest with yourself.\\nYou make us go along with what you want to do.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Itsuki.\\nI asked you earlier,\\nbut have you remembered anything about Miku since then?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "I've been trying to think about it,\\nbut I still can't recall anything. Sorry.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "Hey, Itsuki.\\nDo you have any idea\\nwhat might be causing Miku's strange behavior?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "You guys asked me earlier,\\nbut I was wondering if you guys had any leads.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Itsuki",
+      "texto_en": "No, not really...\\nThat's why I asked you.\\nI'm sorry.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "No, Itsuki, you don't have to apologize.\\nThanks, anyway.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Raiha",
+      "texto_en": "I've also kinda been thinking\\nthat Miku-san seems a little off.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Raiha",
+      "texto_en": "You did something, didn't you, big bro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "Unfortunately, I don't remember doing anything\\nat all...",
+      "texto_ptbr": ""
+    }
+  ]
+}

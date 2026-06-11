@@ -1,0 +1,276 @@
+{
+  "arquivo": "ca03_18",
+  "total": 45,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Miku",
+      "texto_en": "Look, Futaro!\\nA big manta ray is coming this way!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Ohhh...\\nThat school of fish is so neatly avoiding it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "It's amazing how they don't collide.\\nIs there someone in charge of traffic control\\nin the school of fish?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Miku",
+      "texto_en": "Teehee, perhaps.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Miku",
+      "texto_en": "Or, maybe the manta is warning them that it's dangerous.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Maybe there is a language for fishes\\nthat we humans can't understand.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "Yes.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "(Alright! we're speaking without feeling awkward anymore!\\n Coming to the aquarium was the right decision\\n for us to rekindle our love!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "(If I keep this up,\\n maybe I can find out why Miku was avoiding me...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Miku",
+      "texto_en": "Futaro? What's wrong?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "No, it's nothing.\\nShall we go see some other tanks?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "Mm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Miku",
+      "texto_en": "I'm fine here.\\nI want to talk more with you, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Is that so.\\n...I was thinking the same thing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Miku",
+      "texto_en": "We're on the same page.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "(After that, Miku and I\\n continued chatting in front of the big tank.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "(We talked about her sisters, and the tourist spots\\n we visited yesterday. Just trivial things,\\n but it was fun and pleasant.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "I see, you were looking forward to the dolphin show.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "Yeah. I found out about it\\nwhile doing research for our trip.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Miku",
+      "texto_en": "I've been wanting to go to Ocean Expo Park.\\nAnd see it together with you, Futaro...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Okay, then let's go after this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Miku",
+      "texto_en": "Right. Thanks, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Miku",
+      "texto_en": "%p-2;――%p; Ah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "What's wrong?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Miku",
+      "texto_en": "Looks like Yotsuba and the others are back.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Huh? No, I can't see them anywhere?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Miku",
+      "texto_en": "I know they're hiding right here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, we've been found.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Raiha",
+      "texto_en": "They found us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "That's why I told you guys we shouldn't be sneaky and hiding.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "You guys...\\nHow long have you been there?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Yotsuba",
+      "texto_en": "We just came back, you know?\\nBut both of you looked like you were having fun,\\nso I thought maybe we were intruding.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Miku",
+      "texto_en": "Come on...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Ichika",
+      "texto_en": "Ah, everyone's already gathered here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Yotsuba",
+      "texto_en": "Welcome back!\\nWhat did you and Nino go look at?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Ichika",
+      "texto_en": "We went to see tropical fish.\\nAfter that, we took a break\\nand sat down to watch them in a tank.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Nino",
+      "texto_en": "How about you two,\\nMiku and Fu-kun?\\nHave you guys been here the whole time?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Well, yeah.\\nWe got carried away talking.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Miku",
+      "texto_en": "But it was fun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Ichika",
+      "texto_en": "Wow, you guys talked that much, huh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Nino",
+      "texto_en": "Well, as long as you two had fun, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Miku",
+      "texto_en": "Yes.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Yotsuba",
+      "texto_en": "It looks like your plan was a success, Uesugi-san.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, that's thanks to the advice you gave me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Yotsuba",
+      "texto_en": "Ehehe, glad I could help.",
+      "texto_ptbr": ""
+    }
+  ]
+}

@@ -1,0 +1,426 @@
+{
+  "arquivo": "ca06_06",
+  "total": 70,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "We're going on our graduation trip\\nright after our graduation ceremony.\\nHave you finished preparing, Itsuki?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "I'll take a little longer.\\nI still have some things I can't decide\\nwhether to bring or not.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Ichika",
+      "texto_en": "If you have too much luggage,\\nwhy not send it ahead?\\nIt'll be tough to move around with it being heavy.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Miku",
+      "texto_en": "I wonder if Futaro is ready.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Nino",
+      "texto_en": "Everyone, listen up.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Miku",
+      "texto_en": "Nino?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "There's something I want to clarify once more\\nbefore we go on the trip.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Ichika",
+      "texto_en": "...What is it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "This graduation trip is a stage\\nfor Fu-kun to give us an answer.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "We are all thinking this way, aren't we?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "...Yes.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "Futaro was probably thinking the same thing.\\nHe seemed very agitated when Itsuki asked him about it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "Well, I at least hope so.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "He said that he'd choose no one at the school festival,\\nbut he might have felt irresponsible for saying that\\nin the past six months.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Yotsuba",
+      "texto_en": "So, Uesugi-san might've changed his mind?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "It doesn't really look like he has,\\nbut it does look like he's pondering something.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Miku",
+      "texto_en": "After the school festival,\\nthings got busy with the exams intensifying.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Yotsuba",
+      "texto_en": "Yet we managed to get through the exams somehow!\\nI'm sure Uesugi-san also had some time to think.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "Even so, we have hardly any time left.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Miku",
+      "texto_en": "Once the trip is over, Futaro will go to Tokyo.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "That's right.\\nAnd yet%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "I absolutely hate being in this lukewarm relationship.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Nino",
+      "texto_en": "Since the night of the festival,\\nmy feelings haven't changed even once.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Miku",
+      "texto_en": "I feel the same.\\nI want Futaro to give us an answer.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Miku",
+      "texto_en": "Even if it's not the result I want,\\nI'm ready to accept it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "This graduation trip is our last chance.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "Miku and I have already made up our minds.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "So, let me ask again.\\nWhat about you guys?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Miku",
+      "texto_en": "Yotsuba?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Yotsuba",
+      "texto_en": "I hope that the time will come when \\neveryone's feelings will be fulfilled.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Itsuki",
+      "texto_en": "Everyone's, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah.\\nIt's not just about who Uesugi-san chooses.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Yotsuba",
+      "texto_en": "We want him to accept everyone's feelings,\\nand then give us an answer.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Yotsuba",
+      "texto_en": "I think that's the best thing for Uesugi-san, as well.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Ichika",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "I, too, agree with getting an answer from Uesugi-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "Despite this obviously tanglesome plan,\\nI thought you would be the first to oppose it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Itsuki",
+      "texto_en": "Whatever our thoughts or feelings,\\nwe are all waiting for him to give an answer.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "Ever since that night...\\nwe've been at a standstill.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "Besides, this could be a good opportunity...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Miku",
+      "texto_en": "What is?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Miku",
+      "texto_en": "You said this could be a good opportunity, didn't you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "Ah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Itsuki",
+      "texto_en": "Ahh, um, you know!\\nA good opportunity for Uesugi-kun\\nto reflect on his indecisiveness.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Yotsuba",
+      "texto_en": "Itsuki, you're so harsh.\\nOur Uesugi-san is definitely reflecting on it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Miku",
+      "texto_en": "I don't know if he IS reflecting.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Ichika",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Nino",
+      "texto_en": "Ichika.\\nYou like him too, don't you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Ichika",
+      "texto_en": "Whoa, that came out of nowhere.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Miku",
+      "texto_en": "What do you want to do, Ichika?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Ichika",
+      "texto_en": "Hmm, I didn't think Futaro-kun\\nwould be so indecisive up to this point.\\nIt's really quite troubling.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Nino",
+      "texto_en": "Even if you try to deceive us, it's useless.\\nYou haven't given up yet.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Nino",
+      "texto_en": "I know that much.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Ichika",
+      "texto_en": "...This really is so troublesome.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Miku",
+      "texto_en": "But, you don't have to give up?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Ichika",
+      "texto_en": "Miku...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Miku",
+      "texto_en": "And, you don't need to hold back.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Ichika",
+      "texto_en": "Huh...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Miku",
+      "texto_en": "When Futaro decided that he wouldn't choose anyone\\nat that time, it was his own decision.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Ichika",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Miku",
+      "texto_en": "The fact is that he is trying again to give us an answer\\nbut that's his own decision.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Miku",
+      "texto_en": "We're all rivals,\\nand it's Futaro who will choose.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Miku",
+      "texto_en": "Ichika, we won't blame you if you want him to choose you. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Nino",
+      "texto_en": "What you want to do, is up to you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Ichika",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Yotsuba",
+      "texto_en": "Ichika...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    }
+  ]
+}

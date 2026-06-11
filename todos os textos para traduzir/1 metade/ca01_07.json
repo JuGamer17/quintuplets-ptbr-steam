@@ -1,0 +1,150 @@
+{
+  "arquivo": "ca01_07",
+  "total": 24,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Raiha",
+      "texto_en": "That was fun, right?\\nI didn't know it was such a bustling place.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Yotsuba",
+      "texto_en": "I feel like I saw a lifetime's worth\\nof Okinawan souvenirs.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Nino",
+      "texto_en": "But in a way, it's scary that we still haven't seen\\nall the shops.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Miku",
+      "texto_en": "Including the backstreets, I wonder how many there are.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Ichika",
+      "texto_en": "If we keep looking around absentmindedly,\\nthe day will end before we know it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Now, onto the main topic.\\nAnyone find anything that looks like a good souvenir?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Everyone",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Nope.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Miku",
+      "texto_en": "When I start thinking about it, I'm getting overwhelmed.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "I had a few things catch my eye,\\nbut I haven't found the perfect thing yet.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Yotsuba",
+      "texto_en": "It's an important decision,\\nso I don't want to just choose something randomly.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "Yeah, it's a once-in-a-lifetime memory, after all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "You're right...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "(Actually, I wish I could have suggested something\\n to everyone, if I understood what they are going for earlier.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "Well, well, we've only just started looking, right?\\nAnd our next stop is American Village.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Raiha",
+      "texto_en": "What's that like?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "As the name suggests, it's a resort with townscapes that looks\\nlike an American village.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Ichika",
+      "texto_en": "It's also a great shopping spot,\\nI think it's perfect for looking for souvenirs.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Yotsuba",
+      "texto_en": "Also, the view is great. It's right by the sea.\\nThere's even a Ferris wheel.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Raiha",
+      "texto_en": "Can you see the ocean from the Ferris wheel?\\nI want to ride it!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Yotsuba",
+      "texto_en": "Let's ride it guys!\\nLet's ride it as many times as we want!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "You can ride it as many times as you want.\\nI won't stop you, but let's go in moderation.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Ichika",
+      "texto_en": "Alright then, let's go.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "Yeah.",
+      "texto_ptbr": ""
+    }
+  ]
+}

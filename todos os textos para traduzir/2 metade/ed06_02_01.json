@@ -1,0 +1,474 @@
+{
+  "arquivo": "ed06_02_01",
+  "total": 78,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(This is the place she specified.\\n Somewhere around here%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(...Found her!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "???",
+      "texto_en": "Who did you come to meet?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "You, Ichika.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "???",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "I really%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "W-wait a second!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Huh?!\\nWhat the, all of a sudden? I haven't even%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Ichika",
+      "texto_en": "L-look!\\nThere are people watching here, right?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "Come on! Follow me!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Hey! Where're you goin'?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Ichika",
+      "texto_en": "Just hurry up already!!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Huff... Huff...\\nI-I'm tired...\\nYou made me sprint almost at full speed...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "W-well, so am I!\\nWho do you think's to blame?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Who's to blame... Is it me?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "...No, it's not.\\nI decided on Kokusai dori, after all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Ichika",
+      "texto_en": "*sigh*\\nThat meeting spot was a failure.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Jeez.\\nWe didn't have to come all the way back to the hotel,\\ndid we?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Ichika",
+      "texto_en": "...Ah.\\nIn a way, this place\\nisn't exactly reassuring either, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "What's that supposed to mean?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Ichika",
+      "texto_en": "Well, you're not exactly good at going with the flow.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "I mean, in your case,\\nyou never know who might see you where.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "I've learned that well enough in the past few days.\\nBeing an actress is tough, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Ichika",
+      "texto_en": "...That's not what I meant.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "E-even I have had dreams of being confessed \\nto by someone in this way!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "Except in a more romantic place!\\nAt least with just the two of us!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Even if you say that.\\nYou were the one who specified that spot,\\nweren't you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "...Well, I didn't think you'd actually come.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*\\nYou're one to talk, being as proactive as you were.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "You were all energetic and clingy\\nat Emerald Beach, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Ichika",
+      "texto_en": "Huh?\\nDid you actually know it was me back then?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Ah, so it was you, after all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Ichika",
+      "texto_en": "Wait, were you trying to\\nlure me into your trap at that time?\\nOr did you just have a hunch?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "At that time, I just had a vague feeling.\\nSaying something like 'be more honest,'\\nI thought that you were playing a trick on me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Ichika",
+      "texto_en": "I see...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Ichika",
+      "texto_en": "Of course, I wanted you to make a choice.\\nBut...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "What is it?\\nIf there's another reason, just tell me straight.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Ichika",
+      "texto_en": "Ahaha...\\nWell, I guess so.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Ichika",
+      "texto_en": "Of course, I wanted you to choose me.\\nBut...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "What is it?\\nIf there's another reason, just tell me straight.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Ichika",
+      "texto_en": "...It's for your sake.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Wait. I don't understand.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Ichika",
+      "texto_en": "I mean, despite your attempts to act cool,\\nyou're surprisingly stubborn, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Ichika",
+      "texto_en": "So, by cornering you like this,\\nmaybe you'd finally give me an answer.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "You...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Ichika",
+      "texto_en": "Look, we didn't want you to keep being indecisive.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Ichika",
+      "texto_en": "So, how about it? Did it work?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "…Geez.\\nI mean, I get why you take care of your sisters,\\nbut why are you trying to take care of me?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Ichika",
+      "texto_en": "Because I'm their big sister.\\nIf it helps their feelings come true, then...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "(...So that's what it is.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "And I suppose I'm included in with the sisters. \\nYou're just too caring as the eldest daughter. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Ichika",
+      "texto_en": "Could it be that you've fallen in love with me again?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "Yeah.\\nI like you, Ichika.\\nNo one else but you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Ichika",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "It's that tenderness you have for your sisters,\\nand your determination to be strong\\nfor your dreams, and for yourself.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "But because of that, \\nyou overdo it sometimes \\nand push yourself into a corner%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "And yet I love all of that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Ichika",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Ichika",
+      "texto_en": "Me too, I love you. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "...I finally got to hear it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Ichika",
+      "texto_en": "Is that so?\\n...You happy?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, I'm happy.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Ichika",
+      "texto_en": "But 'finally?'\\nCould it be...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "(Ah...\\n I did say 'finally,' didn't I.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "You said everything back then was a lie.\\nBut I want there to be some truths among the lies%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "I might have always thought that somewhere.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Ichika",
+      "texto_en": "I see.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Ichika",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Ichika",
+      "texto_en": "Hey, Futaro-kun.\\nI might not really be a kind person.\\nIs that okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "Oh, really?\\nThen show me that side of you too.\\nYou don't have to hold back.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Ichika",
+      "texto_en": "Eh...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Futaro",
+      "texto_en": "I'm sure I'll end up\\nfalling in love with that side of you too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Ichika",
+      "texto_en": "Ahh, come on... I can't compete with you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "But that's just how love works, right?\\nI feel like I've finally learned that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Ichika",
+      "texto_en": "...Yeah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Ichika",
+      "texto_en": "I want to love every part of you,\\nand I want you to love every part of me too...",
+      "texto_ptbr": ""
+    }
+  ]
+}

@@ -1,0 +1,492 @@
+{
+  "arquivo": "ca03_mv3_03",
+  "total": 81,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Miku",
+      "texto_en": "Those two just then were really lovely....",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "Yes, it looked like pure happiness.\\nWe got to see something nice.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Ah...\\nMiku, Nino.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Miku",
+      "texto_en": "!...\\nF-Futaro...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "It seems like you're satisfied, but what did you see?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Miku",
+      "texto_en": "What we saw...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "The Tropical Dream Center.\\nThere were several large greenhouses.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Ah, I see.\\nSo it's a botanical garden,\\nsince you mentioned greenhouses.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "Yes, the orchids were beautiful,\\nbut what was really nice was the building inside,\\nwhich was like an old castle garden.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "A castle...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Miku",
+      "texto_en": "Yes. There was a pond, and there were buildings\\naround it that looked like something out\\nof a fairy tale with princesses.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "(I don't understand at all...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "Moreover! There really was a princess and a prince!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "What are you talking about?\\nDid you hallucinate or something?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Miku",
+      "texto_en": "Um, not a princess...\\nIt was a bride and a groom\\ntaking wedding photos...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "...A wedding? In a greenhouse?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "It wasn't a wedding ceremony.\\nThey were taking wedding photos.\\nMaybe there was a wedding related service offered there.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "Two people holding hands by the pond\\nin the midst of blooming flowers.\\nIt really felt like a fairy tale.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "The bride's pure white dress was shining in the light,\\nand the bride herself was radiant...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "(If Miku wore a wedding dress...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Miku",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Nino",
+      "texto_en": "Oh my, Fu-kun? What were you just imagining?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "HUH?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "I wasn't imagining a thing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "Quit it with the bad lies.\\nYour eyes clearly gave away the answer,\\ndidn't they?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "(Th-then why bother asking!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Nino",
+      "texto_en": "Actually, we saw them kiss too.\\nRight, Miku?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Miku",
+      "texto_en": "Y-yeah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Kiss?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "...I'll leave that up to your imagination.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Nino",
+      "texto_en": "Hmmm.\\nHow about them apples, Miku?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Miku",
+      "texto_en": "Huh? Huhhh?!\\nWhy ask me...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Nino",
+      "texto_en": "Because it's what Miku imagined, right?\\nThat's right, isn't it, Fu-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "W-well, um... That's one way to put it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Nino",
+      "texto_en": "Actually, we saw them kiss too.\\nRight, Miku?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Miku",
+      "texto_en": "Y-yeah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "Kiss?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "You know, without me having to say...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Nino",
+      "texto_en": "I wonder?\\nI'm not you, so I don't know what you're thinking.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Nino",
+      "texto_en": "Isn't that true, Miku?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "(...That's true.\\n No matter how much you imagine, you can't be certain\\n about what the other person is thinking or feeling.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "(Maybe Nino wants to say that.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "(However! The situation is different now!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Nino",
+      "texto_en": "Actually, we saw them kiss too.\\nRight, Miku?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Miku",
+      "texto_en": "Y-yeah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "Kiss?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Nino",
+      "texto_en": "What are you surprised about, Fu-kun?\\nIt's only natural for the two who are getting married,\\nright? They'll even exchange a kiss during the ceremony.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "I-I see...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Nino",
+      "texto_en": "*sigh*",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Nino",
+      "texto_en": "Aa-ah.\\nI want to take a lovely picture like that\\nwith someone, too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Miku",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Nino",
+      "texto_en": "What about you, Fu-kun?\\nDon't you think it would be nice to take a picture\\nin a field of flowers?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "U-um, I...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Nino",
+      "texto_en": "Taking a picture by the beach would be nice too.\\nWith the emerald green Okinawan sea\\nin the background.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Nino",
+      "texto_en": "At the shore, the groom lifts the bride up...\\nWouldn't that make a picturesque scene?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Miku",
+      "texto_en": "Mmmhh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Nino",
+      "texto_en": "What do you think? Fu-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "It's not a good idea to ask me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Nino",
+      "texto_en": "You're not interested in what kind of person\\nI'll take pictures with?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "I have no business meddling in this.\\nBesides, it's the partner YOU choose,\\nso there's no need to worry, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Miku",
+      "texto_en": "Ah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Nino",
+      "texto_en": "What the heck?\\nGeez, you're so cruel.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Nino",
+      "texto_en": "Hey Fu-kun, where are you going next?\\nWon't you come with us?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "That's right...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Futaro",
+      "texto_en": "(Don't panic, Futaro.\\n The real battle is yet to come!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Futaro",
+      "texto_en": "Ah, I'm a bit tired of walking!\\nI'm going to take a break, see you later!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Nino",
+      "texto_en": "You know I was joking just now, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Miku",
+      "texto_en": "Yeah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Nino",
+      "texto_en": "But.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Miku",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Nino",
+      "texto_en": "It depends on you guys.\\nIt might not be a joke anymore.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Nino",
+      "texto_en": "But before that, you should also\\ndo your best, okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Miku",
+      "texto_en": "...Okay.\\nThank you, Nino.",
+      "texto_ptbr": ""
+    }
+  ]
+}

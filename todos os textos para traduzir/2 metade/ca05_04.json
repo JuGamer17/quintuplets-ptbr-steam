@@ -1,0 +1,558 @@
+{
+  "arquivo": "ca05_04",
+  "total": 92,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "Wooow! Is this Umikaji Terrace?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Raiha",
+      "texto_en": "The buildings are all white!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "This atmosphere is similar to Europe,\\nor maybe the Mediterranean coast.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Miku",
+      "texto_en": "The sea is beautiful too...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Nino",
+      "texto_en": "This is such a stylish place! How nice!\\nJust being here puts me in a good mood.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, this resort vibe\\nis definitely getting me excited!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "I had no idea there was such a place.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "I think this is a relatively new facility.\\nI found it while planning for this trip.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "It's quite an unconventional tourist spot to visit as our first stop.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "Well, I didn't want to disappoint you\\nwith a typical plan that would make you say,\\n'Oh, that's ordinary.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "Also, I thought it was a really nice place\\nfrom the moment I saw the photos...\\nI definitely wanted to come here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Raiha",
+      "texto_en": "What kind of place is this?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "There are many kinds of shops here.\\nYou can enjoy leisurely shopping,\\nand there are also Okinawan sweets!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "The scenery is so nice that \\njust walking around looks fun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "However, let's have brunch first!\\nThis place also has a variety of restaurants.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "Ah, that's exactly why I had a light breakfast.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Miku",
+      "texto_en": "I'm okay with that.\\nWhat should we eat?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "Leave the menu to me!\\nI did some research on Okinawan cuisine\\nbefore coming here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "I made sure to memorize the restaurants here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Miku",
+      "texto_en": "You really value substance over style, huh, Itsuki?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "Ahaha... Not to that degree....",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "I think it's fine, isn't it?\\nEnjoying the local food culture\\nis also one of the highlights of travel, isn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "Yeah, you're right!\\nYou can enjoy the food as much as the sights when traveling!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "...I'm not sure I'd put them both on the same level.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "So, first of all!!\\nWhat I want to teach you\\nis about Okinawa's steak culture.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Miku",
+      "texto_en": "It suddenly feels like we're in a classroom. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Raiha",
+      "texto_en": "Steak in Okinawa?\\nI can't really imagine that. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "Actually, there are many steak restaurants in Okinawa.\\nThey were influenced by American culture, you know.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "Moreover, it seems that Okinawa's steak\\nis a little different from the steak we usually eat%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "Surprisingly, there's a unique Okinawan steak sauce, too!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Ichika",
+      "texto_en": "Oh, I had no idea about that either.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Nino",
+      "texto_en": "Wait a minute. I have a bad feeling about this...\\nThe fact that you suddenly started talking about steak must mean%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "Yup, we're going to a steak restaurant!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Nino",
+      "texto_en": "Oh no... I knew it...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Miku",
+      "texto_en": "Steak for brunch is a bit heavy...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "And it seems a little too luxurious...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Miku",
+      "texto_en": "That's what you're worried about?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "Putting luxury aside,\\nisn't steak usually eaten for dinner?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "Th-that's not true!\\nBrunch steak is delicious too,\\nI'm sure of it!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Yotsuba",
+      "texto_en": "We're going to be walking around all day today, \\nso I think it's not a bad idea to eat\\na proper meal while we're here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Ichika",
+      "texto_en": "We'll definitely use up the calories we consume.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Why is it that you guys don't hesitate when you eat \\nanything sweet but at times like this, \\nyou all start talking about calories?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Raiha",
+      "texto_en": "Big brooo! You're not supposed to say things like that!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Ichika",
+      "texto_en": "Well, anyway, setting calories aside.\\nI'm okay with steak.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Yotsuba",
+      "texto_en": "I mean, it seems like you're totally gung-ho on steak,\\nItsuki.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "Uuuh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Nino",
+      "texto_en": "Fine, fine. Steak it is. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Miku",
+      "texto_en": "I'm leaving all aspects of this plan up to Itsuki,\\nso I won't complain.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Itsuki",
+      "texto_en": "Thank you very much!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, the photos of the menu items\\nlook so delicious!\\nI can't decide which one to choose!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Nino",
+      "texto_en": "I'll go with something lighter.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Miku",
+      "texto_en": "Me too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "Ehhh, but this is our chance to eat steak, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Yotsuba",
+      "texto_en": "I'm going all out!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "(Kkh! Authentic steaks are pretty expensive!\\nThey're more than twice the cost of\\nsteaks at family restaurants!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "(Considering the budget for the remaining\\n days of the trip and Raiha's portion...\\n I wonder if we're cutting it close? In the red?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Itsuki",
+      "texto_en": "Is something wrong?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "Ah, no, it's just that...\\nI was thinking that top quality stuff can add up.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Itsuki",
+      "texto_en": "...Oh, is that it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Itsuki",
+      "texto_en": "Don't worry about that. I'll take care of the payment.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "What the%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Itsuki",
+      "texto_en": "Otherwise, you might end up ordering a\\nsteak set without the steak, Uesugi-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "I wouldn't do that, especially while on vacation!\\nI'll pay for it myself!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Ichika",
+      "texto_en": "Naturally, it's a little embarrassing for a boy \\nto ask his girlfriend to pay for him, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Itsuki",
+      "texto_en": "...Wha%p-2;――%p;!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "It's not embarrassing or anything, it's just%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Itsuki",
+      "texto_en": "That's right, Uesugi-kun!\\nPlease, treat me this time!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Ichika",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "WHAAA?!\\nWh-why do I have to do that?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Itsuki",
+      "texto_en": "Well, I mean...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Itsuki",
+      "texto_en": "N-no reason! Just because!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Ichika",
+      "texto_en": "W-woah, Itsuki-chan?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Futaro",
+      "texto_en": "I mean, well, I'm sorry, but that's just not possible.\\nI'll be paying for myself and Raiha's portion, too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Itsuki",
+      "texto_en": "I-if you're not treating me, then at least let me treat you!\\nIt should be fine if I pay, right?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "What are you talking about?\\nEach of us can just pay for our own meal\\nlike normal people.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Itsuki",
+      "texto_en": "But if we do that, then, um...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Itsuki",
+      "texto_en": "I-it's decided!\\nWe're going as a pair, Uesugi-kun!\\nEither I pay, or you pay!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Futaro",
+      "texto_en": "What exactly is your end game here?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Futaro",
+      "texto_en": "Haah... Haah...\\nAlright, so each person\\ncan pay for their own portion, okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Itsuki",
+      "texto_en": "Understood, so then...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Nino",
+      "texto_en": "Is everything settled now?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Itsuki",
+      "texto_en": "Yes...\\nSorry for making such a fuss.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Futaro",
+      "texto_en": "No, it's my bad.\\nIf I could've treated you,\\nthere wouldn't have been a problem.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 84,
+      "personagem": "Itsuki",
+      "texto_en": "B-but, I'm the one who asked\\nwithout considering your circumstances!\\nYou don't have to apologize%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 85,
+      "personagem": "Miku",
+      "texto_en": "Stop, before you get into another loop.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 86,
+      "personagem": "Itsuki",
+      "texto_en": "Ah... Sorry...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 87,
+      "personagem": "Ichika",
+      "texto_en": "I'm sorry too.\\nI mispoke earlier.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 88,
+      "personagem": "Itsuki",
+      "texto_en": "No, it's my fault...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 89,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, anyway, let's just go inside\\nand eat at the restaurant.\\nIt smells really good, and I'm getting hungry!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 90,
+      "personagem": "Itsuki",
+      "texto_en": "Okay...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 91,
+      "personagem": "Futaro",
+      "texto_en": "(*sigh*\\n Why did Itsuki have to bring all that up anyway?)",
+      "texto_ptbr": ""
+    }
+  ]
+}

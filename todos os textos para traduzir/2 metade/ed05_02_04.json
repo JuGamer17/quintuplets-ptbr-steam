@@ -1,0 +1,510 @@
+{
+  "arquivo": "ed05_02_04",
+  "total": 84,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Ahh... I'm so tired...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "Phew, we managed to finish it without a hitch...\\nI'm much more exhausted than I imagined...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Ahh...\\nI never expected to have been this nervous...\\nFinally, I can take a breather...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "That's right...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Isanari",
+      "texto_en": "Futaro, can I come in?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, sure.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Isanari",
+      "texto_en": "Yo! Good work out there.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Isanari",
+      "texto_en": "Woah, what now?\\nWhy do you look so worn out?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "It's tiring, you know.\\nI was tense the whole time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Isanari",
+      "texto_en": "Are you okay with that?\\nFrom now on, it'll be just you and Itsuki-chan,\\nya know.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "Father.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Isanari",
+      "texto_en": "Hey, Itsuki-chan, you don't have to be so formal.\\nIt's not necessary.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "Well, it's a milestone of a day.\\nPlease allow me to greet you properly.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "From now on, as a member of the Uesugi family,\\nI ask for your support.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Isanari",
+      "texto_en": "Sure, same here.\\nTake care of my idiotic son.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "Heheh, you can leave that to me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Hey, who's the idiotic son?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Isanari",
+      "texto_en": "What's the matter?\\nYou don't like it? Should I call you\\nthe idiotic son who's bad at studying?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Ah, forget it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Isanari",
+      "texto_en": "And also, do your best as a teacher.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, I will.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Isanari",
+      "texto_en": "If anything, you can put Futaro aside for now.\\nBe a good teacher, who prioritizes her students!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Wha?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Isanari",
+      "texto_en": "This guy might get sulky unexpectedly,\\nbut you don't have to worry about it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Dad! Stop saying whatever you want!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Itsuki",
+      "texto_en": "...Heheh!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "Hey, Itsuki. You can ignore what Dad is saying.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "But, I can't do that.\\nIt's advice from your father,\\nwho's raised you up to this point, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Isanari",
+      "texto_en": "That's right! Gahaha!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Ggh...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "Well, ya know, even I want you to do your best as a teacher%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Oh, speaking of which, Dad.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Isanari",
+      "texto_en": "What is it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "She was your mentor, right? Itsuki's mother.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Isanari",
+      "texto_en": "Well, I guess.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "In that case%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Raiha",
+      "texto_en": "Big bro, can I come in?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Raiha",
+      "texto_en": "Did you finish changing?\\nI'll return your suit.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Ah, yeah.\\nThanks, Raiha.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Isanari",
+      "texto_en": "Alright, I'll take off too, then.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Huh?\\nWe still have things to talk about%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Isanari",
+      "texto_en": "Alrighty, have fun, you two newlyweds.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "...Hey, was it better not to ask?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Itsuki",
+      "texto_en": "About that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "About your mother.\\nAbout what kind of teacher she was, for example.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Itsuki",
+      "texto_en": "Yeah...it's fine.\\nI probably won't ask about that any time soon.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "I don't want to become my mother.\\nThere's no need for it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Itsuki",
+      "texto_en": "You're the one who taught me that, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "...Ah, yeah, that's right.\\nI asked something stupid.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "No, it's fine.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Itsuki",
+      "texto_en": "When I look back...\\ntruly, since I met you, my life has completely changed.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "I've clashed and learned so many things.\\nI can't imagine the version of myself\\nthat didn't meet you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "That goes both ways.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "(Come to think of it, I met Itsuki at the cafeteria,\\n and everything started to change from there.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "Man... That was the worst first encounter.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, you're horrible.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "Since I met you, my life has also completely changed.\\nYou're the root of all evil.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Itsuki",
+      "texto_en": "But isn't that my line?\\nIt was shocking to encounter someone\\nso lacking in delicacy.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Itsuki",
+      "texto_en": "Futaro, you're fine with saying things\\nwithout delicacy, but you were incredibly nervous\\nduring the kiss, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Itsuki",
+      "texto_en": "During the vow kiss, you were trembling, remember?\\nI thought it might not work.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "That was...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Itsuki",
+      "texto_en": "Even though it's not the first time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "Well, what can you do! Everyone was watching today!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "Actually, speaking of that graduation trip,\\nit was more on your end, right%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Itsuki",
+      "texto_en": "Uwah! I'm sorry, I'm sorry!\\nPlease don't say any more!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "If that's the case,\\ndon't bring it up in the first place.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Itsuki",
+      "texto_en": "Heheh, sorry, I really am.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Itsuki",
+      "texto_en": "Looking back now, those are also good memories.\\nIncluding that encounter.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Itsuki",
+      "texto_en": "If we hadn't had that encounter,\\nif we hadn't had the events in Okinawa...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, we might not be here, together as a couple.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Itsuki",
+      "texto_en": "That's why, even though it happened in that way,\\nI truly feel fortunate to have met you.\\nFrom the bottom of my heart.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Futaro",
+      "texto_en": "I feel the same way as you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Itsuki",
+      "texto_en": "Being together with you like this,\\nis the greatest event in my life.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "What are you saying, Itsuki?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Itsuki",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Futaro",
+      "texto_en": "Even now, we're incredibly happy,\\nbut there's still so much more to come, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Itsuki",
+      "texto_en": "Ah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Futaro",
+      "texto_en": "Our happiness isn't at its peak here.\\nIf it's the two of us,\\nwe can create an even happier future.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Itsuki",
+      "texto_en": "...Yes!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Futaro",
+      "texto_en": "(Even with the worst first encounter, and all those clashes%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Itsuki",
+      "texto_en": "Together, always.\\nLet's make our best moments ones to last for eternity.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, of course.\\nThat's what we vowed to do.",
+      "texto_ptbr": ""
+    }
+  ]
+}

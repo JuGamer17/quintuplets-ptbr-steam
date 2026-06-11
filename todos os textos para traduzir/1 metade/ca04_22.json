@@ -1,0 +1,576 @@
+{
+  "arquivo": "ca04_22",
+  "total": 95,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(…He's here.\\n It's just like him. Right on time.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Maruo",
+      "texto_en": "I'm sorry to have kept you waiting.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Not at all.\\nI'm sorry to have called you out like this\\nso suddenly.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Maruo",
+      "texto_en": "No worries.\\nTrouble is a part of traveling.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "There's something I wanted to ask you about today,\\nDad.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Maruo",
+      "texto_en": "You have no reason to call me 'Dad.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "(Ooh...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Maruo",
+      "texto_en": "Well, never mind.\\nThere's something I want to ask you as well.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Wh-what is it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Maruo",
+      "texto_en": "Is Yotsuba enjoying this trip?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "(He's calling her by name, and not referring to all of\\n his daughters.\\n He must have realized our relationship.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "...I apologize for reporting this so late.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "I've confessed to Yotsuba-san, and we're dating now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Maruo",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Today, I wanted to talk about me and Yotsuba-san\\nbeing together%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Maruo",
+      "texto_en": "It seems like you didn't hear my question.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "...Eh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Maruo",
+      "texto_en": "What I'm asking you\\nis whether Yotsuba is enjoying this trip or not.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "(I messed up! He's not asking about the relationship\\n between Yotsuba and I.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "(He's aware of our relationship,\\n and is wondering if Yotsuba and I are happy together.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "(Does that mean he wants to know if Yotsuba and I\\n are...enjoying our time together as lovers...?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Maruo",
+      "texto_en": "Is something wrong?\\nYou've gone quiet.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Well...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "(I did have fun on this graduation trip with Yotsuba,\\n even though there were some ups and downs.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "(Yet, if I look at it from a lover's perspective,\\n it's pretty pathetic to make Yotsuba feel uneasy\\n around her sisters.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "(Did I mistake my own happiness\\n for something that only I felt?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "(Is is possible the happiness I felt\\n was something one-sided, just from my perspective?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Maruo",
+      "texto_en": "Well, it seems like this was a waste of time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Maruo",
+      "texto_en": "I guess it can't be helped.\\nI'll take your silence as an answer.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Wai%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "???",
+      "texto_en": "Wait, please!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Maruo",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Yotsuba?!\\nWhy are you here?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Maruo",
+      "texto_en": "I'm surprised.\\nI heard that he was the only one coming here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Yotsuba",
+      "texto_en": "Dad.\\nI'm sorry for not\\nproperly telling you something important.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Yotsuba",
+      "texto_en": "I'm going out with Uesugi-san.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Maruo",
+      "texto_en": "Yes, I heard it from him.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Maruo",
+      "texto_en": "However, that wasn't the answer I was looking for.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Yotsuba",
+      "texto_en": "Dad.\\nI like Uesugi-san.\\nI'm really, really happy to be his girlfriend.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Yotsuba",
+      "texto_en": "I wanted you to know my honest feelings, just now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Yotsuba",
+      "texto_en": "That's why I came here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Yotsuba",
+      "texto_en": "Please approve of our being together, Dad.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Maruo",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Maruo",
+      "texto_en": "He is no longer your tutor.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Yotsuba",
+      "texto_en": "...Okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Maruo",
+      "texto_en": "The kind of relationship you build with him, Yotsuba,\\nfrom now on...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Maruo",
+      "texto_en": "That is up to you.\\nI did not intend to say\\nthat the current relationship is mistaken.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Yotsuba",
+      "texto_en": "Well...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Maruo",
+      "texto_en": "I have no intention of stopping you from pursuing\\nwhat you willfully desire.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Yotsuba",
+      "texto_en": "Dad...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Yotsuba",
+      "texto_en": "Thank you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "(Although he's speaking in a roundabout way...\\n Does that mean he approves?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Maruo",
+      "texto_en": "However, scolding the whims of their children\\nis also a parent's job.\\nI shall be observing your progress going forward.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Maruo",
+      "texto_en": "Above all, I have only heard an answer\\nfrom you, Yotsuba.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "Ah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Maruo",
+      "texto_en": "If I don't do something at least a little fatherly,\\na certain someone is bound to yell at me again.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "(He's still holding a grudge!\\n Does he still hate me?!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Maruo",
+      "texto_en": "However, I understand that you care very deeply\\nabout your relationship with all my daughters, and you\\nshould take them into consideration, not just Yotsuba.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "Ah, yes!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "Of course.\\nI will continue to make every effort\\nnot to betray your feelings, Dad.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Maruo",
+      "texto_en": "You have no reason to call me 'Dad.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Maruo",
+      "texto_en": "Well, it's already quite late.\\nI have to go back soon,\\nor I'll be late for the conference.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Maruo",
+      "texto_en": "I am quite a busy man, after all.\\nExcuse me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Yotsuba",
+      "texto_en": "Yes.\\nBye bye, Dad.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Maruo",
+      "texto_en": "...You two as well,\\ndon't get lost and go home before it gets dark.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "He left.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Yotsuba",
+      "texto_en": "He really left.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*\\nHe really does have a large presence.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahaha...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "Anyway, why did you come here?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Yotsuba",
+      "texto_en": "Sorry.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Futaro",
+      "texto_en": "...You thought\\nyou couldn't leave it to me alone, huh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Yotsuba",
+      "texto_en": "That's not it.\\nAs I said earlier,\\nI also wanted to tell Dad my honest feelings.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Yotsuba",
+      "texto_en": "I said it before, right?\\nI also wanted to convey my true feelings\\nto him.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Yotsuba",
+      "texto_en": "It's not for your sake, Uesugi-san.\\nI came here for myself.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Futaro",
+      "texto_en": "Yotsuba...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Futaro",
+      "texto_en": "(For me, huh.\\n I didn't realize it,\\n but Yotsuba really has changed.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 84,
+      "personagem": "Itsuki",
+      "texto_en": "Uwaaaa, Yotsubaaa!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 85,
+      "personagem": "Yotsuba",
+      "texto_en": "Uwa-Itsuki?!\\nWhat's wrong?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 86,
+      "personagem": "Ichika",
+      "texto_en": "Itsuki-chan was so nervous until now\\nthat she almost collapsed.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 87,
+      "personagem": "Nino",
+      "texto_en": "Me too, though.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 88,
+      "personagem": "Miku",
+      "texto_en": "Yotsuba, you did a good job.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 89,
+      "personagem": "Raiha",
+      "texto_en": "Big bro wasn't much of a help, though.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 90,
+      "personagem": "Futaro",
+      "texto_en": "What the...\\nIn the end, everyone came here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 91,
+      "personagem": "Nino",
+      "texto_en": "We couldn't let Yotsuba come alone, could we?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 92,
+      "personagem": "Itsuki",
+      "texto_en": "So now, even Dad has acknowledged\\nyour relationship.\\nI'm really happy for you two.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 93,
+      "personagem": "Futaro",
+      "texto_en": "Well, it's up to me from now on\\nto see what happens.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 94,
+      "personagem": "Futaro",
+      "texto_en": "(I know that the road ahead will be yard. Yet still,\\n step by step, I have to keep moving forward and prove\\n to that man that I'm worthy of being with Yotsuba.)",
+      "texto_ptbr": ""
+    }
+  ]
+}

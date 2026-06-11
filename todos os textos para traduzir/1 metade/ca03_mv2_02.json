@@ -1,0 +1,408 @@
+{
+  "arquivo": "ca03_mv2_02",
+  "total": 67,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Miku, Yotsuba.\\nWhat are you talking about?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Miku",
+      "texto_en": "Futaro...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, Uesugi-san.\\nPlease, look at this mannequin here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Is this...the formal dress of officials in the Ryukyu Kingdom period?\\nIt looks like a kimono at first glance.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Yotsuba",
+      "texto_en": "Teehee! Actually, Uesugi-san,\\nI'm the most important person here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Huh? What're you talking about all of a sudden?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, you see, in this era, the color and pattern\\nof someone's hat indicated the person's rank.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "So, people who can wear hats%p-2;――\\n%p;who, like me, carry a ribbon on their head,\\nare in a higher position!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "...You're forcing that a little too hard,\\ndon't you think?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Miku",
+      "texto_en": "I agree.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Yotsuba",
+      "texto_en": "Gahh!\\nOooh, the Yotsuba dynasty has come to a fleeting end.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "It never even began, though.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Miku",
+      "texto_en": "This garment, the kimono, was made in Ryukyu,\\nbut the obi was brought in from China.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Miku",
+      "texto_en": "Apparently they had trade routes for different continents.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "The colors are so vivid, too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Miku",
+      "texto_en": "Yeah, even back then,\\nthey had techniques to dye things in different colors.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Both the luster and the crest are beautiful, but...\\nI wonder what they used to dye this black garment.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Yotsuba",
+      "texto_en": "According to the explanation, it was dyed with indigo.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Wait. Indigo is a blue dye, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Miku",
+      "texto_en": "Blue?\\nHmm, but doesn't it look black?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, they repeatedly dyed it with indigo,\\nlayer by layer, to create the black garment.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Wow, for real? That's a lot of work.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Yotsuba",
+      "texto_en": "It's probably made with lots of love,\\nlayer by layer%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "Love like indigo!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "(...Did she just try to connect love and indigo?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san and Miku, you two as well, you'll continue\\nto love each other and deepen your relationship\\nfrom now on, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Both",
+      "texto_en": "WHA%p-2;――%p;?!\\nEH?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Are you trying to be clever?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Yotsuba",
+      "texto_en": "Yes!\\nWasn't it quite good?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Nope!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Don't say embarassing things like that...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Yotsuba",
+      "texto_en": "Well it seems that you're not disagreeing either.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "...I guess I'm not.\\nThinking about things ahead of here...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Miku",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Yotsuba",
+      "texto_en": "Hyaa!\\nI'm getting second hand embarassment listening to that!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Well, hopefully that's the outcome.\\nWe'll be experiencing various things together\\nfrom now on anyways...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Miku",
+      "texto_en": "Ah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Isn't that right, Miku.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Miku",
+      "texto_en": "O-okay...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Yotsuba",
+      "texto_en": "Hehehe.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "What's wrong?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san, you're surprisingly honest today.\\nUsually you'd get angry about something like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "Did you say that purposely to make me angry?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Yotsuba",
+      "texto_en": "Aaah!\\nNo, that's not what I meant!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Yotsuba",
+      "texto_en": "As Uesugi-san said,\\nthe relationship between the two of them\\nis deepening even at this moment!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Miku",
+      "texto_en": "A deeper relationship with Futaro...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Miku",
+      "texto_en": "With our relationship growing stronger!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Miku",
+      "texto_en": "Perhaps, Futaro and I...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Yotsuba",
+      "texto_en": "Miku?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Miku",
+      "texto_en": "HYAAH?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Yotsuba",
+      "texto_en": "WAWAH%p-2;――%p;?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "Hey, don't shout in the museum!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Miku",
+      "texto_en": "S-s-s-so-sorry!!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "I said, be quiet!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Yotsuba",
+      "texto_en": "You're being loud too, Uesugi-san.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "(Ah%p-2;――%p;...\\n Now I've done it...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "Huh?\\nMiku, your face is red.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Miku",
+      "texto_en": "I-I'll go ahead. See you later.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh, Miku?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "...Yotsuba, what's up with Miku?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, I wonder what happened?\\nDid she think she would get told off again for being too loud?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "Miku wouldn't run away like that over something small.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Yotsuba",
+      "texto_en": "Anyway, I'll go look for Miku.\\nSee you later, Uesugi-san.",
+      "texto_ptbr": ""
+    }
+  ]
+}

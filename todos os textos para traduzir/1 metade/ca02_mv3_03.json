@@ -1,0 +1,390 @@
+{
+  "arquivo": "ca02_mv3_03",
+  "total": 64,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(I wonder if that's...Yotsuba and Raiha\\n over there at that souvenir shop.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Raiha",
+      "texto_en": "It's tough deciding on souvenirs.\\nMy friend said they want something delicious,\\nbut there are too many options to choose from.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Yotsuba",
+      "texto_en": "With chinsuko you're on the safe side.\\nAnother classic might be sata andagi?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Raiha",
+      "texto_en": "Yeah, yeah, if it's a classic,\\nit means it's delicious, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Yotsuba",
+      "texto_en": "But don't you also want to surprise them\\nwith something more adventurous?\\nThat sounds like fun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "Oh, you. If anything, it sounds risky.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, Nino.\\nUesugi-san, too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "You're looking for souvenirs\\nfor your friends.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Raiha",
+      "texto_en": "Yeah. I'm torn between going for something a little\\nadventurous, or sticking with a classic.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Yotsuba",
+      "texto_en": "This one looks like it could have a strong impact.\\nMimiga jerky!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "Mimiga are pig ears, right?\\nThey even have jerky of that, huh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Isn't that a bit too daring?\\nAnd it doesn't seem suitable for sharing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Raiha",
+      "texto_en": "That's right, sharing is important too!\\nWe need something that everyone can share.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "And, looking closely, there are a lot of souvenirs here\\nthat are snacks made of pork.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Raiha",
+      "texto_en": "Wow, you're right.\\nI know about rafute and all, but%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Raiha",
+      "texto_en": "I wonder what this 'nakami-jiru' is.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "It's a mystery to me.\\nI have no idea.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Yotsuba",
+      "texto_en": "Is it the taste between two opposite flavors?\\nLike the middle of spicy and sweet?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Nino",
+      "texto_en": "So what flavor is that, then?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "I wonder?\\nIt's not spicy or sweet...\\nIt's turning into a riddle.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Raiha",
+      "texto_en": "Ah!\\nCould the 'naka' here mean organs?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Ok, so there's a double meaning,\\nboth 'taste' and 'contents.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Raiha",
+      "texto_en": "Yeah, that's what I was thinking.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "So, it could be a soup made with pig organs?\\nThat's a possibility.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Yotsuba",
+      "texto_en": "Right, time to check the answer!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Oh yeah, we can look up the answer on our smartphones.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "Wonder if it's like pork miso soup.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Yotsuba",
+      "texto_en": "I see. In Okinawa, they call pork soup 'nakami-jiru,'\\ndon't they.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Nino",
+      "texto_en": "Then, they should have just said it was pork soup\\nin the first place.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Raiha",
+      "texto_en": "Oh, I see what you mean.\\nIf we bought it and opened it up to find pork miso soup,\\nwe would have been disappointed.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "If it's not pork soup,\\nthen it's probably another Okinawan dish.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Nino",
+      "texto_en": "It might be something other than pork miso soup,\\nsomething a little different...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "...That's right.\\n'Naka' here is referring to contents,\\nwhich means organs.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "I get it, it's a soup using organs, huh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Yotsuba",
+      "texto_en": "Right, time to check the answer!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Oh yeah, we can look up the answer on our smartphones.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "I think the kanji for 'mi' is 'body,' not 'taste.'\\nIt means a soup containing pig organs.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, you're right!\\nOf course you'd know that, Uesugi-san.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Nino",
+      "texto_en": "If it's a soup made of organs,\\nit could be an offal stew.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Raiha",
+      "texto_en": "I see! It's easier to imagine it that way.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Yotsuba",
+      "texto_en": "Right, time to check the answer!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Oh yeah, we can look up the answer on our smartphones.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Yotsuba",
+      "texto_en": "Umm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Yotsuba",
+      "texto_en": "I think it's a dish made from pig organs after all. It\\nseems to be a soup that is simmered in bonito broth,\\nto enjoy the texture and chewiness of the offal.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "I get it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Yotsuba",
+      "texto_en": "Apparently, there's also a dish that uses pig blood\\ncalled 'chiricha.' Seems pretty unusual.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Raiha",
+      "texto_en": "BLOOD is edible?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "There's an interesting saying in Okinawa:\\nthey eat everything from a pig\\nexcept its squeal, and it seems to be true.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Yotsuba",
+      "texto_en": "Chiricha is pretty delicious, they say!\\nIf I have the chance, I'd like to try it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Nino",
+      "texto_en": "I'm curious about the taste.\\nI can't imagine...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Yotsuba",
+      "texto_en": "However, nakami-jiru wouldn't be suitable as a souvenir.\\nIt'd be difficult to share with others.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Raiha",
+      "texto_en": "Mmmhh, maybe sticking to the classics\\nis better than taking risks.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Well, I've never been in a situation where\\nI've received something inedible as a souvenir.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Raiha",
+      "texto_en": "That might be true for you, big bro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Nino",
+      "texto_en": "Oh, I have an idea.\\nHow about buying some classic items as well as local sweets,\\nand wrap them up separately?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Nino",
+      "texto_en": "Now, you'd be able to enjoy various sweets\\nand it could also be a great conversation topic.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Raiha",
+      "texto_en": "Ohh! Good idea!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Yotsuba",
+      "texto_en": "In that case, we could also pay special attention\\nto the wrapping paper! Should we look for paper bags\\nwith Okinawan patterns?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Nino",
+      "texto_en": "It doesn't have to be a special bag.\\nJust decorating a regular bag with Okinawan-style\\nwashi tape could make a difference.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Raiha",
+      "texto_en": "Oh, that's true. This way, it's possible\\nto make it look very 'Okinawa-ish.'\\nYou would think of that, Nino-san.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "(...Hm?\\n Hey, now that I'm thinking about it%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "(I'm not really leading Nino, am I?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "(Damn! What am I doing?!\\n I got so caught up in the conversation\\n that I completely forgot my intention...!)",
+      "texto_ptbr": ""
+    }
+  ]
+}

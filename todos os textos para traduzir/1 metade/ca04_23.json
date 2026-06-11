@@ -1,0 +1,330 @@
+{
+  "arquivo": "ca04_23",
+  "total": 54,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "Now that we're back, it's already evening.\\nIn the end, I guess we can't go sightseeing today... I'm sorry.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "Don't worry about a thing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, you're right.\\nWe experienced something even better than just sightseeing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Yotsuba",
+      "texto_en": "I-I knew we were being watched,\\nbut it's a little embarrassing to hear it out loud.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Ichika",
+      "texto_en": "So, now you can finally do some PDA, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Yotsuba",
+      "texto_en": "I-I won't do that!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "But Yotsuba,\\nyou were able to properly speak to Dad\\nabout everything.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "That was, well...momentum?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "When you saw Fu-kun,\\nyou had no choice but to jump in, with all you had.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Miku",
+      "texto_en": "He froze up when Dad stared at him.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Yotsuba",
+      "texto_en": "Thanks to that though, I didn't hesitate.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Yotsuba",
+      "texto_en": "Itsuki already said it,\\nbut I knew I had to say it someday as well.\\nI just didn't have the chance before.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "Hmm.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Miku",
+      "texto_en": "Yotsuba, you've grown too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Yotsuba",
+      "texto_en": "You think so?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "Well I mean, you told Daddy right to his face\\nthat Fu-kun had confessed to you, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Yotsuba",
+      "texto_en": "...Yeah, I suppose.\\nThat's true...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "Teehee, it's silly that we were all so worried.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "Yeah.\\nIn the end though, Dad took all the good parts.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh? What do you mean?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Ichika",
+      "texto_en": "Actually%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh my goodness!\\nYou guys are horrible, doing that to me!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "That's just how much we were worried about you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "...But, somehow, I had a feeling that was the case.\\nAlong the way, Ichika gave me some advice.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Miku",
+      "texto_en": "Oh, I see.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "Ichika, you...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "I didn't really get in the way, did I?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "Yotsuba.\\nI'm sorry for deceiving you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Yotsuba",
+      "texto_en": "It's okay, I'm not worried about it anymore.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Yotsuba",
+      "texto_en": "I'm actually really happy.\\nBecause, everyone was worried about me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "But, I'm not gonna worry about you anymore.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Yotsuba",
+      "texto_en": "Wha, Nino, you're so cold.\\nYou should worry even more about me!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, but let's not keep any secrets, okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Miku",
+      "texto_en": "Yeah, no secrets.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Yotsuba",
+      "texto_en": "...You know what? I feel like I've been able\\nto let go of a lot of things on this trip.\\nAnd that's all thanks to everyone, and Dad too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "I see.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Nino",
+      "texto_en": "But still, I can't believe Daddy actually came\\nall the way to Okinawa to check up on us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "Ignoring us completely, and then\\nturn around and do something like this?\\nIsn't he just moving from one extreme to the next?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "You think so?\\nDad has always been worried about us,\\nsince we were little.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, you're right.\\nHe's always been watching over us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Ichika",
+      "texto_en": "Hm?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Ichika",
+      "texto_en": "Oh, a message from Dad.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Yotsuba",
+      "texto_en": "Whaaaa?!\\nD-does this mean he still won't approve of us dating?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Miku",
+      "texto_en": "I really don't think it's that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Ichika",
+      "texto_en": "Wait a second.\\nUmmm%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Ichika",
+      "texto_en": "'I'm done with the conference,\\nso I'm heading back early.\\nHave fun tomorrow...' That's all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Nino",
+      "texto_en": "Hmm, the conference, huh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "We need to have Ebata-san keep it a secret\\nthat we asked about Father's plans.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Yotsuba",
+      "texto_en": "Hey, Ichika.\\nCan I reply to the message?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Ichika",
+      "texto_en": "Sure, go ahead.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Miku",
+      "texto_en": "What are you gonna say?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Yotsuba",
+      "texto_en": "That's obvious.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Yotsuba",
+      "texto_en": "'I'm gonna have fun!\\nFrom Yotsuba%p-2;――%p;'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Yotsuba",
+      "texto_en": "And, sent!",
+      "texto_ptbr": ""
+    }
+  ]
+}

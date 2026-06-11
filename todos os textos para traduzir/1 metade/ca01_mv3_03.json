@@ -1,0 +1,474 @@
+{
+  "arquivo": "ca01_mv3_03",
+  "total": 78,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(Who's that over there...Nino and Raiha?\\n Oh, wait? Are they waving at me?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Raiha",
+      "texto_en": "Biiig brooo!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun, over here!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "What's up? What's going on?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "WOAH?!\\nHey, why are you grabbing me so tightly?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "To make sure you don't get away, of course.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Nino",
+      "texto_en": "Since the trip over here, Ichika has managed to dodge me,\\nbut I'll make sure to hear it from you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "About this morning.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Ahh... That...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "(Well, I don't have anything to hide,\\n so if I just tell the truth,\\n she'll understand, right?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "That's why I keep telling you guys,\\nyou're overthinking it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "So, what were you doing?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "We went running.\\nIchika invited me to run\\nalong Kokusai dori this morning.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "It's true, please believe me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "If you're going to try and cover it up at this point,\\nI won't go easy on you, even if it's you, Fu-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Raiha",
+      "texto_en": "Um, was there really nothing going on?\\nI was just joking a little before...\\nI'm sorry.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "See, even Raiha is saying so, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "But why bother going for a run so early\\non a trip like this?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "We really did!\\nIt's because it's part of Ichika's daily routine.\\nShe asked me to come along.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Raiha",
+      "texto_en": "That's also truuue.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "*sigh*\\nYou really ran around in the early morning like that.\\nYou're really something.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "I think so too. By the way, if you're satisfied,\\ncan you let go of me?\\nThis is starting to look suspicious.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "Okay, okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "Listen, Fu-kun.\\nIf you do anything weird to Ichika,\\nI won't forgive you, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "I already said I won't...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Nino",
+      "texto_en": "How can you be so sure?\\nYou'll be roommates with Ichika\\nfor the entiiire trip, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Nino",
+      "texto_en": "As her sister, it's only natural for me to warn you,\\nFu-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "Well, then...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "How about changing rooms?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "Hmph, not confident you can endure it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "That's not it!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "But if we weren't roommates,\\nwe wouldn't have to worry about this, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Nino",
+      "texto_en": "Well, we would feel more secure that way too,\\nbut there's nothing we can do about it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "What do you mean there's nothing we can do?\\nWhy did you even arrange the rooms this way?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "I wooondeeer?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "(Kkh...\\n She's clearly playing dumb!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Hey, can we drop this conversation already?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Nino",
+      "texto_en": "That's right, I'll let you off the hook for now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "By the way, where were you guys headed?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Like I'd do anything weird!!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Nino",
+      "texto_en": "OH, really?\\nYour face is all red though, so even if you say that,\\nyou can't persuade me at all, can you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "...Is my face really that red?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Raiha",
+      "texto_en": "Yes, beet red.\\nLike a boiled octopus.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Nino",
+      "texto_en": "I feel like things are gonna get weird.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "I said, I won't let that happen!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Nino",
+      "texto_en": "Fine, fine, it's just a joke.\\nI get it. I guess it's fine if you say it is, Fu-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Nino",
+      "texto_en": "Besides%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Nino",
+      "texto_en": "The fact that you're being this mindful, \\nmeans that you're really thinking about Ichika.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "And, what's up with that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Nino",
+      "texto_en": "Oh, nothiiing.\\nJust thought you were passionate.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "Passionate...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Raiha",
+      "texto_en": "You're good friends!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "H-hey, could we drop this conversation already?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Nino",
+      "texto_en": "That's right, I'll let you off the hook for now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "By the way, where were you guys headed?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "Well, if I say I don't feel weird at all,\\nit would be a lie...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Nino",
+      "texto_en": "Hmmm?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "I absolutely won't initiate anything. I promise.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Nino",
+      "texto_en": "Alright, it's a promise then.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "Well, you just have to believe me on that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Nino",
+      "texto_en": "I mean, you are a boy after all, Fu-kun.\\nIt's natural to have one or two weird thoughts.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "L-like it's my fault!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Nino",
+      "texto_en": "You may not be at fault, but for you to say that with \\nso much honesty to Raiha-chan and I,\\nI can't help but laugh a little. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "(Y-yeah...!\\n What am I saying in front of my little sister?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Raiha",
+      "texto_en": "It's okay, big bro.\\nI'm actually relieved that you're properly in love.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "Yeah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Nino",
+      "texto_en": "In consideration of your honesty,\\nI guess I'll believe you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "Thank you...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "Hey, can we drop this conversation already?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Nino",
+      "texto_en": "That's right, I'll let you off the hook for now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Futaro",
+      "texto_en": "By the way, where were you guys headed?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Nino",
+      "texto_en": "We're going to the Tropical Dream Center.\\nApparently, you can see orchids all year round there.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "Oh, the botanical garden in the greenhouse?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Raiha",
+      "texto_en": "They also have various other rare plants as well.\\nI'm looking forward to it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, it's something you can only enjoy here.",
+      "texto_ptbr": ""
+    }
+  ]
+}

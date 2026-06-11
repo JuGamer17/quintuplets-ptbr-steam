@@ -1,0 +1,1086 @@
+{
+  "arquivo": "gr_01_02",
+  "total": 180,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "???",
+      "texto_en": "Uesugi-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "???",
+      "texto_en": "Uesugi-kun, wake up.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "...Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Yotsuba",
+      "texto_en": "Gooood morniiing!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Ichika",
+      "texto_en": "Looking at you made me sleepy too, Futaro-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "You'll catch a cold.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Nino",
+      "texto_en": "Don't sleep in a place like that.\\nWake up now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Huh...? The wedding...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "Are you still half-asleep?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "You're quite hasty.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Ah, no, it's like I had a weird dream\\nor something...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "It's unusual for you to say something like that,\\nand sleep in a place like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "Everyone has decided on their path,\\nso maybe you're just tired?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "The wedding...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Miku",
+      "texto_en": "Are you half-asleep?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Yotsuba",
+      "texto_en": "You're a little hasty.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Ah, no, it's like I had a weird dream\\nor something...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "It's unusual for you to say something like that,\\nand sleep in a place like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "Everyone has decided on their path,\\nso maybe you're just tired?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Itsuki",
+      "texto_en": "Huh?!\\nWhat are you saying?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Miku",
+      "texto_en": "...Y-you're being hasty.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "That's right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "Ah, no, it's like I had a weird dream\\nor something...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "It's unusual for you to say something like that,\\nand sleep in a place like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "Everyone has decided on their path,\\nso maybe you're just tired?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "Huh? WHAT?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Yotsuba",
+      "texto_en": "WHAAAT?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Ichika",
+      "texto_en": "Don't be so hasty.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Ah, no, it's like I had a weird dream\\nor something...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "It's unusual for you to say something like that,\\nand sleep in a place like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Ichika",
+      "texto_en": "Everyone has decided on their path,\\nso maybe you're just tired?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh? A wedding?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "Wh-what are you saying, all of a sudden?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Ichika",
+      "texto_en": "This is sleepwalking, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "Ah, no, it's like I had a weird dream\\nor something...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "It's unusual for you to say something like that,\\nespecially when you're sleeping in a place like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Ichika",
+      "texto_en": "Everyone has decided on their path,\\nso maybe you're just tired?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "Wait a minute.\\nIt hasn't even been decided if you can graduate yet,\\nright?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Ichika",
+      "texto_en": "Ahaha, that's right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Yotsuba",
+      "texto_en": "If you pass the exam after the graduation ceremony,\\nthen we're fine, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Ichika",
+      "texto_en": "Yeah. I was on a leave of absence, but it \\nwas a special situation and I could retake the test.\\nThe school was considerate in many ways.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "But if you fail, you'll end up doing nothing for a year.\\nBe aware that the situation is unpredictable.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Ichika",
+      "texto_en": "I get it, I get it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Ichika",
+      "texto_en": "I want to graduate with everyone, but most of all,\\nI want to graduate with you.\\nWatch me give it my all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Nino",
+      "texto_en": "I see.\\nThe power of love is truly great, isn't it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Th-that's not really relevant.\\nI just want you to always do your best...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Yotsuba",
+      "texto_en": "With Uesugi-san by your side, you'll be okay!\\nI was able to get into university too, thanks to him.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Miku",
+      "texto_en": "Itsuki also got into the school she wanted.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Itsuki",
+      "texto_en": "Yes. I've come one step closer to my dream\\nof becoming a teacher, thanks to Uesugi-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Ichika",
+      "texto_en": "I finally got this chance and\\nI'm going to do my best to graduate with everyone.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Yotsuba",
+      "texto_en": "With Uesugi-san by your side, you'll be okay!\\nI was able to get into university too, thanks to him.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Miku",
+      "texto_en": "Itsuki also got into the school she wanted.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Itsuki",
+      "texto_en": "Yes. I've come one step closer to my dream\\nof becoming a teacher, thanks to Uesugi-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "Well, it was really tough, but...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "It's the result of your continuous efforts and hard work. \\nBe proud of yourselves.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Yotsuba",
+      "texto_en": "Alright!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Itsuki",
+      "texto_en": "Thank you very much.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "Nino and Miku, you'll be attending\\nculinary school together in spring, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Nino",
+      "texto_en": "That's right. I'm sorry\\nI won't be going to university with you guys.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "Don't worry about it.\\nUniversity isn't the only path to take.\\nRight, Ichika?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Ichika",
+      "texto_en": "That's right.\\nAfter graduating from high school,\\nI plan to pursue my dream of becoming an actress.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Nino",
+      "texto_en": "Feels like you're already doing it, though.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "That's true.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Ichika",
+      "texto_en": "However, it's hard to believe you're saying\\nthat university isn't the only path,\\ngiven the person I met back then.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "Ah, right...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Yotsuba",
+      "texto_en": "For you, Uesugi-san, going to university in Tokyo\\nwas the best path, wasn't it!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Itsuki",
+      "texto_en": "Tokyo, huh. As we talk about it like this,\\nI feel like we're about to start a new life soon.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Nino",
+      "texto_en": "I wonder how things will turn out.\\nI can't imagine how it'll be.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Yotsuba",
+      "texto_en": "While we're all here together, Uesugi-san...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Futaro",
+      "texto_en": "(That's right. I won't be able to spend time\\n with these guys like I used to.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Miku",
+      "texto_en": "That's why I was so happy.\\nWhen you suggested a graduation trip, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Itsuki",
+      "texto_en": "I can't imagine you saying,\\n'Let's make our last high school memories memorable.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah, I guess.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Futaro",
+      "texto_en": "(Making our last high school memories.\\n That's certainly true, but more than anything,\\n I'm going on this trip to show her%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Futaro",
+      "texto_en": "(The kind of man I really am!!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Futaro",
+      "texto_en": "(I see. Maybe the reason I had that dream\\n about a wedding earlier\\n was because of my determination.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Futaro",
+      "texto_en": "(After all, I'm going on this trip with her...!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 84,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun?\\nIs something bothering you all of a sudden?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 85,
+      "personagem": "Futaro",
+      "texto_en": "Huh?!\\nN-n-no, it's nothing!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 86,
+      "personagem": "Futaro",
+      "texto_en": "Anyway, let's decide where to go!\\nIsn't that why we all gathered here today?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 87,
+      "personagem": "Nino",
+      "texto_en": "You say that,\\nbut I wonder who was asleep until just now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 88,
+      "personagem": "Ichika",
+      "texto_en": "Well, this is a tough decision.\\nMaybe we should consider going overseas.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 89,
+      "personagem": "Futaro",
+      "texto_en": "No way!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 90,
+      "personagem": "Ichika",
+      "texto_en": "Huh? Why?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 91,
+      "personagem": "Futaro",
+      "texto_en": "Travel expenses, of course.\\nDon't compare me to you guys,\\nwe're going somewhere nearby!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 92,
+      "personagem": "Miku",
+      "texto_en": "We'll cover the travel expenses.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 93,
+      "personagem": "Futaro",
+      "texto_en": "What? Wait, wait a minute.\\nThat's just too much...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 94,
+      "personagem": "Ichika",
+      "texto_en": "Don't worry,\\nwe're not planning on treating you.\\nConsider it an investment in our future success.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 95,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*\\nWell, if that's the case.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 96,
+      "personagem": "Yotsuba",
+      "texto_en": "Then where should we go?\\nSince this is going to be our last high school trip,\\nlet's go as far away as possible!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 97,
+      "personagem": "Futaro",
+      "texto_en": "Nearby should be fine.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 98,
+      "personagem": "Ichika",
+      "texto_en": "Huh?\\nCome on, we're making memories, so let's just\\nup and head somewhere.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 99,
+      "personagem": "Itsuki",
+      "texto_en": "Up and head...somewhere?\\nIs that what traveling is all about?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 100,
+      "personagem": "Ichika",
+      "texto_en": "Well, it doesn't necessarily mean going all out, but\\nnow that exams are over and we're free from everything,\\nwe should have the time of our lives!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 101,
+      "personagem": "Ichika",
+      "texto_en": "Hey, Futaro-kun!\\nDon't you think treating yourself is a good idea too?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 102,
+      "personagem": "Futaro",
+      "texto_en": "I don't really get the concept\\nof treating yourself though.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 103,
+      "personagem": "Ichika",
+      "texto_en": "Oh, my?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 104,
+      "personagem": "Futaro",
+      "texto_en": "Oh well, if it's more fun for you guys,\\nthen I'll go along with it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 105,
+      "personagem": "Ichika",
+      "texto_en": "Yay! You understand us so well, Futaro-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 106,
+      "personagem": "Itsuki",
+      "texto_en": "So, how about us five pointing to a place together?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 107,
+      "personagem": "Futaro",
+      "texto_en": "Where's my say?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 108,
+      "personagem": "Ichika",
+      "texto_en": "Well, we already know the result.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 109,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, since we're going anyway.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 110,
+      "personagem": "Yotsuba",
+      "texto_en": "Right!\\nAlright, so are we really gonna go overseas here?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 111,
+      "personagem": "Futaro",
+      "texto_en": "Oh?\\nLooks like you've gained some confidence\\nin your language skills.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 112,
+      "personagem": "Yotsuba",
+      "texto_en": "What?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 113,
+      "personagem": "Futaro",
+      "texto_en": "In that case, I'll have you show me them!\\nHow about a vacation with no interpreter?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 114,
+      "personagem": "Miku",
+      "texto_en": "That's impossible. Let's just stay in Japan.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 115,
+      "personagem": "Itsuki",
+      "texto_en": "So, how about us five pointing to a place together?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 116,
+      "personagem": "Futaro",
+      "texto_en": "Where's my say?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 117,
+      "personagem": "Ichika",
+      "texto_en": "Well, we already know the result.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 118,
+      "personagem": "Futaro",
+      "texto_en": "For example, where do you suggest?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 119,
+      "personagem": "Nino",
+      "texto_en": "Let's see...\\nFor example...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 120,
+      "personagem": "Nino",
+      "texto_en": "Anywhere is fine if you're with us, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 121,
+      "personagem": "Futaro",
+      "texto_en": "...Uh, well, that's not really an answer.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 122,
+      "personagem": "Miku",
+      "texto_en": "Nino.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 123,
+      "personagem": "Yotsuba",
+      "texto_en": "Hey now.\\nDon't just run off with her alone.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 124,
+      "personagem": "Itsuki",
+      "texto_en": "So, how about us five pointing to a place together?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 125,
+      "personagem": "Futaro",
+      "texto_en": "Where's my say?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 126,
+      "personagem": "Ichika",
+      "texto_en": "Well, we already know the result.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 127,
+      "personagem": "Nino",
+      "texto_en": "Anywhere is fine if you're with us, Fu-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 128,
+      "personagem": "Futaro",
+      "texto_en": "Well, that's not really an answer.\\nIn that case, let's go somewhere nearby.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 129,
+      "personagem": "Nino",
+      "texto_en": "...Yeah, yeah.\\nYour response is as expected. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 130,
+      "personagem": "Itsuki",
+      "texto_en": "So, how about us five pointing to a place together?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 131,
+      "personagem": "Futaro",
+      "texto_en": "Where's my say?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 132,
+      "personagem": "Ichika",
+      "texto_en": "Well, we already know the result.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 133,
+      "personagem": "Futaro",
+      "texto_en": "I think so too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 134,
+      "personagem": "Yotsuba",
+      "texto_en": "Alright, let's do this on three!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 135,
+      "personagem": "All 5",
+      "texto_en": "One, two, THREE! Here!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 136,
+      "personagem": "Futaro",
+      "texto_en": "...Look, see?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 137,
+      "personagem": "Ichika",
+      "texto_en": "Ahaha.\\nAs expected, we all pointed to different places.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 138,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*\\nQuintuplets are so troublesome...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 139,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 140,
+      "personagem": "Itsuki",
+      "texto_en": "Still, the food in Hokkaido is so tempting, isn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 141,
+      "personagem": "Miku",
+      "texto_en": "But isn't it still cold there?\\nAnd there might be a lot of snow.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 142,
+      "personagem": "Nino",
+      "texto_en": "Yeah, that's true, isn't it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 143,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 144,
+      "personagem": "Yotsuba",
+      "texto_en": "Snow, eh.\\nMaybe it'd be nice to go spring skiing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 145,
+      "personagem": "Ichika",
+      "texto_en": "In that case, how about Nagano?\\nWe can also enjoy hot springs on the side.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 146,
+      "personagem": "Itsuki",
+      "texto_en": "Niigata is also a possibility.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 147,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 148,
+      "personagem": "Nino",
+      "texto_en": "But skiing doesn't really feel\\nlike a graduation trip, does it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 149,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, that's true.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 150,
+      "personagem": "Yotsuba",
+      "texto_en": "In that case%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 151,
+      "personagem": "Futaro",
+      "texto_en": "Enough already!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 152,
+      "personagem": "Yotsuba",
+      "texto_en": "WAAAH!\\nWhat's the matter, Uesugi-san?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 153,
+      "personagem": "Futaro",
+      "texto_en": "Don't give me that 'what's the matter' crap!\\nHow long are we going to argue?\\nIt's been an hour already!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 154,
+      "personagem": "Nino",
+      "texto_en": "But, you know, since it's a rare opportunity,\\nwe want to choose a place that we can all agree on.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 155,
+      "personagem": "Futaro",
+      "texto_en": "At this rate, we'll never decide!\\nAlright, just let me decide!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 156,
+      "personagem": "Itsuki",
+      "texto_en": "Well, to be honest,\\nI don't really have a place in mind either...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 157,
+      "personagem": "Miku",
+      "texto_en": "It seems best to have Futaro decide, here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 158,
+      "personagem": "Futaro",
+      "texto_en": "Leave it to me.\\nI've heard all of your wishes,\\nso I'll show us a place that satisfies all of them!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 159,
+      "personagem": "Futaro",
+      "texto_en": "And, that is...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 160,
+      "personagem": "Itsuki",
+      "texto_en": "That is?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 161,
+      "personagem": "Futaro",
+      "texto_en": "Okinawa!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 162,
+      "personagem": "Ichika",
+      "texto_en": "Okinawa?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 163,
+      "personagem": "Futaro",
+      "texto_en": "Okinawa at this time of the year\\nshould have nice weather that's not too hot or too cold\\nand we should be able to relax.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 164,
+      "personagem": "Ichika",
+      "texto_en": "I see.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 165,
+      "personagem": "Futaro",
+      "texto_en": "Of course, the beauty of the sea goes without saying,\\nand there are plenty of activities\\nsuch as marine sports!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 166,
+      "personagem": "Yotsuba",
+      "texto_en": "That's right!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 167,
+      "personagem": "Futaro",
+      "texto_en": "Not only the sea,\\nbut we can also enjoy the unique beauty of nature!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 168,
+      "personagem": "Miku",
+      "texto_en": "Yes, that's true.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 169,
+      "personagem": "Futaro",
+      "texto_en": "There are also many famous power spots!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 170,
+      "personagem": "Nino",
+      "texto_en": "That's certainly true.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 171,
+      "personagem": "Futaro",
+      "texto_en": "With a wealth of ingredients represented by seafood,\\nwe can enjoy cuisine that makes the most of them!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 172,
+      "personagem": "Itsuki",
+      "texto_en": "Oh...I see!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 173,
+      "personagem": "Futaro",
+      "texto_en": "How about it?\\nIs there a better place than this?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 174,
+      "personagem": "Itsuki",
+      "texto_en": "No, it's amazing!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 175,
+      "personagem": "Nino",
+      "texto_en": "This is definitely it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 176,
+      "personagem": "Yotsuba",
+      "texto_en": "As expected of Uesugi-san!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 177,
+      "personagem": "Ichika",
+      "texto_en": "We should have had you decide from the beginning.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 178,
+      "personagem": "Miku",
+      "texto_en": "If we did,\\nwe would have ended up with a place really close.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 179,
+      "personagem": "Futaro",
+      "texto_en": "...Well, I won't deny that.",
+      "texto_ptbr": ""
+    }
+  ]
+}

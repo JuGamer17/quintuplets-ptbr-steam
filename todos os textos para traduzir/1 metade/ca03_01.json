@@ -1,0 +1,588 @@
+{
+  "arquivo": "ca03_01",
+  "total": 97,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "So this is it!\\nThe luxury resort hotel!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Raiha",
+      "texto_en": "It looks like a castle...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Ichika",
+      "texto_en": "You both have your mouths open.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Yotsuba",
+      "texto_en": "Awww!\\nRaiha-chan looking pouty is so cute!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "H-hey, are we really staying here?\\nIs it okay for us to even BE here?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Yotsuba",
+      "texto_en": "We already made a proper reservation, ok?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "That's not what I meant!\\nDo you guys always book such luxurious hotels?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Ichika",
+      "texto_en": "Well, it's a bit more extravagant than usual.\\nBut since it's our graduation trip,\\nmaybe my dad decided to splurge a bit.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Raiha",
+      "texto_en": "Wow, only by a bit huh.\\nThe Nakano family must be rich, after all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "Also, the location is great for sightseeing,\\nand they have varieties of activities\\nand tours available. It's really convenient.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "By the way, the restaurant has a variety of cuisines,\\nall of them are highly recommended.\\nOf course, the desserts too!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Yotsuba",
+      "texto_en": "I heard that the night view from the lounge is also amazing.\\nLet's go see it at night!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "(What a flood of information...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "(According to the brochure, there's an indoor pool\\n and a fitness center as well.\\n I can't believe such a hotel exists...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "Oh no, I'm feeling dizzy.\\nThis expensive aura is too overwhelming for us commoners.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Ichika",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Ichika",
+      "texto_en": "Now, Miku, your boyfriend\\nlooks like he's having a hard time. Take care of him.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "HUH?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "I-Ichika!\\nDon't say stuff like that!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Ichika",
+      "texto_en": "But it's true, right?\\nYou guys could be a bit more touchy, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Itsuki",
+      "texto_en": "A-absolutely not!\\nEven though you're dating,\\nplease behave yourself, Uesugi-kun!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "I know, I know.\\nBesides, we're not at that stage or anything now, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Miku",
+      "texto_en": "Futaro.\\nIf there's anything\\nyou're unsure about, just tell me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, sorry, but I'll have to rely on you.\\nI don't know anything about the manners or customs\\nfor places like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Miku",
+      "texto_en": "I don't think there's anything you need to worry about. Just act as your usual self.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "I don't know how to act like my usual self...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Nino",
+      "texto_en": "Just don't stress too much\\nand just treat it like any other trip.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "If that's the case, why didn't you book something more normal like a ryokan instead? Here, we have these\\nunnecessarily large beds instead of a simple tatami and futon.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Ichika",
+      "texto_en": "Do you prefer ryokan over hotels, Futaro-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Ichika",
+      "texto_en": "Well, in that case, maybe we should have gone\\nto a Japanese-style inn like Miku suggested.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Yotsuba",
+      "texto_en": "You really do understand Uesugi-san, don't you, Miku!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Miku",
+      "texto_en": "Eh-ah, oohh...\\nUm... That's not what I mean...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Miku's always liked the traditional japanese style...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Yotsuba",
+      "texto_en": "Then, you guys are a match!\\nHee hee!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "(Hmm?\\n Did Miku distance herself from me just now?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "Well then, shall we head to our rooms now?\\nWe've been standing here talking for ages.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Ichika",
+      "texto_en": "Okay, let's decide on the room allocations.\\nWe booked four twin bedded rooms, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "(Twin bedded rooms...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "(H-hey, Futaro. Don't start imagining things.\\n Like sharing a room with Miku or something\\n totally unacceptable.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Miku",
+      "texto_en": "I-I'll room with Nino!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "Eh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Nino",
+      "texto_en": "Huh? With me?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Miku",
+      "texto_en": "Yes! Nino and I!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Nino",
+      "texto_en": "I don't really mind, but, are you okay with that, Miku?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Miku",
+      "texto_en": "Yeah! I'm looking forward to it!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Nino",
+      "texto_en": "Fine then, okay, Miku and I will share a room.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Miku",
+      "texto_en": "Thanks...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "(N-no, this is fine. It's not like it was a shock\\n that Miku wasn't planning on sharing a room with me!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "(Yeah, it's not an issue at all!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Yotsuba",
+      "texto_en": "Okay, okay, okaaay!\\nIf I may make a request,\\nI'd like to be in the same room with Raiha-chan!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Raiha",
+      "texto_en": "I'd like to room with you too, Yotsuba-san.\\nIt's a rare opportunity, after all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Yotsuba",
+      "texto_en": "Woo-hoo! Thank you so much!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Ichika",
+      "texto_en": "In that case, I'll be rooming with Itsuki-chan.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Ichika",
+      "texto_en": "As for you, Futaro-kun,\\nyou'll be spending the night alone in Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "I don't have any complaints.\\nAfter all, I'm the only guy here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Ichika",
+      "texto_en": "Really?\\nDidn't you have a disappointed look on your face\\nearlier?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Miku",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "I-I-I-I DIDN'T?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun?\\nI'll say it again.\\nPlease behave yourself.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "You guys make such a fuss every single time!!!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "(Again?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Nino",
+      "texto_en": "Come on, let's stop fussing about it and move already.\\nOh, right, isn't it dinner time soon?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Yotsuba",
+      "texto_en": "Aren't we gonna eat dinner after this?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, we have dinner reservations\\nat the hotel restaurant.\\nIt's Okinawan cuisine, of course.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Raiha",
+      "texto_en": "I'm so excited!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Itsuki",
+      "texto_en": "But we still have some time.\\nWould you like to take a break in our rooms?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Nino",
+      "texto_en": "Hmm.\\nWell, I'm a bit tired, so I'll rest for a bit.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Ichika",
+      "texto_en": "What am I gonna do?\\nI'm not that tired yet...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Ichika",
+      "texto_en": "Kokusai dori is nearby, so how about we go there?\\nHow about a walk, Futaro-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Futaro",
+      "texto_en": "Kokusai dori...\\nthat's the main street in Naha, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Ichika",
+      "texto_en": "Yeah yeah, there are a lot of shops there.\\nWe have plans on visiting them tomorrow,\\nbut we'll only make a quick trip there.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, I don't mind.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Ichika",
+      "texto_en": "Alright, Miku, you as well%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Miku",
+      "texto_en": "Nino.\\nI want to rest too, so let's go to our room.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Nino",
+      "texto_en": "Sure.\\nIf you're okay with that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 84,
+      "personagem": "Ichika",
+      "texto_en": "Oh my.\\nMiku's gone.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 85,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 86,
+      "personagem": "Futaro",
+      "texto_en": "(Miku's acting a little strange lately...\\n Is she just tired?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 87,
+      "personagem": "Ichika",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 88,
+      "personagem": "Ichika",
+      "texto_en": "Since we've come all the way to Okinawa,\\nit's natural for her to be tired.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 89,
+      "personagem": "Itsuki",
+      "texto_en": "That's right. The climate here is different from Honshu, and our bodies haven't adjusted yet either.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 90,
+      "personagem": "Ichika",
+      "texto_en": "I think I'll also take it easy in my room.\\nI'm sorry for inviting you out\\nand then changing my mind, Futaro-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 91,
+      "personagem": "Futaro",
+      "texto_en": "Oh, nah, it's alright.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 92,
+      "personagem": "Itsuki",
+      "texto_en": "I'll also go with Ichika to our room.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 93,
+      "personagem": "Yotsuba",
+      "texto_en": "What shall we do, Raiha-chan?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 94,
+      "personagem": "Raiha",
+      "texto_en": "Why don't we chill in our room?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 95,
+      "personagem": "Futaro",
+      "texto_en": "Ok then, let's meet up at the restaurant when it's time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 96,
+      "personagem": "Yotsuba",
+      "texto_en": "Roger!",
+      "texto_ptbr": ""
+    }
+  ]
+}

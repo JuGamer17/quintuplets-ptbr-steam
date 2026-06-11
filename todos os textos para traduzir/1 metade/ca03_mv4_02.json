@@ -1,0 +1,342 @@
+{
+  "arquivo": "ca03_mv4_02",
+  "total": 56,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "Hmm, I wonder if they have canoes here?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "There's no way they'd have that kind of souvenir.\\nConsider the size, Yotsuba.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Yotsuba",
+      "texto_en": "If it's a single-seater,\\nmaybe you could take it home with you, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Nino",
+      "texto_en": "...There's nowhere to put it. Stop.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Hey, what are you guys talking about?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun, can you stop Yotsuba?\\nApparently, she intends to buy a canoe as a souvenir.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "That's impossible...\\nWhy does she want a canoe anyway?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "At the Oceanic Culture Museum I visited earlier\\nwith Nino, they had a lot of canoes on display\\nthat people used in the past!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Ah, that's why.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "It was a really interesting exhibit,\\nand I can kind of understand why she feels that way.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Yotsuba",
+      "texto_en": "It seems that the shape and size of canoes vary\\ndepending on the region. There was also a reeeaaally\\nhuge one that was made by combining two canoes together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "I think it was a canoe used for navigation,\\nthey made it bigger to store food and cargo.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "Of course you'd know that, Uesugi-san!\\nThat's correct!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Yotsuba",
+      "texto_en": "People over a millennium ago used canoes\\nto migrate to islands in the Pacific.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Yotsuba",
+      "texto_en": "It's amazing that they managed to paddle thousands of kilometers,\\nthe people of the past were perserverant!\\nI can't lose to them!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "No one's competing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "However, it was thanks to that perserverance\\nthat they were able to find new lands\\nin the middle of the Pacific.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "I heard that similar cultures\\nsprouted up on distant islands. For example,\\ncultivating taro or weaving clothes from banana fibers.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Nino",
+      "texto_en": "So I hear, the world is connected by the sea...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "There may not be a single place in this world\\nthat is truly isolated.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Some ecological systems can get isolated.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Have you heard of the Galapagos Islands?\\nOrganisms in isolated locations evolve independently.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "Oh, yeah. I've heard of it.\\nIt's also used to describe\\na certain phenomenon, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Yotsuba",
+      "texto_en": "Humans can travel across the sea in canoes,\\nbut it's not easy for animals\\nto swim to faraway islands. Plants can't move either.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Sometimes seeds can be carried across the sea\\nby the wind, but it's not common.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "There might have been situations\\nwhere those people had no choice but to leave,\\nand travel across the sea.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "Come to think of it, once you leave,\\nyou might never be able to return.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "That's a good phrase.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Nino",
+      "texto_en": "Huh? What is?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "It's just as you said.\\nMaybe the idea of isolation is just a made up concept by humans.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Nino",
+      "texto_en": "I mean, I didn't mean to be that deep or anything.\\nIt was just a random thought.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Yotsuba",
+      "texto_en": "Exactly.\\nIt means that the world is united.\\nYou have a creative imagination, Nino.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Nino",
+      "texto_en": "D-don't flatter me too much, c'mon.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "There might have been situations\\nwhere those people had no choice but to leave,\\nand travel across the sea.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Nino",
+      "texto_en": "Come to think of it, once you leave,\\nyou might never be able to return.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "That depends on human will, doesn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Someone had the idea of exploring for a new land.\\nWithout that, nothing would have started.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Nino",
+      "texto_en": "You need to exert effort in order to achieve the results you want.\\nIf not you will lose your will to succeed. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Yotsuba",
+      "texto_en": "I'm sure at first,\\nthere were many things that didn't go well.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, they probably examined the causes\\nof failure each time, thought of new methods,\\nand improved the canoe.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "It may have taken years, or maybe even decades.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Even so, they continued to hold onto their willpower\\nuntil the end, and finally arrived\\nat their destination.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Nino",
+      "texto_en": "...That sounds like a story.\\nBut it might really have happened.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "There might have been situations\\nwhere those people had no choice but to leave,\\nand travel across the sea.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Nino",
+      "texto_en": "Come to think of it, once you leave,\\nyou might never be able to return.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Nino",
+      "texto_en": "Even if the one who left was filled with hope,\\nI wonder how the ones left behind felt?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "Who knows.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, but, actually,\\nthey might have just been absent-minded.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Absent-minded?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Yotsuba",
+      "texto_en": "Maybe they got lost\\nwhile searching for delicious fish\\nand ended up on a different island!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Nino",
+      "texto_en": "...That's possible.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Well, if they traveled because of food, then we can say\\nthat their appetite was something fierce.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun, are you picturing Itsuki in your head right now?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "...Don't tell her that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Nino",
+      "texto_en": "Okay, okay.",
+      "texto_ptbr": ""
+    }
+  ]
+}

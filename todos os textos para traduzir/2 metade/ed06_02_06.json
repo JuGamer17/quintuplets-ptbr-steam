@@ -1,0 +1,510 @@
+{
+  "arquivo": "ed06_02_06",
+  "total": 84,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Here we are.\\nWell, come on in.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "...Hm?\\nIs something wrong?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Miku",
+      "texto_en": "I-I'm just nervous\\nbecause it's my first time entering a boy's room...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Well, it's my first time\\nhaving a girl in my room too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "You can't just stand in the entrance forever,\\nyou know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Miku",
+      "texto_en": "R-right.\\nWell then, e-excuse me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "It's a small place,\\nbut please have a seat wherever you like.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Miku",
+      "texto_en": "This is Futaro's room...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Hey, stop staring.\\nIt's making me uncomfortable.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Miku",
+      "texto_en": "Teehee, it smells like you in here, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Well, it's my room, so that's natural, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Anyway, give me the shopping bags.\\nI'll put them in the kitchen.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Miku",
+      "texto_en": "Ah, okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Miku",
+      "texto_en": "You seemed quite used to doing the shopping.\\nIt surprised me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "I do cook for myself, you know?\\nNaturally, I keep track of all the special offers\\nat the nearby supermarket!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Living alone is expensive,\\nso I don't hesitate to put in the effort to save money!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Miku",
+      "texto_en": "Hehe, I see.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Well, with that being said,\\nI would appreciate your help...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Once we catch our breath,\\ncan I ask for your assistance right away?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Miku",
+      "texto_en": "Sure, okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "L-like this?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Miku",
+      "texto_en": "No.\\nHold the knife like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "...Like this. Got it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Miku",
+      "texto_en": "Ideally, you should adjust your grip\\naccording to the ingredients you're cutting.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Miku",
+      "texto_en": "However, in your case, Futaro,\\nI think the most orthodox grip is good enough.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Miku",
+      "texto_en": "If you remember this grip properly,\\nyou'll be able to handle most of the ingredients\\nyou regularly use.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Is that so?\\nAs expected, going to culinary school\\nmakes a difference.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Miku",
+      "texto_en": "I learned these basics from Nino, actually.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "I see.\\nSo your cooking foundation\\nis thanks to Nino's guidance, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Miku",
+      "texto_en": "Today, I'll be the teacher,\\nand you'll be the student.\\nI'm gonna be tough on you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Yes, please!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Miku",
+      "texto_en": "Alright, next, let's cut the vegetables%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Miku",
+      "texto_en": "Use your left hand like a cat's paw.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "...A cat?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Miku",
+      "texto_en": "Gimme your left hand.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Huh?\\nA-aaahh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Miku",
+      "texto_en": "Curl your fingers lightly like this,\\nmaking sure the thumb doesn't stick out\\nmore than the other fingers.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Miku",
+      "texto_en": "Hold the side of the knife\\nagainst the first joint of your\\nmiddle and index fingers while cutting.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Ah, I see. This way, the blade won't hit my fingers,\\nand I won't accidentally cut myself.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "Then, use the first joint of your middle finger\\nto determine the position of the blade%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Miku",
+      "texto_en": "Yeah, you're doing well.\\nIt's easy when you have a fast-learning student.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "All thanks to you, Miku.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Miku",
+      "texto_en": "It's not just that.\\nI only taught you the basics.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Miku",
+      "texto_en": "But, I'll protect your fingers like this,\\nso go ahead and chop all the vegetables.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "You got it!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "So, what kind of studies are you doing at school?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Miku",
+      "texto_en": "Other than cooking, we study nutrition,\\nfood science, and hygiene.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "Wow, as expected of a vocational school.\\nThose are all fields that are beyond me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Miku",
+      "texto_en": "There's also management curriculum and so on.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "I see. You're well on your way to fulfilling your dreams.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Miku",
+      "texto_en": "...Yeah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Miku",
+      "texto_en": "When I had told you that I wasn't going to university, \\nFutaro, your face looked really perplexed.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "Eh...\\nDid I make such a face?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Miku",
+      "texto_en": "Yeah, you did.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "...Well, if I say I wasn't shocked,\\nI'd be lying.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "But, it's the path you decided to take.\\nIt's not my place to say anything about it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Miku",
+      "texto_en": "Yeah...\\nThat's why I wanted to tell you today how far I've come.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "It's already enough, I understand.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "Wow, amazing! The meat and vegetable stir-fry\\nis complete! It's a proper dish!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Miku",
+      "texto_en": "Well...\\nYou said you cook for yourself, so I was worried\\nabout what kind of dishes you were making...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "Don't worry about it.\\nNow that we've plated it perfectly,\\nlet's eat it while it's still warm.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "Leeet's eeaat!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Miku",
+      "texto_en": "Let's eat.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "Ohh...!\\nThe seasoning is just right!\\nI can't stop eating.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "What about you, Miku?\\nAs a cook, how does it fare?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Miku",
+      "texto_en": "...I want you to feed me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Miku",
+      "texto_en": "I want you to f-feed me, please.\\nThat will be my tuition fee for today's lesson.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "No, I didn't agree to that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Miku",
+      "texto_en": "You said I can be as selfish as I want, right?\\nWas that perhaps a lie?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "Ooh...!\\nFine, but only once, okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Miku",
+      "texto_en": "Okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Futaro",
+      "texto_en": "So... Here we go, then?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Futaro",
+      "texto_en": "Say, aah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Miku",
+      "texto_en": "Aah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Miku",
+      "texto_en": "Nom... Nom...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Futaro",
+      "texto_en": "And? How's the taste?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Miku",
+      "texto_en": "Teehee, I don't know.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Futaro",
+      "texto_en": "What? What do you mean?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Miku",
+      "texto_en": "I'm so happy and embarrassed at the same time\\nthat I don't know how it tastes.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Futaro",
+      "texto_en": "Hey, hey...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Miku",
+      "texto_en": "I might know if I eat it again.\\nHere. Aaah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*\\nThere's really nothing to be done with you, Miku.\\nYet, I'll stick with you to the end.",
+      "texto_ptbr": ""
+    }
+  ]
+}

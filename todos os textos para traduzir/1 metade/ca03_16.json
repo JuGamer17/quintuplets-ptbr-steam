@@ -1,0 +1,114 @@
+{
+  "arquivo": "ca03_16",
+  "total": 18,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "Wow! We can see the ocean from this park!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "So, the park stretches along the whole coast right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Nino",
+      "texto_en": "This place is famous for Churaumi Aquarium,\\nbut it seems like there are many other facilities too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Raiha",
+      "texto_en": "Let's see, there's a sea turtle exhibit,\\na manatee exhibit...\\nand there's also a greenhouse and botanical garden.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "That's not quite what I imagine when I think of the word 'park.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Yotsuba",
+      "texto_en": "Plus, it's really huge.\\nI wonder how long it takes\\nto walk from one end to the other?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "Well, according to the guide,\\nthe area is equivalent to\\nfifteen Tokyo Domes put together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahaha...\\nthat's so big, I can't even imagine it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Miku",
+      "texto_en": "It's more like a theme park than a park.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Ichika",
+      "texto_en": "Then, we won't be able to see everything in one day.\\nIt's probably better to prioritize what we want to see.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Raiha",
+      "texto_en": "I definitely want to go to the Churaumi Aquarium!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "Me too, I don't want to miss the aquarium!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Everyone's probably thinking the same thing, right?\\nLet's all roam freely and go explore for a bit,\\nand then we can all go to the aquarium together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Yotsuba",
+      "texto_en": "Okay, got it!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "Now, when is Futaro-kun going to make his move?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Miku",
+      "texto_en": "Huh? When is Futaro what?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Ichika",
+      "texto_en": "Nothing. Don't worry about it.",
+      "texto_ptbr": ""
+    }
+  ]
+}

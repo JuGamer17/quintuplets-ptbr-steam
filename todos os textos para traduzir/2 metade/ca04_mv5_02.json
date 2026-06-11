@@ -1,0 +1,474 @@
+{
+  "arquivo": "ca04_mv5_02",
+  "total": 78,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "What are you doing, Itsuki?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun?\\nAre you alone?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Yes, why?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "...Indeed, it seems like there's no one else here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Miku",
+      "texto_en": "Ah, Futaro!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "What's up, Miku%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "There's something I really want to tell you.\\nListen.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Whaaaa? W-wait a sec, calm down!\\nYou're too close!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Miku",
+      "texto_en": "Manatees, those manatees%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Miku",
+      "texto_en": "They're so cute.\\nThey're totally, undeniably cute!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "...Manatees?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Miku",
+      "texto_en": "Yes, manatees.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "I-I see.\\nI get it, just back off, please.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "(*sigh* Miku seems unusually excited.\\n Am I misunderstanding something...\\n No, I'm just being self-conscious!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "However, are they really cute enough\\nto get so excited about?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Miku",
+      "texto_en": "They're cute.\\nTheir movements are just too cute.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "When I first saw them,\\nI didn't get it either%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "Yet, swimming with a gentle sway, using their flippers\\nand tail to move through the water,\\ntheir appearance is indescribably adorable!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Miku",
+      "texto_en": "Watching them swim, time flies by.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, I could watch them forever!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "The manatees you guys are talking about\\nare the animals that have\\nbecome the basis of mermaid legends, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, that's why Miku and I went to see them.\\nWe were curious if they really looked like mermaids.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Miku",
+      "texto_en": "To be honest, they didn't really look like mermaids.\\nThey were bigger than I imagined.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "But their movements were really cute!\\nDespite their large bodies,\\nthey flap their fins and swam with all their might!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "I-I see...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Miku",
+      "texto_en": "It was just feeding time,\\nand they were fed carrots by their trainer.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Miku",
+      "texto_en": "They held the carrots in their fins and chomped on them.\\nThey even stood on their tails in the water.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "Ah, that's right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Miku",
+      "texto_en": "Huh? That's it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "I feel like I read something about that before%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "It seems that the sight of a manatee\\nsticking its head out of the water and grabbing food\\nwas mistaken for a person.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "Indeed, when viewed from above,\\nit's possible to mistake them for a person.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "From above?\\nDidn't you see them in the tank?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Miku",
+      "texto_en": "The pool where the manatees are kept\\ncan be viewed from above on the first floor\\nand from the side on the basement level.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Oh, that sounds interesting.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "The way manatees are, they make you smile\\nno matter what angle you look at them from.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Oh, really?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Miku",
+      "texto_en": "Futaro, you're not reacting much.\\nThey were SO cute, okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Well, from how you guys were acting, I could tell\\nquite well how cute manatees are.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Miku",
+      "texto_en": "If you could tell, you should be more reactive.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "What am I supposed to do...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Miku",
+      "texto_en": "The manatees seemed like they were friendly\\nwith the caretaker.\\nThey might be easy to tame.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Miku",
+      "texto_en": "Plus, they might resemble Takeda Shingen a bit.\\nDespite having a grandfather-like bearded appearance,\\nthey have round, baby-like eyes...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "That expression... I can't sympathize well.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "If I have time, I'd like to visit them again.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "From what you're telling me,\\nmanatees seem pretty human-like.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Miku",
+      "texto_en": "When I stared at it, it came closer and\\nstared back at me through the tank.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Miku",
+      "texto_en": "Perhaps, it noticed my gaze, and that's why it did that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Itsuki",
+      "texto_en": "They don't look like mermaids at all,\\nbut with that kind of behavior,\\nit's easy to get the wrong idea.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "In terms of how they look. In the first place,\\nthe typical mermaid with a female upper body\\nwas something people imagined in the past.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "Even before that, they were depicted\\nas creatures with bird bodies and human faces,\\nor as giant fish with the face of a cow.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "That would...probably not be so cute.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Miku",
+      "texto_en": "The manatees seemed like they were friendly\\nwith the caretaker.\\nThey might be easy to tame.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Miku",
+      "texto_en": "Plus, they might resemble Takeda Shingen a bit.\\nDespite having a grandfather-like bearded appearance,\\nthey have round, baby-like eyes...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "That expression... I can't sympathize well.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Itsuki",
+      "texto_en": "If I have time, I'd like to visit them again.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "Those manatees, they must have been really cute.\\nSeeing you get more and more excited watching them\\nwas quite the spectacle.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Miku",
+      "texto_en": "Huh?\\nWas I that excited?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "Woah, woah. You were bouncing off the walls.\\nI was wondering what was going on at first.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Itsuki",
+      "texto_en": "Hehehe, Miku's usually pretty reserved, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "By the way, you were just as excited as Miku, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Itsuki",
+      "texto_en": "R-really?\\nWas I being too loud?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "Well, don't worry about it.\\nAs long as you had fun, that's all that matters.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Miku",
+      "texto_en": "Yeah, I had fun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Itsuki",
+      "texto_en": "Definitely.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Miku",
+      "texto_en": "The manatees seemed like they were friendly\\nwith the caretaker.\\nManatees seem to be pretty easy to tame.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Miku",
+      "texto_en": "Plus, they might resemble Takeda Shingen a bit.\\nDespite having a grandfather-like bearded appearance,\\nthey have round, baby-like eyes...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "That expression... I can't sympathize well.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Itsuki",
+      "texto_en": "If I have time, I'd like to visit them again.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "During free time, you can do whatever you want, right?\\nI'm going to take a look around here for a bit too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Miku",
+      "texto_en": "Futaro, where are you going?\\nMaybe I'll go with you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Futaro",
+      "texto_en": "A-ahh, well, um...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Futaro",
+      "texto_en": "I-I'm planning to do some reconnaissance\\nat the aquarium, so I'll be fine on my own.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Miku",
+      "texto_en": "Hmmm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Itsuki",
+      "texto_en": "Reconnaissance?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Futaro",
+      "texto_en": "I've heard it's a very big aquarium,\\nso I wanna at least get a rough idea of what's there.\\nSee you later.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Miku",
+      "texto_en": "Okay. Bye then, Futaro.",
+      "texto_ptbr": ""
+    }
+  ]
+}

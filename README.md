@@ -31,8 +31,9 @@ chmod +x instalar.sh
 
 ### Windows (manual)
 1. Baixe os arquivos de `steam ou windows/windata/` aqui do GitHub
-2. Copie os arquivos de `windata/` para a pasta `windata/` do jogo (substituindo os originais)
-3. Abra o jogo e pronto.
+2. Se sua versão for de meios navais, recomendo fazer backup dos arquivos que serão substituidos.
+3. Copie os arquivos de `windata/` para a pasta `windata/` do jogo (substituindo os originais)
+4. Abra o jogo e pronto.
 
 ### Como usar
 Selecione **English** no menu de idiomas do jogo. O texto aparecerá em português.
@@ -52,7 +53,7 @@ Abra uma [Issue](../../issues) com:
 ### Contribuir com correções
 1. Fork este repositório
 2. O cache de tradução está em `translation_cache.json` (formato `"inglês": "português"`)
-3. Será criado furamente uma pasta com cada cena separada, com todos os textos em ingles para futura tradução melhorada, se ainda não tiver aguarde.
+3. Uma tradução ja melhorada já esta sendo desenvolvida por Foxfk0506 e por "Krosky Player"
 4. Corrija as entradas necessárias
 5. Abra um Pull Request
 
@@ -74,9 +75,8 @@ Abra uma [Issue](../../issues) com:
 No linux:
 O script de instalação cria backups automáticos (`.bkp-TIMESTAMP`).
 Para reverter, renomeie os backups removendo o sufixo.
-
 No windows/steam
-Repare os arquivos pela steam, se não for stem faça backup dos arquivos antes re-coloque eles.
+Repare os arquivos pela steam, se não for stem faça backup dos arquivos do backup.
 
 ## 📜 Créditos
 
@@ -84,4 +84,3 @@ Repare os arquivos pela steam, se não for stem faça backup dos arquivos antes 
 - Extração/reempacotamento: [FreeMote](https://github.com/UlyssesWu/FreeMote)
 - Claude AI: sem ele eu não teria feito nada.
 - Fontes do jogo já suportam caracteres acentuados (NotoSans, Tsukugo, Humming)
-

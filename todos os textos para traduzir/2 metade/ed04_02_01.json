@@ -1,0 +1,570 @@
+{
+  "arquivo": "ed04_02_01",
+  "total": 94,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "",
+      "texto_en": "Five years later%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "Welcome%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Nino",
+      "texto_en": "Oh, it's you guys.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Miku",
+      "texto_en": "It's been a while, Ichika.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Ichika",
+      "texto_en": "It has, it has.\\nIt's good to see both of you looking well.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Ichika",
+      "texto_en": "And I see the shop is obviously bursting at the seams with customers. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "Yeah, yeah, and here I thought you were better at those sarcastic American-style jokes. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Miku",
+      "texto_en": "Are you going to eat?\\nI'll prepare something now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Ichika",
+      "texto_en": "Yay!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "Hmph! I wonder if we'll suit the taste of someone\\nwho goes to pretentious American cafes.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Ichika",
+      "texto_en": "Huh?\\nDid I tell you that I frequent those kinds of cafes.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "Nino is always keeping an eye your social media, Ichika.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "Miku! Don't say that!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "That's right.\\nIn that case, as thanks,\\nI'll introduce this shop too...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Miku",
+      "texto_en": "Wait.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Miku",
+      "texto_en": "If we ride on your popularity, Ichika,\\nour customers will definitely increase.\\nI'm really happy, but for now, I'll hold back.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Miku",
+      "texto_en": "Recently, there have been more regular customers too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Miku",
+      "texto_en": "For the sake of my father-in-law,\\nwho lent us this well-equipped place...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "I want to try running things\\nwith our own power for a little longer.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Miku",
+      "texto_en": "Huh?! W-what?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Ichika",
+      "texto_en": "Ohh, I'm so proud of my little sister!\\nI can take you anywhere without getting embarrassed.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "Please take care of me if I get sick again.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Miku",
+      "texto_en": "About that... I politely decline...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Ichika",
+      "texto_en": "Just kidding. Let's both do our best, okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Miku",
+      "texto_en": "Okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "If your popularity runs dry, I'll allow you to work for us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "Now this little sister, she's less cute.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Miku",
+      "texto_en": "Nino's cute in her own way.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "Well, you guys haven't changed.\\nIt feels like I've come back to Japan.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "Ichika, you just went on a trip to America, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Ichika",
+      "texto_en": "It WAS for work, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Itsuki",
+      "texto_en": "I know. How was it?\\nDid you have any success?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Ichika",
+      "texto_en": "Hmm.\\nWell, I'm still worried about my inton-nation.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Itsuki",
+      "texto_en": "Ichika.\\nIt's pronounced 'intonation.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Ichika",
+      "texto_en": "Ahhh.\\nYou're so strict.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "I mean, I am a teacher.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, everyone.\\nIt's time for the lead character\\nto make an appearance.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Yotsuba",
+      "texto_en": "Thank you all for coming.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "It's finally the day, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Nino",
+      "texto_en": "Why are you so sweaty?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Yotsuba",
+      "texto_en": "I just couldn't sit still,\\nso I rode my bike here from home.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Nino",
+      "texto_en": "You rode your bike here?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Nino",
+      "texto_en": "WHAT?! From HOME?!\\nWhat are you doing\\nright before such an important ceremony?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Ichika",
+      "texto_en": "You're so energetic.\\nIt's surprisingly far from here to that apartment.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Nino",
+      "texto_en": "Ah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Miku",
+      "texto_en": "We haven't told you yet, Ichika...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Miku",
+      "texto_en": "Yotsuba recently moved,\\nand is living in Tokyo with Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Ichika",
+      "texto_en": "Whaaa?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Ichika",
+      "texto_en": "Oh really, how about that.\\nYou look so happy together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Yotsuba",
+      "texto_en": "There are still many things we're not used to...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "But as expected, Uesugi-kun took the train, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah. Futaro has been here since yesterday.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Yotsuba",
+      "texto_en": "So he's still sleeping, right%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh, what?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Miku",
+      "texto_en": "You called him by his first same so easily.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Ichika",
+      "texto_en": "Since when did you start calling Futaro-kun\\nby his name?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh? I think the first time was...\\nduring the graduation trip.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Miku",
+      "texto_en": "Oh, that's true.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Yotsuba",
+      "texto_en": "It was the first time, so I was still embarrassed.\\nI tried to play it off, though.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Nino",
+      "texto_en": "You two were on a date alone together then.\\nWhere did you guys go?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Yotsuba",
+      "texto_en": "Teehee, that's a secret.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Itsuki",
+      "texto_en": "Hehehe! Yotsuba, you've changed a lot too.\\nYou've even stopped using polite language.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Ichika",
+      "texto_en": "Think it's because you started living together?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Yotsuba",
+      "texto_en": "It might be.\\nI just naturally call him by his name, now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Itsuki",
+      "texto_en": "Well well, this is quite something!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Nino",
+      "texto_en": "Hmph.\\nSo she even talks to him like that\\nso early in the morning.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Nino",
+      "texto_en": "Ichika.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Ichika",
+      "texto_en": "I wore them here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Nino",
+      "texto_en": "The other ones we have\\nended up staying in storage.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Miku",
+      "texto_en": "This is our wedding gift to you, Yotsuba.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Ichika",
+      "texto_en": "It's Mom's heirloom earrings.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Miku",
+      "texto_en": "She'll be able to wear these \\nright after getting pierced, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Itsuki",
+      "texto_en": "Well, we won't make it in time\\nunless you wear them today.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Nino",
+      "texto_en": "Yotsuba, are you ready?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah.\\nPlease help me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Nino",
+      "texto_en": "Alright, here we go, everyone.\\nOne, two, three%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "All 4",
+      "texto_en": "Yotsuba, congratulations on your wedding!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Yotsuba",
+      "texto_en": "OWW!!!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Yotsuba",
+      "texto_en": "I-I feel like I'm getting some other emotions\\nbesides congratulations from you guys.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Nino",
+      "texto_en": "Hmm...that's odd.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Nino",
+      "texto_en": "Let's do the other side too!\\nIchika, hold onto her!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Ichika",
+      "texto_en": "You got it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Miku",
+      "texto_en": "We should probably head to the venue soon.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 84,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, there are some things that need to be done\\nbefore the ceremony.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 85,
+      "personagem": "Ichika",
+      "texto_en": "Oh, my makeup artist will come too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 86,
+      "personagem": "Yotsuba",
+      "texto_en": "R-really?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 87,
+      "personagem": "Nino",
+      "texto_en": "What are you so nervous about?\\nYou were looking forward to this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 88,
+      "personagem": "Itsuki",
+      "texto_en": "That's right.\\nWe'll have check in with Uesugi-kun too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 89,
+      "personagem": "Nino",
+      "texto_en": "Here we go, Yotsuba.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 90,
+      "personagem": "Yotsuba",
+      "texto_en": "A-at least make it quick!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 91,
+      "personagem": "Nino",
+      "texto_en": "Three...two...one...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 92,
+      "personagem": "Nino",
+      "texto_en": "ZERO!!\\nAnd VOILA!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 93,
+      "personagem": "Yotsuba",
+      "texto_en": "OW-OW-OWWW!!",
+      "texto_ptbr": ""
+    }
+  ]
+}

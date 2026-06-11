@@ -1,0 +1,474 @@
+{
+  "arquivo": "ca05_mv5_01",
+  "total": 78,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Ichika",
+      "texto_en": "Hey, hey, Futaro-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "...What's with that face?\\nIs it okay for an actress to make such a face?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Yotsuba",
+      "texto_en": "You came at just the right time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "You too, Yotsuba...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "(I have a feeling this is going to be\\n a troublesome conversation...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Ichika",
+      "texto_en": "There was something I was curious about.\\nYotsuba and I were talking, so let's check the answer.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "What answer are you checking?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "I'll ask you straight out!\\nYou suggested snorkeling for Itsuki's sake, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Ooh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Yotsuba",
+      "texto_en": "Ding ding ding! I'm correct!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Don't say it yourself!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Ichika",
+      "texto_en": "But it's the right answer, isn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "...How did you know?\\nIt's not like we were hiding it or anything.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, if you listen to the conversation\\nbetween the two of you after snorkeling,\\nyou can't help but know.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "Also, since you're not good at exercise,\\nsuggesting snorkeling gave it away.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "(I see. Well, I would have wondered why\\n if Miku had suggested it.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Sorry for deciding based on my own circumstances.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh no, no!\\nIt's okay for a lover\\nto prioritize what they want to do!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "O-okay...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Ichika",
+      "texto_en": "Actually, as her big sister, I'm relieved.\\nYou're starting to act more like a couple.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Yotsuba",
+      "texto_en": "Yep, yep.\\nAs her big sister, I'm relieved too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Big sister...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Yotsuba",
+      "texto_en": "I'm her big sister too, you know?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "As for Ichika,\\nI sometimes forget\\nthat you're also Itsuki's older sister.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Yotsuba",
+      "texto_en": "Whaaa?! Why is that?\\nI think about my little sister all the time!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Well, that's just how it is for older siblings.\\nI'm always worried about Raiha too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, that's just how it is\\nwith older sisters and brothers.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Ichika",
+      "texto_en": "But, Futaro-kun has it tough too, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "Huh? What do you mean all of a sudden?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Ichika",
+      "texto_en": "I mean, you have four sisters who are all so fond\\nof their little sister's boyfriend, right?\\nThat boyfriend must have a hard time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "Are you trying to make it hard for me?\\nGive me a break.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Ichika",
+      "texto_en": "Hmm, it all depends on your actions, you know?\\nPerhaps... Teeheeheeee.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "That laugh is scary!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Yotsuba",
+      "texto_en": "Please be careful, okaaay?\\nWe'll always be on Itsuki's side.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "...Come to think of it, Itsuki is the youngest.\\nI don't have much of an image of that though.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Ichika",
+      "texto_en": "Even though it still might be true,\\nItsuki-chan used to be really attached to our Mom,\\nand seemed like the youngest even back then.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Yotsuba",
+      "texto_en": "We all love our mom, but especially Itsuki\\ndidn't want to be separated from her.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "There's also your dad. \\nIt's definitely not just a small commotion,\\nno matter how you look at it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahaha...\\nDad is a tougher opponent than us, after all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Ichika",
+      "texto_en": "Don't be too scared.\\nDad is just a regular human being, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, he's just a regular guy.\\nA father who loves his daughters.\\nThat's what makes him a formidable opponent.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Ichika",
+      "texto_en": "...I see what you mean.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Ichika",
+      "texto_en": "In that case, you have no choice but to confront him\\nhead-on in a normal way, Futaro-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, that's all I can do.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "...Come to think of it, Itsuki is the youngest.\\nI don't have much of an image of that though.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Ichika",
+      "texto_en": "Even though it still might be true,\\nItsuki-chan used to be really attached to our Mom,\\nand seemed like the youngest even back then.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Yotsuba",
+      "texto_en": "We all love our mom, but especially Itsuki\\ndidn't want to be separated from her.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "I don't really think it's a big deal, though.\\nI actually think I'm lucky.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Ichika",
+      "texto_en": "Huh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "I'm glad you all are quintuplets.\\nWe are who we are today because the four of you supported\\nItsuki and I.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Ichika",
+      "texto_en": "Teehee!\\nYou're saying the same thing as Itsuki-chan.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Yotsuba",
+      "texto_en": "Right-?\\nThe two of you are really alike.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Ichika",
+      "texto_en": "Besides, I was only just kidding.\\nI get embarrassed when people take me seriously.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "Wh-what, you said it, so deal with it.\\nI actually meant what I said, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Yotsuba",
+      "texto_en": "Uuugh!\\nPlease spaaare uuus!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "...Come to think of it, Itsuki is the youngest.\\nI don't have much of an image of that though.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Ichika",
+      "texto_en": "Even though it still might be true,\\nItsuki-chan used to be really attached to our Mom,\\nand seemed like the youngest even back then.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Yotsuba",
+      "texto_en": "We all love our mom, but especially Itsuki\\ndidn't want to be separated from her.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "Oh, so there was a time like that, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Ichika",
+      "texto_en": "Oh? Are you interested?\\nYou want to know about your lover's past that badly?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "It...it's not like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Ichika",
+      "texto_en": "Okay then, that's the end of the story.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "Sure, I'm fine with that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "(...Actually, I'm quite curious.\\n Ugh, why am I being so stubborn!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Yotsuba",
+      "texto_en": "What's more important than the past\\nis the future, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Yotsuba",
+      "texto_en": "What kind of future will Itsuki and Uesugi-san\\nmove towards? That's more important.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Ichika",
+      "texto_en": "...Yeah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Ichika",
+      "texto_en": "Alright!\\nThen let's ask Futaro-kun about the future.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Ichika",
+      "texto_en": "When will you start living together with Itsuki-chan?\\nAfter graduating from university?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "Wh-what are you talking about?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Yotsuba",
+      "texto_en": "I'm curious about that too.\\nSo, please tell us your thoughts, Uesugi-san!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Futaro",
+      "texto_en": "E-even Yotsuba...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Ichika",
+      "texto_en": "Come on, come on, tell us?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Futaro",
+      "texto_en": "...Well, the future is important!\\nBut the present is still the most important thing!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "We came all the way to Okinawa\\nand we're at the beach! Let's play!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Ichika",
+      "texto_en": "Ah, he ran away.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Yotsuba",
+      "texto_en": "Wait for me, Uesugi-saaan!",
+      "texto_ptbr": ""
+    }
+  ]
+}

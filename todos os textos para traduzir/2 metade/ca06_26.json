@@ -1,0 +1,72 @@
+{
+  "arquivo": "ca06_26",
+  "total": 11,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(After leaving Ocean Expo Park, we decided to\\n stretch our legs and head straight to Kouri Island,\\n at the request of the quintuplets.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(This was decided thinking that\\n changing our location would solve things.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(They just had to see Kouri Island,\\n also known as the 'Island of Love,'\\n which is apparently a popular spot for couples.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "(They were looking forward to seeing\\n the heart-shaped rock on the island's coast \\n that's known as the 'Heart Rock'...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "(As expected of a popular spot like that,\\n there were many tourists about.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "(We had to be careful as we moved around.\\n However, it was like trying to bail out a sinking boat\\n with a spoon.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "(In the end, the quintuplets ended up\\n attracting attention, even on Kouri Island.\\n It seems that our thinking was too naive.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "(If five people with the same face and wearing the\\n same clothes gather together, it's probably inevitable\\n they'd attract attention like this.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "(Repeating our strategy of running away before being\\n noticed by tourists, the day suddenly became night...\\n and we decided to give up on any further sightseeing.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "(Since I focused everything on avoiding attention,\\n I couldn't gain anymore hints on how to see through \\n their disguises, and returned to the hotel in despair%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "(And with that, the fourth day\\n of our graduation trip came to an end.)",
+      "texto_ptbr": ""
+    }
+  ]
+}

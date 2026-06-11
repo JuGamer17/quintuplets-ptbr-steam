@@ -1,0 +1,192 @@
+{
+  "arquivo": "ca03_20",
+  "total": 31,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Trainer",
+      "texto_en": "Hello!\\nWelcome, everyone!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Miku",
+      "texto_en": "Wow...!\\nThey greet us properly.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, they are so polite.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "They even bow.\\nHow cute!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Trainer",
+      "texto_en": "From here on, we will show you various stunts we will be performing!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "Wow!\\nCan dolphins really jump that high?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "It looks like they push the water with their tails.\\nHow skillful.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Miku",
+      "texto_en": "They swim fast too!\\nThey move so quickly through the water!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Yotsuba",
+      "texto_en": "Their form is beautiful!\\nI want to swim like that too!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Trainer",
+      "texto_en": "Next, the dolphin will attempt to move the ball to the other side!\\nWill the dolphin manage to swim without dropping it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Raiha",
+      "texto_en": "Woah, they're so good!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "Futaro!\\nThose dolphins over there\\nare doing the backstroke!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Yeah! Their bodies are mostly out of the water!\\nHow are they doing that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Ah! Those ones are doing a handstand in the water!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Miku",
+      "texto_en": "They're saying something to us!\\nI wonder what they're saying?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "(Miku is really into this.\\n As expected, she was looking forward to this,\\n so it's only natural.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Miku",
+      "texto_en": "Futaro! Futaro!\\nDid you see that? Three of them jumped!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Miku",
+      "texto_en": "Wow! They did it again!\\nAmazing, their movements are perfectly synchronized!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "Huhhh?!\\nThey're flying and spinning now!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Miku, calm down a bit, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Miku",
+      "texto_en": "B-but!\\nI've never seen anything like this!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Miku",
+      "texto_en": "I didn't know dolphins could move like this.\\nDid you know that, Futaro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "No, it's my first time learning about it too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "(...Good.\\n The gap between me and Miku that was there\\n until now doesn't feel like it exists anymore.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "(If things keep going like this,\\n I might be able to find out\\n what Miku was worried about.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "(And then, I might even be able to kiss her...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "(I feel like it's possible!\\n No, I should definitely go for it!\\n After all, it's the goal of this trip!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Trainer",
+      "texto_en": "Finally, we'd like to say farewell to everyone!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Miku",
+      "texto_en": "Futaro!\\nThey're waving their tails at us!\\nI-it's so cute!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Okay, then let's wave back, eh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Miku",
+      "texto_en": "Oh, you're right.\\nUm... Thank you, dolphins!",
+      "texto_ptbr": ""
+    }
+  ]
+}

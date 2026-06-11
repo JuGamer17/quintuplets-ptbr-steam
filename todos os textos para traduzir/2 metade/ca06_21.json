@@ -1,0 +1,126 @@
+{
+  "arquivo": "ca06_21",
+  "total": 20,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(The graduation trip is on its fourth day today...\\n Only two days left for the quintuplets game.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(Yesterday, they gave me a hard time,\\n but I've pretty much figured out their tricks.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(...Just watch.\\n I'll definitely see through their game\\n today and tomorrow!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "???",
+      "texto_en": "Good morning.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Hey, morning.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "Good morning.\\nIt's another nice day today.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "You seemed pretty tired yesterday.\\nDid you sleep well?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "(Hmph...\\n I was caught off guard yesterday,\\n but I won't be surprised anymore!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "No worries. I rested well in preparation for today.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "That's reassuring.\\nToday's sightseeing will be enjoyable, won't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "Now then, what should we do for breakfast?\\nShould we have it at the hotel\\nor go to Ocean Expo Park first?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "(Already getting started, huh?\\n This seems like something Yotsuba would suggest,\\n but it's probably a setup.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "(Don't panic, and judge calmly\\n in the face of their tricks.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "Um, which do you prefer, Uesugi-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "I don't mind either.\\nI'll go along with whatever you guys want.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "Okay. It's better to eat first...\\nbefore we get hungry on the way.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "I should have checked for breakfast menus\\nor confirmed it last night.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "(Cool, I'm doing well.\\n Today, I'll definitely get myself\\n a clue of who's who!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "Hmm? Are you okay, Futaro-kun?",
+      "texto_ptbr": ""
+    }
+  ]
+}

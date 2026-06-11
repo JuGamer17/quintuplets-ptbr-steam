@@ -1,0 +1,162 @@
+{
+  "arquivo": "ca06_17",
+  "total": 26,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(After leaving American Village,\\n we arrived at our next destination,\\n the Okinawa Prefectural Museum.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(I was honestly surprised\\n that we almost caused a commotion...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(Being quintuplets and all, dressed the same way,\\n it can't be helped that they attract attention\\n to some extent.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Oh, I see...\\nThis museum is different from what I imagined.\\nIt's kinda stylish, or something.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "This museum is combined with an art museum,\\nso that might be related, don't you think?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, I can get that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "From this facility alone, you can learn about\\nOkinawa's history, culture, and even its climate\\nand art. That's a pretty good deal, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "There's also a shop inside the museum.\\nIt might be a good idea to buy some crafts\\nor folk art as souvenirs.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, they also have workshop events here.\\nWhy don't we participate if we have time?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "...Hey.\\nAren't we already attracting attention\\nfrom the people around us?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "Ooh...\\nWe're well aware of that too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Itsuki",
+      "texto_en": "Us five are bound to stand out no matter what.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "I mean, after all, you're five identical people.\\nIt's only natural that you draw attention.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "That's true...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "What should we do?\\nWe might end up in the same situation as before.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "At American Village,\\nwe started off doing things separately, didn't we?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "Thanks to that,\\nwe didn't attract any attention while sightseeing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "It seems like we should split up here too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Yes, being separated\\nwill definitely reduce the chance we're noticed,\\ncompared to being all together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "Okay, let's freely move about for now,\\nand everyone can explore as they like.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "We'll meet up again at this entrance hall.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Now...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "(I'm pretty sure we came to this museum because Miku\\n was interested in the relationship between Ryukyu\\n history and Japanese military commanders.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "(If that's the case, there's a high probability\\n that Miku will be the one who is most enthusiastic\\n about the exhibits...right?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "(Should I start from there?\\n Since I don't have any other clues at the moment?)",
+      "texto_ptbr": ""
+    }
+  ]
+}

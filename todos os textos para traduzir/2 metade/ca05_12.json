@@ -1,0 +1,126 @@
+{
+  "arquivo": "ca05_12",
+  "total": 20,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Hmm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(Even though they promised to support me,\\n it's really my problem with Itsuki.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(If Itsuki is having fun on this trip together with me \\n but then acting like that...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "(At the very least, she's actively spending time with me\\n and being a loving partner.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "(That's something to be happy about,\\n something I must respond to.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "(She's making an effort to be proactive,\\n and it's the worst if I don't reciprocate.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "I need to express my feelings too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "(But what should I do? Maybe a kiss, huh.\\n To show Itsuki how much I care...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "...Hm?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "(GUAAAAHH!\\n Am I really thinking about something\\n so utterly embarrassing right now?!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "(N-no, calm down. Nino said it herself,\\n we haven't been acting like a couple,\\n so I need to show her my feelings.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "(But it's not going to be easy,\\n and I'm not going to just let it slide.\\n First, I need to set the mood.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "(Should I...invite her to the lounge now?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "(But there will be people around.\\n The night view might help set the mood...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "...Ah!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "(That's it!\\n There's an event that's PERFECT for setting the mood!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "I bet it would be even more beautiful\\nwhen the sun's setting.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Ichika",
+      "texto_en": "I saw a flyer earlier\\nthat there are light shows at night.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "(Yes, the event at Umikaji Terrace!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "All right, let's put this plan into action!",
+      "texto_ptbr": ""
+    }
+  ]
+}

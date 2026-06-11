@@ -1,0 +1,180 @@
+{
+  "arquivo": "gr_02_03",
+  "total": 29,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Miku",
+      "texto_en": "Futaro.\\nIf it's okay, I want Raiha-chan to come with us too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Huh? Raiha too?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Miku",
+      "texto_en": "Yeah, umm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Miku",
+      "texto_en": "She'll be my little sister eventually,\\nso I want to get closer to her.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "O-oh... I see.\\nRaiha probably feels the same way.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Yotsuba",
+      "texto_en": "Ooooohhh?! Is this a reverse proposal?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "Wha-whaaaaat?\\nN-no! That's not what I meant!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Miku",
+      "texto_en": "Ah, but of course, I do want to get married%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Miku",
+      "texto_en": "No, wait!\\nAh, ummm!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "Please calm down, Miku.\\nI sort of understand what you're trying to say.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "And Uesugi-kun,\\nwhy are you making a girl say such an important thing?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Huh?! No, saying it here is inappropriate, isn't it?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "(No, Miku,\\n don't look at me like that!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "Well,\\nit's probably better to have a more romantic atmosphere\\nfor a proposal, isn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "But timing is also important.\\nIt's the best feeling to get to hear the words you want\\nwhen you want to hear them.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "If you let your guard down like that...\\nWhat'll happen?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "(Let my guard down... So she's implying that\\n my relationship with Miku\\n hasn't improved much since I confessed.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "(I had exams, and I was busy helping Yotsuba and Itsuki\\n prepare for theirs%p-2;――\\n%p; But that just sounds like an excuse, doesn't it.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "(Of course, I understand.\\n Since I'm going to Tokyo, from here on out\\n we'll be forced into a long-distance relationship.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "(I don't have any intention of doubting Miku's feelings,\\n but honestly, since we're both unexperienced with\\n long-distance relationships... I'm quite anxious.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "(That's why, on this trip, I want to deepen my bond\\n with Miku even more.\\n For that reason...!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "(During this trip! I will KISS HER!!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "(Last time,\\n I was kissed by her when she pushed me down, and\\n as a man, I'm not sure how to feel about that situation...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "(But this time, I'll show her the kind of man I am!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, that's right, Uesugi-san,\\ndon't worry about Raiha-chan's travel expenses!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Ichika",
+      "texto_en": "Since we're the ones inviting her,\\nit's only natural for us to cover the cost.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "O-okay.\\nI feel kinda bad. Thanks for the help.",
+      "texto_ptbr": ""
+    }
+  ]
+}

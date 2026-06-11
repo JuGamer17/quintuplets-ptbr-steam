@@ -1,0 +1,90 @@
+{
+  "arquivo": "ca05_18",
+  "total": 14,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, I got a message from Raiha-chan.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Ichika",
+      "texto_en": "About Futaro-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, it seems so.\\nUm%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Yotsuba",
+      "texto_en": "'Big bro collapsed as if he died, saying it's the\\nend of the world. He's so depressed and in a state\\nlike I've never seen him in before.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Yotsuba",
+      "texto_en": "%p-2;――%p; Is what she said.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Miku",
+      "texto_en": "Well, I can understand why he's feeling down.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "Anyone would feel crushed\\nafter getting slapped by their girlfriend.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "Ooohh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Miku",
+      "texto_en": "But what's important is what comes next.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "From now on...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Ichika",
+      "texto_en": "I wonder what Itsuki-chan wants.\\nNot what's normal or expected\\nof her as a girlfriend, but her honest feelings.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Itsuki",
+      "texto_en": "I...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "(Things can't go on like this.\\n So, what I should do%p-2;――\\n%p; No, what I want to do is...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "%p-2;――%p; I have a request for everyone.",
+      "texto_ptbr": ""
+    }
+  ]
+}

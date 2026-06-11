@@ -1,0 +1,222 @@
+{
+  "arquivo": "gr_02_04",
+  "total": 36,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "That's right, Uesugi-san.\\nWhy don't we invite Raiha-chan to come along too?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Raiha too?\\nIs that okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Yotsuba",
+      "texto_en": "Of course!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Ichika",
+      "texto_en": "We will be a family soon, after all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Yotsuba",
+      "texto_en": "What?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Miku",
+      "texto_en": "It'll be a good opportunity to deepen our friendship.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "Yeah, why not, let's all go together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "A f-f-f-f-family?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "Hey, Yotsuba? What's wrong?\\nWhy is your face all red?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Yotsuba",
+      "texto_en": "U-u-u-Uesugi-san!!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "What?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Yotsuba",
+      "texto_en": "A-a-about being family, that's not what I meant\\nearlier! I just thought it would be fun\\nif Raiha-chan came along!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Ah... There's no need to panic.\\nI know it's just in your nature to say impulsive\\nthings like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Miku",
+      "texto_en": "That's so Yotsuba.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Nino",
+      "texto_en": "You're not completely \\nagainst the idea, are you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Yotsuba",
+      "texto_en": "B-but...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "Ahem.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "What, Itsuki?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "I'll make sure not to get in your way on this trip,\\nso don't worry.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Both",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Wh-what are YOU so concerned about?\\nYou should worry about yourself.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "Well, it's natural to want to be helpful.\\nYotsuba still speaks to you so politely, Fu-kun, and it\\ndoesn't seem like anything has changed, am I right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Yotsuba",
+      "texto_en": "Oooohh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Ichika",
+      "texto_en": "Now, now. This is Yotsuba and Futaro-kun\\nwe're talking about.\\nI don't think anyone expects them to move very fast.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Ugh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "(Hopefully I'm not just imagining it, but\\n Ichika's support doesn't sound very supportive...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "(I know! \\n I know that since I confessed, nothing has\\n really changed between Yotsuba and I!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "(I had my own exams, and Yotsuba needed\\n to study a wide range of subjects to be able\\n to pass her entrance exam. We had no time!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "(...However, now that entrance exams are over\\n and I am going to Tokyo, from here on out\\n we'll be forced into a long-distance relationship.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "(I have no intention of doubting Yotsuba's feelings.\\n However, as two first-time lovers in a long-distance\\n relationship...to be honest, I'm pretty anxious.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "(That's why, on this trip, I want to deepen my bond\\n with Yotsuba even more.\\n That's why...!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "(I will kiss her! On THIS TRIP!!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "(Well, saying it like that,\\n I haven't even kissed her yet...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "(You will show her what kind of man you are,\\n Uesugi Futaro!!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Ichika",
+      "texto_en": "Oh, by the way.\\nDon't worry about Raiha-chan's travel expenses.\\nSince we're inviting her, we'll take care of it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "O-okay.\\nI feel kinda bad. Thanks for the help.",
+      "texto_ptbr": ""
+    }
+  ]
+}

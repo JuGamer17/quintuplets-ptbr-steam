@@ -1,0 +1,378 @@
+{
+  "arquivo": "ca04_04",
+  "total": 62,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahhh!\\nIt feels so good to move my body.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Haah, haah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh? Are you alright?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah, I'm fine, it's not a big deal.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "(I say that, but honestly,\\n if Yotsuba hadn't swam with me,\\n I would have been left behind a long time ago.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Yotsuba",
+      "texto_en": "If you get tired, please let me know.\\nPushing yourself too hard is not a good idea.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "I know. I need to conserve my energy for later.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "Yep. Let's go into energy-saving mode.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "(Raiha and the others...they're still in\\n a pretty shallow area. It's not so much swimming\\n as it is playing in the water.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "(At least at that depth, I won't have to worry\\n about Raiha drowning.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Yotsuba",
+      "texto_en": "It's not so bad to float in this clear blue sea,\\ngazing at the bright blue sky.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "I thought the water would be colder, but it's really\\nquite comfortable. It's no wonder that even this\\ntime of year, you can swim here. Okinawa, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "There aren't many people swimming here,\\nso it's almost like we have the place to\\nourselves... UHWAA?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Wh-what?\\nWhy did you suddenly do that weird noise?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Yotsuba",
+      "texto_en": "S-something...touched my foot just now...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Yotsuba",
+      "texto_en": "Could it be, a shark?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "...Why would there be a shark here\\nall the sudden?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Yotsuba",
+      "texto_en": "Come on, in movies that have a lot of thrilling\\nscenes, sharks usually appear with a pow!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Yotsuba",
+      "texto_en": "The shining blue sea reflecting the dazzling sunshine.\\nA man and woman play happily in the waves.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Yotsuba",
+      "texto_en": "Suddenly, ominous music begins to play%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Yotsuba",
+      "texto_en": "The two turn around to see an enormous shark,\\nits size seeming almost unreal!\\nScreams echo out!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Yotsuba",
+      "texto_en": "Oooohh...\\nThe poor couple has become the meal\\nof the hungry shark...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "But, that's just entertainment.\\nIt's not real.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?! Could it be\\nthat there is already a giant shark\\nlurking behind us right now?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Come on. There wouldn't be any big sharks\\nthat come near a beach like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Yotsuba",
+      "texto_en": "Um, Uesugi-san?\\nPeople who say things like that\\nare usually the first to become prey you know...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "You watch too many movies.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah?!\\nThere's... something behind you right now,\\nUesugi-san...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "There's nothing there.\\nYou're just trying to scare me%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Yotsuba",
+      "texto_en": "Waah?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Hey, Yotsuba?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Uwaa?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "(What's going on? Did something just drag me down?!\\n Is there really a shark%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Nngh... Nnnnnnh?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "(Yotsuba?!\\n What's she doing...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "(Was she trying to surprise me?\\n Oh come on, how childish.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "(For a moment, I really thought it was a shark...\\n Well, as long as Yotsuba is okay.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "(Even still...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Yotsuba",
+      "texto_en": "*gasp!*",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Haahh!\\nHaahh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Yotsuba",
+      "texto_en": "Did I surprise you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "Obviously.\\nI didn't see a Yotsuba attack coming,\\nas opposed to a shark attack.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Yotsuba",
+      "texto_en": "Hee-hee-hee.\\nMy prank was a great success.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "(She's laughing like she doesn't even have a care.\\n But that's one of the things I like about Yotsuba%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "(It's one of the things\\n that made me want to date her.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Aahhh, um...well...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Yotsuba",
+      "texto_en": "!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Yotsuba",
+      "texto_en": "Sorry.\\nI got a little too close, didn't I?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "It's not that big of a deal...\\nWe're dating after all, so it's okay, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Yotsuba",
+      "texto_en": "But, look!\\nEveryone else is right over there!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Yotsuba",
+      "texto_en": "Plus, we're in swimsuits...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "Yours... It looks good on you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "(O-oh no! Was that too sudden?!\\n But, that was perfect timing, wasn't it?!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Yotsuba",
+      "texto_en": "It got hot all the s-sudden, didn't it?!\\nShould we swim a little more?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Yotsuba",
+      "texto_en": "All right, let's go!\\nWoo-hoo!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "Ah, hey!\\nWait a second!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "(I'd managed to catch up to Yotsuba, who'd started\\n swimming with all her might, but only after\\n we got out of the water and onto the beach...)",
+      "texto_ptbr": ""
+    }
+  ]
+}

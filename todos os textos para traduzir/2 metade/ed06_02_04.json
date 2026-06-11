@@ -1,0 +1,420 @@
+{
+  "arquivo": "ed06_02_04",
+  "total": 69,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Nino",
+      "texto_en": "Hum hum, hum hummm ♪",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "The temperature of the water is good.\\nPrep for the tea press and tea cups are also good.\\nThe cream puffs turned out well, now all that's left%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Nino",
+      "texto_en": "Oh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Yo, I'm here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Nino",
+      "texto_en": "Futaro!\\nWelcome!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Long time no see, Nino.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "You're early.\\nI didn't hear the intercom ringing...\\nHow did you open the front door with the auto lock?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Oh, I happened to meet Itsuki and the others downstairs.\\nThey let me in as they left.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "They all seemed\\nto be going somewhere together...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "Yeah, they said they're going out to a movie and shopping.\\nThey're planning to have dinner out there too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "Thanks to that,\\nit's just the two of us today, you and I.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "You...\\nYou didn't happen to kick them out \\nbecause I was coming, did you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "No, it's not like that.\\nYou and I promised to spend this holiday together,\\ndidn't we?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "Since they knew about that, \\nthey took care of all that on their own.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Nino",
+      "texto_en": "It's been a while since you came back home,\\nso they wanted us to have some time alone.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "I see.\\nI feel like I did something wrong.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "But I guess you guys are still the same.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "Yes.\\nDon't worry, we'll be fine here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Nino",
+      "texto_en": "Speaking of which, Futaro.\\nHow's university going? Isn't it tough living alone?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Well, it's going alright.\\nI'm finally getting used to living by myself.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "...You haven't made any weird friends\\nover there, have you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "No need to worry.\\nI have too much to do,\\nso I don't have that kind of spare time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Nino",
+      "texto_en": "Really?\\nWhat about female friends...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "You guys alone are enough trouble.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Nino",
+      "texto_en": "Hmm, you say it's troublesome.\\nBut you seem happy about it, don't you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "...Well,\\nit's been a while since I saw you, after all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "Heheh!\\nWell then, I have to provide you\\nwith plenty of hospitality today.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "I just finished preparing the tea.\\nCome on over here!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "Alright.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Nino",
+      "texto_en": "Teehee.\\nI put extra effort into making it for you, Futaro.\\nTake your time and enjoy it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "Hey...\\nNino, aren't you a bit too close?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Nino",
+      "texto_en": "Not at all. \\nWe're lovers, so it's normal to be this close. Totally normal. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "But still.\\nIt's kinda difficult to move like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Nino",
+      "texto_en": "But it's been a while since we've seen each other.\\nWhile we have this chance, I want to fully charge up\\nmy Futaro-meter.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "What do you mean, 'Futaro-meter'?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Nino",
+      "texto_en": "You say I'm too close, but deep down, \\nyou're enjoying it, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Well, it's not like I dislike it.\\nBut what if those guys come back?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "You don't have to worry about that.\\nIf you're concerned about it, we can go to my room.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "W-well...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Nino",
+      "texto_en": "Oh my.\\nCome on, Futaro,\\nyou get embarrassed so easily.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "...I'm still not used to being called by my name.\\nTake it easy on me, will you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Nino",
+      "texto_en": "What are you going on about?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Nino",
+      "texto_en": "We finally have time alone together, don't we?\\n...If that's the case,\\nlet's do something even more amazing, hm?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "H-hey, Nino...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Nino",
+      "texto_en": "I don't mind, you know?\\nBecause%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Nino",
+      "texto_en": "You and I are lovers, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Well, that's true, but...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "N-Nino...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Nino",
+      "texto_en": "A-actually, no!\\nIt's just too soon!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*\\nI can't believe you brought it up, and then...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Nino",
+      "texto_en": "...We have limited time to be together, you know?\\nI got a little carried away with my feelings.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "Well, I can understand your feelings too, you know?\\nIt's different from our high school days.\\nIt's not easy for us to meet up anymore.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "The next opportunity won't be for quite a while.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Nino",
+      "texto_en": "That's true...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "In that case!\\nI also need to charge up\\nmy Nino-o-meter, while I have this chance!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Nino",
+      "texto_en": "...Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "So, I won't just leave without anything happening.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Nino",
+      "texto_en": "W-wait, Futaro%p-2;――\\n%p;Eeeep?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "...Don't react like that.\\nIt's embarrassing for me too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Nino",
+      "texto_en": "But, with you taking initiative like that...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "I'm always at the receiving end from you.\\nIsn't it okay once in a while?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "Well then, I'll charge up\\nuntil you finish drinking.\\nAnd then%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Nino",
+      "texto_en": "I'll prepare another cup of tea for you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "Huh?\\nI haven't finished drinking yet.\\nHow many cups are you planning to make me drink?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Nino",
+      "texto_en": "It doesn't matter how many cups.\\nI also want to...\\ncharge you up, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Nino",
+      "texto_en": "So, I'll be by your side, forever...",
+      "texto_ptbr": ""
+    }
+  ]
+}

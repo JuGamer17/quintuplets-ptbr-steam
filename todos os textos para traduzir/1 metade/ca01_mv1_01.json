@@ -1,0 +1,420 @@
+{
+  "arquivo": "ca01_mv1_01",
+  "total": 69,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Ichika",
+      "texto_en": "Hmm, matching souvenirs, eh?\\nWhat kind of thing would be good?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "With so many choices, it's difficult to decide.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Yo, what are you looking at?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Ichika",
+      "texto_en": "Oh, it's Futaro-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Ichika",
+      "texto_en": "Before we go to the store, we were thinking of deciding\\non the guidelines for searching for souvenirs.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "I wonder if it would be best to get some clothes.\\nI'd like to carry them around with me if possible.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "Then how about a firefly glass accessory?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Nino",
+      "texto_en": "Firefly glass? Do you mean fluorite?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Ichika",
+      "texto_en": "No, they're bluish dragonfly beads\\nmade to resemble the sea in Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "There was a store over there\\nwith lots of options for necklaces and earrings,\\nand they looked good.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "Oh, that's nice.\\nIf it's blue, it would look good on Fu-kun too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Wait, what about me wearing an accessory?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "That's not strange at all.\\nHow about a bracelet?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Well, if it's a bracelet, then...maybe?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "Don't look so worried.\\nI'll choose one that suits you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "O-okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Ichika",
+      "texto_en": "The one I'm thinking of is around 20,000 yen,\\nso it could be a good pick.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "Well, if it's around that price,\\nthen it's okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "(Wow, that's expensive!\\n I can't let myself be influenced\\n by their sense of money!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "What else did you see that looked good?\\nDid you come across anything else?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "I stumbled upon some famous dyed fabric.\\nWhat was it called again?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Was it 'bingata-zome'?\\nI don't know much about it,\\nbut I heard it's a traditional Okinawan product.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Nino",
+      "texto_en": "Yes, that's it!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Ichika",
+      "texto_en": "Dyeing, eh.\\nIt seems like an easy option for small items.\\nI wonder if they also have kimonos?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Nino",
+      "texto_en": "We should go to a craftsman in the area\\nand consider ordering a custom-made one.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "(A-another suggestion that's likely to be expensive.\\n My wallet won't be able to handle it for sure.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "C-custom-made might take a while.\\nShould we consider something else?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "Oh, right.\\nMaking seven of them\\nwill definitely take a long time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "Hmm, this is harder than I thought.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Ichika",
+      "texto_en": "So, Futaro-kun, what do you think would be good?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "That's right. We haven't heard your opinion yet,\\nFu-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Mine?\\nLet's see...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "(If I just leave them to decide on their own,\\n who knows what kind of luxurious item\\n they might choose. Now is the time to act!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Instead of deciding what to get,\\nlet's consider the budget first!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Nino",
+      "texto_en": "The budget?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Ichika",
+      "texto_en": "Ah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Ichika",
+      "texto_en": "Oh, that's right. The budget is important.\\nYeah, I think so too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Ichika",
+      "texto_en": "Hey, I guess you could call it having a sound\\nfinancial sense. Even choosing a souvenir\\nputs your everyday mindset to the test, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Nino",
+      "texto_en": "...What's up?\\nWhy are you suddenly acting weird?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Ichika",
+      "texto_en": "Oh, I just remembered something important!\\nYou have to keep a tight hold on your wallet.\\nMaybe even keep track of your finances if you're on a budget.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "Although you're making good money.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Ichika",
+      "texto_en": "Well, it's not too bad, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "But, that's all the more reason\\nto manage the money you earn, right?\\nLike you said, having a good sense of money is important.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Ichika",
+      "texto_en": "Of course.\\nI always save a good portion of my paycheck.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "Good to hear.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Nino",
+      "texto_en": "...What are we even talking about?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Nino",
+      "texto_en": "You're acting different today.\\nYou woke up earlier than usual,\\nand you're saying strange things.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, having a sense of money is important.\\nYou guys won't be relying on your dad forever.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Ichika",
+      "texto_en": "D-does that mean...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "What is it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Ichika",
+      "texto_en": "N-nothing, never mind!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Ichika",
+      "texto_en": "I was just imagining what it would be like\\nto stand on my own two feet.\\nAha, ahaha...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Ichika",
+      "texto_en": "Well, even if I said standing on my own two feet,\\nwhat I was imagining was...being with you...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Nino",
+      "texto_en": "You're acting different today.\\nYou woke up earlier than usual,\\nand you're saying strange things.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "You really get it, Ichika. Back when you were\\nliving in an apartment, you were the one\\nmanaging the household budget, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, well, I guess.\\nIt was tough staring at numbers every day.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Ichika",
+      "texto_en": "W-well, thanks to that,\\nI feel like I've become good at that kind of thing,\\nyou know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Ichika",
+      "texto_en": "J-just kidding!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "Hold on, hold on, you're no match for Raiha\\nwhen it comes to managing finances.\\nAfter all, she's got much more experience than you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Ichika",
+      "texto_en": "O-oh, I see.\\nI guess I can't compete with Raiha-chan after all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "That's why I need to earn enough money\\nso I can make things easier for Raiha...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Nino",
+      "texto_en": "...What's with this dialogue?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Nino",
+      "texto_en": "You're acting different today.\\nYou woke up earlier than usual,\\nand you're saying strange things.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Ichika",
+      "texto_en": "Huh? What's up, Nino?\\nIs there something on my face?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Nino",
+      "texto_en": "No, it's nothing.\\nLet's stop chatting and get back to our souvenirs search, 'kay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Ichika",
+      "texto_en": "Ah, okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Ichika",
+      "texto_en": "Thanks to Futaro-kun,\\nwe have a budget to work with now,\\nso let's look for something affordable and nice.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, let's do that.",
+      "texto_ptbr": ""
+    }
+  ]
+}

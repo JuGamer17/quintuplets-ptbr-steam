@@ -1,0 +1,534 @@
+{
+  "arquivo": "ca02_06",
+  "total": 88,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(After the quintuplets\\n rang the bell together in harmony,\\n Raiha and I also rang it together...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(We finished touring the Ocean Tower facilities\\n and headed to the beach,\\n where Nino wanted to see the Heart Rock.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Raiha",
+      "texto_en": "Wow! The ocean here is beautiful too!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Yotsuba",
+      "texto_en": "The beach looks pristine. I imagine it'll be difficult to swim here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Nino",
+      "texto_en": "Ah! There it is! That's the Heart Rock!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "...That rock?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "A heart...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "(Isn't that a tough one to call it a heart?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Ichika",
+      "texto_en": "Futaro-kun, did you just think about where the heart is?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "Well, I guess.\\nBut tourist spots often have some quirks,\\nso I guess it's something like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Ichika",
+      "texto_en": "You're not saying what you really think out loud.\\nYou've grown up.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Raiha",
+      "texto_en": "H-hmm?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "Is that a heart...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "I guess you can't see it, huh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "W-well, yes.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "Oh, it can't be helped.\\nLet me show you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Yotsuba",
+      "texto_en": "Thank you so much, Nino-sensei!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "There are actually three 'hearts' on Tinu Beach.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Three?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "The first heart is the rock on the left\\nwhen you look from the beach. The second one is\\nmade by stacking two rocks together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "And, the third one is an upside-down heart\\nthat you can see between the two rocks.\\nTry moving around on the beach to see it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Yotsuba",
+      "texto_en": "Wow! It really looks like a heart!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Ichika",
+      "texto_en": "Hey, no doubt.\\nEspecially the third one.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "I see.\\nIt takes a little ingenuity.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Raiha",
+      "texto_en": "I'm glad you're here, Nino-san.\\nI was about to be disappointed and leave\\nbecause I couldn't see it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, I'm grateful to you, Nino,\\nfor investigating it thoroughly.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "Teehee, you're welcome.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "It's not just about enjoying the scenery.\\nSeeing two things come together to form a heart\\nreally gives you a feeling of being on a love island.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Miku",
+      "texto_en": "Yeah. Love is something that two people share.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "(Love is something that two people share, eh.\\n I don't really get that kind of thinking.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "(...It's strange, isn't it?\\n That Nino and I are being so romantic like this.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Nino",
+      "texto_en": "Hey, Futaro!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah, what is it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Nino",
+      "texto_en": "Let's take a picture!\\nI've decided to take a picture with you here,\\nand I even have a pose in mind, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "A pose?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Nino",
+      "texto_en": "You and I will make a heart mark together!\\nWe'll make half a heart with our hands and overlay it\\nwith the Heart Rock to take the picture.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "No way!\\nMaking a heart like that is too embarrassing!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "Wha? Why not? It's normal for lovers.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, but...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Nino",
+      "texto_en": "I really want to take the photo.\\nI won't move until you agree.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "What? You're not a child.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Nino",
+      "texto_en": "It's your fault for making me do this.\\nA photo isn't too bad, isn't it?\\nLet me take a picture to capture the moment.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Okay, I understand.\\nJust ONE photo then.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Yotsuba",
+      "texto_en": "Alright, I'll take the photo!\\nStand together, you two.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Nino",
+      "texto_en": "Futaro, come closer.\\nWe have to make the heart shape.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Do we have to do this?\\nI just don't like it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Nino",
+      "texto_en": "It's not about whether you like it or not.\\nI want to take a photo with you, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Nino",
+      "texto_en": "We're on a trip,\\nso I want to make lots of memories with you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "(Memories, eh...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "Okay, I got it.\\nLet's take the photo.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Yotsuba",
+      "texto_en": "Alright, I'll take the photo!\\nStand together, you two.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Nino",
+      "texto_en": "Futaro, come closer.\\nWe have to make the heart shape.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "...Okay. Let's do it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Nino",
+      "texto_en": "Really? It's okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "To be honest, I don't think it suits me,\\nbut if you want to do it, I'll go along with it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "Well...even if it's something like this,\\nI'm still your boyfriend.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Nino",
+      "texto_en": "Thank you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Raiha",
+      "texto_en": "Big bro, you've grown up...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Ichika",
+      "texto_en": "Right?\\nI didn't expect you to say yes so quickly.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Yotsuba",
+      "texto_en": "Alright, I'll take the photo!\\nStand together, you two.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Nino",
+      "texto_en": "Futaro, come closer.\\nWe have to make the heart shape.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san, smile more!\\nYou're looking so stiff, it's scary.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "...Like this?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Yotsuba",
+      "texto_en": "Yes, that's just barely okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Miku",
+      "texto_en": "I'd say it barely isn't.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Ichika",
+      "texto_en": "To me, it's completely out.\\nI can't see any smile on your face, Futaro-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Itsuki",
+      "texto_en": "Doing any more to Uesugi-kun is cruel...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "H-hurry up and take the picture!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Yotsuba",
+      "texto_en": "Got it! Say cheese!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Nino",
+      "texto_en": "Let me see, let me see!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Yotsuba",
+      "texto_en": "Here's how it turned out.\\nHow is it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Nino",
+      "texto_en": "Yeah, it's a great picture!\\nThanks, Yotsuba. This will strenghten the bond\\nbetween me and Futaro from here on out.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Raiha",
+      "texto_en": "You did a great job, big bro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Futaro",
+      "texto_en": "...I feel like my soul has been taken.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Itsuki",
+      "texto_en": "What era are you from?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Itsuki",
+      "texto_en": "Anyway... I never thought\\nyou would do something like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Futaro",
+      "texto_en": "I wouldn't have done it if it wasn't for Nino's request!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Miku",
+      "texto_en": "And as expected, Futaro is unable to resist Nino.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Ichika",
+      "texto_en": "Isn't it more like he's super sweet to Nino,\\nrather than just weak.\\nWe've been subjected to yet another lovey-dovey display.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Futaro",
+      "texto_en": "Lovey-dov—?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Futaro",
+      "texto_en": "No, this isn't anything lovey-dovey!\\nIt's just a simple fact, alrighty?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 84,
+      "personagem": "Ichika",
+      "texto_en": "You're not very convincing\\neven if you deny it that strongly.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 85,
+      "personagem": "Futaro",
+      "texto_en": "(Ugh, she's right. It's definitely lovey-dovey.\\n I said it without even realizing it...!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 86,
+      "personagem": "Raiha",
+      "texto_en": "Hahaha. Big bro,\\nyou really are Nino-san's boyfriend now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 87,
+      "personagem": "Futaro",
+      "texto_en": "...Don't say that, Raiha.\\nI'm at my limit already...",
+      "texto_ptbr": ""
+    }
+  ]
+}

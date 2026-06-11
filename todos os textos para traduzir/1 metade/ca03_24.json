@@ -1,0 +1,522 @@
+{
+  "arquivo": "ca03_24",
+  "total": 86,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(When we held hands, she ran away.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(When we held hands, she ran away...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Raiha",
+      "texto_en": "Big bro?\\nYou look like your soul has left your body.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "It's nothing...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Raiha",
+      "texto_en": "Ah, alright.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "Good evening, Raiha-chan.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Raiha",
+      "texto_en": "Oh, Yotsuba-san and Itsuki-san.\\nGood evening!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "What's up? What's going on?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Yotsuba",
+      "texto_en": "I came to ask Raiha-chan out on a date!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Raiha",
+      "texto_en": "A date?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Yotsuba",
+      "texto_en": "Yes.\\nShall we go to the lounge together\\nto see the night view?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Hey Yotsuba, what the heck%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun, I have something to discuss with you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Yotsuba",
+      "texto_en": "Well then, let's go.\\nI'll treat you to anything you waaant!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Raiha",
+      "texto_en": "Alright then, big bro, I'm off.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Alright.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Yotsuba",
+      "texto_en": "See you!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "...What do you want to talk about?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "You can probably guess, right?\\nIt's about Miku.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "Thought so...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "Based on what I saw at the aquarium,\\nI thought things were going well for you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "I thought the same thing.\\nBut...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "What was the reason Miku was avoiding you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Eeerh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "...I see.\\nYou didn't ask her, did you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "I got too excited\\nabout being able to talk to her normally,\\nand I didn't get to the important part.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "I can't say I don't understand that, but%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Itsuki",
+      "texto_en": "If you don't know Miku's feelings,\\nit'll just end with you feeling happy you were able to talk to her.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, that's actually happening...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Itsuki",
+      "texto_en": "But you DID reconcile once, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, but then,\\nMiku's attitude changed again, right away.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "!...\\nAnd the reason why?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "What did you do or say\\nthat made Miku change her attitude?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "Please try to remember, there must be a clue there!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Ah!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "(That's right! Exactly!\\n I was so shocked that Miku ran away\\n that I'd stopped thinking!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "(Then, I first held her hand...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "(And there weren't any issues.\\n Miku didn't seem to dislike it,\\n and even held my hand back.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "(I was happy about that%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "(And then, I tried to take it a step further,\\n by i-interlocking our fingers...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "%p-2;――%p; Huh?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "(Perhaps...\\n Miku felt that I was being too forward?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "(It would be a lie to say that I didn't have\\n any ulterior motives. Spending time with her and\\n possibly kissing her were definitely on my mind.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "(And maybe that attitude showed,\\n and scared Miku away...?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Itsuki",
+      "texto_en": "...It seems you have an idea.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "Could you tell me?\\nOf course, I have no intention of telling Miku.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "W-well, that's...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun, you will soon be going to Tokyo.\\nAfter this trip, a farewell awaits you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Itsuki",
+      "texto_en": "Can this problem be solved on your own before then?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "...I can't say.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Itsuki",
+      "texto_en": "Why is that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "That's...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Itsuki",
+      "texto_en": "I asked whether it's a problem that can be solved.\\nYou can't tell me that too?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Itsuki",
+      "texto_en": "That means, you're not sure\\nif it's something that can be solved?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "...I guess that's what it means, huh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "I see...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "I'm sorry for worrying you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Itsuki",
+      "texto_en": "To apologize so frankly,\\nyou must be really at your wit's end.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Itsuki",
+      "texto_en": "However, there's no need to apologize.\\nI'm worried, but it's also for Miku's sake.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "I see...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "Can you not laugh?\\nTo be honest, it's a pretty pathetic story.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Itsuki",
+      "texto_en": "I won't laugh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Itsuki",
+      "texto_en": "When you listened to our troubles,\\ndid you ever laugh? It's the same thing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "...I see.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "I see...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Itsuki",
+      "texto_en": "A k-kiss... Huh...\\nDoing something like that...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "...Sorry.\\nI told you something strange.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Itsuki",
+      "texto_en": "No! I'm the one who asked!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Itsuki",
+      "texto_en": "But, isn't the order a bit mixed up?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "The order?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Itsuki",
+      "texto_en": "K-kissing should come naturally as a result of mutual feelings,\\nnot on purpose. Is it not mistaken to aim for that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Futaro",
+      "texto_en": "...Ah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Itsuki",
+      "texto_en": "Of course, I understand your feelings.\\nBut, um, I think Miku would want you to\\nexpress your feelings with words, first.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Itsuki",
+      "texto_en": "If she also desires it afterward, then...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Futaro",
+      "texto_en": "Right, that's true.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Futaro",
+      "texto_en": "(What am I doing...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Futaro",
+      "texto_en": "Up until now, I've been taking the wrong approach.\\nI see things differently now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 84,
+      "personagem": "Futaro",
+      "texto_en": "(I'm not sure if this is really why\\n Miku is avoiding me. But%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 85,
+      "personagem": "Futaro",
+      "texto_en": "(At the very least,\\n I need to change my way of thinking.)",
+      "texto_ptbr": ""
+    }
+  ]
+}

@@ -1,0 +1,564 @@
+{
+  "arquivo": "ca05_07",
+  "total": 93,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Nino",
+      "texto_en": "Amazing.... It's so luxurious and splendid,\\nyet has an elegance to it...\\nYou'd guess this is where the king resides.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Miku",
+      "texto_en": "Are all the buildings around here the Seiden?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "No, the Seiden refers to the building in front.\\nThat one over there is the Nanden,\\nand the one beyond that is the Hokuden.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Raiha",
+      "texto_en": "Does this garden have a name too?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Yes, this garden is called the 'Una,'\\nand apparently it's been a place where\\nvarious ceremonies have been held since ancient times.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "...Oh?\\nIs there a tea room somewhere?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Hm? What brings that up?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, it's because the guideboard over there\\nsays that there's a tea service available.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Miku",
+      "texto_en": "Tea?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "Uwaa, I can't read that.\\nCan you help me out, Futaro-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Yup. Sure thing. \\nThis is pronounced 'teicha.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "I don't know that kind of tea.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "No, it's not a type of tea.\\nIt means serving tea to guests.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "Ah, okay.\\nI get it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "It seems like we can enjoy sanpin-cha\\nand traditional Okinawan sweets.\\nWould you like to participate?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "As expected of you, Itsuki-chan.\\nYou never miss a chance for food, do you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "N-no, that's not it!\\nIt just happened to catch my eye!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "Where are they holding it?\\nIt can't be in the Seiden, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "It seems like it takes place\\nin a place called the Sasunoma,\\nwhich is located further back.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "Sasunoma?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Yotsuba",
+      "texto_en": "Uuum,\\nIt's like a waiting room for the prince,\\nand it's a Japanese-style room with tatami mats.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Miku",
+      "texto_en": "A Japanese-style room in Shurijo Castle...\\nthat sounds interesting.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Nino",
+      "texto_en": "It's also a perfect place to take a break.\\nLet's go.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Itsuki",
+      "texto_en": "Yes!\\nI'm looking forward to the tea and sweets!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "(Haha, Itsuki's easily pleased.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Itsuki",
+      "texto_en": "There are so many sweets!\\nThey all look delicious.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "So these are all traditional Okinawan sweets?\\nThere are a lot of things\\nI'm seeing for the first time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Yotsuba",
+      "texto_en": "I know this one. It's chinsuko, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Miku",
+      "texto_en": "What about this one?\\nIt looks like a manju, but I wonder what it is.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "It's written on the menu.\\nThe one that looks like a manju is called 'kunpen,'\\nand the one Itsuki has is called 'hanabouru.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "Hanabouru...\\nThe name doesn't give me any idea of the taste.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Itsuki",
+      "texto_en": "Well then, let's try them and find out!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "Mmm! So crispy!\\nIt has a nice texture,\\nand just the right amount of chewiness.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Nino",
+      "texto_en": "Hmm, it's more of a simple taste.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Yotsuba",
+      "texto_en": "This 'chiirunkou' is a lot like castella.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Raiha",
+      "texto_en": "The name is so cute!\\nChiirunkou, chiirunkou.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "Hehe, I know what you mean.\\nIt's fun to say out loud.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Ichika",
+      "texto_en": "Sanpin-cha is like jasmine tea, right?\\nIt goes well with the sweets.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Nino",
+      "texto_en": "To be precise, the way it's brewed is different.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Itsuki",
+      "texto_en": "*sigh*\\nAll of these sweets are so delicious.\\nIt makes me happy.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "(Itsuki really seems to enjoy eating everything,\\n doesn't she.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, Uesugi-kun, you haven't touched anything yet.\\nIf you don't want it, I'll take it...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "I'm not giving it to you!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "What a wonderful time!\\nThe tea and sweets were delicious.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, there were so many sweets\\nthat I ate for the first time.\\nI'm glad we went.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "I especially liked the hanabouru.\\nAs the name hinted at,\\nits delicate design reminded me of flowers.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Aren't you all about substance over style?\\nI'm surprised you enjoyed the look over the taste.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "A-aren't you rude!\\nIt's important to enjoy how things look.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Nino",
+      "texto_en": "That's right.\\nYou don't want to be told that by Fu-kun,\\nwho only cares about stuffing his face. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Eerh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "...Anyway.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Itsuki",
+      "texto_en": "Wh-what is it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Not only did it look good,\\nit went really well with the tea.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, the moderate sweetness\\nmade the tea go down smoothly. I wanted seconds.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "Haha, is it even accurate to say that tea\\ngoes down smoothly? But it's true that you didn't just eat\\nthe hanabouru, but devoured all the other sweets too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "Though it's too bad there weren't any leftovers. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Itsuki",
+      "texto_en": "I was only kidding before!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Yotsuba",
+      "texto_en": "It doesn't sound like a joke when you say it,\\nItsuki.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Itsuki",
+      "texto_en": "Yotsuba, you too? Gosh!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "...Anyway.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Itsuki",
+      "texto_en": "Wh-what is it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "That delicate design was probably handmade.\\nIt's the work of artisans.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, it was almost too good to eat.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, but you had no hesitation in gulping it down.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Itsuki",
+      "texto_en": "I-I didn't want to waste any of it!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Itsuki",
+      "texto_en": "Besides, they're meant to be eaten. \\nNot put on display, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Itsuki",
+      "texto_en": "Also, there are things you can only tell when you actually eat them.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "Huh? Like what?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Itsuki",
+      "texto_en": "Like that the taste is pure, without any unnecessary\\nelements. I felt their commitment to tradition\\nin both taste and appearance.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "...Anyway.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Itsuki",
+      "texto_en": "Wh-what is it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "You called me 'Uesugi-kun' earlier. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Itsuki",
+      "texto_en": "AH!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Futaro",
+      "texto_en": "What happened to your enthusiasm from earlier?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Itsuki",
+      "texto_en": "Ooohh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "As I suspected, you're more interested in taste\\nthan appearance. Once food is in front of you,\\neverything else flies out of your head.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Itsuki",
+      "texto_en": "That's not true!\\nI was just waiting for the right moment.\\nI didn't forget!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Futaro",
+      "texto_en": "Really, now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Itsuki",
+      "texto_en": "REALLY!!!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Nino",
+      "texto_en": "You two over there.\\nYou're being awfully loud again.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Itsuki",
+      "texto_en": "Ah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Futaro",
+      "texto_en": "Ooh...\\nN-no, this is just...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Miku",
+      "texto_en": "Even though you say you don't want to show off \\nbeing a couple, you're pretty oblivious to the fact \\nthat you're flirting in public. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Itsuki",
+      "texto_en": "Sorry...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 84,
+      "personagem": "Ichika",
+      "texto_en": "It's fine, it's fine.\\nIt's only natural to gloat\\nabout something like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 85,
+      "personagem": "Raiha",
+      "texto_en": "But, not in front of so many people.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 86,
+      "personagem": "Itsuki",
+      "texto_en": "Okay...\\nI'll be more mindful of my actions...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 87,
+      "personagem": "Yotsuba",
+      "texto_en": "Now that you're more self-aware,\\nshall we move on to the next place?\\nThere's still a lot to see at Shurijo Castle!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 88,
+      "personagem": "Miku",
+      "texto_en": "Yes.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 89,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 90,
+      "personagem": "Itsuki",
+      "texto_en": "This still doesn't feel right...\\nI need to be more...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 91,
+      "personagem": "Futaro",
+      "texto_en": "Itsuki? You coming?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 92,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, I'm coming now!",
+      "texto_ptbr": ""
+    }
+  ]
+}

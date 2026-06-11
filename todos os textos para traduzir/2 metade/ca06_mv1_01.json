@@ -1,0 +1,462 @@
+{
+  "arquivo": "ca06_mv1_01",
+  "total": 76,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Nino",
+      "texto_en": "I didn't know there was this kind of an event.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Ichika",
+      "texto_en": "Hmm, too bad.\\nIf we had known earlier,\\nwe might have been able to adjust the schedule.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "What posters are the two of you looking at?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Nino",
+      "texto_en": "Ah, Fu-kun!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Nino",
+      "texto_en": "You came to see me after all?\\nHehe, I'm happy.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "It's not like I came to see you on purpose...\\nI was just passing by...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "Hm?\\nYou came to see me, right, Futaro-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Wait a sec...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Ichika",
+      "texto_en": "You're so shy.\\nIt's really cute, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "Geez...\\nAnyway, didn't you say\\nyou were going to the Ryukyu Glass shop, Ichika?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, but just like you,\\nI got interested in the poster Nino was looking at.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Oh, the fireworks festival poster.\\nThe festival is held in mid-April%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Wait, what?! That's too early!\\nIt's still spring, isn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "It's the earliest fireworks festival in Japan.\\nAs expected of Okinawa,\\nthey get a head start on summer before anyone else.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Nino",
+      "texto_en": "The venue is near the beach, so I'm sure\\nthe fireworks would reflect on the sea and\\nlook beautiful. I really wanted to see it if I could.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "But if it's in mid-April,\\nyou'll already be in Tokyo by then,\\nwon't you, Futaro-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, that's right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Ichika",
+      "texto_en": "Then, we'll have to put off watching fireworks together\\nuntil summer.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "I'm planning to go back home for a long vacation,\\nso I think I can make it\\nto the local fireworks festival.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Ichika",
+      "texto_en": "Hey, how about the two of us\\nwatch the fireworks together this year?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Why just the two of us?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "Why?\\n...Do you really want me to say it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "It's not that.\\nIt's just that since we have the chance,\\nwhy don't all six of us go together?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "Hmm, all six of us, huh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Nino",
+      "texto_en": "But, Fu-kun, I think there should be times\\nwhen we watch fireworks, just the two of us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "You only need to see fireworks once to be satisfied,\\nright? Studying is more important than that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "Hmmph.\\nEven though you're being invited by a girl,\\nyou're prioritizing studying.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Well...as a university student,\\nstudying is the most important.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "But, is there another reason behind it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "By the time the fireworks festival comes around...\\nI wonder how we'll be spending this summer.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "I'll pass.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Ichika",
+      "texto_en": "Whaaat? Why?\\nSuch an immediate response really hurts, you know.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Well, you should consider your position.\\nIf an actress was walking with a man,\\npeople would make a big fuss.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Ichika",
+      "texto_en": "Ah, that's what you mean.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Ichika",
+      "texto_en": "I wonder if that's just a front, and actually,\\nthere's someone else you want to walk with...\\ncould that be it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "How about it, Fu-kun?\\nI think there should be times\\nwhen we watch fireworks, just the two of us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "You only need to see fireworks once to be satisfied,\\nright? Studying is more important than that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Ichika",
+      "texto_en": "Hmmph.\\nEven though you're being invited by a girl,\\nyou're prioritizing studying.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "Well...as a university student,\\nstudying is the most important.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Ichika",
+      "texto_en": "But, is there another reason behind it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Nino",
+      "texto_en": "By the time the fireworks festival comes around...\\nI wonder how we'll be spending this summer.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "Shouldn't it be with all five of you?\\nI heard that's a memory of you and your mother.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Ichika",
+      "texto_en": "...Yes, that is true.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Nino",
+      "texto_en": "Of course,\\nwe'll watch them as a group of five.\\nBut there's more than one fireworks festival, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun, I think there should be times\\nwhen we watch fireworks, just the two of us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "You only need to see fireworks once to be satisfied,\\nright? Studying is more important than that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Ichika",
+      "texto_en": "Hmmph.\\nEven though you're being invited by a girl,\\nyou're prioritizing studying.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "Well...as a university student,\\nstudying is the most important.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Ichika",
+      "texto_en": "But, is there another reason behind it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Nino",
+      "texto_en": "By the time the fireworks festival comes around...\\nI wonder how we'll be spending this summer.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "After graduating high school,\\nour lives will all go separate ways. Summer will be\\ncompletely different from what it used to be, huh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Ichika",
+      "texto_en": "I'm sure there will be fewer opportunities\\nfor us all to get together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Nino",
+      "texto_en": "...That's true.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "There may be things that'll change,\\nbut there are things that won't.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "Our relationship has changed a lot\\nsince we first met, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "Yet, the time we've spent together hasn't changed.\\nThat's the reason why we're here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Nino",
+      "texto_en": "It was tough when we went\\nto the fireworks festival together.\\nEveryone got scattered.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, I remember being helped out\\nby Futaro-kun at that time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "Looking back, it's a good memory.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "We don't know how we'll change in the future...\\nbut we'll surely continue to make memories.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Ichika",
+      "texto_en": "Hmm? You'll make memories with us?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Nino",
+      "texto_en": "Hey, Fu-kun.\\nYou'll be coming back for summer vacation, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Nino",
+      "texto_en": "Let's watch fireworks together again!\\nAnd go shopping or go to the beach...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Nino",
+      "texto_en": "There are just so many things I want to do together,\\nso make sure to clear your schedule!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "It's hard to know what the future holds,\\neven if they're talking about summer vacation plans.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Ichika",
+      "texto_en": "Ah, I just had an idea!\\nWhy don't I go to your place, Futaro-kun,\\nand have you show me around Tokyo?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Nino",
+      "texto_en": "HUH?! Hold on, Ichika!\\nI won't allow you to just cut in like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "H-hey, don't just go on assuming things\\nwithout considering my schedule%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Ichika",
+      "texto_en": "Huh?\\nBut I have to go to Tokyo for work sometimes.\\nIsn't it a good idea to have some perks like that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Nino",
+      "texto_en": "Well then, I'll come along too.\\nI could even go every month if I wanted to.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Futaro",
+      "texto_en": "(They're not even listening to me...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "(I have a bad feeling about where this conversation\\n is headed. I should probably step away\\n from this situation for now.)",
+      "texto_ptbr": ""
+    }
+  ]
+}

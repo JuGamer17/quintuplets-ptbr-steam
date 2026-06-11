@@ -1,0 +1,930 @@
+{
+  "arquivo": "ca03_30",
+  "total": 154,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Officiant",
+      "texto_en": "Thank you all very much for waiting!\\nWe will now begin today's couple contest!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Officiant",
+      "texto_en": "Alright, all participants,\\nplease come up to the stage!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "It looks a lot more serious than we imagined?\\nI thought it was going to be a smaller event.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Miku",
+      "texto_en": "Y-yeah,\\nthere are quite a lot of people participating.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "And quite a large audience as well...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Hasty Guy",
+      "texto_en": "Ah! Isn't that her?\\nThe one from team A!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Excited Guy",
+      "texto_en": "WAAA!\\nThat girl is SUPER cute!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Spectator Girl",
+      "texto_en": "Hmmm?\\nI feel like I've seen that girl somewhere before.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Forgetful Girl",
+      "texto_en": "Me too.\\nDoes she look like someone else?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Miku",
+      "texto_en": "Ooohh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Hey, wouldn't it cause a commotion\\nif it's revealed that Ichika\\nis in the audience, in a situation like this?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "Well, she disguised herself earlier with glasses,\\nso I think it's fine...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "(Well, Ichika should know how to behave\\n in this kind of situation, so it should be okay.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "But anyway, what should we do?\\nWe could just slack off and lose right away%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Yotsuba",
+      "texto_en": "U-e-su-gi-saaan!\\nMikuuu! Do your best!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "So, well, since we're being cheered on like that,\\nI guess we can't just lose on purpose now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Miku",
+      "texto_en": "...Okay.\\nAnd, I...told everyone, too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Miku",
+      "texto_en": "That Futaro's mine.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Miku",
+      "texto_en": "So, losing in front of everyone\\nwould be a bit too much.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Okay.\\nSo, let's win.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Officiant",
+      "texto_en": "Alright, then, now I'll explain the rules.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Officiant",
+      "texto_en": "Each team will attempt three games,\\nand if they successfully complete two of them,\\nthey will pass the challenge.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Officiant",
+      "texto_en": "The couples who have passed the challenge\\nand demonstrated the most lovey-dovey attitude\\nwill be voted on by the audience.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Officiant",
+      "texto_en": "The couple who receives the most votes\\nwill be recognized as today's best couple!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Officiant",
+      "texto_en": "The first game is 'Eye Contact for Eternity'!\\nWe'll commence the contest immediately!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Officiant",
+      "texto_en": "Now! As you can see, a special juice is placed\\nbetween the two lovebirds,\\nlying facing each other on the sandy beach!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Miku",
+      "texto_en": "Futaro...\\nThis cup has two straws in it...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "No way...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Officiant",
+      "texto_en": "The couples will have to drink all of this juice\\nwhile looking at each other!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "I knew it...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Officiant",
+      "texto_en": "If you don't drink all the juice in time, you're out.\\nAnd if you lose eye contact with your partner,\\nyou'll be disqualified.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Officiant",
+      "texto_en": "Are you ready?\\nNow, let's START!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "(Oooohh?!\\n When I put the straw in my mouth,\\n Miku's face is so close to mine!!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "(Such close range is indeed...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Miku",
+      "texto_en": "~~~~~!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Officiant",
+      "texto_en": "Oh? What's wrong with Team A?\\nIf you don't drink it quickly,\\nyou'll be disqualified!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Miku",
+      "texto_en": "Nnnnn!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Officiant",
+      "texto_en": "Oh! What vigor!\\nCome on, Mr. Boyfriend, you can't be losing now!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "(I get that, you don't need to say anything!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "NNNNNN!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Miku",
+      "texto_en": "Nn-nnnn...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Miku",
+      "texto_en": "NNNNNN?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "(Miku?!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Miku",
+      "texto_en": "Nn-nnnn...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "(I-I understand how she feels!\\n It's quite embarrassing to stare at each other\\n at such close range! I wanna look away!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "(Then, I've gotta drink it all before Miku looks away!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "Miku, look ONLY at me!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Miku",
+      "texto_en": "Huh, Futaro?\\nYou're gonna drink all of it?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Oo-ooohh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "(My stomach is bloated...\\n That was really close...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Miku",
+      "texto_en": "Futaro, are you alright?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "O-of course! This is nothing!\\nHahahahahaha!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "Great job, Miku!\\nThanks to you not looking away,\\nI was able to finish until the end%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "Oooh!\\nSorry, let me take a break.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Miku",
+      "texto_en": "...You told me...to ONLY look at you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Officiant",
+      "texto_en": "The next game is 'Princess in Arms'!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Officiant",
+      "texto_en": "The men will have to princess carry their partner and hold that\\nposition until time's up! If your partner's body\\ntouches the ground, it's game over.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Miku",
+      "texto_en": "Futaro, don't try too hard.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "N-no!\\nI can definitely do this!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Officiant",
+      "texto_en": "And, START!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "HHNGH!!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Miku",
+      "texto_en": "W-WAWA?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "(A-alright!\\n I can do this!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Miku",
+      "texto_en": "Amazing, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "Ha-hahaha!\\nTh-this, a-ain't, n-nothing!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Miku",
+      "texto_en": "But, don't strain yourself...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "I-I'm not straining myself!\\nJust, a little, more%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "I can't hold it!\\nI'm sorry, I gotta put you down!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "W-WOAH?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Officiant",
+      "texto_en": "Oh, wow!\\nThe boyfriend got his foot caught in the sand and fell down,\\nbut managed to get underneath her in time and protected her from the impact!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Futaro",
+      "texto_en": "Owww...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Miku",
+      "texto_en": "Are you okay, Futaro?!\\nAre you injured?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Futaro",
+      "texto_en": "I-I'm fine.\\nThe impact wasn't as bad as I thought.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Miku",
+      "texto_en": "...Does that mean,\\nyou thought I was heavier than I actually am?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Miku",
+      "texto_en": "You did think that, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Futaro",
+      "texto_en": "No, that's not what I meant!\\nI just meant that I was able to take the fall properly%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Officiant",
+      "texto_en": "Wow, take a look at this!\\nEven after falling, they're still so lovey-dovey!\\nYou guys are such a great couple!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Miku",
+      "texto_en": "HUH?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Officiant",
+      "texto_en": "Unfortunately, you didn't pass this round,\\nbut the venue is full of smiles!\\nThank you for sharing your happiness with us!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Miku",
+      "texto_en": "Auuuhh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 84,
+      "personagem": "Futaro",
+      "texto_en": "(It's one win and one loss so far.\\n The next game is the deciding round.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 85,
+      "personagem": "Officiant",
+      "texto_en": "Finally, it's the last game!\\nThe third game is 'I Love You, Over and Over Again'!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 86,
+      "personagem": "Futaro",
+      "texto_en": "(...This is the most unpleasant title so far.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 87,
+      "personagem": "Officiant",
+      "texto_en": "Both of you will take turns saying 'I love you.'\\nIf you blush or laugh, you lose!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 88,
+      "personagem": "Futaro",
+      "texto_en": "(Just as I suspected!\\n A public love confession?!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 89,
+      "personagem": "Miku",
+      "texto_en": "I-impossible!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 90,
+      "personagem": "Officiant",
+      "texto_en": "Let's get started,\\nhere we gooo!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 91,
+      "personagem": "High-Spirited Guy",
+      "texto_en": "I LOVE you!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 92,
+      "personagem": "Cheerful Girl",
+      "texto_en": "Me too! I love you so much!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 93,
+      "personagem": "Futaro",
+      "texto_en": "(No way...\\n Everyone around us is chanting\\n 'I love you' in chorus...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 94,
+      "personagem": "Miku",
+      "texto_en": "I-... I-...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 95,
+      "personagem": "Futaro",
+      "texto_en": "I-... I, lo%p-2;――%p;!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 96,
+      "personagem": "Miku",
+      "texto_en": "I-... I lo%p-2;――%p;!\\nOoohh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 97,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 98,
+      "personagem": "Miku",
+      "texto_en": "Hey, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 99,
+      "personagem": "Futaro",
+      "texto_en": "Wh-what is it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 100,
+      "personagem": "Miku",
+      "texto_en": "This is like, that time, kinda.\\nAt the school festival...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 101,
+      "personagem": "Futaro",
+      "texto_en": "(...When I confessed.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 102,
+      "personagem": "Miku",
+      "texto_en": "I wanted to convey my feelings to you back then,\\nbut I couldn't put it into words,\\nand ended up crying...causing trouble to you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 103,
+      "personagem": "Futaro",
+      "texto_en": "I wasn't troubled by that.\\nI told you before,\\nI've never been troubled by you, Miku.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 104,
+      "personagem": "Miku",
+      "texto_en": "Yeah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 105,
+      "personagem": "Miku",
+      "texto_en": "I%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 106,
+      "personagem": "Miku",
+      "texto_en": "I like you, now more than I did back then, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 107,
+      "personagem": "Futaro",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 108,
+      "personagem": "Futaro",
+      "texto_en": "M-me, too.\\nI like you...now more than I did back then, too, Miku.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 109,
+      "personagem": "Miku",
+      "texto_en": "I like you more.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 110,
+      "personagem": "Futaro",
+      "texto_en": "No, I do.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 111,
+      "personagem": "Miku",
+      "texto_en": "No, it's me%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 112,
+      "personagem": "Miku",
+      "texto_en": "Teehee!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 113,
+      "personagem": "Futaro",
+      "texto_en": "...Hahaha!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 114,
+      "personagem": "Officiant",
+      "texto_en": "Team A, I'm so sorry!\\nYou've laughed, so you're out!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 115,
+      "personagem": "Officiant",
+      "texto_en": "Thank you for waiting!\\nThe audience votes have been tallied,\\nand now it's time for the results!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 116,
+      "personagem": "Miku",
+      "texto_en": "We won't be chosen, will we?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 117,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, we only cleared one game.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 118,
+      "personagem": "Officiant",
+      "texto_en": "The winner is%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 119,
+      "personagem": "Officiant",
+      "texto_en": "The couple from Teeeam A!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 120,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 121,
+      "personagem": "Miku",
+      "texto_en": "Wh-why...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 122,
+      "personagem": "Officiant",
+      "texto_en": "Alright, you two!\\nCome on up to the front!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 123,
+      "personagem": "Miku",
+      "texto_en": "H-huh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 124,
+      "personagem": "Officiant",
+      "texto_en": "Well-as you can see,\\neven the winners themselves are surprised\\nby this turn of events...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 125,
+      "personagem": "Officiant",
+      "texto_en": "Actually, the two of you were not originally\\nincluded in the voting,\\nbut you clearly deserved the first place!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 126,
+      "personagem": "Officiant",
+      "texto_en": "After conducting a brief evaluation%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 127,
+      "personagem": "Officiant",
+      "texto_en": "When the boyfriend fell, he made himself the cushion,\\nwhich was cool.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 128,
+      "personagem": "Officiant",
+      "texto_en": "Their performance in the last round\\nwas so youthful and dazzling, to the point\\nthe people have decided that there is no one else worthy of first place but them.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 129,
+      "personagem": "Officiant",
+      "texto_en": "We received many such comments,\\nand we have decided to make an exception\\nand declare Team A the winners!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 130,
+      "personagem": "Miku",
+      "texto_en": "I-is that really okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 131,
+      "personagem": "Futaro",
+      "texto_en": "Well, I think it's fine.\\nIt's a festival after all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 132,
+      "personagem": "Officiant",
+      "texto_en": "Now then!\\nAs for the finale of the contest,\\nlet's have the winning couple share a kiss right here!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 133,
+      "personagem": "Futaro",
+      "texto_en": "Eh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 134,
+      "personagem": "Miku",
+      "texto_en": "Eh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 135,
+      "personagem": "Both",
+      "texto_en": "EHHHHHH?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 136,
+      "personagem": "Miku",
+      "texto_en": "A-a kiss? HERE?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 137,
+      "personagem": "Futaro",
+      "texto_en": "N-no one told me you had to kiss!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 138,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?\\nDid I not tell Miku and the others?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 139,
+      "personagem": "Nino",
+      "texto_en": "Yotsuba, didn't you tell them?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 140,
+      "personagem": "Yotsuba",
+      "texto_en": "I thought you did, Nino?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 141,
+      "personagem": "Itsuki",
+      "texto_en": "Well, it seems like everyone just assumed\\nthat someone else had told them...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 142,
+      "personagem": "Miku",
+      "texto_en": "Wh-what're we gonna do?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 143,
+      "personagem": "Miku",
+      "texto_en": "Ah, but wait, didn't you say you wanted\\nto kiss me?\\nSo, how about here and now...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 144,
+      "personagem": "Officiant",
+      "texto_en": "Alright, now just go ahead and do it!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 145,
+      "personagem": "Futaro",
+      "texto_en": "Miku, c'mon!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 146,
+      "personagem": "Miku",
+      "texto_en": "Futaro?! B-but?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 147,
+      "personagem": "Futaro",
+      "texto_en": "Let's get out of here!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 148,
+      "personagem": "Miku",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 149,
+      "personagem": "Officiant",
+      "texto_en": "What the%p-2;――%p;? Hey?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 150,
+      "personagem": "Futaro",
+      "texto_en": "I'm not gonna make a spectacle out of kissing you!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 151,
+      "personagem": "Miku",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 152,
+      "personagem": "Officiant",
+      "texto_en": "They ran away...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 153,
+      "personagem": "Officiant",
+      "texto_en": "Well then,\\nlet's give a big round of applause\\nto the innocent couple!",
+      "texto_ptbr": ""
+    }
+  ]
+}

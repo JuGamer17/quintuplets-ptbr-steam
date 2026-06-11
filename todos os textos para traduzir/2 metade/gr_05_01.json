@@ -1,0 +1,678 @@
+{
+  "arquivo": "gr_05_01",
+  "total": 112,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Ooohh...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "This is the air of Okinawa!\\nThis is it! The tropics!!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Ichika",
+      "texto_en": "Wow, you're really excited.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Yotsuba",
+      "texto_en": "You've been like that since the plane landed.\\nYour excitement is off the charts.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Nino",
+      "texto_en": "You're so loud.\\nPeople around us are looking at us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Sorry!\\nBut it's completely different from mainland Japan!\\nI can't believe it's the same country!!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "I said, you're being too loud!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Raiha",
+      "texto_en": "I'm sorry big bro is acting like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Miku",
+      "texto_en": "You don't have to apologize, Raiha-chan.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "Well, it is what it is.\\nBeing kind of cheesy or maybe a little childish.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "I can understand the feeling, though.\\nIt's like we've come to an extraordinary place.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Raiha",
+      "texto_en": "Yeah, it's so exciting!\\nThank you for bringing us here!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "No problem.\\nLet's all enjoy Okinawa together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Oh, I'm glad you made it here safely.\\nYou passed the exams too!\\nWe're officially on our graduation trip!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "It's because of you.\\nThanks, Futaro-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Miku",
+      "texto_en": "You worked hard too, Ichika.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah!\\nIt's amazing that you managed\\nto balance out both work and academics.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Ichika",
+      "texto_en": "Oh? It looks like I've become an even better big sister.\\nHehe, you could praise me more, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Nino",
+      "texto_en": "Don't get carried away.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "Okay, let's first confirm the travel plan.\\nI don't think we've explained it\\nto Fu-kun and Raiha-chan yet.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Ichika",
+      "texto_en": "That's right.\\nLet's see...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "Here, Futaro-kun.\\nAnd also, one for Raiha-chan.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Oh? Did you make an itinerary for us?\\nYou're really into this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Ichika",
+      "texto_en": "Ahaha, I made it on a whim.\\nThere's a rough schedule on the first page.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Ichika",
+      "texto_en": "The trip is for six days.\\nBut since the first day is today and the last day\\nis for going back, it's really four days.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "Tomorrow, we'll start with the classic Shurijo Castle.\\nThen we'll head to the international street, Kokusai dori\\nand Mihama American Village.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "On the third day, we'll go to\\nOkinawa Churaumi Aquarium and Ocean Expo Park.\\nThen we'll enjoy some ocean activities!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Ichika",
+      "texto_en": "On the fourth day, we'll head to the south of Okinawa.\\nWe'll visit Okinawa World and the surrounding area.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "On the last day, we'll enjoy the Okinawa ocean again\\nand finish with a barbecue.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Raiha",
+      "texto_en": "Wow, we're going all over the place!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Ichika",
+      "texto_en": "We actually narrowed it down quite a bit, you know?\\nThere are so many places to go in Okinawa\\nthat it was really difficult to decide.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Hmmm, I think it's good.\\nWe'll be getting the best of Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "So, we're not going anywhere else today, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Ichika",
+      "texto_en": "We aren't.\\nLet's check in at the hotel and have dinner.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "Shall we confirm the itinerary for our trip?\\nWe haven't explained it\\nto Uesugi-kun and Raiha-chan yet.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Nino",
+      "texto_en": "You're right.\\nOkay...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Nino",
+      "texto_en": "Here, for you, Futaro.\\nAnd one for Raiha-chan too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Oh? Did you make an itinerary for us?\\nWow, you're on the ball.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Nino",
+      "texto_en": "I wrote the schedule in my notebook\\nand just put it together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Nino",
+      "texto_en": "The trip is planned for six days, but it's really only four.\\nThe first day is arriving at Okinawa,\\nand the last day is for going back.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Nino",
+      "texto_en": "Tomorrow, we'll spend the day\\nsightseeing on Kouri Island.\\nThe next day, we'll go to the beach and have a barbecue.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Nino",
+      "texto_en": "On the fourth day, we'll visit Shurijo Castle\\nand then head to Kokusai dori\\nand Mihama American Village.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Nino",
+      "texto_en": "On the fifth day,\\nwe'll go to the Okinawa Churaumi Aquarium\\nand the Ocean Expo Park.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "Wow, we're going all over the place.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Nino",
+      "texto_en": "I had a hard time deciding on this itinerary.\\nIf we want to enjoy all of Okinawa,\\nfour days isn't enough.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "So, we're not going anywhere else today, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Ichika",
+      "texto_en": "We aren't.\\nLet's check in at the hotel and have dinner.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Nino",
+      "texto_en": "Okay, let's first confirm the travel plan.\\nI don't think we've explained it\\nto Fu-kun and Raiha-chan yet.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Miku",
+      "texto_en": "Ah, yeah, that's right.\\nUmm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Miku",
+      "texto_en": "Futaro, here.\\nOne for you too, Raiha-chan.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Raiha",
+      "texto_en": "Wow! A travel guide!\\nYou made it for us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "You're really pumped up.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Miku",
+      "texto_en": "I-I guess.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Miku",
+      "texto_en": "Um, the itinerary is for six days,\\nbut actually, we're only here for four days.\\nWe'll be traveling by plane on the first and last day.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Miku",
+      "texto_en": "Tomorrow, we'll first go to Shurijo Castle.\\nThen the plan\\nis to go to the Okinawa Prefectural Museum.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Miku",
+      "texto_en": "On the third day, we will see castle ruins\\nand places like the Valley of Gangala.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "Oh! Isn't that the place I said I wanted to see?\\nYou actually included it in the plan.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Miku",
+      "texto_en": "Yeah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Miku",
+      "texto_en": "On the fourth day, we'll visit the international street, Kokusai dori.\\nAfter that, we'll have fun at the beach.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Miku",
+      "texto_en": "On the last day, we'll go to Ocean Expo Park.\\nWe'll finish our trip\\nby seeing places like Churaumi Aquarium.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "Hmmm, impressive!\\nIt's a well-planned trip, and we'll get to\\nexperience all of the quintessential Okinawan places.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Miku",
+      "texto_en": "...Yes, thank you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Raiha",
+      "texto_en": "? Miku-san?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Miku",
+      "texto_en": "What, Raiha-chan?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Raiha",
+      "texto_en": "Ah, it's nothing.\\nThank you for the wonderful plan.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "So, we're not going anywhere else today, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Ichika",
+      "texto_en": "We aren't.\\nLet's check in at the hotel and have dinner.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Itsuki",
+      "texto_en": "Shall we confirm the itinerary for our trip?\\nWe haven't explained it\\nto Uesugi-kun and Raiha-chan yet.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, right!\\nWell then...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Yotsuba",
+      "texto_en": "Here you go!\\nThis is the travel guide for this trip!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "Woah, you went so far as to prepare this.\\nYou're really pumped up.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Yotsuba",
+      "texto_en": "Heehee.\\nWell, please take a look at the first page.\\nThis gives you an overview of the entire trip.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Yotsuba",
+      "texto_en": "The itinerary is for six days, but in reality,\\nit'll only be four days. On the first and last day,\\nwe'll be traveling by plane. So, for tomorrow...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Yotsuba",
+      "texto_en": "Let's start by playing in the sea to our\\nheart's content! You know, when it comes to\\nOkinawa, it's all about the emerald green sea!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Yotsuba",
+      "texto_en": "The next day is the international street, Kokusai dori.\\nFrom there, we'll move on to Ocean Expo Park.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Yotsuba",
+      "texto_en": "That's where \\nthe Okinawa Churaumi Aquarium is.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Yotsuba",
+      "texto_en": "On the third day, we'll visit Shurijo Castle!\\nThis is a must-see! Then, we'll head to the\\nOkinawa Prefectural Museum to learn more about Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Yotsuba",
+      "texto_en": "On the last day, we'll spend the day enjoying\\nthe area around Mihama American Village.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Yotsuba",
+      "texto_en": "That's about it.\\nWhat do you think?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Raiha",
+      "texto_en": "Wow, this itinerary is packed with so much stuff!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Futaro",
+      "texto_en": "Just looking at it makes me excited.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Yotsuba",
+      "texto_en": "Hehehe, I'm honored by your kind words.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Futaro",
+      "texto_en": "So, we're not going anywhere else today, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Ichika",
+      "texto_en": "Nope.\\nLet's check in at the hotel and have dinner.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 84,
+      "personagem": "Nino",
+      "texto_en": "Okay, let's first confirm the travel plan.\\nI don't think we've explained it\\nto Fu-kun and Raiha-chan yet.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 85,
+      "personagem": "Itsuki",
+      "texto_en": "Understood.\\nWell then...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 86,
+      "personagem": "Itsuki",
+      "texto_en": "Here you are.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 87,
+      "personagem": "Raiha",
+      "texto_en": "Wow! Is this a travel guide?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 88,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, I made it on a whim.\\nThough, I feel a little embarrassed\\nbecause it looks like I got a little too excited.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 89,
+      "personagem": "Futaro",
+      "texto_en": "No, I think it's easy to understand.\\nIt's helpful for us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 90,
+      "personagem": "Itsuki",
+      "texto_en": "O-oh, really? Well, then let me explain it to you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 91,
+      "personagem": "Itsuki",
+      "texto_en": "The trip is for six days, but we can use\\nonly four days for sightseeing. The first and last days\\nare for traveling only.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 92,
+      "personagem": "Itsuki",
+      "texto_en": "Tomorrow, we will first go to a place called\\nSenagajima Umikaji Terrace.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 93,
+      "personagem": "Itsuki",
+      "texto_en": "After that, we will visit Shurijo Castle\\nand go sightseeing at the international street, Kokusai dori.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 94,
+      "personagem": "Itsuki",
+      "texto_en": "On the third day, we'll spend the entire day swimming.\\nBecause you can't say Okinawa without thinking \\nof the beautiful ocean, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 95,
+      "personagem": "Itsuki",
+      "texto_en": "On the fourth day, we will go to Ocean Expo Park.\\nThe Churaumi Aquarium here is particularly famous.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 96,
+      "personagem": "Itsuki",
+      "texto_en": "After that, we will head to Mihama American Village.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 97,
+      "personagem": "Itsuki",
+      "texto_en": "On the last day, we will visit Okinawa World\\nand other nearby sightseeing spots to end the trip.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 98,
+      "personagem": "Futaro",
+      "texto_en": "Wow, there are famous places\\nand places I don't really even know. This is going to be fun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 99,
+      "personagem": "Itsuki",
+      "texto_en": "There are just so many places to see,\\nthat it was difficult to narrow it all down.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 100,
+      "personagem": "Futaro",
+      "texto_en": "So, we're not going anywhere else today, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 101,
+      "personagem": "Ichika",
+      "texto_en": "We aren't.\\nShall we check in at the hotel and have dinner?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 102,
+      "personagem": "Yotsuba",
+      "texto_en": "Okay then, let's take a taxi%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 103,
+      "personagem": "Futaro",
+      "texto_en": "No, no! We should enjoy the view!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 104,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 105,
+      "personagem": "Futaro",
+      "texto_en": "Since we came to Okinawa, let's take the Yui Rail!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 106,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, yes. That's a good idea,\\nconsidering we're here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 107,
+      "personagem": "Itsuki",
+      "texto_en": "However, if we're going to take the Yui Rail,\\nthis isn't the exit we should use.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 108,
+      "personagem": "Futaro",
+      "texto_en": "What?!\\nOh no, we're stumbling right off the bat!\\nLet's hurry up!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 109,
+      "personagem": "Miku",
+      "texto_en": "There's no need to hurry.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 110,
+      "personagem": "Nino",
+      "texto_en": "You're really excited.\\nI hope you can calm down a little\\nwhile we're on the monorail.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 111,
+      "personagem": "Raiha",
+      "texto_en": "Sorry, but my big bro is always like that.",
+      "texto_ptbr": ""
+    }
+  ]
+}

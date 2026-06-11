@@ -1,0 +1,510 @@
+{
+  "arquivo": "gr_06_02",
+  "total": 84,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Hey, I'm here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Miku",
+      "texto_en": "Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Nino",
+      "texto_en": "Welcome, Fu-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Yotsuba",
+      "texto_en": "Please come in!\\nIt's been a while since you came to visit, Uesugi-san.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Visit, you say.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "I've never come here just to visit.\\nI came to do my job as a private tutor.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "Even so, it's been a while, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "...You've already graduated\\nand finished your entrance exam preparations.\\nThere's no need for me to come.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Ichika",
+      "texto_en": "Well, thanks to you, we managed to get through it all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "But wait, you still don't know yet, do you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Ichika",
+      "texto_en": "No, but it's basically decided, right? \\nYou took care of us, after all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Itsuki",
+      "texto_en": "If you pass the special exam that's coming up,\\nyou'll graduate, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "Yeah. I was treated as being on a leave of absence,\\nbut it was a special measure.\\nThe school was considerate in many ways.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "But if you fail, you'll be held back without mercy.\\nBe aware that the situation\\ndoesn't allow for any complacency.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "Okaaay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "You're coming all the way to the office\\nto work as a private tutor,\\nso we can't waste any time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "Why don't we just do it at our place\\ninstead of the office?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "...It'd be hard to concentrate on studying\\nwith just Ichika here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "Is that so?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san, as long as you're here, it'll be fine!\\nAfter all, I was able to get into university\\nthanks to you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Itsuki",
+      "texto_en": "I also got into the school I wanted to\\nthanks to Uesugi-kun.\\nI'm sure you'll be fine too, Ichika.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Yotsuba",
+      "texto_en": "And Uesugi-san himself has passed with flying colors.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "That's right. Fu-kun is going to a university in Tokyo,\\nso he won't be here anymore.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Miku",
+      "texto_en": "Nino and I are going to a culinary school,\\nso it's finally time for our new lives to begin.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Itsuki",
+      "texto_en": "We'll each be moving in different directions\\nand building new relationships in new places.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "(A new life and new relationships are about to begin.\\n But our relationship hasn't progressed at all.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "(As I devoted myself to studying for the entrance exams\\n at the beginning of the year,\\n emotions began to swell up inside me.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "(Can I really keep going like this?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "I really love you five.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "I hope we can stay in this same relationship forever,\\nthe six of us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "(But can we really \\n 'stay in this same relationship forever'?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun, I'll speak my mind here without hesitation.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "Not giving us an answer is the same as running away.\\nThat's the only way I can feel about it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "(Wasn't it just as Itsuki said?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "(If I'm the only one going to Tokyo\\n while leaving their respective feelings hanging\\n like this, it's like I'm running away, isn't it?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "(I had decided not to choose anyone, but%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "(As a man, I've just got to come up with an answer.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "(That's why I came here today.\\n But, how should I bring it up...?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah, what is it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "So, what's the purpose of your visit today?\\nIt seemed like there was something important\\nyou wanted to talk about.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Ichika",
+      "texto_en": "You chose a time when I could get away from work,\\nas you wanted me to be here as well, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "Yeah.\\nSorry, it's just that I'm busy with studying.\\nI really wanted to talk when everyone was together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Nino",
+      "texto_en": "Hmmm.\\nIt seems like a pretty important topic.\\nLet's hear it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "Well, it's about spring break.\\nI want the six of us to go on a graduation trip together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Miku",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "(And, I want to make this graduation trip a stage\\n to give them an answer%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "(Of course, if I'm refused,\\n I have to think of another way.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "We don't know if Ichika will graduate yet,\\nbut if it works for you guys, how about it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "What's with that reaction?\\nIs it such a shocking proposal?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "Ah, look, I know I'm not the kind of person\\nwho says these kinds of things!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, no, it's not like that! I was just surprised!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Miku",
+      "texto_en": "We were also thinking the same thing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "Huh? Really?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Nino",
+      "texto_en": "I was planning on proposing the idea\\nafter I heard what you wanted to talk about today.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "What do you mean by that...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Ichika",
+      "texto_en": "Well, there's no deep meaning to it.\\nIf anything, it's about making memories, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Yotsuba",
+      "texto_en": "Making time for the six of us in the future\\nis going to be difficult,\\nso let's make lots of fun memories here!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "I see...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Itsuki",
+      "texto_en": "What about you?\\nWhat were you thinking\\nwhen you suggested a graduation trip?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "N-nothing in particular!\\nI was also thinking about making one last memory!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Itsuki",
+      "texto_en": "...Is that so?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, it's decided then!\\nWow, that was quick. What a relief.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Miku",
+      "texto_en": "We were thinking about going to Okinawa,\\nis that okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "Okinawa?\\nI think it's a good place, but...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Miku",
+      "texto_en": "Is there a problem?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "The travel fees. To be honest, they'll be tough.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Ichika",
+      "texto_en": "Hmm, I see.\\nWell, I guess we can split the bill.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Itsuki",
+      "texto_en": "Our father will arrange the accommodations, though.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Futaro",
+      "texto_en": "Huh?\\nSo you've already gotten your father's permission?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Nino",
+      "texto_en": "Yep, that's right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "...You seem to be oddly prepared.\\nWhat were you going to do if I refused?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Nino",
+      "texto_en": "We would have dealt with it.\\nYou don't need to worry about the details.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Yotsuba",
+      "texto_en": "We'll decide on all the details. On the day\\nof the trip, just bring some clothes\\nand other necessities. Okay, Uesugi-san?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Futaro",
+      "texto_en": "Got it... Thanks.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Yotsuba",
+      "texto_en": "Leave it to us!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Futaro",
+      "texto_en": "(The graduation trip has been decided,\\n but what is this strange discomfort?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Futaro",
+      "texto_en": "(No, I shouldn't be thinking\\n about unnecessary things right now.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Futaro",
+      "texto_en": "(The stage is set. However,\\n the words that I should declare to them\\n on said stage remain unclear.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Futaro",
+      "texto_en": "(Before this graduation trip...\\n I have to find the answer to this difficult question%p-2;――%p;)",
+      "texto_ptbr": ""
+    }
+  ]
+}

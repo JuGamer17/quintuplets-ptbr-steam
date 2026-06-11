@@ -1,0 +1,384 @@
+{
+  "arquivo": "ca01_mv5_02",
+  "total": 63,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "What's up?\\nYou're spacing out while staring at the sea.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "Well, the sea is really beautiful.\\nI could look at it forever.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Yotsuba",
+      "texto_en": "It's sparkling like jewels.\\nAs expected of the sea in Okinawa!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "I've heard of a saying that the sea in Okinawa is so beautiful,\\na color was named after it%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Seeing it in person, I can definitely understand why.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "A color named after the sea?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, it seems to be named after the place name.\\nIt's surprising that even in Okinawa,\\nthere are such differences.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "When I hear that kind of story,\\nI want to go to various seas around the world.\\nI wonder what colors there are.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "The famous ones are Kerama Blue\\nand Hateruma Blue, I think.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, I've heard of Hateruma Blue before.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Yotsuba",
+      "texto_en": "It refers to Hateruma Island, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, that's right.\\nAnd Kerama refers to Kerama Island.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "I'd like to see Hateruma Blue.\\nCan't we go there this time?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "I wonder.\\nHateruma Island is Japan's southernmost\\ninhabited island, so it might be far.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "The southernmost point...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Yotsuba",
+      "texto_en": "That's right, it's really far.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Yotsuba",
+      "texto_en": "I found out about it when I was planning my trip,\\nbut Hateruma Island is quite far from Naha.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "Okinawa is bigger than I thought.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "It might be a difficult journey,\\nbut it'll be even more impressive\\nto see Hateruma Blue.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "I've been curious too,\\nso I was thinking of putting it\\non my list of places to visit.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Yotsuba",
+      "texto_en": "It seems you can only go by boat.\\nIf the sea is rough, there's nothing we can do.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Itsuki",
+      "texto_en": "That's a shame.\\nI really wanted to go.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Well, it can't be helped.\\nIt's hard to fit it into our busy schedule.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, depending on the condition of the sea,\\nit's possible that we won't be able to\\ntravel there for weeks on end.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "Hateruma Blue...\\nI'd like to see its beauty with my own eyes someday.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "It reminds me of last summer...\\nHearing about sea conditions.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahaha...\\nWe were stranded on the island\\nbecause the sea was so rough.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "That's right.\\nI seriously thought,\\n'what's going to happen to us?'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "If we had made one mistake,\\nit would have been a serious situation.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Yotsuba",
+      "texto_en": "But, thanks to Uesugi-san,\\nit became a really good memory.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, an unforgettable, and precious, memory.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "It's something to look forward to next time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "That's right.\\nNext time, we could visit Okinawa for the sole purpose \\nof going to Hateruma island.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, then, let's aim to go this summer!\\nLet's start planning right away!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Hey, hey, hold on a minute.\\nYou're jumping the gun a bit, aren't you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Yotsuba",
+      "texto_en": "But if we plan it now,\\nit will definitely turn out to be a wonderful trip!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Yotsuba",
+      "texto_en": "If we decide on a schedule in advance,\\nwe can also make the trip longer, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Yotsuba",
+      "texto_en": "The longer we stay in Okinawa,\\nthe more chances we have to visit Hateruma Island.\\nLet's plan to stay for a whole month!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "A whole month is a bit long...\\nI think it's difficult to adjust the schedule\\neven if we start now, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Well, a month might be too long,\\nbut if we make a promise for the next trip,\\nwe can travel like this again.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "What's wrong? Are you okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, I'm just a little surprised.\\nI never thought I would hear such words from you,\\nUesugi-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "But, I agree.\\nMaking a promise for the next trip so we can\\nall come together again...it's a wonderful thing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Itsuki",
+      "texto_en": "Still, for now, why don't we enjoy\\nthe ocean in front of us?\\nWe can talk about the next trip at the hotel.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, you're right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah.\\nWe've been quiet for a while.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "Yeah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Itsuki",
+      "texto_en": "It's funny how sometimes you feel like\\nit's a waste to talk.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "Ah! It's that I don't want to talk\\nto you two or anything like that!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Yotsuba",
+      "texto_en": "Don't worry!\\nI sort of understand what you're trying to say.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Yotsuba",
+      "texto_en": "Today, the weather is great. If the weather\\nhad been bad, we wouldn't have been able to see\\nsuch a beautiful ocean.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Itsuki",
+      "texto_en": "The sea...\\nNature is truly mysterious.\\nIt can show such a beautiful sight%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Itsuki",
+      "texto_en": "And then suddenly,\\nit can become so rough that ships can't sail.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Yotsuba",
+      "texto_en": "You never know what the ocean's thinking.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "Well, dealing with nature\\nhas always been difficult, no matter the era.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Itsuki",
+      "texto_en": "That's probably why it's beautiful.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Yotsuba",
+      "texto_en": "That's right!\\nNext time we come to Okinawa, let's pray to the ocean\\nso that it will be nice and sunny.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Itsuki",
+      "texto_en": "Teehee, that's a good idea.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "I hope our prayers reach it.",
+      "texto_ptbr": ""
+    }
+  ]
+}

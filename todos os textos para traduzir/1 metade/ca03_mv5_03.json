@@ -1,0 +1,216 @@
+{
+  "arquivo": "ca03_mv5_03",
+  "total": 35,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Nino",
+      "texto_en": "Hey, Raiha-chan, don't you think\\nthis would look good on you?\\nIt's a bingata hair scrunchie.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Raiha",
+      "texto_en": "Wow, it's cute! It has a really Okinawan feel to it,\\nso it might be good. What do you think, Miku-san?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Miku",
+      "texto_en": "I think it would also%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Miku",
+      "texto_en": "Ah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Raiha",
+      "texto_en": "What's the matter?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Miku",
+      "texto_en": "I-I was thinking of checking out another store.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "That so?\\nWell then, I want to look\\nfor some Okinawan limited edition cosmetics.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Miku",
+      "texto_en": "No, you two stay here.\\nSee ya.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "...What's going on?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Raiha",
+      "texto_en": "I wonder?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Haah, haah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Raiha",
+      "texto_en": "Big bro?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Miku was here, wasn't she?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Raiha",
+      "texto_en": "She was, but she went somewhere.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "I see...\\nThanks, then%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "Wait a sec.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "I wonder if Miku ran away\\nafter seeing Fu-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "...Why would she run away?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Raiha",
+      "texto_en": "I think that's your fault, big bro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "It's because of the way you charged at her\\nwith such a desperate look on your face.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Ooh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "So?\\nWhy are you chasing after her with that kind of look?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "I don't mean anything strange.\\nI just want to talk to Miku.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "Hmmm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Nino",
+      "texto_en": "Well, you're trying your best in your own way, Fu-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Raiha",
+      "texto_en": "Big bro,\\nhave you still not reconciled with Miku-san?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "...It's okay, we'll make up soon.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "Really? Can you actually pull that off?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "I should be able to.\\nAs long as I don't skimp on effort.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "(Yesterday, I was negligent in that regard.\\n I have to admit that it led to this situation.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun, you're really something\\nin times like these...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "I'm sorry for causing both of you worry.\\nI'll be heading out now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun.\\nDon't be approaching her with that scary face,\\nlike earlier.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "I understand.\\nIf you see Miku, please let me know.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Nino",
+      "texto_en": "Sure. You do your best too.",
+      "texto_ptbr": ""
+    }
+  ]
+}

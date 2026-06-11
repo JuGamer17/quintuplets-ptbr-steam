@@ -1,0 +1,510 @@
+{
+  "arquivo": "ca06_15",
+  "total": 84,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Yotsuba",
+      "texto_en": "Itsuki, I found you!\\nI was looking for you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "Yotsuba?\\n...Are you alone?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah.\\nI wanted to talk with you, Itsuki.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "Huh? What is it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Yotsuba",
+      "texto_en": "Why did you suddenly suggest\\nwe play the quintuplets game?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "Well... As a test for Uesugi-kun...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Yotsuba",
+      "texto_en": "Is that really it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Yotsuba",
+      "texto_en": "I'm just guessing, but could it \\nhave something to do with me?\\n...About what happened in Kyoto?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "Yes.\\nIt's just as you guessed.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Yotsuba",
+      "texto_en": "I knew it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "But also, testing Uesugi-kun was my true intention.\\nI thought it was necessary\\nto correct his indecisiveness.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "However, if we do it in this way...\\nIt might also make it easier\\nfor you to talk about the past...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "Yotsuba.\\nFor your sake, too%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "I want Uesugi-kun to know\\nthat the child he met in Kyoto six years ago\\nwas you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "Thank you.\\nYou were really thinking about me that much, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Yotsuba",
+      "texto_en": "But, that's okay now.\\nI've decided not to rely on past memories anymore.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Itsuki",
+      "texto_en": "But!\\nIs it really okay to leave it like that?\\nThis might be the last chance you have, you know?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Yotsuba",
+      "texto_en": "Itsuki...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Itsuki",
+      "texto_en": "...With this game, all of us are equal.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "Nino, Miku, and Ichika too.\\nIf everyone else is looking for an answer\\nfrom Uesugi-kun%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Itsuki",
+      "texto_en": "You deserve the same opportunity. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "Even though you say\\nyou don't rely on memories of the past,\\nyou still think about him...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Yotsuba",
+      "texto_en": "I'm sorry.\\nI always make you play the difficult roles, Itsuki.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Yotsuba",
+      "texto_en": "It's all because I got you involved in my past.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "Don't mind me!\\nRight now, it's about you%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Yotsuba",
+      "texto_en": "However, you might be misunderstanding things a bit.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "...What do you mean?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Yotsuba",
+      "texto_en": "Right now, I like Uesugi-san,\\nregardless of the past or anything else.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Yotsuba",
+      "texto_en": "That's why I won't rely on the past anymore.\\nI want you to understand that too, Itsuki.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "That's...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Yotsuba",
+      "texto_en": "You don't have to worry about me anymore.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Yotsuba",
+      "texto_en": "A lot happened at the school festival, didn't it?\\nThat was when I took a step forward too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Yotsuba",
+      "texto_en": "What's important is now, not the past.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Yotsuba",
+      "texto_en": "I moved forward, forever not relying on my memories\\nof the past, to find my own value in the present.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "What's important, is now...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah. Since then,\\nI've been interacting with Uesugi-san as who I am now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Yotsuba",
+      "texto_en": "So, I thought about it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Yotsuba",
+      "texto_en": "I realized,\\nI really do like him...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Yotsuba",
+      "texto_en": "So%p-2;―――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Yotsuba",
+      "texto_en": "I know it's probably impossible,\\nbut if Uesugi-san were to choose me...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "Yotsuba, you...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "(For Yotsuba,\\n the past is no longer something to cling to.\\n And yet, why am I the only one, who...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Yotsuba",
+      "texto_en": "Hey, Itsuki. I want you to think carefully\\nabout your own feelings too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "Huh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Yotsuba",
+      "texto_en": "You said it yourself, didn't you?\\nIn this quintuplets game, everyone is equal.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Yotsuba",
+      "texto_en": "If Uesugi-san chose you, Itsuki,\\nhow would you respond?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Itsuki",
+      "texto_en": "W-well...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Yotsuba",
+      "texto_en": "Right? You've gotta think about that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Itsuki",
+      "texto_en": "(That's something I was forced to think about\\n during the school festival.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Itsuki",
+      "texto_en": "(But in the end, Uesugi-kun didn't choose anyone,\\n and disregarded my...or rather, our resolve.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Itsuki",
+      "texto_en": "(We naturally felt indignant at that answer.\\n We felt indignant, but...\\n somewhere deep in my heart, I...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Itsuki",
+      "texto_en": "(...So, that's how I truly felt.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Itsuki",
+      "texto_en": "(I was scared. I, who couldn't even muster\\n the same resolve as everyone else,\\n if by some chance I were chosen...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Itsuki",
+      "texto_en": "(For me to be chosen, means that none of the others\\n will be chosen.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Itsuki",
+      "texto_en": "(I probably wanted to run away from there...\\n using the peace of my sisters and Yotsuba\\n as an excuse...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Itsuki",
+      "texto_en": "(While demanding resolve from him,\\n I refused to have any resolve of my own...\\n and even vented my frustration onto him.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Itsuki",
+      "texto_en": "(Those words at that time\\n were words meant for myself...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Yotsuba",
+      "texto_en": "Itsuki? Are you alright?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Itsuki",
+      "texto_en": "...I also need to make up my mind.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, that's right. For everyone's sake.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Itsuki",
+      "texto_en": "Making up one's mind is such a frightening thing...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, it takes a lot of courage, doesn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Itsuki",
+      "texto_en": "I was so awful to Uesugi-kun.\\nI need to apologize to him...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Yotsuba",
+      "texto_en": "...It's strange, isn't it?\\nWhen you fall in love,\\neven your own feelings become uncontrollable.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Itsuki",
+      "texto_en": "W-well, it's not exactly love...\\nI haven't even sorted out my own feelings yet...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Yotsuba",
+      "texto_en": "Let's think it through.\\nWe still have a little time left.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Itsuki",
+      "texto_en": "That's true...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Itsuki",
+      "texto_en": "Yotsuba, I'm sorry.\\nI made you worry unnecessarily.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Yotsuba",
+      "texto_en": "It's okay, it's okay.\\nLittle sisters\\nare supposed to trouble their big sisters.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Yotsuba",
+      "texto_en": "If anything, I should be the one apologizing.\\nI caused you so much trouble, Itsuki...\\nI'm sorry. Even though I'm your big sister.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Itsuki",
+      "texto_en": "It's totally fine.\\nUs little sisters too,\\nwe want to support our big sisters.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Yotsuba",
+      "texto_en": "Hehe. It's a give-and-take relationship, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Itsuki",
+      "texto_en": "That's...how we do things as sisters, after all.",
+      "texto_ptbr": ""
+    }
+  ]
+}

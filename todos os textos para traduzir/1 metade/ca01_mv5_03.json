@@ -1,0 +1,474 @@
+{
+  "arquivo": "ca01_mv5_03",
+  "total": 78,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(Oh?\\n Is that Nino and Miku\\n resting by those chairs over there?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "*sigh*\\nWhile doing activities is great,\\nI also need time to relax when I'm at the beach.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Miku",
+      "texto_en": "I think I prefer to relax at the beach too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Yo, you guys look very relaxed.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Nino",
+      "texto_en": "Oh, hi Fu-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "Yeah, I don't feel like moving, \\nI'm in a VERY relaxed state right now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "Should we just spend our whole lives here,\\nlooking at the sea?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Well, that's a bit too relaxing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "It's important to feel relaxed but,\\nhave you been drinking enough water?\\nWe've been moving around quite a bit, so be careful.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "Now that you mention it,\\nI haven't been drinking enough.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Miku",
+      "texto_en": "I'm feeling a little thirsty,\\nbut I don't want to move.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Jeez.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "Sooo, can you get us some drinks, Fu-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Why me? Go get 'em yourself.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Miku",
+      "texto_en": "If you don't do something, \\nwe are going to be severely dehydrated.\\nAre you okay with that, Futaro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "If you're so lazy you can't even buy yourself a drink,\\nit's your own fault if you get dehydrated!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "Wha?\\nYou're so cold, Fu-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "Well, I guess we'll decide over rock-paper-scissors\\nand the loser has to go buy the drinks.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "Agreed.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "You just really don't want to go by yourself huh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "That's not true, you know?\\nIf I lose, I'll gladly go.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Fine then, I guess that's fair.\\nI'll accept the challenge.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Here we go.\\nRock, paper%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Both",
+      "texto_en": "Scissors!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Nino",
+      "texto_en": "Okay, you lose, Fu-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "...How many rounds are we doing?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Miku",
+      "texto_en": "Don't be a sore loser.\\nYou lost already, Futaro, so just go buy the drinks.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "See you in a bit.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "Kkh....\\nFine, the results are the results.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Here, I bought the drinks.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Miku",
+      "texto_en": "Appreciate it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Nino",
+      "texto_en": "Thank you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "You didn't have any specific requests,\\nso I just picked drinks that seemed Okinawa-ish.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Nino",
+      "texto_en": "Okinawa-ish?\\nIt's hard to tell just from the color.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "This one is 'shikuwasa' citrus fruit flavour.\\nThere's also a passionfruit, a dragonfruit,\\nand a mango flavoured one.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Miku",
+      "texto_en": "Isn't shikuwasa the only Okinawa-ish one?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Don't complain.\\nAt least I picked all tropical fruit flavoured ones.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "But, I think they're pretty good choices.\\nI'm not sure which one to pick.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Miku",
+      "texto_en": "Mmmhh...\\nThey all look delicious.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Both",
+      "texto_en": "Hmmm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "(You're having trouble deciding that much?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Hurry up and pick something.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Miku",
+      "texto_en": "Futaro, don't rush me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "But, If you take too long,\\nit'll get lukewarm.\\nIt tastes better when it's cold.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Nino",
+      "texto_en": "Okay, okay, got it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Nino",
+      "texto_en": "I've decided.\\nI'm in the mood for some shikuwasa juice.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Miku",
+      "texto_en": "Then I'll have the passion and dragon fruit.\\nI have no idea what it'll taste like.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "Okay, so that leaves the mango for me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "It's hard to choose.\\nI narrowed it down to these three\\nafter thinking about it for a while.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "I should have asked you guys\\nwhat you wanted before going to buy them.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Nino",
+      "texto_en": "If you had asked me first,\\nI think you would've still had a hard time deciding.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Miku",
+      "texto_en": "I bet you still wouldn't even have gone\\nto buy the juice yet.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "I can just picture the situation...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Nino",
+      "texto_en": "I've decided.\\nI'm in the mood for some shikuwasa juice.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Miku",
+      "texto_en": "Then I'll have the passion and dragon fruit.\\nI have no idea what it'll taste like.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "Okay, so that leaves the mango for me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "Should I have gotten other flavors?\\nThere was also a berry mix.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "I want everyone to like the flavors I picked,\\nsince I went all that way.\\nOtherwise, it would be a waste of my effort.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Nino",
+      "texto_en": "Oh, come on, if there were more choices,\\nit would be even harder to decide.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Miku",
+      "texto_en": "I wouldn't be able to decide.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "Even with just these three flavors it's hard, eh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Nino",
+      "texto_en": "But don't worry.\\nFu-kun chose them, so they should all taste good.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Miku",
+      "texto_en": "That's right, I trust your instincts, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Nino",
+      "texto_en": "I've decided.\\nI'm in the mood for some shikuwasa juice.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Miku",
+      "texto_en": "Then I'll have the passion and dragon fruit.\\nI have no idea what it'll taste like.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "Okay, so that leaves the mango for me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Nino",
+      "texto_en": "Mmm! This is delicious!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "It's almost like drinking the actual fruit.\\nI heard they use local produce for some of it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Nino",
+      "texto_en": "Ahh...\\nJust sipping on juice like this\\nand gazing out at the ocean. How marvelous.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Miku",
+      "texto_en": "Yes, we're fully enjoying our vacation.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "Absolutely.\\nI never thought we would experience something like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Nino",
+      "texto_en": "I drank it all in no time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Miku",
+      "texto_en": "I might need a little more...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Nino",
+      "texto_en": "I feel the same way.\\nI want another glass.\\nI want to try a different flavor this time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Miku",
+      "texto_en": "Well then, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "You mean I have to buy more?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Nino",
+      "texto_en": "Should we play rock-paper-scissors again?\\nI think we'll win once again.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Futaro",
+      "texto_en": "Alright, bring it on!\\nBut this time it's best out of three!",
+      "texto_ptbr": ""
+    }
+  ]
+}

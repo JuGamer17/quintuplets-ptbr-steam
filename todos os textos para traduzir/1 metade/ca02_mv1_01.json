@@ -1,0 +1,414 @@
+{
+  "arquivo": "ca02_mv1_01",
+  "total": 68,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Raiha",
+      "texto_en": "Ah, big bro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "What are you guys up to?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Ichika",
+      "texto_en": "Nothing really,\\nwe're just at the beach and relaxing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Ichika",
+      "texto_en": "The water is crystal clear and continues beyond the horizon.\\nThis view never gets boring\\nno matter how long you look at it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Raiha",
+      "texto_en": "Come to think of it, why is the Okinawan ocean\\nso beautiful? It looks so different\\nfrom the sea at home.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Raiha",
+      "texto_en": "I always had the impression\\nthat the sea is darker in color,\\nbut the ocean in Okinawa is so transparent.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "That's right, it's completely transparent.\\nThere is no murkiness at all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Apparently, there are fewer impurities,\\nsuch as plankton, in this area.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "It's because of the Kuroshio Current bringing \\nin less organic matter at it flows in. That organic\\nmatter is the food source for plankton in the sea.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Raiha",
+      "texto_en": "The food source for plankton?\\nWhat do you mean?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Well, Kuroshio is the name of the ocean current and\\nit carries only a few nutrients.\\nWithout nutrients plankton is unable to reproduce.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "In other words: if there are fewer impurities from plankton,\\nthe sea becomes transparent...\\nDo you get it now?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Raiha",
+      "texto_en": "Yeah, I kind of get it.\\nAs expected, big bro. You know a lot.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "Also, apparently corals are another reason.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Raiha",
+      "texto_en": "Corals?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "This area has a lot of corals.\\nThe seawater is cleaned by the purifying effect of the coral.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Ichika",
+      "texto_en": "And after the coral dies,\\nit turns into white sand on the seabed,\\nwhich apparently reflects the sunlight.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Is that so? I didn't know that \\ncorals are responsible for the white sand.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Ichika, you know your stuff.\\nDid you look that up?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Ichika",
+      "texto_en": "No, actually, the instructor\\nwho just lent me the float told me that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Ichika",
+      "texto_en": "I just heard it so I remembered it.\\nNot because I knew it beforehand.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "But you remembered it because you were interested,\\nright? You wouldn't remember something you're not interested \\nin, even if someone shared this info with you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Ichika",
+      "texto_en": "Ahaha!\\nAs usual, you're good at giving compliments, Sensei.\\nYou know how to lift people's mood.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "I'm not your teacher anymore, you know.\\nYour home tutoring is over.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Ichika",
+      "texto_en": "I know that.\\nI was just teasing you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "Futaro-kun, you're too nitpicky.\\nGuys like that won't get popular, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "Though, it's not a problem even if you're unpopular.\\nWith Nino by your side, huh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Raiha",
+      "texto_en": "But, it'll be a problem if Nino-san starts hating you!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "It's okay, Nino's love won't cool off that easily.\\nAs her older sister, I guarantee it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Just stop making things up.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Ichika",
+      "texto_en": "Anyway, you were a good teacher.\\nThanks to you, I was able to graduate.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "That's the greatest reward a teacher could ask for,\\nto hear a student say that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Guess it's a secret talent of mine.\\nI learned it because of you guys.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Ichika",
+      "texto_en": "Hmm?\\nI think it's rather a talent in development, isn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Ichika",
+      "texto_en": "Do you really think you have the natural talent to teach other\\npeople?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Ichika",
+      "texto_en": "I wonder if your talent would work\\nwith someone else?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "I mean, I wouldn't just praise someone\\nwithout knowing them well.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "If you don't know the person you're talking to it's just \\nflattery, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Ichika",
+      "texto_en": "Holy moly.\\nYou're taking this way too seriously. Don't be such a dork.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "What?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Ichika",
+      "texto_en": "Anyway, you were a good teacher.\\nThanks to you, I was able to graduate.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "That's the greatest reward a teacher could ask for,\\nto hear a student say that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "I'm tired of being a teacher.\\nIt cuts into my study time, and unexpected things\\nkeep happening that I can't handle.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Ichika",
+      "texto_en": "Oh, really?\\nI always had the impression that you liked it...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "Well, yeah, I guess when I look back on it,\\nit was a job worth doing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Raiha",
+      "texto_en": "And you've also met Nino-san.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "W-well, that's true, yeah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Ichika",
+      "texto_en": "Anyway, you were a good teacher.\\nThanks to you, I was able to graduate.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "That's the greatest reward a teacher could ask for,\\nto hear a student say that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Ichika",
+      "texto_en": "Still, it's true that you're some kind of maniac\\nwho lays his hands on students, though, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "WOAH!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "Hey, you could say it\\na little better than that!\\nA maniac who lays his hands on students?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Ichika",
+      "texto_en": "Isn't that true?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "Well, it's not wrong!\\nBut it makes me sound like a criminal!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Ichika",
+      "texto_en": "But, really, I'm grateful that you helped us Futaro-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Ichika",
+      "texto_en": "You said you wanted to enjoy your high school life,\\ndidn't you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "...You said it first though.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, but...\\nI didn't expect we could've\\nsuch fulfilling high school days.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Ichika",
+      "texto_en": "Thanks to you,\\nwe were able to experience something irreplaceable.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Ichika",
+      "texto_en": "Thank you, Futaro-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "No, no, it's weird being praised like that...\\nBut, you're welcome.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Raiha",
+      "texto_en": "I never thought that someone would praise you like this\\nbig bro...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "Wait, Raiha.\\nDo you think I'm a dork?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Raiha",
+      "texto_en": "You're a very good student, who has very few friends and you \\ncan barely communicate. Big bro, YOU are a dork.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "...Well, I'll admit to having few friends.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Ichika",
+      "texto_en": "You admit that, do you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "Zip it!\\nAnyway, I still have some friends, you know?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Ichika",
+      "texto_en": "Futaro-kun, you're always the same,\\nno matter what. I like that about you.",
+      "texto_ptbr": ""
+    }
+  ]
+}

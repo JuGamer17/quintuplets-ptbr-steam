@@ -1,0 +1,378 @@
+{
+  "arquivo": "ca03_13",
+  "total": 62,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Tsubaki",
+      "texto_en": "Hey hey, Miku-chan!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Aoi",
+      "texto_en": "Can we ask you something?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Miku",
+      "texto_en": "What is it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Tsubaki",
+      "texto_en": "Miku-chan, you're dating Uesugi-kun, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Miku",
+      "texto_en": "Y-yeah, that's right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Miku",
+      "texto_en": "(It's not like I'm hiding it,\\n everyone in the class already\\n knows about Futaro and I...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Aoi",
+      "texto_en": "So, how far have you gone with him?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Miku",
+      "texto_en": "...Wha-?\\nWHAAAAAAAAA-?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Tsubaki",
+      "texto_en": "Oh, I see. You haven't gone that far yet.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Miku",
+      "texto_en": "W-w-w-w, why...would you ask that...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Tsubaki",
+      "texto_en": "I mean, you and Uesugi-kun\\nare a pretty mysterious pair, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Aoi",
+      "texto_en": "I never would have imagined\\nthat you two would start dating.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Tsubaki",
+      "texto_en": "So, I was just wondering if you guys are still doing well together?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Tsubaki",
+      "texto_en": "Actually, everyone in class is curious to know as well, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Miku",
+      "texto_en": "Everyone in the class, too?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Aoi",
+      "texto_en": "Well, graduation is coming up soon, right?\\nThere are quite a few girls\\nwho are thinking of confessing before then.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Tsubaki",
+      "texto_en": "So, I guess people are starting to wonder\\nif you guys are really currently dating or not.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Tsubaki",
+      "texto_en": "And? How are things?\\nDo you think you guys will be able to stay together\\nafter graduation?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Miku",
+      "texto_en": "You ask me all these things...\\nBut, it really hasn't changed since\\nbefore we started dating...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Miku",
+      "texto_en": "Maybe we just go out together a little more now.\\nThat's about it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Aoi",
+      "texto_en": "Did you guys spend the night together?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Miku",
+      "texto_en": "W-what?\\nNo way! We went home the same day!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Tsubaki",
+      "texto_en": "Ahhh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Tsubaki",
+      "texto_en": "See, I told you. Uesugi-kun doesn't seem to be interested\\nin pursuing girls,\\nhe seems to be only interested in studying.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Aoi",
+      "texto_en": "I was hoping he would at least turn into an alpha wolf\\nin front of his girlfriend.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Miku",
+      "texto_en": "A-a wolf?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Tsubaki",
+      "texto_en": "Yes! Men are ALL feral!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Tsubaki",
+      "texto_en": "And on top of that, you are SO cute, Miku-chan.\\nI wonder how Uesugi-kun manages to hold himself back.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Aoi",
+      "texto_en": "Have you guys kissed yet?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Miku",
+      "texto_en": "K-kiss?\\nW-w-well...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Tsubaki",
+      "texto_en": "Well?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Miku",
+      "texto_en": "(I did kiss Futaro before at the school festival,\\n but we weren't dating yet, and I just impulsively kissed him.\\n I wonder if that kiss mean't anything!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Tsubaki",
+      "texto_en": "Huhhh?!\\nYou still haven't kissed him?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Miku",
+      "texto_en": "U-um, uhh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Tsubaki",
+      "texto_en": "Uesugi-kun's so MEEK!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Aoi",
+      "texto_en": "You've been dating ever since the school festival, right?\\nIt's already been six months,\\nso I thought you two would have at least kissed.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Miku",
+      "texto_en": "...Is that normal?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Aoi",
+      "texto_en": "Kissing is a normal thing for couples.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Tsubaki",
+      "texto_en": "I see, so you haven't kissed yet,\\neven though it's been six months...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Miku",
+      "texto_en": "Not six. Only five months.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Tsubaki",
+      "texto_en": "Yea only a one month difference, though.\\nIf it's been that long, isn't it normal\\nto take things to the next level?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Miku",
+      "texto_en": "The next level?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Tsubaki",
+      "texto_en": "Ahaha!\\nMiku-chan, you are just so cute!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Miku",
+      "texto_en": "D-don't tease me...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Tsubaki",
+      "texto_en": "Sorry! I just can't resist.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Tsubaki",
+      "texto_en": "I just can't believe\\nUesugi-kun could get himself a girlfriend like you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Miku",
+      "texto_en": "That's not true.\\nI think Futaro is..",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Miku",
+      "texto_en": "Ah!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Aoi",
+      "texto_en": "I see, you like him that much, huh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Miku",
+      "texto_en": "...Yeah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Tsubaki",
+      "texto_en": "Awww!\\nYou're such a cutey?!\\nUesugi-kun is such a lucky guy!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Aoi",
+      "texto_en": "Well, I may have exaggerated a bit earlier,\\nbut Uesugi-kun is going to a university in Tokyo,\\nright? In that case, I'm a little worried.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Miku",
+      "texto_en": "Why?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Aoi",
+      "texto_en": "It'll be a long-distance relationship. I don't mean\\nto interfere, but it might be good to take the relationship to the next level before that happens.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Tsubaki",
+      "texto_en": "Yeah, that's right.\\nIt's definitely better to deepen your relationship\\nbefore that!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Miku",
+      "texto_en": "Deepen, our relationship?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Tsubaki",
+      "texto_en": "Uesugi-kun probably is dwelling over the thought of\\nhaving to leave behind someone as cute as you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Aoi",
+      "texto_en": "To be fair, guys can't control themselves.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Miku",
+      "texto_en": "Huh...",
+      "texto_ptbr": ""
+    }
+  ]
+}

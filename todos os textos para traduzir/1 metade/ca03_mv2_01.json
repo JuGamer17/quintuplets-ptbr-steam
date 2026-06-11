@@ -1,0 +1,468 @@
+{
+  "arquivo": "ca03_mv2_01",
+  "total": 77,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Nino",
+      "texto_en": "Oh my, it's Fu-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Nino and Ichika, eh.\\nSeems you haven't tried to run off to the cafe yet.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Nino",
+      "texto_en": "We haven't.\\nThere are more interesting things here than I thought.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Ichika",
+      "texto_en": "Nino had been glued\\nto the traditional clothing exhibit over there\\nfor a while.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "As long as you guys are enjoying yourself,\\nthat's all that matters.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Ichika",
+      "texto_en": "Speaking of which, I was thinking about it when we entered,\\nbut doesn't this building have a strange shape?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "It's all white and it's tiered.\\nIt has a pyramid-like feel to it,\\nbut it's definitely not a pyramid, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, I don't think so.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "The brochure says it's modeled after a gusuku,\\nbut what exactly is a gusuku?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "Gusuku is the word for 'castle' in Okinawa. Well,\\neven though we call it a castle, it's a bit different\\nfrom what we think of as castles in mainland Japan.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Ichika",
+      "texto_en": "Oh, a castle.\\nNow that you mention it,\\nit does have some similarities with the Shurijo Castle.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "That place is also tiered inside.\\nI remember I had to frequently climb up stairs.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, that's why there's tiers.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "I get it now, so a gusuku is a castle.\\nAhh%p-2;――%p;.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "...What's up?\\nWhy are you looking at me?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "Miku might be interested in that kind of thing.\\nShe'd be happy if you told her.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Ooh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "So, about Miku.\\nI was meaning to ask you earlier, Ichika.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "So, hey?\\nAbout that%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "So you have any idea why Miku is acting strangely?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "You guys asked me earlier,\\nbut I was curious\\nif you guys had any clues, or anything.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "I said it earlier too, but if there's a reason,\\nit's probably you, Fu-kun, more than us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, I think so too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "Really?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Well, for example,\\nmaybe Miku didn't want to go to Okinawa.\\nThat's a possible reason, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "That's out.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "Obviously.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Ichika",
+      "texto_en": "I don't think so.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Nino",
+      "texto_en": "Yeah, me neither.\\nThat's why I asked you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Really?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "Well, for example,\\nmaybe Miku didn't want to go to Okinawa.\\nThat's a possible reason, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Ichika",
+      "texto_en": "That's out.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "Obviously.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "An immediate answer, huh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Ichika",
+      "texto_en": "Well, when you mentioned Okinawa,\\nMiku also agreed, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Maybe she was holding back.\\nCause you guys were so excited.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Nino",
+      "texto_en": "We don't have the relationship\\nwhere she'd hold back like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Ichika",
+      "texto_en": "Besides, if she were really holding back,\\nwe wouldn't have been able to decide\\non a travel destination so easily.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Ichika",
+      "texto_en": "But you know,\\nit seems like Miku's enjoying the trip herself.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Nino",
+      "texto_en": "Yeah.\\nShe's the same as usual when she's talking to us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "Well, that's a relief...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Maybe the habu snakes scared her off.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Ichika",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "What's wrong, you two just went quiet.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "Wait, do you guys really have a fear of habu snakes?\\nOr just snakes in general?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Ichika",
+      "texto_en": "PFT! AHAHAHAH!\\nFutaro-kun, you are just TOO off the mark!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "Why are you laughing?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Nino",
+      "texto_en": "Don't worry, I've never heard her say anything about\\nbeing afraid of snakes, and she's never said a word\\nabout being afraid of habu snakes either.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Ichika",
+      "texto_en": "Ahh%p-2;――%p; goodness.\\nSometimes you say the most outrageous things,\\nit's amusing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "(That wasn't my intention...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Ichika",
+      "texto_en": "But you know,\\nit seems like Miku's enjoying the trip herself.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Nino",
+      "texto_en": "Yeah.\\nShe's the same as usual when she's talking to us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "Well, that's a relief...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "In that case, why...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Ichika",
+      "texto_en": "Isn't it your job to think about it,\\nFutaro-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "...You're not saying anything at all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Ichika",
+      "texto_en": "Of course, I think you're doing your best.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "It's nice of you to say that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Nino",
+      "texto_en": "You're surprisingly straightforward.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "...Seeing Miku lately makes me anxious.\\nBut, I feel like she's either feeling more anxious than me or worried about something else closely related.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "Knowing that I-I...\\nAs her boyfriend, I can't do anything about it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Nino",
+      "texto_en": "If you truly care that much about her, Fu-kun,\\nthere must be a way to solve this issue.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Ichika",
+      "texto_en": "That's right.\\nPull yourself together, boyfriend.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Ichika",
+      "texto_en": "But you know,\\nit seems like Miku's enjoying the trip herself.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Nino",
+      "texto_en": "Yeah.\\nShe's the same as usual when she's talking to us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "Well, that's a relief...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Ichika",
+      "texto_en": "But,\\nthat's only when she's with you, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "...So that would mean,\\nthere's a high possibility it's my fault.\\nBut I really can't think of any reasons, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Nino",
+      "texto_en": "What may be nothing to you, Fu-kun,\\ncould be something that makes Miku feel\\nlike the world is ending...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "W-What should I do?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Nino",
+      "texto_en": "Teehee!\\nDid you finally figure it out, Fu-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Futaro",
+      "texto_en": "What?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Nino",
+      "texto_en": "That 'love' is very complex.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Futaro",
+      "texto_en": "...Yeah.\\nI think I got it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "Well, probably, but, compared to you guys I'm still nowhere\\nclose to understanding what Miku's feeling.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Ichika",
+      "texto_en": "Hang in there, Futaro-kun.",
+      "texto_ptbr": ""
+    }
+  ]
+}

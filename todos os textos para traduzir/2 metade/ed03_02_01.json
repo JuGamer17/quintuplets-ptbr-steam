@@ -1,0 +1,480 @@
+{
+  "arquivo": "ed03_02_01",
+  "total": 79,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "",
+      "texto_en": "Five years later%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "Welcome%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Nino",
+      "texto_en": "Oh, it's you guys.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Miku",
+      "texto_en": "It's been a while, Ichika.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Yotsuba",
+      "texto_en": "We've been waiting for you!\\nWelcome back to Japan!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Ichika",
+      "texto_en": "Long time no see!\\nYou three look good, that's great%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, it's good, but hey,\\nis the shop open today?\\nIt's the day of the wedding after all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, I was surprised when I showed up.\\nYou couldn't stop her, Nino?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "I did.\\nHowever, she insisted on doing things as usual.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Miku",
+      "texto_en": "If I don't do anything,\\nI'll start thinking about unnecessary things.\\nStanding here makes me feel calm.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Miku",
+      "texto_en": "Besides, there might be regulars coming today.\\nIf the shop was closed, they would be disappointed.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "Oh c'mon, it wouldn't be a problem today, right?\\nBesides, we've already said we're having a wedding\\nin advance.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, then maybe the flowers there\\nare wedding gifts from customers?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Yotsuba",
+      "texto_en": "The flowers over there, too?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Miku",
+      "texto_en": "Yes, that's right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Miku",
+      "texto_en": "Recently, we've been getting more regulars.\\nI refused the flowers at first, but they kept insisting.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "It feels wonderful to receive wedding wishes\\nfrom customers, doesn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Miku",
+      "texto_en": "...I'm really happy.\\nTo show our appreciation for the people \\nwho support us, we have to work hard at the shop.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Nino",
+      "texto_en": "That's right, we need you to do your best. \\nMore customers are coming to the shop that\\nlove your pastries and want to try your food, Miku.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Ichika",
+      "texto_en": "Wow! Isn't it amazing to have fans like that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Yotsuba",
+      "texto_en": "Nino, if you're not careful,\\nyour disciple might surpass you, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "I don't really mind, you know?\\nIt still contributes to our sales.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Ichika",
+      "texto_en": "Oh my, you're not being honest at all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "Miku has matured a lot.\\nI miss the time when she made stone croquettes.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Miku",
+      "texto_en": "Come on. When was that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Itsuki",
+      "texto_en": "Miku has a teacher named Nino.\\nIn fact, she's good at teaching, too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "Well, it's an honor\\nto be praised by a real teacher like you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "But in the end, it's because Miku\\nhas been working very hard.\\nShe overcame her clumsiness and acquired a sense of taste.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Miku",
+      "texto_en": "...Thanks.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, yeah, that is the power of love!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Miku",
+      "texto_en": "Love...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Yotsuba",
+      "texto_en": "Well... The main reason you started your\\nculinary journey was because\\nyou want Uesugi-san to eat delicious food, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Miku",
+      "texto_en": "That's true, but...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Ichika",
+      "texto_en": "In that case, 'NAKANO' is safe for now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Miku",
+      "texto_en": "No, we're not quite there yet.\\nI'm planning to make\\neven more delicious dishes than now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Ichika",
+      "texto_en": "Oh, you're fired up, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Miku",
+      "texto_en": "I've heard that the popular item menu at the store\\nthat was here before was homemade bread.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Miku",
+      "texto_en": "I also want to create a store's signature dish,\\nsomething similar to that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "Have you decided what kind of dish to make?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Miku",
+      "texto_en": "Not yet, but I've been making various trial products\\nand having Futaro taste them multiple times.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Ichika",
+      "texto_en": "Hmmm?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "I see.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Miku",
+      "texto_en": "Hm? What?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Yotsuba",
+      "texto_en": "Having him taste them multiple times, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Nino",
+      "texto_en": "That's what it is.\\nThey're already working together as a team of two.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Miku",
+      "texto_en": "O-oh, c'mon.\\nDon't tease me like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Itsuki",
+      "texto_en": "I'm looking forward to the signature dish.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Miku",
+      "texto_en": "Okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Ichika",
+      "texto_en": "Oh yeah.\\nSpeaking of which, regarding that matter,\\nmy makeup artist will come.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Yotsuba",
+      "texto_en": "So, you're really going to do it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "Yes. We'll have to have Uesugi-kun confirm it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Nino",
+      "texto_en": "Well, let's take care of that then.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Ichika",
+      "texto_en": "Okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Nino",
+      "texto_en": "The one I had was still stored away.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Itsuki",
+      "texto_en": "This is our wedding gift to you, Miku.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Yotsuba",
+      "texto_en": "It's Mom's heirloom earrings.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Itsuki",
+      "texto_en": "When we get to the venue,\\nthings'll get chaotic,\\nso we should pierce your ears there.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Ichika",
+      "texto_en": "Pierce her ears, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Nino",
+      "texto_en": "There's no other option, is there?\\nI brought a piercer too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Nino",
+      "texto_en": "Is it okay with you, Miku?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Miku",
+      "texto_en": "Yes.\\nI was planning to wear them for the wedding anyway.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Yotsuba",
+      "texto_en": "Is this your first time getting pierced? Are you okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Miku",
+      "texto_en": "To be honest, I'm a bit anxious,\\nbut with everybody's support I should be fine.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Nino",
+      "texto_en": "That's good. Don't forget those words.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Ichika",
+      "texto_en": "In response to your determination,\\nwe will also pierce your ears with all our hearts.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Miku",
+      "texto_en": "U-um?\\nBoth of you seem...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Ichika",
+      "texto_en": "It's okay, the pain is only temporary.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Miku",
+      "texto_en": "Well...\\nIs everyone gonna bless me?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Nino",
+      "texto_en": "Of course.\\nPlease receive our gratitude, okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Miku",
+      "texto_en": "I feel like\\nthere's a different emotion behind that...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Ichika",
+      "texto_en": "Let's make today an unforgettable memory!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Miku",
+      "texto_en": "S-sorry! Give me time to mentally prepare myself%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Nino",
+      "texto_en": "Yotsuba.\\nHold her down a little.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Yotsuba",
+      "texto_en": "Okaaay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Miku",
+      "texto_en": "Y-Yotsuba?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Ichika",
+      "texto_en": "One, two, three!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "All 4",
+      "texto_en": "Miku, congratulations on getting married!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Miku",
+      "texto_en": "EEEP!",
+      "texto_ptbr": ""
+    }
+  ]
+}

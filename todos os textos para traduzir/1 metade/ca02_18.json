@@ -1,0 +1,174 @@
+{
+  "arquivo": "ca02_18",
+  "total": 28,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Alright!\\nWe've had breakfast\\nand it's time to start the day's activities!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Ichika",
+      "texto_en": "You're energetic, Futaro-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Heheh, that's because we're going to Shurijo Castle,\\na famous tourist spot in Okinawa. I'm excited!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, we can't miss Shurijo Castle.\\nI'm looking forward to it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Yotsuba",
+      "texto_en": "After the castle, we'll go to Kokusai dori. \\nWe have to decide on souvenirs for Dad today.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Huh? Didn't you go shopping for that yesterday?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "Well, yes.\\nBut, on the way, the mood kind of changed.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Huh? Why?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, it's nothing.\\nIt's our matter.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Raiha",
+      "texto_en": "I wonder if Shurijo Castle is big since it's a castle?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Ichika",
+      "texto_en": "I'm not sure.\\nI've only seen pictures of the beautiful buildings.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Ichika",
+      "texto_en": "Ah, and Shureimon?\\nI've heard about it too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "What Ichika is referring to is probably the Seiden.\\nIt's a building that's registered\\nas a World Heritage Site.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Heh, Itsuki.\\nYou're not doing enough research.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "The registered World Heritage Site\\nis the Shurijo Castle ruins!\\nThe buildings are a separate matter!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, really?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "The buildings were reconstructed,\\nso they're not part of the World Heritage Site.\\nRemember that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "Oooh... I thought everything had been registered.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Well, it's an easy mistake to make.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Miku",
+      "texto_en": "So, when were the buildings reconstructed?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "I think the current buildings haven't been around for\\nmore than 30 years. By the way, they were reconstructed when \\nthe ruins were registered as a World Heritage Site in 2000.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "Hey, Nino, isn't Uesugi-san\\nacting a little strange today?\\nHe's like a walking encyclopedia or something.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Nino",
+      "texto_en": "Yeah, maybe.\\nI wonder if he's back to his usual self.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Yotsuba",
+      "texto_en": "Was it just a coincidence\\nthat he was acting strangely yesterday?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "I hope so.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Well, let's get going, then!",
+      "texto_ptbr": ""
+    }
+  ]
+}

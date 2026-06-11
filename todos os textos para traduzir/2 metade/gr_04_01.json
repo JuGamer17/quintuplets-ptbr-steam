@@ -1,0 +1,198 @@
+{
+  "arquivo": "gr_04_01",
+  "total": 32,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(It's been a few days...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(Finally,\\n it's the day of the graduation ceremony.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Ichika",
+      "texto_en": "*sigh*\\nThe ceremony is over, and we have finally graduated.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Nino",
+      "texto_en": "What are you so sentimental about?\\nYou haven't even received your diploma yet.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Ichika",
+      "texto_en": "I'll definitely pass, so don't worry about it, okaaay!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "As long as you don't fall asleep during the exam,\\nyou should be able to make it.\\nYou've been studying a lot.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "Hehehe, it's nice to have your approval,\\nFutaro-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Miku",
+      "texto_en": "But I'm a little worried.\\nYou seem to be getting busier and busier, Ichika.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "That's true, we're counting on you.\\nWe have a graduation trip waiting for us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Yotsuba",
+      "texto_en": "We really graduated, huh.\\nI'm finally starting to realize it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Yotsuba",
+      "texto_en": "This is also thanks to you, Uesugi-san.\\nThank you very much!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "Thanks, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "Coming to this school...\\nI'm glad I met you, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "Really, coming to this school...\\nI'm glad I met you, Fu-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Hey hey, don't talk like it's our last goodbye.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "Right.\\nThis is not a farewell, it's a new beginning.\\nWe're leaving the nest, for a new place.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Ichika",
+      "texto_en": "Before we leave, we have the graduation trip!\\nI'm looking forward to it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "Yes, the graduation trip.\\nLet's make lots of memories!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "But first, the graduation trip... I'm excited.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "Before starting our new lives,\\nlet's make some memories!\\nLet's have a great time on our graduation trip!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "But, first is the graduation trip, right?\\nI'm so excited for it!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Yeah!\\nYou guys are gonna make all the plans, right?\\nI'm excited to see if you can humor me!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Yotsuba",
+      "texto_en": "I get how you feel and I can tell you're really looking \\nforward to it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "Don't worry, leave it to us.\\nI'm sure you'll be very happy with the outcome.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Miku",
+      "texto_en": "Yeah, I'm pretty confident.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Oh-ho, 'confident' you say?\\nYou've got some guts to raise the bar like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "I don't think the goal\\nis to satisfy Futaro-kun specifically, is it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "No, it's not.\\nThat's just what Uesugi-kun is like.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Isanari",
+      "texto_en": "Heeey, Futaro!\\nLet's take a commemorative photo!\\nFutaro, the girls and Maruo, come over here!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Maruo",
+      "texto_en": "We can hear you without the shouting.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "Alright, let's go.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, let's go.",
+      "texto_ptbr": ""
+    }
+  ]
+}

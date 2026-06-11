@@ -1,0 +1,510 @@
+{
+  "arquivo": "ca05_01",
+  "total": 84,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Raiha",
+      "texto_en": "Wowww...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "What a place this is...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(With the fancy lobby, pool and fitness center, \\n and a convenient location with easy \\n access to sightseeing spots%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "(This really is what they call a luxury resort hotel...\\n I never imagined I'd actually have a chance to \\n step inside one.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Raiha",
+      "texto_en": "H-hey, big bro, look at this! \\nThis hotel has so many restaurants!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "For real.\\nBut isn't one place to eat at enough?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "Huh?\\nI think they're divided\\ninto Japanese and Western cuisine.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "O-oh... I see...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Yotsuba",
+      "texto_en": "This hotel has a good reputation for desserts too,\\nespecially the cake.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "Also, the lounge on the top floor\\nhas a great night view.\\nWe should go check it out at night.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Raiha",
+      "texto_en": "A view of the city from the hotel...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Raiha",
+      "texto_en": "That's so grown-up!\\nWe'll have to tilt our cocktail glasses!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "There are also places like that.\\nOf course, we can't drink yet.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "(Oh no, this is so different from the hotel I imagined.\\n I have no idea how much one night costs...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun? You look pale, are you okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "Well...\\nI mean, is it really okay for us to stay here?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "Of course it is. We have a reservation, so don't worry.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Wait, that's not what I meant.\\nHow much does one night cost here?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "U-um, Uesugi-kun?\\nAren't you a bit close...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Oh! Sorry!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "What are you doing?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Yotsuba",
+      "texto_en": "Beep beeeep!\\nPlease refrain from sudden\\nlovey-dovey moments in this kind of place.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Both",
+      "texto_en": "We weren't doing anything!\\nNothing at all!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Miku",
+      "texto_en": "You're breathing in sync.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Ahh, come on, stop teasing us!\\nMore than that%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "Is it really okay for us to stay here?\\nHow much does one night cost?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Miku",
+      "texto_en": "I wouldn't say it's cheap.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Yotsuba",
+      "texto_en": "We're splurging a little more than usuaaal.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "A little more...\\nFrom my perspective,\\nthis is an OUTRAGEOUS indulgence, isn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "It's okay to splurge once in a while.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Itsuki",
+      "texto_en": "That's right.\\nThis is also a token of appreciation\\nfrom Dad to you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Itsuki",
+      "texto_en": "I didn't ask him directly,\\nbut it seems to be a way of thanking you\\nfor completing your job as a tutor.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "I-I see.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Yotsuba",
+      "texto_en": "In other words,\\nit's okay for you to boldly indulge yourself,\\nUesugi-san!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "(If that's the case...\\n I shouldn't hold myself back and \\n actually enjoy myself to the fullest.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Ichika",
+      "texto_en": "Sorry to keep you waiting.\\nI've finished checking us in.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Ichika",
+      "texto_en": "Right.\\nWe have four rooms with twin beds,\\nbut what kind of room arrangements should we go with?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Yotsuba",
+      "texto_en": "They're all the same size?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Ichika",
+      "texto_en": "Yes, the size and layout are the same everywhere,\\nso it shouldn't be unfair\\nno matter what combination we choose.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "(So, we're getting rooms for two people.\\n W-wait, does that mean\\n Itsuki and I will be in the same room?!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "(No! No, no! That's definitely a no-go!\\n No matter how long we've been dating, it's\\n unthinkable for a man and a woman to share a room!!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Itsuki",
+      "texto_en": "Um, Uesugi-kun?\\nAbout the rooms%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "OWAAH?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Itsuki",
+      "texto_en": "Huh? What's with that reaction?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Ichika",
+      "texto_en": "Ahhh?\\nPerhaps...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "N-n-n-nothing!\\nI-I'll room with Raiha!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Itsuki",
+      "texto_en": "Yeah, that makes sense.\\nThere's really no other option, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Ichika",
+      "texto_en": "Oh, oh?\\nYou too, Itsuki...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Itsuki",
+      "texto_en": "Wh-what is it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Ichika",
+      "texto_en": "Itsuki-chan,\\ndo you want to be in the same room as Futaro-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Itsuki",
+      "texto_en": "Huhhh?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "What the%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Itsuki",
+      "texto_en": "I-I'm alright!\\nI'll room with you, Ichika!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Ichika",
+      "texto_en": "Okaaay!\\nLooking forward to it then.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Miku",
+      "texto_en": "What about the rest of us?\\nSomeone will have to be in a single room.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, I can take the single room.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Raiha",
+      "texto_en": "Ah! In that case,\\nI'd like to be in the same room as Yotsuba-san\\ninstead of big bro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Yotsuba",
+      "texto_en": "Is that okay, Raiha-chan?\\nAlrighty, let's room together then!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "What... Raiha...\\nYou don't want to room with me...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "Heh...\\nEven little Raiha is growing up,\\nisn't she?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Ichika",
+      "texto_en": "Ermm, what are you looking at?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Raiha",
+      "texto_en": "No, it's not like that.\\nAnyway, you'd like to be in a single room, right, big bro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "Huh? Why's that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Raiha",
+      "texto_en": "Well, I mean...\\nIsn't that right, Itsuki-san?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Itsuki",
+      "texto_en": "Y-yes.\\nIt's only natural for a man\\nto want privacy in his own room, isn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Raiha",
+      "texto_en": "That's not exactly what I meant, though...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Miku",
+      "texto_en": "Raiha-chan is the more mature one.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Nino",
+      "texto_en": "...Or rather, Fu-kun and Itsuki are like children.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "I don't really get it,\\nbut I don't mind having a single room.\\nRaiha is all yours, Yotsuba.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Yotsuba",
+      "texto_en": "Alright! Leave her to me!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Nino",
+      "texto_en": "Okay, I'll be with Miku, then.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Miku",
+      "texto_en": "Okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Itsuki",
+      "texto_en": "Right, room arrangements are settled then.\\nNow, let's%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, head to our rooms%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Itsuki",
+      "texto_en": "Go to the restaurant for dinner!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Futaro",
+      "texto_en": "No, we'll go to our rooms first, right?\\nWhat about our luggage?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Ichika",
+      "texto_en": "Don't worry.\\nThe bellhop will take care of it for us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Futaro",
+      "texto_en": "(So that's how it works...\\n I honestly can't believe how amazing \\n these luxury hotels are...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Miku",
+      "texto_en": "Now that you mention it, I'm pretty hungry.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Yotsuba",
+      "texto_en": "Okay then, let's gooo!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Raiha",
+      "texto_en": "Right-o!",
+      "texto_ptbr": ""
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "arquivo": "gr_03_01",
+  "total": 63,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Nino",
+      "texto_en": "Make sure you pass, okay, Ichika?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Ichika",
+      "texto_en": "Of course!\\nSince my goal is to go on a trip to Okinawa,\\nI'm even more motivated now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "???",
+      "texto_en": "...Oh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "AH?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "P-please excuse me, Dad!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Maruo",
+      "texto_en": "You have no reason to call me 'Dad.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Hahaha...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "(Hey, hey, hey, this is unexpected! This is bad for my heart!) ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "(However...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "Welcome back, Dad.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Maruo",
+      "texto_en": "Yes, I'm home.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "I thought you'd be home a little later.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Maruo",
+      "texto_en": "I finished a little earlier than usual.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "(They seem to be having a normal conversation.\\n I've never seen them having a discussion like this before.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "(Or rather, it seems that even their dad\\n has started coming back to this apartment.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "(Does this mean that their relationship is steadily improving?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Maruo",
+      "texto_en": "By the way, I didn't know\\nthat Uesugi-kun was coming today.\\nDo you have some business with him?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Huh?!\\nOh, that's...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Nino",
+      "texto_en": "We were discussing our graduation trip.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Maruo",
+      "texto_en": "Graduation trip?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "Yes.\\nUesugi-kun suggested\\nthat we plan a graduation trip to Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Maruo",
+      "texto_en": "I see.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "(Woaaaah, that is way too much pressure!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Miku",
+      "texto_en": "May we go?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Maruo",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Maruo",
+      "texto_en": "Well, you guys were able to graduate safely\\nthanks to Uesugi-kun's efforts.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Maruo",
+      "texto_en": "It would also be a token of appreciation\\nfor fulfilling his role as a tutor.\\nLet me arrange the accommodations for you. Have fun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Yotsuba",
+      "texto_en": "Thank you!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Th-thank you very much.\\nThen, I'll be on my way...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Maruo",
+      "texto_en": "Wait a minute.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Yes?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Maruo",
+      "texto_en": "We have plans for a family dinner later.\\nThere's something I want to talk to you about, too.\\nWould you like to join us?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "I'd love to!\\nThank you for the invitation.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Maruo",
+      "texto_en": "A good reply. I'm glad.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "(No way!\\n You don't look happy at all, you know?!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "I don't think he's in a bad mood. Probably.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "Really...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Actually, my dad's waiting. I'm sorry.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Maruo",
+      "texto_en": "I see.\\nI'll contact your father later myself, then.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Huh?! Ah, no, it's fine!\\nI'll accept your invitation!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Yotsuba",
+      "texto_en": "Are you sure?\\nDon't you have plans with your dad?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "No problem, don't worry about it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Ichika",
+      "texto_en": "You missed your chance to escape.\\nYou have to do better next time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "Leave me alone.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Please enjoy your family time.\\nI'd be a hindrance.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Nino",
+      "texto_en": "Wait.\\nYou're not in the way at all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Miku",
+      "texto_en": "That's right, you're not a stranger anymore, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Hey, wai—?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "(That kind of talk is a recipe for disaster, right?!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Maruo",
+      "texto_en": "My daughters are insisting. How about it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Hahahaha...\\nWell, then I'll be happy to join you...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Maruo",
+      "texto_en": "I'll go get ready. Make sure you all prepare as well.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Yotsuba",
+      "texto_en": "Okaaay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Miku",
+      "texto_en": "You still don't get along with our dad, do you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "Not really.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, let's break the ice over dinner.\\nDon't worry, with good food,\\nthe atmosphere will surely relax.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "I hope so.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "(Although many things\\n have happened so far,\\n it seems like he has somewhat acknowledged me%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "(But when it comes to his daughters,\\n he can't just stay silent as a father.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "(However, considering the future,\\n I'll eventually have to reconcile with him.\\n That's going to be tough...)",
+      "texto_ptbr": ""
+    }
+  ]
+}

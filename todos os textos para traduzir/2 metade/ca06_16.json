@@ -1,0 +1,318 @@
+{
+  "arquivo": "ca06_16",
+  "total": 52,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Itsuki",
+      "texto_en": "That was really an interesting place, wasn't it?\\nJust walking around and looking at the town,\\nwe could feel the atmosphere of traveling abroad.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "Apparenly the city is lit up by a light show at night.\\nI would have liked to see that too, if possible.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "But when it gets dark,\\nI'm afraid we might get lost for real...\\nIt's a bit scary, isn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "Did anyone try going to that ice cream shop \\nwe heard about?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "Of course! The rumors were true,\\nand it was so delicious that we ended up ordering more.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "By the way, the pancake shop we found\\nwas also top tier, wasn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "A pancake shop? That sounds interesting!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "It was so delicious\\nthat it made my heart feel fluffy!\\nI want to go there again with everyone!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "But if you eat too much,\\nyou might not have room for lunch, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun, what would you like for lunch?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Well, when it comes to food,\\nI'll leave it up to you guys.\\nTalk about it, and decide what you'd like.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "Then, we will do so.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "(This is...pretty bad, isn't it?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "(Like the last time, I thought I'd figure out \\n Yotsuba first because she's not the best liar but...\\n I seriously don't understand.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "(Speaking of which, Yotsuba did help the drama club\\n during the school festival.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "(Raiha said that Yotsuba's acting was amazing...\\n As expected of the actress Nakano Ichika's little sister.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "(That Ichika, too, is now a popular actress.\\n She seems to have played various roles, and her\\n acting ability is undoubtedly better than before.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "(Miku was originally the best\\n at disguising herself as her sisters.\\n Itsuki is not an imitation but the real deal%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "(Maybe the key to conquering them,\\n is to start by finding out Nino first?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Curious Girl",
+      "texto_en": "Hey, look, look! Those girls over there are so cute!\\nAnd all five have the same face!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "(Hm? Just now, could it be...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "Huh? Are you talking about us?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Quiet Girl",
+      "texto_en": "Oh my, you really look alike.\\nIs it your makeup?\\nAre you perhaps filming for TV or something?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "Oh no, we're actually quintuplets.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Curious Girl",
+      "texto_en": "Whaaat?!\\nThere really are quintuplets!\\nI've never seen any before!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "Ahaha...\\nYeah, you don't see too many quintuplets around, do you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Curious Girl",
+      "texto_en": "Hey! Can we take a picture together as a memory?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "Umm, well...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "(...Jeez, what memory is there to make anyway?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "(By the way, we seem to be attracting\\na lot of attention. Maybe we should stop this?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Oh, excuse me, hi there.\\nCan we go now?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Curious Girl",
+      "texto_en": "Wha? What's with this guy?\\nComing out of nowhere like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "What, you ask, well...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "These girls are my friends.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "Friends, huh.\\nWell, I guess that's all that can be said for now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "Indeed, we're actually on a trip with the six of us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "We're also tourists here.\\nCould you please keep it down?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Curious Girl",
+      "texto_en": "Ehh, come on.\\nIt's okay to make a little noise, isn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Quiet Girl",
+      "texto_en": "We can't take a picture with you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "Wh-what should we do?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "I'll handle this.\\nYou guys go somewhere else for now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Itsuki",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "Perhaps it's better if we don't take pictures.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Itsuki",
+      "texto_en": "That's right. As Ichika's a celebrity and all...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "While Futaro is dealing with them,\\nlet's go somewhere else.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, let's leave before we attract more attention.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Itsuki",
+      "texto_en": "Okay then, Uesugi-kun, we'll go on ahead.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "Okay.\\nI'll be there soon, so wait for me somewhere nearby.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Itsuki",
+      "texto_en": "Thanks.",
+      "texto_ptbr": ""
+    }
+  ]
+}

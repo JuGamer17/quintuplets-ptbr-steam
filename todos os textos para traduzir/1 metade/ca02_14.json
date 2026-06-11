@@ -1,0 +1,804 @@
+{
+  "arquivo": "ca02_14",
+  "total": 133,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Itsuki",
+      "texto_en": "Okay everybody listen, it's lunchtime now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Hey Itsuki, aren't you the one who is looking forward to\\nlunchtime the most?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "It's not just me okay?\\nEveryone was looking forward to this, right guys?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Raiha",
+      "texto_en": "Of course we were!\\nA barbecue on the beach is awesome!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Yotsuba",
+      "texto_en": "The charcoal is smoldering, and we're all set.\\nLet's throw the meat on the grill and eat as much as we can!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Miku",
+      "texto_en": "Yotsuba, don't gnash the tongs together like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "WOOOW?!\\nLook at the different kinds of meat and fish!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Nino",
+      "texto_en": "I thought it would be mainly seafood\\nsince we're in Okinawa,\\nbut they have plenty of different meat too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Ichika",
+      "texto_en": "Good for you, Itsuki-chan.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "Y-yes, since they've prepared all of this for us,\\nit's only polite to eat everything, right guys?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Miku",
+      "texto_en": "I wonder what to grill first.\\nIt might not be a good idea to grill seafood\\nafter the meat...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "Then let's use a different grill.\\nThere are a few of them prepared for us, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Is that so?\\nI thought other people will be using them.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "That might be true. That's why we need to figure out\\nhow to use them effectively.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Nino",
+      "texto_en": "Yeah, it looks like the grills are heated up already.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "Adjusting the amount of charcoal to create high and low heat \\nzones might be a good idea. We also need a spot to\\nkeep the food warm.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Miku",
+      "texto_en": "Ah, I see.\\nWe should separate the food by cooking time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "That's right.\\nIt might not work as well as a stove,\\nbut it's better than nothing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Alright, I'll be the fire keeper.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "Please be careful not to burn yourself.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Yotsuba",
+      "texto_en": "Okay, then I'll take care of the meat on this grill. \\nNow let's start with...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "Wait.\\nI have some foil here,\\nlet's use it for the meat.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Raiha",
+      "texto_en": "Nino-san, I'll help you too!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "Thanks. Could you take care of the seafood grill?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Raiha",
+      "texto_en": "Okay!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "Put the hard-to-cook vegetables on the low heat zone, then\\ngrill the main chunks of meat on the high heat one%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "When the surface of the meat is done,\\nwrap it tightly with foil and let it rest for a bit.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "After resting for five minutes, all we have to do is\\ncut the meat and it's ready to be served.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "You're really good at this...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Nino",
+      "texto_en": "We'll leave everything that's ready to eat on this plate,\\nso please help yourselves.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Ichika",
+      "texto_en": "Alright, let's dig in!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Itsuki",
+      "texto_en": "...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Miku",
+      "texto_en": "It's delicious...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Yotsuba",
+      "texto_en": "It's cooked perfectly!\\nAs expected from Nino.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Nino",
+      "texto_en": "I'm a natural!\\nFutaro, you can eat as much as you want.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Ichika",
+      "texto_en": "This is really delicious.\\nAre you using garlic oil for these vegetables?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Raiha",
+      "texto_en": "Yeah.\\nWe got plenty of seasonings,\\nand Nino-san thought a little change would be nice.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "I think fresh ingredients are also important,\\nbut the flavors have really been brought out.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Nino",
+      "texto_en": "Alright, the yakisoba is done.\\nWho's ready to eat?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Yotsuba",
+      "texto_en": "ME!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Miku",
+      "texto_en": "Me too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Nino",
+      "texto_en": "Give me your plate, I'll serve you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "Wait, there's a fried egg in there too?!\\nWhen did you prepare that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Nino",
+      "texto_en": "Crush it and mix it with the noodles.\\nIt should make for a perfect seasoning.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Ichika",
+      "texto_en": "Nino, bless me with your cooking too!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Nino",
+      "texto_en": "Sure, I'll give you a big chunk of meat!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "Man, really... The way the meat is prepared and\\nhow you grilled the vegetables...\\nThis is just...*chef's kiss*",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "This barbecue is on a whole different level. I've never tasted\\nanything like it before.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Nino",
+      "texto_en": "Have I strengthened the bond between us?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "Hey...\\nWh-what are you talking about...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san, here's your miso soup!\\nIt's your chance to ask her \\nto make it for you every day!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Y-Yotsuba?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Nino",
+      "texto_en": "What is this? The '50s?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Nino",
+      "texto_en": "But, if you're into Japanese cuisine for breakfast,\\nthat's fine.\\nI'll make you something delicious.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Raiha",
+      "texto_en": "Ooohh, a reverse proposal...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "No, it's not like that! You're getting it wrong!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Nino",
+      "texto_en": "Ahaha!\\nWell, he's right. Proposing with yakisoba in one hand\\nis definitely out.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "A-anyway, I have an idea!\\nHow about Nino and Raiha take a break,\\nand I'll take over as the cook?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Nino",
+      "texto_en": "I'm fine with preparing the food, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "Ah, well, um...\\nYou two haven't even eaten yet\\nsince you've been cooking the food for all of us, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "For now, I'll be cooking for you guys,\\nso why don't you grab something to eat too?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Nino",
+      "texto_en": "...Are you perhaps being considerate of us, Futaro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "Come on! The spatula and chopsticks, hand 'em over!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Nino",
+      "texto_en": "Teehee!\\nWell then, I'll leave it to you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "(I've placed the vegetables and meat on the griddle.\\n As long as I watch the heat like Nino does\\n and cook it properly, it should work out...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Raiha",
+      "texto_en": "Big bro, are you okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "Sorry, I burned it.\\nWhy'd that happen...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Raiha",
+      "texto_en": "Barbecuing looks easy\\nbut it's actually difficult, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Raiha",
+      "texto_en": "Unlike a stove, you can't adjust the fire,\\nso you have to keep an eye on the grill\\nand flip the meat to prepare it properly.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "I-I see.\\nNow that you mention it, it's not as easy as it looks.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Nino",
+      "texto_en": "Futaro.\\nPass me the meat, please.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Futaro",
+      "texto_en": "No, you can't eat this!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Nino",
+      "texto_en": "It's fine. You cooked it for us and I appreciate the effort.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "Hey, seriously, stop it!\\nNino...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Nino",
+      "texto_en": "Nom!\\nMmm, it's delicious!\\nYou did a good job.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Futaro",
+      "texto_en": "...Sorry about that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Nino",
+      "texto_en": "Why are you apologizing?\\nYou're overthinking, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Nino",
+      "texto_en": "Since we're here,\\nlet me teach you how to improve your cooking.\\nNext time will be our yummiest meal ever!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Futaro",
+      "texto_en": "Okay, got it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Itsuki",
+      "texto_en": "*sigh*\\nI'm so full.\\nBoth the meat and seafood were fantastic.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Miku",
+      "texto_en": "Thanks to Nino and Raiha-chan,\\nwe had a wonderful lunch.\\nMuch appreciated.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Raiha",
+      "texto_en": "You're welcome!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 84,
+      "personagem": "Nino",
+      "texto_en": "You should show your gratitude like that more often,\\neven on regular occasions.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 85,
+      "personagem": "Ichika",
+      "texto_en": "Okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 86,
+      "personagem": "???",
+      "texto_en": "U-umm, excuse me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 87,
+      "personagem": "Ichika",
+      "texto_en": "Yes? Can I help you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 88,
+      "personagem": "???",
+      "texto_en": "Oh, no way!\\nYou're Nakano Ichika-san, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 89,
+      "personagem": "Energetic Ichika Fan",
+      "texto_en": "W-we're fans of yours!\\nCan we get a handshake?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 90,
+      "personagem": "Ichika",
+      "texto_en": "Thank you for always cheering me on.\\nI'd love giving you a handshake.\\nHere you go.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 91,
+      "personagem": "Energetic Ichika Fan",
+      "texto_en": "We love your work so much!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 92,
+      "personagem": "Ichika",
+      "texto_en": "Thank you too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 93,
+      "personagem": "Ichika",
+      "texto_en": "This is a private event,\\nso please don't get too excited, now.\\nI'd like to relax with my family.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 94,
+      "personagem": "Timid Ichika Fan",
+      "texto_en": "Y-yes! Of course!\\nThank you so much!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 95,
+      "personagem": "Futaro",
+      "texto_en": "Wow, you handled the situation so well, like a real celebrity.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 96,
+      "personagem": "Miku",
+      "texto_en": "Sometimes things like this happen,\\nbut I'm getting better at handling them.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 97,
+      "personagem": "Nino",
+      "texto_en": "You really have the aura of a great actress, Ichika.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 98,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 99,
+      "personagem": "Futaro",
+      "texto_en": "(I was too focused on the barbecue and didn't notice,\\n but are we standing out?\\n It feels like we're drawing attention...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 100,
+      "personagem": "Party Guy",
+      "texto_en": "Hey, who are those people over there?\\nAll the girls are so cute.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 101,
+      "personagem": "Playboy Guy",
+      "texto_en": "Are they all siblings or something?\\nThey look so alike.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 102,
+      "personagem": "Futaro",
+      "texto_en": "(Ah...\\n Those guys over there are talking.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 103,
+      "personagem": "Futaro",
+      "texto_en": "(It's hard to believe that someone as beautiful as Ichika has\\n four other siblings that look exacty like her.\\n I would imagine they're all beautiful.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 104,
+      "personagem": "Party Guy",
+      "texto_en": "What kind of gathering is that guy at,\\nto be with such beautiful women? It doesn't make sense.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 105,
+      "personagem": "Playboy Guy",
+      "texto_en": "One guy and five girls? That's obviously unbalanced.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 106,
+      "personagem": "Futaro",
+      "texto_en": "(...Is he talking about me?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 107,
+      "personagem": "Futaro",
+      "texto_en": "(Well, it's true that I stick out\\n when I'm with them.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 108,
+      "personagem": "Ichika",
+      "texto_en": "Ah-that surprised me.\\nI was really caught off guard.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 109,
+      "personagem": "Itsuki",
+      "texto_en": "You handled it very well.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 110,
+      "personagem": "Ichika",
+      "texto_en": "I'm glad you said that.\\nIt's just that it's hard\\nto turn down requests on my days off.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 111,
+      "personagem": "Ichika",
+      "texto_en": "Well, as long as it's not an unreasonable request,\\nI intend to take care of my admirers.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 112,
+      "personagem": "Ichika",
+      "texto_en": "I'm genuinely happy that they've become my fans.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 113,
+      "personagem": "Ichika",
+      "texto_en": "But, I'm sorry that\\neveryone got startled.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 114,
+      "personagem": "Yotsuba",
+      "texto_en": "It's okay. You need to take care of your fans.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 115,
+      "personagem": "Itsuki",
+      "texto_en": "Plus, it makes me happy to see it.\\nIt makes me realize that there are a lot of people\\nout there cheering for you, Ichika.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 116,
+      "personagem": "Miku",
+      "texto_en": "Yeah, I feel the same way.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 117,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 118,
+      "personagem": "Futaro",
+      "texto_en": "(All of the girls are so awesome.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 119,
+      "personagem": "Futaro",
+      "texto_en": "(And they're rich too...\\n They're living in a completely different world\\n than me.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 120,
+      "personagem": "Futaro",
+      "texto_en": "(Especially Nino is kindhearted\\n and caring towards her sisters.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 121,
+      "personagem": "Futaro",
+      "texto_en": "(She's always asserting herself,\\n she is passionate and dedicated...\\n Even if she can be a bit extreme sometimes.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 122,
+      "personagem": "Futaro",
+      "texto_en": "(The more I think about her...\\n she's, like...really cute.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 123,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 124,
+      "personagem": "Futaro",
+      "texto_en": "(After confessing to her, I'm actually DATING\\n Nino as her boyfriend...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 125,
+      "personagem": "Nino",
+      "texto_en": "Hey, Futaro?\\nWhat's up? Why are you staring at me?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 126,
+      "personagem": "Futaro",
+      "texto_en": "Ah...\\nNah, it's nothing...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 127,
+      "personagem": "Nino",
+      "texto_en": "...What?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 128,
+      "personagem": "Futaro",
+      "texto_en": "It's really nothing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 129,
+      "personagem": "Nino",
+      "texto_en": "I see.\\nWell, okay then.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 130,
+      "personagem": "Nino",
+      "texto_en": "I heard there's ice cream for dessert.\\nIt's in the cooler box,\\nso pick your favorite one, okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 131,
+      "personagem": "Futaro",
+      "texto_en": "Oh, really.\\nThen, I'll go grab it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 132,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+{
+  "arquivo": "ed04_02_04",
+  "total": 75,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Ahh... I'm so tired…",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Raiha",
+      "texto_en": "Good work today.\\nI'll return your suit.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Thanks, Raiha.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Raiha",
+      "texto_en": "You have to be a responsible husband, big bro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Yotsuba",
+      "texto_en": "Thank you too, Raiha-chan.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Raiha",
+      "texto_en": "Ah, Yotsuba-san.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Raiha",
+      "texto_en": "Good work today, too.\\nFrom now on, please take care of me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "Awwww!\\nRaiha-chan, you're always so polite and cute!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Yotsuba",
+      "texto_en": "If you say something like that,\\nI just feel like giving you a hug!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Raiha",
+      "texto_en": "Ahaha, you're already doing it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Yotsuba, you still love Raiha as always, don't ya.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Raiha",
+      "texto_en": "Come on, you too, big bro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Hm? What is it?\\nI don't have any intention of hugging you, by the way.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Raiha",
+      "texto_en": "That's not what I mean.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Raiha",
+      "texto_en": "From now on, as a married couple,\\nYotsuba-san will take care of you, right?\\nYou have to properly ask her, again.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "Huh?\\nWhy do I...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Raiha",
+      "texto_en": "Oh, come ON, big bro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Raiha",
+      "texto_en": "Yotsuba-san,\\neven though my big bro is like this,\\nplease take care of us from now on.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Yotsuba",
+      "texto_en": "Yes. I'll be counting on you too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Raiha",
+      "texto_en": "Big bro?\\nDon't give Yotsuba-san a hard time, okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Do you know how much trouble\\nshe caused me until she graduated from college?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahaha.\\nThat's all in the past, isn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Raiha",
+      "texto_en": "That's right.\\nBig bro, you're not cool.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "Ooof...\\nIs there no one on my side?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Raiha",
+      "texto_en": "Sisters always take the side of their big sis!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?!\\nCould it truly be%p-2;――%p;?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Yotsuba",
+      "texto_en": "Did Raiha-chan just call me her big sis?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "It's not a big deal, is it?\\nRaiha's already your sister-in-law.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Yotsuba",
+      "texto_en": "I see.\\nRaiha-chan, you've truly become my sister-in-law.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Yotsuba",
+      "texto_en": "Also, legally!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Raiha",
+      "texto_en": "I want to go on a date with you, big sis Yotsuba.\\nPlease come back here once in a while, okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Yotsuba",
+      "texto_en": "Yes, yes! Of course!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Raiha",
+      "texto_en": "Yay!\\nThen, I'll start planning our date starting now!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Yotsuba",
+      "texto_en": "I'll take you anywhere you want to go,\\nRaiha-chan! Anywhere you like!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Oh, come on...\\nDid you actually marry me because\\nyou were aiming for Raiha?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Raiha",
+      "texto_en": "Wow.\\nBig bro, are you even jealous of your own sister?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Th-that's not it!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Yotsuba",
+      "texto_en": "You don't have to worry so much.\\nBecause%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Yotsuba",
+      "texto_en": "You've always been my number one, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "O-oh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Raiha",
+      "texto_en": "Oh my GOSH, you two are so close.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Yotsuba",
+      "texto_en": "Of course.\\nRight, Futaro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "...Y-yeah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Raiha",
+      "texto_en": "Thank you for the meal!\\nI'll return your suit quickly, since I'm intruding.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "Geez, that Raiha...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Yotsuba",
+      "texto_en": "Raiha-chan has grown up too.\\nFutaro, you can't compete with her anymore, can you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Well, she's already a high school student now.\\nSo, I give up.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Yotsuba",
+      "texto_en": "A high school student, huh?\\nWhen we first met, she was still in elementary school.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "...It's been five years.\\nFinally, we can take a breather.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Yotsuba",
+      "texto_en": "I feel like the tension has been set free,\\nand exhaustion has hit me all at once...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "You were nervous too, weren't you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahaha, not as much as you, Futaro.\\nWhen it came to our wedding kiss,\\nyour hands were trembling.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Well, it couldn't be helped!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "Everyone was watching,\\nand, it was kissing you...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Yotsuba",
+      "texto_en": "Futaro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "You don't remember what happened five years ago...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "Sorry, I panicked, and my memory was foggy at first,\\nbut when you mentioned it, I remembered clearly.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "The spring trip, of five years ago.\\nOn that hill with a beautiful view and a bell.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "That was, indeed...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Ceremony Hall Staff",
+      "texto_en": "Excuse me.\\nThe bride, left something in the waiting room.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh my, thank you very much.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Yotsuba",
+      "texto_en": "I'm sorry.\\nActually, I don't need it anymore,\\nso please throw it away.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Ceremony Hall Staff",
+      "texto_en": "Understood.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "Is that okay?\\nIt's your trademark, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Yotsuba",
+      "texto_en": "It's fine.\\nNo matter how well it defines my look...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Yotsuba",
+      "texto_en": "There'll always be someone who notices me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "Why didn't you say it earlier?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Yotsuba",
+      "texto_en": "I'm sorry.\\nThere are so many things I want to tell you, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Futaro",
+      "texto_en": "L-like what?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Yotsuba",
+      "texto_en": "Heehee, well...",
+      "texto_ptbr": ""
+    }
+  ]
+}

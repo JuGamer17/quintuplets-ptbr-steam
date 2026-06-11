@@ -1,0 +1,396 @@
+{
+  "arquivo": "ca04_mv5_03",
+  "total": 65,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Raiha",
+      "texto_en": "*sigh*",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "Come on, cheer up, Raiha-chan.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Raiha? What's wrong?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Raiha",
+      "texto_en": "Ah, big bro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Hey, Nino, did something happen?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "Oh, yeah.\\nWe were just looking at the aquarium guidebook,\\nwondering what kind of creatures were here...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Raiha",
+      "texto_en": "They don't have penguins in this aquarium.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Ahhh...\\nI see, that's too bad.\\nYou do love penguins, after all, don't you, Raiha.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Raiha",
+      "texto_en": "Yeah, I was looking forward to seeing them...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Raiha",
+      "texto_en": "But, since they don't have penguins,\\nwe should enjoy seeing all the other animals.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, for sure.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "Raiha-chan's such a good girl.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Heh, isn't she?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "Anyway, I can't believe there are no penguins\\nin such a big aquarium like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Churaumi Aquarium is said to have a theme\\nbased on the seas around Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "Oh, I see.\\nThey have a clear concept.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "The most famous attraction here is the whale shark.\\nYou should be able to see one\\nthat's about ten meters long.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Raiha",
+      "texto_en": "Whaaa?! They have such a big shark?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "There are also plenty of fish here\\nthat we didn't see when we went snorkeling yesterday.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "Tropical fish are so colorful and cute.\\nI'd like to take a close look at them.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Raiha",
+      "texto_en": "Oh, speaking of which!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Raiha",
+      "texto_en": "When I was at the market this morning,\\nI saw some colorful fish I've never seen before\\nlined up. I was really surprised.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Nino",
+      "texto_en": "I saw them too.\\nThe atmosphere was completely different\\nfrom the shops we usually go to.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Raiha",
+      "texto_en": "I wonder what kind of dish they use those fish for.\\nHave you ever cooked with them, Nino-san?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Nino",
+      "texto_en": "No, I haven't.\\nIn fact,\\nit was my first time seeing them sold like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "That's surprising.\\nI thought you would have used them before\\nsince you make such fancy dishes.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "Your impression of my cooking is a bit off,\\nisn't it, Fu-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "Besides, you know, if the color is too flashy,\\npeople might hesitate to eat it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "Nah, you won't know until you try it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Nino",
+      "texto_en": "Well, I suppose.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Raiha",
+      "texto_en": "Since you only eat and don't cook, big bro,\\nmaybe you think that way? When cooking,\\nyou can't help but be aware of that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Nino",
+      "texto_en": "Browsing markets while traveling is surprisingly fun.\\nI discovered so many new things.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Raiha",
+      "texto_en": "Yeah, I think so as well.\\nEven though we live in the same country,\\nwe eat many different things, don't we.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "I understand how you feel. With such flashy colors,\\nit's hard not to be conscious of the fish\\nas something to appreciate.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Nino",
+      "texto_en": "That's right. Even if you bought it to cook,\\nonce you start thinking about it like that,\\nit's a little hard to shake off.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Nino",
+      "texto_en": "Well, that's my personal opinion anyway.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Raiha",
+      "texto_en": "I wonder if people from\\nOkinawa are okay with cooking it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Maybe it's just because we're not used to seeing it.\\nThe fish is familiar to Okinawans,\\nso they probably wouldn't have the same feeling as us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Nino",
+      "texto_en": "That's true. Anyway,\\nwe should always show respect for our ingredients.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Nino",
+      "texto_en": "Browsing markets while traveling is surprisingly fun.\\nI discovered so many new things.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Raiha",
+      "texto_en": "Yeah, I think so as well.\\nEven though we live in the same country,\\nwe eat many different things, don't we.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "But the fish are probably delicious\\nonce you've eaten them once, huh.\\nWhy else would they be lined up at the market.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Raiha",
+      "texto_en": "I wonder what they taste like?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Nino",
+      "texto_en": "We may have already eaten some of these fish.\\nWe've had several meals since arriving in Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Nino",
+      "texto_en": "Oh, right. There should be a market\\nwhere they clean and serve the fish you buy right there.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Raiha",
+      "texto_en": "I-is that the live seafood I heard\\nso much about?!\\nBig bro, that's so luxurious!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, Raiha! I'm getting so pumped!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Nino",
+      "texto_en": "That much, eh?\\nI don't think it's that luxurious.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Both",
+      "texto_en": "Rich folk!\\nYou rich snobs!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Nino",
+      "texto_en": "Browsing markets while traveling is surprisingly fun.\\nI discovered so many new things.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Raiha",
+      "texto_en": "Yeah, I think so as well.\\nEven though we live in the same country,\\nwe eat many different things, don't we.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Nino",
+      "texto_en": "I think it would be even more fun\\non a trip abroad. Next time, in addition to enjoying\\nlocal cuisine, let's try experiencing local ingredients.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Raiha",
+      "texto_en": "Traveling abroad, huh...\\nI hope we can go someday.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "I'm sorry, Raiha!\\nI'll take you anywhere you want to go someday!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Raiha",
+      "texto_en": "Huhh? Don't worry about it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "WHAT?! WHY?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Raiha",
+      "texto_en": "Big bro, isn't there someone for you to take\\nbefore you take me?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "Huh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Nino",
+      "texto_en": "Teehee, that's right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "(Wait, why did she have to bring that up now...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "W-well, I'll take a look around here for a bit.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Nino",
+      "texto_en": "Wait. I'll go with you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "So, hold on... I was gonna go investigate the\\naquarium,\\nso could you stay with Raiha for a little longer?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "Raiha, don't cause Nino too much trouble.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Raiha",
+      "texto_en": "Alrighty.",
+      "texto_ptbr": ""
+    }
+  ]
+}

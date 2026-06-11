@@ -1,0 +1,444 @@
+{
+  "arquivo": "ca06_mv4_02",
+  "total": 73,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Itsuki",
+      "texto_en": "I feel like we just passed through this street earlier.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "Oh dear, we're in trouble.\\nCould it be that we're...lost?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "What are the two of you wandering around for?\\nLost your way?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "Oh my, isn't that Uesugi-kun?\\nWhat a coincidence to meet you in a place like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "By the way, we're not lost or anything!\\nWe're just looking for a shop that was \\nrecommended to us!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Oh, are you planning to go somewhere?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, there should be a delicious pancake cafe nearby.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "A clerk at a shop we stopped by \\non the way here suggested it\\nbut this area is so complicated...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "(...Speaking of sweets, could this be Nino?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, that's right.\\nThere are many side streets here, like a maze.\\nBut you can make pancakes at home, can't you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "That's...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Itsuki",
+      "texto_en": "That's true.\\nIf I asked Nino or Miku,\\nthey could probably make them at home.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "But, Uesugi-kun, you don't understand, at all!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Wh-what?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "Just as handmade products have their own charm,\\nevery restaurant has its own unique taste.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "Besides, the ingredients and equipment you \\nwould use differ between at home and at a shop.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "I see, that makes sense.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "Plus, it's recommended by the locals.\\nWe absolutely have to try it!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "So, anyway.\\nCould you please help us find the shop, Uesugi-kun?\\nWe'll treat you as a thank you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Well, guess that's fine with me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "(Shortly afterwards, we were able to find\\n the pancake shop, but it was even more stylish\\n than I had expected.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "(Of course, the inside of the shop was filled\\n with only female customers.\\n I felt out of place and held back, but%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "Th-these are the delicious pancakes that \\neveryone's been talking about...!\\nJust looking at them makes me feel happy.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Itsuki",
+      "texto_en": "I also can't get enough of this sweet aroma!\\nYou can feel its deliciousness\\neven before eating it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "I said it's fine...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Itsuki",
+      "texto_en": "But, Uesugi-kun?\\nYou're not even saying anything about it.\\nThat's quite impolite, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "No, that's not it.\\nLook around, there are only female customers.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "I'm the only male, aren't I?\\nI'm completely out of place...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "You don't need to worry about that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Well, I do.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "The other customers are also captivated\\nby their pancakes in front of them.\\nNobody gives a hoot about you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Ah, well now that you mention it, that's true.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "I've thought this before,\\nbut aren't you a bit self-conscious?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Itsuki",
+      "texto_en": "That's right. It's too much to think\\nthat you'll get attention for something like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Uuh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "And, men tend to be shy in situations like this%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "Delicious food is delicious,\\nso just say that you like it with confidence!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "You easily say that, but that's difficult.\\nIsn't it strange to not care about the opinions\\nof those around you in this kinda situation?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "*sigh*\\nYou really are self-conscious, aren't you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Itsuki",
+      "texto_en": "Well, since the pancakes are already in front of you,\\nyou should prepare yourself to eat them.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "You'll probably stop caring about what others think too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "Now then!\\nIt's disrespectful to just keep staring at these pancakes.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "I don't really like pancakes, though.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "You're not being honest, are you?\\nI'm talking about preferences in general,\\nnot just yours.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "Well, yeah, it's kinda weird\\nto pretend to hate something you actually like.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "That's right.\\nSuppressing your desires\\ncan also be harmful to your health.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Itsuki",
+      "texto_en": "And you're not alone here,\\nso let's enjoy ourselves openly.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "Now then!\\nIt's disrespectful to just keep staring at these pancakes.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "Maybe you're right.\\nIt's a simple thing,\\nbut I tend to overthink things and make it more difficult.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Itsuki",
+      "texto_en": "Well, that's a bad habit of yours, isn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "And you often end up failing because of it, don't you?\\nSometimes it's good to act without thinking too much,\\nand just be straightforward.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Itsuki",
+      "texto_en": "Now then!\\nIt's disrespectful to just keep staring at these pancakes.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "That's right.\\nWell then, let's savor it with care.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "O-okay.\\nThat sounds a little pompous, but I'll give it a shot.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Itsuki",
+      "texto_en": "Time to eat!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Itsuki",
+      "texto_en": "?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "Wow, I'm shocked.\\nWhat's with this fluffiness?\\nIs this actual food?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Itsuki",
+      "texto_en": "It is food, but I agree it's quite remarkable.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Itsuki",
+      "texto_en": "This is... Teehee!\\nIt's so delicious that I can't help but laugh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Itsuki",
+      "texto_en": "It feels like I'm savoring happiness...\\nEvery bite makes me gasp...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "(Haha...\\n There are two Itsukis in front of me...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Itsuki",
+      "texto_en": "Haaa...\\nMy stomach and heart are both thoroughly satisfied.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Itsuki",
+      "texto_en": "If I could eat this every day,\\nhow happy I would be...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Itsuki",
+      "texto_en": "It was truly delicious.\\nWe should thank the clerk who recommended it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "(They both look so happy.\\n I can see both of them as Itsuki.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Itsuki",
+      "texto_en": "Did you perhaps think that there were two Itsukis here?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "Oof?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Itsuki",
+      "texto_en": "I am Itsuki, you know?\\nDon't mistake me for someone else.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Itsuki",
+      "texto_en": "No, I am the real Itsuki.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "...I wonder about that.\\nIf you were the real Itsuki,\\nwouldn't you be eating more?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, well, if you're the one treating,\\nI'll eat as much as you want.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Itsuki",
+      "texto_en": "Well then, let's do that.\\nLet's go back to the restaurant!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Futaro",
+      "texto_en": "No, that's... I'm sorry, spare me!",
+      "texto_ptbr": ""
+    }
+  ]
+}

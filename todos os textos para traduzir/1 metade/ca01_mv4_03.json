@@ -1,0 +1,462 @@
+{
+  "arquivo": "ca01_mv4_03",
+  "total": 76,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Miku",
+      "texto_en": "What do you think, Raiha-chan?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Raiha",
+      "texto_en": "Hmm, that's difficult.\\nWhen I talk to everyone and see what they choose,\\neverything looks nice.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Miku",
+      "texto_en": "Yeah, I know.\\nIt's hard to decide because everything seems so good.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Wait, are you guys talking about souvenirs?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Raiha",
+      "texto_en": "Ah, big bro!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Miku",
+      "texto_en": "That's right.\\nWe were discussing what to get together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "Though, we haven't really decided yet.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "I see.\\nWell, it IS a difficult thing to decide on.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Raiha",
+      "texto_en": "But it's fun to think about it together like this too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Miku",
+      "texto_en": "What we're talking about right now\\nwill surely become a treasured memory later on.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Ah, you're right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Raiha",
+      "texto_en": "Hmmm...\\nI wonder what would work...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Miku",
+      "texto_en": "When we were at the aquarium gift shop earlier,\\nI thought chopsticks might be nice.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Chopsticks?\\nThey had those?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Miku",
+      "texto_en": "Yeah, they had cute drawings of sea creatures on them.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Raiha",
+      "texto_en": "Since we use chopsticks every day,\\nit might be nice to remember the trip\\nevery time we use them.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "That's a good idea, but...\\nit's not really a clear winner.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Raiha",
+      "texto_en": "Ah! How about a photo album\\nof pictures we took together?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "...Teehee.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Raiha",
+      "texto_en": "Huh? What's so funny?\\nDid I say something strange?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Miku",
+      "texto_en": "No, I think that's a wonderful idea.\\nAn album of everyone.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Miku",
+      "texto_en": "I just remembered something.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Raiha",
+      "texto_en": "What's that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Miku",
+      "texto_en": "Futaro also made us an album.\\nDuring our school trip.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Oh, right. I remember now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Miku",
+      "texto_en": "I guess we really do think alike since we're siblings.\\nTo come up with the same idea as Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Raiha",
+      "texto_en": "Is that so?\\nI don't think I'm that similar to big bro,\\ncompared to you quintuplets.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Please don't compare yourself to the quintuplets.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "Anyway, you're all pretty different.\\nAside from your appearance,\\nyour food preferences are pretty different too, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Miku",
+      "texto_en": "That's true about food.\\nAnd also, we like different things in general, but%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Miku",
+      "texto_en": "But we can still talk about things we both like, right?\\nIsn't that right, Futaro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Raiha",
+      "texto_en": "Huh? What now?\\nWhat do you quintuplets all like?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Miku",
+      "texto_en": "Well, that would be%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "W-wait, let's focus on the souvenir discussion!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Miku",
+      "texto_en": "Huh?\\nI wanted to talk more about what everyone likes.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "That's not necessary!\\nWhile we don't need to rush to decide on a souvenir,\\nwe do need to decide eventually, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Miku",
+      "texto_en": "Teehee!\\nAlright, it can't be helped.\\nI'll stop for now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Raiha",
+      "texto_en": "Hmm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Raiha",
+      "texto_en": "Oh, I got it!\\nI know what everyone likes now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "Raiha, please.\\nDon't say any more.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Raiha",
+      "texto_en": "Okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "So, about the souvenir. We were only thinking\\nabout buying something, but a different approach\\nlike a photo album might be good too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Miku",
+      "texto_en": "Hmm...other buying something...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Miku",
+      "texto_en": "Ah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "Did you think of something?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Miku",
+      "texto_en": "How about shells we find on the beach?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Raiha",
+      "texto_en": "Ah! That's a great idea!\\nI think that would be lovely!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "By the way, they were selling seashells too.\\nThe souvenir shop was selling them.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Miku",
+      "texto_en": "Futaro...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "Huh? Why are you rolling your eyes?\\nYou wanted seashells, right? They were being sold,\\nso we could just pick some out there%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Miku",
+      "texto_en": "That's not the point.\\nYou have to pick them up yourself.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Is that so?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Miku",
+      "texto_en": "That's how it is.\\nShells bought at a store and shells picked up\\nare completely different.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Raiha",
+      "texto_en": "Big bro, you lack delicacy\\nabout these things, don't you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "(Pshh...\\n So Raiha thinks I'm insensitive too...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "Come to think of it,\\nthere's a beach at this park too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Miku",
+      "texto_en": "Emerald Beach, right?\\nIt's supposed to be really beautiful.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Raiha",
+      "texto_en": "Wow!\\nHey, hey, let's go see it,\\nregardless of whether we pick up seashells or not.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "Don't they have to match?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Raiha",
+      "texto_en": "Oh, right.\\nThey won't be the same if we don't get the same ones.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Miku",
+      "texto_en": "But if we all pick them up together,\\nthe memory will be the same.\\nThat's good enough as it is.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Raiha",
+      "texto_en": "Yeah, that works.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "Come to think of it,\\nthere's a beach at this park too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Miku",
+      "texto_en": "Emerald Beach, right?\\nIt's supposed to be really beautiful.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Raiha",
+      "texto_en": "Wow!\\nHey, hey, let's go see it,\\nregardless of whether we pick up seashells or not.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "Not a bad idea.\\nIt would definitely be a memorable souvenir.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Miku",
+      "texto_en": "Yeah.\\nA lasting memory will be held within the shells.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Raiha",
+      "texto_en": "Whether or not the shells are pretty doesn't matter,\\nthe fact that we picked them up ourselves\\nis what's important.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "After Ocean Expo Park, we can go to the beach\\nand if we take the time to search together,\\nit could be a great memory.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Miku",
+      "texto_en": "Yeah, I'm sure we won't forget it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "Come to think of it,\\nthere's a beach at this park too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Miku",
+      "texto_en": "Emerald Beach, right?\\nIt's supposed to be really beautiful.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Raiha",
+      "texto_en": "Wow!\\nHey, hey, let's go see it,\\nregardless of whether we pick up seashells or not.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Miku",
+      "texto_en": "Yeah, I want to go too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "Alright, let's go see it, then.",
+      "texto_ptbr": ""
+    }
+  ]
+}

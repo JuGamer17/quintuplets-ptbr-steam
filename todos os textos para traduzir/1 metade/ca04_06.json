@@ -1,0 +1,222 @@
+{
+  "arquivo": "ca04_06",
+  "total": 36,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Itsuki",
+      "texto_en": "Parasailing was so fun!\\nWhat a valuable experience that was!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Raiha",
+      "texto_en": "Flying in the sky felt truly amazing!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Miku",
+      "texto_en": "Yeah, it was like taking a walk in the sky.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Nino",
+      "texto_en": "I could clearly see the boat drawing white waves\\non the blue sea surface...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Nino",
+      "texto_en": "It was like watching a scene from a movie.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Yotsuba",
+      "texto_en": "I know, right!\\nIt made me feel like I was the protagonist!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "Futaro-kun, you did it twice, but how was it?\\nDid you notice any differences the second time?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Well, since I was less nervous,\\nI could enjoy the view more. It would be even more fun\\nif we studied the terrain beforehand.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "I just don't understand why only Uesugi-kun\\ngot to ride twice. That's so unfair.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "I mean, it couldn't be helped due to the number of people.\\nWe couldn't just let Raiha ride alone.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "Well, I wanted to ride with Raiha-chan too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Ichika",
+      "texto_en": "Itsuki-chan, it seems like\\nyou really enjoyed parasailing, huh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "You were so freaked out and fidgety\\nbefore we took off, though.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "I wasn't fidgety!\\nI was just a little nervous.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Nino",
+      "texto_en": "Is that so?\\nYour voice was shaking a lot before we flew, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "Ugh, Nino!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Miku",
+      "texto_en": "Hey, Yotsuba.\\nWhat should we do next?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Yotsuba",
+      "texto_en": "Good question.\\nHmm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Yotsuba",
+      "texto_en": "We just finished parasailing,\\nso maybe we should take a break for now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "Sounds good.\\nI'm thirsty, so I'll go buy something to drink.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Miku",
+      "texto_en": "Are there any beachside shops or cafes around here?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "I saw a shop over there.\\nIf you're looking for a light meal,\\nthey might have something.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Yotsuba",
+      "texto_en": "Alright, it's free time now.\\nLet's meet back here when it's time to go.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Raiha",
+      "texto_en": "Alrighty.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "It seems like everyone had fun parasailing.\\nAwesome, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah.\\nI'm relieved that everyone enjoyed it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "We have some free time now...\\nShould we go check out some other places?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, sorry. I was actually planning to ask everyone\\nwhat they want to do next.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "I see...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "(Well, if that's Yotsuba's plan,\\n then count me in.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "Hey, I'll help out too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Yotsuba",
+      "texto_en": "No no, you take a break, Uesugi-san.\\nIt's free time, isn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "That's right, it's free time for everyone. \\nAnd what I want to do during my free time\\nis help you, Yotsuba.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, that's not fair.\\nWhen you say it like that,\\nthere's no way I can refuse.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "After we're done,\\nlet's meet up and take a break together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Yotsuba",
+      "texto_en": "Okay, got it.",
+      "texto_ptbr": ""
+    }
+  ]
+}

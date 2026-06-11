@@ -1,0 +1,288 @@
+{
+  "arquivo": "ca05_mv4_01",
+  "total": 47,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Even though it's spring,\\nthere are Santa decorations...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "Red stockings and a Christmas tree too.\\nIt's true that there are stores\\nselling Christmas goods all year round.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "It feels like it's December all year round here.\\nI remember when I sold cakes\\nin the cold weather.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, I remember that.\\nYou even delivered one to our apartment.\\nI appreciated your effort. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Ugh, but to fall into the river on the way to the \\ndelivery destination. Thank goodness everyone came \\nout of it without catching a cold.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "At that time, before I even had time to think\\nabout what would happen if you drowned,\\nmy body just moved instinctively.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "I think everyone felt the same way.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "...Right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "Th-that Christmas wasn't very good either.\\nLast year, I was too busy studying for exams\\nto even think about it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "But the party we had after the study session was \\nsmall but fun.\\nThe cake that Nino made was delicious, too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, it was a nice break.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Itsuki",
+      "texto_en": "...I'll say it now, but I was a little surprised\\nwhen you gave me a present back then, Uesugi-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Wha-what do you mean by surprised?!\\nIt was the least I could do!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "W-well, anyhow.\\nEven though I worried so much, in the end,\\nI just gave you a plain ol' Christmas card.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "But I was happy, you know?\\nI could feel your sincerity.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "That's great, then.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun, you also used the present\\nI gave you, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "That really helped me out. Thanks to the scarf\\nyou gave me, I was able to get through the winter\\nwithout any problems.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "Teehee, I'm glad I could be of help.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "I was worried about you,\\nsince you don't even wear a coat,\\neven in the middle of winter.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Sorry about that.\\nI think I'll give you something practical\\nfor this year's Christmas present.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Itsuki",
+      "texto_en": "If it's a gift from you, I'd be happy with anything.\\nEven if it's just a handwritten Christmas card.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "...I wonder how we'll spend Christmas this year?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "That's still a long way off. I can't even imagine it,\\nand there are too many things that could happen\\nbefore we get to Christmas.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "Ahaha...\\nFirst of all, I'm worried about\\nkeeping up with my classes at university.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Maybe this Christmas will just have to be a simple one.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "Oooohh!\\nI'll do my best to make sure that doesn't happen!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "You swear?\\nRepeating a school year is out of the question, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "I want to spend it together.\\nIt IS Christmas, after all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "Y-yes, that's true.\\nJust the two of us, Uesugi-kun and I%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "B-but!\\nIsn't it important\\nto spend Christmas with family, too?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Itsuki",
+      "texto_en": "In fact, it seems like spending Christmas with family\\nis more common overseas!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Well, whether it's just the two of us or with everyone else,\\nas long as we spend it together, that's enough for me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Itsuki",
+      "texto_en": "...Me too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Let's have a big party this year!\\nSo we can make up for last year!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "That's a great idea.\\nLet's invite Raiha-chan too and have fun with everyone.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "We'll prepare a big cake and roast a chicken.\\nI also want to decorate a gorgeous Christmas tree.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Why don't we buy some decorations from this store now\\nwhile we're at it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "That's a bit too early, don't you think?\\nIt'll become a burden to carry around.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Itsuki",
+      "texto_en": "But, I understand how you feel.\\nI'm looking forward to it too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "Actually, how about we exchange gifts,\\njust the two of us,\\nafter the party with everyone?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "That...makes me even more excited.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Alright!\\nI'll carefully think about it\\nand give you the best present!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "Is it okay to say something like that?\\nYou're raising the bar pretty high.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "...Don't get your hopes up too high.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "(I suppose this will be my third Christmas with Itsuki.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "(The seasons will come and go.\\n But no matter how many do, I'm sure I'll always be\\n looking forward to how I'll spend that day with her.)",
+      "texto_ptbr": ""
+    }
+  ]
+}

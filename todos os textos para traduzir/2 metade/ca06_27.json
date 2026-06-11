@@ -1,0 +1,540 @@
+{
+  "arquivo": "ca06_27",
+  "total": 89,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Itsuki",
+      "texto_en": "*sigh*\\nIt was a tough day today...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "I'm really exhausted...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Ichika",
+      "texto_en": "Sorry, everyone. If I had been a little more careful,\\nwe wouldn't have caused such a commotion.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Yotsuba",
+      "texto_en": "No, it's not your fault, Ichika.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Yotsuba",
+      "texto_en": "Since we were all dressed the same way, I think\\nit was only a matter of time before we got caught,\\nattracting that much attention.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "But I didn't expect it to cause such a commotion.\\nAfter the park, we couldn't really do any sightseeing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "Yeah, I felt like we were\\njust running around the whole time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "Miku, I bet you and Uesugi-san had it \\nreally tough with all that running around.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Miku",
+      "texto_en": "I'm at my limit...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Yotsuba",
+      "texto_en": "WHA?!\\nYour soul is leaving your body!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "Miku, stay strong!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "I-it's okay.\\nSomehow, I'm still alive.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Miku",
+      "texto_en": "But, it's been a while since I felt like this.\\nIt's like being a kid again.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "Yeah, it was kind of nostalgic.\\nWe always wore matching outfits back then,\\nso people we met for the first time were surprised.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "For strangers, quintuplets themselves \\nare already quite rare.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Yotsuba",
+      "texto_en": "That may be so.\\nIf we keep going on like this,\\nwon't Uesugi-san also be in trouble?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "Yeah... If we keep attracting attention\\neverywhere we go, it won't be a quintuplets game anymore.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "The deadline is tomorrow evening,\\nbut it'll be tough to finish like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Nino",
+      "texto_en": "But that doesn't mean we should extend the deadline.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "If Fu-kun doesn't give an answer and finishes the trip,\\nour relationship might continue to deteriorate.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "That's the one thing I absolutely don't want.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Miku",
+      "texto_en": "Yeah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "He also seems like he's desperately\\ntrying to tell us apart%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Itsuki",
+      "texto_en": "I hope he can sort out his feelings properly, though.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Yotsuba",
+      "texto_en": "Umm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Miku",
+      "texto_en": "Yotsuba?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Yotsuba",
+      "texto_en": "So, like?\\nThe quintuplet game we're playing now\\nis to confirm Uesugi-san's feelings, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Miku",
+      "texto_en": "Of course.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Nino",
+      "texto_en": "We dress up in disguise, and Fu-kun\\nhas to identify the person he's chosen\\nin his heart and confess to them.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Yotsuba",
+      "texto_en": "That's right!\\nBut, the way Uesugi-san is right now%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Yotsuba",
+      "texto_en": "I feel like he's just trying to figure out\\n'which Itsuki is which.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Nino",
+      "texto_en": "...Eh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, I'm with Yotsuba here.\\nI feel the same way.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Ichika",
+      "texto_en": "We might have gone too far this time.\\nWe not only disguised ourselves,\\nbut also did various things to confuse Futaro-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Nino",
+      "texto_en": "Ah...\\nI also pretended to be one of you\\nwhen he was catching on.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Yotsuba",
+      "texto_en": "So, I wonder if that's why he was so\\ndetermined to see through our disguises?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "Indeed...\\nHe didn't want to deny everything he had built\\nup to this point, so he became really desperate...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Ichika",
+      "texto_en": "Hmm, it seems like the purpose and the means\\nare all jumbled up in Futaro-kun's mind.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "Yet, the deadline is tomorrow.\\nIf we don't do something soon...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Miku",
+      "texto_en": "No, it's okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "Miku?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Miku",
+      "texto_en": "Futaro isn't good at romance,\\nso he tends to make mistakes in situations like this,\\nbut he's still trying his best.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Miku",
+      "texto_en": "Even though half a year has passed,\\nhe still decided to give us an answer this time%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Miku",
+      "texto_en": "It's because Futaro is facing us properly.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Miku",
+      "texto_en": "That's why I believe in him.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "...Well, I suppose so.\\nHe's probably serious in his own way.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Miku",
+      "texto_en": "And, during the hot springs trip a year ago,\\nFutaro was able to tell it was me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah...\\nWhen we were dressed like Itsuki at Grandpa's house?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Ichika",
+      "texto_en": "Yeah...\\nThat's right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Miku",
+      "texto_en": "He's got to have improved more from that time...\\nNo matter who he chooses, we have to accept it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Miku",
+      "texto_en": "I want Futaro to know everything.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Nino",
+      "texto_en": "I agree.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Nino",
+      "texto_en": "The time when we had the same appearance\\nand personality is a thing of the past now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Nino",
+      "texto_en": "Now, we all have different likes and dislikes.\\nEveryone has changed.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Nino",
+      "texto_en": "Since Fu-kun came into our lives as a tutor,\\nthings have changed even more, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Miku",
+      "texto_en": "Nino, you say that,\\nbut I think you're the one who has changed the most.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Nino",
+      "texto_en": "Well, you've changed a lot too, haven't you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Nino",
+      "texto_en": "Well, I guess there have been a lot of things\\nthat have happened in the past year and a half.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Nino",
+      "texto_en": "I want Fu-kun...\\nto understand all of that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Nino",
+      "texto_en": "You guys feel the same way, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Ichika",
+      "texto_en": "...Yeah.\\nWe can change our appearance\\nand way of speaking as much as we want.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Ichika",
+      "texto_en": "But we can't change\\nthe most important part in our hearts.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Ichika",
+      "texto_en": "If he can realize that, then I'd be happy.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Nino",
+      "texto_en": "If not, I won't be satisfied.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Ichika",
+      "texto_en": "Futaro-kun may be inept at romance and indecisive,\\nbut he tries his best.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Ichika",
+      "texto_en": "He's a hard worker, so it's impolite to say\\nthat he can't do it or that it's impossible.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Yotsuba",
+      "texto_en": "We just have to trust Uesugi-san.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, let's trust him.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Miku",
+      "texto_en": "...It's finally tomorrow.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Itsuki",
+      "texto_en": "Tomorrow...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Ichika",
+      "texto_en": "Well then! Let's take a break,\\nand prepare for tomorrow.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Nino",
+      "texto_en": "Agreed. Miku,\\nlet's head back to our room.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Miku",
+      "texto_en": "Okay. Yotsuba, good night.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Yotsuba",
+      "texto_en": "Good niiight!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Ichika",
+      "texto_en": "Itsuki-chan, shall we go?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Itsuki",
+      "texto_en": "Excuse me.\\nThere's something I want to talk to Yotsuba about\\nin private.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Ichika",
+      "texto_en": "With Yotsuba?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Ichika",
+      "texto_en": "...Alright.\\nThen, I'll head out first.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Yotsuba",
+      "texto_en": "Have you made your decision, Itsuki?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Itsuki",
+      "texto_en": "...I've been thinking hard since then, too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Itsuki",
+      "texto_en": "'Love' is a very complicated issue, isn't it?\\nI can now understand why Uesugi-kun\\nhas been struggling with it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Itsuki",
+      "texto_en": "And, how much you all\\nhave been burning with these feelings.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 84,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 85,
+      "personagem": "Itsuki",
+      "texto_en": "I will be ready to accept\\nwhatever may come, from here on out.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 86,
+      "personagem": "Itsuki",
+      "texto_en": "That's why I won't regret tomorrow,\\nno matter how it ends.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 87,
+      "personagem": "Yotsuba",
+      "texto_en": "I see.\\nI'm glad we made it in time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 88,
+      "personagem": "Itsuki",
+      "texto_en": "...Yes.",
+      "texto_ptbr": ""
+    }
+  ]
+}

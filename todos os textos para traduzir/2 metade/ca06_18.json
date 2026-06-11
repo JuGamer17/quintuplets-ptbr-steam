@@ -1,0 +1,282 @@
+{
+  "arquivo": "ca06_18",
+  "total": 46,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(I've come to the museum's exhibition corner...\\n Oh, there they are.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Yo, what are you looking at?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, Uesugi-kun.\\nAre you interested in history too?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Sort of. Is it just the two of you here?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, everyone else went to the art museum.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "It looks like we managed to avoid attention\\nfrom the crowds. Splitting up was a good idea.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, now we can take our time to see the exhibits.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "(It's just the two of them in the exhibition corner.\\n This might be a chance to expose Miku.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "They're displaying pottery...\\nHm? Is this from the Stone Age?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "We're looking at the Prehistoric period exhibit.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Isn't this quite an old era?\\nWouldn't you be more interested\\nin the exhibit about the Ryukyu Kingdom?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Itsuki",
+      "texto_en": "You really don't understand, do you, Uesugi-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "Don't you think that by looking at these exhibits in\\nchronological order, starting from the oldest era, we\\ncould gain a deeper understanding of Okinawa's history?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "That is true, I guess.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "(Miku would probably go straight to the exhibit\\n about the Sengoku warlords.\\n With her serious attitude, is this Itsuki?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "So, did you see any interesting exhibits?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "Over there, there were some exhibits about shell mounds.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "There were not only topographical models and shells,\\nbut also decorative objects and pottery\\nthat came from the same location.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "We learned about it in class,\\nbut it's even more interesting to see\\nand hear explanations about it in a place like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Shell mounds were like garbage dumps.\\nThey're valuable evidence that can\\ntell us about the lifestyles of people in the past.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, bones of sea creatures such as dugongs\\nand sea turtles were also found at those mounds,\\nalong with shells and fish bones.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Wow, I'm surprised to hear about dugongs.\\nI wonder if people ate them...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "Although it's a little sad...\\nthese are also the roots of food culture, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Itsuki",
+      "texto_en": "But it feels like a violation of privacy,\\nto be able to investigate someone's garbage dump\\nfrom a later time period.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Well, even our garbage could become artifacts\\nhundreds of years later, couldn't it...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "(What she's saying is Itsuki-like,\\n but the way she picks up on things is Yotsuba-like.\\n I have no clue.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "However, it's strange that shell mounds\\nare named after shells\\nwhen they're not the only things found there!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "(Huh? That was an extremely\\n Yotsuba-like comment just now,\\n wasn't it? So is this actually Yotsuba?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "Perhaps if there were more dugong bones than seashells,\\nit could have been called a dugong mound.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "Eh?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "(That was REALLY like a Yotsuba line now, wasn't it?\\n Which one is it...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "When it comes to Okinawan shells, it's the yakougai\\nshellfish, right? It seems that the standard way to eat it is to \\nslice it thinly and eat it as sashimi or stir-fried in butter.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Is there such a dish?\\n...You can eat yakougai shellfish, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "After all, it's a local flavor.\\nLet's be sure to eat it during this trip.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "(Now it's about food.\\n Actually, this might be Itsuki...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "When it comes to the shells of the yakougai, they're also used\\nfor inlaying mother-of-pearl. They were used to decorate\\nthe swords and armor of Warring States warlords.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Wow...\\nYou really know your stuff.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "(And now, we're talking about warlords!\\n If that's the case, then this is Miku...\\n No, that's too obvious...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun?\\nIs something wrong? You're making a strange face.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "If you're tired, there's a cafe nearby\\nwhere we can take a break.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "N-no, I'm fine.\\nYou guys are surprisingly knowledgeable about Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "Heheh, are you surprised?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "We did a little research before the trip.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "...I see.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "(I can't take it anymore...\\n My head is getting all mixed up\\n and I can't tell who's who anymore...)",
+      "texto_ptbr": ""
+    }
+  ]
+}

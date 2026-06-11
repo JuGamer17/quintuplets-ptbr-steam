@@ -1,0 +1,432 @@
+{
+  "arquivo": "ca03_11",
+  "total": 71,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(The art museum exhibited contemporary artworks by artists\\n associated with Okinawa.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(There were also huge sculptures placed outdoors,\\n and we all enjoyed the art to a great extent.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(However, I couldn't fully concentrate on the tour.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "(During breaks, I asked the other quintuplets\\n about Miku.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "(But, it was unsuccesful. Everyone thinks something\\n is wrong with how Miku's acting, but no one\\n has any reason why.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "(After finishing the museum tour, it was already\\n evening, and we enjoyed a luxurious dinner\\n as planned, before returning to the hotel.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "(They told me that they don't know what's going on,\\n but they also said that its unlikely\\n Miku has any negative feelings towards me.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "(I knew that, but to be honest,\\n it was a relief, hearing it from her sisters.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "(And Miku, the person in question, was still the same\\n during the museum tour.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "(Sometimes, she spoke to me as she usually would.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "(And, if I replied, she would smile happily.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "(But, whenever I try to initiate a conversation.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "(She suddenly starts stumbling on her\\n words, blushing...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "(Strangely distancing herself, or even trying to run away.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "(...What the hell is going on?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "???",
+      "texto_en": "Uesugi-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "Why are you standing here, lost in your thoughts?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Itsuki...\\nYotsuba and Raiha as well.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "You didn't go back to your room? You've been here all this time?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "That room is too big. I can't relax there.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Raiha",
+      "texto_en": "Huh? It's even more spacious in here, no?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "No, I didn't mean it in terms of space...\\nWhatever, don't worry about it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "So, what do you want?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "You guys gathered and came all this way to the lobby.\\nYou came looking for me\\nbecause I wasn't in my room, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "So you already know why we are here, don't you?\\nEveryone is worried about you and Miku.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Well, I guess that's natural.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahh!\\nDon't make that face.\\nWe're not blaming you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "...Did my face look that scary?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Raiha",
+      "texto_en": "Yeah, it's a face I've never seen before.\\nAre you okay, big bro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Honestly, I can't say that I am...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "Actually...\\nI had a little talk with Miku at the museum.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "What?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Raiha",
+      "texto_en": "Huh? I can't believe you're actually discussing this topic\\nwith me, big bro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "That just goes to show how much you care about Miku, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Raiha",
+      "texto_en": "Oh, I see.\\nYou're also struggling with love, huh, big bro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "Actually...\\nI talked a little with Miku at the museum.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "What?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "To me, it seemed like she was wanting to be with you,\\nbut there was a reason she couldn't.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "A reason she couldn't?\\nWhat could that be?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "I didn't ask her directly,\\nbut that's just how I felt,\\nso I don't know for sure.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "I see...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Yotsuba",
+      "texto_en": "So she wants to get along,\\nbut there's a reason she can't...\\nWhat could the reason be?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Raiha",
+      "texto_en": "Well, if it were me, it would be something \\nlike having a fight with a friend and wanting to\\nmake up, but not being able to find a way to do so.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, I totally get that!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "But, Miku and Uesugi-kun\\nnever fought before...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "We haven't. If we had, Miku wouldn't be avoiding me\\nlike this. If that were the case, I would've acted\\na long time ago and apologized.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Yotsuba",
+      "texto_en": "Miku does have a stubborn side though...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Yotsuba",
+      "texto_en": "Even if they fought,\\nI also don't think she would avoid Uesugi-san like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Itsuki",
+      "texto_en": "...It doesn't seem like we're getting anywhere\\nby just thinking about it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "Anyway, the only solution\\nis to talk to Miku directly.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Itsuki",
+      "texto_en": "I'm sure Miku herself would like\\nto resolve this situation.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "That may be true, but if I try to talk to her,\\nshe'll just run away.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Yotsuba",
+      "texto_en": "How about creating a situation\\nwhere Miku would feel comfortable talking?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Raiha",
+      "texto_en": "A comfortable situation?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Yotsuba",
+      "texto_en": "For example...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Yotsuba",
+      "texto_en": "I know! How about inviting Miku and Uesugi-san\\nto a place where they have fond memories?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Yotsuba",
+      "texto_en": "That way, they could start with reminiscing\\nabout their memories\\nand create a comfortable atmosphere to talk.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Raiha",
+      "texto_en": "Oh, that's a good idea!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Itsuki",
+      "texto_en": "Wait a minute. That's not possible.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Yotsuba",
+      "texto_en": "Why?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Itsuki",
+      "texto_en": "We're in Okinawa right now, remember?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Raiha",
+      "texto_en": "Ah, that's right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahaha, true that.\\nRather, we're going to make memories from now on,\\naren't we?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Yotsuba",
+      "texto_en": "I'm sorry, Uesugi-san.\\nI might've said something off-topic.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "...No, that's actually a great idea.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh? Really?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "Yeah. That's a great idea!\\nI'm gonna go someplace memorable for both Miku and I tomorrow!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Raiha",
+      "texto_en": "Huh?\\nWhat are you talking about, big bro?",
+      "texto_ptbr": ""
+    }
+  ]
+}

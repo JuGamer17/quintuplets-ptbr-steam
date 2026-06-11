@@ -1,0 +1,336 @@
+{
+  "arquivo": "ca03_03",
+  "total": 55,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "Wow, the night view is beautiful!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, it definitely lives up to its expectations.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Nino",
+      "texto_en": "But I'm not really in the mood to relax and enjoy it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "Yes.\\nWe were talking about how\\nsomething's off with Miku%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "No doubt, now that I think back on what Ichika and the others\\nhave said, there was definitely something off about her.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Yotsuba",
+      "texto_en": "What's Miku doing?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "She's curled up inside the bed in our room.\\nShe seems to be absent-minded\\nno matter what we say to her.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Nino",
+      "texto_en": "So even if we're all gathered here like this,\\nshe probably won't notice us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, but what about Uesugi-kun?\\nIs there a possibility he might come here...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "It's okay.\\nI asked Raiha-chan not to let him out of his room.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Ichika",
+      "texto_en": "Raiha-chan also thought that something was strange\\nabout how Miku was acting.\\nI'm glad we are on the same page.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Yotsuba",
+      "texto_en": "Hey, didn't Uesugi-san also seem troubled by Miku?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, it seemed that way.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Yotsuba",
+      "texto_en": "Then it's unlikely that Uesugi-san\\ndid something to upset her, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Nino",
+      "texto_en": "I don't know. Knowing Fu-kun, he might be unaware\\nthat he did something to upset her.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "That actually seems more likely.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Ichika",
+      "texto_en": "Ahaha...\\nFutaro-kun has an unusual kind of credibility, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "His lack of delicacy is really frustrating though.\\nMaybe he did something\\nthat made Miku want to avoid him.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Yotsuba",
+      "texto_en": "But he wasn't like this\\nbefore we came to Okinawa, was he?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "From the time we've gathered and got on the plane today,\\nwe've been together the entire time...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Yotsuba",
+      "texto_en": "If Uesugi-san did something,\\nwe would have noticed it too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "Well, ideally, we'd like Futaro-kun,\\nher boyfriend, to make the first move,\\nbut based on his behavior earlier, I don't know.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Nino",
+      "texto_en": "That's right.\\nThose two are dating, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "Don't tell me you're still bothered by the fact you weren't chosen, after all this time...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "I'm not saying that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "The fact is that she confessed to Fu-kun,\\nand he answered back to her. That's undeniable.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Ichika",
+      "texto_en": "That's true.\\nOut of all of us, Miku was trying the most to win over his heart.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, Miku is amazing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "Yes.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "That being said!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Nino",
+      "texto_en": "In the past six months,\\nI'm not the only one who has started to doubt\\nwhether those two are really dating, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Ichika",
+      "texto_en": "Ahhh...\\nWell, maybe a little?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Ichika",
+      "texto_en": "But Futaro-kun had his exams which he had to worry about,\\nand he was also helping us with our studies.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Ichika",
+      "texto_en": "As for Miku, she was probably trying to be considerate.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Nino",
+      "texto_en": "Well, the exams are over now. We're finally graduating\\nand going on a celebratory trip.\\nPlus, it's their first trip together as a couple!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Nino",
+      "texto_en": "Shouldn't she want to say things like\\n'I want to be with Fu-kun more' or\\n'I don't want to be in a different room than him.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "Th-that's not allowed!\\nHaving a boy and girl in the same room\\nwould make our mother sad!!!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Nino",
+      "texto_en": "Of course, we'd stop them if she actually says that.\\nBut she hasn't, and why is she avoiding Fu-kun like that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Yotsuba",
+      "texto_en": "Hmmm. Maybe%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Yotsuba",
+      "texto_en": "Maybe Miku's being considerate because\\nthis is a trip for everyone,\\nnot just for Uesugi-san and her.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "That could be possible.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Nino",
+      "texto_en": "But why does she need to do that...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Ichika",
+      "texto_en": "Then, ask her that, maybe?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Nino",
+      "texto_en": "Mmmh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Nino",
+      "texto_en": "Well, I don't really care about her love life,\\nand I don't plan on getting in the way either.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Ichika",
+      "texto_en": "I seeee.\\nA girl's heart is complex, indeed.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Nino",
+      "texto_en": "What's with that cute smile?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Yotsuba",
+      "texto_en": "Even if we tell Miku she doesn't have to\\nhold back or anything,\\nI'm sure she'll still be concerned.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Itsuki",
+      "texto_en": "And this isn't just Miku's problem, is it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Itsuki",
+      "texto_en": "We can't rule out the possibility\\nthat Uesugi-kun might be the one who caused this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "Considering his behavior when we arrived in Okinawa,\\nhe seemed to be getting carried away by the excitement too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeeaah...\\nit's easy to get carried away with travel excitement.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Ichika",
+      "texto_en": "We might need to confirm this.",
+      "texto_ptbr": ""
+    }
+  ]
+}

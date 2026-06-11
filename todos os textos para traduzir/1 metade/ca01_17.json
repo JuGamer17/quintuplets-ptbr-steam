@@ -1,0 +1,612 @@
+{
+  "arquivo": "ca01_17",
+  "total": 101,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(While being questioned by the four sisters,\\n we made our way to Ocean Expo Park%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(Immediately after entering Churaumi Aquarium,\\n we came upon a large tank at the front.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Raiha",
+      "texto_en": "Waahh...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Amaaazing...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, it's breathtaking...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Miku",
+      "texto_en": "Oh, a whale shark is coming this way.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "Wow, so impactful!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "At this size, it's not just a tank, it's like the ocean!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "It certainly is big, but calling it an ocean is \\na little bit of an overstatement.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "I've heard about it,\\nbut it's hard to believe there's a tank this big.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Ichika",
+      "texto_en": "It's really surprising.\\nI've seen photos, but it's beyond my imagination.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Ah, just seeing this\\nmakes me feel like it was worth coming.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Raiha",
+      "texto_en": "I wonder how many fish are in here?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Yotsuba",
+      "texto_en": "Alrighty, let's count them!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "Um, isn't that a bit reckless?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "Even just looking at this tank\\ncould take up all our time,\\nbut there are so many other things to see.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, and as for the attractions,\\nwe can view this large tank from above.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Miku",
+      "texto_en": "From above? That sounds interesting.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Yotsuba",
+      "texto_en": "I heard there's also\\nan exhibit of deep-sea fish over there.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "I want to take a closer look\\nat the tropical fish tank we saw earlier.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Ichika",
+      "texto_en": "Oh dear, it seems like\\nwe all want to see different things again.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Then let's just wander around the aquarium on our own.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "Alright.\\nThen let's meet up here afterwards.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Raiha",
+      "texto_en": "Okaaay!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Ichika",
+      "texto_en": "What about you, Futaro-kun?\\nIs there anywhere you want to go?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Honestly, I'm still feeling tired from this morning.\\nI don't really feel like moving around much, so I was\\nthinking of chilling here and watching the large tank.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "Well, in that case,\\nI researched a special spot beforehand.\\nWhy don't we go there?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "A special spot?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "Hooray, we got such a great spot to sit at.\\nWe hit the jackpot, didn't we?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Right in front of the large tank.\\nIt really feels like we're underwater here.\\nI can understand why you call it a special spot.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Ichika",
+      "texto_en": "I know, riiight? I thought it would be amazing\\nto sit here when I was doing my research.\\nWe're really lucky to have found it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Ichika",
+      "texto_en": "Well, let's order some food for now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "It feels like...I could lose track of time here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, I could watch this foreeever.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Ichika",
+      "texto_en": "Oh? What kind of fish\\nwas that school that just swam by?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "That was probably the giant trevally,\\npopular among anglers.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Ichika",
+      "texto_en": "Oh, it's a type of jackfish.\\nIt looks so different from the ones you see in the markets.\\nBut maybe it's delicious, since it's a jackfish?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "I wonder.\\nI've never tasted it before.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Ichika",
+      "texto_en": "Well, even if you had,\\nyour assessment of the flavor would be questionable.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Leave me alone.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Ichika",
+      "texto_en": "Do you know any other types of fish?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Well, there are a few, but...\\nI don't know most kinds, to be honest.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Ichika",
+      "texto_en": "Wow, even you don't know some of them, Futaro-kun?\\nIs it because there are so many different types?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "No, I just don't really know much about fish species.\\nIt's not like it's going to be on a test or anything.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Ichika",
+      "texto_en": "Haha, yeah, I guess you're right.\\nNino and Raiha-chan\\nprobably know more about fish than we do.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Ichika",
+      "texto_en": "So, what other kinds of fish%p-2;――%p; wow!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "You're a bit too surprised,\\njust because a manta ray swam by.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Ichika",
+      "texto_en": "Of course I'd be surprised!\\nIt came out of nowhere!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "If you look closely at this tank,\\nthere are a few creatures that look like manta rays,\\nbut they all seem slightly different.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Ichika",
+      "texto_en": "Hmm? Now that you mention it, you're right.\\nLet me look it up on my phone real quick.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Ichika",
+      "texto_en": "Let's see, apparently, mantas swim near the surface of\\nthe ocean and eat plankton. On the other hand,\\nstingrays eat things like clams near the ocean floor.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Ichika",
+      "texto_en": "Oh, you can tell them apart just by their appearance.\\nLook, a picture comparison came up.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Hmm? Let me see, now?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Ichika",
+      "texto_en": "!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "Oh, I see.\\nTheir facial features are different\\nbecause they have different diets.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Ichika",
+      "texto_en": "I-I see.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "Huh?\\nWhat's wrong%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "S-sorry! You got too close!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Ichika",
+      "texto_en": "No, it's okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Ichika",
+      "texto_en": "...I was just thinking.\\nThis sort of thing...\\nIt's like we're together, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "W-well, I guess.\\nIt just feels like\\nI can't get used to it...or something...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Ichika",
+      "texto_en": "I have a feeling I'll never really get used to this.\\nMy feelings for you, I mean...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Ichika",
+      "texto_en": "Gosh, look at me.\\nSorry, I didn't mean to get all embarrassing like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Ichika",
+      "texto_en": "Alrighty! Let's have a contest to see\\nwho can tell the difference between\\nmanta rays and stingrays better!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah! Bring it on!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Employee",
+      "texto_en": "That's all for your order.\\nPlease take your time and enjoy.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Ichika",
+      "texto_en": "Thaaank you very much.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "Ichika, is that latte art or somethin' on your drink?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Ichika",
+      "texto_en": "I'm not sure what kinda fish,\\nbut there are so many cute little fishies here.\\nIt's so nice to receive this kind of hospitality.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Ichika",
+      "texto_en": "Oh, I'll take a picture.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Ichika",
+      "texto_en": "And, upload it...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "Upload?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Ichika",
+      "texto_en": "Upload it onto social media.\\nHave you never used it before, Futaro-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Futaro",
+      "texto_en": "I don't know how to use it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Ichika",
+      "texto_en": "Whaaat?\\nIt's convenient for us to keep in touch, \\nso hurry up and learn it already.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "I just find it bothersome.\\nBesides, if amateurs meddle with it,\\nthey might fall for scams, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Ichika",
+      "texto_en": "Pff! Ahaha!\\nAre you serious, Futaro-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Futaro",
+      "texto_en": "Obviously?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Ichika",
+      "texto_en": "Oh, I see.\\nYou're sometimes overly cautious,\\neven though you can be incredibly bold too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Ichika",
+      "texto_en": "If you're careful, you'll be safe from scams.\\nSo why not give it a try? No pressure.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Futaro",
+      "texto_en": "You think so?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Futaro",
+      "texto_en": "(Maybe I should give social media a shot.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Futaro",
+      "texto_en": "Can't we just text?\\nThat should be enough for communication.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Ichika",
+      "texto_en": "That's so like you, Futaro-kun.\\nOf course, we can use email to stay in touch, but%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 84,
+      "personagem": "Ichika",
+      "texto_en": "Social media is easier,\\nso you might feel like contacting me\\njust for trivial things.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 85,
+      "personagem": "Ichika",
+      "texto_en": "I'd be happy if I could have a casual chat with you,\\neven when we're far apart.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 86,
+      "personagem": "Futaro",
+      "texto_en": "If you put it that way... Sounds good.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 87,
+      "personagem": "Futaro",
+      "texto_en": "(Maybe I should give social media a shot.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 88,
+      "personagem": "Futaro",
+      "texto_en": "Well, that's the plan.\\nIt seems convenient in some way.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 89,
+      "personagem": "Ichika",
+      "texto_en": "Oh my, impressive, impressive.\\nIt makes me happy\\nto see you taking initiative, Futaro-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 90,
+      "personagem": "Futaro",
+      "texto_en": "There's nothing wrong\\nwith making it easier to stay in touch.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 91,
+      "personagem": "Ichika",
+      "texto_en": "Then, when you start using it,\\nlet's create a group chat just for the two of us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 92,
+      "personagem": "Futaro",
+      "texto_en": "A group ch—? What?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 93,
+      "personagem": "Ichika",
+      "texto_en": "I'll explain all of that to you,\\nstep by step.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 94,
+      "personagem": "Futaro",
+      "texto_en": "Okay, that's a relief.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 95,
+      "personagem": "Futaro",
+      "texto_en": "(Maybe I should give social media a shot.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 96,
+      "personagem": "Futaro",
+      "texto_en": "...Phew.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 97,
+      "personagem": "Futaro",
+      "texto_en": "(Giving more effort just to communicate \\n with other people, huh?\\n I never thought I'd see the day%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 98,
+      "personagem": "Futaro",
+      "texto_en": "(I've changed a lot, surprisingly.\\n But this is good. No, this is great.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 99,
+      "personagem": "Futaro",
+      "texto_en": "All right, I'll take some photos too!\\nThey'll come in handy when I start social media!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 100,
+      "personagem": "Ichika",
+      "texto_en": "Oh? You're motivated.\\nI'm looking forward to the messages you'll send me.",
+      "texto_ptbr": ""
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "arquivo": "ca06_31",
+  "total": 13,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "...It's lonely to be alone.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(Finally, the time for the answer has come.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(They are all waiting for me in their respective places.\\n Each one has told me where to find them.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "(All I have to do is confess to them, \\n then the game will be over.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "(No matter what the result may be,\\n it will mark a milestone in the relationship\\n for the six of us.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "(The days of this graduation trip\\n have really passed by so quickly.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "(But I am different from the night of the after-party.\\n I've decided on my feelings,\\n and am prepared to express them.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "(I wonder if I have the right to confess to them,\\n being someone like me...\\n But that's not for me to decide.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Who decides, is%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "It's time...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "(The fifth message.\\n It seems like everyone\\n has safely arrived at the meeting place.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "...Time to go.",
+      "texto_ptbr": ""
+    }
+  ]
+}

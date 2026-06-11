@@ -1,0 +1,90 @@
+{
+  "arquivo": "ca03_09",
+  "total": 14,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(The special exhibition was about introducing\\n the Kyushu warlords, with a focus on the Shimazu clan,\\n who had a liaison with the Ryukyu Kingdom.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(There were many exhibits unique to the local area,\\n and Miku was especially excited, and told me\\n about various things.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(However, when I spoke to her, she seemed absent-minded\\n and disappeared without me realizing it.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "(Miku seems normal, aside from when I speak to her.\\n All and all, she seems to be enjoying the trip.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "(There is no doubt that Miku is worried about something.\\n It's yet to be confirmed whether I am the cause\\n or reason for it...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "(This is not the time to be worried about wanting \\n to kiss her anymore. If Miku is suffering, I have to do \\n something about it. After all, I am Miku's%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "Well then, shall we go to the neighboring art museum?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Raiha",
+      "texto_en": "There's also an art museum, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, our tickets include\\nboth the museum and the art museum.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Yotsuba",
+      "texto_en": "Then we shouldn't miss it!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "O-okay, let's go, eh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Miku",
+      "texto_en": "Yeah...",
+      "texto_ptbr": ""
+    }
+  ]
+}

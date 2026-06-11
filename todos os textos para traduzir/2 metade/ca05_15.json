@@ -1,0 +1,624 @@
+{
+  "arquivo": "ca05_15",
+  "total": 103,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Itsuki",
+      "texto_en": "During the daytime, it was a lively place, but...\\nthe atmosphere has changed a bit, hasn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "It's like it's calm now.\\nIt's perfect for a leisurely walk.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, I'm glad we came.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "(The light show isn't so flashy,\\n but the buildings floating in the dusky light\\n are almost dreamy.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "Shall we walk slowly?\\nWe shouldn't miss out on this scenery.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Yeah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "...What's that sound?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "That's a 'sanshin.'\\nSomeone is playing it over there.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "You know...what a sanshin is, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, it's a traditional Okinawan instrument\\nsimilar to a shamisen, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "I've only been in Okinawa for two days, but\\nI've heard this sound many times already.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, I guess we've become more familiar with\\nOkinawa than expected.\\nThis is just a natural part of Okinawan people's lives.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "The cityscape is clearly filled\\nwith a European atmosphere, and whenever\\nI hear this melody, it reminds me of being in Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "Although they seem mismatched...\\nIt feels perfectly natural...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "This atmosphere is something that you can't appreciate\\nunless you actually come here. After all, you really can't \\nknow until you see and hear it for yourself.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "Absolutely.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "I'm happy...that I can feel this way\\nwith you, Uesu... Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "...I feel the same way.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "I could listen to this forever,\\nbut shall we go soon?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Oh, the projection mapping is about to start.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "According to the guide, this is the venue.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "(There are other people who seem to be waiting\\n for it to start,\\n so it looks like we're in the right place...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "Could it be that they're going to project images\\nonto these stairs?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "I see, so this is the screen.\\nI wonder what we'll be able to see?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "...Oh, looks like it's starting.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "(Particles of light appear on the stairs\\n that go along with the music.\\n Then it gradually increases%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "(Wow, it's like a sea of blue light.\\n This must be a representation\\n of the sea in Okinawa.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "Wow...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "(Creatures from the sea of Okinawa\\n come out, one after another.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "(Small fish form schools, and giant rays and whales\\n follow their paths of light and overtake them%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "This is...beyond imagination...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "Yes! It's so fantastical!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Itsuki",
+      "texto_en": "Whales, sea turtles,\\nand various types of fish\\nreally seem to be swimming in a sea of light...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "Watching this...\\nI feel like I'm swimming around in the sea with them.\\nIt's such a great feeling.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Yeah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "...Looks like it's over.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "I wonder how long the program was.\\nIt felt like it was over in an instant.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, I was completely absorbed in it\\nuntil the end without saying a word.\\nOther people seemed to be feeling the same way.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Only the children seemed to be lively.\\nThey were so excited,\\nwondering if what they saw was real.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "Teehee, the children must find it very magical.\\nEven though it looks like they're really there,\\nyou can't actually touch them.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "...Ah, so, what are we going to do now?\\nThe projection mapping that we came for is over...\\nshould we go back?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "Just a little longer...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Okay, just a little longer wouldn't hurt.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "Yes...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Itsuki",
+      "texto_en": "Oh?\\nWhere did everyone go?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "They might have left\\nsince the projection mapping is over.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "(It's just us... There's no one else...\\n This is...!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Itsuki",
+      "texto_en": "...Well, you can't really see the sea well\\nat this time of the day.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Itsuki",
+      "texto_en": "But even now, at this moment,\\nthere are surely many creatures swimming in the sea\\nlike in the video we just saw.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "W-well, I guess so.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Itsuki",
+      "texto_en": "In the video, they jumped out of the sea\\nand danced in the starry sky, didn't they?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, that was the most beautiful part.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Itsuki",
+      "texto_en": "I wonder if even the creatures living in the sea,\\nlook up at the sky%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Itsuki",
+      "texto_en": "And imagine swimming endlessly\\nin the vastness of space.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "They just might.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Itsuki",
+      "texto_en": "Thinking so is quite exciting, isn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "(Uh oh, am I thinking too much\\n and unable to respond properly?\\n Itsuki might think I'm acting weird!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "U-um, Itsuki?\\nYou're kinda touching me with your hand...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Itsuki",
+      "texto_en": "Ah!\\nExcuse me...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "They'd be surprised at how big it is,\\nif they could fly out into space.\\nThe ocean is vast, but space seems infinite.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Itsuki",
+      "texto_en": "Heheh, that's true.\\nThey might get scared and hurry back to the sea.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Itsuki",
+      "texto_en": "Even so, their longing would never stop,\\nand bit by bit, they would keep moving forward.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Itsuki",
+      "texto_en": "Tomorrow, they'd go to the moon,\\nand the next day, they'd go see\\nthe far side of the moon...like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "U-um, Itsuki?\\nYou're kinda touching me with your hand...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Itsuki",
+      "texto_en": "Ah!\\nExcuse me...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Futaro",
+      "texto_en": "You wanna join them, Itsuki?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Itsuki",
+      "texto_en": "Well, let me see.\\nI do have a dream of taking a walk under the starry sky.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "Just for the record, becoming an astronaut\\nrequires a considerable amount of effort.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Itsuki",
+      "texto_en": "Oh my goodness. Don't suddenly say things\\nthat crush my dreams like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Futaro",
+      "texto_en": "Ah, no, if you are serious about aiming for space,\\nI just meant you need to be more prepared.\\nI mean, I was going to help you with that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Itsuki",
+      "texto_en": "Ah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, sorry for saying something so presumptuous.\\nIt was your way of showing kindness, after all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Futaro",
+      "texto_en": "Well, I guess I went too far.\\nHahaha...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Itsuki",
+      "texto_en": "I appreciate that no matter what my dreams are,\\nyou'll take them seriously and I can lean on you for support%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Itsuki",
+      "texto_en": "You are my absolute, when I think about it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Futaro",
+      "texto_en": "...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 84,
+      "personagem": "Futaro",
+      "texto_en": "U-um, Itsuki?\\nYou're kinda touching me with your hand...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 85,
+      "personagem": "Itsuki",
+      "texto_en": "Ah!\\nExcuse me...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 86,
+      "personagem": "Futaro",
+      "texto_en": "No... It's fine.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 87,
+      "personagem": "Futaro",
+      "texto_en": "(No, that's not it!\\n If it were to end awkwardly here,\\n I won't be able to change from who I was!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 88,
+      "personagem": "Futaro",
+      "texto_en": "(This is the time to show my determination\\n and take a step forward!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 89,
+      "personagem": "Futaro",
+      "texto_en": "{UNTRANSLATED}――五月。",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 90,
+      "personagem": "Itsuki",
+      "texto_en": "Huh?\\nU-Uesugi-kun...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 91,
+      "personagem": "Futaro",
+      "texto_en": "(Just like Itsuki tried to be a girlfriend for me,\\n I will be honest with my feelings for her...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 92,
+      "personagem": "Futaro",
+      "texto_en": "I want to walk by your side forever.\\nLet's leave Earth and explore the sea of stars together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 93,
+      "personagem": "Itsuki",
+      "texto_en": "Y-yes.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 94,
+      "personagem": "Futaro",
+      "texto_en": "(I will express my feelings properly.\\n With a kiss, like a lover%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 95,
+      "personagem": "Futaro",
+      "texto_en": "Itsuki...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 96,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 97,
+      "personagem": "Futaro",
+      "texto_en": "{UNTRANSLATED}――え？",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 98,
+      "personagem": "Futaro",
+      "texto_en": "(A strike to my cheek...?\\n W-what happened?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 99,
+      "personagem": "Itsuki",
+      "texto_en": "Ah...\\nI-I...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 100,
+      "personagem": "Itsuki",
+      "texto_en": "...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 101,
+      "personagem": "Futaro",
+      "texto_en": "(Oh, that's what happened.\\n I tried to kiss Itsuki,\\n and then...she slapped me...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 102,
+      "personagem": "Futaro",
+      "texto_en": "Why... Why would you....",
+      "texto_ptbr": ""
+    }
+  ]
+}

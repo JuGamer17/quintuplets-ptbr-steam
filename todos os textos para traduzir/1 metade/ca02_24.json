@@ -1,0 +1,102 @@
+{
+  "arquivo": "ca02_24",
+  "total": 16,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(Nino took me to the American Village,\\n saying she wanted to be alone with me.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(Originally, we were planning to come here\\n after sightseeing in Kokusai dori,\\n but we ended up coming here alone first.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(I think this place is a shopping mall\\n that was designed to resemble\\n the West Coast of America.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "(Indeed, the colorful buildings and flashy displays\\n give off an atmosphere that doesn't feel like Japan.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "(Normally, this is the kind of place\\n where Nino would get really excited\\n and happily check out all the shops, but%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Hey, Nino.\\nWhy the sudden desire to be alone with me?\\nYou don't...wanna go shopping, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Nino",
+      "texto_en": "I told you, I have something to talk to you about.\\nAnd besides%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "Isn't there something you want to ask me\\nor say to me, Futaro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "How did you know?\\nI haven't said anything yet.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "I just know.\\nAfter all, I AM your girlfriend, right?\\nDon't underestimate me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "Shall we go on the Ferris wheel then?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Huh? The Ferris wheel?\\nThe one over there?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Nino",
+      "texto_en": "We can talk there without anyone overhearing us.\\nIt'll be easier for us to talk there, won't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "Yeah.",
+      "texto_ptbr": ""
+    }
+  ]
+}

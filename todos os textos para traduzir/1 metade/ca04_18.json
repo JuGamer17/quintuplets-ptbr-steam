@@ -1,0 +1,282 @@
+{
+  "arquivo": "ca04_18",
+  "total": 46,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Ichika",
+      "texto_en": "Oh, is this the museum shop?\\nDo you want to look for souvenirs?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, let's do that.\\nIs it okay with you, Uesugi-san?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Uh, yeah, sure.\\nWe still have plenty of time, after all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "(When everyone gathered, Yotsuba was back to her usual\\n self. Although she seemed disappointed earlier,\\n I won't rush her here, and follow her pace...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Raiha",
+      "texto_en": "Look, big bro, look!\\nThere are lots of stuffed animals!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Wowww...\\nThis is incredible. So many different ones.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "Ah! There's a manatee stuffed animal!\\nAnd it's holding a carrot!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Miku",
+      "texto_en": "That's so playful!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Yotsuba",
+      "texto_en": "Do you both really like manatees that much?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "Is this a juvenile whale shark? It's quite small.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Well, it's impossible\\nto make a life-sized whale shark stuffed animal.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "Oh, this is a clownfish.\\nThey're just so colorful and cute.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "What's this white, long thing?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Miku",
+      "texto_en": "It's a stuffed animal of a spotted garden eel, it says.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "Oh, this size would be perfect as a body pillow.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Miku",
+      "texto_en": "...Now that you say that,\\nI can only see it as a pillow.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah! This one is cute.\\nLook, it's a fluffy dolphin!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Raiha",
+      "texto_en": "Dolphins are great too.\\nI'm not sure which one to get, though.\\nMaybe this one.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Yotsuba",
+      "texto_en": "Raiha-chan, have you decided what to get?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Raiha",
+      "texto_en": "I'm getting this.\\nIt's a stuffed whale shark named 'Jinbei-chan!'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahaha, did you already give it a name?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Miku",
+      "texto_en": "I'm going to get that spotted garden eel and name it 'Futaro.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Hey, wait a sec.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "Then, my clownfish will be named 'Fu-kun.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Why are these things getting my name?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Miku",
+      "texto_en": "Look closely.\\nThe eyes of this eel\\nlook just like yours, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "It doesn't look like me at all!\\nHumans don't have eyes like that!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "It doesn't matter what you name a stuffed animal,\\nas long as you have an attachment to it. Right, Fu-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "Don't make stuffed animals agree with you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Raiha",
+      "texto_en": "Hey, what are you going to name your dolphin,\\nYotsuba-san?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh? The name for this dolphin?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Raiha",
+      "texto_en": "Yeah, you give yours a name, Yotsuba-san.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Yotsuba",
+      "texto_en": "S-so, this'll be...F%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Yotsuba",
+      "texto_en": "F-...F-F-...\\nF-Fluffy Raiha-chan!!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "...Fluffy Raiha-chan?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Yotsuba",
+      "texto_en": "That's the name for the dolphin!\\n'Fluffy Raiha-chan!'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Hmm, I see. After all,\\ndolphins are the most popular idols in aquariums.\\nYou really get that, right, Yotsuba?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Yotsuba",
+      "texto_en": "Yes, that's right!\\nI thought you would understand, Uesugi-san!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "Of course.\\nI'm her big brother, after all!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Yotsuba",
+      "texto_en": "That's right!\\nAhaha... *sigh*",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Raiha",
+      "texto_en": "The strategy has failed...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Ichika",
+      "texto_en": "We worked hard for this, but it didn't work out.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "W-well, I think Yotsuba did her best in her own way.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Nino",
+      "texto_en": "Even Fu-kun didn't notice.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Miku",
+      "texto_en": "Yotsuba tends to get carried away\\nwhen it comes to Raiha-chan.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Ichika",
+      "texto_en": "This might be harder than I thought...",
+      "texto_ptbr": ""
+    }
+  ]
+}

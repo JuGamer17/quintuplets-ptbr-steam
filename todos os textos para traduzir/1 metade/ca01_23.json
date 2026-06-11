@@ -1,0 +1,282 @@
+{
+  "arquivo": "ca01_23",
+  "total": 46,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Ichika",
+      "texto_en": "Today's meal was also delicious, wasn't it?\\nIt was so delicious that I might have eaten too much.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Ichika",
+      "texto_en": "All right, we have to run a lot tomorrow morning.\\nAre you ready, Futaro-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Why are you dragging me into this?\\nBesides, I'm pretty tired today, so I'm not sure\\nif I can wake up properly tomorrow morning.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Ichika",
+      "texto_en": "Don't worry, I'll wake you up gently.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Ichika",
+      "texto_en": "Hey, speaking of which,\\nwhere's Raiha-chan?\\nHasn't she come back to the room yet?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Oh, she came back briefly earlier,\\nbut she said she was going to Itsuki and Yotsuba's room.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Man, she's still so energetic.\\nI don't feel like being around her anymore.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Ichika",
+      "texto_en": "Are you that tired?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "I'm exhausted. We ran in the morning,\\nand then went to Ocean Expo Park without resting once.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "And after that, we played in the ocean until sunset.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Ichika",
+      "texto_en": "Looking at it again, it's a schedule\\nthat would definitely tire you out.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "But you're still energetic, Ichika?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "I'm full of energy!\\nMy body feels warm,\\nand I feel like I can do anything right now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "(Warm? This room has a temperature\\n that's neither hot nor cold.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "Hmm, isn't it a waste to just go to sleep like this?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "On the other hand,\\nI feel like just going to sleep right now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Ichika",
+      "texto_en": "Oh, wait! We should take a bath tonight.\\nWe've been playing in the ocean,\\nso our hair will get all tangled.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Ichika",
+      "texto_en": "Do you want to take a bath together?\\nI'll wash your back for you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Th-that's, that's not allowed!\\nIf anyone finds out, they'll be EXTRAORDINARILY angry!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Ichika",
+      "texto_en": "So, as long as we keep quiet, no one will find out?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "That's not the point!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "It's okay.\\nWe won't make any noise.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "I said no!\\nTaking a bath together is out of the question!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Ichika",
+      "texto_en": "Mmmh, why not?\\nI was gonna help relieve your tiredness.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "(It's going to tire me out even more...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "Oh, I know!\\nA way to relieve your fatigue!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "Big sister Ichika will give you a massage.\\nLie down on the bed.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "No, that's okay...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "Don't be shy. I'm sure you'll feel better, you know?\\nCome on, hurry up and take off your clothes.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "You don't need to take off your clothes for a massage!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*\\nHey, Ichika?\\nI'm asking you seriously, are you really okay today?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Ichika",
+      "texto_en": "Geez, not this again? I'm just the same as usual.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "You're not acting like your usual self.\\nYou're...being too clingy.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Ichika",
+      "texto_en": "What's wrong with being clingy?\\nDoes it bother you, Futaro-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "N-no, it doesn't bother me, but...\\nI'm just worried because\\nyou've been acting unusual today%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "OWAAH?!\\nWhat are you doing all of a sudden?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Ichika",
+      "texto_en": "I said...it's nothing...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Hey, are you alright?\\nYou look like you're in pain!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Ichika",
+      "texto_en": "I'm okay...\\nI just felt a little dizzy for a moment...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "(Whoa!!\\n Is Ichika's body unusually warm?\\n Could it be...!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "What do you mean you're okay?\\nYou have a fever, don't you?\\nYour temperature is not normal!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Ichika",
+      "texto_en": "Huh...? Couldn't be...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "You should lie down for now.\\nJust stay still, okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Ichika",
+      "texto_en": "I'm sorry...\\nMaybe I'm just being weird after all...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "You don't have to force yourself to talk.\\nWait, I'll get some water\\nand other things ready right away!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Ichika",
+      "texto_en": "...Okay.",
+      "texto_ptbr": ""
+    }
+  ]
+}

@@ -1,0 +1,696 @@
+{
+  "arquivo": "ca02_25",
+  "total": 115,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(When we got on the Ferris wheel,\\n the sun had already started to set.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(As we were waved off by the attendant,\\n the gondola slowly began to rise up.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(Outside the window, beyond the cityscape,\\n the golden sea sparkled, reflecting the sunlight.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "(But neither I nor Nino\\n had the luxury of enjoying such a breathtaking view.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Nino",
+      "texto_en": "Okay, let me go first.\\nIt's better that way, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "I understand.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "I'll just ask you directly.\\nSince today... No, wait... Yesterday afternoon, right?\\nYour behavior has been strange, Futaro, but%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Nino",
+      "texto_en": "Is that because of me?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "WHA%p-2;――%p;?!\\nNo, why would it be because of you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "Why, you say%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "Why's what I want to ask you!\\nI mean, if your behavior is weird, Futaro,\\nthen it's definitely because of me!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "That's totally\\nwhy you would become like that!\\nThere's no other reason!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "W-wait...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "And, there's something I realized too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Huh? Something you realized%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "We're gonna finish my part of the talk first, okay?\\nCome on, answer me.\\nWhy were you acting weird?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Oh, that...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "(It's so pathetic to speak honestly here. \\n But I can't hide it from Nino%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "(More than anything, I can't deceive her here.\\n For the sake of our future.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "(In the end, I find myself relying on Nino once again,\\n but compared to our future together,\\n my pride doesn't matter at all!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Am I suitable for you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "I think you're incredibly...attractive,\\nto the point where I feel...unworthy of you.\\nI realized that during this trip.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "I don't understand why someone like you\\nwould confess to someone like me...who\\ncan't even handle romantic relationships properly.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "So, to be pathetically honest,\\nI was worried that one day\\nyou'd get tired of me...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "I wanted you to see me\\nin a new light,\\nto show you the kind of man I am.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "But, everything I tried ended in failure...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Nino",
+      "texto_en": "*sigh*",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "You're ridiculous!\\nYou were worrying about something like that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "H-hey, Nino?!\\nYou're so close...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "Listen, Futaro.\\nFeelings are something that can change.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Huh?\\nWh-what do you mean?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "(Is she already tired of me?\\n Did she invite me here to break up with me?!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Nino",
+      "texto_en": "Think back\\nto when we first met.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Nino",
+      "texto_en": "I've given you a hard time since then, haven't I?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "I can't forget that, even if I wanted to.\\nYou were quite something.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Nino",
+      "texto_en": "My feelings have changed enough to confess\\nto someone I used to hate so much.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Nino",
+      "texto_en": "It's better to think that people's feelings can change. \\nIn fact, there's nothing that doesn't change.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Nino",
+      "texto_en": "Well, there's an exception.\\nMy feelings towards you, Futaro, will never change.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Nino",
+      "texto_en": "My feelings for you are the result of the changes\\nand guidance that you have brought to my life.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Nino",
+      "texto_en": "On the other hand,\\nthere might be other feelings that could change.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Nino",
+      "texto_en": "That's why I'm also anxious.\\nIt's not just you, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "Did I make you anxious after all?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Nino",
+      "texto_en": "I wouldn't say anxious, but more like emotions\\nthat would come with being your girlfriend.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Nino",
+      "texto_en": "Hey, you know what, Futaro?\\nYou're a really attractive person for me,\\nyou know? Just hard to read.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Nino",
+      "texto_en": "Once I understood you,\\nI fell in love with you in no time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Nino",
+      "texto_en": "Even though Miku and Ichika are still around,\\nI don't know how many more rivals there'll be\\nif you go to Tokyo.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Nino",
+      "texto_en": "That's why I'm always worried, you know?\\nThat someone might take you away from me, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "N-no way, isn't that a bit of a stretch?\\nI'm not that kind of person.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Nino",
+      "texto_en": "It's an issue that you don't even realize.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Nino",
+      "texto_en": "Thinking I was the only one on this earth\\nwho would fall in love with a guy like you\\nwas a big mistake.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Nino",
+      "texto_en": "But that's why I can't be at ease even\\nif you confess to me or I confess to you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Nino",
+      "texto_en": "I'll always be the one making the moves,\\nso you should keep making moves on me too.\\nThere's no time to be anxious, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "Nino...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "(That's right.\\n This is Nino.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "(She always shows me new ideas and\\n shows me a new world.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "(And it's not just that.\\n Even for things that seem obvious,\\n she makes me pay attention to them.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "(Because Nino is like that, I...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "Hey, Nino.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Nino",
+      "texto_en": "What?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "Thanks for fulfilling my wish back then.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Nino",
+      "texto_en": "Your wish...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "That...I want to discover a new world with you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Nino",
+      "texto_en": "You've also done your best to stay with me\\nfor as long as possible.\\nThank you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Nino",
+      "texto_en": "And, I'm excited for our relationship\\nfrom here on out.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "Me too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Nino",
+      "texto_en": "You know,\\nit's important to have conversations like this.\\nWe can't rely on just being in a romantic relationship.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "I agree.\\nWe need to be aware that we are separate individuals.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Nino",
+      "texto_en": "But we can get to the point where we can communicate\\nwithout words, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Nino",
+      "texto_en": "Even though we are different individuals,\\ncompromising with each other,\\nwe can understand each other's feelings.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Nino",
+      "texto_en": "Do you understand how I feel right now?\\nIf you don't, please ask me.\\nI will answer if you ask.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Futaro",
+      "texto_en": "Nino...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "I've learned a lot.\\nThere's still so much I've got to pick up\\nwhen it comes to love.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Nino",
+      "texto_en": "I'm in the same boat as you.\\nLet's take the next step together,\\njust the two of us, forever.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Nino",
+      "texto_en": "Even if there are things I can't understand alone,\\nif we tackle them together,\\nwe'll surely find the answer.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Futaro",
+      "texto_en": "Ah, you're right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Futaro",
+      "texto_en": "Yeah. I've fallen in love again because of it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Nino",
+      "texto_en": "Um.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Futaro",
+      "texto_en": "Aah, no, um, just now was...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Nino",
+      "texto_en": "That's how you were thinking?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Futaro",
+      "texto_en": "Th-that's right!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 84,
+      "personagem": "Futaro",
+      "texto_en": "You always lead me, show me the way,\\nsomething like that...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 85,
+      "personagem": "Futaro",
+      "texto_en": "That's why I cling on so desperately to you, Nino,\\nso that I won't lose you.\\nEven if I can't handle it...and it's uncool.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 86,
+      "personagem": "Nino",
+      "texto_en": "Futaro...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 87,
+      "personagem": "Nino",
+      "texto_en": "Hey, Futaro.\\nWhat do we do from now on?\\nEveryone might be here already.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 88,
+      "personagem": "Nino",
+      "texto_en": "Can't we...be alone a little longer?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 89,
+      "personagem": "Futaro",
+      "texto_en": "Yeah.\\nI guess it's okay for a little.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 90,
+      "personagem": "Nino",
+      "texto_en": "Teehee!\\nHow about we go somewhere, just the two of us?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 91,
+      "personagem": "Futaro",
+      "texto_en": "That's not a good idea.\\nWe would worry everyone.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 92,
+      "personagem": "Nino",
+      "texto_en": "Yeah, that's true.\\nIt's a shame though.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 93,
+      "personagem": "Nino",
+      "texto_en": "But...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 94,
+      "personagem": "Nino",
+      "texto_en": "Hey, Futaro. I said it earlier, right?\\nThat I realized something.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 95,
+      "personagem": "Futaro",
+      "texto_en": "Oh, that.\\nI wanted to hear about that, too.\\nWhat is it that you realized?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 96,
+      "personagem": "Nino",
+      "texto_en": "Didn't I bother you, Futaro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 97,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 98,
+      "personagem": "Nino",
+      "texto_en": "I went to your room at night, right, Futaro?\\nI wondered if that caused you some trouble.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 99,
+      "personagem": "Nino",
+      "texto_en": "But, I wanted to make some memories.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 100,
+      "personagem": "Nino",
+      "texto_en": "You're going to Tokyo, Futaro.\\nWe won't be able to be together all the time anymore.\\nSo...in my own way, I decided to make a move on you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 101,
+      "personagem": "Nino",
+      "texto_en": "But if you didn't feel that way,\\nI might have just bothered you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 102,
+      "personagem": "Futaro",
+      "texto_en": "No, you didn't cause me any trouble.\\nIt was a bit difficult, well, in a sense it was\\na bit troubling, but not really... I guess.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 103,
+      "personagem": "Futaro",
+      "texto_en": "I also want to have memories with you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 104,
+      "personagem": "Nino",
+      "texto_en": "Is that so? How nice.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 105,
+      "personagem": "Nino",
+      "texto_en": "Then...right here...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 106,
+      "personagem": "Futaro",
+      "texto_en": "...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 107,
+      "personagem": "Futaro",
+      "texto_en": "(Does Nino...maybe want to do it too?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 108,
+      "personagem": "Nino",
+      "texto_en": "Futaro...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 109,
+      "personagem": "Futaro",
+      "texto_en": "(Here, no one is watching, no one is bothering us.\\n I can kiss Nino...!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 110,
+      "personagem": "Nino",
+      "texto_en": "EEEEP!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 111,
+      "personagem": "Futaro",
+      "texto_en": "UWAA!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 112,
+      "personagem": "Nino",
+      "texto_en": "O-oh my?\\nIt looks like we've already completed one round,\\nwe need to get off.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 113,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah.\\nIt went by in a flash, hahaha...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 114,
+      "personagem": "Futaro",
+      "texto_en": "(Oh come ON, the mood was just getting good!\\n Can't this Ferris wheel go a little slower?!?!)",
+      "texto_ptbr": ""
+    }
+  ]
+}

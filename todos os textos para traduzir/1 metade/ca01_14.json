@@ -1,0 +1,204 @@
+{
+  "arquivo": "ca01_14",
+  "total": 33,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "???",
+      "texto_en": "Hey there.\\nIt's morning already, wake up.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Raiha...?\\nSorry, I'm getting up now...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "???",
+      "texto_en": "Heheh, nooope.\\nCome on, if you don't wake up%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "...!!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "UWAAH?!\\nI-Ichi-Ichika?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Ichika",
+      "texto_en": "Good morning, Futaro-kun.\\nWhy are you so surprised?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Why? Why are you here%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Oh, that's right. \\nWe're in the same room, aren't we...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Ichika",
+      "texto_en": "Teehee!\\nYou're still half asleep.\\nCome on, wake up.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "It's okay, I'm wide awake now\\nthanks to the surprise.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "But, I'm surprised you woke up before me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Ichika",
+      "texto_en": "Mmh, how rude.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "Believe it or not, I plan on improving\\nmy daily routine. After all, we're starting\\na new life after graduating high school.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Oh, really?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "How's that? Aren't I great?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, I think it's a good idea.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Ichika",
+      "texto_en": "So, can I ask you for a favor as a reward?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "A favor?\\nDon't ask for something unreasonable.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Ichika",
+      "texto_en": "So cautious, aren't you.\\nI just want you to join me for a run.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "A run?\\nWhy, all of a sudden?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Ichika",
+      "texto_en": "Oh, that's right. \\nIt is kinda sudden from your point of view. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "Actually, running is part of my daily routine.\\nI thought I'd get today's run out of the way\\nin the morning.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*\\nExercising in the morning, huh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Ichika",
+      "texto_en": "Wow, you're not thrilled.\\nDon't worry, I won't run you ragged\\nfirst thing in the morning.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Raiha",
+      "texto_en": "Go for it, big bro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "Oh, Raiha-chan. Good morning.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Raiha",
+      "texto_en": "Good morning, Ichika-san.\\nGood morning, big bro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Morning.\\nBut, this is easier said than done. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Raiha",
+      "texto_en": "She invited you out, right?\\nI think it'll be a good memory for you guys.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "(...I see.\\n This is also making memories with the two of us.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "Got it.\\nI'll change, so wait a sec.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Ichika",
+      "texto_en": "Yay!\\nThen, I'll get ready too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Raiha",
+      "texto_en": "Good luck, you two!",
+      "texto_ptbr": ""
+    }
+  ]
+}

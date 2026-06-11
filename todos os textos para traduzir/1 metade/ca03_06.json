@@ -1,0 +1,186 @@
+{
+  "arquivo": "ca03_06",
+  "total": 30,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Ichika",
+      "texto_en": "Have we all finished exploring the Shurijo Castle?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, that was fun!\\nNot only just the buildings, but the view was spectacular.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Nino",
+      "texto_en": "Was it Iri-no Azana?\\nThe view from there was amazing,\\nyou could see the whole city.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, yeah!\\nThat place was wonderful!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Nino",
+      "texto_en": "Apparently, you can also watch the sunset disappear into the sea.\\nThat's definitely gotta be romantic,\\nso I want to come back in the evening to see it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "For me, it was definitely the main temple.\\nI was able to reflect on the history\\nof the Ryukyu Kingdom.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Raiha",
+      "texto_en": "I'm with Itsuki-san! The picture of the dragon\\ncarved on the bright red pillar was beautiful.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Raiha",
+      "texto_en": "What about you, Miku-san?\\nWhat was your favorite part of Shurijo Castle?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Miku",
+      "texto_en": "For me, it was the stone walls.\\nI realized how magnificent of a castle Shurijo is.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "How old-fashioned.\\nBut that's something you'd say, Miku.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "For me, it was the relaxing atmosphere of the 'okushoin.'\\nIsn't that right, Miku?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "Y-yeah, you're right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "Oh?\\nWhen did you two have a little date?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Miku",
+      "texto_en": "A D-DATE?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Hey, don't jump to conclusions like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Yotsuba",
+      "texto_en": "Okay, next up! We've got the Prefectural Museum,\\nnicknamed 'Okimyu.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Okimyu?\\nIs that a word in Okinawan? What does it mean?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Yotsuba",
+      "texto_en": "It's short for Okinawa Museum.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Ah I get it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Raiha",
+      "texto_en": "Is that where you want to go, Miku-san?\\nDo you like museums?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Miku",
+      "texto_en": "Uh, well, not exactly.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Ichika",
+      "texto_en": "You'd said earlier\\nyou were interested in the special exhibition, Miku.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Miku",
+      "texto_en": "Yeah.\\nIt features the relationship\\nbetween the warlords of Kyushu and the Ryukyu Kingdom.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Oh, I see.\\nThat's something that you can't miss, Miku.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Miku",
+      "texto_en": "Yeah, I'm really excited.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "Okay, let's go.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Miku",
+      "texto_en": "This time for sure, I'll go together with Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Yotsuba",
+      "texto_en": "Miku? Hurry up, hurry up!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Miku",
+      "texto_en": "O-okay! I'm coming!",
+      "texto_ptbr": ""
+    }
+  ]
+}

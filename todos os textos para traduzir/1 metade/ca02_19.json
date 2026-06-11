@@ -1,0 +1,990 @@
+{
+  "arquivo": "ca02_19",
+  "total": 164,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Raiha",
+      "texto_en": "So, this is Shureimon!\\nWow, it's the real deal!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Miku",
+      "texto_en": "I know that feeling.\\nBut, well, it IS the real deal.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Ichika",
+      "texto_en": "I can't believe we're here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Nino",
+      "texto_en": "Right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "I heard that 'Shurei'\\nmeans to observe etiquette and manners.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "It's displayed on the gate.\\nIt means that Ryukyu is a region\\nthat values etiquette and manners.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Yotsuba",
+      "texto_en": "Wow, as expected of Uesugi-san.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "But let's put aside the difficult topics.\\nWe should start taking some pictures instead!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "It's not that difficult!\\nLet's absorb some knowledge while we're here!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Yotsuba",
+      "texto_en": "Everyone, line up please.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "H-Hey...\\nNo one's listening...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Ichika",
+      "texto_en": "Futaro-kun, are you still in tutor mode?\\nThis is our graduation trip,\\nforget about studying and have some fun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Ichika...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "(Nino...and Miku are taking a picture together.\\n Okay, now's my chance!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Hey, I have something I want to ask.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "Huh? What is it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "What kind of guy is Nino into?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Ichika",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "I'm trying to find out what kind of guy Nino likes.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Ichika",
+      "texto_en": "Wha? Why are you asking that now?\\nYou're DATING Nino, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "I know!\\nWell, she confessed to me,\\nso I never really thought about it...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "Well, if I have to answer,\\nit would be you, since Nino confessed to you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "No, I mean other guys besides me.\\nI'm asking about, how, well, Nino...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, I guess I know what you mean.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Ichika",
+      "texto_en": "Hmm...\\nMaybe she likes mischievous guys?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Mischievous guys, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "In other words, the opposite of you, Futaro-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Ugh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "But don't worry about it.\\nNino likes you, Futaro-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "(That's true, but...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "Futaro? What are you talking about with Ichika?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "N-nothing in particular!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "Mmm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Nino",
+      "texto_en": "Well, whatever. Hey, let's take a picture together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah, let's do it!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Ichika",
+      "texto_en": "Hmm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Yotsuba",
+      "texto_en": "It's huge! Impressive!\\nIt looks like as if there's a final boss inside!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "I don't know about a...final boss,\\nbut this is Zuisenmon.\\nZuisen means 'auspicious spring.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Raiha",
+      "texto_en": "A spring? But it's a gate.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Itsuki",
+      "texto_en": "Over there is spring water.\\nThat's how it got its name.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Nino",
+      "texto_en": "Oh, I see.\\nAnd there's water coming out of a dragon sculpture.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, that's a dragon spout.\\nIt's a sculpture from about 500 years ago.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "(Nino is talking to Itsuki and the others.\\n Good...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "Miku.\\nCan I talk to you for a second?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Miku",
+      "texto_en": "What?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "Do you know what type of person Nino likes?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Miku",
+      "texto_en": "...What do you mean?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "If you know, I'd like you to tell me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Miku",
+      "texto_en": "Why? You're already dating Nino, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "That may be true,\\nbut I'd kind of like to hear an objective opinion.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Miku",
+      "texto_en": "Did something happen between you and Nino?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "That's not really it...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Miku",
+      "texto_en": "Are you worried?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "AH?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Miku",
+      "texto_en": "Teehee, am I right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "...How did you come up with that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Miku",
+      "texto_en": "People will try to become someone else, to be liked by \\nthe person they are interested in.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Miku",
+      "texto_en": "I totally get that too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "...Is that so?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Miku",
+      "texto_en": "The type Nino prefers...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Miku",
+      "texto_en": "It might be someone\\nwho has a strong sense of integrity.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Miku",
+      "texto_en": "Also, I think she likes guys\\nwho are a little bit mischievous.\\nMany of the actors she likes fit into that category.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "...I see.\\nThanks a lot, Miku.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Miku",
+      "texto_en": "You're welcome.\\nDo your best, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Ichika",
+      "texto_en": "Ah! I recognize this building too!\\nBut it's even more beautiful in real life!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Itsuki",
+      "texto_en": "This is the main hall.\\nIt's where the king worked\\nand where ceremonies were held.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Itsuki",
+      "texto_en": "This area in front of the hall is called the 'una.'\\nThe central path is called the 'ukimichi' and only a limited\\nnumber of people, like the king, were allowed to pass.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Raiha",
+      "texto_en": "Huh?!\\nIs it okay for me to stand here?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Itsuki",
+      "texto_en": "Teehee, it's fine now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Nino",
+      "texto_en": "You sure are knowledgeable about this place.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Itsuki",
+      "texto_en": "Of course, I looked it up!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Ichika",
+      "texto_en": "Wow, it's so luxurious and beautiful!\\nI'm going to take a closer look.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Nino",
+      "texto_en": "I'll take some pictures too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Futaro",
+      "texto_en": "(Oh, Itsuki is alone.\\n In that case...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Futaro",
+      "texto_en": "Itsuki.\\nCan I talk to you for a moment?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Itsuki",
+      "texto_en": "Sure, what is it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Futaro",
+      "texto_en": "Can you tell me the type of guy Nino prefers?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Itsuki",
+      "texto_en": "Have you talked about that topic with\\nMiku and Ichika earlier...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Futaro",
+      "texto_en": "You noticed?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Itsuki",
+      "texto_en": "I had a feeling you were acting a bit strange,\\nbut what's the matter?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Futaro",
+      "texto_en": "Ooh, well...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Itsuki",
+      "texto_en": "Assuming you're okay with my personal opinion,\\nI can tell you what her type is.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 84,
+      "personagem": "Futaro",
+      "texto_en": "O-okay!\\nPlease, tell me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 85,
+      "personagem": "Itsuki",
+      "texto_en": "Let me see...\\nshe seems to like slightly delinquent guys.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 86,
+      "personagem": "Futaro",
+      "texto_en": "Delinquent guys...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 87,
+      "personagem": "Itsuki",
+      "texto_en": "She doesn't like someone who is violent,\\nshe is more into someone who has a tough exterior but a\\nkind heart, something along those lines.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 88,
+      "personagem": "Itsuki",
+      "texto_en": "However, this is just based on the characters\\nshe likes in movies and such,\\nso I'm not sure how helpful that is.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 89,
+      "personagem": "Futaro",
+      "texto_en": "No, that's very helpful. Thank you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 90,
+      "personagem": "Itsuki",
+      "texto_en": "...Even so, it's surprising\\nthat you're asking me this, Uesugi-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 91,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, even Ichika and Miku were surprised.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 92,
+      "personagem": "Itsuki",
+      "texto_en": "Um, Uesugi-kun.\\nAbout yesterday%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 93,
+      "personagem": "Nino",
+      "texto_en": "Futaro! Let's take a picture together!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 94,
+      "personagem": "Futaro",
+      "texto_en": "WH-WHAT?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 95,
+      "personagem": "Nino",
+      "texto_en": "Huh? What's wrong?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 96,
+      "personagem": "Futaro",
+      "texto_en": "I-it's nothing...\\nItsuki, if you don't mind,\\nwould you take the picture for us?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 97,
+      "personagem": "Itsuki",
+      "texto_en": "N-not at all!\\nWhere shall we take it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 98,
+      "personagem": "Nino",
+      "texto_en": "What are you two up to?\\nYou're so flustered.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 99,
+      "personagem": "Futaro",
+      "texto_en": "Nah, not at all.\\nRight, Itsuki?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 100,
+      "personagem": "Itsuki",
+      "texto_en": "Yeah, everything is fine!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 101,
+      "personagem": "Nino",
+      "texto_en": "Mmm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 102,
+      "personagem": "Nino",
+      "texto_en": "This view is amazing!\\nYou can see the entire city from here!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 103,
+      "personagem": "Itsuki",
+      "texto_en": "This is Iri-no Azana.\\nWe arrived here at noon, but apparently\\nthe night view is also spectacular.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 104,
+      "personagem": "Ichika",
+      "texto_en": "I'd love to see Iri-no Azana during night too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 105,
+      "personagem": "Raiha",
+      "texto_en": "Look, there's an island beyond the sea.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 106,
+      "personagem": "Miku",
+      "texto_en": "The sign over there says\\nthose are the Kerama Islands,\\nwhich are visible from here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 107,
+      "personagem": "Futaro",
+      "texto_en": "(Everyone is so caught up in the view.\\n Now is my chance to ask Yotsuba...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 108,
+      "personagem": "Futaro",
+      "texto_en": "Hey Yotsuba, can I talk to you for a bit?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 109,
+      "personagem": "Yotsuba",
+      "texto_en": "Yes? What is it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 110,
+      "personagem": "Futaro",
+      "texto_en": "Do you happen to know what kind of person Nino likes?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 111,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh? Nino's type?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 112,
+      "personagem": "Futaro",
+      "texto_en": "I mean, I know it's a little late.\\nBut, I think, well...\\nit's something I should know.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 113,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, now that I think about it,\\nI think her type is definitely you, Uesugi-san, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 114,
+      "personagem": "Futaro",
+      "texto_en": "No, um, it's not that...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 115,
+      "personagem": "Yotsuba",
+      "texto_en": "Hmm.\\nI'm not sure, but maybe you have your own reasons\\nfor asking this question, Uesugi-san?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 116,
+      "personagem": "Futaro",
+      "texto_en": "Well, I guess.\\nI wouldn't just up and do this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 117,
+      "personagem": "Yotsuba",
+      "texto_en": "Understood! In that case, I won't hesitate to cooperate.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 118,
+      "personagem": "Yotsuba",
+      "texto_en": "Nino's type is someone\\nwho's a little bit of a bad boy, I think.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 119,
+      "personagem": "Yotsuba",
+      "texto_en": "Something in the lines of 'I'm going to do things my way\\nno matter what you say'!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 120,
+      "personagem": "Yotsuba",
+      "texto_en": "That kind of guy who says that.\\nDo you get it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 121,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, I kind of get it.\\nYou mean she likes guys\\nwho are a little bit rebellious, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 122,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, that's it!\\nYou really understand things quickly!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 123,
+      "personagem": "Futaro",
+      "texto_en": "(Ichika, Miku, and Itsuki all said something similar.\\n There's no doubt that Nino's type\\n is a bit of a bad boy.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 124,
+      "personagem": "Futaro",
+      "texto_en": "(However...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 125,
+      "personagem": "Futaro",
+      "texto_en": "(There's no way I can become a bad boy now,\\n and if I try to act like one,\\n I'll just expose myself.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 126,
+      "personagem": "Yotsuba",
+      "texto_en": "Um, it's true that Nino\\nseems to like that kind of person, but%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 127,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, for now, I don't doubt that Uesugi-san\\nis the best for her.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 128,
+      "personagem": "Futaro",
+      "texto_en": "O-of course.\\nI don't doubt that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 129,
+      "personagem": "Futaro",
+      "texto_en": "It's just that...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 130,
+      "personagem": "Yotsuba",
+      "texto_en": "AH!!\\nPerhaps%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 131,
+      "personagem": "Futaro",
+      "texto_en": "Wh-what?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 132,
+      "personagem": "Yotsuba",
+      "texto_en": "You're planning to become even more lovey-dovey with Nino, \\naren't you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 133,
+      "personagem": "Futaro",
+      "texto_en": "Wha...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 134,
+      "personagem": "Yotsuba",
+      "texto_en": "Teehee, since we're in Okinawa.\\nWhy not just propose right now?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 135,
+      "personagem": "Futaro",
+      "texto_en": "He-hey, aren't you getting a bit too excited?\\nI have different plans right now...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 136,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh? You have?\\nYou don't want to be lovey-dovey with her?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 137,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 138,
+      "personagem": "Yotsuba",
+      "texto_en": "Your facial expressions are giving it away!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 139,
+      "personagem": "Futaro",
+      "texto_en": "...Quiet.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 140,
+      "personagem": "Yotsuba",
+      "texto_en": "But I don't think you need to force yourself\\nto become a bad boy, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 141,
+      "personagem": "Yotsuba",
+      "texto_en": "For example, just by taking the lead a little bit,\\nthe impression you give can change significantly.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 142,
+      "personagem": "Futaro",
+      "texto_en": "Is that how it is?\\nI was just actually thinking about taking the lead...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 143,
+      "personagem": "Raiha",
+      "texto_en": "What's wrong?\\nWhat are you talking about?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 144,
+      "personagem": "Itsuki",
+      "texto_en": "Now I wonder,\\nif you are talking about the type of guy Nino likes?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 145,
+      "personagem": "Raiha",
+      "texto_en": "Huh? Are you talking about that now, big bro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 146,
+      "personagem": "Futaro",
+      "texto_en": "Even Raiha...\\nHum, well, actually...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 147,
+      "personagem": "Raiha",
+      "texto_en": "Oh, but it's important, you know.\\nYou have to be a reliable boyfriend to Nino-san.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 148,
+      "personagem": "Raiha",
+      "texto_en": "It's a miracle that such a wonderful person like her\\nbecame your girlfriend.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 149,
+      "personagem": "Futaro",
+      "texto_en": "(That's so true...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 150,
+      "personagem": "Itsuki",
+      "texto_en": "So, have you come to a conclusion?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 151,
+      "personagem": "Futaro",
+      "texto_en": "Well, let's see.\\nI know that she likes guys\\nwho are a little bit of a jerk...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 152,
+      "personagem": "Raiha",
+      "texto_en": "It's the opposite of you, big bro...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 153,
+      "personagem": "Yotsuba",
+      "texto_en": "But, right now, you're the number one, Uesugi-san!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 154,
+      "personagem": "Futaro",
+      "texto_en": "Alright already! I get it!\\nYou don't have to cheer me up so fiercely!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 155,
+      "personagem": "Yotsuba",
+      "texto_en": "I'm wondering what Nino's favorite Uesugi-san\\ncan do to make the relationship more lovey-dovey%p-2;――%p;?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 156,
+      "personagem": "Yotsuba",
+      "texto_en": "I told him that by\\ntaking the lead a little bit,\\nhis impression on Nino can change quite a lot.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 157,
+      "personagem": "Itsuki",
+      "texto_en": "Taking the lead... Now that you mention it,\\nI remember that girls in dramas\\nenjoy being forced into things.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 158,
+      "personagem": "Raiha",
+      "texto_en": "I wonder if she really likes being pulled along\\nby someone who's assertive?\\nBut there are people like that, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 159,
+      "personagem": "Futaro",
+      "texto_en": "I see...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 160,
+      "personagem": "Futaro",
+      "texto_en": "(So my idea of taking the lead\\n wasn't necessarily wrong, then.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 161,
+      "personagem": "Futaro",
+      "texto_en": "(If that's the case,\\n then all that's left is to put it into practice!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 162,
+      "personagem": "Futaro",
+      "texto_en": "...By the way, what do you mean by\\n'there are people like that,' Raiha?\\nD-don't tell me you've met someone like that...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 163,
+      "personagem": "Raiha",
+      "texto_en": "Big bro...\\nDon't worry about me,\\nand focus on your own love life.",
+      "texto_ptbr": ""
+    }
+  ]
+}

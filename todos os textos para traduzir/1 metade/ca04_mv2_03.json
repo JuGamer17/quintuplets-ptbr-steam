@@ -1,0 +1,402 @@
+{
+  "arquivo": "ca04_mv2_03",
+  "total": 66,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Raiha",
+      "texto_en": "Where was it, Yotsuba-san?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Yotsuba",
+      "texto_en": "It was around here! I definitely saw it!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "...What are you guys doing?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, Uesugi-san!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Raiha was with you, huh.\\nHave you finished talking?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Yotsuba",
+      "texto_en": "Yes, we're finished.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "So, what are you doing?\\nDid you see something in the ocean?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "I saw a whale spout earlier!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "What? A whale?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Raiha",
+      "texto_en": "I missed it. Can you do it one more time, whale-san?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Err, I think you might've imagined things.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Yotsuba",
+      "texto_en": "I didn't imagine anything!\\nWater just shot up from the surface,\\nlike fwooosh!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "But...it only happened once...\\nso the whale might have gone somewhere else.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Raiha",
+      "texto_en": "I wanted to see it, too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Raiha",
+      "texto_en": "Hey, big bro.\\nWhat kind of whale was it,\\nif it could be seen from here?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "I'm not sure, but maybe it was a humpback whale?\\nThey come to the ocean off Okinawa\\nto raise their young during this season.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Raiha",
+      "texto_en": "What?! So can we see baby whales too?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Go whale watching out to sea,\\nand there's a chance you can see parent and child.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Raiha",
+      "texto_en": "I wanna see that!\\nI want to see parent and child whales spout together!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "That would be nice. They would probably be so cute,\\nside-by-side, spouting water up in the air.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Yotsuba",
+      "texto_en": "But, why DO whales spout water like that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "You seemed so interested\\nin whales a moment ago.\\nDon't you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Yotsuba",
+      "texto_en": "It's not a problem if I don't know, right?\\nI can still be impressed.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "That's not something to brag about.\\nFirst, try thinking about it for a minute.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Yotsuba",
+      "texto_en": "Hm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Yotsuba",
+      "texto_en": "Is it a greeting?\\nLike saying hello?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "So, you're saying it's directed towards us?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Yotsuba",
+      "texto_en": "Yes, that's it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "So listen, whales don't need to communicate with humans\\nto live their lives.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah! That's right!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "And, the answer to why they spout water\\nis because of their breathing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Yotsuba",
+      "texto_en": "Breathing, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Raiha, what about you? Do you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Raiha",
+      "texto_en": "Ehehe, actually, I do.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Yotsuba",
+      "texto_en": "Ohh, nice going, Raiha-chan!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "You like to look at encyclopedias, don't you, Raiha.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Raiha",
+      "texto_en": "Yeah, I often look at the field guide of sea creatures.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Yotsuba",
+      "texto_en": "Wowww, I respect you even more now!\\nSo, being studious runs in the blood\\nof the Uesugi family, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "(Yeah, but Dad... I wonder about him, though.\\n He used to say he was a hardcore outlaw.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "And, the answer to why they spout water\\nis because of their breathing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Yotsuba",
+      "texto_en": "Breathing, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Well, that's an interesting idea.\\nUsing spouting for communication.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Yotsuba",
+      "texto_en": "Ehehe, it's not that interesting, really.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "But who are they communicating with?\\nOther whales swim underwater, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, right! It won't work if it's not visible.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "Ah, that's why whales use ultrasound...\\nIt's called echolocation,\\nand they use it to communicate with their companions.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Yotsuba",
+      "texto_en": "I see, that sounds like an earth-friendly method!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "That's how ecology works.\\nDon't judge things just based on how they sound.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "And, the answer to why they spout water\\nis because of their breathing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Yotsuba",
+      "texto_en": "Breathing, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "Unlike fish, whales breathe through their lungs.\\nIn other words, they can't breathe in water.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah!\\nThat's right! Whales and dolphins are mammals!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Exactly.\\nIt's the same as when humans swim and take a breath.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "The breath that's forcefully exhaled\\nlooks like water spray or white mist.\\nThat's the true nature of spouting.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Raiha",
+      "texto_en": "I knew they were taking a breath,\\nbut why does it look like a fountain?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "That's a good question!\\nIt's a reaction caused by temperature difference.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "The air that was warmed by the whale's body temperature\\nlooks white when it touches the cold air outside.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "We also see our breath as white on a cold day,\\ndon't we?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Raiha",
+      "texto_en": "Oh, wow! So that's the same thing!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Yotsuba",
+      "texto_en": "I see.\\nI completely thought they were spitting out seawater.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "That's a common misunderstanding.\\nBut, I can understand why it might look like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Yotsuba",
+      "texto_en": "Hehehe, I learned something new again!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "Anyway, Yotsuba.\\nIsn't it time for everyone to meet up?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, right!\\nI lost track of time during the whale lecture!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "Let's summarize what we heard from the others\\nand decide what to do.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Yotsuba",
+      "texto_en": "Okay!",
+      "texto_ptbr": ""
+    }
+  ]
+}

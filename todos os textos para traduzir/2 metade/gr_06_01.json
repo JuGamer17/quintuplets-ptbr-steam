@@ -1,0 +1,96 @@
+{
+  "arquivo": "gr_06_01",
+  "total": 15,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Five months have passed since that night.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "As they said before about my choices not mattering,\\nneither Nino nor Miku\\nchanged their attitudes towards me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "In fact, it might be fair to say\\nthat their intensity increased. They were constantly\\naware of each other, competing in strange ways...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Ichika had a more reserved attitude,\\nbut it was clear that she had feelings towards me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Of course, she didn't say it outright,\\nbut that's...just how Ichika is.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "As she said before, Yotsuba was always there\\nto cheer Nino and Miku on.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Itsuki was the one who struggled the most.\\nShe was always there\\nto stop Nino and Miku from going too far.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Of course, she knew that I was struggling too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "She often gave me a look\\nthat seemed to say 'do something about it.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "Still, I had no intention of changing my decision.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "As autumn ended and winter began,\\nwe entered the final stages\\nof our entrance exam studies.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Nino and Miku seemed to calm down a bit,\\nperhaps thinking about Itsuki\\nwho was preparing for her own exams.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "In a way, it was like returning to our relationship\\nbefore the school festival.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Before we knew it, the new year had come,\\nexams were over%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "And graduation was just around the corner.",
+      "texto_ptbr": ""
+    }
+  ]
+}

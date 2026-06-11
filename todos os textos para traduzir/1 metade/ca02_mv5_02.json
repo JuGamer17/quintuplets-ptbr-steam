@@ -1,0 +1,336 @@
+{
+  "arquivo": "ca02_mv5_02",
+  "total": 55,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Nino",
+      "texto_en": "The botanical garden within the Native Okinawan Village\\nhad many rare plants, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "They have a different concept compared to other \\nbotanical gardens.\\nThey seem to be collecting native species from Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Nino",
+      "texto_en": "So, there were cherry blossom trees too,\\nbut are they also native to Okinawa?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, 'hikanzakura,'\\nalso known as 'kanhizakura.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "I read the description, and it's not a native species,\\nbut apparently it's a type of cherry blossom\\nthat is commonly found in Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "The trees have already finished blooming, haven't they?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "In Okinawa, they start blooming from late January,\\nso the best time to see them has long passed.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "It's a shame we couldn't see it,\\nbut there's a photo of it in the brochure. Look.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "Oh, this is what the flower looks like.\\nIt's so pretty with its deep pink color!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "It's quite different from the somei-yoshino.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "And it blooms quite early, doesn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "As expected from the tropics.\\nThey're already blooming on Honshu.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "It seems like it's gonna be a little difficult\\nto see cherry blossoms with you, Futaro, isn't it?\\nI wanted to have a cherry blossom viewing date.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Yeah...\\nThere are things we need to do for our new life,\\nand we're both busy, aren't we?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "It's impossible this year.\\nIt's obvious that I'll be busy with the move.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "That's right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Sorry...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "You don't have to apologize, Futaro.\\nSpring's the season for that kind of thing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Nino",
+      "texto_en": "But, let's go see them together next year.\\nIt's a promise.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, of course.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "If we're going to view cherry blossoms nearby,\\nI definitely want to bring bento with us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Will you make one for me?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "We might be able to see a little bit of it.\\nI'll be busy with the move, but we'll have time\\nto take a walk around the neighborhood.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "Really? That's fine,\\nlet's go after we get back from Okinawa!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "I really think we'll only have time for a walk,\\nbut is that okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "What's important is to make memories with you, Futaro.\\nHow long we do something doesn't matter.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "Of course, to be honest,\\nI'd like to spend some quality time with you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "But even if it's not possible this year,\\nwe'll have next year, right, Futaro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "Okay, got it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Nino",
+      "texto_en": "If we're going to view cherry blossoms nearby,\\nI definitely want to bring bento with us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "Will you make one for me?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Let's go see cherry blossoms next year.\\nIt would be nice to even go to a so-called famous spot.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "You mean like, on a trip?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Well... I don't mind if it was on a trip, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Nino",
+      "texto_en": "Yay!\\nAlright, let's go, you and me!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Nino",
+      "texto_en": "Teehee, I can think of so many things I want to do now.\\nI'm really excited!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Sorry for this year,\\nbut let's enjoy ourselves next year.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "Is this year really impossible?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "Sorry, I have to move and all that.\\nSo, I don't think I'll have time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "But, well, I might be able to take a walk\\naround the neighborhood.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Nino",
+      "texto_en": "In that case,\\nlet's go for a cherry blossom viewing walk.\\nEven if it's just for a little bit, okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Nino",
+      "texto_en": "If we're going to view cherry blossoms nearby,\\nI definitely want to bring bento with us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Will you make one for me?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Nino",
+      "texto_en": "Of course! What kind of bento would you like to eat,\\nFutaro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "Anything's fine%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Nino",
+      "texto_en": "Don't say anything's fine.\\nTell me what you really want to eat.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Alright, then....",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "Rice balls or something?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Nino",
+      "texto_en": "Why are you asking in a questioning tone?\\nFutaro, you always make things difficult\\nin situations like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Nino",
+      "texto_en": "But, rice balls it is.\\nGot any specific filling requests?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "I'll leave it up to you...\\nor, maybe no fillings?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Nino",
+      "texto_en": "Hmm, this time I'll stuff the rice balls for you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Nino",
+      "texto_en": "But, I might make rice balls that\\nyou've never eaten before, Futaro.\\nYou won't complain, will you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "Wh-what kind of rice balls are you talking about?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Nino",
+      "texto_en": "Teehee, you'd best be excited!",
+      "texto_ptbr": ""
+    }
+  ]
+}

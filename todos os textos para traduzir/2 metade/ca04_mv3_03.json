@@ -1,0 +1,384 @@
+{
+  "arquivo": "ca04_mv3_03",
+  "total": 63,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Raiha",
+      "texto_en": "Oh, big bro!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun? You're alone?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "I-it's not like I'm lonely or anything!\\nI'm just doing what I want, you know!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "I haven't said anything yet.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Ooh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "Aren't you with Yotsuba?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "No, we're having free time and all that.\\nI'm just wandering around as I like.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "...What are you so restless about?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "I see you're not with Nino or Miku.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "I don't know where they went.\\nI'm sure they're also checking out\\nsouvenir shops or something.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "I see.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "What's up with those two?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "I haven't the slightest idea.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "...Are you hiding something, Itsuki?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "I-I'm not hiding anything at all, Uesugi-kun?\\nIt most definitely doesn't concern you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "Okay, then why don't you tell me what you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Raiha",
+      "texto_en": "Oh, that's right!\\nGuess what, big bro!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Huh?\\nYeah, what is it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Raiha",
+      "texto_en": "Earlier, at the shop over there,\\nI saw someone playing a 'sanshin' with Itsuki-san!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Raiha",
+      "texto_en": "That was so amazing, wasn't it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "Y-yes!\\nIt was just so wonderful, Raiha-chan!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Sanshin? Yeah, I know the sun shines nicely here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "No, no.\\nA sanshin is a traditional Okinawan musical instrument.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "Oh, I see.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "I've actually heard that instrument's\\nsound quite a bit since coming here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Itsuki",
+      "texto_en": "You hear it a lot in various places, don't you.\\nIt's an essential part of Okinawan music, after all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Raiha",
+      "texto_en": "They had a sanshin on display,\\nand while we were watching,\\nthe shopkeeper played it right in front of us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Oh, that's a nice surprise.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Raiha",
+      "texto_en": "Even without sheet music,\\nshe was able to play it just by ear. That was so cool.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "I heard they also have trial lessons\\nfor tourists at that shop.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Raiha",
+      "texto_en": "If I practiced,\\ndo you think I could learn to play it too?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Who knows? With those trial lessons,\\nyou might be able to play something nice.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "And, even if you can't play it well,\\njust producing some beautiful notes\\ncould be really fun, I think.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Oh wow, I didn't know\\nyou were interested in the sanshin, Itsuki.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "Yeah.\\nThe sound is simple and pure, and listening to it\\ngives me some sort of healing feeling.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Can you play any instruments, Itsuki?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "I have no experience,\\nif I could play it well, I think it might be fun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "Unfortunately, we won't be able to participate\\nin the trial lesson. It doesn't match our schedule.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "Come to think of it, while the sanshin is a traditional\\ninstrument, it seems various modifications\\nhave been made to modernize its decoration.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Well, it's worth a try.\\nIt's good to have an interest in something, isn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, if I hadn't come to Okinawa on this trip,\\nI wouldn't have been able to experience the sound\\nof a real sanshin like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Something might start off an encounter like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "No one really knows what might spark\\nfrom ANY encounter one has.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Raiha",
+      "texto_en": "Maybe you'll become a sanshin player in the future,\\nItsuki-san.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "Haha, that would be pretty dang unexpected.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "Hehehe,\\nthat does seem like a fun future,\\nbut I have my own dream that I want to fulfill.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Itsuki",
+      "texto_en": "Come to think of it, while the sanshin is a traditional\\ninstrument, it seems various modifications\\nhave been made to modernize its decoration.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "It's a good opportunity.\\nWe could learn a lot about the culture\\nthrough the sanshin.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, during this trip we'll be visiting\\nvarious places in Okinawa, so I want to take\\nit all in and enjoy everything we see.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "That kind of thinking is just like you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "I'm not particularly good at history,\\nbut I'm aiming to be a teacher,\\nso I want to accumulate knowledge.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Itsuki",
+      "texto_en": "I think you too, Uesugi-kun,\\nshould try to overcome your weaknesses\\nas soon as possible, don't you think?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Huh? Me?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Itsuki",
+      "texto_en": "Yes. Please do your best.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Itsuki",
+      "texto_en": "Come to think of it, while the sanshin is a traditional\\ninstrument, it seems various modifications\\nhave been made to modernize its decoration.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "Decorations, like those patterns.\\nI don't know much about recent sanshin,\\nbut I think the traditional pattern was snakeskin.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Itsuki",
+      "texto_en": "Indeed.\\nIt seems they were made from the skin\\nof the nishiki snake.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Itsuki",
+      "texto_en": "I thought it was a habu when I heard the word snake,\\nbut now that I think about it,\\na habu would be too small to use.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Raiha",
+      "texto_en": "Oh yeah!\\nI was pretty surprised, but apparently\\nthe sound is different when real leather is used.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Itsuki",
+      "texto_en": "Yes. They said that a really clear sound comes out.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "The sound changes depending on the skin.\\nHuh, that's interesting.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Itsuki",
+      "texto_en": "For those who want to try playing one for the first\\ntime, there are also ones that use artificial skin,\\nso it might be good to buy and take home as a souvenir.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "(She's casually talking about buying one,\\n but a sanshin's definitely not cheap.\\n She's making a subtle upper-class statement...)",
+      "texto_ptbr": ""
+    }
+  ]
+}

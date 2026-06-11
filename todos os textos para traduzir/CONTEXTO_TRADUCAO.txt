@@ -1,0 +1,210 @@
+================================================================================
+  CONTEXTO DE TRADUÇÃO — Gotoubun no Hanayome: Five Memories (Steam/PC)
+================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. SOBRE O JOGO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Título original: 五等分の花嫁 ファイブメモリーズ (Gotoubun no Hanayome: Five Memories)
+Gênero: Visual Novel / Romance
+Plataforma: PC (Steam)
+Idioma original: Japonês
+Idioma dos arquivos a traduzir: Inglês → Português Brasileiro
+
+O jogo é baseado no mangá/anime "As Quintuplets Não Podem se Dividir por 5"
+(五等分の花嫁). Segue a história de Fuutarou Uesugi, um estudante que se torna
+tutor das quintuplas Nakano durante uma viagem de estudos em Okinawa.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. PERSONAGENS PRINCIPAIS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FUUTAROU UESUGI (上杉 風太郎) — Fuutarou / Uesugi
+  - Protagonista masculino. Estudante inteligente e dedicado, mas antissocial
+    e direto ao ponto. Fala de forma seca e racional. Raramente demonstra
+    emoções abertamente. Usa linguagem formal/neutra com as quintuplas no início,
+    mas vai se tornando mais próximo ao longo do jogo.
+  - Pronomes: ele/dele
+
+ICHIKA NAKANO (中野 一花) — Ichika
+  - Quintupla mais velha. Aspirante a atriz. Extrovertida, confiante e
+    carismática. Fala de forma natural e animada, às vezes com um toque de
+    sedução. Usa o primeiro nome de Fuutarou eventualmente.
+  - Pronomes: ela/dela
+
+NINO NAKANO (中野 二乃) — Nino
+  - Segunda quintupla. A mais resistente a Fuutarou no início. Direta, brava
+    e orgulhosa, mas muito leal à família. Fala de forma assertiva, às vezes
+    grossa. Usa "Uesugi" para se referir a Fuutarou na maior parte do tempo.
+  - Pronomes: ela/dela
+
+MIKU NAKANO (中野 三玖) — Miku
+  - Terceira quintupla. Tímida e quieta, fã de história (especialmente do
+    período Sengoku). Fala pouco, em frases curtas e suaves. Demonstra afeto
+    de forma contida. Usa "Fuutarou-kun" ou "Uesugi-kun".
+  - Pronomes: ela/dela
+
+YOTSUBA NAKANO (中野 四葉) — Yotsuba
+  - Quarta quintupla. A mais energética e positiva. Extremamente prestativa e
+    ingênua. Fala de forma animada, com exclamações frequentes. Raramente
+    demonstra tristeza abertamente. Usa "Fuutarou-kun".
+  - Pronomes: ela/dela
+
+ITSUKI NAKANO (中野 五月) — Itsuki
+  - Quinta quintupla (a mais nova). Responsável, estudiosa e orgulhosa.
+    Come muito (especialmente hambúrgueres). Fala de forma formal e direta,
+    às vezes exasperada com Fuutarou. Usa "Uesugi-san".
+  - Pronomes: ela/dela
+
+RAIHA UESUGI (上杉 らいは) — Raiha
+  - Irmã mais nova de Fuutarou. Doce, carinhosa e animada. Adora as quintuplas.
+    Fala de forma infantil e fofa. Chama o irmão de "Onii-chan" (irmão).
+  - Pronomes: ela/dela
+
+MARIKA ZENJOUJI (善城 まりか) — Marika
+  - Personagem secundária. Rival romântica. Fala de forma elegante e refinada.
+  - Pronomes: ela/dela
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. CONTEXTO DAS ROTAS (ARQUIVOS)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Os arquivos seguem a nomenclatura:
+
+  ca01_XX  →  Rota da Ichika (1ª quintupla)
+  ca02_XX  →  Rota da Nino (2ª quintupla)
+  ca03_XX  →  Rota da Miku (3ª quintupla)
+  ca04_XX  →  Rota da Yotsuba (4ª quintupla)
+  ca05_XX  →  Rota da Itsuki (5ª quintupla)
+  ca06_XX  →  Rota Comum (compartilhada entre todas)
+  caXX_mvY_ZZ  →  Cenas de memória/flashback da rota XX, herona Y
+  op_XX_XX →  Cenas de abertura/prólogo
+  ed_XX_XX →  Cenas de encerramento/final (por herona)
+  gr_XX_XX →  Cenas de grupo / gerais
+  tu_01    →  Tutorial
+  ed06_XX  →  Final da rota "All" (todas as quintuplas)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. TOM E ESTILO DE TRADUÇÃO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+- Tradução para Português BRASILEIRO, não europeu.
+- Tom informal e natural, como numa conversa entre adolescentes/jovens.
+- Preserve a personalidade de cada personagem (ver seção 2).
+- NÃO use "você" em excesso — adapte para soar natural em PT-BR.
+- Gírias e expressões devem ser brasileiras, não portuguesas.
+- Quebras de linha (\n) devem ser preservadas EXATAMENTE como no original.
+- Variáveis como ${dialog}, ${needspace}, %s, %d devem ser preservadas.
+- Nomes japoneses devem ser mantidos (Fuutarou, não "Futaro").
+- Honoríficos como "-kun", "-san", "-chan" podem ser mantidos ou adaptados
+  contextualmente, mas deve ser consistente ao longo de todo o arquivo.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. FORMATO DOS ARQUIVOS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Cada arquivo JSON tem o seguinte formato:
+
+{
+  "arquivo": "ca01_01",
+  "total": 64,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Raiha",
+      "texto_en": "Wow...",
+      "texto_ptbr": ""        ← PREENCHER AQUI
+    },
+    ...
+  ]
+}
+
+Regras:
+  - Preencha APENAS o campo "texto_ptbr".
+  - Não altere "id", "personagem" ou "texto_en".
+  - Preservar \n (quebra de linha) exatamente onde aparecem.
+  - Não adicionar pontuação extra onde não existe no original.
+  - Reticências: use "..." (três pontos), não "…" (caractere único).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. EXEMPLOS DE TRADUÇÃO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  EN: "That was fun, right?\nI didn't know..."
+  PT: "Foi divertido, não foi?\nEu não sabia..."
+
+  EN: "Don't mess with me, Uesugi!"
+  PT: "Não me testa, Uesugi!"
+
+  EN: "I... I wasn't waiting for you or anything!"
+  PT: "Eu... Eu não estava te esperando nem nada!"
+
+  EN: "Leave it to me!"
+  PT: "Pode deixar comigo!"
+
+  EN: "Hmm... I see."
+  PT: "Hmm... Entendo."
+
+  EN: "You idiot!"
+  PT: "Seu idiota!"  ← NÃO: "Seu tolo!" (pouco natural em PT-BR)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. TERMOS RECORRENTES — GLOSSÁRIO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  EN                    PT-BR
+  ─────────────────── → ─────────────────────────────────
+  quintuplets           quintuplas
+  tutor                 tutor
+  study session         sessão de estudos
+  Okinawa               Okinawa (manter)
+  the five of us        nós cinco
+  older sister          irmã mais velha
+  I won't forgive you!  Eu não vou te perdoar!
+  Leave me alone        Me deixa em paz
+  You're hopeless       Você não tem jeito
+  Seriously...          Sério...
+  No way!               De jeito nenhum! / Não tem como!
+  Onii-chan             Onii-chan (manter) ou "Irmão"
+  Good grief            Que saco / Meu Deus
+  As expected           Como esperado / Claro que sim
+  I see                 Entendo / Já vejo
+  Got it                Entendido / Certo
+  Come on!              Vamos! / Anda logo!
+  Are you stupid?       Você é idiota?
+  This is bad           Isso é ruim / Isso é um problema
+  It can't be helped    Não tem jeito
+  Don't push yourself   Não force a barra
+  I'm counting on you   Estou contando com você
+  Nice to meet you      Prazer em conhecer / Olá
+  Sorry for the wait    Desculpe a demora
+  roger that            entendido / pode deixar
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. NOTAS ESPECIAIS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+- O jogo se passa durante uma viagem escolar em OKINAWA, Japão. Referências
+  a pontos turísticos (Kokusai Dori, Shurijo, Churaumi, etc.) devem ser
+  mantidas com os nomes originais japoneses.
+
+- As quintuplas são IDÊNTICAS fisicamente — esse é um tema recorrente no
+  jogo e nas piadas internas.
+
+- Fuutarou chama todas pelo sobrenome "Nakano" no início, e vai mudando
+  conforme a intimidade aumenta em cada rota.
+
+- Cenas de memória (mv) mostram o passado das personagens. O tom pode ser
+  mais nostálgico ou infantil dependendo do contexto.
+
+- Arquivos "ed" (endings) têm um tom mais emocional e conclusivo — atenção
+  especial ao peso das falas nessas cenas.
+
+- Arquivos "gr" (group) envolvem todas as quintuplas juntas — o caos e a
+  confusão são intencionais e devem ser preservados na tradução.
+
+================================================================================
+  Projeto de tradução PT-BR — Gotoubun no Hanayome: Five Memories
+  Baseado no trabalho de extração e análise dos arquivos do jogo.
+================================================================================

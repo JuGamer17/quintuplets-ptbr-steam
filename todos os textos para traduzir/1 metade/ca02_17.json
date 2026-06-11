@@ -1,0 +1,276 @@
+{
+  "arquivo": "ca02_17",
+  "total": 45,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(After finishing dinner and returning to my room,\\n I couldn't help but feel distressed\\n as I recapitulated the day at the beach.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(What was that fuzzy feeling I had at lunch today?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "(I didn't experience anything unpleasant, but...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "(Well, it didn't feel good\\n being the subject of those guys' mockery.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "(For better or for worse, the quintuplets stand out,\\n so it's natural to draw attention\\n when we're together%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Guy D",
+      "texto_en": "One guy and five girls? That's obviously unbalanced.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "(I see, could it be that one phrase that unconsciously\\n stuck with me?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "Unbalanced, eh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "(In other words, at that moment,\\n I felt uneasy about being with Nino.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "(Looking back at it, it kinda explains my fuzzy feeling.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "(I can explain why I confessed my feelings to Nino\\n and why I fell for her%p-2;――\\n%p; It's because of my own feelings.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "(But%p-2;――%p; why did Nino fall for me?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Nino",
+      "texto_en": "I fell in love with you because you're you, Fu-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "(Because I'm me? What's that?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "(Originally, at the school camping trip, I disguised\\n myself as Kintaro and Nino fell in love with me.\\n After that, she confessed to me.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "(She said she wanted me to know\\n how much she loved me...but we've\\n never really talked about what she likes about me.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "(It seems that Kintaro was exactly Nino's type\\n based on his appearance...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "(Even at the school festival she said that\\n my dad was handsome.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "(Based on her reaction during the school trip,\\n Nino...might actually slightly prefer 'bad boys.')",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "(However, unlike before,\\n I am far from being that type of person.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "I don't get it...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "(Come to think of it, Nino might be\\n the least compatible girl\\n out of the five of them, maybe?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "(Nino is a fashionable, trendy, and modern\\n high school girl. However, I don't know anything\\n about trends, and I'm not interested.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "(On the other hand, I'm old-fashioned\\n and my conversation skills are limited...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "(However, I have my strengths!\\n I got third place in the national mock exams!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "(But Nino doesn't care about it.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "(Why am I dating Nino?\\n Isn't it a miracle that we're even together?!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "(No way!\\n I have absolutely no intention\\n of doubting Nino's feelings for me!!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "(After all, she's been showing me\\n how much she cares about me.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "(Is this the reason?\\n Am I just taking advantage of Nino's affection...?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "(It's ridiculous to think\\n that I'm taking advantage of her.\\n As lovers, we should respect each other as equals.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "(If we keep going on like this,\\n with our relationship being inconsistent...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "(There's a possibility\\n that Nino might get tired of me someday, huh?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "This is NOT enough to show her what kind of man I am.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "I need to take the initiative to Nino,\\nand make the first move... I-I've gotta kiss her!\\nI must make this miracle come to life!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "(Alright, in order to lead Nino in our relationship,\\n I need to understand what she likes.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "(Damn it, it's pathetic that I'm thinking about our \\n relationship now! Even though we're dating, I've been\\n neglectful of things like that because of the exams!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "(Fortunately or unfortunately, Nino's sisters,\\n who know her better than anyone else,\\n are with us on this trip. I can still make it up!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "(Starting tomorrow, I'll begin investigating Nino!)",
+      "texto_ptbr": ""
+    }
+  ]
+}

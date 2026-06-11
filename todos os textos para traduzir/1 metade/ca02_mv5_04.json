@@ -1,0 +1,288 @@
+{
+  "arquivo": "ca02_mv5_04",
+  "total": 47,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "The Ocean Culture Museum over there apparently has\\na Nautical Zone, Oceania Zone, and a Cultural Exchange\\nZone, where you can experience sea related history.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "There's also a planetarium, I think.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, there is one. By the way,\\nthe starry sky in Okinawa should be quite different\\nfrom what you usually see.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Nino",
+      "texto_en": "I know that.\\nThis place is much further south than Honshu.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Nino",
+      "texto_en": "Speaking of which...\\nWhen you think of Okinawa, you'd think of the Southern Cross, \\nright?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Oh! You know your stuff.\\nYeah, around here, it should be barely visible\\nright near the horizon!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "Huh? Barely visible?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, the stars in the Southern Cross are\\nrepresentative stars of the southern hemisphere.\\nTo see it properly, you have to go further south.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "Ok, I get it.\\nI thought you could normally see it in Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "If you go further south, we're no longer in Japan.\\nLike in Hawaii?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, in Hawaii, you can definitely see it.\\nI think you can also see it\\non some southern islands in Japan...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "Really?\\nWait a minute, let me look that up.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Ah, using your smartphone.\\nReally comes in handy in times like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "Let's see, there's a remote island\\nin the southernmost part of Okinawa\\ncalled Hateruma Island, where you can see it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Oh, I see.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "Places to see the cross are really limited in Japan.\\nGoing to the southernmost inhabited island\\nis quite a high hurdle.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Oh, by the way, there's also a constellation\\ncalled the False Cross\\nthat's often mistaken for the Southern Cross.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "The False Cross? What a name.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "There's something romantic about remote islands and the \\nsouthernmost tip!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "Yes, I can see why people love it.\\nIt has an adventurous feel to it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "I heard there are tours to see the Southern Cross\\non Hateruma Island,\\nand there is a tower for stargazing too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Thought so, since the Southern Cross is a rare sight,\\nthe environment for observation must be well prepared.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Nino",
+      "texto_en": "We can't go this time, but someday,\\nit might be nice to go see the Southern Cross.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "What about you, Futaro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "With you, you mean?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "Of course.\\nLet's go chase the romantic dream together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "Well, I don't think that's a bad idea at all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Oh, by the way, there's also a constellation\\ncalled the False Cross\\nthat's often mistaken for the Southern Cross.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Nino",
+      "texto_en": "The False Cross? What a name.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Stargazing would be nice.\\nI mean, going anywhere with you would be fun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "Huh...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Ah, well, I don't really know how you feel,\\nbut at least I feel that way.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "I-I feel the same!\\nObviously!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Nino",
+      "texto_en": "However, Futaro, you said it so suddenly.\\nDon't...surprise me like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Sorry.\\nTo be honest, I think I said something embarrassing\\nin the heat of the moment.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Nino",
+      "texto_en": "Hehe!\\nWell, then we're even.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Oh, by the way, there's also a constellation\\ncalled the False Cross\\nthat's often mistaken for the Southern Cross.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "The False Cross? What a name.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "The original Southern Cross is small\\nand hard to distinguish. So many people mistake other\\nstars in a cross shape for the Southern Cross.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "And that's why they call it the False Cross.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Nino",
+      "texto_en": "My, my.\\nIt's a terrible thing to mistake something,\\nand THEN call it a fake.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Are you upset about something?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Nino",
+      "texto_en": "I can understand how the accused stars feel.\\nAs quintuplets,\\nwe often get mistaken for each other.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Nino",
+      "texto_en": "It can't be helped,\\nbut sometimes people say unreasonable things.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "(Ahh...\\n Quintuplets have their own struggles, huh.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Nino",
+      "texto_en": "They shouldn't call it the False Cross.\\nWhy not give it a name instead?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "The False Cross connects stars from\\nother constellations, so it might be difficult\\nto establish another name for it.",
+      "texto_ptbr": ""
+    }
+  ]
+}

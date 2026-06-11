@@ -1,0 +1,660 @@
+{
+  "arquivo": "ca05_16",
+  "total": 109,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Ichika",
+      "texto_en": "Uwaa! Wh-what?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Ichika",
+      "texto_en": "O-okay, I'm opening it now!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Ichika",
+      "texto_en": "Oh, it's Itsuki-chan.\\nWelcome back%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "Ichikaaa...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Ichika",
+      "texto_en": "Wh-what happened?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "I-I'm a failure as a girlfriend!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "Huh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "I-I'm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Ichika",
+      "texto_en": "Itsuki-chan, let's go inside first, shall we?\\nThen I'll carefully listen to your story, okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "%p-2;――%p; And then, well, I came back alone.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Yotsuba",
+      "texto_en": "I-I see...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "I understand the situation now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "I have a lot to say, though.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, Futaro-kun needs to be scolded\\nfor approaching Itsuki-chan in a way\\nto make her cry like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "P-please don't do that! It was my fault!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Miku",
+      "texto_en": "You, Itsuki? Why?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "That's because...\\nI, as Uesugi-kun's 'girlfriend,'\\ncouldn't accept him...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh? Really?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "I mean, isn't it?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "If I'm his 'girlfriend,'\\nI should have been happy to accept him, right?!\\nI couldn't even do that!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "So, when I refused Uesugi-kun on the spot,\\nI thought, maybe, that...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Miku",
+      "texto_en": "That...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "I might, not like him.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "HUH?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "WHAT are you going on about now?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Miku",
+      "texto_en": "After the school festival,\\nyou were really struggling with your answer.\\nAre you saying, it was wrong?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "That's...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Yotsuba",
+      "texto_en": "It's not wrong!\\nI can tell just by looking\\nthat you really love Uesugi-san, Itsuki!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "...Is that really true though?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "Listen up, you%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Miku",
+      "texto_en": "Nino, wait.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Miku",
+      "texto_en": "Itsuki.\\nWhy did you decide to date Futaro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Itsuki",
+      "texto_en": "Huh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Miku",
+      "texto_en": "Nino, Ichika, Yotsuba and I have all said a lot.\\nBut, Itsuki, you were the one who decided \\nand we never heard the reason. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Nino",
+      "texto_en": "Well, I do kind of understand the reason.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Miku",
+      "texto_en": "Please tell us properly.\\nRight here, right now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "...I understand.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Itsuki",
+      "texto_en": "I have learned many things from meeting Uesugi-kun\\nand being taught by him.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "Thanks to him, I have grown a lot and found my dream,\\nand I was able to come this far.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "So, even before he confessed to me%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun had already become an important friend\\nwhom I could respect\\nfrom the bottom of my heart.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Ichika",
+      "texto_en": "Sure, that's what you say, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Itsuki",
+      "texto_en": "Amidst all that, he...\\nconfessed his feelings to me...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "At first, I didn't understand.\\nBut, I felt the same way too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Itsuki",
+      "texto_en": "I wanted to be by his side, forever...\\nas someone more special to him than anyone else.\\nAt least that's what I thought when I answered his confession. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Miku",
+      "texto_en": "Was it all a mistake?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Itsuki",
+      "texto_en": "...Even after we started dating,\\nnothing had really changed.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Ichika",
+      "texto_en": "Yes, and?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Itsuki",
+      "texto_en": "We were both high school students\\nand didn't have much time or the space\\nto pursue our romantic relationship.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "But%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Itsuki",
+      "texto_en": "Our interactions and distance remained unchanged.\\nI had no complaints about it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Itsuki",
+      "texto_en": "That's why I thought our relationship was fine\\nthe way it was.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Miku",
+      "texto_en": "So, it's in past tense, meaning it's different now?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Itsuki",
+      "texto_en": "...You and Nino\\nmentioned something like that before, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Itsuki",
+      "texto_en": "Don't you want to be closer?\\nHow can you endure this lukewarm state?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Nino",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Itsuki",
+      "texto_en": "Those exact words weighed on my mind\\nand gradually became heavier.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Itsuki",
+      "texto_en": "(Yes... The 'love' that I knew\\n was something different.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Itsuki",
+      "texto_en": "(My feelings were not as passionate\\n as those of Nino or Miku.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Itsuki",
+      "texto_en": "(I didn't hold a burning desire within my heart,\\n like Ichika%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Itsuki",
+      "texto_en": "(Nor did I have deep feelings hidden for so long,\\n like Yotsuba.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Itsuki",
+      "texto_en": "...I became unsure. Of my own feelings.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Nino",
+      "texto_en": "You did say that, didn't you?\\nThat, if you're lovers, you should be closer.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Miku",
+      "texto_en": "But, we never doubted your feelings%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Itsuki",
+      "texto_en": "It's okay, I understood that.\\nYour words were just the trigger.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Itsuki",
+      "texto_en": "Even without being told,\\nwe would have ended up like this someday.\\nIt's me who doubts my own feelings.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Ichika",
+      "texto_en": "Hey, Itsuki-chan. Were you perhaps trying to\\nconfirm your own feelings on this trip?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Itsuki",
+      "texto_en": "...Yes.\\nIt's embarrassing to admit.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Itsuki",
+      "texto_en": "I thought that if I acted like Uesugi-kun's\\ngirlfriend, I might understand what my 'love'\\nreally is%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Itsuki",
+      "texto_en": "And, I thought maybe I could understand\\nmy true feelings.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Nino",
+      "texto_en": "So that's what's been going on.\\nAnd you've been feeling that way all along, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Itsuki",
+      "texto_en": "I guess you could tell, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Miku",
+      "texto_en": "It was pretty obvious.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahaha...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Ichika",
+      "texto_en": "Hmm... Is this, perhaps%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Ichika",
+      "texto_en": "Because Itsuki-chan was actively reaching out,\\nFutaro-kun got too excited, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Nino",
+      "texto_en": "That's possible.\\nMaybe he felt like he had to respond as a boyfriend.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah...\\nYeah, I can imagine that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Itsuki",
+      "texto_en": "But, I rejected him...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Itsuki",
+      "texto_en": "I'm sure Uesugi-kun is disgusted with me now.\\nEven if he hates me, I can't complain.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Itsuki",
+      "texto_en": "To do something like that...\\nI really... I... I'm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 84,
+      "personagem": "Nino",
+      "texto_en": "*sigh*",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 85,
+      "personagem": "Itsuki",
+      "texto_en": "You really are fed up with me, aren't you...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 86,
+      "personagem": "Miku",
+      "texto_en": "That's not what she means.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 87,
+      "personagem": "Itsuki",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 88,
+      "personagem": "Yotsuba",
+      "texto_en": "Listen, Itsuki.\\nYou're so sad right now because you don't want\\nUesugi-san to hate you, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 89,
+      "personagem": "Itsuki",
+      "texto_en": "That's obvious!\\nBecause, I%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 90,
+      "personagem": "Itsuki",
+      "texto_en": "Ah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 91,
+      "personagem": "Ichika",
+      "texto_en": "You see?\\nIf someone you don't like tries to kiss you,\\nyou'd normally be angry about it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 92,
+      "personagem": "Ichika",
+      "texto_en": "So, did you get angry and hit him because of that,\\nItsuki-chan?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 93,
+      "personagem": "Itsuki",
+      "texto_en": "...No.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 94,
+      "personagem": "Yotsuba",
+      "texto_en": "Right!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 95,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 96,
+      "personagem": "Nino",
+      "texto_en": "I've just about had it up to here with you\\nplaying the lone tragic heroine.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 97,
+      "personagem": "Itsuki",
+      "texto_en": "I-I didn't mean to...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 98,
+      "personagem": "Nino",
+      "texto_en": "If that's the case,\\nyou don't have time to think about the tedious things.\\nYou know that too, don't you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 99,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 100,
+      "personagem": "Ichika",
+      "texto_en": "I think you're maybe too caught up\\nin the aspect of love, Itsuki-chan.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 101,
+      "personagem": "Itsuki",
+      "texto_en": "The aspect...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 102,
+      "personagem": "Ichika",
+      "texto_en": "So that's why she made an outlandish mistake\\neven though it had nothing to do with her feelings.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 103,
+      "personagem": "Miku",
+      "texto_en": "The feeling of liking someone\\nis not something that has a correct form\\nor should be a certain way.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 104,
+      "personagem": "Itsuki",
+      "texto_en": "...That's right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 105,
+      "personagem": "Itsuki",
+      "texto_en": "(Maybe by trying to confirm my own feelings,\\n I was actually making them less clear...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 106,
+      "personagem": "Itsuki",
+      "texto_en": "Thank you, everyone.\\nI%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 107,
+      "personagem": "Itsuki",
+      "texto_en": "I'm gonna face my feelings, one more time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 108,
+      "personagem": "Miku",
+      "texto_en": "Okay.",
+      "texto_ptbr": ""
+    }
+  ]
+}

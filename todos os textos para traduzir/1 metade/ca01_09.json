@@ -1,0 +1,582 @@
+{
+  "arquivo": "ca01_09",
+  "total": 96,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "Nino, Miku, sorry to keep you waiting.\\nHere she is.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Ichika",
+      "texto_en": "What's up? Is something wrong?\\nDid Futaro-kun and the others go ahead without us?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Nino",
+      "texto_en": "There's something we want to confirm with you, Ichika.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Ichika",
+      "texto_en": "Hm? With me?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Nino",
+      "texto_en": "You've been fidgety all day.\\nWhat's on your mind?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Ichika",
+      "texto_en": "Eh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun didn't seem to notice, but we did.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Ichika",
+      "texto_en": "Ah...\\nSo, everyone found out.\\nI thought I was acting normal.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Miku",
+      "texto_en": "Well, you getting up early is not normal, Ichika.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Yotsuba",
+      "texto_en": "Sorry,\\nbut I was also really surprised when I heard that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Ichika",
+      "texto_en": "Ooohh...\\nI guess my bad habits have caught up with me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "If there's something on your mind, please tell us.\\nWe want everyone to be enjoying this trip together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "Miku...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "(...She's right.\\n Yes, I guess it's okay to tell everyone.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "Alright then.\\nPlease listen.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Miku",
+      "texto_en": "What?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Ichika",
+      "texto_en": "I'm thinking of going to Tokyo.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Miku",
+      "texto_en": " %p-2;――%p; Eh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Yotsuba",
+      "texto_en": "EHHHHHH?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "I-I haven't heard anything about this!!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Ichika",
+      "texto_en": "Yes, because this is the first time I'm saying it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Miku",
+      "texto_en": "Why?\\nCould it be, to follow Futaro...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Ichika",
+      "texto_en": "No.\\nIt's because I want to work harder as an actress.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "No way... Not just Fu-kun,\\nbut you'd also be going to Tokyo...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Ichika",
+      "texto_en": "Ah, wait, wait, you're misunderstanding me!\\nIt's not like I'm leaving right now!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "Eh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "I mean, eventually.\\nTo become a better actress,\\nI think I need to work in Tokyo.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Miku",
+      "texto_en": "Oh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Yotsuba",
+      "texto_en": "That surprised me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Nino",
+      "texto_en": "Y-you didn't explain yourself properly!\\nDon't scare me like that!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Ichika",
+      "texto_en": "Sorry, sorry.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Miku",
+      "texto_en": "So, are you serious about this?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Ichika",
+      "texto_en": "Of course.\\nI haven't talked to my agency yet,\\nbut I definitely want to go someday.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Nino",
+      "texto_en": "...I understand.\\nI guess you've decided that this is your path in life,\\nso you can't do things halfway.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, that's right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Yotsuba",
+      "texto_en": "...Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Yotsuba",
+      "texto_en": "Um, Ichika?\\nWhy did that conversation make you all fidgety today?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Ichika",
+      "texto_en": "Ah... Well, that's because...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Miku",
+      "texto_en": "As I thought, is it because of Futaro?\\nYou're gonna live together in Tokyo, or something?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Ichika",
+      "texto_en": "Wouldn't it be nice if that happened?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Nino",
+      "texto_en": "Ahh!\\nThat's why...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Nino",
+      "texto_en": "So the reason you were grinning while looking \\nat furniture with Fu-kun earlier, was because \\nyou were imagining living together?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Ichika",
+      "texto_en": "That's not it... Well, that's not entirely true!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Miku",
+      "texto_en": "You admit it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Ichika",
+      "texto_en": "I'm really thinking of going to Tokyo\\nto work hard as an actress!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Nino",
+      "texto_en": "That's not convincing at all!\\nIsn't the main reason\\nthat you want to live with Fu-kun?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Yotsuba",
+      "texto_en": "Now, now, calm down, Nino.\\nIchika's feelings aren't wrong.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Yotsuba",
+      "texto_en": "It's natural to want to live with someone you love.\\nI think it's good that Ichika\\nand Uesugi-san are together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Nino",
+      "texto_en": "That's...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Nino",
+      "texto_en": "...I'm sorry.\\nI got a little too emotional.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Ichika",
+      "texto_en": "No, it's okay.\\nI surprised you, didn't I.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Miku",
+      "texto_en": "You did.\\nBut I know how serious you are\\nabout your work as an actress, Ichika.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Ichika",
+      "texto_en": "Thanks.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Yotsuba",
+      "texto_en": "Have you told Uesugi-san about it yet?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Ichika",
+      "texto_en": "Well, not yet.\\nIt's hard to bring up.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Ichika",
+      "texto_en": "Because it's related to Futaro-kun's future, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Ichika",
+      "texto_en": "(...What should I do?\\n With this flow... Should I mention that too...?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Ichika",
+      "texto_en": "(Okay! Just say everything you're thinking!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Ichika",
+      "texto_en": "So, um, I actually have a request for everyone.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Miku",
+      "texto_en": "A request? Like helping you tell Futaro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Ichika",
+      "texto_en": "No, it's not that.\\nThat's something I should do myself.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Ichika",
+      "texto_en": "Instead, this is something\\nonly you all can help me with.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Yotsuba",
+      "texto_en": "What is it?\\nJust say it!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Ichika",
+      "texto_en": "Well, I was thinking during this trip\\nthat I'd like to simulate living together\\nwith Futaro-kun...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Nino",
+      "texto_en": "Wha! WHAT ARE YOU SAYING?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Ichika",
+      "texto_en": "N-no good?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Nino",
+      "texto_en": "Of course not!!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Yotsuba",
+      "texto_en": "Umm, what do you mean by simulating living together?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Miku",
+      "texto_en": "Living together in one room%p-2;――\\n%p;like staying in the same hotel room as Futaro,\\nyou know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Yotsuba",
+      "texto_en": "I-i-i-is that, r-really, okay?\\nIt seems like a bad idea?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Nino",
+      "texto_en": "It doesn't just SEEM like a bad idea, it IS bad!\\nYou're getting a little too carried away!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Ichika",
+      "texto_en": "No, I'm not getting carried away with this.\\nI'm serious.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Nino",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Ichika",
+      "texto_en": "Living together isn't easy.\\nEven we, as sisters, have had our share of difficulties.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Ichika",
+      "texto_en": "Trying that with someone\\nwho's a stranger to us like Futaro-kun\\nwould be really hard.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Miku",
+      "texto_en": "A stranger, you say.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Ichika",
+      "texto_en": "Even though we're dating, we're still strangers,\\nright? So I want to practice a little.\\nFor both me and Futaro-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Nino",
+      "texto_en": "*sigh*\\nGot it, I'll cooperate.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Ichika",
+      "texto_en": "Thanks, Nino.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 84,
+      "personagem": "Yotsuba",
+      "texto_en": "Me too!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 85,
+      "personagem": "Miku",
+      "texto_en": "I'll help too.\\nIt's for Futaro's sake.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 86,
+      "personagem": "Ichika",
+      "texto_en": "Thank you, both of you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 87,
+      "personagem": "Nino",
+      "texto_en": "But, there's a condition.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 88,
+      "personagem": "Ichika",
+      "texto_en": "Huh? What is it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 89,
+      "personagem": "Nino",
+      "texto_en": "You have to stay in the same room\\nas Fu-kun AND Raiha-chan, the three of you!\\nThat way, nothing will go wrong.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 90,
+      "personagem": "Miku",
+      "texto_en": "Wh-wh-what do you mean, nothing will go wrong...?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 91,
+      "personagem": "Ichika",
+      "texto_en": "Naaah, I'm not planning anything weird.\\nWe're just going to practice living together normally.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 92,
+      "personagem": "Ichika",
+      "texto_en": "But, fine. That means Futaro-kun, Raiha-chan,\\nand I will share the same room.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 93,
+      "personagem": "Yotsuba",
+      "texto_en": "Awwww...\\nEven though I'll be separated from Raiha-chan,\\nit's for Ichika's sake, so okay!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 94,
+      "personagem": "Nino",
+      "texto_en": "Well then, let's hurry back and talk to Itsuki about it.\\nWe'll also ask Raiha-chan... As for Fu-kun,\\nit's fine to talk after we return to the hotel.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 95,
+      "personagem": "Ichika",
+      "texto_en": "Yes.",
+      "texto_ptbr": ""
+    }
+  ]
+}

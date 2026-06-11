@@ -1,0 +1,480 @@
+{
+  "arquivo": "ed02_02_04",
+  "total": 79,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Ahh... I'm so tired...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "I'm exhausted too...\\nI never thought I'd be this nervous.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Nino",
+      "texto_en": "When I imagined my wedding I didn't feel nervous at all.\\nThat was unexpected.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Reality is something else, though.\\nThings don't always go as planned.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Anyway, we made it through somehow. Good job, Nino.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "You too, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "...Looking back, my relationship with you\\nwasn't exactly what I had imagined.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Haha, that's probably true.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "But, that's what made it great.\\nI loved you in my own unique way.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "Predictability is boring.\\nWe had an unconventional romance.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "Hey, don't you think so?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Yeah.\\nYou always managed to exceed my expectations.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "Same goes for you, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "(An unconventional romance, huh?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "(I don't remember doing anything\\n that surprised Nino, but she told me what surprised her.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "...Hey.\\nDo you remember what happened at the school festival?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "The school festival? There were a lot of things.\\nWhich one are you talking about?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Well...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Obviously, I'm talking about what you did to me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "About our first kiss you initiated%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "It opened my eyes and evoked my feelings for you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "What's that supposed to mean?\\nIt's like you've become the princess,\\nand I become the prince.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "I can't change your mind, if that's the way you're going to \\nlook at it, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "That's right.\\nI'm not the kind of princess who sits silently\\nand waits for a kiss.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Nino",
+      "texto_en": "I'll make sure to do enough\\nto awaken even a helpless prince.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Nino...\\nThank you. I'm truly glad you're with me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "...No, it's me who should be saying that.\\nI'm glad I met you, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Isanari",
+      "texto_en": "I'm coming in, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Isanari",
+      "texto_en": "Good one.\\nIt was truly a wonderful ceremony.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Raiha",
+      "texto_en": "Big bro, Nino-san, great job.\\nIt was incredibly beautiful.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Nino",
+      "texto_en": "My new father-in-law and my new little sister Raiha-chan.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "Once again from this moment onwards, as a member of the \\nUesugi family, I'll ask for your support.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Isanari",
+      "texto_en": "Likewise. I'm countin' on you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Raiha",
+      "texto_en": "Please take care of big bro as well.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Nino",
+      "texto_en": "Yes, leave Futaro to me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Isanari",
+      "texto_en": "Make sure you keep that boy in line, now!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Dad...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Nino",
+      "texto_en": "Dad.\\nAbout the shop you lent us.\\nI've decided to leave it to Miku.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Nino",
+      "texto_en": "I apologize for it\\nbecoming a half-hearted arrangement.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Isanari",
+      "texto_en": "Don't sweat it.\\nYou got your own path to follow, Nino-chan.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Nino",
+      "texto_en": "Thank you very much.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Raiha",
+      "texto_en": "I also intend to help out at the shop\\neven more from now on.\\nPlease go to my big bro's place with peace of mind.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Nino",
+      "texto_en": "Okay.\\nTake care of Miku for me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Isanari",
+      "texto_en": "By the way%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Isanari",
+      "texto_en": "Futaro!\\nIt seems even Maruo has admitted you as his son-in-law.\\nThat's great, isn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Nino",
+      "texto_en": "Daddy admitted Futaro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "You heard about that, old man?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Isanari",
+      "texto_en": "Just happened to overhear it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "We still have a long way to go.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "We have to live joyfully everyday \\nto earn your Dad's recognition for sure.\\nUntil then, we'll have to give it our best shot.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Nino",
+      "texto_en": "Futaro...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Isanari",
+      "texto_en": "Heh...\\nYou've become a very fine man, my son.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Isanari",
+      "texto_en": "But I'll always be better than you!\\nGahaha!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Raiha",
+      "texto_en": "Dad, stop.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Raiha",
+      "texto_en": "I came to get your suit, big bro.\\nGive it back to me and I'll return it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "Thanks, Raiha.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Isanari",
+      "texto_en": "See you later, then!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Nino",
+      "texto_en": "...Hey.\\nWhat did Daddy say to you, Futaro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "Ah...\\nIt's hard to put it into words.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "Your father wants you to be happy.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "But, you know that, of course.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Nino",
+      "texto_en": "...Yeah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Nino",
+      "texto_en": "Sorry, maybe I shouldn't have asked. It's probably something \\nthat should be kept between Dad and Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Nino",
+      "texto_en": "Wait a sec! Is it really ok?\\nFutaro seemed so nervous\\nthat he almost messed up the kiss during the vow.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Nino",
+      "texto_en": "I hope Dad wasn't disappointed by that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "Th-that couldn't be helped, you know!\\nEveryone was watching...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "Besides, for me, it was like a final exam.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Nino",
+      "texto_en": "Teehee!\\nYou were worried about that all along.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Nino",
+      "texto_en": "I told you, my grading is strict.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "Even so, I had no idea that I wouldn't receive a perfect score \\nup to today.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Futaro",
+      "texto_en": "Anyway, how was it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Nino",
+      "texto_en": "Do you really want to be rated based on such a nervously \\nperformed kiss?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Futaro",
+      "texto_en": "I was nervous, but%p-2;――%p; it was special to me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "You know what? I vow that, everyday from now on,\\nwe'll be living a happy life together. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Nino",
+      "texto_en": "I double that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Nino",
+      "texto_en": "No matter what happens,\\nI'll live my life with you, Futaro.\\nThat's my vow.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Nino",
+      "texto_en": "So, of course%p-2;――",
+      "texto_ptbr": ""
+    }
+  ]
+}

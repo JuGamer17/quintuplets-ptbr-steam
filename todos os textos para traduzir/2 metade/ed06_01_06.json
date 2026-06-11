@@ -1,0 +1,60 @@
+{
+  "arquivo": "ed06_01_06",
+  "total": 9,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(The fact is, I made a mistake with\\n my confession target.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(That greatly turned the atmosphere\\n between me and the quintuplets\\n into an incredibly awkward one.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(Even after everyone returned to the hotel,\\n not a single person mentioned what happened.\\n It was as if it had never occured.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "(After the last night of the graduation trip passed,\\n we boarded the plane home,\\n with a lingering uncomfortable atmosphere.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "(In this graduation trip, I have\\n betrayed the trust I had built up.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "(What will happen to the relationship\\n between them and I\\n from now on?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "(Is it going to stay like this?\\n Can it still change?\\n Or%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "(Is this, where it ends?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "(The answer to that is shrouded in mist.)",
+      "texto_ptbr": ""
+    }
+  ]
+}

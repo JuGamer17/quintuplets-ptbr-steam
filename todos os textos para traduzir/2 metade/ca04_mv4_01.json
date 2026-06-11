@@ -1,0 +1,456 @@
+{
+  "arquivo": "ca04_mv4_01",
+  "total": 75,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(Oh?\\n Who's that over there...?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Hey, what are you doing in this little corner?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Both",
+      "texto_en": "HYAA?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Uwaaa?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "U-Uesugi-kun!\\nPlease don't talk to us all of a sudden like that!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Ichika",
+      "texto_en": "That SHOCKED me, wow.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "I'm the one who was shocked...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Ichika",
+      "texto_en": "And, hm? You're alone?\\nYou're not with Yotsuba, huh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, I guess.\\nGot a problem with that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "I can't really tell\\nif that's a good thing or a bad thing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Ichika",
+      "texto_en": "They're not making any progress at all.\\nThey're just maintaining at this point.\\nThis is enough to say there's a problem.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Hey, what are you two talking about?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "Oh no, nothing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Cat",
+      "texto_en": "Meow.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Oh? A cat?\\nOh, you were playing with it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, it's cute, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Cute, more like...round.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "W-well, that's cute, too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Ichika",
+      "texto_en": "Sorry this man was so rude to you, Maya-chan, meow.\\nPlease forgive him, meow.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Cat",
+      "texto_en": "Meow, meow.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "Teehee, what a clever kitty.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Is this cat's name Maya?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Ichika",
+      "texto_en": "No, I don't know her real name.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Ichika",
+      "texto_en": "They call cats 'Maya' in the Okinawan language,\\nso we're just calling it Maya-chan (temporarily).",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "That's pretty crude...\\nAlso, including 'meow' at the end of the sentences\\nis pretty crude, too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "It's okay, Maya-chan likes it.\\nJust look.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "Here's some pets, Maya-chan, you're such a good kitty.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Cat",
+      "texto_en": "Meooow, meeeoww.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "Hey, that's not fair,\\nwhy do you get to pet Maya all the time.\\nLet me have a turn too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "What a well-behaved cat.\\nMaybe she's used to being touched by tourists?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "Perhaps she's the mascot for some shop.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Ichika",
+      "texto_en": "With such a magnificent physique,\\nare you eating delicious Okinawan fish every day?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Cat",
+      "texto_en": "Meow.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Isn't this cat eating a bit too much?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "Yeah, I'm a bit concerned about that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Ichika",
+      "texto_en": "Maya-chan, you might want to go on a diet,\\nmeow?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Cat",
+      "texto_en": "Meowww...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Ichika",
+      "texto_en": "Ahaha, guess not.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Cat",
+      "texto_en": "Meow, meoww.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Well, that's a cat living in luxury, I'd say.\\nIt might even be eating better than me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Ichika",
+      "texto_en": "Itsuki-chan,\\nlet's splurge on tonight's dinner for Futaro-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, let's treat him\\nto all the delicious seafood from Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Whaaa you're kidding?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "We won't allow any leftovers, okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Cat",
+      "texto_en": "Meow, meoww.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "Okinawan fish is delicious,\\nso maybe Maya's recommending it to us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Itsuki",
+      "texto_en": "So, is Maya the signboard cat\\nfor the market fisherman?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Ichika",
+      "texto_en": "That's how she's promotes business to customers.\\nMaya-chan, you're such a hard worker.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Cat",
+      "texto_en": "Meow.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Ichika",
+      "texto_en": "Okay, let's have Maya-chan recommend a seafood feast\\nfor tonight's dinner.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "Great idea.\\nWe have this chance, so let's indulge\\nin all the delicious seafood from Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Ichika",
+      "texto_en": "Alright, let's prepare a large boat-shaped platter\\nfor Futaro-kun!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "No, that's not what I meant...\\nJust, don't go overboard, okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Ichika",
+      "texto_en": "You're always so serious.\\nYou've gotta lighten up, huh, Maya-chan?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Cat",
+      "texto_en": "Meow, meowww.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Ichika",
+      "texto_en": "Ah, kitty left.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "It was so friendly until just now,\\nbut it left so easily.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Itsuki",
+      "texto_en": "Cats are said to be fickle. It's true, isn't it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Ichika",
+      "texto_en": "I wish it had stayed a bit longer.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "Ichika, do you really like cats that much?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Ichika",
+      "texto_en": "Not THAT much, but I like them nonetheless.\\nI think all animals are cute.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Itsuki",
+      "texto_en": "Come to think of it,\\nI think you said you like hippos before, Ichika.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "Hippos? Really? That's kind of surprising.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Ichika",
+      "texto_en": "Huh? Is it?\\nI feel like a hippo and I are similar in some ways.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Itsuki",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "Similar?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Itsuki",
+      "texto_en": "At least I don't think you're similar.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "Actually, I think you're more like a sloth.\\nThey spend most of their day sleeping.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Ichika",
+      "texto_en": "Waaah, that's harsh! How can you say that to me,\\nsuch a hard-working actress?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, but he's got a point...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "Itsuki?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Itsuki",
+      "texto_en": "No, I was just thinking hippos,\\nmust have different sides to them as well.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Ichika",
+      "texto_en": "Right, well, since Maya rejected me,\\nshall we go visit some shops?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, let's do that.",
+      "texto_ptbr": ""
+    }
+  ]
+}

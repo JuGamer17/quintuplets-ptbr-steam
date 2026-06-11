@@ -1,0 +1,396 @@
+{
+  "arquivo": "ca03_mv1_03",
+  "total": 65,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "That exhibition earlier was interesting, wasn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Raiha",
+      "texto_en": "Yeah!\\nThere were many different animals\\nin the Yanbaru Forest.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Raiha",
+      "texto_en": "But, what does Yanbaru mean?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Yotsuba",
+      "texto_en": "I don't know either.\\nIt has a jungle-like ring to it,\\nmaybe it's related?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Wrong.\\nDon't judge by how the word sounds.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Raiha",
+      "texto_en": "Ah, big bro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Yanbaru is written in kanji as 'mountain field' in Japanese,\\nreferring to a place in the northern part of Okinawa with large\\nmountains and forests. Many species are exclusive to Yanbaru.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, could it be that Yanbaru rail is also from Yanbaru?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Yes, that's right.\\nThe rail is a type of bird, and it was called the\\nYanbaru rail because it lives in the Yanbaru Forest.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Yotsuba",
+      "texto_en": "I see.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "We won't be going during this trip, but I've heard\\nthat one of the ways to enjoy Okinawa is to\\nappreciate the unique nature of the Yanbaru forest.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Seemingly, you can see and experience the natural landscapes that's untouched by humankind.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "Wow! That sounds fun in itself!\\nLike an adventure!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Raiha",
+      "texto_en": "There are many things you can do in Okinawa,\\naside from swimming in the sea.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Judging from how much you guys already know,\\nhave you both visited the Yanbaru Forest exhibition?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Raiha",
+      "texto_en": "Yeah! They had separate exhibits showcasing different forests,\\none for daytime and one for nighttime, and they were displayed\\naccording to the lifestyle of the animals.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Raiha",
+      "texto_en": "They had an exhibit of the Yanbaru rail\\nwalking along the water during the day.\\nIt was so cute!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Yotsuba",
+      "texto_en": "I couldn't find it,\\nso Raiha-chan showed me where it was.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Really? Given its fame, the Yanbaru rail ought to have been on show somewhere that stood out.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "It's displayed according to its ecology to educate people on how to spot them.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, it's because they hide in locations that are difficult for predators to find.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "I see, the exhibition is well thought out.\\nInteresting.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Raiha",
+      "texto_en": "Yeah, it was intriguing to learn how they live in their environment.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "By the way, I really thought the Iriomote cat was cute.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Yotsuba",
+      "texto_en": "The contrast between its fierce demeanor and its cute face was so charming.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Raiha",
+      "texto_en": "Ah%p-2;――%p; yeah!\\nThe Iriomote cat was super cute too!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Raiha",
+      "texto_en": "How about you, big bro? Which one did you think was cuter?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "I don't see them the same way as you guys do.\\nThe Yanbaru rail is simply just a bird,\\nand the Iriomote cat is simply just a cat.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "I don't really get the whole finding animals\\ncute or not in the first place.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Raiha",
+      "texto_en": "Big bro...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Yotsuba",
+      "texto_en": "Ummm%p-2;――%p; so in your eyes are they all the same?\\nLike, all living creatures are the exact same?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, by the way, Uesugi-san.\\nYou're not with Miku?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah.\\nWe just haven't run into each other yet.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "The Yanbaru rail!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Yotsuba",
+      "texto_en": "You chose almost instantly, there?!\\nYou didn't even hesitate!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "The reason is clear!\\nIf Raiha thinks is cute, then it's cute!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahaha...\\nThat logic is so Uesugi-san coded.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, by the way, Uesugi-san.\\nYou're not with Miku?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah.\\nWe just haven't run into each other yet.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Both of them are endangered species, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Raiha",
+      "texto_en": "Oh, yeah.\\nThere was an explanation\\nthat it's an endangered species.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Yotsuba",
+      "texto_en": "I see, then maybe we shouldn't be calling them cute.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "No, that's not it. It's important to be interested\\nin any way, shape or form. In the end,\\nit might lead to saving them from extinction.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "If you knew that the animal you thought was cute\\nwas an endangered species, you would want to do\\nsomething to help, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Yotsuba",
+      "texto_en": "Yes, I just thought of that too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Raiha",
+      "texto_en": "Me too!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "There's nothing we can do to help right now,\\nbut it's important that we keep that fact in mind.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "It's important to educate ourselves and become aware of these facts at places like this, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Raiha",
+      "texto_en": "Ohhh.\\nBig bro, you're like a teacher.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, you should aim to become a teacher\\nwith Itsuki.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "Nah, I've learned from hard experience\\nnot to do that.\\nIt was SO tough being your tutor, guys.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Yotsuba",
+      "texto_en": "Though you say that, you don't really seem\\nto be entirely uninterested, do you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Raiha",
+      "texto_en": "Big bro, the teacher, eh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, by the way, Uesugi-san.\\nYou're not with Miku?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah.\\nWe just haven't run into each other yet.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "Actually, I have something I want to ask you\\nabout Miku, Yotsuba.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Yotsuba",
+      "texto_en": "What about her?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "I thought you might know the cause\\nof why she's acting strangely.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "I was asked about it earlier,\\nbut do you have any idea?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, that's what you meant.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Yotsuba",
+      "texto_en": "Hmm%p-2;――%p; I also don't know at all.\\nThat's why I asked you, Uesugi-san.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "I see...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Raiha",
+      "texto_en": "I was also wondering about it, too.\\nMiku-san has been acting a little strange, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Raiha",
+      "texto_en": "Big bro, did you do something to upset her?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "No, I really have no idea what's going on...",
+      "texto_ptbr": ""
+    }
+  ]
+}

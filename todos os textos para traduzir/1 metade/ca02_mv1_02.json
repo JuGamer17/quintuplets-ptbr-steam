@@ -1,0 +1,408 @@
+{
+  "arquivo": "ca02_mv1_02",
+  "total": 67,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, Uesugi-san!\\nGood timing!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "What's up Yotsuba, you need something from me?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Yotsuba",
+      "texto_en": "How about going swimming now?\\nWe've come all the way to Okinawa,\\nlet's enjoy the ocean!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "...Didn't you just swim with Raiha\\na little while ago?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Yotsuba",
+      "texto_en": "I was just warming up!\\nThe sea is beckoning me to come back!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "That's a scary way to put it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "(It's nice of her to invite me,\\n but I don't think I can keep up\\n with Yotsuba's stamina.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "(When it comes to endurance,\\n Yotsuba is in a league of her own...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Thanks for the invite, but I'll pass.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Yotsuba",
+      "texto_en": "Aww, Uesugi-san too?\\nMiku also said she doesn't want to join me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Miku",
+      "texto_en": "It's not that we hate swimming,\\nit's just that we can't keep up with your stamina, Yotsuba.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, Miku's right.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "Come on guys!\\nTry to enjoy the ocean as long as we're in Okinawa.\\nIt's such a waste not to.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Miku",
+      "texto_en": "You're on a different level, Yotsuba.\\nItsuki was swimming with you earlier\\nand she was exhausted.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "Did you overdo it again...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Yotsuba",
+      "texto_en": "B-but, I did slow down my pace\\nsince Raiha-chan accompanied us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Yotsuba",
+      "texto_en": "I thought that Itsuki and Raiha-chan\\nwere doing just fine...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Listen, you're like a dolphin and your stamina level is off the \\ncharts. What's slow for you might be way too fast for others.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "Ooohh, I'm sorry, I got carried away.\\nBut the ocean was just too beautiful.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "I understand why you got so excited swimming through the \\nOkinawan ocean. We don't come here very often. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Miku",
+      "texto_en": "Indeed. I remember how excited you were\\nwhen we first arrived in Okinawa, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Oooh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Miku",
+      "texto_en": "But, personally,\\nI prefer admiring the beauty of the ocean\\ninstead of swimming in it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Yotsuba",
+      "texto_en": "Just looking is a waste.\\nWe came all the way to Okinawa, so let's swim!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Miku",
+      "texto_en": "Enjoy yourself. I'll be admiring the ocean.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "But, is admiring the view really good enough?\\nWe've come all the way to Okinawa,\\nwe should at least swim a little.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Miku",
+      "texto_en": "Everyone has their own way of enjoying themselves.\\nI don't want you to deny my way of having fun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, uh, it's also nice to just admire the ocean!\\nThe view from here is as beautiful as a painting!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Yotsuba",
+      "texto_en": "So there are various ways to enjoy the ocean, huh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Miku",
+      "texto_en": "You bet!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Well, we're here until the sun goes down. Which means\\nwe have plenty of time to enjoy the ocean.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Yotsuba",
+      "texto_en": "In that case, I'll go swimming now!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Just don't overdo it.\\nYou're the type to end up\\nin the no-swim zone before you know it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "How about doing both activities together?\\nWe can swim to our heart's content, and afterwards relax\\non the floater and gaze out at the sea. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Yotsuba",
+      "texto_en": "Good idea!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Miku",
+      "texto_en": "But, I'm not sure I can keep up with you, Yotsuba.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Yotsuba",
+      "texto_en": "Don't worry, I won't swim too fast!\\nI'll pace myself.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Miku",
+      "texto_en": "But, Itsuki got annihilated.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Yotsuba",
+      "texto_en": "I-I'll behave myself better this time!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "Well, we're here until the sun goes down. Which means\\nwe have plenty of time to enjoy the ocean.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Yotsuba",
+      "texto_en": "In that case, I'll go swimming now!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Just don't overdo it.\\nYou're the type to end up\\nin the no-swim zone before you know it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "There are several ways to enjoy the ocean.\\nSwimming and gazing out at the sea\\nboth have their merits.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "I appreciate that they provided us with\\nthe floater earlier. It was so relaxing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Miku",
+      "texto_en": "I don't really feel like doing anything too strenuous.\\nRight now relaxing on the floater sounds good to me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, it did look very relaxing.\\nIf we get tired of swimming,\\nwe should try to rest on the floater.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, it was really enjoyable. I guess you could say\\nthat you become one with nature...\\nIt's an experience worth having.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Yotsuba",
+      "texto_en": "People have their own ways of getting close to nature,\\ndon't they.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Miku",
+      "texto_en": "That's diversity, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "Do you know what you're talking about?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Miku",
+      "texto_en": "You can have different perspectives on the same subject, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Well, actually, it means\\nthat there are many things that are similar in nature,\\nbut have a wide range.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Miku",
+      "texto_en": "...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "Nah, it's okay.\\nIt's not really necessary to explain it here, is it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "Well, we're here until the sun goes down. Which means\\nwe have plenty of time to enjoy the ocean.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Yotsuba",
+      "texto_en": "In that case, I'll go swimming now!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "Just don't overdo it.\\nYou're the type to end up\\nin the no-swim zone before you know it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahaha, c'mon, I wouldn't do that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Yotsuba",
+      "texto_en": "If you change your mind, let me know.\\nLet's go swimming!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Miku",
+      "texto_en": "Come to think of it,\\nyou aren't here with Nino, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "W-well, I guess.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Miku",
+      "texto_en": "Futaro, you should focus a little more on Nino...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "Huh? What do you mean?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Miku",
+      "texto_en": "Uh, nothing. Nevermind.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Miku",
+      "texto_en": "Cause we're rivals, me and Nino.",
+      "texto_ptbr": ""
+    }
+  ]
+}

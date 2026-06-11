@@ -1,0 +1,456 @@
+{
+  "arquivo": "ca01_mv5_01",
+  "total": 75,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(Ichika and Raiha, eh.\\n I wonder what they're talking about?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Ichika",
+      "texto_en": "Hmm, something like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Raiha",
+      "texto_en": "Hmm, I see. I see.\\nSo you also like big bro's looks, huh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Hey! You there!\\nWhat are you guys talking about!!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Raiha",
+      "texto_en": "Ah, big bro.\\nRight now, I'm investigating\\nwhat Ichika-san likes about you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Raiha...\\nSorry, Ichika. You can choose not to answer \\nif you don't want to.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "No, it's not a problem, it's fun!\\nI get to talk about what I like about you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Ah...\\nIn that case, well, I guess it's fine.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Raiha",
+      "texto_en": "Big bro, you're blushing hard.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "Leave me alone...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Raiha",
+      "texto_en": "Okay then, let's move on to the next question!\\nAs a boyfriend, how many points would you give big bro?\\nPlease give us your rating straight up.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Ichika",
+      "texto_en": "Points, huh.\\nI haven't thought about that before.\\nGive me a second, I'll rate him right now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "...I never thought I would be rated \\nbased on how good of a boyfriend I am.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Raiha",
+      "texto_en": "But, big bro, you love tests, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "I don't like these kinds of tests.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "Okay, scoring is complete.\\nNow, let me announce the score.\\nFutaro-kun's score is%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Raiha",
+      "texto_en": "Is?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Ichika",
+      "texto_en": "It's 100 points!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Raiha",
+      "texto_en": "Ohh! Amazing!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "No way.\\nI didn't expect such a high rating.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Well, I'm surprisingly happy about it!\\nI didn't expect to get a perfect score%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "However, it's only 100 out of 1000 points.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Wha?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "W-well, I knew I wasn't gonna score that high.\\nAs expected, right? I don't really care, though?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Raiha",
+      "texto_en": "You look shocked, big bro!\\nIt's written all over your face.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "Now, cheer up, will you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "Are you going to make me feel all depressed\\nand then try to cheer me up?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Raiha",
+      "texto_en": "So then, Ichika-san!\\nPlease tell us your points of dissatisfaction\\nso big bro can try to improve his score.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "Hmm, well first...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "That's low...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Ichika",
+      "texto_en": "You would've rated yourself more highly, \\nFutaro-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Well... I thought I'd get a little higher...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Ichika",
+      "texto_en": "Really?\\nWell then, what score did you think you'd get?\\nOut of 1000?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "About 650 points.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Raiha",
+      "texto_en": "That number is too real, big bro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Ichika",
+      "texto_en": "I see. So you think it's above average.\\nAs expected of a confident person.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "St-stop it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Raiha",
+      "texto_en": "So then, Ichika-san!\\nPlease tell us your points of dissatisfaction\\nso big bro can try to improve his score.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "(I want to hear it, but I also don't...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Ichika",
+      "texto_en": "Hmm, well first...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "Well, I agree.\\nI'm aware that I am lacking in some areas.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Raiha",
+      "texto_en": "You're so humble, big bro...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Nah, I don't remember being that arrogant\\nin the first place.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Ichika",
+      "texto_en": "You're right.\\nYou only show some attitude when you're confident.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Ichika",
+      "texto_en": "In other words,\\nyou still lack confidence in romantic matters.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "...Well, I admit that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Ichika",
+      "texto_en": "That's so you, Futaro-kun.\\nThat's definitely a point in your favor.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Raiha",
+      "texto_en": "Hmm, I guess that means Ichika-san also likes\\nyour earnestness, big bro...I guess.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Raiha",
+      "texto_en": "So then, Ichika-san!\\nPlease tell us your points of dissatisfaction\\nso big bro can try to improve his score.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Ichika",
+      "texto_en": "Hmm, well first...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Ichika",
+      "texto_en": "I think it's his manly side.\\nMaking decisions and sticking to them.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Raiha",
+      "texto_en": "I see, I see...wait, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Ichika",
+      "texto_en": "I think that is really cool of him.\\nAnd also, hmm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Ichika",
+      "texto_en": "Accepting me for who I am, I guess.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Raiha",
+      "texto_en": "Ohhh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Ichika",
+      "texto_en": "I'm sure that Futaro-kun\\nwould accept everything about me.\\nI feel safe when I'm with him.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Raiha",
+      "texto_en": "Ichika-san, is that supposed to be an area\\nwhere he needs improvement?\\nThat sounds like a good trait.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, it's just one of his good points.\\nI can't think of anything to complain about.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "Then why is my score so low?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Ichika",
+      "texto_en": "Well, it's because%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Ichika",
+      "texto_en": "I love you for who you are now, Futaro-kun,\\nbut I think I'll start to love you even more from now on.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Ichika",
+      "texto_en": "So the remaining 900 points will come eventually.\\nWe need to leave some room for points, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "I-I see...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Ichika",
+      "texto_en": "I'm counting on you, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "Okay...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Raiha",
+      "texto_en": "I-Ichika-san, you're amazing.\\nYou've even got me all nervous...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Ichika",
+      "texto_en": "Teehee, I'm an actress, you know.\\nBut that wasn't an act.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Ichika",
+      "texto_en": "Raiha-chan, what about you?\\nDo you want to hear more good things\\nabout Futaro-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Raiha",
+      "texto_en": "Yes, please!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "Isn't that enough?\\nIt's embarrassing to say more than that...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Raiha",
+      "texto_en": "But it's so entertaining.\\nThe big bro that Ichika-san is talking about\\nand the one I know seem like different people.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Raiha",
+      "texto_en": "So please, Ichika-san, tell us more.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Ichika",
+      "texto_en": "Um, let's see%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Futaro",
+      "texto_en": "Oh, spare me...!",
+      "texto_ptbr": ""
+    }
+  ]
+}

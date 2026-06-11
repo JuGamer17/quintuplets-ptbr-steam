@@ -1,0 +1,612 @@
+{
+  "arquivo": "ca01_04",
+  "total": 101,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Raiha",
+      "texto_en": "Ah! I've seen this gate in a book before!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "This is Shureimon, isn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Ichika",
+      "texto_en": "Yes, that's right! As I thought,\\nthis is where we should start.\\nIt really feels like we've come to Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Nino",
+      "texto_en": "So, this is the entrance to Shuri Castle?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "That's right.\\nIt's like the 'otemon' of Shuri Castle,\\nso you could say that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Raiha",
+      "texto_en": "The 'otemon'?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "That's like the main gate of a Japanese castle.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "As you would know, Miku.\\nDo you know the meaning of 'Shurei'?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Miku",
+      "texto_en": "Mm...\\nI don't know that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "Since it's a 'protective' gate,\\nmaybe it means a gate where you can not pass!\\nOr, something like that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "No, 'Shurei' means to 'value courtesy and etiquette.'\\nIn other words, this Shureimon Gate represents the\\nimportance that the Ryukyu Kingdom placed on etiquette%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Yotsuba",
+      "texto_en": "H-huhhh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Raiha",
+      "texto_en": "When I listen to your explanation, big bro,\\nit's like I'm attending a lecture.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Ooh...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Miku",
+      "texto_en": "Futaro, you still give the feeling of being a tutor.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "Since we're on a trip,\\nlet's avoid difficult topics, okay, Fu-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "No, no, gaining this kind of knowledge\\nis also part of the joy of traveling!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Ichika",
+      "texto_en": "But that's exactly it, isn't it?\\nI like hearing Futaro-kun's stories.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "!...\\nIs that so...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "Teehee!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Ichika",
+      "texto_en": "Hey, Itsuki-chan, why are you laughing?\\nDid I say something weird?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "Not really?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Miku",
+      "texto_en": "You just said something embarrassing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Ichika",
+      "texto_en": "Ehhh?\\nDid I? Ahaha...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "H-hey, let's move on.\\nThere are many other sights to see at Shuri Castle!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Both",
+      "texto_en": "Okaaay!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Raiha",
+      "texto_en": "What is this?!\\nThere're gates no matter how far we go!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah! Is this a trap?!\\nMaybe we're just going around in circles\\nin the same place?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Nino",
+      "texto_en": "Look carefully, the design is different.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Miku",
+      "texto_en": "That's just how castles are designed.\\nThey're made to prevent enemies from easily entering.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Ichika",
+      "texto_en": "...Hey, Futaro-kun?\\nWhat's wrong? You're a little behind.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "A-ah!\\nI'm fine, I'm following you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "Are you now?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Ichika",
+      "texto_en": "What's going on?\\nIt seems like you've been following me from behind for a while.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Huh?!\\nNo, I didn't intend to do that...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Ichika",
+      "texto_en": "Teehee, shall I guess what you're thinking, Futaro-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Wha...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Ichika",
+      "texto_en": "You don't have to act weird.\\nYou want to walk beside me, don't you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Oo...\\nHow do you know...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Ichika",
+      "texto_en": "And, that is...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Ichika",
+      "texto_en": "Because I'm your girlfriend.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "(...Damn, I can't stand up to her.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Ichika",
+      "texto_en": "Just kidding! I also want to be beside you.\\nIf you didn't come, Futaro-kun,\\nI would have gone to you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "I-I see...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Raiha",
+      "texto_en": "Did you see that, Yotsuba-san?\\nIt looked like a scene from a drama just now!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh my, this does put a smile on my face!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "...I can hear you guys.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Yotsuba",
+      "texto_en": "Oops, we apologize for that!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Raiha",
+      "texto_en": "You're not doing bad, big bro.\\nStanding next to Ichika-san will get\\nyour boyfriend points up.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "What the hell are those? Boyfriend points?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Ichika",
+      "texto_en": "I'll agree with them.\\nYour boyfriend points have gone way up.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Y-you too, Ichika!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Nino",
+      "texto_en": "Yeah, yeah, keep the volume down guys.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Miku",
+      "texto_en": "Futaro, think about the time and place.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Itsuki",
+      "texto_en": "For real.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "Why am I being blamed?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Ichika",
+      "texto_en": "Wow...\\nIt's beautiful...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "Ahh, how impressive.\\nThis is the main hall of Shuri Castle.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Nino",
+      "texto_en": "The image I had in mind when I heard 'castle'\\nis quite different from this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, you can feel the difference in culture.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "By the way, there are various types of Japanese castles.\\nThe castles with the so-called tenshu\\nthat appear in historical dramas%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Ichika",
+      "texto_en": "Aaah, you got scolded.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "Gghn...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san, Uesugi-san!\\nLet's take a commemorative photo here!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "Sure, I'll be the photographer%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Yotsuba",
+      "texto_en": "No, no, let's take a two-shot with you and Ichika\\nsince we have the chance.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Ichika",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "With Ichika?\\nNo, but...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Miku",
+      "texto_en": "It's okay, right?\\nIt will make for a lovely picture.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "W-well...\\nIf you guys say so...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Ichika",
+      "texto_en": "I'm happy about it, but I want to\\ntake a picture with everyone. After all, this trip\\nis about making memories with everybody.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Futaro",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Ichika",
+      "texto_en": "Ah, but of course, I want to take a picture with\\nFutaro-kun too.\\nThanks in advance.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Yotsuba",
+      "texto_en": "Okay, got it!\\nLeave it to me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Futaro",
+      "texto_en": "(Since...coming to Okinawa, no,\\n ever since planning this trip, I've only been thinking\\n about Ichika.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Futaro",
+      "texto_en": "(But this trip is about making memories with everyone,\\n including me and Raiha,\\n and creating memories for the quintuplets.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Futaro",
+      "texto_en": "(And yet, I%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Futaro",
+      "texto_en": "WOAAAAH...!!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Ichika",
+      "texto_en": "WAH?!\\nYou suddenly started writhing, are you okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Futaro",
+      "texto_en": "It's nothing...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Ichika",
+      "texto_en": "It doesn't seem like that, though.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 84,
+      "personagem": "Futaro",
+      "texto_en": "It's really nothing.\\nI just suddenly felt like wriggling.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 85,
+      "personagem": "Ichika",
+      "texto_en": "...Um, are you really okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 86,
+      "personagem": "Futaro",
+      "texto_en": "I'm reflecting on something.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 87,
+      "personagem": "Ichika",
+      "texto_en": "Why are you doing that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 88,
+      "personagem": "Futaro",
+      "texto_en": "That's just how life is, right?\\nFailure only has meaning if you learn from it\\nand move forward to the next thing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 89,
+      "personagem": "Ichika",
+      "texto_en": "...Um, isn't the conversation getting off track?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 90,
+      "personagem": "Futaro",
+      "texto_en": "Sorry...\\nAnyway, I'll use my introspection,\\nand make this trip even better!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 91,
+      "personagem": "Ichika",
+      "texto_en": "Okay, I don't really understand,\\nbut I appreciate your enthusiasm.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 92,
+      "personagem": "Futaro",
+      "texto_en": "I think it's as you say.\\nLet's make lots of memories together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 93,
+      "personagem": "Ichika",
+      "texto_en": "Yeah.\\nIf we take photos, we can look back at our trip.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 94,
+      "personagem": "Ichika",
+      "texto_en": "...Hey, don't get me wrong.\\nI'm not trying to say that my memories of you don't matter or \\nanything like that at all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 95,
+      "personagem": "Futaro",
+      "texto_en": "I know that.\\nI...wouldn't dare compare you and Raiha, either.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 96,
+      "personagem": "Ichika",
+      "texto_en": "I see.\\nTeehee, thank you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 97,
+      "personagem": "Itsuki",
+      "texto_en": "If it's going to be all of us,\\nthen we'll have to entrust someone\\nwith the camera, won't we?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 98,
+      "personagem": "Yotsuba",
+      "texto_en": "Well then, I'll go ask someone!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 99,
+      "personagem": "Itsuki",
+      "texto_en": "Well, while Yotsuba is trying to find someone to take a \\npicture of us, shall we take a two-shot\\nof Ichika and Uesugi-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 100,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, thanks, Itsuki-chan.",
+      "texto_ptbr": ""
+    }
+  ]
+}

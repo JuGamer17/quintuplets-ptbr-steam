@@ -1,0 +1,240 @@
+{
+  "arquivo": "ca02_26",
+  "total": 39,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(Afterwards, we arrived at American Village,\\n reunited with everyone, and enjoyed a luxurious\\n American-style meat dish for dinner.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(Nino and I were somehow able\\n to understand each other's feelings, yet...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(There are still some parts\\n that I'm not satisfied with.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "(As Nino put it, during this trip,\\n maybe I was the one who was\\n always being approached by her.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "(Originally, I planned to show Nino the kind of man I am%p-2;――%p; \\n to be the one who tries to approach her.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "(But in the end, we haven't even kissed,\\n so it can't end like this.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san, sorry for keeping you waiting.\\nI went and called everyone.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, thanks, Yotsuba.\\nI'm sorry for making you do that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Ichika",
+      "texto_en": "It's a secret you are sharing with Nino,\\nso it must be the result of your discussion, huh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Miku",
+      "texto_en": "Judging from the atmosphere at dinner,\\nit looks like the problem had been solved.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, thanks to you guys.\\nI'm grateful that you gave me some time with her.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Itsuki",
+      "texto_en": "Well, that's no issue.\\nWe also had some thoughts on our side.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "Anyway, it seems like Nino and you have become\\neven more lovey-dovey. As expected, Uesugi-san,\\nwhen you decide to do something, you really do it!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "No, that's not it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "It's thanks to Nino that the problem was solved.\\nShe made the time for us to talk, right?\\nI'm not satisfied with that as a man.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Ichika",
+      "texto_en": "Is it like, a man's pride, or something?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Well, yeah.\\nYou can think of it that way.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "You like to show off, don't you, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Quiet...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "So, anyway, I have a request for you guys.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Yotsuba",
+      "texto_en": "What is it?\\nIf I can do it, of course I'll help!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "We have plans to tour Ocean Expo Park tomorrow,\\nbut I want to spend it just with Nino.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "I know it's selfish of me.\\nBut this is not just for Nino,\\nit's also for our graduation trip with you guys.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Even so, please. That's what I want.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Yotsuba",
+      "texto_en": "Come on, you don't have to lower your head like that!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Yotsuba",
+      "texto_en": "I'm okay with it.\\nPlease make a lot of memories with Nino.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Miku",
+      "texto_en": "I'm okay too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "Over the past three days,\\nwe've all made enough memories together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "We'll have fun ourselves, including Raiha-chan.\\nPlease don't worry about us, and spend some time with Nino.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "You guys...\\nI really appreciate it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Ichika",
+      "texto_en": "Don't worry about it.\\nIt's for the sake of our cute little sister too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Ichika",
+      "texto_en": "Also, from our perspective, it's not a bad thing\\nto be able to watch you guys\\nendlessly indulging in each other's love, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Miku",
+      "texto_en": "Yeah, we'll get statisfied just watching you two.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Yotsuba",
+      "texto_en": "Please enjoy your lovey-dovey time together\\nto the fullest, as long as we can't see it. Teehee.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Nah, c'mon, we haven't really done anything\\nthat significant, have we?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "Now, I wonder...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "(Well, now that we have their permission,\\n we need to quickly come up with a plan for tomorrow.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "(For the sake of the ultimate moment with Nino!)",
+      "texto_ptbr": ""
+    }
+  ]
+}

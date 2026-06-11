@@ -1,0 +1,774 @@
+{
+  "arquivo": "ca03_17",
+  "total": 128,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Miku",
+      "texto_en": "So beautiful...\\nIt's like we're actually inside the sea...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Yotsuba",
+      "texto_en": "It really is.\\nWith an aquarium this big,\\nthe fish can swim freely.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Raiha",
+      "texto_en": "Ichika-san, look! There's a manta ray!\\nIt's swimming and dancing\\nlike it's fluttering!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Ichika",
+      "texto_en": "Really, so that's how manta rays swim.\\nHow interesting.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Raiha",
+      "texto_en": "Wow! A whale shark!\\nIt's coming this way!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Ichika",
+      "texto_en": "Woaaah, what a sight to behold!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "I thought it would be scary because it's so big,\\nbut looking at it closely,\\nit's kind of cute, isn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "I...don't really get the cute part,\\nbut it's surprisingly charming.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "It's amazing to see a whale shark\\nswim so effortlessly...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "I didn't expect the aquarium to be this big.\\nIt's beyond imagination.\\nAnd there are so many living creatures here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "It's like they cut out a piece of the sea\\nand put it on display.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "It's like taking a walk under the ocean.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "That's a good way to put it, Nino.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "Huh? What is?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "'Cut out a piece of the sea.'\\nThe concept of Churaumi Aquarium is to\\ndisplay the Okinawan sea as it is.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "This tank is built to replicate the territorial waters\\nsurrounding the island, even the Kuroshio current!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "W-wow.\\nReally?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "However, the technology\\nthat makes this kind of display possible\\nis truly impressive.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "I've heard that the acrylic glass for the tanks\\nis 60 centimeters thick.\\nIt can support 7,500 tons of seawater.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "...Wooow.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "By the way, there's a sample of the acrylic glass\\ndisplayed over there! You guys should go take a look, you'll be amazed by the thickness!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "Um, Fu-kun?\\nYeah, that's amazing, but we don't care about that right now.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Ooh...\\nTh-that so.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Itsuki",
+      "texto_en": "You should try to read the room a little better.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Miku",
+      "texto_en": "(Teehee...\\n But it's so Futaro.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "At the very least,\\nthat kind of talk is a no-go on a date.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Miku",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "A d-date, you say...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun, you should learn a bit more\\nabout the heart of a maiden.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Ugh...\\nWell, maybe you're right about that...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Miku",
+      "texto_en": "(A date...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Miku",
+      "texto_en": "...Ah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Miku",
+      "texto_en": "(Could it be, that's why...\\n Futaro wanted to come to the aquarium?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Yotsuba",
+      "texto_en": "Hey hey, Miku.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Miku",
+      "texto_en": "WHA?!\\nWhat, Yotsuba?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Yotsuba",
+      "texto_en": "Why don't you talk to Uesugi-san more?\\nWhile we're looking at the tanks!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Miku",
+      "texto_en": "O-okay...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Raiha",
+      "texto_en": "Ah! Hey, big bro, you can also see\\nthis aquarium from above.\\nLook, there's a guide here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "Oh, a water deck.\\nThis is also quite an interesting exhibit.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Ichika",
+      "texto_en": "There seem to be many other attractions left,\\nso shall we have some free time?\\nLet's meet up back here later.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Nino",
+      "texto_en": "Yeah.\\nThere's no need for everyone\\nto be sticking together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Raiha",
+      "texto_en": "I'm going to the water deck!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "Then, I'll go with you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Yotsuba",
+      "texto_en": "Me too-!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Yotsuba",
+      "texto_en": "Miku, do your best!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Miku",
+      "texto_en": "(I...actually, wanna be with Futaro.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Miku",
+      "texto_en": "(But%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "Miku.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Miku",
+      "texto_en": "Hya?!\\nF-Futaro...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "Why don't we stay here and look a little longer?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Miku",
+      "texto_en": "Huh?!\\nUm, um...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Ichika",
+      "texto_en": "Oh? Finally making a move, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Ichika",
+      "texto_en": "Hey, Nino, how about we go look at the tropical fish?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Nino",
+      "texto_en": "Sure, let's go.\\nSee you later, then, Fu-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Miku",
+      "texto_en": "(Everyone's gone!\\n It's just me and Futaro!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Miku",
+      "texto_en": "(W-w-w-what should I do?\\n Did everyone leave on purpose...?\\n Wh-what am I gonna do!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Miku",
+      "texto_en": "Wha...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Miku",
+      "texto_en": "(N-no, Futaro's getting closer!\\n Why, why is he coming over here?!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "...Miku?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Miku",
+      "texto_en": "Wha%p-2;――%p;?! What is it?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "Well, um...\\nif you want to see the other aquariums,\\nshould we move on?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Miku",
+      "texto_en": "N-no, it's okay here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "But you haven't really been looking at the tank,\\nhave you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Miku",
+      "texto_en": "Th-that's because...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "If you don't like being with me..",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Miku",
+      "texto_en": "I like it!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Miku",
+      "texto_en": "Ah! Um... Sorry.\\nI guess it's not okay to shout loudly at the aquarium.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah, that's right.\\nLet's watch quietly.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Miku",
+      "texto_en": "(That's right, I like being with him.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Miku",
+      "texto_en": "(Being with Futaro like this makes me feel\\n so happy.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Miku",
+      "texto_en": "(When I'm next to him, I feel so calm.\\n It's very relaxing.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Miku",
+      "texto_en": "(But it's strange...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Miku",
+      "texto_en": "(On one side,\\n I feel worried that he'll become a wolf,\\n but I also feel relaxed when I'm with him.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Miku",
+      "texto_en": "(Both of these opposing feelings exist in my heart.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Miku",
+      "texto_en": "(I don't know what to do.\\n I don't know, but...\\n I want to be by Futaro's side.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Miku",
+      "texto_en": "(Futaro also thinks it's okay\\n for me to be by his side.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Miku",
+      "texto_en": "(Even then...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 84,
+      "personagem": "Miku",
+      "texto_en": "(Love is really, so difficult...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 85,
+      "personagem": "Futaro",
+      "texto_en": "Miku.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 86,
+      "personagem": "Miku",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 87,
+      "personagem": "Futaro",
+      "texto_en": "Hey, about what happened today.\\nI asked everyone to change our destination,\\nremember?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 88,
+      "personagem": "Futaro",
+      "texto_en": "That's because I wanted to come here with you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 89,
+      "personagem": "Miku",
+      "texto_en": "!...\\nThat means...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 90,
+      "personagem": "Futaro",
+      "texto_en": "...The aquarium is an important place\\nfor you and I, Miku.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 91,
+      "personagem": "Miku",
+      "texto_en": "(Just as I thought. That's why Futaro\\n wanted to be here with me...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 92,
+      "personagem": "Miku",
+      "texto_en": "(It's a place where we shared fond memories)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 93,
+      "personagem": "Miku",
+      "texto_en": "...The place where I confessed to you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 94,
+      "personagem": "Futaro",
+      "texto_en": "Yeah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 95,
+      "personagem": "Futaro",
+      "texto_en": "It's not like going back to the old ways or anything, but...\\nI thought I could talk to you here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 96,
+      "personagem": "Miku",
+      "texto_en": "...Talk?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 97,
+      "personagem": "Futaro",
+      "texto_en": "During this trip, you've been avoiding me, haven't you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 98,
+      "personagem": "Miku",
+      "texto_en": "Ah...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 99,
+      "personagem": "Futaro",
+      "texto_en": "I don't understand why you're doing that, Miku.\\nI'm sorry.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 100,
+      "personagem": "Miku",
+      "texto_en": "Well...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 101,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 102,
+      "personagem": "Miku",
+      "texto_en": "(Even though Futaro is not at fault!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 103,
+      "personagem": "Miku",
+      "texto_en": "(...Wait? Am I wrong?\\n Is it wrong to be unclear whether\\n Futaro's a wolf or not?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 104,
+      "personagem": "Miku",
+      "texto_en": "(But, that makes it sound like I'm hoping that he's a wolf,\\nwhen I dont know for sure yet.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 105,
+      "personagem": "Miku",
+      "texto_en": "(I might be expecting too much, though.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 106,
+      "personagem": "Miku",
+      "texto_en": "(Ahhh, I don't understand anymore.\\n Love is really difficult...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 107,
+      "personagem": "Miku",
+      "texto_en": "(That's not it.\\n Is it my heart that's difficult...?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 108,
+      "personagem": "Futaro",
+      "texto_en": "So, I thought about it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 109,
+      "personagem": "Futaro",
+      "texto_en": "A lot has happened from when you confessed to me\\nat the aquarium, Miku, and I confessed my love for you at the school festival.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 110,
+      "personagem": "Miku",
+      "texto_en": "...Yeah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 111,
+      "personagem": "Futaro",
+      "texto_en": "During that time, maybe I made you feel anxious, Miku.\\nIf that's the case, I want you to tell me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 112,
+      "personagem": "Miku",
+      "texto_en": "...What?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 113,
+      "personagem": "Futaro",
+      "texto_en": "Miku.\\nMy feelings haven't changed\\nsince I confessed to you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 114,
+      "personagem": "Miku",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 115,
+      "personagem": "Miku",
+      "texto_en": "...Mine haven't changed either.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 116,
+      "personagem": "Miku",
+      "texto_en": "My feelings for you, Futaro.\\nThey haven't changed all this time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 117,
+      "personagem": "Futaro",
+      "texto_en": "Is that so. Thanks.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 118,
+      "personagem": "Miku",
+      "texto_en": "No.\\nIt's me who should apologize for making you worry.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 119,
+      "personagem": "Miku",
+      "texto_en": "(...That's right.\\n At that time, Futaro told me\\n that I was a special person to him.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 120,
+      "personagem": "Miku",
+      "texto_en": "(If that's the case...\\n He'll definitely tell me properly\\n before he becomes a wolf.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 121,
+      "personagem": "Miku",
+      "texto_en": "(He'll definitely wait for me until I feel ready to accept him.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 122,
+      "personagem": "Miku",
+      "texto_en": "(It's strange of me to be afraid of boys being a wolf.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 123,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 124,
+      "personagem": "Miku",
+      "texto_en": "(It's just so nice and relaxing being with him.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 125,
+      "personagem": "Miku",
+      "texto_en": "(Even though being together with my sisters\\n is important, being next to Futaro\\n is just as important to me.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 126,
+      "personagem": "Miku",
+      "texto_en": "(Because they've all let me stay here with him)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 127,
+      "personagem": "Miku",
+      "texto_en": "(And, Futaro wants me next to him...)",
+      "texto_ptbr": ""
+    }
+  ]
+}

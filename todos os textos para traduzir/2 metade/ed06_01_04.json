@@ -1,0 +1,132 @@
+{
+  "arquivo": "ed06_01_04",
+  "total": 21,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(This is the place she specified.\\n Somewhere around here%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(...Found her!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "???",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Ichika, I've come.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "???",
+      "texto_en": "Ummm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Yotsuba...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Nino.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "???",
+      "texto_en": "Ummm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Yotsuba...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "...Miku.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "???",
+      "texto_en": "Ummm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Yotsuba...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "I kept you waiting, Itsuki.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "???",
+      "texto_en": "Ummm...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Yotsuba...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Yotsuba",
+      "texto_en": "Yes.\\nI'm sorry, it's me...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "I see...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Yotsuba",
+      "texto_en": "U-um!\\nPlease don't be so down, Uesugi-san!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Yotsuba",
+      "texto_en": "Even though it didn't work out this time,\\nI believe there's still more chances.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "So, please don't give up.\\nI'll support you too, so do your best next time!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    }
+  ]
+}

@@ -1,0 +1,672 @@
+{
+  "arquivo": "ca02_12",
+  "total": 111,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "Ohh!\\nThis beach is just as beautiful\\nas the one at Kouri Island!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Raiha",
+      "texto_en": "And the weather is great today too!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, it's probably because the good weather follows \\nRaiha-chan.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Heheh, of course!\\nBe grateful for Raiha's qualities, you guys!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Yotsuba",
+      "texto_en": "Haha! Thank you very much!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Ichika",
+      "texto_en": "Hey, Futaro-kun?\\nI know you're impressed by the sea and all, but...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "Did you notice what your sweetheart is wearing right now \\njust for you? Right, Nino?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Ah...\\nUm, well...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "(I got too self-centered and missed the timing...!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Miku",
+      "texto_en": "You put in so much effort into choosing your swimsuit,\\nNino, so you should show it off more.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "I'm not the only one who got a new swimsuit.\\nYou guys bought new ones too, didn't you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "Come on, Futaro-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Ah...\\nI think it looks good on you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Nino",
+      "texto_en": "Really?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "Really!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "I don't know much about fashion, so I can't say what's good or not...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "B-but I think it's cute.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Nino",
+      "texto_en": "...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "Thanks, Futaro!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Okay...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "You two are so adorable.\\nIt's like you guys just started dating and\\nI can't help but grin at the sight.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Stop grinning. \\nCome on, we're not a show for you to watch.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "Why not?\\nI feel like I'm receiving a bit of your happiness\\nby just watching. Right guys?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "True! \\nIt warms our hearts watching you too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Miku",
+      "texto_en": "But, please don't get too lovey-dovey.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "And that's why I didn't want to say it\\nin front of you guys! It'd end up like this!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "So when were you planning to tell me?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "W-well...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Ichika",
+      "texto_en": "When the two of you were alone?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Miku",
+      "texto_en": "So you were planning on being alone together.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Yotsuba",
+      "texto_en": "Is this the beginning of two lover's who are trying to escape?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Raiha",
+      "texto_en": "Are you going to elope?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Why should we be doing that?\\nWhat are we running away from?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Nino",
+      "texto_en": "Guys stop it now.\\nDon't bother Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "Um, wasn't it you, Nino,\\nwho brought up this topic?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Whew...\\nI'm going to take a break after that swim.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Raiha",
+      "texto_en": "I'm gonna swim a little more with Yotsuba-san.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "I'll join you guys for a bit too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Yotsuba",
+      "texto_en": "Alright, let's race to the ocean!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "Hey, don't get too excited.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Raiha",
+      "texto_en": "Okay!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "(Nino and the others\\n should have gotten out of the water.\\n Where did they go?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Nino",
+      "texto_en": "Ah, Futaro! Good,\\nI was looking for you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "What is it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Miku",
+      "texto_en": "I rented a big float that's perfect for making ourselves \\ncomfortable.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Ichika",
+      "texto_en": "I thought we could relax together on it.\\nWhat do you think?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "They have something that big?\\nAh, sure, why not?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Nino",
+      "texto_en": "Then let's share one, just the two of us!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Nino",
+      "texto_en": "It's a two-person float. Isn't it perfect?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "Well, it's fine with me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Ichika",
+      "texto_en": "Young couples are so lovely.\\nBut be careful not to get too carried away.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Miku",
+      "texto_en": "We'll be floating next to you and keeping an eye on you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "Keeping an eye on us?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Ichika",
+      "texto_en": "We're just kidding.\\nRight, Miku?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Nino",
+      "texto_en": "Mikuuu? You're kidding, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Miku",
+      "texto_en": "Yes, we're kidding.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "(Really...?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Nino",
+      "texto_en": "Wooow...\\nThis is more relaxing than I thought.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "Yeah... \\nThe sway of the waves feels so good.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "(It feels nice,\\n but this situation is far from relaxing...!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Nino",
+      "texto_en": "Futaro, don't fall asleep, okay?\\nIf you toss and turn here, you'll fall into the sea.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "O-okay, I'll be careful.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Nino",
+      "texto_en": "You looked very sleepy at the hotel, you know?\\nDidn't you get enough sleep last night?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "Huh?! N-no, that's not it, ok?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Nino",
+      "texto_en": "Well, as long as it wasn't because of me...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "(Actually, it was because of you!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Nino",
+      "texto_en": "But even if it's not because of sleep deprivation,\\nI'm starting to feel sleepy like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "Th-this must be the so-called 1/f fluctuations!\\nYou know, the power spectral density...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Nino",
+      "texto_en": "Enough with that already.\\nThe time for the tutor and student role is long over, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Futaro",
+      "texto_en": "Sorry...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Futaro",
+      "texto_en": "(Calm down, Futaro.\\n Even though it was Nino who suggested it,\\n this...is a chance.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Futaro",
+      "texto_en": "(Try to lead the conversation skillfully...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Nino",
+      "texto_en": "*yawn*",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Nino",
+      "texto_en": "I wonder if it's because of the effects\\nof that fluctuation thing.\\nI'm really starting to feel sleepy.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Nino",
+      "texto_en": "Hey, Futaro.\\nCan you lend me your arm as a pillow?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Futaro",
+      "texto_en": "Ah, that's a bit tough...people are watching.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Nino",
+      "texto_en": "Don't worry, no one's watching since we're on the ocean.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Futaro",
+      "texto_en": "Well, that may be true, but...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Nino",
+      "texto_en": "Come on, just for a little while.\\nIsn't that okay, Futaro?\\nPlease?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Futaro",
+      "texto_en": "M-my arms are too boney! Don't do it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Nino",
+      "texto_en": "Pft! What is THAT?\\nThat's too lame to be an excuse.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 84,
+      "personagem": "Futaro",
+      "texto_en": "...Quiet.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 85,
+      "personagem": "Nino",
+      "texto_en": "Besides, even if your arm really is boney,\\nI don't mind? Don't worry about it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 86,
+      "personagem": "Nino",
+      "texto_en": "Come on, Futaro.\\nCan I use your arm as a pillow?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 87,
+      "personagem": "Futaro",
+      "texto_en": "All right, come here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 88,
+      "personagem": "Nino",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 89,
+      "personagem": "Futaro",
+      "texto_en": "What's wrong?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 90,
+      "personagem": "Nino",
+      "texto_en": "N-nothing, I didn't think\\nyou'd answer immediately...\\nI was just a little surprised.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 91,
+      "personagem": "Nino",
+      "texto_en": "Really, you'll do that for me?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 92,
+      "personagem": "Futaro",
+      "texto_en": "Yeah. A man doesn't go back on his word.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 93,
+      "personagem": "Nino",
+      "texto_en": "Thank you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 94,
+      "personagem": "Nino",
+      "texto_en": "W-well then...don't mind me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 95,
+      "personagem": "Futaro",
+      "texto_en": "Okay...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 96,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 97,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 98,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 99,
+      "personagem": "Futaro",
+      "texto_en": "...Nino?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 100,
+      "personagem": "Nino",
+      "texto_en": "No it's nothing, forget it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 101,
+      "personagem": "Futaro",
+      "texto_en": "Huh? Why?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 102,
+      "personagem": "Nino",
+      "texto_en": "Well...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 103,
+      "personagem": "Nino",
+      "texto_en": "L-look!\\nI don't want to be responsible\\nif your arm gets numb, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 104,
+      "personagem": "Nino",
+      "texto_en": "U-um... W-well...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 105,
+      "personagem": "Nino",
+      "texto_en": "A-anyway, I'm fine now.\\nSorry for bringing it up.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 106,
+      "personagem": "Futaro",
+      "texto_en": "No, it's okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 107,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 108,
+      "personagem": "Futaro",
+      "texto_en": "So...what should we do?\\nShould we go back now?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 109,
+      "personagem": "Nino",
+      "texto_en": "No...\\nI want to stay like this a little longer.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 110,
+      "personagem": "Futaro",
+      "texto_en": "Got it.",
+      "texto_ptbr": ""
+    }
+  ]
+}

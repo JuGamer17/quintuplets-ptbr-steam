@@ -1,0 +1,570 @@
+{
+  "arquivo": "ca04_mv2_02",
+  "total": 94,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Hey, there you guys are.\\nHey...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "What do you want?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(Wh-what's up with Itsuki?\\n I didn't do anything, did I?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Hey, Nino.\\nWhat's up with Itsuki?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Nino",
+      "texto_en": "She's just in a bit of a tizzy.\\nDon't worry about it, it happens all the time.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "(She told me not to worry but...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "(I don't know why Itsuki's angry,\\n but I'll leave her alone for now.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Nino, is there anything you want to do later?\\nSightseeing, shopping, anything's fine.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "Oh? What's the sudden change for?\\nAre you asking me out on a date or something?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "Like that'll ever happen.\\nYotsuba wants to hear your thoughts,\\nso I came for her sake.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "Yotsuba?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "*sigh*\\nThat girl really doesn't change.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "Come on, Yotsuba.\\nLearn to put yourself first.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "What's up?\\nIf you want to do something, just say it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Nino",
+      "texto_en": "I don't have anything in particular.\\nYou and Yotsuba can decide, Fu-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "Hey, Itsuki.\\nCan I ask you something?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "...What's up?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Do you want to do something later?\\nH-hey! Like, go on a sweets tour or something!\\nYou'd love that!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "...Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "Why are you asking me that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "Yotsuba and Fu-kun want to hear our thoughts.\\nCome on, answer.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "...Whatever you two want to do is fine.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "Is what she says.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "O-okay.\\nThanks, Itsuki.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "So, what's up, Fu-kun?\\nDo you need something from us?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "Do you two have anything you want to do later?\\nYotsuba wants to adjust her plans to what\\neveryone wants to do.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "Alright then, how about a gourmet tour\\nof tasting different local specialties?\\nWhat do you think, Itsuki?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "Uuuuuuurk...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Nino",
+      "texto_en": "Oh, I'm kidding, just kidding.\\nLet's skip the gourmet tour.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "Anything else is fine.\\nYou and Yotsuba can decide, Fu-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Nino",
+      "texto_en": "Itsuki, you're okay with that too, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "...Yes.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "(I've achieved my goal for now, but...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Nino",
+      "texto_en": "Come on, Itsuki.\\nYou should cheer up.\\nFu-kun is worried about you too, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "Nino, you probably just don't understand\\nhow I feel.\\nThat's why it's easy for you to say that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Hey, hey...\\nWhat's really going on here?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "Snacking.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Nino",
+      "texto_en": "Itsuki bought tacos\\nfrom a food truck on the way here%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "WAAA! NINO!\\nDon't say anything!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Nino",
+      "texto_en": "Apparently, she was told by the food truck owner...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Nino",
+      "texto_en": "'Aren't you the girl who bought some tacos here earlier?\\nYou're still growing, so you need to eat a lot!'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "I-I'm not the one who bought them!\\nI think someone else got them first,\\nand confused them with me!!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Nino",
+      "texto_en": "By the way, it wasn't me, okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "Well, judging from the length of her hair,\\nit's probably Miku%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "But it's too early to jump to conclusions.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Nino",
+      "texto_en": "Yotsuba and Ichika wouldn't be able to do it\\nwithout disguises.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "Well, maybe you were still hungry Itsuki,\\nso you unconsciously went again%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Itsuki",
+      "texto_en": "I DID NOT!\\nYou are really just the RUDEST!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "*sigh*\\nThis makes it seem like I'm a big eater or something.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "What was that just now?\\nWhat are you trying to say?\\nWhy don't you just say it so all of us can hear?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "Don't pressure me with that smile!!!\\nIt's SUPER scary!!!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Nino",
+      "texto_en": "Okay, okay, both of you, be quiet.\\nAnd Fu-kun, please don't make things more complicated.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Itsuki",
+      "texto_en": "I am being quiet!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "(...Is she throwing a tantrum?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "I guess I misjudged the situation.\\nMan, quintuplets are such a pain.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "The food truck owner didn't mean anything bad by it.\\nIt was just a misunderstanding, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "Or maybe you were just too\\nself-conscious about it,\\nand that's why you feel the way you do.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Nino",
+      "texto_en": "When you're in your swimsuit you've got\\nto be aware.\\nEspecially%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Itsuki",
+      "texto_en": "WHAAA!!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Itsuki",
+      "texto_en": "No looking allowed! That's forbidden!\\nYou too, Uesugi-kun!!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "What? I'm not looking at anything?\\nAnd why did you suddenly crouch down?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Itsuki",
+      "texto_en": "Well...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Nino",
+      "texto_en": "Don't needlessly resist, and stand up.\\nYou're getting in the way like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Itsuki",
+      "texto_en": "Ooohh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "I guess I misjudged the situation.\\nMan, quintuplets are such a pain.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "I bet the food truck owner was happy, you know?\\nThey probably loved that you\\ncame back to buy more.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Nino",
+      "texto_en": "True, they must've been glad.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Nino",
+      "texto_en": "You're always smiling when you're shopping for food.\\nSo it's hard not to make the other person\\nthink you love the food they make, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Itsuki",
+      "texto_en": "Indeed...\\nIt was so delicious\\nthat I would want to buy it again...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Itsuki",
+      "texto_en": "It was delicious...but...\\nOooohhh... If I went there again,\\nI might be told...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Nino",
+      "texto_en": "Okay, okay.\\nWhen that happens,\\nI'll go and buy it for you instead.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Itsuki",
+      "texto_en": "Really?\\nThanks in advance, Nino!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "(She's already decided on \\n buying another one, huh.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Futaro",
+      "texto_en": "I guess I misjudged the situation.\\nMan, quintuplets are such a pain.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Nino",
+      "texto_en": "I wonder if there's a way\\nto distinguish ourselves with hairstyles or swimsuits?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Futaro",
+      "texto_en": "Well, they have to deal\\nwith dozens of people every day, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Futaro",
+      "texto_en": "If they don't consciously pay attention\\nto the customers' hair length or clothing,\\nit's hard for them to remember.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Itsuki",
+      "texto_en": "That's true...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Futaro",
+      "texto_en": "For now, even if we're all together,\\nno one has made a fuss about it,\\nso maybe they're not that concerned about other people.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Nino",
+      "texto_en": "That's right. After all, everyone around\\nis just here to have fun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Nino",
+      "texto_en": "Well, if we all wear the same thing,\\nit'd be a different story.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 84,
+      "personagem": "Futaro",
+      "texto_en": "Hey, spare us that.\\nIt'll just cause a commotion.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 85,
+      "personagem": "Itsuki",
+      "texto_en": "...You're right.\\nI was probably just worrying too much.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 86,
+      "personagem": "Itsuki",
+      "texto_en": "Yeah, it seems like I was just a little shaken\\nby their comment.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 87,
+      "personagem": "Futaro",
+      "texto_en": "Right, so forget about it already.\\nYou know what they say,\\nwhat happens in Okinawa, stays in Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 88,
+      "personagem": "Itsuki",
+      "texto_en": "It's not like I did anything shameful\\nto begin with.\\nI was just a little curious!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 89,
+      "personagem": "Futaro",
+      "texto_en": "(H-huh?\\n Did I not give enough support there...?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 90,
+      "personagem": "Nino",
+      "texto_en": "Aaah, even though she seemed\\nlike she was cheering up.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 91,
+      "personagem": "Nino",
+      "texto_en": "Anyway, Fu-kun, you go on ahead.\\nIt'll just make things more complicated\\nif you stick around.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 92,
+      "personagem": "Futaro",
+      "texto_en": "O-okay.\\nSorry, I'll leave it to you guys.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 93,
+      "personagem": "Futaro",
+      "texto_en": "(I still have a lot to learn about\\n supporting others in times like these...)",
+      "texto_ptbr": ""
+    }
+  ]
+}

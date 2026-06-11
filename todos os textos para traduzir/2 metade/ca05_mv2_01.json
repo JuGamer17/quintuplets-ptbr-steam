@@ -1,0 +1,468 @@
+{
+  "arquivo": "ca05_mv2_01",
+  "total": 77,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Raiha",
+      "texto_en": "Ah! \\nBig bro, Itsuki-san!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Ichika",
+      "texto_en": "Hi there.\\nDid you two come to check out this shop?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "No, we just saw you two over here.\\nWere you looking at the accessories?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Ichika",
+      "texto_en": "Well, what they have here are not exactly accessories,\\nbut rather charms, amulets and talismans\\nthat have been passed down in Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Oh, Okinawan amulets, huh?\\nI'm not very familiar with them.\\nWhat kind are there?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "Is this one an amulet too?\\nIt's just a really simple strap.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "I mean,\\nit looks like it's just made\\nby tying knots with leather.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Ichika",
+      "texto_en": "When you don't know something,\\nit's best to just ask. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Ichika",
+      "texto_en": "Um, excuuse mee.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Employee",
+      "texto_en": "Yes!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Ichika",
+      "texto_en": "Is this strap also an amulet?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Employee",
+      "texto_en": "That there is a 'sangwa' talisman made of leather.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "What kind of talisman is a 'sangwa'?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Employee",
+      "texto_en": "Simply put, it's a charm that protects \\nagainst evil spirits.\\nIt's often given to children to carry with them.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Employee",
+      "texto_en": "It can also be placed on top of a bento\\nto protect food from being spoiled by majimun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "Majimun...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Employee",
+      "texto_en": "'Majimun' is the Okinawan word for 'evil spirit.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Employee",
+      "texto_en": "It's been passed down for generations, and originally,\\nit was made by tying together susuki grass leaves.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Thank you very much for the information.\\nI've learned a lot.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "To make a talisman from susuki grass leaves that can be \\nfound everywhere is truly like a protection all around us. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Raiha",
+      "texto_en": "Ah! This bag-like thing over here is cute too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "Is this one an amulet then?\\nIt looks like the ones you find in shrines or temples.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Employee",
+      "texto_en": "Oh, that's called a 'maasu' bag, ya know. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Employee",
+      "texto_en": "'Maasu' means 'salt,' and as the name suggests,\\nthat's what it contains.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Ichika",
+      "texto_en": "Oooh~.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Salt is often used for protection against evil spirits.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Employee",
+      "texto_en": "Of course, but it's also used as a good luck charm\\nor for matchmaking by attaching it to a wallet or a bag.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Ichika",
+      "texto_en": "I see. Thank you for telling us so much.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Employee",
+      "texto_en": "You're welcome. If you have any more questions,\\nfeel free to ask.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Raiha",
+      "texto_en": "Thank you very much.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "These baggies are certainly just the right size to attach\\nto a bag. There's just so many colors and patterns\\nto choose from...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Ichika",
+      "texto_en": "Itsuki-chan, do you like it?\\nWhy don't you two buy matching ones?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "Matching ones?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Woah?!\\nWhat's up, all of a sudden?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "Matching, huh? That's really nice, isn't it?\\nW-what should we do? Should we buy them?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "That's a little too cute for me...\\nIt would be weird if I had this on my bag, wouldn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "Th-that's not true!\\nI think it looks good, and if you use it,\\nyou'll get used to it!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "*sigh* Well, I suppose so.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "So, let's match!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Well, if you're gonna say that much.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "There are a lot of options. What about the colors?\\nThey're all so lovely, I can't decide.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "Alrighty!\\nUesu%p-2;――%p; Futaro,\\nplease choose one too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Got it.\\nI want a color that's not too cute for mine, though.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "There are a lot of options,\\nso we could get different colors, eh.\\nOr we could each pick our favorite color.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Itsuki",
+      "texto_en": "Okay!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Raiha",
+      "texto_en": "Nice, big bro!\\nThat reply right now was exactly like a boyfriend.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "(Exactly like a boyfriend...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "It's okay, Raiha-chan.\\nF-Futaro will always...\\nbe a good boyfriend for me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Ichika",
+      "texto_en": "Futaro-kun, you're blushing, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "Pretend you've seen nothing...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Itsuki",
+      "texto_en": "Alright, let's buy matching baggies!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "There are a lot of options. What about the colors?\\nThey're all so lovely, I can't decide.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Itsuki",
+      "texto_en": "Alrighty!\\nUesu%p-2;――%p; Futaro,\\nplease choose one too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "Got it.\\nI want a color that's not too cute for mine, though.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "We don't really need them, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Itsuki",
+      "texto_en": "...What do you mean?\\nDo you not want to get matching ones with me?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "That's not it.\\nIt's just that%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "If it's fate, then we're already connected, right?\\nSo we don't need charms like these.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Itsuki",
+      "texto_en": "I-I see. We don't need to pray for protection\\nfor our relationship, because we're already...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "...Yup.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Ichika",
+      "texto_en": "Did you hear that, Raiha-chan?\\nFutaro-kun's pickup line was incredible.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Raiha",
+      "texto_en": "I heard it, I heard it.\\nIt was so impactful\\nthat I couldn't believe it came from my big bro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Itsuki",
+      "texto_en": "Y-you two!\\nStop giggling so much!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Ichika",
+      "texto_en": "Well, I mean, that line was just a little too much, ya know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Ichika",
+      "texto_en": "Also, even if you have them for reasons\\nother than matchmaking,\\nthat's okay, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "Ah...\\nI-I suppose that's true.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Itsuki",
+      "texto_en": "There are a lot of options. What about the colors?\\nThey're all so lovely, I can't decide.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Itsuki",
+      "texto_en": "Alrighty!\\nUesu%p-2;――%p; Futaro,\\nplease choose one too.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "Got it.\\nI want a color that's not too cute for mine, though.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Itsuki",
+      "texto_en": "Okay, how about these red ones over here?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "Those are a bit flashy, aren't they?\\nThese green ones over here are okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Itsuki",
+      "texto_en": "I see, they give off a calm impression.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Itsuki",
+      "texto_en": "And then, this one...\\nI think it's a color that suits you, F-Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Futaro",
+      "texto_en": "Oh, that's not bad at all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Ichika",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Ichika",
+      "texto_en": "Something still feels off about Itsuki-chan, though.",
+      "texto_ptbr": ""
+    }
+  ]
+}

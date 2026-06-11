@@ -1,0 +1,342 @@
+{
+  "arquivo": "ca06_28",
+  "total": 56,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Today was seriously tiring...\\nEverything's just way too unexpected.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(Even here, I have things I must do.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(*sigh*\\n When it comes down to it,\\n I didn't really achieve anything today.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "(...Honestly, I haven't really obtained any\\n useful hints to see through their disguises\\n during this game.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "(And when all five of them are together,\\n it attracts attention and leads to a commotion.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "(This situation is the worst...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "(There's only one day left now. I need to find a hint\\n to see through their disguises quickly,\\n or it'll be too late.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "We made it pretty far at the aquarium, though.\\nIf only there weren't so many gawkers there...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Bright Girl",
+      "texto_en": "There's no way they're exactly the same.\\nTheir body shape should at least be different, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "...Body shape, huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "(Yotsuba exercises regularly,\\n so I might be able to tell\\n by the way her muscles are toned.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "(Ichika is an actress.\\n She probably pays attention to maintaining her figure,\\n so she might be a bit different from the other four.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "(Ah!\\n Come to think of it, Miku mentioned\\n that you can distinguish them by their moles!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "(Ah, that's no good!\\n I have no idea who has what mole!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "(But, if I can skillfully investigate,\\n it might become a means\\n to see through their disguises, right?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "...Tomorrow is the beach. If they're in swimsuits,\\n it'll be easier to observe their body types and moles,\\n so it might be worth taking that gamble...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "There's no other choice, is there?\\nI can't think of anything else.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "(It's out of my hands.\\n Right now, I have to rely on that method%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "(No, is that really okay?\\n Is that the right way to do it?!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "...No, this won't do!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "(...Come to think of it,\\n I once saw through Miku's disguise\\n at their Grandpa's hot spring inn.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "No, it's really impossible, isn't it?\\nI'm being ridiculous.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "(I'm so desperate\\n that I'm relying on the words of onlookers...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "(But, even if I have no plan,\\n I feel like this is wrong.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Still, there has to be something else...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "(...Come to think of it,\\n I once saw through Miku's disguise\\n at their Grandpa's hot spring inn.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "...Is that really okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "(Even though I just said it,\\n I have a feeling something is off.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "(Indeed, I might be able to distinguish them\\n by their body types...but that's not\\n the type of connection we've made.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "That's right. This method is definitely wrong.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "(...Come to think of it,\\n I once saw through Miku's disguise\\n at their Grandpa's hot spring inn.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "(At that time, I also tried to identify who it was\\n based on the injury on her thigh, but%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "(In the end, it didn't work out well.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "(Why did I know that it was Miku?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "A way to tell them apart...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "Surely you can do it too.\\nIf you have love!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Yotsuba",
+      "texto_en": "Our mother used to say that.\\nIf you have love, you can naturally tell them apart.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "(That's it...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Grandfather",
+      "texto_en": "Love.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Grandfather",
+      "texto_en": "With love, you can tell them apart.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "(Once more, I need to remember their grandfather's words!\\n Uesugi Futaro!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Grandfather",
+      "texto_en": "After a long time...\\nOne comes to know their gestures, voices, and habits.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Grandfather",
+      "texto_en": "That can be called love.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Grandfather",
+      "texto_en": "It cannot be done overnight.\\nFor what reason do you want\\nto tell my granddaughters apart?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Grandfather",
+      "texto_en": "What do you want to do once you can tell them apart?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "What I want to do it...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Grandfather",
+      "texto_en": "Do you have the determination\\nto face my granddaughters?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "What have I been doing?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "(What I need to do\\n isn't just to expose their disguises.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "(I've been manipulated by them so much\\n that my purpose and means have been reversed,\\n without me noticing.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "(And because I was too conscious\\n of figuring them out,\\n I confused myself. I'm really an idiot!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "...Only one day remains. Tomorrow.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "(Yet, there's no need to rush anymore.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "(I've already made up my mind.)",
+      "texto_ptbr": ""
+    }
+  ]
+}

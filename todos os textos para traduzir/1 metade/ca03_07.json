@@ -1,0 +1,180 @@
+{
+  "arquivo": "ca03_07",
+  "total": 29,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Raiha",
+      "texto_en": "Wow...\\nSuch a beautiful hall.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Ichika",
+      "texto_en": "It's quite different\\nfrom what I imagined a museum to look like.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Nino",
+      "texto_en": "The ceilings are so high, and it's so vibrant and nice inside.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Miku",
+      "texto_en": "The shape of the pillars is also interesting.\\nIt looks like they branch out from the top...\\nIs it a tree motif?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "Correct. According to the guidebook,\\nit's based on the idea of sunbeams\\nshining through the Utaki.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Miku",
+      "texto_en": "Utaki?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Utaki refers to a shrine where ceremonies are held.\\nThey can still be found in various places in Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Miku",
+      "texto_en": "!...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Yotsuba",
+      "texto_en": "What kind of ceremony?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "Oh, c'mon...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "You should be studying the exhibit descriptions\\nin detail since you're here at the museum.\\nYou're missing out if you don't.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun, you really know everything, don't you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Not really.\\nI just did some research\\nsince we chose to go to Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "I mean, if you're going on a trip,\\nit's only natural to do some research beforehand, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "I did some research,\\nbut there's only so much I can remember...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "Jeez, what am I gonna do with you?!\\nI'll make sure to teach you ALL about Okinawa!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Ichika",
+      "texto_en": "Hey now, hey now.\\nDid you forget that you're no longer our tutor anymore?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "That's right,\\nthere's no longer a student-teacher relationship.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "Anyway, where should we start looking around from?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Should we save the special exhibition for later?\\nSince we're going to see everything anyways,\\nthe main attraction should be saved for last.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "We don't have to stick together\\nand go around in a group, right?\\nYou can explore whichever exhibit you'd like to see.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Ichika",
+      "texto_en": "Nino, aren't you just saying that so you can run off to the café\\nor the museum shop?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "Come on, Nino.\\nSince we're here already, let's make use of this chance and explore.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "Okay, fine.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "Alright,\\nlet's meet back here in the hall\\nafter we're all done exploring.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Sure, see you later.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "(...This is my chance. I'll talk to each quintuplet\\n and try to find out\\n if there's something that's bothering Miku!)",
+      "texto_ptbr": ""
+    }
+  ]
+}

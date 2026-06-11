@@ -1,0 +1,468 @@
+{
+  "arquivo": "ca01_12",
+  "total": 77,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Raiha",
+      "texto_en": "Sooorry to intruuude!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Ichika",
+      "texto_en": "I'll be in your care from today.\\nNice to meet you again, Futaro-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Raiha",
+      "texto_en": "Speaking of which,\\nweren't there supposed to be only two beds in this room?\\nIs this okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "It's fine,\\nI asked for an extra bed to be brought in. See?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Raiha",
+      "texto_en": "Ah, there's another small bed!\\nSo, it can also be a room for three people.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "Well, since I'm the one who's intruding,\\nI'll use the small bed.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "No, I'll use it.\\nRaiha and Ichika, you use the normal beds.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Ichika",
+      "texto_en": "But%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Raiha",
+      "texto_en": "If it's okay, why don't I use the small bed?\\nI am the smallest one here, after all.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Raiha",
+      "texto_en": "Big bro, don't be shy. You too, Ichika-san.\\nYou can use those beds over there, okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Ichika",
+      "texto_en": "Thank you, Raiha-chan.\\nThen, I'll take you up on your offer.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Raiha",
+      "texto_en": "Alright, I've finished organizing my things.\\nI'm going to visit Yotsuba-san's room.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Raiha",
+      "texto_en": "Don't worry, I'll be back before bedtime. See ya.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "See you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Really...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Ichika",
+      "texto_en": "Hm? What?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "N-no, nothing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Ichika",
+      "texto_en": "(It's not nothing, isn't it?\\n You're so nervous\\n because it's just the two of us now, right?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Ichika",
+      "texto_en": "(Although... I feel the same way!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "(Uwaaah, what should I do?!\\n I suggested this myself, but being alone\\n with Futaro-kun is making my heart race!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Ichika",
+      "texto_en": "(Maybe it's because it's a place I'm not familiar with?\\n It felt like inviting Futaro-kun to my room,\\n but it's completely different.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Ichika",
+      "texto_en": "(Thanks to Raiha-chan's thoughtfulness...\\n this has become a problem.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "(Umm, anyway, let's simulate what \\n living together is like as planned!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "(Now, as the eldest sister, I have peace of mind \\nabout living my life with Futaro-kun. Right...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Ichika",
+      "texto_en": "(We're just going to sleep tonight, right?\\n What should we do before sleeping...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "For starters, should I make the bed?\\nI'm used to living in hotels for long periods of time,\\nso I don't mind.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "No, the hotel staff has taken care of it,\\nso it's already ready for us. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Ichika",
+      "texto_en": "Y-yeah, you're right!\\nAhaha!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Ichika",
+      "texto_en": "(I-I messed up all of a sudden!\\n Futaro-kun might think I'm a weirdo!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Ichika",
+      "texto_en": "Sh-shall I help you change clothes?\\nIt's more comfortable to wear pajamas!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "N-no, I can do that myself!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Ichika",
+      "texto_en": "Ahahaaa, of course.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Ichika",
+      "texto_en": "On the other hand, you wouldn't help me change my clothes\\nor...anything like that, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Obviously...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Ichika",
+      "texto_en": "(Uwawa, what am I saying?!\\n I'm way too nervous!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Ichika",
+      "texto_en": "(Calm down, be more normal!\\n As if living with Futaro-kun is the standard,\\n like it's natural!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Ichika",
+      "texto_en": "(...Like it's natural...!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Ichika",
+      "texto_en": "~~~~~!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "H-hey, Ichika?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Ichika",
+      "texto_en": "O-oh!\\nThen, shall we take a bath together?\\nYou haven't taken a bath yet, right, Futaro-kun?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Ichika",
+      "texto_en": "Now, as a special service,\\nI'll wash your back!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "Th-that's DEFINITELY way too much, right?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Ichika",
+      "texto_en": "Y-you're right!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Ichika",
+      "texto_en": "(No way!\\n I have no composure as the older sister!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Ichika",
+      "texto_en": "(Or, well, I'm excited!\\n I'm too excited because I'm alone with Futaro-kun!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Ichika",
+      "texto_en": "(I said such serious stuff to everyone, and I meant it!\\n But when it comes to this, I can't help being excited!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "Hey, Ichika?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Ichika",
+      "texto_en": "Wh-what is it?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "It's okay...not to be so considerate, you know?\\nThis is my room, but it's also your room.\\nJust relax and make yourself at home.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Ichika",
+      "texto_en": "I-I guess.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Ichika",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Ichika",
+      "texto_en": "(*sigh*\\n Maybe this isn't just\\n a cohabitation simulation anymore.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Ichika",
+      "texto_en": "(But, this in itself...it feels nice.\\n Just being in the same space as Futaro-kun%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Raiha",
+      "texto_en": "I'm baaack.\\nYotsuba-san already seemed so sleepy,\\nso I came right back.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Both",
+      "texto_en": "Welcome back!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Raiha",
+      "texto_en": "Heehee, you both look refreshed, ya know?\\nLike newlyweds.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "New—?!\\nD-don't say weird things!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Ichika",
+      "texto_en": "Ahaha...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Raiha",
+      "texto_en": "Would it have been better if I hadn't come back yet?\\nAm I being a bother?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "Don't be dumb!\\nWe're sightseeing again tomorrow morning!\\nI'm going to bed!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Raiha",
+      "texto_en": "Oh! Big bro, you haven't taken a bath yet,\\nhave you? You sweat a lot today, didn't you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "I'll take one tomorrow morning!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Raiha",
+      "texto_en": "Nooo waaay!\\nPlease make sure to clean yourself properly\\nbefore sleeping!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Ichika",
+      "texto_en": "(Teehee! Futaro-kun is just like a child.\\n He's just so cute...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Ichika",
+      "texto_en": "...Hm?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Ichika",
+      "texto_en": "(To think I find him cute even in situations like this.\\n Futaro-kun, I really%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Ichika",
+      "texto_en": "Love you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Raiha",
+      "texto_en": "Hm? Ichika-san, did you say something?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Ichika",
+      "texto_en": "No, nothing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Ichika",
+      "texto_en": "Anyway, instead of that,\\nwhy don't we take a bath together?\\nLet's wash each other's backs.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Raiha",
+      "texto_en": "Yeah. Let's just leave sulking big bro behind.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Futaro",
+      "texto_en": "I-I'm not sulking!",
+      "texto_ptbr": ""
+    }
+  ]
+}

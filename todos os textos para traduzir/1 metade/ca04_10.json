@@ -1,0 +1,684 @@
+{
+  "arquivo": "ca04_10",
+  "total": 113,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(We played to our hearts' content and returned\\n to the hotel before sunset,\\n finishing an early dinner at the restaurant.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(Everyone was probably tired.\\n After the meal,\\n we disbanded and returned to our rooms to rest.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(Well, we played so much.\\n It would be weird if we weren't tired.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Yotsuba was the only one who had energy until the end.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "???",
+      "texto_en": "Did you call me?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "WOAH?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Oh, it's Yotsuba?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "Whaaa...\\nThat's kind of a rude way to greet me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Oh, sorry. I was surprised when\\nyou called me so suddenly.\\nYou haven't gone back to your room yet?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Yotsuba",
+      "texto_en": "Um, it's not that I haven't returned,\\nbut I was waiting for you, Uesugi-san.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Me? Do you need something?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, you see, at around this time,\\nI've heard the view from the lounge \\nis supposed to be beautiful.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Oh, really?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Yotsuba",
+      "texto_en": "So, would it be okay to go see it together?\\nJust the two of us...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Oh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "(What am I doing? I should be the one to initiate things!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "(I've only been thinking about enjoying myself\\n with her since she talked to me earlier...\\n This hasn't been any different from usual.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Yotsuba",
+      "texto_en": "Umm, Uesugi-san?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah, I'm listening.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "...What do you want to do?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Of course, I'm down for anything!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Yotsuba",
+      "texto_en": "Good.\\nI thought you might say no\\nsince you hesitated when you answered.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Sorry...\\nI...didn't expect you to invite me out, Yotsuba.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahaha, I guess so.\\nIt's weird for me to say stuff like this, isn't it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "No no, it's not weird at all!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Really, I should be the one to be inviting you here.\\nSorry.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Yotsuba",
+      "texto_en": "N-no, not at all!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Yotsuba",
+      "texto_en": "Actually, to tell you the truth, Ichika and Nino\\ntold me the same thing. They said we should\\nspend some time together like a couple.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "(Oh, I see. So this was their idea.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "(...This is all going well, isn't it?\\n I feel like I'm making everyone uncomfortable.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Yotsuba",
+      "texto_en": "Let's go, then.\\nI'm excited to see what kind of view we'll\\nbe able to see.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Yeah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Wow...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Yotsuba",
+      "texto_en": "This is quite different during the day.\\nIt feels like a time for adults.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Hey, is it okay for us to be here?\\nIt's not like they have an age limit for minors, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Yotsuba",
+      "texto_en": "The hotel guide didn't mention anything like that,\\nso I think we're good.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "(But honestly, this atmosphere...\\n even though we're dating,\\n isn't it too high of a hurdle for us?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Waiter",
+      "texto_en": "Nakano-sama.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, yes?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Waiter",
+      "texto_en": "Please come this way.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "(Huh? Why are we being shown to our seats?\\n What's going on?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Yotsuba",
+      "texto_en": "Well then, Uesugi-san.\\nCheers.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Ch-cheers...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "(Huh? Do couples really toast like this?\\n Ahhhh, oh no, my head is a MESS!\\n I don't understand anything anymore!!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san, are you okay?\\nYour eyes have been wandering all over the place.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "I can't keep up with all this information processing.\\nWhy were we even shown to such good seats\\nin the first place?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "(You can see the city's night view from the window\\n in front of us. It's probably one of the best seats\\n in the restaurant, right?)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Yotsuba",
+      "texto_en": "I'm just guessing, but...\\nsince this hotel has a good relationship with our father, \\nthey may have been giving us special treatment.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Yotsuba",
+      "texto_en": "I heard that making a reservation was smooth, too.\\nI have to thank him later.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "I-is that so.\\nHahaha...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "(What the hell, a hotel where your\\n dad is known by the staff?!\\n This is a totally different world!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Yotsuba",
+      "texto_en": "But still, I feel a little embarrassed\\nabout this kind of thing.\\nIt makes me feel like an adult.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Of course,\\nthe cocktails are non-alcoholic.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Yotsuba",
+      "texto_en": "Although we still have to wait until we're adults\\nfor a real toast, the atmosphere of this place alone\\nis enough to make me feel tipsy.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "Oh, I can see that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "(Honestly, I feel uncomfortable in this atmosphere.\\n But on the other hand, think about it, Futaro!\\n If I can use this to my advantage!)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Yotsuba",
+      "texto_en": "I-it's been a while since we had this kind of time,\\njust the two of us on a date...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Yotsuba",
+      "texto_en": "We were busy with exams and other things.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "That's right. When was the last time we had a chance\\nto take it slow like this?\\nWasn't it at a family restaurant?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Yotsuba",
+      "texto_en": "We did go to a family restaurant, didn't we?\\nIt's one of the places you hold dear, Uesugi-san.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Yotsuba",
+      "texto_en": "I remember that day very well.\\nFor both you and I, Uesugi-san%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Yotsuba",
+      "texto_en": "It's an important anniversary.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "Ahh....\\nThinking back on it,\\nI did something pretty embarrassing back then.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Yotsuba",
+      "texto_en": "That's true. It was such a shock for you\\nto say something so straightforward like that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Yotsuba",
+      "texto_en": "But, I was happy, you know?\\nI felt like my dream and the future you were imagining,\\nUesugi-san, overlapped perfectly.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "Yotsuba...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Yotsuba",
+      "texto_en": "Th-that's right!\\nListen, please, Uesugi-san.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah, what's up?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, actually%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Futaro",
+      "texto_en": "(After that, our conversation shifted to talk about\\n the sisters' graduation, and all the while\\n I couldn't make any progress, time passed by.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Futaro",
+      "texto_en": "(Just having a casual conversation with Yotsuba,\\n who was laughing innocently,\\n was enjoyable in its own way%p-2;――%p;)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Futaro",
+      "texto_en": "(As my tension slowly faded,\\n I eventually stopped feeling anxious.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Yotsuba",
+      "texto_en": "Lately, it's not just Nino,\\nbut even Itsuki is saying stuff, as well.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Futaro",
+      "texto_en": "What is it?\\nDid you do something wrong and \\nnow you're getting scolded?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Yotsuba",
+      "texto_en": "It's been almost six months since I've\\nstarted dating you, so maybe it's time\\nto stop using polite language with you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Yotsuba",
+      "texto_en": "%p-2;――%p; is what she said.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Futaro",
+      "texto_en": "Even Itsuki said that...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, and umm...\\nAbout that...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san... What do you think?\\nShould I keep talking to you this way,\\nor should I change anything?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Futaro",
+      "texto_en": "Do whatever you feel comfortable with.\\nWhether it's in formal language or not,\\nuse whichever is easier for you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Yotsuba",
+      "texto_en": "Whichever...is easier, huh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 84,
+      "personagem": "Yotsuba",
+      "texto_en": "Doing what's easy and doing what's comfortable\\nare similar but different, aren't they?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 85,
+      "personagem": "Futaro",
+      "texto_en": "But to be told that, even by Itsuki.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 86,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, Itsuki's also been trying to change her way of speaking,\\nbut it's not going so well.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 87,
+      "personagem": "Futaro",
+      "texto_en": "Talking to me more casually wouldn't hurt.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 88,
+      "personagem": "Yotsuba",
+      "texto_en": "Really?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 89,
+      "personagem": "Futaro",
+      "texto_en": "Well, we've been together for almost six months now,\\nand even though we've been through a lot\\nwe've finally graduated, and moved on...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 90,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 91,
+      "personagem": "Futaro",
+      "texto_en": "So, I think it's...okay now, you know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 92,
+      "personagem": "Yotsuba",
+      "texto_en": "Yes...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 93,
+      "personagem": "Futaro",
+      "texto_en": "But to be told that, even by Itsuki.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 94,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, Itsuki's also been trying to change her way of speaking,\\nbut it's not going so well.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 95,
+      "personagem": "Futaro",
+      "texto_en": "Well, I mean,\\nI'd like you to call me by my first name sometimes,\\nyou know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 96,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 97,
+      "personagem": "Futaro",
+      "texto_en": "I'm calling you by your first name, aren't I?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 98,
+      "personagem": "Futaro",
+      "texto_en": "We've both graduated high school,\\nso we're no longer teacher and student!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 99,
+      "personagem": "Futaro",
+      "texto_en": "From now on, I'd like an equal relationship...\\nor something like that...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 100,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 101,
+      "personagem": "Futaro",
+      "texto_en": "W-well, since we're lovers,\\nI just thought it shouldn't be strange\\nto call each other by our first names.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 102,
+      "personagem": "Yotsuba",
+      "texto_en": "That's true...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 103,
+      "personagem": "Yotsuba",
+      "texto_en": "Teehee, I see.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 104,
+      "personagem": "Futaro",
+      "texto_en": "But to be told that, even by Itsuki.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 105,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, Itsuki's also been trying to change her way of speaking,\\nbut it's not going so well.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 106,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, I do feel Itsuki's change\\nin speech does feel quite strange.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 107,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh! But don't make fun of her, okay?\\nItsuki is doing her best to change.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 108,
+      "personagem": "Futaro",
+      "texto_en": "I know.\\nAnd eventually, if she keeps thinking that way,\\nit'll change naturally.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 109,
+      "personagem": "Yotsuba",
+      "texto_en": "Yes, please cheer her on.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 110,
+      "personagem": "Futaro",
+      "texto_en": "(Change naturally, huh.\\n I hope my relationship with Yotsuba\\n will change naturally too.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 111,
+      "personagem": "Futaro",
+      "texto_en": "(On the other hand, if I rush and suddenly\\n change my attitude, it might make Yotsuba anxious.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 112,
+      "personagem": "Futaro",
+      "texto_en": "(Spending time together like this\\n should deepen our bond...)",
+      "texto_ptbr": ""
+    }
+  ]
+}

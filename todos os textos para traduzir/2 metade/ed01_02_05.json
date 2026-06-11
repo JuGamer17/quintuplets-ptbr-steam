@@ -1,0 +1,96 @@
+{
+  "arquivo": "ed01_02_05",
+  "total": 15,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Priest",
+      "texto_en": "Futaro. The groom.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Priest",
+      "texto_en": "Do you vow to love, honor, and cherish your bride,\\nfor better or worse, in sickness and in health,\\nuntil death do you part?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "I do.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Priest",
+      "texto_en": "Ichika. The bride.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Priest",
+      "texto_en": "Nino. The bride.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Priest",
+      "texto_en": "Miku. The bride.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Priest",
+      "texto_en": "Yotsuba. The bride.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Priest",
+      "texto_en": "Itsuki. The bride.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Priest",
+      "texto_en": "Do you vow to love, honor, and cherish your groom,\\nfor better or worse, in sickness and in health,\\nuntil death do you part?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "I do.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "I do.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "I do.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "I do.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "I do.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Priest",
+      "texto_en": "You may kiss the bride.",
+      "texto_ptbr": ""
+    }
+  ]
+}

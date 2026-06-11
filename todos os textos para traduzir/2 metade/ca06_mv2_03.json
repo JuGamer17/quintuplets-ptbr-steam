@@ -1,0 +1,402 @@
+{
+  "arquivo": "ca06_mv2_03",
+  "total": 66,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Nino",
+      "texto_en": "*sigh*\\nNo matter how many times I see it, it's still lovely.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(Is that Nino peeking into the shop window over there?\\n She seems to be looking at it so intently...)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "What are you looking at?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Nino",
+      "texto_en": "Ah, Fu-kun!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Nino",
+      "texto_en": "...Are you perhaps alone?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "You can tell just by looking, can't you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "So, were you looking for me?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "I just happened to see you.\\nAnyway, what were you looking at?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "...Ugh.\\nIt's Ryusou, okay? Ryusou.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "Look, it's traditional Okinawan clothing.\\nThe vivid colors are so enchanting, don't you think?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Oh, this is 'bingata,' right?\\nIt's a traditional Okinawan dyeing technique.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "You know about it? You would, Fu-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Hmm.\\nThe patterns and colors\\nseem a bit different from a normal kimono.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "This is traditional Okinawan dyeing,\\ncalled 'bingata.'",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Nino",
+      "texto_en": "The colors and patterns are great, but really,\\nthe design is just lovely.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Dressing Room Staff",
+      "texto_en": "Excuse me. Would you like to try it on?\\nAt the moment, there are still some available,\\nso it's okay.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "Ah, sorry.\\nI don't have much time...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Dressing Room Staff",
+      "texto_en": "I see. How about trying it on over your clothes,\\nin that case?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Dressing Room Staff",
+      "texto_en": "You can still feel the atmosphere,\\nand I'm sure it will look good on you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "If it's just that...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Do whatever you'd like.\\nIf it's just putting it on,\\nit shouldn't take too long, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "You're right.\\nThen, I'll try it on for a bit.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Nino",
+      "texto_en": "Alright, may I request this pattern, please?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Dressing Room Staff",
+      "texto_en": "Yes, of course.\\nPlease come this way.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun, don't peek, okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "What are you talking about?\\nIt's not like you're changing or anything.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "You have this chance. Why not try it on?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "Huh? Really?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "You're just putting on a jacket, right?\\nSurely, you have time for that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Nino",
+      "texto_en": "Yes, you're right.\\nMaybe I'll try it on for a bit.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "Alright, may I request this pattern, please?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Dressing Room Staff",
+      "texto_en": "Yes, of course.\\nPlease come this way.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun, don't peek, okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "What are you talking about?\\nIt's not like you're changing or anything.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "That's nice, isn't it?\\nIt'd definitely look good on you, Nino.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Nino",
+      "texto_en": "Oh my? Does that mean you want to see me wear it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Wh-what?\\nThat's not really what I meant...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "I'll show you as much of me as you want, Fu-kun.\\nALL of it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "Stop saying things that could be misinterpreted.\\nWe're in public.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Nino",
+      "texto_en": "Alright, may I request this pattern, please?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Dressing Room Staff",
+      "texto_en": "Yes, of course.\\nPlease come this way.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun, don't peek, okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "What are you talking about?\\nIt's not like you're changing or anything.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Nino",
+      "texto_en": "Hehe, just wait a bit, okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun, thanks for waiting!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "O-ohh...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Nino",
+      "texto_en": "How is it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "It suits you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Nino",
+      "texto_en": "What? That's it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "What else should I say?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Nino",
+      "texto_en": "I want you to say something like 'cute' or 'beautiful,'\\neven if it's just flattery.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "Sorry, I'm not good at that kind of thing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Nino",
+      "texto_en": "I know that, but can't you say it\\nat least in times like these?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "Actually, I'm not just flattering you.\\nIt really does suit you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Nino",
+      "texto_en": "Thank you, Fu-kun!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Nino",
+      "texto_en": "Ryukyu-style clothing is really beautiful,\\nisn't it?\\nI kind of want one for myself.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Dressing Room Staff",
+      "texto_en": "Did you like it?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Dressing Room Staff",
+      "texto_en": "We also offer photo services\\nwith Ryukyu-style clothing\\nand resort wedding plans here%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Dressing Room Staff",
+      "texto_en": "How about using them for your future wedding?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "Woah?!\\nWait a minute.\\nWe're not%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Nino",
+      "texto_en": "Oh wow, why not?\\nA resort wedding would be just lovely.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "What are you talking about?\\nYou're thinking way too far ahead.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Nino",
+      "texto_en": "...Hey?\\nDoes that mean you're thinking\\nabout marrying me in the future too?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "Ah! No!\\nThat's not what I meant when I said that...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Nino",
+      "texto_en": "Well, I believe in that future.",
+      "texto_ptbr": ""
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "arquivo": "gr_01_01",
+  "total": 9,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Five months have passed since that night.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "After I confessed, it goes without saying\\nthat there were some changes, big and small,\\nin the relationships among the six of us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "We debated and sometimes clashed with each other\\nfor the future each of us desired.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "That way, we walked down what we thought was the best path.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "In the end, Itsuki accepted my feelings\\nafter much deliberation.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "I don't know the details, but apparently she'd had\\nthe advice and encouragement from her four sisters\\nbehind her decision.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Jeez, even now, I'm still not on their level.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Of course, there have been changes in my relationship with the quintuplets, and their relationships with each other, but I feel like everything has finally fallen into place. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "And then, graduation had approached,\\nbefore we knew it%p-2;――",
+      "texto_ptbr": ""
+    }
+  ]
+}

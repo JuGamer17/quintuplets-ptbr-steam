@@ -1,0 +1,654 @@
+{
+  "arquivo": "ed01_02_03",
+  "total": 108,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Ichika, I'm here.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Ichika",
+      "texto_en": "Hey.\\nSorry for keeping you waiting.\\nI'll finish changing soon, so please wait there.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "It looks like they've arrived.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Good grief, what are they plotting?\\nThey haven't changed since high school.\\nThey're all troublemakers.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Ichika",
+      "texto_en": "Does that include me too?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Yes, you too! Actually, you troubled me the most.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "(Come to think of it, I had a dream this morning.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "(How many times have I dreamt of that day?\\n It's etched so deeply into my mind.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "(It was such a terrible nightmare.)",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "???",
+      "texto_en": "Sorry to keep you waiting.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Am I still dreaming?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "It's the final quintuplets game.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "If you love me, you can tell us apart, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Ladies and gentlemen, thank you for taking time\\nout of your busy schedules\\nto attend our wedding reception today.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "I am very happy to finally have our wedding ceremony\\nin front of everyone who has supported us so far.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "It...really has been a long road.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "The quintuplets game...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "What a joke! Except for Ichika, you other four!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "What are you doing, wearing wedding dresses\\nfor this kind of game?\\nDo you even know what you're doing?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Ichika",
+      "texto_en": "Sure, it's a bit complicated...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "But we just thought of it, you know...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Ichika",
+      "texto_en": "And it's not just for fun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Ichika",
+      "texto_en": "We're also relatives of the bride.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Ichika",
+      "texto_en": "Well, that's a lie.\\nI'm the bride.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "No. It's me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "I'm the bride!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Ichika",
+      "texto_en": "You can tell, right, Futaro?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Geez, you idiots...\\nJust when I thought\\nyou'd become somewhat sensible adults.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "It's a relief you still haven't changed.\\nDon't underestimate me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "It's you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Officiant",
+      "texto_en": "It seems the party is at its peak,\\nbut it looks like it's time to wrap things up.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Officiant",
+      "texto_en": "Lastly, a message of gratitude\\nfrom the bride to her parents.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Ichika",
+      "texto_en": "To my father, and my mother in heaven,\\nI would not be here today\\nif it weren't for the both of you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Ichika",
+      "texto_en": "Although my mother left me when I was young,\\nher teachings and her love will always stay with me.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Ichika",
+      "texto_en": "And, Dad.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Ichika",
+      "texto_en": "I know there were times when you were unsure\\nabout accepting our relationship,\\nbut you've watched over us until today.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Ichika",
+      "texto_en": "Still, until now, thank you for watching over us\\njust as we are%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Ichika",
+      "texto_en": "And, thank you for supporting me\\nas I discovered my dream of becoming an actress.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Ichika",
+      "texto_en": "And to my sisters,\\nyou've always been a source of strength\\nin helping me achieve my dreams.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Nino",
+      "texto_en": "Huh? Me?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "You're Nino.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Nino",
+      "texto_en": "!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Ichika",
+      "texto_en": "The next quintuplet, Nino, sometimes pulls me along\\nlike an older sister.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Ichika",
+      "texto_en": "She always lives true to herself no matter what%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Ichika",
+      "texto_en": "I always admired her way of life.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Nino",
+      "texto_en": "Yup, that's correct!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Nino",
+      "texto_en": "Well, well. Good job.\\nNext, please!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Nino",
+      "texto_en": "...!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Nino",
+      "texto_en": "Why, at a time like this...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Nino",
+      "texto_en": "You just need to identify Ichika.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "Your strength is in your compassion for others. \\nEven though you act tough, I suppose it's because \\nyou have so much love to give.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "I couldn't find the answer at that time.\\nI'm sorry.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Nino",
+      "texto_en": "It's okay...\\nI...have no regrets...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "I see.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Nino",
+      "texto_en": "What the hell is this...\\nWhy, all of a sudden...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "While we're at it.\\nLet me say what I have to say.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "Next, you're Miku.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Ichika",
+      "texto_en": "Miku is my little sister and yet at the same time,\\nmy best friend. We've always told each other what was \\non our minds and been by each other's side.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Ichika",
+      "texto_en": "Miku has the strength to change herself for her dreams.\\nShe's my pride and joy as a little sister.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Miku",
+      "texto_en": "Yes, you're correct.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Miku",
+      "texto_en": "Sometimes I get worried...\\nAm I...doing okay...?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "There's no need for me to even answer that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "You've always fought against your insecurities. \\nAnd as a result you've accomplished so much and more.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "Believe in yourself.\\nYou are and always have been capable of great things. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 68,
+      "personagem": "Miku",
+      "texto_en": "I thought you'd say that.\\nThank you, Futaro.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "Yotsuba.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 70,
+      "personagem": "Yotsuba",
+      "texto_en": "...Yes.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 71,
+      "personagem": "Ichika",
+      "texto_en": "Yotsuba is the sister I've been the closest to\\nas an older sister.\\nBesides, being so unbelievably cute that I can't help it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 72,
+      "personagem": "Ichika",
+      "texto_en": "Of course, there are many things\\nI've been taught by you as well, Yotsuba.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 73,
+      "personagem": "Ichika",
+      "texto_en": "There's something reliable about\\nwatching you run forward with all your might.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 74,
+      "personagem": "Futaro",
+      "texto_en": "You keep helping people, even now.\\nThat's because it's what you want to do, right?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "I'm sorry for being presumptuous, but I hope you\\ncontinue to be that kind of person in the future.\\nAs someone who was helped by you, I wish for that.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 76,
+      "personagem": "Yotsuba",
+      "texto_en": "Of course.\\nIt's the path I've chosen and walked on my own.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 77,
+      "personagem": "Yotsuba",
+      "texto_en": "Please don't say that it's presumptuous of you.\\nI'm happy to know that I'm being acknowledged.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 78,
+      "personagem": "Futaro",
+      "texto_en": "Yeah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 79,
+      "personagem": "Futaro",
+      "texto_en": "And finally, Itsuki.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 80,
+      "personagem": "Ichika",
+      "texto_en": "Eeh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 81,
+      "personagem": "Futaro",
+      "texto_en": "Eeh.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 82,
+      "personagem": "Ichika",
+      "texto_en": "Uuum, it's Ichika, ya know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 83,
+      "personagem": "Ichika",
+      "texto_en": "Itsuki, despite being the youngest,\\nyou're the most dependable among the five of us.\\nYou've always helped me out.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 84,
+      "personagem": "Ichika",
+      "texto_en": "You always try your best at all times,\\nand a bit stubborn at times%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 85,
+      "personagem": "Ichika",
+      "texto_en": "Now, you're living your dream as a teacher,\\nhelping and guiding numerous students every day.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 86,
+      "personagem": "Itsuki",
+      "texto_en": "Juuust kidding!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 87,
+      "personagem": "Itsuki",
+      "texto_en": "Ta-da! It is me, Itsuki!\\nHow was that? Did I do well?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 88,
+      "personagem": "Futaro",
+      "texto_en": "Even now...teasing me like this...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 89,
+      "personagem": "Futaro",
+      "texto_en": "I'm gonna say this now while I got the chance!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 90,
+      "personagem": "Itsuki",
+      "texto_en": "!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 91,
+      "personagem": "Futaro",
+      "texto_en": "You're the reason my life went off the rails!\\nIt was all in meeting you!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 92,
+      "personagem": "Futaro",
+      "texto_en": "The root of all evil! The curry-loving yokai woman!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 93,
+      "personagem": "Itsuki",
+      "texto_en": "...!\\nW-well, I never!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 94,
+      "personagem": "Itsuki",
+      "texto_en": "Before I met you, I could have never imagined\\nthat there could be someone so lacking in\\ndelicacy! You smart-ass! Compulsive kissing dummy!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 95,
+      "personagem": "Itsuki",
+      "texto_en": "I just don't think we'll ever get along, you and I!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 96,
+      "personagem": "Nino",
+      "texto_en": "Itsuki's...using her old way of speaking again.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 97,
+      "personagem": "Miku",
+      "texto_en": "Well, it's to be expected with Futaro around.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 98,
+      "personagem": "Futaro",
+      "texto_en": "Aargh... Geez...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 99,
+      "personagem": "Futaro",
+      "texto_en": "And, the last one is you, Ichika.\\nYep. I got a perfect score.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 100,
+      "personagem": "Ichika",
+      "texto_en": "Huuuh?\\nReally? That was really easy, wasn't it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 101,
+      "personagem": "Ichika",
+      "texto_en": "If it weren't for my sisters,\\nmy life would have been completely different.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 102,
+      "personagem": "Ichika",
+      "texto_en": "There were times when being the eldest\\nfelt like a burden, but they've made each day \\na hundred times more enjoyable.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 103,
+      "personagem": "Futaro",
+      "texto_en": "You can't help but grow when you've been together this long. \\nI may have been the tutor at first but I've learned so much from all of you. ",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 104,
+      "personagem": "Ichika",
+      "texto_en": "I'm happy that I was able to be born\\nas a sister of quintuplets.\\nAnd as your older sister, it's been a blessing.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 105,
+      "personagem": "Futaro",
+      "texto_en": "Meeting you quintuplets is one of my proudest achievements.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 106,
+      "personagem": "Ichika",
+      "texto_en": "There may be many things\\nthat people find strange about us, but%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 107,
+      "personagem": "Ichika",
+      "texto_en": "I love my family, so much.",
+      "texto_ptbr": ""
+    }
+  ]
+}

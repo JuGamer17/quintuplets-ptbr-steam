@@ -1,0 +1,408 @@
+{
+  "arquivo": "ca01_mv4_01",
+  "total": 67,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, while you were looking at that large aquarium?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 1,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, the atmosphere was really nice.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Yo.\\nWhat were you talking about?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 3,
+      "personagem": "Ichika",
+      "texto_en": "Oh, Futaro-kun.\\nAbout the cafe we went to earlier.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "I didn't realize there was a cafe.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 5,
+      "personagem": "Ichika",
+      "texto_en": "We were sitting right in front of the tank.\\nWe could clearly see the scales of the fish\\nswimming by.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "But we were so comfortable that we ended up\\nstaying there for a long time,\\nand didn't really see much of the other areas.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "That's a shame...\\nThere were many other interesting things to see,\\nyou know?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 8,
+      "personagem": "Ichika",
+      "texto_en": "Really?\\nWhat did you like the most, Itsuki-chan?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "Well.\\nIf I had to choose, maybe the coral tank.\\nIt was really beautiful.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "The fish living there rejuvenate\\nthe Okinawan ecosystem. It really felt like\\nwe were peeking into the Okinawan ocean.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 11,
+      "personagem": "Itsuki",
+      "texto_en": "There were also many fish that aren't usually\\ndisplayed in the aquariums I usually go to,\\nso that was impressive%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "Although the ocean is all connected, I realized that \\ndepending on the location, there's so much diversity \\nin the underwater ecosystems and landscapes.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "Itsuki-chan, you're really enthusiastic \\nabout all this stuff, aren't you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "Ah...\\nSorry, I got carried away.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "No, please continue.\\nIt's fun just listening to you.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "I can tell that you weren't just looking,\\nbut were trying to learn something while doing so.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "N-nothing like that.\\nI just happened to be able to hear\\nthe explanation from the person in charge...",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "When I was looking at the tank,\\nit was just about feeding time,\\nand the staff explained a lot of things to us.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "There's that kinda service?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "There is and I was surprised%p-2;――",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 21,
+      "personagem": "Itsuki",
+      "texto_en": "I learned some fish only eat once a week!\\nCan you believe it? Once a week!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Huh? Is it that surprising?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 23,
+      "personagem": "Itsuki",
+      "texto_en": "It's absolutely surprising!\\nI can't imagine only enjoying food once a week.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 24,
+      "personagem": "Ichika",
+      "texto_en": "Ahaha, is that so?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "That is totally an Itsuki thing to say...huh?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "I-it's not just me!\\nI think it's a common feeling among humans\\nto look forward to eating every day!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Well, I suppose that's also true.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "Ehh...\\nWait, does that mean you'd be okay\\nwith only eating once a week, Uesugi-kun?!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "I wouldn't say I'd be okay with it,\\nbut if I could survive on it, it'd be convenient, right? \\nSaving time on having to cook food.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "I-I can't believe\\nyou actually think that way...!!",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Well, it's not that surprising. \\nIs it really that strange?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 32,
+      "personagem": "Ichika",
+      "texto_en": "I'm getting worried now. You can't skip meals.\\nYou don't want to end up collapsing\\nand being sent to the hospital, do you?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "But if you're really focused on something... \\nYou two don't go through that? Sometimes it's a \\nhassle to eat when you're really concentrating.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "Absolutely not.\\nI can't even concentrate if I'm\\nhungry in the first place.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 35,
+      "personagem": "Ichika",
+      "texto_en": "*sigh*\\nWith that kind of attitude,\\nI'm worried about you living alone, Futaro-kun.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "No, I wouldn't do anything as extreme as passing out.\\nPlease don't worry.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 37,
+      "personagem": "Ichika",
+      "texto_en": "Promise?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "Yeah.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Come to think of it, Yotsuba said\\nthere's also a deep-sea fish corner.\\nDid you see that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "I did see it in passing,\\nbut I didn't have time to look closely.\\nI did want to take a closer look, though.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "I know.\\nThe human body can't go without food or sleep.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 42,
+      "personagem": "Ichika",
+      "texto_en": "Do you really understand that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, after watching how you guys live.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 44,
+      "personagem": "Ichika",
+      "texto_en": "Ahaha...\\nYou're one to talk.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "What do you mean?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Oh, it's nothing if you don't understand.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "Mmmhh...\\nI don't know what it means,\\nbut I feel like I've been insulted.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "Come to think of it, Yotsuba said\\nthere's also a deep-sea fish corner.\\nDid you see that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 49,
+      "personagem": "Itsuki",
+      "texto_en": "I did see it in passing,\\nbut I didn't have time to look closely.\\nI did want to take a closer look, though.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "One's body is their asset.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 51,
+      "personagem": "Itsuki",
+      "texto_en": "Isn't that contradictory to what you said earlier?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "That was just a hypothetical situation.\\nAfter all, the human body\\nis different from a fish's body.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 53,
+      "personagem": "Ichika",
+      "texto_en": "That's true, isn't it.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "And also, I've learned the hard way\\nthat studying alone won't get you anywhere.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 55,
+      "personagem": "Ichika",
+      "texto_en": "Teehee, over this past year?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "Yeeaah...\\nWell, I guess.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "Anyway, I'll make sure to eat properly.\\nSo I won't pass out and worry anyone.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 58,
+      "personagem": "Ichika",
+      "texto_en": "I'm relieved to hear that.\\nMake sure to eat three proper meals, okay?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 59,
+      "personagem": "Itsuki",
+      "texto_en": "You sound like a mother\\nmore than an older sister.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "Come to think of it, Yotsuba said\\nthere's also a deep-sea fish corner.\\nDid you see that?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 61,
+      "personagem": "Itsuki",
+      "texto_en": "I did see it in passing,\\nbut I didn't have time to look closely.\\nI did want to take a closer look, though.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "Should we have taken a bit more time?",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 63,
+      "personagem": "Ichika",
+      "texto_en": "Hmm, if we did that, we wouldn't have had time\\nto visit Ocean Expo Park like this.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 64,
+      "personagem": "Ichika",
+      "texto_en": "Seriously, there are too many great places\\nto visit here.\\nMaybe we should have made the trip longer.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 65,
+      "personagem": "Itsuki",
+      "texto_en": "No, I'll keep this feeling\\nfor the next time I come to Okinawa.",
+      "texto_ptbr": ""
+    },
+    {
+      "id": 66,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, let's come back again.\\nSomeday, all together.",
+      "texto_ptbr": ""
+    }
+  ]
+}
