@@ -31,8 +31,9 @@ chmod +x instalar.sh
 
 ### Windows (manual)
 1. Baixe os arquivos de `steam ou windows/windata/` aqui do GitHub
-2. Copie os arquivos de `windata/` para a pasta `windata/` do jogo (substituindo os originais)
-3. Abra o jogo e pronto.
+2. Se sua versão for de meios navais, recomendo fazer backup dos arquivos que serão substituidos.
+3. Copie os arquivos de `windata/` para a pasta `windata/` do jogo (substituindo os originais)
+4. Abra o jogo e pronto.
 
 ### Como usar
 Selecione **English** no menu de idiomas do jogo. O texto aparecerá em português.
@@ -76,7 +77,7 @@ O script de instalação cria backups automáticos (`.bkp-TIMESTAMP`).
 Para reverter, renomeie os backups removendo o sufixo.
 
 No windows/steam
-Repare os arquivos pela steam, se não for stem faça backup dos arquivos antes re-coloque eles.
+Repare os arquivos pela steam, se não for stem faça backup dos arquivos do backup.
 
 ## 📜 Créditos
 
