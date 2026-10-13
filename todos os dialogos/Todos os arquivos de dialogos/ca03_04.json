@@ -1,0 +1,270 @@
+{
+  "arquivo": "ca03_04",
+  "total": 44,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*",
+      "texto_ptbr": "*suspiro*"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(I'm a little sleep-deprived.\\n I couldn't fall asleep\\n because I was thinking about Miku.)",
+      "texto_ptbr": "(Estou meio privado de sono.\n Não consegui pegar no sono\n porque ficava pensando na Miku.)"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(She's totally avoiding me, right?\\n Why does she keep avoiding me?\\n She even kept her distance during breakfast!)",
+      "texto_ptbr": "(Ela está totalmente me evitando, né?\n Por que ela continua me evitando?\n Ela até manteve distância durante o café da manhã!)"
+    },
+    {
+      "id": 3,
+      "personagem": "Raiha",
+      "texto_en": "Big bro?\\nWhat's wrong?",
+      "texto_ptbr": "Onii-chan?\nO que foi?"
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "O-oh, it's nothing.",
+      "texto_ptbr": "A-ah, não é nada."
+    },
+    {
+      "id": 5,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "(Ah, Miku's looking over here!)",
+      "texto_ptbr": "(Ah, a Miku está olhando pra cá!)"
+    },
+    {
+      "id": 7,
+      "personagem": "Miku",
+      "texto_en": "!...",
+      "texto_ptbr": "!..."
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 10,
+      "personagem": "Yotsuba",
+      "texto_en": "Miku, what's wrong?",
+      "texto_ptbr": "Miku, o que foi?"
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "HUH?!\\nWhat do you mean, what's wrong?",
+      "texto_ptbr": "HÃ?!\nComo assim, o que foi?"
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "Well...",
+      "texto_ptbr": "Bem..."
+    },
+    {
+      "id": 13,
+      "personagem": "Miku",
+      "texto_en": "I-I'm totally fine.",
+      "texto_ptbr": "E-eu estou totalmente bem."
+    },
+    {
+      "id": 14,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun, you look a little sleepy, don't you?\\nThe bed wasn't comfortable after all?",
+      "texto_ptbr": "Fu-kun, você parece meio sonolento, não parece?\nA cama não era confortável, afinal?"
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "N-no, the bed was extremely comfortable, okay?\\nThat feeling of sinking into the mattress when you lay on it,\\nit was truly a luxury hotel experience!",
+      "texto_ptbr": "N-não, a cama era extremamente confortável, tá?\nAquela sensação de afundar no colchão quando você deita,\nfoi realmente uma experiência de hotel de luxo!"
+    },
+    {
+      "id": 16,
+      "personagem": "Ichika",
+      "texto_en": "I know what you mean.\\nI was sound asleep, I thought I wasn't going to be able to wake up.",
+      "texto_ptbr": "Sei bem do que você está falando.\nEu dormi tão profundamente que achei que não ia conseguir acordar."
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "Yeah...\\nIt was a real chore trying to wake you up...",
+      "texto_ptbr": "É...\nFoi um baita trabalho tentar te acordar..."
+    },
+    {
+      "id": 18,
+      "personagem": "Nino",
+      "texto_en": "Even though the beds were very comfortable,\\nit seems like Miku couldn't sleep either.",
+      "texto_ptbr": "Mesmo com as camas sendo bem confortáveis,\nparece que a Miku também não conseguiu dormir."
+    },
+    {
+      "id": 19,
+      "personagem": "Miku",
+      "texto_en": "Huh...",
+      "texto_ptbr": "Hã..."
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "You looked at your phone a few times\\nbefore falling asleep, right?\\nIt can negatively impact your sleep, you know?",
+      "texto_ptbr": "Você ficou olhando o celular algumas vezes\nantes de dormir, né?\nIsso pode prejudicar o seu sono, sabia?"
+    },
+    {
+      "id": 21,
+      "personagem": "Miku",
+      "texto_en": "Ah, sorry.\\nI'll be more careful.",
+      "texto_ptbr": "Ah, desculpa.\nVou ter mais cuidado."
+    },
+    {
+      "id": 22,
+      "personagem": "Nino",
+      "texto_en": "Please do.\\nI'd rather not go sightseeing while someone is feeling drowsy.",
+      "texto_ptbr": "Por favor.\nEu prefiro não sair pra passear com alguém se sentindo sonolento."
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "Hey, Miku?",
+      "texto_ptbr": "Ei, Miku?"
+    },
+    {
+      "id": 24,
+      "personagem": "Miku",
+      "texto_en": "!...\\nWhat's up, Futaro?",
+      "texto_ptbr": "!...\nO que foi, Fuutarou?"
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Well, um... Are you okay? Aren't you feeling sleepy?",
+      "texto_ptbr": "Bem, hmm... Você está bem? Não está com sono?"
+    },
+    {
+      "id": 26,
+      "personagem": "Miku",
+      "texto_en": "I-I'm alright.\\n...Thanks for worrying about me.",
+      "texto_ptbr": "E-eu estou bem.\n...Obrigada por se preocupar comigo."
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Well, it's only natural, isn't it?",
+      "texto_ptbr": "Bem, é só natural, não é?"
+    },
+    {
+      "id": 28,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "(Maybe she's back to her old self?)",
+      "texto_ptbr": "(Será que ela voltou ao normal?)"
+    },
+    {
+      "id": 30,
+      "personagem": "Ichika",
+      "texto_en": "Today, let's start with Shurijo Castle.\\nAfter that, we'll go to the Okinawa Prefectural Museum that Miku was looking forward to.",
+      "texto_ptbr": "Hoje, vamos começar com o Castelo Shurijo.\nDepois disso, vamos ao Museu Provincial de Okinawa que a Miku estava ansiosa pra ver."
+    },
+    {
+      "id": 31,
+      "personagem": "Miku",
+      "texto_en": "Yeah.\\nI want to see the special exhibition\\nthat's currently on display.",
+      "texto_ptbr": "É.\nEu quero ver a exposição especial\nque está em cartaz atualmente."
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Cool, what kind of exhibition is it?",
+      "texto_ptbr": "Legal, que tipo de exposição é?"
+    },
+    {
+      "id": 33,
+      "personagem": "Miku",
+      "texto_en": "Umm...that's a surprise for when we get there.",
+      "texto_ptbr": "Hmm... isso é surpresa pra quando a gente chegar lá."
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Oh come on, just tell me.\\nWell anyways I'm looking forward to it.",
+      "texto_ptbr": "Ah, qual é, me conta logo.\nBem, de qualquer forma estou ansioso pra ver."
+    },
+    {
+      "id": 35,
+      "personagem": "Miku",
+      "texto_en": "You're gonna l-look forward to it...",
+      "texto_ptbr": "Você vai f-ficar ansioso pra ver..."
+    },
+    {
+      "id": 36,
+      "personagem": "Miku",
+      "texto_en": "Yeah, well I hope it meets your expectations.",
+      "texto_ptbr": "É, bem, espero que atenda às suas expectativas."
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "(Wh-why?!\\n Why does she keep distancing herself from me?!)",
+      "texto_ptbr": "(P-por quê?!\n Por que ela continua se distanciando de mim?!)"
+    },
+    {
+      "id": 38,
+      "personagem": "Miku",
+      "texto_en": "Alright, let's go.",
+      "texto_ptbr": "Certo, vamos lá."
+    },
+    {
+      "id": 39,
+      "personagem": "Yotsuba",
+      "texto_en": "Finally, our Okinawa trip begins, Raiha-chan!\\nLet's have some FUUUN!",
+      "texto_ptbr": "Finalmente, nossa viagem a Okinawa começa, Raiha-chan!\nVamos nos DIVERTIIIR!"
+    },
+    {
+      "id": 40,
+      "personagem": "Raiha",
+      "texto_en": "Yeah!",
+      "texto_ptbr": "Ééé!"
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 42,
+      "personagem": "Ichika",
+      "texto_en": "Come on, Futaro-kun, you too, let's go.\\nToday has only just begun.",
+      "texto_ptbr": "Vamos, Fuutarou-kun, você também, vamos.\nO dia mal começou."
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah.",
+      "texto_ptbr": "É-é."
+    }
+  ]
+}

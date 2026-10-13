@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca06_28",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "……明日は海水浴だったな。\\n水着なら体格やほくろも観察しやすいし、\\nイチかバチか探ってみるのも手か……。",
+      "texto_en": "...Tomorrow is the beach. If they're in swimsuits,\\n it'll be easier to observe their body types and moles,\\n so it might be worth taking that gamble...",
+      "texto_ptbr": "...Amanhã é a praia. Se elas estiverem de maiô,\\n vai ser mais fácil observar o tipo de corpo e as pintas,\\n então talvez valha a pena arriscar..."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "そうするしかないよな",
+      "texto_en": "There's no other choice, is there?",
+      "texto_ptbr": "Não tem outro jeito, né?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "いや、さすがに無理だろ",
+      "texto_en": "No, it's really impossible, isn't it?",
+      "texto_ptbr": "Não, é impossível, né?",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "……本当にそれでいいのか？",
+      "texto_en": "...Is that really okay?",
+      "texto_ptbr": "...Tem certeza de que é isso mesmo?",
+      "selidx": 2
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca06_mv6_02",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "もう子どもの頃のように、\\n同じ外見、同じ性格ではありませんよね？",
+      "texto_en": "Our personalities are completely different.\\nIt's not like when we were kids and were all the same. ",
+      "texto_ptbr": "Nossas personalidades são completamente diferentes.\\nNão é como quando éramos crianças e éramos todas iguais. "
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "そんな仮定の話は意味ないだろ",
+      "texto_en": "A hypothetical scenario?",
+      "texto_ptbr": "Não faz sentido falar de uma situação hipotética.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "生きてりゃ変わっていくもんだ",
+      "texto_en": "Things change as we live.",
+      "texto_ptbr": "A gente muda conforme vive.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "理解してるってことじゃないのか？",
+      "texto_en": "Isn't it about understanding?",
+      "texto_ptbr": "Isso não significa que você entende?",
+      "selidx": 2
+    }
+  ]
+}

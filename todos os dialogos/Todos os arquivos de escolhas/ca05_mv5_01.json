@@ -1,0 +1,75 @@
+{
+  "arquivo": "ca05_mv5_01",
+  "total": 7,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "だって、彼女に妹想いな姉が４人もいるんだよ？\\n彼氏は苦労するでしょ。",
+      "texto_en": "I mean, you have four sisters who are all so fond\\nof their little sister's boyfriend, right?\\nThat boyfriend must have a hard time.",
+      "texto_ptbr": "Quer dizer, você tem quatro cunhadas que gostam muito\\ndo namorado da irmãzinha delas, né?\\nEsse namorado deve ter uma vida difícil."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "苦労させる気かよ",
+      "texto_en": "Are you trying to make it hard for me?",
+      "texto_ptbr": "Você quer me dar trabalho?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "更にお父さんもいるんだよな",
+      "texto_en": "There's also your dad. ",
+      "texto_ptbr": "E ainda tem o seu pai, né.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "むしろ俺は幸せだと思ってる",
+      "texto_en": "I actually think I'm lucky.",
+      "texto_ptbr": "Na verdade, acho que tenho sorte.",
+      "selidx": 2
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "アラハビーチＡ:一花:二乃",
+      "texto_en": "Araha Beach A: Ichika/Nino",
+      "texto_ptbr": "Araha Beach A: Ichika/Nino",
+      "selidx": 0
+    },
+    {
+      "id": 5,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "アラハビーチＢ:三玖:四葉",
+      "texto_en": "Araha Beach B: Miku/Yotsuba",
+      "texto_ptbr": "Araha Beach B: Miku/Yotsuba",
+      "selidx": 1
+    },
+    {
+      "id": 6,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "アラハビーチＣ:五月:らいは",
+      "texto_en": "Araha Beach C: Itsuki/Raiha",
+      "texto_ptbr": "Araha Beach C: Itsuki/Raiha",
+      "selidx": 2
+    }
+  ]
+}

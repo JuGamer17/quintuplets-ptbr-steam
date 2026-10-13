@@ -1,0 +1,336 @@
+{
+  "arquivo": "ca04_09",
+  "total": 55,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Well then!\\nEven though we took a break,\\nlet's play around with what time's left!",
+      "texto_ptbr": "Muito bem!\nMesmo tendo descansado,\nvamos aproveitar o tempo que sobrou!"
+    },
+    {
+      "id": 1,
+      "personagem": "Ichika",
+      "texto_en": "If we keep up the pace,\\nwe'll use up all the time we recovered, you know?",
+      "texto_ptbr": "Se a gente continuar nesse ritmo,\nvai gastar todo o tempo que recuperamos, sabia?"
+    },
+    {
+      "id": 2,
+      "personagem": "Nino",
+      "texto_en": "Oh? Where's Itsuki?",
+      "texto_ptbr": "Ah? Cadê a Itsuki?"
+    },
+    {
+      "id": 3,
+      "personagem": "Miku",
+      "texto_en": "Over there.",
+      "texto_ptbr": "Ali."
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "Look, Raiha-chan,\\nI took a lot of cute pictures.",
+      "texto_ptbr": "Olha, Raiha-chan,\neu tirei um monte de fotos fofas."
+    },
+    {
+      "id": 5,
+      "personagem": "Raiha",
+      "texto_en": "Ah!\\nYou even took a picture of me falling!",
+      "texto_ptbr": "Ah!\nVocê até tirou uma foto de mim caindo!"
+    },
+    {
+      "id": 6,
+      "personagem": "Yotsuba",
+      "texto_en": "Itsuki, you're good at taking photos.\\nThis one is the best shot of the day!",
+      "texto_ptbr": "Itsuki, você é boa em tirar fotos.\nEssa aqui é a melhor foto do dia!"
+    },
+    {
+      "id": 7,
+      "personagem": "Raiha",
+      "texto_en": "No, you can't have that one.\\nI'm deleting it.",
+      "texto_ptbr": "Não, você não pode ficar com essa.\nVou apagar."
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "No way!!",
+      "texto_ptbr": "De jeito nenhum!!"
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "Hey, Yotsuba,\\nlet's put the viewing party on hold for now.\\nWe need you to decide what we're going to do next.",
+      "texto_ptbr": "Ei, Yotsuba,\nvamos deixar essa sessão de fotos pra depois.\nA gente precisa que você decida o que vamos fazer agora."
+    },
+    {
+      "id": 10,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, right!\\nSince everyone's here,\\nwhat should we do next...?",
+      "texto_ptbr": "Ah, é verdade!\nJá que todo mundo está aqui,\no que a gente faz agora...?"
+    },
+    {
+      "id": 11,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, Uesugi-san, what do you want to do?",
+      "texto_ptbr": "Ah, Uesugi-san, o que você quer fazer?"
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "I'm fine with anything.",
+      "texto_ptbr": "Tanto faz pra mim."
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun, that kind of attitude is NOT helpful, you know?\\nYou should think a little and decide with us.",
+      "texto_ptbr": "Fu-kun, essa atitude NÃO ajuda em nada, sabia?\nVocê devia pensar um pouco e decidir com a gente."
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Huh? Really?",
+      "texto_ptbr": "Hã? Sério?"
+    },
+    {
+      "id": 15,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, it's fine!\\nIf Uesugi-san is okay with anything,\\nthen let's decide on something ourselves.",
+      "texto_ptbr": "Ah, tudo bem!\nSe o Uesugi-san tá de boa com qualquer coisa,\nentão vamos decidir algo entre nós."
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "Eh.",
+      "texto_ptbr": "Ah."
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Okay, thanks.",
+      "texto_ptbr": "Certo, valeu."
+    },
+    {
+      "id": 18,
+      "personagem": "Nino",
+      "texto_en": "*sigh*",
+      "texto_ptbr": "*suspiro*"
+    },
+    {
+      "id": 19,
+      "personagem": "Ichika",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 20,
+      "personagem": "Yotsuba",
+      "texto_en": "Hmm, I wonder what sounds most fun.",
+      "texto_ptbr": "Hmm, será o que parece mais divertido."
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "Hey, Yotsuba. What about banana boating?",
+      "texto_ptbr": "Ei, Yotsuba. Que tal o barco banana?"
+    },
+    {
+      "id": 22,
+      "personagem": "Ichika",
+      "texto_en": "It's not too difficult\\nand we can ride together with Futaro-kun%p-2;――",
+      "texto_ptbr": "Não é muito difícil\ne a gente pode andar junto com o Futaro-kun%p-2;――"
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "Good idea, we could go banana boating!\\nThanks, Ichika!",
+      "texto_ptbr": "Boa ideia, podíamos ir de barco banana!\nValeu, Ichika!"
+    },
+    {
+      "id": 24,
+      "personagem": "Ichika",
+      "texto_en": "Not at all.",
+      "texto_ptbr": "Imagina."
+    },
+    {
+      "id": 25,
+      "personagem": "Yotsuba",
+      "texto_en": "There was a banana boat over there that I think\\neveryone could use.\\nLet's go for that!",
+      "texto_ptbr": "Tinha um barco banana ali que eu acho\nque dá pra todo mundo usar.\nVamos naquele!"
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "...Huh?",
+      "texto_ptbr": "...Hã?"
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, that sounds good.",
+      "texto_ptbr": "É, parece bom."
+    },
+    {
+      "id": 28,
+      "personagem": "Yotsuba",
+      "texto_en": "Okay, that's settled then.",
+      "texto_ptbr": "Certo, então tá decidido."
+    },
+    {
+      "id": 29,
+      "personagem": "Nino",
+      "texto_en": "Why don't you choose the two-seater option here,\\ninstead?",
+      "texto_ptbr": "Por que você não escolhe a opção de dois lugares,\nem vez disso?"
+    },
+    {
+      "id": 30,
+      "personagem": "Miku",
+      "texto_en": "Probably because it's not part of Yotsuba's plan.",
+      "texto_ptbr": "Provavelmente porque isso não faz parte do plano da Yotsuba."
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "What's wrong with you two?\\nDon't you like banana boating?",
+      "texto_ptbr": "O que foi com vocês duas?\nNão gostam de barco banana?"
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "It's not that we don't like it.",
+      "texto_ptbr": "Não é que a gente não goste."
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "I'm sure it'll be fun!\\nI'm excited because it's my first time!",
+      "texto_ptbr": "Tenho certeza que vai ser divertido!\nTô animado porque é minha primeira vez!"
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "New experiences have the potential to help you grow,\\nno matter who you are!",
+      "texto_ptbr": "Novas experiências têm o potencial de te fazer crescer,\nnão importa quem você seja!"
+    },
+    {
+      "id": 35,
+      "personagem": "Yotsuba",
+      "texto_en": "Mmm, as expected, Uesugi-san.\\nYou never lose your learning mindset,\\neven in times like this.",
+      "texto_ptbr": "Mmm, como esperado do Uesugi-san.\nVocê nunca perde essa mentalidade de aprendizado,\nnem mesmo em momentos assim."
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "That's right!\\nLet's go rent the boat already!",
+      "texto_ptbr": "Isso mesmo!\nVamos logo alugar o barco!"
+    },
+    {
+      "id": 37,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah!",
+      "texto_ptbr": "Isso!"
+    },
+    {
+      "id": 38,
+      "personagem": "Miku",
+      "texto_en": "I guess Futaro was supporting Yotsuba earlier,\\nwasn't he?",
+      "texto_ptbr": "Acho que o Futaro estava apoiando a Yotsuba mais cedo,\nnão estava?"
+    },
+    {
+      "id": 39,
+      "personagem": "Nino",
+      "texto_en": "Most likely.\\nFu-kun is capable of considering stuff like that...\\nbut I wish he would redirect his efforts elsewhere.",
+      "texto_ptbr": "Bem provável.\nO Fu-kun é capaz de pensar nesse tipo de coisa...\nmas eu queria que ele direcionasse esse esforço pra outro lugar."
+    },
+    {
+      "id": 40,
+      "personagem": "Ichika",
+      "texto_en": "Now listen up, Futaro-kun.\\nThere are different shapes of banana boats, you know.",
+      "texto_ptbr": "Agora escuta aqui, Futaro-kun.\nExistem vários formatos de barco banana, sabia."
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Oh, really? I thought they were just banana-shaped.",
+      "texto_ptbr": "Ah, é mesmo? Eu achava que eram só no formato de banana."
+    },
+    {
+      "id": 42,
+      "personagem": "Ichika",
+      "texto_en": "In other words, there are large ones for groups\\nand two-seaters as well. Do you understand?",
+      "texto_ptbr": "Ou seja, tem uns grandes pra grupos\ne também tem os de dois lugares. Entendeu?"
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "I do, but...",
+      "texto_ptbr": "Entendi, mas..."
+    },
+    {
+      "id": 44,
+      "personagem": "Itsuki",
+      "texto_en": "Ah! Yotsuba's back.",
+      "texto_ptbr": "Ah! A Yotsuba voltou."
+    },
+    {
+      "id": 45,
+      "personagem": "Yotsuba",
+      "texto_en": "Everyone, we got lucky!\\nWe reserved the big eight-seater!",
+      "texto_ptbr": "Gente, tivemos sorte!\nReservamos o grande de oito lugares!"
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Wow, then everyone can ride together!\\nNicely done, Yotsuba!",
+      "texto_ptbr": "Nossa, então todo mundo pode andar junto!\nMandou bem, Yotsuba!"
+    },
+    {
+      "id": 47,
+      "personagem": "Yotsuba",
+      "texto_en": "Ehehe, this must be the result of everyone's good deeds.",
+      "texto_ptbr": "Ehehe, isso deve ser o resultado das boas ações de todo mundo."
+    },
+    {
+      "id": 48,
+      "personagem": "Raiha",
+      "texto_en": "I wonder how many people\\nan eight-seater banana boat can accommodate.",
+      "texto_ptbr": "Será quantas pessoas\num barco banana de oito lugares aguenta."
+    },
+    {
+      "id": 49,
+      "personagem": "Itsuki",
+      "texto_en": "It might be too big. We might not be able\\nto finish eating it.",
+      "texto_ptbr": "Pode ser grande demais. Talvez a gente não consiga\nterminar de comer."
+    },
+    {
+      "id": 50,
+      "personagem": "Yotsuba",
+      "texto_en": "Then let's go check the size\\nof the eight-seater banana boat! Let's go!",
+      "texto_ptbr": "Então vamos conferir o tamanho\ndo barco banana de oito lugares! Vamos!"
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "Hey, hey, don't be so hasty.",
+      "texto_ptbr": "Ei, ei, não seja tão apressada."
+    },
+    {
+      "id": 52,
+      "personagem": "Ichika",
+      "texto_en": "Hmm, things aren't going as planned.",
+      "texto_ptbr": "Hmm, as coisas não estão saindo como planejado."
+    },
+    {
+      "id": 53,
+      "personagem": "Yotsuba",
+      "texto_en": "Come on, Ichika, you too! Hurry, hurry!",
+      "texto_ptbr": "Vamos, Ichika, você também! Rápido, rápido!"
+    },
+    {
+      "id": 54,
+      "personagem": "Ichika",
+      "texto_en": "Alright, alright.\\nI'm coming.",
+      "texto_ptbr": "Tá bom, tá bom.\nJá vou."
+    }
+  ]
+}

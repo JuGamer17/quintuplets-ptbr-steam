@@ -1,0 +1,75 @@
+{
+  "arquivo": "ca05_mv5_02",
+  "total": 7,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "フータローもそう思うよね？",
+      "texto_en": "Futaro, you feel the same way, right?",
+      "texto_ptbr": "Futaro, você sente o mesmo, né?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ノーコメントで",
+      "texto_en": "No comment.",
+      "texto_ptbr": "Sem comentários.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "予習をちゃんとしてる辺りだな",
+      "texto_en": "With how prepared she came?",
+      "texto_ptbr": "Pelo tanto que ela se preparou, né?",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "安心するよな",
+      "texto_en": "Oh yeah, very relieved.",
+      "texto_ptbr": "Dá uma tranquilidade, né.",
+      "selidx": 2
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "アラハビーチＡ:一花:二乃",
+      "texto_en": "Araha Beach A: Ichika/Nino",
+      "texto_ptbr": "Araha Beach A: Ichika/Nino",
+      "selidx": 0
+    },
+    {
+      "id": 5,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "アラハビーチＢ:三玖:四葉",
+      "texto_en": "Araha Beach B: Miku/Yotsuba",
+      "texto_ptbr": "Araha Beach B: Miku/Yotsuba",
+      "selidx": 1
+    },
+    {
+      "id": 6,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "アラハビーチＣ:五月:らいは",
+      "texto_en": "Araha Beach C: Itsuki/Raiha",
+      "texto_ptbr": "Araha Beach C: Itsuki/Raiha",
+      "selidx": 2
+    }
+  ]
+}

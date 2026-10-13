@@ -1,0 +1,324 @@
+{
+  "arquivo": "ca02_16",
+  "total": 53,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "Whoo! There are so many different shops!",
+      "texto_ptbr": "Uhuuu! Tem tantas lojas diferentes!"
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "The place is bustling with people, isn't it.",
+      "texto_ptbr": "O lugar está cheio de gente, né."
+    },
+    {
+      "id": 2,
+      "personagem": "Yotsuba",
+      "texto_en": "Just looking around gets me excited.\\nIt seems we could find anything here.\\nRight, Nino?",
+      "texto_ptbr": "Só de olhar já fico animada.\\nParece que dá pra encontrar qualquer coisa aqui.\\nNé, Nino?"
+    },
+    {
+      "id": 3,
+      "personagem": "Nino",
+      "texto_en": "Yeah.",
+      "texto_ptbr": "É."
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "What should we buy for Dad this time?\\nWe always buy sweets for him, right?",
+      "texto_ptbr": "O que a gente vai comprar pro Papai dessa vez?\\nA gente sempre compra doces pra ele, né?"
+    },
+    {
+      "id": 5,
+      "personagem": "Yotsuba",
+      "texto_en": "He's an adult, wouldn't alcohol be good too?\\nLook, they're selling Awamori.",
+      "texto_ptbr": "Ele é adulto, será que bebida não cairia bem também?\\nOlha, tem Awamori à venda."
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "Does Dad drink alcohol?\\nAt least I've never seen him do so.",
+      "texto_ptbr": "O Papai bebe?\\nPelo menos eu nunca vi ele beber."
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, right.\\nHmm, I don't see him eating sweets often either.",
+      "texto_ptbr": "Ah, é mesmo.\\nHmm, também não vejo ele comendo doces com frequência."
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "He's eaten sweets that you've made, Nino,\\nso I don't think he dislikes pastries,\\nright?",
+      "texto_ptbr": "Ele comeu os doces que você fez, Nino,\\nentão acho que ele não é contra confeitaria,\\nné?"
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "Yeah.",
+      "texto_ptbr": "É."
+    },
+    {
+      "id": 10,
+      "personagem": "Yotsuba",
+      "texto_en": "If we buy something he doesn't like, that'd be a shame,\\nso let's avoid food and beverages altogether.",
+      "texto_ptbr": "Se a gente comprar algo que ele não gosta, vai ser um desperdício,\\nentão vamos evitar comida e bebida no geral."
+    },
+    {
+      "id": 11,
+      "personagem": "Itsuki",
+      "texto_en": "In that case...",
+      "texto_ptbr": "Nesse caso..."
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, how about this paperweight over here?\\nIt seems like it could be useful for work.",
+      "texto_ptbr": "Ah, que tal esse peso de papel aqui?\\nParece que pode ser útil no trabalho."
+    },
+    {
+      "id": 13,
+      "personagem": "Yotsuba",
+      "texto_en": "Wow, it's in the shape of a shisa!\\nIt's great because it'll properly watch over Dad's work.",
+      "texto_ptbr": "Nossa, tem formato de shisa!\\nÉ ótimo porque vai zelar direitinho pelo trabalho do Papai."
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "What do you think, Nino?",
+      "texto_ptbr": "O que você acha, Nino?"
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "Oh, yeah, I think it's good.\\nIt's not something that would be troublesome to have.",
+      "texto_ptbr": "Ah, sim, acho boa ideia.\\nNão é algo que vai atrapalhar ter em casa."
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "Shall we decide on one out of these then?",
+      "texto_ptbr": "Então a gente escolhe um desses?"
+    },
+    {
+      "id": 17,
+      "personagem": "Yotsuba",
+      "texto_en": "Hmm, they come in a set of two, I wonder why?",
+      "texto_ptbr": "Hmm, vem em dupla, por que será?"
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "There's an explanation attached to one of them.\\nLet's see...",
+      "texto_ptbr": "Tem uma explicação presa em um deles.\\nVamos ver..."
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, shisa come in pairs.\\nThe one with an open mouth is male\\nand the one with a closed mouth is female.",
+      "texto_ptbr": "Ah, shisa vêm em pares.\\nO de boca aberta é o macho\\ne o de boca fechada é a fêmea."
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "Is that so?",
+      "texto_ptbr": "É mesmo?"
+    },
+    {
+      "id": 21,
+      "personagem": "Itsuki",
+      "texto_en": "The male protects the house from outside enemies,\\nwhile the female ensures that good luck\\ndoesn't leave the house%p-2;――%p; That's what it says.",
+      "texto_ptbr": "O macho protege a casa dos inimigos de fora,\\nenquanto a fêmea garante que a boa sorte\\nnão saia de casa%p-2;――%p; É o que diz aqui."
+    },
+    {
+      "id": 22,
+      "personagem": "Yotsuba",
+      "texto_en": "Wow, they'll protect the house as a team.\\nThen we should buy the set.",
+      "texto_ptbr": "Nossa, eles protegem a casa em equipe.\\nEntão a gente devia comprar o par."
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "Hmm...",
+      "texto_ptbr": "Hmm..."
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "What is...Dad's favorite color?",
+      "texto_ptbr": "Qual é... a cor favorita do Papai?"
+    },
+    {
+      "id": 25,
+      "personagem": "Yotsuba",
+      "texto_en": "I don't know. If he's going to use them at work,\\nthey should be of a simple color and not too flashy.",
+      "texto_ptbr": "Não sei. Se for usar no trabalho,\\ndevia ser uma cor simples e sem exagero."
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "*sigh*",
+      "texto_ptbr": "*suspiro*"
+    },
+    {
+      "id": 27,
+      "personagem": "Yotsuba",
+      "texto_en": "Hey, Nino are you okay?\\nYou've been spacing out since we arrived here.",
+      "texto_ptbr": "Ei, Nino, você tá bem?\\nVocê tá viajando desde que chegamos aqui."
+    },
+    {
+      "id": 28,
+      "personagem": "Nino",
+      "texto_en": "Ah...\\nSorry. I was just thinking about something else.",
+      "texto_ptbr": "Ah...\\nDesculpa. Estava pensando em outra coisa."
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "I bet you were thinking about Uesugi-kun, right?",
+      "texto_ptbr": "Aposto que estava pensando no Uesugi-kun, né?"
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "Well, you're not mistaken.",
+      "texto_ptbr": "Bem, você não está errada."
+    },
+    {
+      "id": 31,
+      "personagem": "Itsuki",
+      "texto_en": "He would have come if you had invited him, right?",
+      "texto_ptbr": "Ele teria vindo se você tivesse chamado, né?"
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "Well, I wonder.",
+      "texto_ptbr": "Bem, quem sabe."
+    },
+    {
+      "id": 33,
+      "personagem": "Itsuki",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 34,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahaha...\\nYou asked Uesugi-san what he was going to do,\\nbut he went quickly to his room.",
+      "texto_ptbr": "Ahaha...\\nVocê perguntou o que o Uesugi-san ia fazer,\\nmas ele foi logo pro quarto dele."
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "Yeah, that's true.\\nBut that's probably because he%p-2;――",
+      "texto_ptbr": "É, verdade.\\nMas isso provavelmente é porque ele%p-2;――"
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "Well, he doesn't understand the subtleties\\nof male-female relationship dynamics, right?",
+      "texto_ptbr": "Bem, ele não entende as sutilezas\\nda dinâmica de relacionamento entre homem e mulher, né?"
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "That could be it, but...\\nI feel like something was off about his behavior.",
+      "texto_ptbr": "Pode ser, mas...\\nSenti que tinha algo estranho no jeito dele agir."
+    },
+    {
+      "id": 38,
+      "personagem": "Nino",
+      "texto_en": "He seemed a bit distant since around noon, I guess?",
+      "texto_ptbr": "Ele pareceu um pouco distante mais ou menos desde o meio-dia, acho?"
+    },
+    {
+      "id": 39,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, now that you mention it.",
+      "texto_ptbr": "É, agora que você falou."
+    },
+    {
+      "id": 40,
+      "personagem": "Nino",
+      "texto_en": "Yeah, he was definitely weird, right?",
+      "texto_ptbr": "É, ele estava definitivamente estranho, né?"
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "Well, he did get a little quieter in the afternoon,\\nbut maybe he was just tired?",
+      "texto_ptbr": "Bem, ele ficou um pouco mais calado à tarde,\\nmas talvez fosse só cansaço?"
+    },
+    {
+      "id": 42,
+      "personagem": "Yotsuba",
+      "texto_en": "That might be the case%p-2;――",
+      "texto_ptbr": "Pode ser%p-2;――"
+    },
+    {
+      "id": 43,
+      "personagem": "Yotsuba",
+      "texto_en": "But, also... I felt like his reactions\\nto what Nino was saying\\nwere becoming less and less.",
+      "texto_ptbr": "Mas também... senti que as reações dele\\nao que a Nino dizia\\nficaram cada vez menores."
+    },
+    {
+      "id": 44,
+      "personagem": "Yotsuba",
+      "texto_en": "Maybe Ichika and Miku were teasing him too much and he\\nwanted to avoid her reactions.",
+      "texto_ptbr": "Talvez a Ichika e a Miku tenham gozado tanto com ele que ele\\nqueria evitar as reações delas."
+    },
+    {
+      "id": 45,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 46,
+      "personagem": "Nino",
+      "texto_en": "We've been together all day since morning,\\nbut nothing really happened, right?",
+      "texto_ptbr": "A gente ficou junto o dia todo desde de manhã,\\nmas não aconteceu nada fora do comum, né?"
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "I don't remember anything out of the ordinary\\nor anything that could cause a problem.",
+      "texto_ptbr": "Não me lembro de nada fora do comum\\nem nada que pudesse causar problema."
+    },
+    {
+      "id": 48,
+      "personagem": "Yotsuba",
+      "texto_en": "Anything out of the ordinary... Well, I guess\\nthe only thing was when Ichika's fans came up\\nto talk to her, but that doesn't involve Uesugi-san.",
+      "texto_ptbr": "Fora do comum... Bem, acho que\\na única coisa foi quando as fãs da Ichika chegaram\\npra falar com ela, mas isso não envolve o Uesugi-san."
+    },
+    {
+      "id": 49,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 50,
+      "personagem": "Nino",
+      "texto_en": "(I first thought something was off\\n right after Ichika's fans talked to her.\\n But what's the connection?)",
+      "texto_ptbr": "(Primeiro achei que tinha algo estranho\\n logo depois que as fãs da Ichika falaram com ela.\\n Mas qual é a ligação?)"
+    },
+    {
+      "id": 51,
+      "personagem": "Nino",
+      "texto_en": "(What's wrong, Futaro?\\n If there's something you're thinking about,\\n you can talk to me about it.)",
+      "texto_ptbr": "(O que foi, Fuutarou?\\n Se tem algo que está te preocupando,\\n pode falar comigo.)"
+    },
+    {
+      "id": 52,
+      "personagem": "Nino",
+      "texto_en": "(Could it be something \\n that you can't talk to me about?)",
+      "texto_ptbr": "(Será que é algo\\n que você não pode me contar?)"
+    }
+  ]
+}

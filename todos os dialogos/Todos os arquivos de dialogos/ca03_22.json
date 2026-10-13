@@ -1,0 +1,306 @@
+{
+  "arquivo": "ca03_22",
+  "total": 50,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Itsuki",
+      "texto_en": "I didn't expect everyone\\nto gather here again tonight...",
+      "texto_ptbr": "Eu não esperava que todo mundo\\nfosse se reunir aqui de novo hoje à noite..."
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "But we can't just leave Miku\\nand Fu-kun like that, can we?",
+      "texto_ptbr": "Mas a gente não pode simplesmente deixar a Miku\\ne o Fu-kun daquele jeito, pode?"
+    },
+    {
+      "id": 2,
+      "personagem": "Yotsuba",
+      "texto_en": "Even when we watched the sunset on the beach,\\nand during dinner, they were trying to act normal,\\nbut it was awkward...",
+      "texto_ptbr": "Mesmo quando a gente viu o pôr do sol na praia,\\ne durante o jantar, eles tentavam agir normal,\\nmas dava pra sentir o clima estranho..."
+    },
+    {
+      "id": 3,
+      "personagem": "Ichika",
+      "texto_en": "So, where are Miku and Futaro-kun?",
+      "texto_ptbr": "Então, onde estão a Miku e o Futaro-kun?"
+    },
+    {
+      "id": 4,
+      "personagem": "Nino",
+      "texto_en": "Miku is in her room.\\nShe's lying on her bed, hugging her pillow.",
+      "texto_ptbr": "A Miku está no quarto dela.\\nDeitada na cama, abraçada com o travesseiro."
+    },
+    {
+      "id": 5,
+      "personagem": "Yotsuba",
+      "texto_en": "And Raiha-chan is watching over Uesugi-san.",
+      "texto_ptbr": "E a Raiha-chan está de olho no Uesugi-san."
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "Okay, let's confirm first.\\nHave they reconciled in the first place%p-2;――",
+      "texto_ptbr": "Certo, primeiro vamos confirmar uma coisa.\\nEles chegaram a se reconciliar mesmo%p-2;――"
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "Well, they didn't really fight,\\nso it's strange to say they reconciled, but umm...",
+      "texto_ptbr": "Bom, na verdade eles nem brigaram,\\nentão é estranho dizer que se reconciliaram, mas, hum..."
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "Anyway, they seemed\\nto have reconciled at least once, right?",
+      "texto_ptbr": "Enfim, parece que eles\\nse entenderam pelo menos uma vez, certo?"
+    },
+    {
+      "id": 9,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah.\\nI heard from Uesugi-san that he carried out\\na plan to reconcile, and it went well.",
+      "texto_ptbr": "É.\\nO Uesugi-san me contou que ele colocou\\num plano em prática pra se reconciliar, e deu certo."
+    },
+    {
+      "id": 10,
+      "personagem": "Ichika",
+      "texto_en": "I see...",
+      "texto_ptbr": "Entendo..."
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun said he didn't know the reason\\nbehind Miku's attitude,\\nso how did they resolve it?",
+      "texto_ptbr": "O Fu-kun disse que não sabia o motivo\\npor trás da atitude da Miku,\\nentão como eles resolveram isso?"
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "I'm not sure about that.\\nBut I thought they talked it out\\nand came to an understanding.",
+      "texto_ptbr": "Não tenho certeza sobre isso.\\nMas achei que eles tinham conversado\\ne chegado a um entendimento."
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "...It seems that Miku has some reasons\\nfor not being able to be with Uesugi-kun,\\neven though she wants to be with him deep down.",
+      "texto_ptbr": "...Parece que a Miku tem algum motivo\\npara não conseguir ficar com o Uesugi-kun,\\nmesmo querendo ficar com ele no fundo do coração."
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "Yes, she said that.",
+      "texto_ptbr": "Sim, foi o que ela disse."
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "In the end, that issue hasn't been resolved,\\nis that right?",
+      "texto_ptbr": "No fim das contas, esse problema não foi resolvido,\\né isso?"
+    },
+    {
+      "id": 16,
+      "personagem": "Ichika",
+      "texto_en": "Well...\\nin any case, this can't continue as so.",
+      "texto_ptbr": "Bom...\\nde qualquer forma, isso não pode continuar assim."
+    },
+    {
+      "id": 17,
+      "personagem": "Ichika",
+      "texto_en": "If those two can't reconcile here and now,\\nI think it will continue to be like this even after the trip.",
+      "texto_ptbr": "Se esses dois não se resolverem aqui e agora,\\nacho que vai continuar assim mesmo depois da viagem."
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun will soon leave for Tokyo.\\nIf they're separated in that situation...",
+      "texto_ptbr": "O Uesugi-kun logo vai partir para Tóquio.\\nSe eles ficarem separados nessa situação..."
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "I know how strong Miku's feelings are for Uesugi-kun, but even so,\\nI don't think it will end well.",
+      "texto_ptbr": "Eu sei o quanto os sentimentos da Miku pelo Uesugi-kun são fortes, mas mesmo assim,\\nnão acho que isso vá acabar bem."
+    },
+    {
+      "id": 20,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah...",
+      "texto_ptbr": "É..."
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 22,
+      "personagem": "Ichika",
+      "texto_en": "I'm the same as Itsuki-chan.\\nSo%p-2;――",
+      "texto_ptbr": "Eu penso igual à Itsuki-chan.\\nEntão%p-2;――"
+    },
+    {
+      "id": 23,
+      "personagem": "Ichika",
+      "texto_en": "Even though it might be nosy of us,\\nwhat do you think about us helping them?",
+      "texto_ptbr": "Mesmo que seja intrometido da nossa parte,\\no que vocês acham de a gente ajudá-los?"
+    },
+    {
+      "id": 24,
+      "personagem": "Yotsuba",
+      "texto_en": "Let's do it!\\nI think Miku and Uesugi-san\\nare just a bit out of sync.",
+      "texto_ptbr": "Vamos fazer isso!\\nAcho que a Miku e o Uesugi-san\\nsó estão um pouco fora de sintonia."
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "Yes, that's right.\\nOut of sync.",
+      "texto_ptbr": "Sim, isso mesmo.\\nFora de sintonia."
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "In my opinion,\\nmaybe they're both misunderstanding each other,\\nand getting tangled up in a strange way.",
+      "texto_ptbr": "Na minha opinião,\\ntalvez os dois estejam se entendendo mal,\\ne se enrolando de um jeito estranho."
+    },
+    {
+      "id": 27,
+      "personagem": "Ichika",
+      "texto_en": "So, even though Futaro-kun tried to intervene,\\nit didn't come across well to Miku,\\nand may have even made the misunderstanding worse.",
+      "texto_ptbr": "Então, mesmo que o Futaro-kun tenha tentado intervir,\\nnão chegou direito pra Miku,\\ne pode até ter piorado o mal-entendido."
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "That's possible...\\nUesugi-kun does sometimes struggle\\nwith expressing himself.",
+      "texto_ptbr": "É possível...\\nO Uesugi-kun realmente tem dificuldade\\nde se expressar às vezes."
+    },
+    {
+      "id": 29,
+      "personagem": "Yotsuba",
+      "texto_en": "But on the other hand,\\nhe can also demonstrate things through his actions.",
+      "texto_ptbr": "Mas por outro lado,\\nele também consegue demonstrar coisas através das ações."
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "...Yes, that's true.\\nBut there are times when even that doesn't work out.",
+      "texto_ptbr": "...É, verdade.\\nMas tem hora que nem isso funciona."
+    },
+    {
+      "id": 31,
+      "personagem": "Ichika",
+      "texto_en": "This might be one of those times.",
+      "texto_ptbr": "Essa pode ser uma dessas horas."
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "Also, Miku is stubborn.\\nFu-kun is quite hard-headed as well.",
+      "texto_ptbr": "Além disso, a Miku é teimosa.\\nO Fu-kun também é bem cabeça-dura."
+    },
+    {
+      "id": 33,
+      "personagem": "Ichika",
+      "texto_en": "In that case, isn't this where we need to help them out?",
+      "texto_ptbr": "Nesse caso, não é justamente aqui que a gente precisa ajudar?"
+    },
+    {
+      "id": 34,
+      "personagem": "Nino",
+      "texto_en": "Sounds like a good idea. Let's do it.",
+      "texto_ptbr": "Parece uma boa ideia. Vamos fazer isso."
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 36,
+      "personagem": "Nino",
+      "texto_en": "What's with that face?",
+      "texto_ptbr": "Que cara é essa?"
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, no, it's just that yesterday\\nyou said you weren't really rooting for them,\\nso I was surprised.",
+      "texto_ptbr": "Ah, não, é que ontem\\nvocê disse que não estava torcendo tanto por eles,\\nentão eu me surpreendi."
+    },
+    {
+      "id": 38,
+      "personagem": "Ichika",
+      "texto_en": "That's true, yeah?",
+      "texto_ptbr": "É verdade, né?"
+    },
+    {
+      "id": 39,
+      "personagem": "Nino",
+      "texto_en": "...It's not like I want Miku to be unhappy.\\nAnd I don't want to see Fu-kun sad either.",
+      "texto_ptbr": "...Não é que eu queira que a Miku seja infeliz.\\nE eu também não quero ver o Fu-kun triste."
+    },
+    {
+      "id": 40,
+      "personagem": "Nino",
+      "texto_en": "But just remember, this is a one time thing.\\nIf I help and it's still not working out for you guys,\\nI will go ahead and steal Miku away from you.",
+      "texto_ptbr": "Mas fica sabendo que isso é coisa de uma vez só.\\nSe eu ajudar e mesmo assim não der certo pra vocês,\\neu vou roubar a Miku de você."
+    },
+    {
+      "id": 41,
+      "personagem": "Yotsuba",
+      "texto_en": "Ehehe...\\nNino, you sure are kind.",
+      "texto_ptbr": "Eheheh...\\nNino, você é bem gentil, hein."
+    },
+    {
+      "id": 42,
+      "personagem": "Nino",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 43,
+      "personagem": "Yotsuba",
+      "texto_en": "Let's do our best for Miku and Uesugi-san!",
+      "texto_ptbr": "Vamos dar o nosso melhor pela Miku e pelo Uesugi-san!"
+    },
+    {
+      "id": 44,
+      "personagem": "Nino",
+      "texto_en": "I said, it's not exactly for them...",
+      "texto_ptbr": "Eu disse que não é bem por eles..."
+    },
+    {
+      "id": 45,
+      "personagem": "Yotsuba",
+      "texto_en": "Then, who is it for?",
+      "texto_ptbr": "Então, por quem é?"
+    },
+    {
+      "id": 46,
+      "personagem": "Nino",
+      "texto_en": "It doesn't matter, does it?\\nGimme a break!",
+      "texto_ptbr": "Não importa, não é?\\nMe dá um tempo!"
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "Ultimately, Miku and Uesugi-kun\\nshould be the ones to resolve this,\\nbut we still need to help them.",
+      "texto_ptbr": "No fim das contas, a Miku e o Uesugi-kun\\nsão quem deveriam resolver isso,\\nmas mesmo assim precisamos ajudá-los."
+    },
+    {
+      "id": 48,
+      "personagem": "Itsuki",
+      "texto_en": "That being said, what should we do?",
+      "texto_ptbr": "Dito isso, o que devemos fazer?"
+    },
+    {
+      "id": 49,
+      "personagem": "Yotsuba",
+      "texto_en": "I think we should try to figure out why things've\\ngotten like this. Let's talk to Miku and Uesugi-san\\nand see what they have to say.",
+      "texto_ptbr": "Acho que devíamos tentar entender por que as coisas\\nficaram assim. Vamos falar com a Miku e o Uesugi-san\\ne ver o que eles têm a dizer."
+    }
+  ]
+}

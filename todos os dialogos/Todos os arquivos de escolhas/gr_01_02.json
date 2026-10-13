@@ -1,0 +1,45 @@
+{
+  "arquivo": "gr_01_02",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "となれば、どこがいいですかね？\\nせっかくですし遠くに行きましょう！",
+      "texto_en": "Then where should we go?\\nSince this is going to be our last high school trip,\\nlet's go as far away as possible!",
+      "texto_ptbr": "Então para onde vamos?\\nJá que vai ser a nossa última viagem do ensino médio,\\nvamos o mais longe possível!"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "近場でいいだろ",
+      "texto_en": "Nearby should be fine.",
+      "texto_ptbr": "Perto mesmo tá bom.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "おう、せっかくだしな",
+      "texto_en": "Yeah, since we're going anyway.",
+      "texto_ptbr": "É, já que é uma oportunidade.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "例えばどこだ？",
+      "texto_en": "For example, where do you suggest?",
+      "texto_ptbr": "Por exemplo, onde?",
+      "selidx": 2
+    }
+  ]
+}

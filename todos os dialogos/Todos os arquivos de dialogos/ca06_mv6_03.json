@@ -1,0 +1,270 @@
+{
+  "arquivo": "ca06_mv6_03",
+  "total": 44,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Itsuki",
+      "texto_en": "Hmm...",
+      "texto_ptbr": "Hmm..."
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "What's wrong? You look troubled.",
+      "texto_ptbr": "O que foi? Você parece incomodada."
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, Uesugi-kun!\\nPerfect timing.",
+      "texto_ptbr": "Ah, Uesugi-kun!\\nQue ótimo momento."
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "It's about the name of this park.\\nWhat is 'Kaiyohaku' referring to?",
+      "texto_ptbr": "É sobre o nome desse parque.\\nAo que 'Kaiyohaku' está se referindo?"
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "What, that's what was troubling you?",
+      "texto_ptbr": "O quê, era isso que estava te incomodando?"
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "I was looking at the map trying to decide where to go,\\nand I got curious.",
+      "texto_ptbr": "Eu estava olhando o mapa tentando decidir para onde ir,\\ne fiquei curiosa."
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "It's referring to the Okinawa International\\nOcean Expo. This park was built on the site\\nof the exposition, so they named it 'Kaiyohaku.'",
+      "texto_ptbr": "Está se referindo à Exposição Internacional\\nOceânica de Okinawa. Esse parque foi construído no local\\nda exposição, por isso batizaram de 'Kaiyohaku'."
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "Expo...\\nAh, exposition, exposition, right.",
+      "texto_ptbr": "Expo...\\nAh, exposição, exposição, certo."
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "(Her reaction seems like Yotsuba...)",
+      "texto_ptbr": "(A reação dela parece com a da Yotsuba...)"
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "...Do you not know what an exposition is?",
+      "texto_ptbr": "...Você não sabe o que é uma exposição?"
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "No, I just forgot for a moment.",
+      "texto_ptbr": "Não, só esqueci por um momento."
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "You know, like the 19th-century\\nParis Exposition they teach in world history?",
+      "texto_ptbr": "Sabe, tipo a Exposição de Paris\\ndo século 19 que ensinam em história mundial?"
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, yes! I remember that.",
+      "texto_ptbr": "Ah, sim! Eu me lembro disso."
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "I think, that was like an exhibition\\nwhere various countries\\nbring various things to showcase?",
+      "texto_ptbr": "Acho que era tipo uma exibição\\nonde vários países\\ntraziam várias coisas para mostrar?"
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "...Yeah, pretty much.\\nSo 'exposition' is another name to call the 'world's fair.'\\nIn other words%p-2;――",
+      "texto_ptbr": "...É, mais ou menos isso.\\nEntão 'exposição' é outro nome para a 'feira mundial'.\\nEm outras palavras%p-2;――"
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "Uh, Uesugi-kun?\\nLet's not talk about studying or anything\\nat times like this.",
+      "texto_ptbr": "Uh, Uesugi-kun?\\nNão vamos falar de estudo nem nada\\nem momentos como esse."
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "After all, this is our graduation trip.\\nLet's enjoy ourselves, and forget about studying!",
+      "texto_ptbr": "Afinal, essa é a nossa viagem de formatura.\\nVamos aproveitar, e esquecer os estudos!"
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Your university classes are starting soon,\\nare you okay with that?",
+      "texto_ptbr": "Suas aulas da faculdade estão começando logo,\\nvocê está bem com isso?"
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "Don't you worry about that.\\nI'll work hard to achieve my dream.",
+      "texto_ptbr": "Não se preocupa com isso.\\nVou me esforçar para alcançar meu sonho."
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "(...Is this Itsuki herself?\\n Yotsuba has also decided to go to university,\\n though...)",
+      "texto_ptbr": "(...Será essa a própria Itsuki?\\n A Yotsuba também decidiu ir para a faculdade,\\n mas mesmo assim...)"
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "...Hm? What's up?",
+      "texto_ptbr": "...Hm? O que foi?"
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun, do you think you'll be able \\nto give a proper answer?",
+      "texto_ptbr": "Uesugi-kun, você acha que vai conseguir \\ndar uma resposta de verdade?"
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "O-of course!",
+      "texto_ptbr": "C-claro que sim!"
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "...You've said you've made up your mind,\\nand I believe in those words.",
+      "texto_ptbr": "...Você disse que já tomou sua decisão,\\ne eu acredito nessas palavras."
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Yeah...",
+      "texto_ptbr": "É..."
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "Please, do your best...\\nIs it perhaps weird to say that?",
+      "texto_ptbr": "Por favor, faça o seu melhor...\\nSerá que é estranho dizer isso?"
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "The deadline is tomorrow evening.",
+      "texto_ptbr": "O prazo é amanhã à noite."
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "I'll give you a proper answer.\\nI'll definitely see through your disguises,\\nand win this game!",
+      "texto_ptbr": "Vou te dar uma resposta de verdade.\\nVou com certeza enxergar através dos seus disfarces,\\ne vencer esse jogo!"
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Hey, somethin'll work out.",
+      "texto_ptbr": "Ei, alguma coisa vai dar certo."
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "That's not a very reliable response.\\nAre you seriously considering it?",
+      "texto_ptbr": "Essa não é uma resposta muito confiável.\\nVocê está levando isso a sério mesmo?"
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Of course, but that's all I can say for now.\\nI'm not trying to show off.",
+      "texto_ptbr": "Claro que sim, mas é só isso que posso dizer por agora.\\nNão estou tentando me exibir."
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "I see.\\nWell, I'm relieved\\nthat you're at least somewhat positive.",
+      "texto_ptbr": "Entendi.\\nBem, fico aliviada\\nde ver que você está pelo menos um pouco positivo."
+    },
+    {
+      "id": 33,
+      "personagem": "Itsuki",
+      "texto_en": "The deadline is tomorrow evening.",
+      "texto_ptbr": "O prazo é amanhã à noite."
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "I'll give you a proper answer.\\nI'll definitely see through your disguises,\\nand win this game!",
+      "texto_ptbr": "Vou te dar uma resposta de verdade.\\nVou com certeza enxergar através dos seus disfarces,\\ne vencer esse jogo!"
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "I don't want to disappoint your expectations.",
+      "texto_ptbr": "Não quero decepcionar suas expectativas."
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "That isn't an answer, you know?",
+      "texto_ptbr": "Isso não é uma resposta, sabe?"
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "...You should understand what I mean.",
+      "texto_ptbr": "...Você deveria entender o que eu quero dizer."
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "Teehee, that's just like you.",
+      "texto_ptbr": "Teehee, isso é bem a sua cara."
+    },
+    {
+      "id": 39,
+      "personagem": "Itsuki",
+      "texto_en": "I understand.\\nEven if it's not an answer, it's enough.",
+      "texto_ptbr": "Entendo.\\nMesmo que não seja uma resposta, já é o suficiente."
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "The deadline is tomorrow evening.",
+      "texto_ptbr": "O prazo é amanhã à noite."
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "I'll give you a proper answer.\\nI'll definitely see through your disguises,\\nand win this game!",
+      "texto_ptbr": "Vou te dar uma resposta de verdade.\\nVou com certeza enxergar através dos seus disfarces,\\ne vencer esse jogo!"
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "Are things, really okay?",
+      "texto_ptbr": "As coisas estão, realmente bem?"
+    }
+  ]
+}

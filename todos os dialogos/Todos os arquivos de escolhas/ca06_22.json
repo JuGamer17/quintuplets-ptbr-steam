@@ -1,0 +1,55 @@
+{
+  "arquivo": "ca06_22",
+  "total": 5,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*map",
+      "texto_jp": "dummy",
+      "texto_en": "{UNTRANSLATED}dummy",
+      "texto_ptbr": "",
+      "selidx": 0
+    },
+    {
+      "id": 1,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "せっかくの沖縄旅行なんですから、\\n思い出作りも忘れず楽しみましょう。",
+      "texto_en": "We're on an Okinawa trip after all,\\nso let's not forget to have fun and make some memories.",
+      "texto_ptbr": "Afinal, estamos numa viagem a Okinawa,\\nentão não vamos esquecer de nos divertir e criar boas lembranças."
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "さすがに、そんな気分にはなれない",
+      "texto_en": "I just can't get into that kind of mood.",
+      "texto_ptbr": "Sinceramente, não consigo entrar nesse clima.",
+      "selidx": 0
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "それなりに作れてるだろ",
+      "texto_en": "We're making memories in our own way.",
+      "texto_ptbr": "Do nosso jeito, a gente tá criando memórias.",
+      "selidx": 1
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "そうだよな",
+      "texto_en": "That's true.",
+      "texto_ptbr": "É verdade.",
+      "selidx": 2
+    }
+  ]
+}

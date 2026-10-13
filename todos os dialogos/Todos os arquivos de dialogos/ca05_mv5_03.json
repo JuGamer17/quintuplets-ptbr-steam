@@ -1,0 +1,414 @@
+{
+  "arquivo": "ca05_mv5_03",
+  "total": 68,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Raiha",
+      "texto_en": "I had so much fun snorkeling! The fish were so cute.",
+      "texto_ptbr": "Eu me diverti muito fazendo snorkel! Os peixes eram tão fofos."
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "I didn't know the underwater world\\ncould be so beautiful either.",
+      "texto_ptbr": "Eu também não sabia que o mundo debaixo d'água\\npodia ser tão bonito."
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "What are you two talking about?",
+      "texto_ptbr": "Do que vocês duas estão falando?"
+    },
+    {
+      "id": 3,
+      "personagem": "Nino",
+      "texto_en": "Oh, Fu-kun.",
+      "texto_ptbr": "Ah, Fu-kun."
+    },
+    {
+      "id": 4,
+      "personagem": "Raiha",
+      "texto_en": "We're talking about\\nhow much fun snorkeling was.",
+      "texto_ptbr": "A gente está falando de\\ncomo o snorkel foi divertido."
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Oh yeah, I had a great time too.\\nI got to see a lot of fish up close.",
+      "texto_ptbr": "Ah é, eu também me diverti bastante.\\nConsegui ver vários peixes de perto."
+    },
+    {
+      "id": 6,
+      "personagem": "Raiha",
+      "texto_en": "Yeah! It was amazing!\\nIt felt like we were in a dream world!",
+      "texto_ptbr": "É! Foi incrível!\\nParecia que a gente estava num mundo de sonho!"
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "I see! If Raiha was that happy,\\nthen it was worth suggesting it!",
+      "texto_ptbr": "Entendi! Se a Raiha ficou tão feliz assim,\\nentão valeu a pena sugerir!"
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "You suggested it just for her, didn't you?",
+      "texto_ptbr": "Você sugeriu isso só por causa dela, não foi?"
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "Ooh...",
+      "texto_ptbr": "Ooh..."
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "I overheard you talking to Itsuki.\\nIt was for her, wasn't it?",
+      "texto_ptbr": "Eu ouvi você conversando com a Itsuki.\\nFoi por causa dela, não foi?"
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Well, yeah.",
+      "texto_ptbr": "Bom, é."
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "Teehee!\\nSorry, I was being mean.\\nI didn't mean it that way.",
+      "texto_ptbr": "Teehee!\\nDesculpa, eu estava sendo malvada.\\nNão quis dizer daquele jeito."
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "Don't give me such a negative look.\\nEveryone had a good time, including me.",
+      "texto_ptbr": "Não me olha assim com essa cara negativa.\\nTodo mundo se divertiu, inclusive eu."
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "I see. I'm glad, then.",
+      "texto_ptbr": "Entendi. Que bom, então."
+    },
+    {
+      "id": 15,
+      "personagem": "Raiha",
+      "texto_en": "Well, it's good that you're able to be\\nso considerate like this now, big bro...",
+      "texto_ptbr": "Bom, é bom que você consegue ser\\ntão atencioso assim agora, maninho..."
+    },
+    {
+      "id": 16,
+      "personagem": "Raiha",
+      "texto_en": "I can't believe how much you've grown\\nfrom how you used to be. It's a relief!",
+      "texto_ptbr": "Não acredito o quanto você amadureceu\\nem relação a como você era antes. Que alívio!"
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Th-that's enough about that.\\nSo, what were you guys doing?",
+      "texto_ptbr": "J-já chega disso.\\nEntão, o que vocês estavam fazendo?"
+    },
+    {
+      "id": 18,
+      "personagem": "Nino",
+      "texto_en": "We were checking out other activities we could do.",
+      "texto_ptbr": "A gente estava dando uma olhada em outras atividades que dá pra fazer."
+    },
+    {
+      "id": 19,
+      "personagem": "Raiha",
+      "texto_en": "Like, there's banana boat rides and all sorts of things.",
+      "texto_ptbr": "Tipo, tem passeio de banana boat e várias outras coisas."
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Wow, I see.\\nYou could stay here all day and not get bored.",
+      "texto_ptbr": "Nossa, entendi.\\nDá pra ficar aqui o dia todo sem enjoar."
+    },
+    {
+      "id": 21,
+      "personagem": "Raiha",
+      "texto_en": "Snorkeling was so much fun,\\nbut I'd like to try scuba diving next.",
+      "texto_ptbr": "O snorkel foi muito divertido,\\nmas eu queria tentar mergulho com cilindro da próxima vez."
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Scuba diving is more advanced,\\nso it might not be possible this time.",
+      "texto_ptbr": "Mergulho com cilindro é mais avançado,\\nentão talvez não dê pra fazer dessa vez."
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "But there are other interesting activities too.\\nLike a tour to an uninhabited island by sea kayak.",
+      "texto_ptbr": "Mas tem outras atividades interessantes também.\\nTipo um passeio até uma ilha desabitada de caiaque do mar."
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Oh, really? They have something like that, huh.",
+      "texto_ptbr": "Ah, sério? Eles têm uma coisa dessas, hein."
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "Yeah, but I guess it's already fully booked.",
+      "texto_ptbr": "É, mas acho que já está totalmente lotado."
+    },
+    {
+      "id": 26,
+      "personagem": "Raiha",
+      "texto_en": "What kind of activity is it?",
+      "texto_ptbr": "Que tipo de atividade é?"
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "Well, it seems like we can ride a sea kayak\\nand go to a nearby island.",
+      "texto_ptbr": "Bom, parece que dá pra andar de caiaque do mar\\ne ir até uma ilha próxima."
+    },
+    {
+      "id": 28,
+      "personagem": "Nino",
+      "texto_en": "We can also go into the limestone caves\\nalong the coast on the way.\\nSeems like there's a lot to do.",
+      "texto_ptbr": "Também dá pra entrar nas cavernas de calcário\\nao longo da costa no caminho.\\nParece que tem bastante coisa pra fazer."
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Entering the limestone caves? Sounds like an adventure!",
+      "texto_ptbr": "Entrar nas cavernas de calcário? Parece uma aventura!"
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "Yes, it sounds fun.\\nI would have liked to try it\\nif the reservations weren't already full.",
+      "texto_ptbr": "É, parece divertido.\\nEu teria gostado de tentar\\nse as reservas não estivessem cheias."
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "That's a bit surprising.\\nFor you to make that suggestion.",
+      "texto_ptbr": "Isso é meio surpreendente.\\nVocê fazer esse tipo de sugestão."
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "You don't get it, do you, Fu-kun.\\nIt's this kind of place.\\nYou have to enjoy it, or it's a waste.",
+      "texto_ptbr": "Você não entende, né, Fu-kun.\\nÉ esse tipo de lugar.\\nVocê tem que aproveitar, senão é desperdício."
+    },
+    {
+      "id": 33,
+      "personagem": "Nino",
+      "texto_en": "I fully enjoy anything that seems fun.\\nI never slack off in anything I do.",
+      "texto_ptbr": "Eu aproveito totalmente qualquer coisa que pareça divertida.\\nEu nunca relaxo em nada que faço."
+    },
+    {
+      "id": 34,
+      "personagem": "Raiha",
+      "texto_en": "Ah! Look, big bro.\\nThese kayaks are for two people.",
+      "texto_ptbr": "Ah! Olha, maninho.\\nEsses caiaques são para duas pessoas."
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "And?",
+      "texto_ptbr": "E?"
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "You like this kind of stuff too, right, Raiha?",
+      "texto_ptbr": "Você também gosta desse tipo de coisa, né, Raiha?"
+    },
+    {
+      "id": 37,
+      "personagem": "Raiha",
+      "texto_en": "Yeah, it sounds fun.\\nIt's an adventure, just as you said, big bro.",
+      "texto_ptbr": "É, parece divertido.\\nÉ uma aventura, igual você falou, maninho."
+    },
+    {
+      "id": 38,
+      "personagem": "Nino",
+      "texto_en": "Yotsuba also likes this kind of thing, doesn't she?",
+      "texto_ptbr": "A Yotsuba também gosta desse tipo de coisa, não é?"
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "I know.\\nHer kayak would probably move the fastest.",
+      "texto_ptbr": "Eu sei.\\nO caiaque dela provavelmente seria o mais rápido."
+    },
+    {
+      "id": 40,
+      "personagem": "Nino",
+      "texto_en": "Besides, she seems like she could paddle alone\\nand go faster.\\nIt might be dangerous to take her with us.",
+      "texto_ptbr": "Além disso, ela parece que conseguiria remar sozinha\\ne ir mais rápido.\\nPode ser perigoso levar ela com a gente."
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Haha, in a way, it might have been a good thing\\nthat the reservations were full.",
+      "texto_ptbr": "Haha, de certa forma, pode ter sido bom\\nas reservas estarem cheias."
+    },
+    {
+      "id": 42,
+      "personagem": "Raiha",
+      "texto_en": "Ah! Look, big bro.\\nThese kayaks are for two people.",
+      "texto_ptbr": "Ah! Olha, maninho.\\nEsses caiaques são para duas pessoas."
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "And?",
+      "texto_ptbr": "E?"
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "This gets me so pumped!\\nI'm going to see a sight I don't usually get to!",
+      "texto_ptbr": "Isso me deixa animado!\\nVou ver um cenário que eu não costumo ver!"
+    },
+    {
+      "id": 45,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun, you surprisingly like this kind of thing,\\ndon't you? Even though you're an indoor person.",
+      "texto_ptbr": "Fu-kun, surpreendentemente você gosta desse tipo de coisa,\\nnão gosta? Mesmo sendo uma pessoa caseira."
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "E-even indoor people yearn for romance,\\nyou know. Is that so bad?",
+      "texto_ptbr": "A-até pessoas caseiras anseiam por romance,\\nsabia. Isso é tão ruim assim?"
+    },
+    {
+      "id": 47,
+      "personagem": "Nino",
+      "texto_en": "I didn't say it was bad.\\nRomance is always the driving force that moves people.",
+      "texto_ptbr": "Eu não disse que era ruim.\\nRomance sempre é a força motriz que move as pessoas."
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "...Yeah, you're right.",
+      "texto_ptbr": "...É, você tem razão."
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "(When Nino says it, it sounds convincing...)",
+      "texto_ptbr": "(Quando é a Nino que fala, soa convincente...)"
+    },
+    {
+      "id": 50,
+      "personagem": "Raiha",
+      "texto_en": "Ah! Look, big bro.\\nThese kayaks are for two people.",
+      "texto_ptbr": "Ah! Olha, maninho.\\nEsses caiaques são para duas pessoas."
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "And?",
+      "texto_ptbr": "E?"
+    },
+    {
+      "id": 52,
+      "personagem": "Raiha",
+      "texto_en": "It's a chance for you to ride with Itsuki-san\\nand show off your cool paddling skills.",
+      "texto_ptbr": "É uma chance de você andar com a Itsuki-san\\ne mostrar suas habilidades legais de remar."
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, um... I wonder?",
+      "texto_ptbr": "É, hum... será?"
+    },
+    {
+      "id": 54,
+      "personagem": "Nino",
+      "texto_en": "Not suitable for you, Fu-kun.\\nThat won't make a good impression.",
+      "texto_ptbr": "Não combina com você, Fu-kun.\\nIsso não vai causar uma boa impressão."
+    },
+    {
+      "id": 55,
+      "personagem": "Nino",
+      "texto_en": "If you're unable to make it move forward\\nafter paddling and paddling,\\nyou won't be able to show your face in public.",
+      "texto_ptbr": "Se você não conseguir fazer ele avançar\\ndepois de remar e remar,\\nvocê não vai conseguir dar as caras em público."
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "Seriously...?\\nIf I can't make the kayak move,\\nthen she...",
+      "texto_ptbr": "Sério mesmo...?\\nSe eu não conseguir fazer o caiaque andar,\\naí ela..."
+    },
+    {
+      "id": 57,
+      "personagem": "Nino",
+      "texto_en": "Hey, wait a minute?\\nWhat did you just imagine right now?",
+      "texto_ptbr": "Ei, espera um minuto?\\nO que você acabou de imaginar agora?"
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "Ah...\\nWell...",
+      "texto_ptbr": "Ah...\\nBom..."
+    },
+    {
+      "id": 59,
+      "personagem": "Nino",
+      "texto_en": "Ugh, my LORD!\\nYou really have no subtlety! You're the worst!",
+      "texto_ptbr": "Ugh, minha nossa senhora!\\nVocê realmente não tem sutileza nenhuma! Você é o pior!"
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "I-I'm so sorry.",
+      "texto_ptbr": "D-desculpa mesmo."
+    },
+    {
+      "id": 61,
+      "personagem": "Nino",
+      "texto_en": "Listen, there are things that you can and can't\\nsay, even as a boyfriend. You'd best be careful, okay?",
+      "texto_ptbr": "Escuta, tem coisas que você pode e não pode\\nfalar, mesmo sendo namorado. É melhor você tomar cuidado, tá?"
+    },
+    {
+      "id": 62,
+      "personagem": "Nino",
+      "texto_en": "And before you talk about that to Itsuki,\\nyou should take care\\nof your own strength and physical stamina.",
+      "texto_ptbr": "E antes de falar isso com a Itsuki,\\nvocê devia cuidar\\nda sua própria força e resistência física."
+    },
+    {
+      "id": 63,
+      "personagem": "Nino",
+      "texto_en": "You can't even carry rice by yourself.\\nHow are you going to live alone?",
+      "texto_ptbr": "Você nem consegue carregar arroz sozinho.\\nComo você vai viver sozinho?"
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "...I'll just have it delivered.",
+      "texto_ptbr": "...Eu simplesmente vou pedir entrega."
+    },
+    {
+      "id": 65,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun?",
+      "texto_ptbr": "Fu-kun?"
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "I-it's nothing!\\nI'll think about my physical strength!",
+      "texto_ptbr": "N-não é nada!\\nVou pensar na minha força física!"
+    },
+    {
+      "id": 67,
+      "personagem": "Raiha",
+      "texto_en": "Be strong, big bro.",
+      "texto_ptbr": "Seja forte, maninho."
+    }
+  ]
+}

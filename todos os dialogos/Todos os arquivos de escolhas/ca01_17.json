@@ -1,0 +1,55 @@
+{
+  "arquivo": "ca01_17",
+  "total": 5,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*map",
+      "texto_jp": "dummy",
+      "texto_en": "{UNTRANSLATED}dummy",
+      "texto_ptbr": "",
+      "selidx": 0
+    },
+    {
+      "id": 1,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "えー？\\n私たちと連絡取るのにも便利だし、早く覚えなって。",
+      "texto_en": "Whaaat?\\nIt's convenient for us to keep in touch, \\nso hurry up and learn it already.",
+      "texto_ptbr": "Sério?!\\nFacilita muito pra gente se falar, \\nentão aprende logo."
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "面倒なんだよ",
+      "texto_en": "I just find it bothersome.",
+      "texto_ptbr": "É que dá trabalho.",
+      "selidx": 0
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "メールでいいんじゃないか？",
+      "texto_en": "Can't we just text?",
+      "texto_ptbr": "Não dá pra falar por mensagem?",
+      "selidx": 1
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "そのつもりではある",
+      "texto_en": "Well, that's the plan.",
+      "texto_ptbr": "Bom, essa é a ideia.",
+      "selidx": 2
+    }
+  ]
+}

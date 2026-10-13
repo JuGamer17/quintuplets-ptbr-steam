@@ -1,0 +1,126 @@
+{
+  "arquivo": "ca05_14",
+  "total": 20,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Raiha",
+      "texto_en": "Wow...!\\nIt's suddenly a sudden development!",
+      "texto_ptbr": "Uau...!\\nQue desenvolvimento repentino!"
+    },
+    {
+      "id": 1,
+      "personagem": "Yotsuba",
+      "texto_en": "This is QUITE an unexpected turn of events!",
+      "texto_ptbr": "Essa é uma reviravolta e tanto!"
+    },
+    {
+      "id": 2,
+      "personagem": "Miku",
+      "texto_en": "Quiet.\\nWe might get caught.",
+      "texto_ptbr": "Quieta.\\nA gente pode ser pega."
+    },
+    {
+      "id": 3,
+      "personagem": "Ichika",
+      "texto_en": "It's a good thing I turned off the sound on my phone.\\nWe were about to get caught.",
+      "texto_ptbr": "Ainda bem que desliguei o som do meu celular.\\nQuase fomos pegas."
+    },
+    {
+      "id": 4,
+      "personagem": "Ichika",
+      "texto_en": "By the way, a night walk, for just those two?\\nNot bad, Futaro-kun.",
+      "texto_ptbr": "Aliás, uma caminhada noturna, só os dois?\\nNada mal, Futaro-kun."
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "It's impressive that Fu-kun remembered\\nthe Umikaji Terrace event.\\nI wouldn't have thought that of him.",
+      "texto_ptbr": "É impressionante que o Fu-kun lembrou\\ndo evento no Umikaji Terrace.\\nEu não esperava isso dele."
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "Futaro has grown too.",
+      "texto_ptbr": "O Futaro também cresceu."
+    },
+    {
+      "id": 7,
+      "personagem": "Raiha",
+      "texto_en": "For sure, for sure.\\nMaybe he's not the same big bro\\nhe used to be.",
+      "texto_ptbr": "Com certeza, com certeza.\\nTalvez ele não seja mais o mesmo\\nmano de antes."
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "After all, he's actually going all out after saying he needed to take the lead. ",
+      "texto_ptbr": "Afinal, ele está mesmo dando tudo de si depois de dizer que precisava tomar a iniciativa. "
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "It's okay, it's just being a boy.",
+      "texto_ptbr": "Tudo bem, é só ele agindo como um garoto."
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "I'm not saying it's a bad thing, you know?\\nJust a little...",
+      "texto_ptbr": "Não estou dizendo que é ruim, viu?\\nSó um pouco..."
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "Worried?",
+      "texto_ptbr": "Preocupada?"
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "Well, you could say that.",
+      "texto_ptbr": "Bem, pode se dizer que sim."
+    },
+    {
+      "id": 13,
+      "personagem": "Miku",
+      "texto_en": "Worried about what?",
+      "texto_ptbr": "Preocupada com o quê?"
+    },
+    {
+      "id": 14,
+      "personagem": "Nino",
+      "texto_en": "Th-this and that!",
+      "texto_ptbr": "C-com isso e aquilo!"
+    },
+    {
+      "id": 15,
+      "personagem": "Miku",
+      "texto_en": "Hmm, this and that, eh.",
+      "texto_ptbr": "Hmm, isso e aquilo, né."
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "Nevermind me!\\nRight now, it's all about Itsuki and Fu-kun!",
+      "texto_ptbr": "Esquece isso!\\nAgora, o foco é a Itsuki e o Fu-kun!"
+    },
+    {
+      "id": 17,
+      "personagem": "Yotsuba",
+      "texto_en": "But, I think we shouldn't interfere\\nwith their time together this much, right?",
+      "texto_ptbr": "Mas, eu acho que não devíamos atrapalhar\\ntanto o tempo dos dois juntos, né?"
+    },
+    {
+      "id": 18,
+      "personagem": "Raiha",
+      "texto_en": "Yeah, we shouldn't ruin their time together.",
+      "texto_ptbr": "É, a gente não devia estragar o momento deles."
+    },
+    {
+      "id": 19,
+      "personagem": "Ichika",
+      "texto_en": "Let's leave it up to them then.\\nShall we go back to our rooms?",
+      "texto_ptbr": "Então vamos deixar por conta deles.\\nVamos voltar para os nossos quartos?"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca04_mv6_03",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "もしよければ、エメラルドビーチにしませんか？",
+      "texto_en": "If it's alright, how about we go to Emerald Beach?",
+      "texto_ptbr": "Se puder ser, que tal a gente ir pra Emerald Beach?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ビーチは充分見てないか？",
+      "texto_en": "Haven't gotten enough beaches yet, eh?",
+      "texto_ptbr": "Você ainda não viu praia suficiente?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "らいはもそれでいいか？",
+      "texto_en": "Raiha, you cool with that?",
+      "texto_ptbr": "Raiha, tá bom pra você também?",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "わかった、行こう",
+      "texto_en": "Got it, let's go.",
+      "texto_ptbr": "Entendi, vamos.",
+      "selidx": 2
+    }
+  ]
+}

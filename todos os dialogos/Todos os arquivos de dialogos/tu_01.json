@@ -1,0 +1,96 @@
+{
+  "arquivo": "tu_01",
+  "total": 15,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "",
+      "texto_en": "Would you like to view the game tutorial?",
+      "texto_ptbr": "Você gostaria de ver o tutorial do jogo?"
+    },
+    {
+      "id": 1,
+      "personagem": "Raiha",
+      "texto_en": "I'll explain how to play this game, big bro.",
+      "texto_ptbr": "Vou explicar como jogar, Onii-chan."
+    },
+    {
+      "id": 2,
+      "personagem": "Raiha",
+      "texto_en": "First, you'll have to choose\\nwho to confess to.",
+      "texto_ptbr": "Primeiro, você terá que escolher\\npara quem se confessar."
+    },
+    {
+      "id": 3,
+      "personagem": "Raiha",
+      "texto_en": "Your confession choice will greatly affect the story.",
+      "texto_ptbr": "A sua escolha de confissão vai afetar bastante a história."
+    },
+    {
+      "id": 4,
+      "personagem": "Raiha",
+      "texto_en": "Also, as the story progresses...",
+      "texto_ptbr": "Além disso, conforme a história avança..."
+    },
+    {
+      "id": 5,
+      "personagem": "Raiha",
+      "texto_en": "Your choices within will affect your 'Futaro Points.'",
+      "texto_ptbr": "Suas escolhas durante ela vão afetar seus 'Pontos do Fuutarou'."
+    },
+    {
+      "id": 6,
+      "personagem": "Raiha",
+      "texto_en": "Depending on how many 'Futaro Points' you have,\\nyou will either get\\nthe Good Ending or the Normal Ending.",
+      "texto_ptbr": "Dependendo de quantos 'Pontos do Fuutarou' você tiver,\\nvocê vai conseguir\\no Final Bom ou o Final Normal."
+    },
+    {
+      "id": 7,
+      "personagem": "Raiha",
+      "texto_en": "Ichika-san, Nino-san, Miku-san, Yotsuba-san,\\nand Itsuki-san.\\nAfter seeing all five endings...",
+      "texto_ptbr": "Ichika-san, Nino-san, Miku-san, Yotsuba-san\\ne Itsuki-san.\\nDepois de ver os cinco finais..."
+    },
+    {
+      "id": 8,
+      "personagem": "Raiha",
+      "texto_en": "You'll be able to choose one more route.",
+      "texto_ptbr": "Você poderá escolher mais uma rota."
+    },
+    {
+      "id": 9,
+      "personagem": "",
+      "texto_en": "(The type of ending doesn't matter.\\n By seeing either the Good or Normal Ending\\n for each quintuplet...)",
+      "texto_ptbr": "(O tipo de final não importa.\\n Ao ver o Final Bom ou o Final Normal\\n de cada quintupla...)"
+    },
+    {
+      "id": 10,
+      "personagem": "",
+      "texto_en": "(The 'All Route' will be unlocked.)",
+      "texto_ptbr": "(A 'Rota Todas' será desbloqueada.)"
+    },
+    {
+      "id": 11,
+      "personagem": "Raiha",
+      "texto_en": "You can save and load your progress\\nby opening the commands.",
+      "texto_ptbr": "Você pode salvar e carregar seu progresso\\nabrindo os comandos."
+    },
+    {
+      "id": 12,
+      "personagem": "Raiha",
+      "texto_en": "You can also view the manual, so make sure to study up.",
+      "texto_ptbr": "Você também pode ver o manual, então não deixe de estudar."
+    },
+    {
+      "id": 13,
+      "personagem": "Raiha",
+      "texto_en": "Big bro,\\nyou've decided on your answer, haven't you?",
+      "texto_ptbr": "Onii-chan,\\nvocê já decidiu a sua resposta, não é?"
+    },
+    {
+      "id": 14,
+      "personagem": "Raiha",
+      "texto_en": "No matter what the future holds,\\nI believe you can push through.\\nGood luck!",
+      "texto_ptbr": "Não importa o que o futuro reserve,\\neu acredito que você consegue superar.\\nBoa sorte!"
+    }
+  ]
+}

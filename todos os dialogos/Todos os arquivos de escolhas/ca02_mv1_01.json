@@ -1,0 +1,75 @@
+{
+  "arquivo": "ca02_mv1_01",
+  "total": 7,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "あはは！\\nさすが先生は褒め上手。\\n人の気分を乗せる方法を心得てますなぁ。",
+      "texto_en": "Ahaha!\\nAs usual, you're good at giving compliments, Sensei.\\nYou know how to lift people's mood.",
+      "texto_ptbr": "Ahaha!\\nComo sempre, você é bom em elogiar, Sensei.\\nVocê sabe como animar as pessoas."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "もう先生じゃないぞ",
+      "texto_en": "I'm not your teacher anymore.",
+      "texto_ptbr": "Eu não sou mais seu professor.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "まあ、密かな特技だ",
+      "texto_en": "Guess it's a secret talent of mine.",
+      "texto_ptbr": "Digamos que é um talento secreto meu.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "先生役はこりごりだ",
+      "texto_en": "I'm tired of being a teacher.",
+      "texto_ptbr": "Cansei de ser professor.",
+      "selidx": 2
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "サンセットビーチＡ:一花:五月",
+      "texto_en": "Sunset Beach A: Ichika/Raiha",
+      "texto_ptbr": "Sunset Beach A: Ichika/Itsuki",
+      "selidx": 0
+    },
+    {
+      "id": 5,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "サンセットビーチＢ:二乃:四葉",
+      "texto_en": "Sunset Beach B: Miku/Yotsuba",
+      "texto_ptbr": "Sunset Beach B: Nino/Yotsuba",
+      "selidx": 1
+    },
+    {
+      "id": 6,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "サンセットビーチＣ:三玖:らいは",
+      "texto_en": "Sunset Beach C: Nino/Itsuki",
+      "texto_ptbr": "Sunset Beach C: Miku/Raiha",
+      "selidx": 2
+    }
+  ]
+}

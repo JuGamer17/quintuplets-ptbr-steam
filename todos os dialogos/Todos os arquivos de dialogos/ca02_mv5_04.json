@@ -1,0 +1,288 @@
+{
+  "arquivo": "ca02_mv5_04",
+  "total": 47,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "The Ocean Culture Museum over there apparently has\\na Nautical Zone, Oceania Zone, and a Cultural Exchange\\nZone, where you can experience sea related history.",
+      "texto_ptbr": "Parece que o Museu de Cultura Oceânica ali tem\\numa Zona Náutica, Zona da Oceania e uma Zona\\nde Intercâmbio Cultural, onde dá pra conhecer\\na história relacionada ao mar."
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "There's also a planetarium, I think.",
+      "texto_ptbr": "Também tem um planetário, eu acho."
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, there is one. By the way,\\nthe starry sky in Okinawa should be quite different\\nfrom what you usually see.",
+      "texto_ptbr": "É, tem sim. Aliás,\\no céu estrelado em Okinawa deve ser bem diferente\\ndo que você costuma ver."
+    },
+    {
+      "id": 3,
+      "personagem": "Nino",
+      "texto_en": "I know that.\\nThis place is much further south than Honshu.",
+      "texto_ptbr": "Eu sei disso. Esse lugar é bem mais ao sul que Honshu."
+    },
+    {
+      "id": 4,
+      "personagem": "Nino",
+      "texto_en": "Speaking of which...\\nWhen you think of Okinawa, you'd think of the Southern Cross, \\nright?",
+      "texto_ptbr": "Por falar nisso...\\nQuando a gente pensa em Okinawa,\\npensa no Cruzeiro do Sul, né?"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Oh! You know your stuff.\\nYeah, around here, it should be barely visible\\nright near the horizon!",
+      "texto_ptbr": "Oh! Você manja do assunto.\\nÉ, por aqui, deve dar pra ver bem de leve\\nperto do horizonte!"
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "Huh? Barely visible?",
+      "texto_ptbr": "Hã? Bem de leve?"
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, the stars in the Southern Cross are\\nrepresentative stars of the southern hemisphere.\\nTo see it properly, you have to go further south.",
+      "texto_ptbr": "É, as estrelas do Cruzeiro do Sul são\\nestrelas representativas do hemisfério sul.\\nPra ver direito, você precisa ir mais pro sul."
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "Ok, I get it.\\nI thought you could normally see it in Okinawa.",
+      "texto_ptbr": "Ah, entendi. Eu achava que dava\\npra ver normalmente em Okinawa."
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "If you go further south, we're no longer in Japan.\\nLike in Hawaii?",
+      "texto_ptbr": "Se a gente for mais pro sul, já nem tá mais no Japão.\\nTipo no Havaí?"
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, in Hawaii, you can definitely see it.\\nI think you can also see it\\non some southern islands in Japan...",
+      "texto_ptbr": "É, no Havaí, com certeza dá pra ver.\\nAcho que também dá pra ver\\nem algumas ilhas do sul do Japão..."
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "Really?\\nWait a minute, let me look that up.",
+      "texto_ptbr": "Sério? Espera um pouco, deixa eu pesquisar isso."
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Ah, using your smartphone.\\nReally comes in handy in times like this.",
+      "texto_ptbr": "Ah, usando o celular.\\nRealmente é bem útil nessas horas."
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "Let's see, there's a remote island\\nin the southernmost part of Okinawa\\ncalled Hateruma Island, where you can see it.",
+      "texto_ptbr": "Vamos ver, tem uma ilha remota\\nna parte mais ao sul de Okinawa\\nchamada Ilha de Hateruma, onde dá pra ver."
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Oh, I see.",
+      "texto_ptbr": "Ah, entendi."
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "Places to see the cross are really limited in Japan.\\nGoing to the southernmost inhabited island\\nis quite a high hurdle.",
+      "texto_ptbr": "Os lugares pra ver o Cruzeiro são bem limitados no Japão.\\nIr até a ilha habitada mais ao sul\\né um obstáculo e tanto."
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Oh, by the way, there's also a constellation\\ncalled the False Cross\\nthat's often mistaken for the Southern Cross.",
+      "texto_ptbr": "Ah, aliás, também tem uma constelação\\nchamada Cruzeiro Falso\\nque costuma ser confundida com o Cruzeiro do Sul."
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "The False Cross? What a name.",
+      "texto_ptbr": "Cruzeiro Falso? Que nome."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "There's something romantic about remote islands and the \\nsouthernmost tip!",
+      "texto_ptbr": "Tem algo romântico em ilhas remotas\\ne no ponto mais ao sul!"
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "Yes, I can see why people love it.\\nIt has an adventurous feel to it.",
+      "texto_ptbr": "Sim, dá pra entender por que as pessoas amam isso.\\nTem uma sensação de aventura."
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "I heard there are tours to see the Southern Cross\\non Hateruma Island,\\nand there is a tower for stargazing too.",
+      "texto_ptbr": "Ouvi dizer que tem passeios pra ver o Cruzeiro do Sul\\nna Ilha de Hateruma,\\ne também tem uma torre pra observar as estrelas."
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Thought so, since the Southern Cross is a rare sight,\\nthe environment for observation must be well prepared.",
+      "texto_ptbr": "Imaginei, já que o Cruzeiro do Sul é raro de se ver,\\no ambiente pra observação deve ser bem preparado."
+    },
+    {
+      "id": 22,
+      "personagem": "Nino",
+      "texto_en": "We can't go this time, but someday,\\nit might be nice to go see the Southern Cross.",
+      "texto_ptbr": "Não dá pra ir dessa vez,\\nmas algum dia, seria legal ir ver o Cruzeiro do Sul."
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "What about you, Futaro?",
+      "texto_ptbr": "E você, Fuutarou?"
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "With you, you mean?",
+      "texto_ptbr": "Com você, quer dizer?"
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "Of course.\\nLet's go chase the romantic dream together.",
+      "texto_ptbr": "Claro. Vamos correr atrás desse sonho romântico juntos."
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "Well, I don't think that's a bad idea at all.",
+      "texto_ptbr": "Bom, eu não acho que seja uma ideia ruim, não."
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Oh, by the way, there's also a constellation\\ncalled the False Cross\\nthat's often mistaken for the Southern Cross.",
+      "texto_ptbr": "Ah, aliás, também tem uma constelação\\nchamada Cruzeiro Falso\\nque costuma ser confundida com o Cruzeiro do Sul."
+    },
+    {
+      "id": 28,
+      "personagem": "Nino",
+      "texto_en": "The False Cross? What a name.",
+      "texto_ptbr": "Cruzeiro Falso? Que nome."
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Stargazing would be nice.\\nI mean, going anywhere with you would be fun.",
+      "texto_ptbr": "Observar as estrelas seria legal.\\nQuer dizer, ir pra qualquer lugar com você seria divertido."
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "Huh...?",
+      "texto_ptbr": "Hã...?"
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Ah, well, I don't really know how you feel,\\nbut at least I feel that way.",
+      "texto_ptbr": "Ah, bem, eu não sei bem como você se sente,\\nmas pelo menos é assim que eu me sinto."
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "I-I feel the same!\\nObviously!",
+      "texto_ptbr": "E-eu sinto o mesmo! Óbvio!"
+    },
+    {
+      "id": 33,
+      "personagem": "Nino",
+      "texto_en": "However, Futaro, you said it so suddenly.\\nDon't...surprise me like that.",
+      "texto_ptbr": "Mas, Fuutarou, você falou isso do nada.\\nNão... me assusta desse jeito."
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Sorry.\\nTo be honest, I think I said something embarrassing\\nin the heat of the moment.",
+      "texto_ptbr": "Desculpa. Pra ser sincero,\\nacho que falei algo meio vergonhoso\\nno calor do momento."
+    },
+    {
+      "id": 35,
+      "personagem": "Nino",
+      "texto_en": "Hehe!\\nWell, then we're even.",
+      "texto_ptbr": "Hehe! Bom, então estamos quites."
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Oh, by the way, there's also a constellation\\ncalled the False Cross\\nthat's often mistaken for the Southern Cross.",
+      "texto_ptbr": "Ah, aliás, também tem uma constelação\\nchamada Cruzeiro Falso\\nque costuma ser confundida com o Cruzeiro do Sul."
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "The False Cross? What a name.",
+      "texto_ptbr": "Cruzeiro Falso? Que nome."
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "The original Southern Cross is small\\nand hard to distinguish. So many people mistake other\\nstars in a cross shape for the Southern Cross.",
+      "texto_ptbr": "O Cruzeiro do Sul original é pequeno\\ne difícil de distinguir.\\nPor isso muita gente confunde outras estrelas\\nem formato de cruz com o Cruzeiro do Sul."
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "And that's why they call it the False Cross.",
+      "texto_ptbr": "E é por isso que chamam de Cruzeiro Falso."
+    },
+    {
+      "id": 40,
+      "personagem": "Nino",
+      "texto_en": "My, my.\\nIt's a terrible thing to mistake something,\\nand THEN call it a fake.",
+      "texto_ptbr": "Nossa. Que coisa terrível,\\nconfundir algo e DEPOIS chamar de falso."
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Are you upset about something?",
+      "texto_ptbr": "Você tá chateada com alguma coisa?"
+    },
+    {
+      "id": 42,
+      "personagem": "Nino",
+      "texto_en": "I can understand how the accused stars feel.\\nAs quintuplets,\\nwe often get mistaken for each other.",
+      "texto_ptbr": "Eu entendo bem como as estrelas acusadas se sentem.\\nComo quintuplas, a gente sempre é confundida uma com a outra."
+    },
+    {
+      "id": 43,
+      "personagem": "Nino",
+      "texto_en": "It can't be helped,\\nbut sometimes people say unreasonable things.",
+      "texto_ptbr": "Não tem jeito, mas às vezes\\nas pessoas falam coisas sem sentido."
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "(Ahh...\\n Quintuplets have their own struggles, huh.)",
+      "texto_ptbr": "(Ahh... Quintuplas também têm suas dificuldades, hein.)"
+    },
+    {
+      "id": 45,
+      "personagem": "Nino",
+      "texto_en": "They shouldn't call it the False Cross.\\nWhy not give it a name instead?",
+      "texto_ptbr": "Não deviam chamar de Cruzeiro Falso.\\nPor que não dão um nome de verdade pra ele?"
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "The False Cross connects stars from\\nother constellations, so it might be difficult\\nto establish another name for it.",
+      "texto_ptbr": "O Cruzeiro Falso conecta estrelas de outras constelações,\\nentão deve ser difícil estabelecer outro nome pra ele."
+    }
+  ]
+}

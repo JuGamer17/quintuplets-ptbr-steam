@@ -1,0 +1,102 @@
+{
+  "arquivo": "ca05_23",
+  "total": 16,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Itsuki",
+      "texto_en": "How surprising.\\nIt really feels like we've wandered into a city abroad.",
+      "texto_ptbr": "Que surpresa.\\nParece mesmo que a gente entrou numa cidade estrangeira."
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, it lives up to its name.",
+      "texto_ptbr": "É, faz jus ao nome."
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Oh, there's a signpost.\\nLet's check where everything is located first.",
+      "texto_ptbr": "Ah, tem uma placa.\\nVamos ver onde tudo fica primeiro."
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "Let's see... It's very large, isn't it?",
+      "texto_ptbr": "Vejamos... É bem grande, não é?"
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "It's divided into several areas\\nand each area has its own shops.",
+      "texto_ptbr": "É dividido em várias áreas\\ne cada área tem suas próprias lojas."
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "If we try to visit them all,\\nwe'll be here until sunset.\\nWe need to narrow it down properly.",
+      "texto_ptbr": "Se a gente tentar visitar tudo,\\nvamos ficar aqui até o pôr do sol.\\nA gente precisa restringir bem as opções."
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "We don't have to go that far.\\nWe can just visit the places we want,\\nas we please. There's no one to argue with us anyway.",
+      "texto_ptbr": "Não precisa ir tão longe assim.\\nA gente pode só visitar os lugares que quiser,\\ndo jeito que der na telha. Não tem ninguém pra discordar de qualquer jeito."
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "As we please...",
+      "texto_ptbr": "Do jeito que der na telha..."
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "Yeah, usually it's tough to decide where to go\\nwhen everyone has different preferences, but%p-2;――",
+      "texto_ptbr": "É, normalmente é difícil decidir aonde ir\\nquando cada um tem uma preferência diferente, mas%p-2;――"
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "Today, it's just the two of us.",
+      "texto_ptbr": "Hoje, somos só nós dois."
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "That's right.",
+      "texto_ptbr": "Isso mesmo."
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Come to think of it,\\nwhere did they go?\\nAre they listening to us?",
+      "texto_ptbr": "Pensando bem,\\npra onde elas foram?\\nElas estão nos ouvindo?"
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "Now, I wonder where they are.",
+      "texto_ptbr": "Bem, eu me pergunto onde elas estão."
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "...What's with that mysterious tone?\\nAre you still up to something?",
+      "texto_ptbr": "...Que tom misterioso é esse?\\nVocê tá aprontando alguma coisa ainda?"
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "No, I really don't know.\\nI'm not up to anything.",
+      "texto_ptbr": "Não, eu realmente não sei.\\nNão tô aprontando nada."
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "Well then, let's go, Uesugi-kun.",
+      "texto_ptbr": "Bem então, vamos, Uesugi-kun."
+    }
+  ]
+}

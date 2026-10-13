@@ -1,0 +1,246 @@
+{
+  "arquivo": "ca02_09",
+  "total": 40,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Phew...\\nDinner's over, so all that's left is to go to bed.",
+      "texto_ptbr": "Ufa...\\nO jantar acabou, agora só falta dormir."
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(Since we arrived in Okinawa and started our sightseeing tour I \\n feel fulfilled. Visiting the power spots and experiencing the \\n exquisite Okinawan cuisine...)",
+      "texto_ptbr": "(Desde que chegamos em Okinawa e começamos o passeio turístico\\n me sinto realizado. Visitar os pontos de energia e experimentar\\n a culinária incrível de Okinawa...)"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "(I wonder if it's because I had a lot on my mind,\\n but my eyes feel unusually alert.\\n Will I be able to sleep at all?)",
+      "texto_ptbr": "(Será que é porque tenho muita coisa na cabeça,\\n mas meus olhos tão estranhamente despertos.\\n Será que vou conseguir dormir?)"
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Hm?",
+      "texto_ptbr": "Hm?"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "(Who is it?\\n Even though it's already time to sleep...)",
+      "texto_ptbr": "(Quem é?\\n Já tá na hora de dormir...)"
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Yes?",
+      "texto_ptbr": "Sim?"
+    },
+    {
+      "id": 7,
+      "personagem": "Nino",
+      "texto_en": "Good evening, Futaro.",
+      "texto_ptbr": "Boa noite, Futaro."
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Nino?!\\nIs something wrong? It's late.",
+      "texto_ptbr": "Nino?!\\nAconteceu alguma coisa? Tá tarde."
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "Well, um...\\nI came to say goodnight.",
+      "texto_ptbr": "Bem, é...\\nVim dar boa noite."
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "O-oh, right.\\nI see.",
+      "texto_ptbr": "A-ah, é.\\nEntendi."
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Nino?",
+      "texto_ptbr": "Nino?"
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "Well, I can't sleep.\\nAre you going to sleep, Futaro?",
+      "texto_ptbr": "É, não tô conseguindo dormir.\\nVocê vai dormir, Futaro?"
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "No, actually, I was also thinking\\nthat I'm strangely awake, and wouldn't\\nbe able to sleep. We're the same, hahaha...",
+      "texto_ptbr": "Não, na verdade eu também tava pensando\\nque tô estranhamente acordado e não\\nconseguiria dormir. A gente tá igual, hahaha..."
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "(Now this situation is strange. Nino wants to say something,\\n and it's just the two of us right now. This is bad...)",
+      "texto_ptbr": "(Essa situação tá estranha. A Nino quer falar alguma coisa,\\n e só tem nós dois aqui agora. Isso é ruim...)"
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "(She said she came to say goodnight,\\n so it's already over, right?)",
+      "texto_ptbr": "(Ela disse que veio dar boa noite,\\n então já acabou, né?)"
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "(Is it possible...that she wants to spend the night with me?!)",
+      "texto_ptbr": "(Será que...ela quer passar a noite comigo?!)"
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "(No, no! That's not allowed!\\n We're still minors, and if our parents find out,\\n it'll be a huge problem!!)",
+      "texto_ptbr": "(Não, não! Isso não pode!\\n A gente ainda é menor de idade, e se nossos pais descobrirem,\\n vai ser uma confusão enorme!!)"
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "H-hey?",
+      "texto_ptbr": "E-ei?"
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "What is it...?",
+      "texto_ptbr": "O que foi...?"
+    },
+    {
+      "id": 22,
+      "personagem": "Nino",
+      "texto_en": "Futaro...do you wanna be with me?",
+      "texto_ptbr": "Futaro...você quer ficar comigo?"
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "WHA%p-2;――%p;?!",
+      "texto_ptbr": "CO%p-2;――%p;?!"
+    },
+    {
+      "id": 24,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "(Be with her... Does she mean...?)",
+      "texto_ptbr": "(Ficar com ela... Ela tá querendo dizer...?)"
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "W-wait, Nino.\\nI do want to be with you, but, um...",
+      "texto_ptbr": "E-espera, Nino.\\nEu quero ficar com você sim, mas, é..."
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "I'm glad. I was a little worried\\nthat maybe I was the only one who felt that way.",
+      "texto_ptbr": "Que bom. Tava um pouco preocupada\\nque talvez só eu sentisse isso."
+    },
+    {
+      "id": 28,
+      "personagem": "Nino",
+      "texto_en": "Th-then... I...",
+      "texto_ptbr": "E-então... Eu..."
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "(What kind of choice am I being forced to make?\\n Is my rationality being tested?)",
+      "texto_ptbr": "(Que tipo de escolha eu tô sendo forçado a fazer?\\n Minha racionalidade tá sendo testada?)"
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "(But still! I can't bring Nino back to my room\\n this late at night!)",
+      "texto_ptbr": "(Mas mesmo assim! Não posso levar a Nino pro meu quarto\\n assim tão tarde da noite!)"
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "Futaro?",
+      "texto_ptbr": "Futaro?"
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Nino, you should probably go back to your room soon.\\nIchika's got to be worried about you.",
+      "texto_ptbr": "Nino, você devia voltar pro seu quarto logo.\\nA Ichika deve tá preocupada com você."
+    },
+    {
+      "id": 34,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 35,
+      "personagem": "Nino",
+      "texto_en": "Yeah, I should head back now.",
+      "texto_ptbr": "É, melhor voltar agora."
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "See you tomorrow. Goodnight.",
+      "texto_ptbr": "Até amanhã. Boa noite."
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "Goodnight, Futaro.",
+      "texto_ptbr": "Boa noite, Futaro."
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "Holy moly...\\nHer actions take a toll on my heart...",
+      "texto_ptbr": "Meu Deus...\\nAs atitudes dela me destroem o coração..."
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "(Honestly, I like her!\\n But I'm not sure my heart can take it!)",
+      "texto_ptbr": "(Sinceramente, gosto dela!\\n Mas não sei se meu coração aguenta!)"
+    }
+  ]
+}

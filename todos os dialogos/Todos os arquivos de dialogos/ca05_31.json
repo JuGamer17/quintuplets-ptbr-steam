@@ -1,0 +1,408 @@
+{
+  "arquivo": "ca05_31",
+  "total": 67,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Itsuki",
+      "texto_en": "We've arrived. This is it.",
+      "texto_ptbr": "Chegamos. É aqui."
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Wow...\\nIt's already so beautiful,\\neven though the sun isn't fully set yet.",
+      "texto_ptbr": "Nossa...\\nJá está tão bonito,\\nmesmo o sol ainda não tendo se posto de vez."
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, the view will get even more beautiful.",
+      "texto_ptbr": "Sim, a vista vai ficar ainda mais bonita."
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "As expected, it's been named 'Sunset Beach' for a reason.",
+      "texto_ptbr": "Como esperado, não chamaram de 'Sunset Beach' à toa."
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "Let's move to a better viewing spot now,\\nso we don't miss the moment the sun sets.",
+      "texto_ptbr": "Vamos pra um lugar melhor pra assistir agora,\\npra não perdermos o momento em que o sol se põe."
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Ah, right%p-2;――",
+      "texto_ptbr": "Ah, certo%p-2;――"
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "Eeeep!",
+      "texto_ptbr": "Eeeep!"
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Woah!",
+      "texto_ptbr": "Woah!"
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "You alright?",
+      "texto_ptbr": "Você está bem?"
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "Sorry, I was lost in the sunset,\\nand wasn't paying attention to where I was stepping.",
+      "texto_ptbr": "Desculpa, eu estava perdida no pôr do sol,\\ne não estava prestando atenção onde estava pisando."
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "...Then, should we do this?",
+      "texto_ptbr": "...Então, vamos fazer assim?"
+    },
+    {
+      "id": 11,
+      "personagem": "Itsuki",
+      "texto_en": "Ah...",
+      "texto_ptbr": "Ah..."
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Is this okay?\\nMaybe holding hands to avoid falling seems childish.",
+      "texto_ptbr": "Tá bom assim?\\nTalvez dar as mãos pra evitar cair pareça meio infantil."
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "No...\\nEven if you're not a child, you can sometimes risk falling. ",
+      "texto_ptbr": "Não...\\nMesmo não sendo criança, às vezes a gente corre o risco de cair."
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "I'll support you too, if you need it.",
+      "texto_ptbr": "Eu te apoio também, se você precisar."
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "Sure, thank you.",
+      "texto_ptbr": "Beleza, obrigado."
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "(...Holding hands is so easy.\\n And yet, I couldn't have imagined doing this on the first day.)",
+      "texto_ptbr": "(...Dar as mãos é tão fácil.\\n E ainda assim, eu não conseguiria imaginar fazendo isso no primeiro dia.)"
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "(No, it's not just easy.\\n Our relationship has become something more.)",
+      "texto_ptbr": "(Não, não é só fácil.\\n Nosso relacionamento se tornou algo a mais.)"
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "From here, the sunset is clearly visible.",
+      "texto_ptbr": "Daqui, o pôr do sol fica bem visível."
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "Yeah...",
+      "texto_ptbr": "É..."
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "(The slowly moving sun, the sky tinted with crimson.\\n It seems like I can even hear the sound of the waves\\n from further away than usual%p-2;――%p;)",
+      "texto_ptbr": "(O sol se movendo devagar, o céu tingido de carmesim.\\n Parece que eu consigo até ouvir o som das ondas\\n vindo de mais longe do que o normal%p-2;――%p;)"
+    },
+    {
+      "id": 21,
+      "personagem": "Itsuki",
+      "texto_en": "The evening twilight is so enchanting, isn't it?",
+      "texto_ptbr": "O crepúsculo da noite é tão encantador, não é?"
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "I didn't know it could be like this.\\nEven though the night sky can be seen from anywhere,\\nif you just look up at the right time, there it is.",
+      "texto_ptbr": "Eu não sabia que podia ser assim.\\nMesmo o céu noturno podendo ser visto de qualquer lugar,\\nse você só olhar pra cima na hora certa, lá está ele."
+    },
+    {
+      "id": 23,
+      "personagem": "Itsuki",
+      "texto_en": "Perhaps it's because the sun\\nsinks down towards the horizon.",
+      "texto_ptbr": "Talvez seja porque o sol\\nafunda em direção ao horizonte."
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "That's right. In our city,\\nit's often hidden behind buildings and isn't visible.",
+      "texto_ptbr": "Isso mesmo. Na nossa cidade,\\nele geralmente fica escondido atrás dos prédios e não dá pra ver."
+    },
+    {
+      "id": 25,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, I don't know what to say...",
+      "texto_ptbr": "Sim, eu não sei nem o que dizer..."
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "I knew it, but I didn't really know.\\nThat the sun hides behind the earth like this.",
+      "texto_ptbr": "Eu sabia disso, mas não sabia mesmo.\\nQue o sol se esconde atrás da terra desse jeito."
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "However, it will rise up into the sky again tomorrow.\\nIt's an event that repeats itself every day,\\nand it's not a special one.",
+      "texto_ptbr": "Mas ele vai subir de novo ao céu amanhã.\\nÉ um evento que se repete todo dia,\\ne não é nada especial."
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "But%p-2;――",
+      "texto_ptbr": "Mas%p-2;――"
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "For us, it's a special view\\nthat we were able to see because we came here.",
+      "texto_ptbr": "Pra gente, é uma vista especial\\nque a gente conseguiu ver porque viemos até aqui."
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "Special, huh.",
+      "texto_ptbr": "Especial, hein."
+    },
+    {
+      "id": 31,
+      "personagem": "Itsuki",
+      "texto_en": "This sunset, and that stained glass.\\nTo me, everything is something special.",
+      "texto_ptbr": "Esse pôr do sol, e aquele vitral.\\nPra mim, tudo isso é algo especial."
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Even for me, this journey has all been special.\\nThe time spent with you,\\nand spending it with everyone else.",
+      "texto_ptbr": "Pra mim também, essa viagem inteira foi especial.\\nO tempo que passei com você,\\ne passar com todo mundo também."
+    },
+    {
+      "id": 33,
+      "personagem": "Itsuki",
+      "texto_en": "Yes...\\nAt first, things didn't go smoothly, but%p-2;――",
+      "texto_ptbr": "Sim...\\nNo começo, as coisas não foram bem, mas%p-2;――"
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "I made a lot of memories with you\\nand with everyone else,\\nand it turned out to be the best trip.",
+      "texto_ptbr": "Eu criei muitas lembranças com você\\ne com todo mundo,\\ne acabou sendo a melhor viagem."
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Yeah.\\nI'll never forget it. It's a trip\\nthat will remain in my memory for a lifetime.",
+      "texto_ptbr": "É.\\nEu nunca vou esquecer. É uma viagem\\nque vai ficar na minha memória pra sempre."
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "(Even when I become an adult,\\n I'll remember this sunset\\n and the sea I saw with Itsuki...)",
+      "texto_ptbr": "(Mesmo quando eu me tornar adulto,\\n eu vou lembrar desse pôr do sol\\n e do mar que eu vi com a Itsuki...)"
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "...Uesugi-kun.",
+      "texto_ptbr": "...Uesugi-kun."
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "What is it?",
+      "texto_ptbr": "O que foi?"
+    },
+    {
+      "id": 39,
+      "personagem": "Itsuki",
+      "texto_en": "I'm really glad I met you.",
+      "texto_ptbr": "Eu fico muito feliz de ter te conhecido."
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "!...",
+      "texto_ptbr": "!..."
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "During this trip,\\nbeing closer to you than ever before,\\nI felt your presence even more deeply%p-2;――",
+      "texto_ptbr": "Durante essa viagem,\\nestando mais perto de você do que nunca,\\neu senti a sua presença ainda mais profundamente%p-2;――"
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "Being able to be by your side,\\nalone, makes me incredibly happy.",
+      "texto_ptbr": "Poder estar do seu lado,\\nsó nós dois, me deixa incrivelmente feliz."
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "Itsuki...",
+      "texto_ptbr": "Itsuki..."
+    },
+    {
+      "id": 44,
+      "personagem": "Itsuki",
+      "texto_en": "...Futaro.",
+      "texto_ptbr": "...Futaro."
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "...Can I kiss you?",
+      "texto_ptbr": "...Posso te beijar?"
+    },
+    {
+      "id": 46,
+      "personagem": "Itsuki",
+      "texto_en": "!...",
+      "texto_ptbr": "!..."
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "Yes...",
+      "texto_ptbr": "Sim..."
+    },
+    {
+      "id": 48,
+      "personagem": "Itsuki",
+      "texto_en": "Nnn...",
+      "texto_ptbr": "Nnn..."
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "(What is this feeling?\\n It's like my emotions\\n are connected with Itsuki's right now.)",
+      "texto_ptbr": "(Que sentimento é esse?\\n Parece que as minhas emoções\\n estão conectadas com as da Itsuki agora.)"
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "(It's different from when we were at Umikaji Terrace.\\n It feels like our feelings have become one%p-2;――%p;)",
+      "texto_ptbr": "(É diferente de quando a gente estava no Umikaji Terrace.\\n Parece que os nossos sentimentos se tornaram um só%p-2;――%p;)"
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "...Itsuki?",
+      "texto_ptbr": "...Itsuki?"
+    },
+    {
+      "id": 54,
+      "personagem": "Itsuki",
+      "texto_en": "~~~~~!!",
+      "texto_ptbr": "~~~~~!!"
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "WOAH!",
+      "texto_ptbr": "WOAH!"
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "Itsuki? What's wrong?",
+      "texto_ptbr": "Itsuki? O que foi?"
+    },
+    {
+      "id": 57,
+      "personagem": "Itsuki",
+      "texto_en": "When I looked into your eyes earlier,\\nI wanted you to kiss me...",
+      "texto_ptbr": "Quando eu olhei nos seus olhos agora há pouco,\\neu queria que você me beijasse..."
+    },
+    {
+      "id": 58,
+      "personagem": "Itsuki",
+      "texto_en": "But, as if my feelings\\nwere conveyed to you, you said it first!",
+      "texto_ptbr": "Mas, como se os meus sentimentos\\ntivessem sido transmitidos pra você, você falou primeiro!"
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "Same here. I feel like our feelings are connected.",
+      "texto_ptbr": "Mesma coisa aqui. Sinto que os nossos sentimentos estão conectados."
+    },
+    {
+      "id": 60,
+      "personagem": "Itsuki",
+      "texto_en": "It's like a miracle.",
+      "texto_ptbr": "É tipo um milagre."
+    },
+    {
+      "id": 61,
+      "personagem": "Itsuki",
+      "texto_en": "We saw the same scenery, and we feel the same way...\\nEven without words, we can share our feelings.",
+      "texto_ptbr": "A gente viu a mesma paisagem, e sente a mesma coisa...\\nMesmo sem palavras, a gente consegue compartilhar nossos sentimentos."
+    },
+    {
+      "id": 62,
+      "personagem": "Itsuki",
+      "texto_en": "I finally understand.\\nThis feeling is love, isn't it.",
+      "texto_ptbr": "Eu finalmente entendo.\\nEsse sentimento é amor, não é."
+    },
+    {
+      "id": 63,
+      "personagem": "Itsuki",
+      "texto_en": "I made mistakes and took detours,\\nbut these feelings%p-2;――%p; are truly mine.",
+      "texto_ptbr": "Eu cometi erros e dei voltas,\\nmas esses sentimentos%p-2;――%p; são verdadeiramente meus."
+    },
+    {
+      "id": 64,
+      "personagem": "Itsuki",
+      "texto_en": "I love you.\\nI've fallen in love with you.",
+      "texto_ptbr": "Eu te amo.\\nEu me apaixonei por você."
+    },
+    {
+      "id": 65,
+      "personagem": "Itsuki",
+      "texto_en": "So, let's stay together...\\nforever, Futaro.",
+      "texto_ptbr": "Então, vamos ficar juntos...\\npara sempre, Futaro."
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "Yes. Let's be together forever, Itsuki.",
+      "texto_ptbr": "Sim. Vamos ficar juntos para sempre, Itsuki."
+    }
+  ]
+}

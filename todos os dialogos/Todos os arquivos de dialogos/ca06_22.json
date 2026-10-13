@@ -1,0 +1,408 @@
+{
+  "arquivo": "ca06_22",
+  "total": 67,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(We arrived at the Okinawa Churaumi Aquarium\\n at Ocean Expo Park,\\n and decided to start by looking around the area first.)",
+      "texto_ptbr": "(Chegamos ao Aquário Churaumi de Okinawa\\n no Ocean Expo Park,\\n e decidimos começar dando uma olhada pela área primeiro.)"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(So far, on the way here, I haven't been able to gain \\n any more information that would help clue me in...)",
+      "texto_ptbr": "(Até agora, no caminho pra cá, não consegui obter \\n nenhuma informação a mais que me desse uma pista...)"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(They can get overly excited while sightseeing \\n and could potentially reveal their true selves.\\n Alright, this is where it gets interesting!)",
+      "texto_ptbr": "(Elas podem ficar animadas demais durante o passeio \\n e acabar revelando quem realmente são.\\n Certo, é aqui que fica interessante!)"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Ohhh! I knew it was big,\\nbut isn't it amazing to see it in person?!",
+      "texto_ptbr": "Ohhh! Eu sabia que era grande,\\nmas não é incrível ver isso pessoalmente?!"
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "Really, it's larger than I thought!",
+      "texto_ptbr": "É verdade, é maior do que eu imaginava!"
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "This is beyond what I imagined.\\nIt feels like we're really underwater.",
+      "texto_ptbr": "Isso é além do que eu imaginei.\\nParece que a gente tá mesmo debaixo d'água."
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "I-it's almost a little scary, isn't it...",
+      "texto_ptbr": "É-é quase um pouco assustador, não é..."
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "That big shadow!\\nCould that be a whale shark?!?!",
+      "texto_ptbr": "Aquela sombra grande!\\nSerá que é um tubarão-baleia?!?!"
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "It's not just a whale shark.\\nLook, there's also a giant manta ray\\nswimming over there.",
+      "texto_ptbr": "Não é só um tubarão-baleia.\\nOlha, também tem uma arraia-manta gigante\\nnadando ali."
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "To be able to see such huge living creatures\\nup close like this...!",
+      "texto_ptbr": "Poder ver criaturas vivas tão enormes\\nde tão perto assim...!"
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "(As expected, their excitement is starting to rise.\\n There might be a clue to be found\\n if I keep watching them.)",
+      "texto_ptbr": "(Como esperado, a animação delas está começando a subir.\\n Pode ter uma pista a ser encontrada\\n se eu continuar observando.)"
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "(But actually, this aquarium is really interesting.\\n I'd like to take my time and look around and yet...)",
+      "texto_ptbr": "(Mas na verdade, esse aquário é bem interessante.\\n Eu gostaria de dar uma olhada com calma e no entanto...)"
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun, are you enjoying the sightseeing?",
+      "texto_ptbr": "Uesugi-kun, você tá gostando do passeio?"
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Eh?\\nWhy are you suddenly asking me that?",
+      "texto_ptbr": "Hã?\\nPor que você tá me perguntando isso do nada?"
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "You look so tense.\\nMaybe try to relax a little more?",
+      "texto_ptbr": "Você parece bem tenso.\\nQue tal tentar relaxar um pouco mais?"
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "We're on an Okinawa trip after all,\\nso let's not forget to have fun and make some memories.",
+      "texto_ptbr": "Afinal, estamos numa viagem a Okinawa,\\nentão não vamos esquecer de nos divertir e criar boas lembranças."
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "I just can't get into that kind of mood.\\nI have a deadline to meet.",
+      "texto_ptbr": "Eu simplesmente não consigo entrar nesse clima.\\nTenho um prazo pra cumprir."
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "Well, that may be so...",
+      "texto_ptbr": "Bem, pode ser que sim..."
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "But, whose fault do you think it is?",
+      "texto_ptbr": "Mas, de quem você acha que é a culpa?"
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Ggh...\\nI can't come up with a retort to that.",
+      "texto_ptbr": "Ugh...\\nNão consigo pensar numa resposta pra isso."
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "Don't forget the original purpose\\nof our graduation trip. Let's make some good memories.",
+      "texto_ptbr": "Não esqueça o propósito original\\nda nossa viagem de formatura. Vamos criar boas lembranças."
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Well, what you guys are saying makes sense.\\nWe're on a graduation trip,\\nso we might as well enjoy ourselves.",
+      "texto_ptbr": "Bem, o que vocês estão dizendo faz sentido.\\nEstamos numa viagem de formatura,\\nentão bem que podíamos aproveitar."
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "Yes! Now, let's get back to our sightseeing.",
+      "texto_ptbr": "Sim! Agora, vamos voltar pro nosso passeio."
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "That so?\\nWell, we're making memories in our own way, huh.",
+      "texto_ptbr": "É mesmo?\\nBem, estamos criando lembranças do nosso próprio jeito, né."
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "Are we really?",
+      "texto_ptbr": "A gente tá mesmo?"
+    },
+    {
+      "id": 25,
+      "personagem": "Itsuki",
+      "texto_en": "It's a little different from what I was expecting.\\nShall we try to enjoy ourselves a bit more?",
+      "texto_ptbr": "É um pouco diferente do que eu esperava.\\nQue tal a gente tentar se divertir mais um pouco?"
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "Come to think of it,\\nit does feel a bit lacking as a graduation trip...",
+      "texto_ptbr": "Pensando bem,\\nparece meio fraca pra uma viagem de formatura..."
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "If it's lacking,\\nthen we can make more memories from now on.",
+      "texto_ptbr": "Se está faltando,\\nentão podemos criar mais lembranças a partir de agora."
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, that's right.",
+      "texto_ptbr": "É, isso mesmo."
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Well, what you guys are saying makes sense.\\nWe're on a graduation trip,\\nso we might as well enjoy ourselves.",
+      "texto_ptbr": "Bem, o que vocês estão dizendo faz sentido.\\nEstamos numa viagem de formatura,\\nentão bem que podíamos aproveitar."
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "Yes! Now, let's get back to our sightseeing.",
+      "texto_ptbr": "Sim! Agora, vamos voltar pro nosso passeio."
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "That's true.\\nWhen you think about it,\\nthat's why we came all the way to Okinawa.",
+      "texto_ptbr": "É verdade.\\nPensando bem,\\nfoi por isso que viemos até Okinawa."
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, let's not forget\\nthe original purpose of coming here.",
+      "texto_ptbr": "Sim, não vamos esquecer\\no propósito original de vir até aqui."
+    },
+    {
+      "id": 33,
+      "personagem": "Itsuki",
+      "texto_en": "Things have ended up like this, but...\\nI still want to enjoy this trip as a trip.",
+      "texto_ptbr": "As coisas acabaram assim, mas...\\nainda quero aproveitar essa viagem como uma viagem de verdade."
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, I feel bad for you guys,\\nhaving planned it for us.",
+      "texto_ptbr": "É, me sinto mal por vocês,\\nque planejaram tudo isso pra gente."
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "That's right, you know?\\nWe put a lot of effort into planning this trip.\\nI won't stand for it to go to waste.",
+      "texto_ptbr": "Isso mesmo, sabia?\\nA gente se esforçou muito planejando essa viagem.\\nNão vou aceitar que seja em vão."
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "It's not too late to make the most of it from now on.",
+      "texto_ptbr": "Não é tarde demais pra aproveitar o máximo daqui pra frente."
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "There's still time, so let's enjoy ourselves\\nand make some unforgettable memories.",
+      "texto_ptbr": "Ainda temos tempo, então vamos nos divertir\\ne criar lembranças inesquecíveis."
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "Well, what you guys are saying makes sense.\\nWe're on a graduation trip,\\nso we might as well enjoy ourselves.",
+      "texto_ptbr": "Bem, o que vocês estão dizendo faz sentido.\\nEstamos numa viagem de formatura,\\nentão bem que podíamos aproveitar."
+    },
+    {
+      "id": 39,
+      "personagem": "Itsuki",
+      "texto_en": "Yes! Now, let's get back to our sightseeing.",
+      "texto_ptbr": "Sim! Agora, vamos voltar pro nosso passeio."
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "(...However, the way she's supporting me now\\n feels a bit like Ichika.)",
+      "texto_ptbr": "(...Só que, o jeito que ela tá me apoiando agora\\n parece um pouco com a Ichika.)"
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "My my...!\\nSo many tropical fish...!",
+      "texto_ptbr": "Nossa, nossa...!\\nQuantos peixes tropicais...!"
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Oh? Looks like the curator's explanation is starting.",
+      "texto_ptbr": "Ah? Parece que a explicação do curador tá começando."
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "That sounds interesting.\\nShall we listen?",
+      "texto_ptbr": "Parece interessante.\\nVamos ouvir?"
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "Haha...\\nThat was kind of funny.",
+      "texto_ptbr": "Haha...\\nAquilo foi meio engraçado."
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "What was?",
+      "texto_ptbr": "O que foi?"
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Well, I never expected to hear about the taste\\nand traditional dishes of fish\\nduring a tour of an aquarium.",
+      "texto_ptbr": "Bem, eu nunca esperei ouvir sobre o sabor\\ne os pratos tradicionais de peixe\\ndurante um passeio num aquário."
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "Indeed, it was a bit unusual\\nas a description of the fish we were watching...",
+      "texto_ptbr": "De fato, foi um pouco incomum\\ncomo descrição dos peixes que estávamos observando..."
+    },
+    {
+      "id": 48,
+      "personagem": "Itsuki",
+      "texto_en": "Here in Okinawa, life and the sea\\nare so closely intertwined. Maybe that's why?",
+      "texto_ptbr": "Aqui em Okinawa, a vida e o mar\\nestão tão entrelaçados. Será que é por isso?"
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "...I see, that makes sense.\\nYou really noticed that well.",
+      "texto_ptbr": "...Entendo, faz sentido.\\nVocê realmente percebeu isso bem."
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "Hm?\\nYeah...",
+      "texto_ptbr": "Hm?\\nÉ..."
+    },
+    {
+      "id": 51,
+      "personagem": "Itsuki",
+      "texto_en": "Teehee...",
+      "texto_ptbr": "Teehee..."
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "(The way this Itsuki reacted just now\\n seemed like Miku...)",
+      "texto_ptbr": "(O jeito que essa Itsuki reagiu agora há pouco\\n parecia com a Miku...)"
+    },
+    {
+      "id": 53,
+      "personagem": "Itsuki",
+      "texto_en": "Come to think of it...\\nAre those ingredients recommended by the locals?\\nIf so, it makes me even more curious about the taste.",
+      "texto_ptbr": "Pensando bem...\\nEsses ingredientes são recomendados pelos locais?\\nSe for isso, fico ainda mais curiosa sobre o sabor."
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "(This feels so much like Itsuki, though.)",
+      "texto_ptbr": "(Isso parece muito com a Itsuki, no entanto.)"
+    },
+    {
+      "id": 55,
+      "personagem": "Itsuki",
+      "texto_en": "Ah!\\nThere's a beam of light in the water tank!",
+      "texto_ptbr": "Ah!\\nTem um feixe de luz no tanque d'água!"
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "Oh wow, it's beautiful.",
+      "texto_ptbr": "Nossa, que lindo."
+    },
+    {
+      "id": 57,
+      "personagem": "Itsuki",
+      "texto_en": "Is this a lighting effect?",
+      "texto_ptbr": "Isso é um efeito de iluminação?"
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "No, there's no roof on this tank,\\nso it's probably the effect of sunlight\\nshining down from above.",
+      "texto_ptbr": "Não, esse tanque não tem teto,\\nentão provavelmente é o efeito da luz do sol\\nbrilhando lá de cima."
+    },
+    {
+      "id": 59,
+      "personagem": "Itsuki",
+      "texto_en": "It's shimmering and shining...\\nNature is creating this kind of performance.",
+      "texto_ptbr": "Tá cintilando e brilhando...\\nA natureza tá criando esse tipo de espetáculo."
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "(This romantic atmosphere feels like Nino.)",
+      "texto_ptbr": "(Essa atmosfera romântica parece com a Nino.)"
+    },
+    {
+      "id": 61,
+      "personagem": "Itsuki",
+      "texto_en": "They also fed the fish from above the tank.\\nThe fish are starting to gather. ",
+      "texto_ptbr": "Eles também alimentaram os peixes de cima do tanque.\\nOs peixes estão começando a se reunir. "
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, they skillfully manipulated the baited basket\\nto lure the fish into a more visible area.",
+      "texto_ptbr": "É, eles manipularam a cesta com isca com habilidade\\npra atrair os peixes pra uma área mais visível."
+    },
+    {
+      "id": 63,
+      "personagem": "Itsuki",
+      "texto_en": "It looked pretty interesting, and if we have a chance\\nto experience feeding the fish ourselves,\\nI'd like to give it a try.",
+      "texto_ptbr": "Pareceu bem interessante, e se a gente tiver a chance\\nde experimentar alimentar os peixes com as próprias mãos,\\ngostaria de tentar."
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "(This active remark...might come from Yotsuba.)",
+      "texto_ptbr": "(Esse comentário tão animado...deve vir da Yotsuba.)"
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "(Did the advice to relax work?\\n I kind of feel like\\n I'm starting to understand a bit, somehow.)",
+      "texto_ptbr": "(Será que o conselho de relaxar funcionou?\\n Sinto meio que\\n tô começando a entender um pouco, de alguma forma.)"
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "(Alright...\\n If I keep this up,\\n I might be able to see through all of them today!)",
+      "texto_ptbr": "(Certo...\\n Se eu continuar assim,\\n talvez eu consiga descobrir todas elas hoje!)"
+    }
+  ]
+}

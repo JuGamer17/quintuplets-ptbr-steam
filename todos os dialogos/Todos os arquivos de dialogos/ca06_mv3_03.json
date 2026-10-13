@@ -1,0 +1,276 @@
+{
+  "arquivo": "ca06_mv3_03",
+  "total": 45,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, Uesugi-kun?",
+      "texto_ptbr": "Ah, Uesugi-kun?"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "What are you doing here?",
+      "texto_ptbr": "O que você está fazendo aqui?"
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "I was thinking of looking around for shops\\nthat sell small items...",
+      "texto_ptbr": "Eu estava pensando em procurar lojas\\nque vendam artigos pequenos..."
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "But I got lost\\nbecause I was so captivated by the scenery around me,\\nand wandered off course.",
+      "texto_ptbr": "Mas acabei me perdendo\\nporque fiquei tão encantada com a paisagem ao redor\\ne saí do caminho."
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "What, you got lost?",
+      "texto_ptbr": "O quê, você se perdeu?"
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "No.\\nI just lost my sense of direction.",
+      "texto_ptbr": "Não.\\nSó perdi o senso de direção."
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, yeah.\\nWell, I can understand being captivated\\nby the scenery.",
+      "texto_ptbr": "Sei, sei.\\nBem, dá pra entender se encantar\\ncom a paisagem."
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, the colorful buildings and wall art are\\ninteresting just to look at.",
+      "texto_ptbr": "Sim, os prédios coloridos e as pinturas nas paredes são\\ninteressantes só de olhar."
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "(There's many great photo spots around here.\\n Is it Ichika or Nino that might like this kind of place?)",
+      "texto_ptbr": "(Tem muitos pontos ótimos pra fotos por aqui.\\n Será que a Ichika ou a Nino gostariam desse tipo de lugar?)"
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "I was just thinking that maybe this \\nflamboyant look stands out is\\nbecause in Okinawa there's strong sunlight.",
+      "texto_ptbr": "Eu estava justamente pensando que talvez esse \\nvisual chamativo se destaque\\nporque em Okinawa a luz do sol é forte."
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "But it's a bit too flashy...\\nIt makes me tired just looking at it.",
+      "texto_ptbr": "Mas é um pouco espalhafatoso demais...\\nMe cansa só de olhar."
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "What, you don't like this kind of place?",
+      "texto_ptbr": "O quê, você não gosta desse tipo de lugar?"
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "It's not that I don't like it...",
+      "texto_ptbr": "Não é que eu não goste..."
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "Maybe I just prefer a more calm atmosphere.",
+      "texto_ptbr": "Talvez eu só prefira um ambiente mais calmo."
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "(...That sounded oddly detached.)",
+      "texto_ptbr": "(...Isso soou estranhamente distante.)"
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "What kind of place, for example?",
+      "texto_ptbr": "Que tipo de lugar, por exemplo?"
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "Let's see.\\nMaybe my own room, perhaps.",
+      "texto_ptbr": "Deixa eu ver.\\nTalvez o meu próprio quarto."
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Seems like you'd hide sweets in various places.",
+      "texto_ptbr": "Parece que você esconderia doces em vários lugares."
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "We're talking about you.\\nIf you don't have to worry about being hungry,\\nyou can relax, right?",
+      "texto_ptbr": "Estamos falando de você.\\nSe você não precisa se preocupar em ficar com fome,\\nconsegue relaxar, né?"
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "...I wouldn't do something so childish, you know?",
+      "texto_ptbr": "...Eu não faria uma coisa tão infantil, sabia?"
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Well, they say a person's room\\nreflects their personality and interests.\\nOther people's rooms%p-2;――",
+      "texto_ptbr": "Bem, dizem que o quarto de uma pessoa\\nreflete a personalidade e os interesses dela.\\nOs quartos dos outros%p-2;――"
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "Hey, are you imagining our rooms?!\\nThose are WOMEN'S rooms, you know?!",
+      "texto_ptbr": "Ei, você está imaginando os nossos quartos?!\\nSão quartos de MULHERES, sabia?!"
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "...I can't imagine it.",
+      "texto_ptbr": "...Não consigo imaginar."
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "I wouldn't be surprised.\\nIt seems you've never been inside\\na woman's room before.",
+      "texto_ptbr": "Não me surpreende.\\nParece que você nunca entrou\\nno quarto de uma mulher."
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "That's not true. I've been inside Nino's room before.",
+      "texto_ptbr": "Isso não é verdade. Já entrei no quarto da Nino."
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "Oh... Come to think of it, you have, huh?",
+      "texto_ptbr": "Ah... Pensando bem, é verdade, né?"
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "And, maybe Miku and Ichika's rooms too?",
+      "texto_ptbr": "E talvez nos quartos da Miku e da Ichika também?"
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "...You sure do get around, don't you?",
+      "texto_ptbr": "...Você até que anda bastante por aí, hein?"
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Well, they say a person's room\\nreflects their personality and interests.\\nOther people's rooms%p-2;――",
+      "texto_ptbr": "Bem, dizem que o quarto de uma pessoa\\nreflete a personalidade e os interesses dela.\\nOs quartos dos outros%p-2;――"
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "Hey, are you imagining our rooms?!\\nThose are WOMEN'S rooms, you know?!",
+      "texto_ptbr": "Ei, você está imaginando os nossos quartos?!\\nSão quartos de MULHERES, sabia?!"
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "I bet your room would be neat and tidy.",
+      "texto_ptbr": "Aposto que o seu quarto é arrumado e organizado."
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "Of course. I've always made sure\\nto have an environment suitable for studying.",
+      "texto_ptbr": "Claro. Sempre fiz questão\\nde ter um ambiente adequado pra estudar."
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Indeed, having a conducive environment\\nfor concentration is important. I can appreciate that.",
+      "texto_ptbr": "De fato, ter um ambiente propício\\npra se concentrar é importante. Eu valorizo isso."
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "Teehee, yes, naturally.",
+      "texto_ptbr": "Ehehe, sim, naturalmente."
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Although it took time for that to lead to good grades.",
+      "texto_ptbr": "Embora tenha levado tempo pra isso virar boas notas."
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "You always have so much to say, don't you.",
+      "texto_ptbr": "Você sempre tem tanta coisa pra falar, não é?"
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Well, they say a person's room\\nreflects their personality and interests.\\nOther people's rooms%p-2;――",
+      "texto_ptbr": "Bem, dizem que o quarto de uma pessoa\\nreflete a personalidade e os interesses dela.\\nOs quartos dos outros%p-2;――"
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "Hey, are you imagining our rooms?!\\nThose are WOMEN'S rooms, you know?!",
+      "texto_ptbr": "Ei, você está imaginando os nossos quartos?!\\nSão quartos de MULHERES, sabia?!"
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "You really have no sense of delicacy, do you!",
+      "texto_ptbr": "Você realmente não tem um pingo de delicadeza, né!"
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Well, was that really an issue?\\nConsidering the flow of the conversation,\\nit's a normal thing to think about, right?",
+      "texto_ptbr": "Bom, isso era mesmo um problema?\\nConsiderando o rumo da conversa,\\né algo normal de pensar, não é?"
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "That's the issue!\\nReflect on yourself, properly!",
+      "texto_ptbr": "Esse é o problema!\\nReflita sobre si mesmo, direito!"
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "O-okay.",
+      "texto_ptbr": "T-tá bom."
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "(I guess I shouldn't even try to imagine it.\\n It's just too difficult or bothersome...)",
+      "texto_ptbr": "(Acho que nem devo tentar imaginar.\\n É difícil demais ou trabalhoso demais...)"
+    }
+  ]
+}

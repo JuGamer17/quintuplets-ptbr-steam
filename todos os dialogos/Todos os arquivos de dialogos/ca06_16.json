@@ -1,0 +1,318 @@
+{
+  "arquivo": "ca06_16",
+  "total": 52,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Itsuki",
+      "texto_en": "That was really an interesting place, wasn't it?\\nJust walking around and looking at the town,\\nwe could feel the atmosphere of traveling abroad.",
+      "texto_ptbr": "Aquele lugar foi realmente interessante, não foi?\\nSó de andar e olhar a cidade,\\njá dava para sentir a atmosfera de estar viajando para o exterior."
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "Apparenly the city is lit up by a light show at night.\\nI would have liked to see that too, if possible.",
+      "texto_ptbr": "Aparentemente a cidade fica iluminada por um show de luzes à noite.\\nEu gostaria de ver isso também, se possível."
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "But when it gets dark,\\nI'm afraid we might get lost for real...\\nIt's a bit scary, isn't it?",
+      "texto_ptbr": "Mas quando escurece,\\ntenho medo que a gente se perca de verdade...\\nÉ um pouco assustador, não é?"
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "Did anyone try going to that ice cream shop \\nwe heard about?",
+      "texto_ptbr": "Alguém foi naquela sorveteria \\nque a gente ouviu falar?"
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "Of course! The rumors were true,\\nand it was so delicious that we ended up ordering more.",
+      "texto_ptbr": "Claro! Os rumores eram verdade,\\ne estava tão gostoso que acabamos pedindo mais."
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "By the way, the pancake shop we found\\nwas also top tier, wasn't it?",
+      "texto_ptbr": "Aliás, a panquecaria que a gente encontrou\\ntambém era de primeira, não era?"
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "A pancake shop? That sounds interesting!",
+      "texto_ptbr": "Uma panquecaria? Isso parece interessante!"
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "It was so delicious\\nthat it made my heart feel fluffy!\\nI want to go there again with everyone!",
+      "texto_ptbr": "Estava tão gostoso\\nque meu coração ficou todo fofo!\\nQuero voltar lá com todo mundo!"
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "But if you eat too much,\\nyou might not have room for lunch, you know?",
+      "texto_ptbr": "Mas se você comer demais,\\npode não sobrar espaço para o almoço, sabia?"
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun, what would you like for lunch?",
+      "texto_ptbr": "Uesugi-kun, o que você gostaria de almoçar?"
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Well, when it comes to food,\\nI'll leave it up to you guys.\\nTalk about it, and decide what you'd like.",
+      "texto_ptbr": "Bem, quando o assunto é comida,\\nvou deixar por conta de vocês.\\nConversem entre si e decidam o que quiserem."
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "Then, we will do so.",
+      "texto_ptbr": "Então, faremos assim."
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "(This is...pretty bad, isn't it?)",
+      "texto_ptbr": "(Isso é... bem ruim, não é?)"
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "(Like the last time, I thought I'd figure out \\n Yotsuba first because she's not the best liar but...\\n I seriously don't understand.)",
+      "texto_ptbr": "(Como da última vez, pensei em descobrir \\n a Yotsuba primeiro porque ela não é boa mentirosa mas...\\n sério, não estou entendendo nada.)"
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "(Speaking of which, Yotsuba did help the drama club\\n during the school festival.)",
+      "texto_ptbr": "(Aliás, a Yotsuba ajudou o clube de teatro\\n durante o festival escolar.)"
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "(Raiha said that Yotsuba's acting was amazing...\\n As expected of the actress Nakano Ichika's little sister.)",
+      "texto_ptbr": "(A Raiha disse que a atuação da Yotsuba foi incrível...\\n Como era de se esperar da irmã mais nova da atriz Nakano Ichika.)"
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "(That Ichika, too, is now a popular actress.\\n She seems to have played various roles, and her\\n acting ability is undoubtedly better than before.)",
+      "texto_ptbr": "(A própria Ichika, aliás, agora é uma atriz popular.\\n Parece que ela já interpretou vários papéis, e sua\\n capacidade de atuação sem dúvida melhorou desde antes.)"
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "(Miku was originally the best\\n at disguising herself as her sisters.\\n Itsuki is not an imitation but the real deal%p-2;――%p;)",
+      "texto_ptbr": "(A Miku sempre foi a melhor\\n em se disfarçar como as irmãs.\\n A Itsuki não é uma imitação, é a de verdade%p-2;――%p;)"
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "(Maybe the key to conquering them,\\n is to start by finding out Nino first?)",
+      "texto_ptbr": "(Talvez a chave para vencer isso\\n seja começar descobrindo a Nino primeiro?)"
+    },
+    {
+      "id": 20,
+      "personagem": "Curious Girl",
+      "texto_en": "Hey, look, look! Those girls over there are so cute!\\nAnd all five have the same face!",
+      "texto_ptbr": "Ei, olha, olha! Aquelas garotas ali são tão fofas!\\nE as cinco têm o mesmo rosto!"
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "(Hm? Just now, could it be...)",
+      "texto_ptbr": "(Hm? Agora mesmo, será que...)"
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "Huh? Are you talking about us?",
+      "texto_ptbr": "Hã? Estão falando de nós?"
+    },
+    {
+      "id": 23,
+      "personagem": "Quiet Girl",
+      "texto_en": "Oh my, you really look alike.\\nIs it your makeup?\\nAre you perhaps filming for TV or something?",
+      "texto_ptbr": "Nossa, vocês são muito parecidas mesmo.\\nÉ maquiagem?\\nVocês estão gravando para a TV ou algo assim?"
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "Oh no, we're actually quintuplets.",
+      "texto_ptbr": "Ah não, na verdade somos quintuplas."
+    },
+    {
+      "id": 25,
+      "personagem": "Curious Girl",
+      "texto_en": "Whaaat?!\\nThere really are quintuplets!\\nI've never seen any before!",
+      "texto_ptbr": "O quêêê?!\\nExistem mesmo quintuplas!\\nNunca vi nenhuma antes!"
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "Ahaha...\\nYeah, you don't see too many quintuplets around, do you.",
+      "texto_ptbr": "Ahaha...\\nÉ, não é toda hora que se vê quintuplas por aí, né."
+    },
+    {
+      "id": 27,
+      "personagem": "Curious Girl",
+      "texto_en": "Hey! Can we take a picture together as a memory?",
+      "texto_ptbr": "Ei! Podemos tirar uma foto juntas de lembrança?"
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "Umm, well...",
+      "texto_ptbr": "Hum, bem..."
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "(...Jeez, what memory is there to make anyway?)",
+      "texto_ptbr": "(...Poxa, que lembrança tem para fazer, afinal?)"
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "(By the way, we seem to be attracting\\na lot of attention. Maybe we should stop this?)",
+      "texto_ptbr": "(Aliás, parece que estamos chamando\\nmuita atenção. Talvez devêssemos parar com isso?)"
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Oh, excuse me, hi there.\\nCan we go now?",
+      "texto_ptbr": "Ah, com licença, oi.\\nPodemos ir agora?"
+    },
+    {
+      "id": 32,
+      "personagem": "Curious Girl",
+      "texto_en": "Wha? What's with this guy?\\nComing out of nowhere like that.",
+      "texto_ptbr": "Quê? Quem é esse cara?\\nAparecendo do nada desse jeito."
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "What, you ask, well...",
+      "texto_ptbr": "O que, você pergunta, bem..."
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "These girls are my friends.",
+      "texto_ptbr": "Essas garotas são minhas amigas."
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "Friends, huh.\\nWell, I guess that's all that can be said for now.",
+      "texto_ptbr": "Amigas, é.\\nBem, acho que é só isso que dá para dizer por enquanto."
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "Indeed, we're actually on a trip with the six of us.",
+      "texto_ptbr": "De fato, na verdade estamos em uma viagem, nós seis."
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "We're also tourists here.\\nCould you please keep it down?",
+      "texto_ptbr": "Nós também somos turistas aqui.\\nPoderiam abaixar a voz, por favor?"
+    },
+    {
+      "id": 40,
+      "personagem": "Curious Girl",
+      "texto_en": "Ehh, come on.\\nIt's okay to make a little noise, isn't it?",
+      "texto_ptbr": "Ah, qual é.\\nTudo bem fazer um pouco de barulho, não é?"
+    },
+    {
+      "id": 41,
+      "personagem": "Quiet Girl",
+      "texto_en": "We can't take a picture with you?",
+      "texto_ptbr": "Não podemos tirar uma foto com vocês?"
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "Wh-what should we do?",
+      "texto_ptbr": "O-o que fazemos?"
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "I'll handle this.\\nYou guys go somewhere else for now.",
+      "texto_ptbr": "Eu cuido disso.\\nVocês vão para outro lugar por enquanto."
+    },
+    {
+      "id": 44,
+      "personagem": "Itsuki",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "Perhaps it's better if we don't take pictures.",
+      "texto_ptbr": "Talvez seja melhor não tirarmos fotos."
+    },
+    {
+      "id": 46,
+      "personagem": "Itsuki",
+      "texto_en": "That's right. As Ichika's a celebrity and all...",
+      "texto_ptbr": "Isso mesmo. Já que a Ichika é uma celebridade e tal..."
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "While Futaro is dealing with them,\\nlet's go somewhere else.",
+      "texto_ptbr": "Enquanto o Futaro lida com elas,\\nvamos para outro lugar."
+    },
+    {
+      "id": 48,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, let's leave before we attract more attention.",
+      "texto_ptbr": "Sim, vamos embora antes que chamemos mais atenção."
+    },
+    {
+      "id": 49,
+      "personagem": "Itsuki",
+      "texto_en": "Okay then, Uesugi-kun, we'll go on ahead.",
+      "texto_ptbr": "Certo então, Uesugi-kun, vamos indo na frente."
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "Okay.\\nI'll be there soon, so wait for me somewhere nearby.",
+      "texto_ptbr": "Certo.\\nVou chegar logo, então me esperem em algum lugar por perto."
+    },
+    {
+      "id": 51,
+      "personagem": "Itsuki",
+      "texto_en": "Thanks.",
+      "texto_ptbr": "Valeu."
+    }
+  ]
+}

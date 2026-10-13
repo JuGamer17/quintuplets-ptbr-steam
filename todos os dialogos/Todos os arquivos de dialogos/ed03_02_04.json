@@ -1,0 +1,492 @@
+{
+  "arquivo": "ed03_02_04",
+  "total": 81,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Ahh... I'm so tired...",
+      "texto_ptbr": "Ahh... Estou tão cansado..."
+    },
+    {
+      "id": 1,
+      "personagem": "Miku",
+      "texto_en": "It somehow ended without any issues...",
+      "texto_ptbr": "Acabou sem nenhum problema, de algum jeito..."
+    },
+    {
+      "id": 2,
+      "personagem": "Raiha",
+      "texto_en": "Both of you look exhausted. Are you okay?",
+      "texto_ptbr": "Vocês dois parecem exaustos. Estão bem?"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "I feel so drained.\\nIt's like all the tension\\nhas been released from my body.",
+      "texto_ptbr": "Estou tão esgotado.\\nÉ como se toda a tensão\\ntivesse saído do meu corpo."
+    },
+    {
+      "id": 4,
+      "personagem": "Miku",
+      "texto_en": "Me too...",
+      "texto_ptbr": "Eu também..."
+    },
+    {
+      "id": 5,
+      "personagem": "Miku",
+      "texto_en": "I'm really glad we didn't mess up.\\nAs Futaro said, dreams are just dreams, after all.",
+      "texto_ptbr": "Estou muito aliviada por não termos errado nada.\\nComo o Fuutarou disse, sonhos são só sonhos, afinal."
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Right?\\nYou worry too much over a silly dream.",
+      "texto_ptbr": "Não é?\\nVocê se preocupa demais com um sonho bobo."
+    },
+    {
+      "id": 7,
+      "personagem": "Raiha",
+      "texto_en": "A silly dream?\\nDid you dream about the wedding failing?",
+      "texto_ptbr": "Um sonho bobo?\\nVocê sonhou que o casamento dava errado?"
+    },
+    {
+      "id": 8,
+      "personagem": "Miku",
+      "texto_en": "Yeah. I had it last night.\\nIt was a terrible nightmare.",
+      "texto_ptbr": "Sim. Foi ontem à noite.\\nFoi um pesadelo terrível."
+    },
+    {
+      "id": 9,
+      "personagem": "Miku",
+      "texto_en": "I kept tripping over my wedding dress,\\nFutaro was spilling drinks,\\nit was just a series of failures%p-2;――",
+      "texto_ptbr": "Eu ficava tropeçando no vestido de noiva,\\no Fuutarou derramava as bebidas,\\nfoi uma sequência de fracassos%p-2;――"
+    },
+    {
+      "id": 10,
+      "personagem": "Miku",
+      "texto_en": "And in the end, the letter I wrote to everyone turned\\ninto a letter from the time when Futaro and I were pen\\npals, and I had to read it in front of everyone...",
+      "texto_ptbr": "E no fim, a carta que escrevi para todos virou\\numa carta da época em que o Fuutarou e eu éramos amigos\\nde correspondência, e eu tive que lê-la na frente de todo mundo..."
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Oh man. Why did it turn out like that?",
+      "texto_ptbr": "Nossa. Por que foi acabar assim?"
+    },
+    {
+      "id": 12,
+      "personagem": "Miku",
+      "texto_en": "I was so embarrassed...\\nI thought I was gonna die...",
+      "texto_ptbr": "Fiquei com tanta vergonha...\\nAchei que ia morrer..."
+    },
+    {
+      "id": 13,
+      "personagem": "Raiha",
+      "texto_en": "Big bro and Miku-san, you guys were pen pals?",
+      "texto_ptbr": "Onii-chan e Miku-san, vocês eram amigos de correspondência?"
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Yeah.\\nAh, you didn't know that, huh, Raiha.\\nIt started after I moved to Tokyo.",
+      "texto_ptbr": "É.\\nAh, você não sabia disso, né, Raiha.\\nComeçou depois que me mudei para Tóquio."
+    },
+    {
+      "id": 15,
+      "personagem": "Raiha",
+      "texto_en": "I see. So you were sustaining your relationship in that way.\\nWow.",
+      "texto_ptbr": "Entendi. Então vocês mantinham o relacionamento assim.\\nNossa."
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Stop phrasing it like that...",
+      "texto_ptbr": "Para de falar desse jeito..."
+    },
+    {
+      "id": 17,
+      "personagem": "Miku",
+      "texto_en": "I have all those letters safely kept.\\nWhat about you, Futaro?",
+      "texto_ptbr": "Eu guardo todas aquelas cartas em segurança.\\nE você, Fuutarou?"
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Of course, I do too, but%p-2;――",
+      "texto_ptbr": "Claro que eu também, mas%p-2;――"
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Hey, make sure they don't find 'em.\\nIf by any chance they see them, I'd die from embarassment!",
+      "texto_ptbr": "Ei, cuida pra que ninguém ache.\\nSe por acaso virem, eu morro de vergonha!"
+    },
+    {
+      "id": 20,
+      "personagem": "Miku",
+      "texto_en": "Teehee, don't worry.\\nThey're my treasured possessions, and safely stored.",
+      "texto_ptbr": "Hihi, pode ficar tranquilo.\\nSão meus tesouros, e estão bem guardadas."
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "I'm counting on you...",
+      "texto_ptbr": "Estou contando com você..."
+    },
+    {
+      "id": 22,
+      "personagem": "Miku",
+      "texto_en": "But seriously,\\nI'm relieved that the nightmare didn't come true.",
+      "texto_ptbr": "Mas falando sério,\\nestou aliviada que o pesadelo não se realizou."
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "It's been a while\\nsince I've seen you negative, Miku.",
+      "texto_ptbr": "Faz tempo que\\neu não te vejo pessimista, Miku."
+    },
+    {
+      "id": 24,
+      "personagem": "Miku",
+      "texto_en": "Well, it's a once-in-a-lifetime event,\\nso I wanted to make sure it's a good memory for sure.",
+      "texto_ptbr": "Bem, é um evento que só acontece uma vez na vida,\\nentão queria ter certeza de que seria uma boa lembrança."
+    },
+    {
+      "id": 25,
+      "personagem": "Raiha",
+      "texto_en": "Don't worry, it was a beautiful ceremony!\\nMiku-san, you looked stunning.",
+      "texto_ptbr": "Não se preocupe, foi uma cerimônia linda!\\nMiku-san, você estava deslumbrante."
+    },
+    {
+      "id": 26,
+      "personagem": "Miku",
+      "texto_en": "Thank you, Raiha-chan.",
+      "texto_ptbr": "Obrigada, Raiha-chan."
+    },
+    {
+      "id": 27,
+      "personagem": "Miku",
+      "texto_en": "Oh, that reminds me.\\nThank you for bringing the wedding rings.",
+      "texto_ptbr": "Ah, por falar nisso.\\nObrigada por trazer as alianças."
+    },
+    {
+      "id": 28,
+      "personagem": "Raiha",
+      "texto_en": "Ah! That!\\nBig bro, I REALLY can't believe you forgot it!",
+      "texto_ptbr": "Ah! Isso!\\nOnii-chan, eu REALMENTE não acredito que você esqueceu!"
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Ooh...\\nI can only apologize for that.",
+      "texto_ptbr": "Ooh...\\nSó posso pedir desculpas por isso."
+    },
+    {
+      "id": 30,
+      "personagem": "Raiha",
+      "texto_en": "And to make matters worse,\\nit seems Dad did the same thing.",
+      "texto_ptbr": "E pra piorar,\\nparece que o papai fez a mesma coisa."
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Dad, too?\\nSeriously?",
+      "texto_ptbr": "O pai também?\\nSério?"
+    },
+    {
+      "id": 32,
+      "personagem": "Raiha",
+      "texto_en": "Miku-san.\\nOur whole family seems to be like this,\\nso we'll probably be causing you a lot of trouble, but%p-2;――",
+      "texto_ptbr": "Miku-san.\\nPelo jeito a nossa família toda é assim,\\nentão provavelmente vamos te dar muito trabalho, mas%p-2;――"
+    },
+    {
+      "id": 33,
+      "personagem": "Raiha",
+      "texto_en": "Please take care of big bro.",
+      "texto_ptbr": "Por favor, cuide do Onii-chan."
+    },
+    {
+      "id": 34,
+      "personagem": "Miku",
+      "texto_en": "No, it's the other way around.\\nFrom now on, please take care of me\\nas a member of the family.",
+      "texto_ptbr": "Não, é o contrário.\\nDaqui pra frente, por favor, cuidem de mim\\ncomo membro da família."
+    },
+    {
+      "id": 35,
+      "personagem": "Raiha",
+      "texto_en": "Ehehe...\\nThese things make you blush, don't they?",
+      "texto_ptbr": "Ehehe...\\nEssas coisas dão vergonha, né?"
+    },
+    {
+      "id": 36,
+      "personagem": "Miku",
+      "texto_en": "Teehee, yeah, they do.",
+      "texto_ptbr": "Hihi, é, dão sim."
+    },
+    {
+      "id": 37,
+      "personagem": "Raiha",
+      "texto_en": "Ah, by the way.\\nIf it's okay with you, Miku-san,\\nI'd like to help out at the cafe.",
+      "texto_ptbr": "Ah, a propósito.\\nSe você não se importar, Miku-san,\\ngostaria de ajudar no café."
+    },
+    {
+      "id": 38,
+      "personagem": "Miku",
+      "texto_en": "You want to work part-time at the cafe?\\nOf course, that would be great.\\nNino would be happy too.",
+      "texto_ptbr": "Você quer trabalhar meio período no café?\\nClaro, seria ótimo.\\nA Nino também ficaria feliz."
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "What's with the sudden part-time job?\\nDo you want something in particular?",
+      "texto_ptbr": "Que história é essa de emprego de meio período do nada?\\nVocê quer alguma coisa em especial?"
+    },
+    {
+      "id": 40,
+      "personagem": "Raiha",
+      "texto_en": "Not really.\\nI just want to feel closer to you, big sis.",
+      "texto_ptbr": "Nada demais.\\nSó quero me sentir mais próxima de você, Onee-chan."
+    },
+    {
+      "id": 41,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 42,
+      "personagem": "Miku",
+      "texto_en": "I'm so happy.\\nI also want to feel closer to you, Raiha-chan.",
+      "texto_ptbr": "Estou tão feliz.\\nEu também quero me sentir mais próxima de você, Raiha-chan."
+    },
+    {
+      "id": 43,
+      "personagem": "Raiha",
+      "texto_en": "Great!",
+      "texto_ptbr": "Oba!"
+    },
+    {
+      "id": 44,
+      "personagem": "Raiha",
+      "texto_en": "Then, I'll teach you\\nall about controlling big bro perfectly.",
+      "texto_ptbr": "Então eu vou te ensinar\\ntudo sobre como controlar o Onii-chan perfeitamente."
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "Hold on, Raiha.\\nAre you trying to put needless ideas into Miku's head?",
+      "texto_ptbr": "Peraí, Raiha.\\nVocê está tentando colocar ideias desnecessárias na cabeça da Miku?"
+    },
+    {
+      "id": 46,
+      "personagem": "Miku",
+      "texto_en": "They're not needless, they're really important.\\nThanks in advance, Raiha-chan.",
+      "texto_ptbr": "Não são desnecessárias, são muito importantes.\\nDesde já, obrigada, Raiha-chan."
+    },
+    {
+      "id": 47,
+      "personagem": "Raiha",
+      "texto_en": "Leave it to me!",
+      "texto_ptbr": "Pode deixar comigo!"
+    },
+    {
+      "id": 48,
+      "personagem": "Raiha",
+      "texto_en": "Ah, but if it comes down to it, Miku-san,\\nyou might actually be untouchable \\nsince you hold the trump card a.k.a. the letter?",
+      "texto_ptbr": "Ah, mas se a coisa chegar a esse ponto, Miku-san,\\nvocê pode até ficar intocável \\npor ter na mão o grande trunfo, também conhecido como a carta?"
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Hey?!",
+      "texto_ptbr": "Ei?!"
+    },
+    {
+      "id": 50,
+      "personagem": "Miku",
+      "texto_en": "A trump card should be kept until the end.",
+      "texto_ptbr": "Um trunfo deve ser guardado até o fim."
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "Miku.\\nShall we have a talk?",
+      "texto_ptbr": "Miku.\\nQue tal a gente ter uma conversinha?"
+    },
+    {
+      "id": 52,
+      "personagem": "Miku",
+      "texto_en": "Just kidding.",
+      "texto_ptbr": "Brincadeira."
+    },
+    {
+      "id": 53,
+      "personagem": "Raiha",
+      "texto_en": "Teehee!\\nWell then, I'll go return your suit.",
+      "texto_ptbr": "Hihi!\\nBom, então vou devolver o seu terno."
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "Okay, got it.\\nThanks.",
+      "texto_ptbr": "Tá, entendi.\\nValeu."
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "...Miku.\\nPlease don't take Raiha's words too seriously.",
+      "texto_ptbr": "...Miku.\\nPor favor, não leve as palavras da Raiha tão a sério."
+    },
+    {
+      "id": 56,
+      "personagem": "Miku",
+      "texto_en": "Futaro, you still can't beat Raiha-chan\\nno matter how much time passes.",
+      "texto_ptbr": "Fuutarou, você ainda não consegue vencer a Raiha-chan\\nnão importa quanto tempo passe."
+    },
+    {
+      "id": 57,
+      "personagem": "Miku",
+      "texto_en": "But it's amazing to think she's\\ngoing to be working at our place.\\nWhen we met she was still in elementary school.",
+      "texto_ptbr": "Mas é incrível pensar que ela\\nvai trabalhar na nossa casa.\\nQuando nos conhecemos, ela ainda estava no ensino fundamental."
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "It's been five years already.\\n...Our first milestone, I guess.",
+      "texto_ptbr": "Já faz cinco anos.\\n...O nosso primeiro marco, eu acho."
+    },
+    {
+      "id": 59,
+      "personagem": "Miku",
+      "texto_en": "A milestone that's also a new beginning.",
+      "texto_ptbr": "Um marco que também é um novo começo."
+    },
+    {
+      "id": 60,
+      "personagem": "Miku",
+      "texto_en": "As husband and wife, as a family...\\nThere are so many things I want to do with you, Futaro.",
+      "texto_ptbr": "Como marido e mulher, como uma família...\\nHá tantas coisas que quero fazer com você, Fuutarou."
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "Things you want to do, huh?",
+      "texto_ptbr": "Coisas que você quer fazer, é?"
+    },
+    {
+      "id": 62,
+      "personagem": "Miku",
+      "texto_en": "...Futaro?",
+      "texto_ptbr": "...Fuutarou?"
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "You said it, didn't you?\\nDuring our vow kiss,\\nto remember back five years ago.",
+      "texto_ptbr": "Você disse, não disse?\\nDurante o nosso beijo dos votos,\\npara lembrar de cinco anos atrás."
+    },
+    {
+      "id": 64,
+      "personagem": "Miku",
+      "texto_en": "...Yeah.\\nDo you remember our first kiss at the school festival?",
+      "texto_ptbr": "...É.\\nVocê se lembra do nosso primeiro beijo no festival da escola?"
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "Of course.",
+      "texto_ptbr": "Claro."
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "Although, even if you tell me to remember that kiss,\\nwell... I was overwhelmed,\\nand just went along with whatever you did.",
+      "texto_ptbr": "Embora, mesmo você me pedindo para lembrar daquele beijo,\\nbem... eu fiquei sobrecarregado\\ne só fui na onda de tudo o que você fez."
+    },
+    {
+      "id": 67,
+      "personagem": "Miku",
+      "texto_en": "Teehee, maybe that's how it was.",
+      "texto_ptbr": "Hihi, talvez tenha sido assim mesmo."
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "Because you become all scary\\nwhen you bottle up your emotions inside.\\nFrom now on, don't hold back, and tell me everything.",
+      "texto_ptbr": "Porque você fica toda assustadora\\nquando guarda as emoções dentro de você.\\nDaqui pra frente, não se segure e me conte tudo."
+    },
+    {
+      "id": 69,
+      "personagem": "Miku",
+      "texto_en": "...Is that okay?",
+      "texto_ptbr": "...Pode mesmo?"
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 71,
+      "personagem": "Miku",
+      "texto_en": "Well then, that being said%p-2;――",
+      "texto_ptbr": "Bem, então, dito isso%p-2;――"
+    },
+    {
+      "id": 72,
+      "personagem": "Futaro",
+      "texto_en": "What the?!\\nWh-what are you doing?",
+      "texto_ptbr": "O quê?!\\nO-o que você está fazendo?"
+    },
+    {
+      "id": 73,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 74,
+      "personagem": "Miku",
+      "texto_en": "I'll start thinking about what I want to do.",
+      "texto_ptbr": "Vou começar a pensar no que eu quero fazer."
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "...O-okay.",
+      "texto_ptbr": "...T-tá bom."
+    },
+    {
+      "id": 76,
+      "personagem": "Futaro",
+      "texto_en": "(What is this feeling...\\n It's like I can't win against not only Raiha,\\n but Miku, either...)",
+      "texto_ptbr": "(Que sensação é essa...\\n Parece que não consigo vencer só a Raiha,\\n mas a Miku também...)"
+    },
+    {
+      "id": 77,
+      "personagem": "Miku",
+      "texto_en": "Futaro, you too.\\nDon't hesitate to tell or ask me anything,",
+      "texto_ptbr": "Fuutarou, você também.\\nNão hesite em me dizer ou perguntar qualquer coisa,"
+    },
+    {
+      "id": 78,
+      "personagem": "Futaro",
+      "texto_en": "Alright, can I ask you one thing?",
+      "texto_ptbr": "Tá, posso te perguntar uma coisa?"
+    },
+    {
+      "id": 79,
+      "personagem": "Miku",
+      "texto_en": "What is it?",
+      "texto_ptbr": "O que é?"
+    },
+    {
+      "id": 80,
+      "personagem": "Futaro",
+      "texto_en": "Well%p-2;――",
+      "texto_ptbr": "Bem%p-2;――"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca02_mv2_03",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "本当に環境が違うんだ。\\n過ごしやすいこの時期に来たのは正解かも。",
+      "texto_en": "The environment is really different.\\nIt was a good decision to come to Okinawa\\nduring this time of the year.",
+      "texto_ptbr": "O ambiente é realmente diferente.\nFoi uma boa decisão vir pra Okinawa\nnessa época do ano."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "沖縄は亜熱帯だしな",
+      "texto_en": "Okinawa IS a subtropical region, isn't it.",
+      "texto_ptbr": "Okinawa é subtropical, afinal.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "人も少なくていいよな",
+      "texto_en": "It's nice that there are fewer people around.",
+      "texto_ptbr": "É bom que tem pouca gente.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "真夏も体験してみたいな",
+      "texto_en": "It'd be great in midsummer too.",
+      "texto_ptbr": "Queria experimentar em pleno verão também.",
+      "selidx": 2
+    }
+  ]
+}

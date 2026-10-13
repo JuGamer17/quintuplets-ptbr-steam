@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca05_mv6_03",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "でも、本当に困ってしまって。\\n男性に贈り物をするなんて経験がないんです。",
+      "texto_en": "But, I'm really at a loss here.\\nI have no experience giving gifts to men.",
+      "texto_ptbr": "Mas eu estou realmente sem saber o que fazer.\\nNão tenho experiência em dar presentes para homens."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "いや、俺にくれただろ",
+      "texto_en": "Well, you've given one to me before.",
+      "texto_ptbr": "Não, você já me deu uma antes.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "別に気負わなくていい",
+      "texto_en": "You really don't need to worry about it.",
+      "texto_ptbr": "Não precisa se pressionar.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "じゃあ俺が……",
+      "texto_en": "Then, I...",
+      "texto_ptbr": "Então eu...",
+      "selidx": 2
+    }
+  ]
+}

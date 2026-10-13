@@ -1,0 +1,492 @@
+{
+  "arquivo": "ca06_mv1_02",
+  "total": 81,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "I think we can take this route. ",
+      "texto_ptbr": "Acho que a gente pode ir por esse caminho. "
+    },
+    {
+      "id": 1,
+      "personagem": "Miku",
+      "texto_en": "Oh, never mind, it's impossible...",
+      "texto_ptbr": "Ah, esquece, é impossível..."
+    },
+    {
+      "id": 2,
+      "personagem": "Yotsuba",
+      "texto_en": "Let's give it a try!\\nIt'll definitely be fun!",
+      "texto_ptbr": "Vamos tentar!\\nCom certeza vai ser divertido!"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "What are you standing here chatting about?",
+      "texto_ptbr": "Sobre o que vocês estão conversando aqui parados?"
+    },
+    {
+      "id": 4,
+      "personagem": "Miku",
+      "texto_en": "Futaro? Did you perhaps come to see me?",
+      "texto_ptbr": "Fuutarou? Por acaso você veio me ver?"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "No... It's just a coincidence or whatever...\\nI just happened to pass by here.",
+      "texto_ptbr": "Não... É só coincidência ou algo assim...\\nEu só passei por aqui por acaso."
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "I see.",
+      "texto_ptbr": "Entendo."
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-saaan, you shouldn't say that.\\nEven if it's a coincidence,\\nyou got to see Miku. You should be happy about that.",
+      "texto_ptbr": "Uesugi-saaan, não devia dizer isso.\\nMesmo que seja coincidência,\\nvocê pôde ver a Miku. Devia ficar feliz com isso."
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "You're here too, aren't you.",
+      "texto_ptbr": "Você também está aqui, né?"
+    },
+    {
+      "id": 9,
+      "personagem": "Yotsuba",
+      "texto_en": "Don't worry about me.\\nWell then, see you later!",
+      "texto_ptbr": "Não se preocupe comigo.\\nBem, então até mais!"
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Hey, wait a second.",
+      "texto_ptbr": "Ei, espera um pouco."
+    },
+    {
+      "id": 11,
+      "personagem": "Yotsuba",
+      "texto_en": "What is it?",
+      "texto_ptbr": "O que foi?"
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Even if we met by chance,\\nwe decided to spend time together.\\nWeren't you the ones who decided that?",
+      "texto_ptbr": "Mesmo que a gente tenha se encontrado por acaso,\\nficou decidido que passaríamos um tempo juntos.\\nNão foram vocês que decidiram isso?"
+    },
+    {
+      "id": 13,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, I suppose...",
+      "texto_ptbr": "Bem, acho que sim..."
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "And besides, Miku,\\nyou said you were going to the backstreets, right?",
+      "texto_ptbr": "E além disso, Miku,\\nvocê disse que ia pras ruelas, né?"
+    },
+    {
+      "id": 15,
+      "personagem": "Miku",
+      "texto_en": "This is one of those backstreets.\\nI just happened to meet Yotsuba here.",
+      "texto_ptbr": "Aqui é uma dessas ruelas.\\nEu só encontrei a Yotsuba por acaso."
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "I see. So, what were you talking about?",
+      "texto_ptbr": "Entendi. Então, sobre o que vocês estavam conversando?"
+    },
+    {
+      "id": 17,
+      "personagem": "Miku",
+      "texto_en": "We were talking about renting bicycles\\nand touring the sightseeing spots.",
+      "texto_ptbr": "Estávamos falando sobre alugar bicicletas\\ne passear pelos pontos turísticos."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Ah, I see.\\nThat kind of service is common in tourist areas.\\nIt sounds interesting.",
+      "texto_ptbr": "Ah, entendi.\\nEsse tipo de serviço é comum em áreas turísticas.\\nParece interessante."
+    },
+    {
+      "id": 19,
+      "personagem": "Miku",
+      "texto_en": "But I think it's better if I don't do it.",
+      "texto_ptbr": "Mas acho melhor eu não fazer."
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Why?",
+      "texto_ptbr": "Por quê?"
+    },
+    {
+      "id": 21,
+      "personagem": "Miku",
+      "texto_en": "Because there's no way I can keep up\\nwith Yotsuba's speed.",
+      "texto_ptbr": "Porque não tem como eu acompanhar\\na velocidade da Yotsuba."
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "...That's true.\\nIt would be a complete disaster for Miku and I. ",
+      "texto_ptbr": "...É verdade.\\nSeria um desastre completo pra mim e pra Miku. "
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "Whaa, even you, Uesugi-san?\\nI'll make sure to match everyone else's pace.",
+      "texto_ptbr": "Quê, até você, Uesugi-san?\\nEu vou fazer questão de acompanhar o ritmo de todos."
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "No, your enthusiasm makes you lose sight\\nof your surroundings. You might get distracted\\nby the scenery and start speeding up.",
+      "texto_ptbr": "Não, seu entusiasmo faz você perder a noção\\ndo que está ao redor. Você pode se distrair\\ncom a paisagem e acabar acelerando."
+    },
+    {
+      "id": 25,
+      "personagem": "Miku",
+      "texto_en": "Your eyes do wander...",
+      "texto_ptbr": "Você se distrai mesmo..."
+    },
+    {
+      "id": 26,
+      "personagem": "Yotsuba",
+      "texto_en": "Oooohh!\\nIt's frustrating that I can't deny it.",
+      "texto_ptbr": "Aaaargh!\\nQue frustrante não poder negar."
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "However, cycling doesn't sound like a bad idea,\\ndoes it?",
+      "texto_ptbr": "Porém, andar de bicicleta não parece uma má ideia,\\nparece?"
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "At a leisurely pace,\\nit would feel great to ride along the coast.",
+      "texto_ptbr": "Num ritmo tranquilo,\\nseria ótimo pedalar pela costa."
+    },
+    {
+      "id": 29,
+      "personagem": "Miku",
+      "texto_en": "But, Itsuki.",
+      "texto_ptbr": "Mas, a Itsuki."
+    },
+    {
+      "id": 30,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah! That's right!\\nI completely forgot!",
+      "texto_ptbr": "Ah! É verdade!\\nEu tinha esquecido completamente!"
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "What's up with Itsuki?",
+      "texto_ptbr": "O que tem a Itsuki?"
+    },
+    {
+      "id": 32,
+      "personagem": "Miku",
+      "texto_en": "...Is it okay to say it?",
+      "texto_ptbr": "...Tem problema falar?"
+    },
+    {
+      "id": 33,
+      "personagem": "Yotsuba",
+      "texto_en": "The thing is, Itsuki's the only one\\namong us that can't ride a bike.",
+      "texto_ptbr": "É que a Itsuki é a única\\nentre nós que não sabe andar de bicicleta."
+    },
+    {
+      "id": 34,
+      "personagem": "Miku",
+      "texto_en": "You just went and said it...",
+      "texto_ptbr": "Você foi lá e falou..."
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Oh wow, I didn't know that.\\nThat's so Itsuki, huh?",
+      "texto_ptbr": "Nossa, eu não sabia disso.\\nIsso é bem a cara da Itsuki, né?"
+    },
+    {
+      "id": 36,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah! Uesugi-san?\\nYou shouldn't make fun of Itsuki\\njust because she can't ride a bike, you know?",
+      "texto_ptbr": "Ah! Uesugi-san?\\nNão pode tirar sarro da Itsuki\\nsó porque ela não sabe andar de bicicleta, tá?"
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "I know.",
+      "texto_ptbr": "Eu sei."
+    },
+    {
+      "id": 38,
+      "personagem": "Miku",
+      "texto_en": "...Do you really know, though?",
+      "texto_ptbr": "...Mas será que sabe mesmo?"
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "However, I didn't know that until today.",
+      "texto_ptbr": "Só que eu não sabia disso até hoje."
+    },
+    {
+      "id": 40,
+      "personagem": "Miku",
+      "texto_en": "Itsuki's been hiding it from those around her.",
+      "texto_ptbr": "A Itsuki vem escondendo isso das pessoas ao redor."
+    },
+    {
+      "id": 41,
+      "personagem": "Yotsuba",
+      "texto_en": "Though it's obvious to us. Ahaha...",
+      "texto_ptbr": "Embora seja óbvio pra gente. Ahaha..."
+    },
+    {
+      "id": 42,
+      "personagem": "Yotsuba",
+      "texto_en": "Hmmm.\\nBut I think it would be much more convenient\\nif she could ride%p-2;――",
+      "texto_ptbr": "Hmmm.\\nMas acho que seria bem mais conveniente\\nse ela soubesse pedalar%p-2;――"
+    },
+    {
+      "id": 43,
+      "personagem": "Yotsuba",
+      "texto_en": "Maybe we should stop pretending that\\nwe don't know, and start special bicycle \\ntraining for her?",
+      "texto_ptbr": "Talvez a gente devesse parar de fingir que\\nnão sabe e começar um treinamento especial de bicicleta \\npra ela?"
+    },
+    {
+      "id": 44,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, we can make plans to go cycling together\\nand make it a goal for Itsuki to work towards!",
+      "texto_ptbr": "É, a gente pode combinar de pedalar juntos\\ne fazer disso uma meta pra Itsuki se esforçar!"
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "That'd be nice, huh?\\nGood luck with that.",
+      "texto_ptbr": "Seria legal, né?\\nBoa sorte com isso."
+    },
+    {
+      "id": 46,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san?\\nWhy are you talking about it\\nlike you're not involved?",
+      "texto_ptbr": "Uesugi-san?\\nPor que você está falando disso\\ncomo se não tivesse nada a ver?"
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 48,
+      "personagem": "Miku",
+      "texto_en": "Let's go cycling together, Futaro.",
+      "texto_ptbr": "Vamos pedalar juntos, Fuutarou."
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "That's fine, but...",
+      "texto_ptbr": "Por mim tudo bem, mas..."
+    },
+    {
+      "id": 50,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, we can't go cycling until Itsuki can ride.",
+      "texto_ptbr": "Bom, a gente só pode ir pedalar quando a Itsuki souber andar."
+    },
+    {
+      "id": 51,
+      "personagem": "Yotsuba",
+      "texto_en": "Of course, you'll help us, right, Uesugi-san?",
+      "texto_ptbr": "Claro que você vai nos ajudar, né, Uesugi-san?"
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Why do you want Itsuki\\nto be able to ride so badly?",
+      "texto_ptbr": "Por que você quer tanto\\nque a Itsuki saiba pedalar?"
+    },
+    {
+      "id": 53,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, it's kind of lonely, you know.\\nIf only one person can't ride.",
+      "texto_ptbr": "Ah, é meio solitário, sabe.\\nSe só uma pessoa não sabe andar."
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "It's fine to make a plan as you like,\\nbut it'd be best not to force her, right?",
+      "texto_ptbr": "Fazer planos como quiser tudo bem,\\nmas é melhor não forçá-la, né?"
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "If you're going to do it,\\nat least confirm with Itsuki first.",
+      "texto_ptbr": "Se for fazer isso,\\npelo menos confirme com a Itsuki primeiro."
+    },
+    {
+      "id": 56,
+      "personagem": "Yotsuba",
+      "texto_en": "Of course.\\nI have no intention of forcing anyone.",
+      "texto_ptbr": "Claro.\\nEu não tenho a intenção de forçar ninguém."
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "Well, if you request it,\\nshe just might give it her all.",
+      "texto_ptbr": "Bem, se você pedir,\\nela pode até se esforçar ao máximo."
+    },
+    {
+      "id": 58,
+      "personagem": "Yotsuba",
+      "texto_en": "I wonder if there are practice bikes or something.\\nI'll look it up later.",
+      "texto_ptbr": "Será que existem bicicletas de treino ou algo assim?\\nDepois eu procuro."
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "Why do you want Itsuki\\nto be able to ride so badly?",
+      "texto_ptbr": "Por que você quer tanto\\nque a Itsuki saiba pedalar?"
+    },
+    {
+      "id": 60,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, it's kind of lonely, you know.\\nIf only one person can't ride.",
+      "texto_ptbr": "Ah, é meio solitário, sabe.\\nSe só uma pessoa não sabe andar."
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "Setting goals is a good idea.",
+      "texto_ptbr": "Definir metas é uma boa ideia."
+    },
+    {
+      "id": 62,
+      "personagem": "Yotsuba",
+      "texto_en": "Really?\\nOh, I never thought I'd be praised by you,\\nUesugi-san!",
+      "texto_ptbr": "Sério?\\nNossa, nunca imaginei que seria elogiada por você,\\nUesugi-san!"
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "You guys studied hard because you had goals,\\ndidn't you?\\nIt's the same thing.",
+      "texto_ptbr": "Vocês estudaram com afinco porque tinham metas,\\nnão foi?\\nÉ a mesma coisa."
+    },
+    {
+      "id": 64,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, that's true.",
+      "texto_ptbr": "Ah, é verdade."
+    },
+    {
+      "id": 65,
+      "personagem": "Miku",
+      "texto_en": "I was able to work hard,\\neven on subjects I didn't like,\\nbecause I had goals.",
+      "texto_ptbr": "Eu consegui me esforçar,\\nmesmo nas matérias que eu não gostava,\\nporque eu tinha metas."
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "It's important to be able to see the finish line.\\nIt's easy to see how far you've come.",
+      "texto_ptbr": "É importante conseguir enxergar a linha de chegada.\\nFica fácil ver o quanto você já avançou."
+    },
+    {
+      "id": 67,
+      "personagem": "Yotsuba",
+      "texto_en": "Alright!\\nI'll suggest it to Itsuki\\nwhen we get back from our trip.",
+      "texto_ptbr": "Certo!\\nVou sugerir isso pra Itsuki\\nquando a gente voltar da viagem."
+    },
+    {
+      "id": 68,
+      "personagem": "Yotsuba",
+      "texto_en": "I wonder if there are practice bikes or something.\\nI'll look it up later.",
+      "texto_ptbr": "Será que existem bicicletas de treino ou algo assim?\\nDepois eu procuro."
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "Why do you want Itsuki\\nto be able to ride so badly?",
+      "texto_ptbr": "Por que você quer tanto\\nque a Itsuki saiba pedalar?"
+    },
+    {
+      "id": 70,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, it's kind of lonely, you know.\\nIf only one person can't ride.",
+      "texto_ptbr": "Ah, é meio solitário, sabe.\\nSe só uma pessoa não sabe andar."
+    },
+    {
+      "id": 71,
+      "personagem": "Yotsuba",
+      "texto_en": "I'm sure it'll be fine. Itsuki will have us\\nand Uesugi-san to support her.\\nThere's nothing she can't do!",
+      "texto_ptbr": "Tenho certeza de que vai dar tudo certo. A Itsuki tem a gente\\ne o Uesugi-san pra apoiá-la.\\nNão tem nada que ela não consiga!"
+    },
+    {
+      "id": 72,
+      "personagem": "Yotsuba",
+      "texto_en": "After all, thanks to everyone, even silly ol' me\\nwas able to get into university.",
+      "texto_ptbr": "Afinal, graças a todo mundo, até uma boba como eu\\nconseguiu entrar na universidade."
+    },
+    {
+      "id": 73,
+      "personagem": "Miku",
+      "texto_en": "I also learned how to cook,\\nthanks to the help of Yotsuba and Nino.",
+      "texto_ptbr": "Eu também aprendi a cozinhar,\\ngraças à ajuda da Yotsuba e da Nino."
+    },
+    {
+      "id": 74,
+      "personagem": "Miku",
+      "texto_en": "I'm sure Itsuki will be able to ride a bicycle too.",
+      "texto_ptbr": "Tenho certeza de que a Itsuki também vai conseguir andar de bicicleta."
+    },
+    {
+      "id": 75,
+      "personagem": "Yotsuba",
+      "texto_en": "So, when Itsuki learns to ride a bike,\\nlet's all go cycling together!",
+      "texto_ptbr": "Então, quando a Itsuki aprender a andar de bicicleta,\\nvamos todos pedalar juntos!"
+    },
+    {
+      "id": 76,
+      "personagem": "Yotsuba",
+      "texto_en": "Okay, so when Itsuki learns to ride a bike,\\nlet's all go cycling together!",
+      "texto_ptbr": "Certo, então quando a Itsuki aprender a andar de bicicleta,\\nvamos todos pedalar juntos!"
+    },
+    {
+      "id": 77,
+      "personagem": "Miku",
+      "texto_en": "That's a good idea to go with everyone, but...\\nI'd like to go with Futaro. Just the two of us.",
+      "texto_ptbr": "É uma boa ideia ir com todo mundo, mas...\\nEu queria ir com o Fuutarou. Só nós dois."
+    },
+    {
+      "id": 78,
+      "personagem": "Miku",
+      "texto_en": "If it's just the two of us,\\nwe could ride at the same pace, right?",
+      "texto_ptbr": "Se formos só nós dois,\\ndaria pra pedalar no mesmo ritmo, né?"
+    },
+    {
+      "id": 79,
+      "personagem": "Futaro",
+      "texto_en": "Well... I'd be a little worried\\nif it's just you and me.\\nMostly about our physical endurance.",
+      "texto_ptbr": "Bem... eu ficaria um pouco preocupado\\nse formos só você e eu.\\nPrincipalmente com a nossa resistência física."
+    },
+    {
+      "id": 80,
+      "personagem": "Yotsuba",
+      "texto_en": "Then, shall I train with both of you?!\\nTee-hee!",
+      "texto_ptbr": "Então, que tal eu treinar com vocês dois?!\\nEhehe!"
+    }
+  ]
+}

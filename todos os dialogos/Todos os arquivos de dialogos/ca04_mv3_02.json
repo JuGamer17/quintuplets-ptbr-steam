@@ -1,0 +1,480 @@
+{
+  "arquivo": "ca04_mv3_02",
+  "total": 79,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "What are you guys doing?",
+      "texto_ptbr": "O que vocês estão fazendo?"
+    },
+    {
+      "id": 1,
+      "personagem": "Miku",
+      "texto_en": "Ah, Futaro.",
+      "texto_ptbr": "Ah, Fuutarou."
+    },
+    {
+      "id": 2,
+      "personagem": "Yotsuba",
+      "texto_en": "Look, Uesugi-san.\\nThere are so many Okinawan sweets lined up!",
+      "texto_ptbr": "Olha, Uesugi-san.\\nTem tantos doces de Okinawa enfileirados!"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Didn't we just eat breakfast?",
+      "texto_ptbr": "A gente não acabou de tomar café da manhã?"
+    },
+    {
+      "id": 4,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, I couldn't resist the delicious smell!",
+      "texto_ptbr": "Bem, eu não resisti ao cheirinho delicioso!"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "You're not Itsuki.\\nBut, it does smell really good.",
+      "texto_ptbr": "Você não é a Itsuki.\\nMas o cheiro está realmente muito bom."
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "Those are 'sata andagi...'\\nWow, they even have \\n'black sugar caneles.'",
+      "texto_ptbr": "Isso é 'sata andagi...'\\nNossa, tem até \\n'canelés de açúcar negro'."
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "You can buy them one at a time,\\nso let's try one.",
+      "texto_ptbr": "Dá pra comprar um de cada vez,\\nentão vamos experimentar um."
+    },
+    {
+      "id": 8,
+      "personagem": "Miku",
+      "texto_en": "Then let's go with sata andagi.\\nIt's like a donut, right?",
+      "texto_ptbr": "Então vamos de sata andagi.\\nÉ tipo um donut, né?"
+    },
+    {
+      "id": 9,
+      "personagem": "Yotsuba",
+      "texto_en": "That's right.",
+      "texto_ptbr": "Isso mesmo."
+    },
+    {
+      "id": 10,
+      "personagem": "Yotsuba",
+      "texto_en": "Sata is sugar! Anda is oil! Agi is frying!\\nCombine them all! Sata andagi!",
+      "texto_ptbr": "Sata é açúcar! Anda é óleo! Agi é fritura!\\nJunte tudo! Sata andagi!"
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "What's with that local superhero-esque catchphrase.\\nYet, Yotsuba, you sure know a lot.",
+      "texto_ptbr": "Que bordão é esse, parece de super-herói local.\\nMas, Yotsuba, você sabe muita coisa mesmo."
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "Hehehe.\\nI did my research on things everyone would like\\nbefore we went on the trip.",
+      "texto_ptbr": "Hehehe.\\nEu pesquisei coisas que todo mundo ia gostar\\nantes de a gente viajar."
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "If only you could use that passion for studying,\\nyou wouldn't have had so much trouble with exams.",
+      "texto_ptbr": "Se você conseguisse usar essa paixão nos estudos,\\nnão teria passado tanto aperto nas provas."
+    },
+    {
+      "id": 14,
+      "personagem": "Yotsuba",
+      "texto_en": "Y-you're not supposed to say that.",
+      "texto_ptbr": "V-você não devia falar isso."
+    },
+    {
+      "id": 15,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 16,
+      "personagem": "Yotsuba",
+      "texto_en": "What? Miku?",
+      "texto_ptbr": "Que foi? Miku?"
+    },
+    {
+      "id": 17,
+      "personagem": "Miku",
+      "texto_en": "It's nothing.",
+      "texto_ptbr": "Não é nada."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "But, there are so many types.\\nNot just plain ones, but also black sugar,\\npurple sweet potato, pineapple, and mango flavors.",
+      "texto_ptbr": "Mas tem tantos tipos.\\nNão só o simples, mas também de açúcar negro,\\nbatata-doce roxa, abacaxi e manga."
+    },
+    {
+      "id": 19,
+      "personagem": "Miku",
+      "texto_en": "Here, plain is the way to go.\\nI want to try the basic flavor in its original place.",
+      "texto_ptbr": "Aqui, o simples é o melhor caminho.\\nQuero provar o sabor básico no lugar de origem."
+    },
+    {
+      "id": 20,
+      "personagem": "Miku",
+      "texto_en": "It's still a bit hot.",
+      "texto_ptbr": "Ainda está um pouco quente."
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "It's freshly fried, huh.\\nSounding more and more delicious by the second.",
+      "texto_ptbr": "Acabou de ser frito, né.\\nCada segundo parece mais delicioso."
+    },
+    {
+      "id": 22,
+      "personagem": "Miku",
+      "texto_en": "Yeah.\\nBut this is bigger than I thought.\\nI might not be able to finish it.",
+      "texto_ptbr": "É.\\nMas é maior do que eu pensava.\\nTalvez eu não consiga terminar."
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "Then, why don't we split it in half?",
+      "texto_ptbr": "Então, por que a gente não divide ao meio?"
+    },
+    {
+      "id": 24,
+      "personagem": "Miku",
+      "texto_en": "Oh, right.\\nLet's split it in half, then...",
+      "texto_ptbr": "Ah, verdade.\\nEntão vamos dividir ao meio..."
+    },
+    {
+      "id": 25,
+      "personagem": "Miku",
+      "texto_en": "Here you go, Futaro.",
+      "texto_ptbr": "Toma, Fuutarou."
+    },
+    {
+      "id": 26,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh? Whaaa?",
+      "texto_ptbr": "Hã? Éeeh?"
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Should I eat this?",
+      "texto_ptbr": "Devo comer isso?"
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "I'm still a little full.",
+      "texto_ptbr": "Ainda estou meio cheio."
+    },
+    {
+      "id": 29,
+      "personagem": "Miku",
+      "texto_en": "It's only half. It's fine.",
+      "texto_ptbr": "É só metade. Tudo bem."
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "No, what are you saying that based on?\\nI don't have a stomach like Itsuki.",
+      "texto_ptbr": "Não, com base em que você está dizendo isso?\\nEu não tenho um estômago igual ao da Itsuki."
+    },
+    {
+      "id": 31,
+      "personagem": "Miku",
+      "texto_en": "Should I tell Itsuki what you just said?",
+      "texto_ptbr": "Devo contar pra Itsuki o que você acabou de dizer?"
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Please don't...",
+      "texto_ptbr": "Por favor, não..."
+    },
+    {
+      "id": 33,
+      "personagem": "Miku",
+      "texto_en": "I want to split it fifty-fifty with you.",
+      "texto_ptbr": "Eu quero dividir meio a meio com você."
+    },
+    {
+      "id": 34,
+      "personagem": "Miku",
+      "texto_en": "Here, I'll feed you.",
+      "texto_ptbr": "Toma, eu te dou na boca."
+    },
+    {
+      "id": 35,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 36,
+      "personagem": "Miku",
+      "texto_en": "Come on, Futaro.\\nOpen wide.",
+      "texto_ptbr": "Vamos, Fuutarou.\\nAbre a boca."
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Oily food, in the morning?\\nThat may not be the best idea.",
+      "texto_ptbr": "Comida gordurosa, de manhã?\\nTalvez não seja uma boa ideia."
+    },
+    {
+      "id": 38,
+      "personagem": "Miku",
+      "texto_en": "Haha, what?\\nYou're like an old grandpa.",
+      "texto_ptbr": "Haha, o quê?\\nVocê parece um velhinho."
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "But we ate a gentle rice porridge for breakfast.\\nEating such an oily food here,\\nwould make all that go to waste wouldn't it...?",
+      "texto_ptbr": "Mas a gente tomou um mingau de arroz leve no café da manhã.\\nComer uma coisa tão gordurosa agora\\nvai jogar tudo isso fora, não vai...?"
+    },
+    {
+      "id": 40,
+      "personagem": "Miku",
+      "texto_en": "But if you don't eat it,\\nit would be a waste of what I bought.",
+      "texto_ptbr": "Mas se você não comer,\\nvai ser um desperdício do que eu comprei."
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Well, that IS true.",
+      "texto_ptbr": "Bem, isso É verdade."
+    },
+    {
+      "id": 42,
+      "personagem": "Miku",
+      "texto_en": "Come on, Grandpa Futaro.\\nDo your best and eat up.",
+      "texto_ptbr": "Vamos, vovô Fuutarou.\\nSe esforce e coma tudo."
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*\\nWhy do you want me to eat it that much?",
+      "texto_ptbr": "*suspiro*\\nPor que você quer tanto que eu coma?"
+    },
+    {
+      "id": 44,
+      "personagem": "Miku",
+      "texto_en": "I want to split it fifty-fifty with you.",
+      "texto_ptbr": "Eu quero dividir meio a meio com você."
+    },
+    {
+      "id": 45,
+      "personagem": "Miku",
+      "texto_en": "Here, I'll feed you.",
+      "texto_ptbr": "Toma, eu te dou na boca."
+    },
+    {
+      "id": 46,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 47,
+      "personagem": "Miku",
+      "texto_en": "Come on, Futaro.\\nOpen wide.",
+      "texto_ptbr": "Vamos, Fuutarou.\\nAbre a boca."
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "How about you split it in half with Yotsuba instead?\\nHonestly, that's what I thought you were gonna do.",
+      "texto_ptbr": "Que tal você dividir ao meio com a Yotsuba?\\nSinceramente, achei que era isso que você ia fazer."
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Yotsuba, that's what you were thinking, right?",
+      "texto_ptbr": "Yotsuba, era isso que você estava pensando, né?"
+    },
+    {
+      "id": 50,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahaha...\\nYeah, that was the plan.",
+      "texto_ptbr": "Ahaha...\\nÉ, esse era o plano."
+    },
+    {
+      "id": 51,
+      "personagem": "Miku",
+      "texto_en": "That's just a misunderstanding between the two of you.\\nI intended to split it with you from the beginning.",
+      "texto_ptbr": "Isso é só um mal-entendido entre vocês dois.\\nEu pretendia dividir com você desde o começo."
+    },
+    {
+      "id": 52,
+      "personagem": "Miku",
+      "texto_en": "So here you go, Futaro.\\nThis is for you.",
+      "texto_ptbr": "Então toma, Fuutarou.\\nÉ pra você."
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "Sorry, but I'm still full.\\nYou should share it with Yotsuba.",
+      "texto_ptbr": "Desculpa, mas ainda estou cheio.\\nVocê deveria dividir com a Yotsuba."
+    },
+    {
+      "id": 54,
+      "personagem": "Miku",
+      "texto_en": "I want to split it fifty-fifty with you.",
+      "texto_ptbr": "Eu quero dividir meio a meio com você."
+    },
+    {
+      "id": 55,
+      "personagem": "Miku",
+      "texto_en": "Here, I'll feed you.",
+      "texto_ptbr": "Toma, eu te dou na boca."
+    },
+    {
+      "id": 56,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 57,
+      "personagem": "Miku",
+      "texto_en": "Come on, Futaro.\\nOpen wide.",
+      "texto_ptbr": "Vamos, Fuutarou.\\nAbre a boca."
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "H-hey, what are you doing...?",
+      "texto_ptbr": "E-ei, o que você está fazendo...?"
+    },
+    {
+      "id": 59,
+      "personagem": "Yotsuba",
+      "texto_en": "Uwaaaaa...",
+      "texto_ptbr": "Uwaaaaa..."
+    },
+    {
+      "id": 60,
+      "personagem": "Miku",
+      "texto_en": "Ahhhhhh.",
+      "texto_ptbr": "Aaaaaaah."
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "(Even though Yotsuba is here,\\n what is Miku thinking...)",
+      "texto_ptbr": "(Mesmo com a Yotsuba aqui,\\n o que será que a Miku está pensando...)"
+    },
+    {
+      "id": 62,
+      "personagem": "Yotsuba",
+      "texto_en": "NOM!!",
+      "texto_ptbr": "NHAM!!"
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "!",
+      "texto_ptbr": "!"
+    },
+    {
+      "id": 64,
+      "personagem": "Miku",
+      "texto_en": "AH!",
+      "texto_ptbr": "AH!"
+    },
+    {
+      "id": 65,
+      "personagem": "Yotsuba",
+      "texto_en": "Nom, nom...",
+      "texto_ptbr": "Nham, nham..."
+    },
+    {
+      "id": 66,
+      "personagem": "Miku",
+      "texto_en": "Why did you eat it, Yotsuba?",
+      "texto_ptbr": "Por que você comeu, Yotsuba?"
+    },
+    {
+      "id": 67,
+      "personagem": "Yotsuba",
+      "texto_en": "Sorry Miku, it just looked so good.",
+      "texto_ptbr": "Desculpa, Miku, é que parecia tão bom."
+    },
+    {
+      "id": 68,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 69,
+      "personagem": "Yotsuba",
+      "texto_en": "I'll buy another one as an apology!",
+      "texto_ptbr": "Vou comprar outro pra me desculpar!"
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "W-wait, Yotsuba,\\nShe only cut it in half\\nbecause I couldn't eat the whole thing.",
+      "texto_ptbr": "E-espera, Yotsuba,\\nela só cortou ao meio\\nporque eu não conseguia comer tudo."
+    },
+    {
+      "id": 71,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, that's right!",
+      "texto_ptbr": "Ah, é verdade!"
+    },
+    {
+      "id": 72,
+      "personagem": "Miku",
+      "texto_en": "Yotsuba, do you want more?\\nCome to think of it, I'm not that hungry.",
+      "texto_ptbr": "Yotsuba, você quer mais?\\nAgora que penso, eu não estou com tanta fome."
+    },
+    {
+      "id": 73,
+      "personagem": "Yotsuba",
+      "texto_en": "Is that so?\\nAlright, I'll have the sata andagi,\\nso for you, maybe something lighter?",
+      "texto_ptbr": "É mesmo?\\nTá bom, eu fico com o sata andagi,\\nentão pra você, talvez algo mais leve?"
+    },
+    {
+      "id": 74,
+      "personagem": "Miku",
+      "texto_en": "Sure. Thanks.",
+      "texto_ptbr": "Claro. Obrigada."
+    },
+    {
+      "id": 75,
+      "personagem": "Yotsuba",
+      "texto_en": "How about ice cream?\\nMiku, you like soft serve matcha ice cream,\\nbut that's not very Okinawan, is it?",
+      "texto_ptbr": "Que tal sorvete?\\nMiku, você gosta de sorvete cremoso de matcha,\\nmas isso não é muito de Okinawa, é?"
+    },
+    {
+      "id": 76,
+      "personagem": "Miku",
+      "texto_en": "Something not too sweet would be good, I think.",
+      "texto_ptbr": "Algo não muito doce seria bom, acho."
+    },
+    {
+      "id": 77,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 78,
+      "personagem": "Futaro",
+      "texto_en": "(What's going on with Miku?\\n And Yotsuba earlier, as well...)",
+      "texto_ptbr": "(O que está acontecendo com a Miku?\\n E com a Yotsuba agora há pouco também...)"
+    }
+  ]
+}

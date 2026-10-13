@@ -1,0 +1,270 @@
+{
+  "arquivo": "ca06_19",
+  "total": 44,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(I was bewildered by the two Itsukis in the\\nexhibition corner, so I tried to change targets to\\nother Itsukis, but the result was equally dismal...)",
+      "texto_ptbr": "(Fiquei desnorteado pelas duas Itsukis no\\ncanto de exposição, então tentei mudar de alvo para\\noutras Itsukis, mas o resultado foi igualmente desanimador...)"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(Meanwhile, in my confusion,\\nthe quintuplets finished touring the entire building\\nand gathered again in the entrance hall.)",
+      "texto_ptbr": "(Enquanto isso, em meio à minha confusão,\\nas quintuplas terminaram de percorrer o prédio inteiro\\ne se reuniram de novo no hall de entrada.)"
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "There were so many interesting things to see! We were\\nable to learn about Okinawa's history and culture\\nthat we couldn't find in textbooks.",
+      "texto_ptbr": "Tinha tanta coisa interessante para ver! Conseguimos\\naprender sobre a história e cultura de Okinawa\\nque a gente não encontraria em livros didáticos."
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "The exhibition on the Ryukyu Kingdom era was also great.\\nThe vibrant colors unique to Okinawa\\nare a traditional feature.",
+      "texto_ptbr": "A exposição sobre a era do Reino de Ryukyu também foi ótima.\\nAs cores vibrantes exclusivas de Okinawa\\nsão uma característica tradicional."
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "The art museum was also wonderful!\\nIf we had more time,\\nwe could have participated in the workshops too.",
+      "texto_ptbr": "O museu de arte também foi maravilhoso!\\nSe tivéssemos mais tempo,\\npoderíamos ter participado das oficinas também."
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, there were many interesting things\\nlike a 'sanshin' instrument experience,\\nand making 'shisa' lion-dog crafts.",
+      "texto_ptbr": "Sim, tinha muitas coisas interessantes\\ncomo uma experiência com o instrumento 'sanshin',\\ne fazer artesanatos de 'shisa', os cães-leão."
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "...Indeed.",
+      "texto_ptbr": "...De fato."
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "(*sigh*\\n My head is already hurting from their confusing\\n methods, and yet they look so joyful.)",
+      "texto_ptbr": "(*suspiro*\\n Minha cabeça já dói por causa desses métodos\\n confusos delas, e mesmo assim elas parecem tão alegres.)"
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "(But seriously, this is really tough.)",
+      "texto_ptbr": "(Mas sério, isso é bem difícil.)"
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "(To think they would even mimic other quintuplets\\n other than Itsuki during their quintuplets game...)",
+      "texto_ptbr": "(Pensar que elas até imitariam outras quintuplas\\n além da Itsuki durante o jogo delas...)"
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "(I can't tell if they forgot\\n they were mimicking Itsuki,\\n or if they were mimicking another sister.)",
+      "texto_ptbr": "(Não sei dizer se elas esqueceram\\n que estavam imitando a Itsuki,\\n ou se estavam imitando outra irmã.)"
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "(At first, I thought it would be fine\\n to talk together while they're acting...\\n but that was really naive.)",
+      "texto_ptbr": "(No começo, pensei que estaria tudo bem\\n conversar com elas enquanto atuavam...\\n mas isso foi bem ingênuo.)"
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "(Are they intentionally trying to make me notice,\\n or is it the slightly obvious trap\\n that makes it worse?)",
+      "texto_ptbr": "(Será que elas estão tentando de propósito fazer eu perceber,\\n ou é a armadilha um pouco óbvia demais\\n que piora tudo?)"
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "(...But then again, I'm the one who's reacting to it!)",
+      "texto_ptbr": "(...Mas pensando bem, sou eu quem está reagindo a isso!)"
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "(Damn, it's already troublesome enough\\n that they're all playing as Itsuki,\\n and now they're setting traps on top of that!)",
+      "texto_ptbr": "(Droga, já é complicado o suficiente\\n elas todas fazendo o papel de Itsuki,\\n e agora ainda estão armando ciladas por cima disso!)"
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "(However, I can't just let them keep doing\\n whatever they want.)",
+      "texto_ptbr": "(Porém, não posso simplesmente deixar elas fazerem\\n o que quiserem.)"
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "(Fine then. If that's the case,\\n I'll need to be more thorough!)",
+      "texto_ptbr": "(Tudo bem então. Se é assim,\\n vou precisar ser mais minucioso!)"
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "...Alright.\\nI need a plan first.",
+      "texto_ptbr": "...Certo.\\nPreciso de um plano primeiro."
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "Are you alright? You seem tired.",
+      "texto_ptbr": "Você está bem? Parece cansado."
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Huh? No, I'm fine. I was just getting motivated.",
+      "texto_ptbr": "Hã? Não, estou bem. Só estava me motivando."
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "Teehee!\\nThat's exactly what I expect from you.",
+      "texto_ptbr": "Ihihi!\\nÉ exatamente isso que eu espero de você."
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Hmph, I'll definitely figure this out. Just wait.",
+      "texto_ptbr": "Hunf, com certeza vou descobrir isso. Só espera."
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "...Eh?",
+      "texto_ptbr": "...Ein?"
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "(It's not a joke that our year and a half together\\n would be denied by you guys yourselves.)",
+      "texto_ptbr": "(Não é brincadeira que o nosso ano e meio juntos\\n seja negado por vocês mesmas.)"
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "To figure this out...",
+      "texto_ptbr": "Descobrir isso..."
+    },
+    {
+      "id": 25,
+      "personagem": "Itsuki",
+      "texto_en": "Both of you.\\nIt's getting late, shall we discuss dinner now?",
+      "texto_ptbr": "Vocês duas.\\nEstá ficando tarde, vamos discutir o jantar agora?"
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "Ah! Yes!\\nThat's right.\\nI think there's a cafe inside the hotel.",
+      "texto_ptbr": "Ah! Sim!\\nIsso mesmo.\\nAcho que tem um café dentro do hotel."
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "Instead of eating here, let's go back to Kokusai dori.\\nIt's close to the hotel!",
+      "texto_ptbr": "Em vez de comer aqui, vamos voltar para a Kokusai dori.\\nÉ perto do hotel!"
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "There are many delicious-looking restaurants\\non Kokusai dori... H-how should we decide?",
+      "texto_ptbr": "Tem muitos restaurantes com cara de gostoso\\nna Kokusai dori... C-como vamos decidir?"
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "In this case, why don't we go on a food tour?\\nI'm sure it'll be fun!",
+      "texto_ptbr": "Nesse caso, que tal fazermos um tour gastronômico?\\nTenho certeza que vai ser divertido!"
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun, is there something you want to try?",
+      "texto_ptbr": "Uesugi-kun, tem algo que você quer experimentar?"
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "(Insisting on a food tour, isn't that Itsuki?\\n No, that's too obvious.\\n It could be a fake...)",
+      "texto_ptbr": "(Insistir em um tour gastronômico, isso não é a Itsuki?\\n Não, isso é óbvio demais.\\n Pode ser uma farsa...)"
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun?",
+      "texto_ptbr": "Uesugi-kun?"
+    },
+    {
+      "id": 33,
+      "personagem": "Itsuki",
+      "texto_en": "What is it?\\nDon't stare at me like that.",
+      "texto_ptbr": "O que foi?\\nNão fica me encarando assim."
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Mmm...",
+      "texto_ptbr": "Hmm..."
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "Um, your gaze is a little scary, you know?",
+      "texto_ptbr": "Hã, seu olhar está um pouco assustador, sabia?"
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "...That so?\\nWell, don't worry about me.",
+      "texto_ptbr": "...É mesmo?\\nBem, não se preocupe comigo."
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "Even if you say that...",
+      "texto_ptbr": "Mesmo se você disser isso..."
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "Even you must be hungry, Uesugi-kun.\\nLet's hurry and go!",
+      "texto_ptbr": "Até você deve estar com fome, Uesugi-kun.\\nVamos logo!"
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Yeah.",
+      "texto_ptbr": "É."
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "Itsuki? What's wrong?",
+      "texto_ptbr": "Itsuki? O que foi?"
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, no, it's nothing.\\nLet's hurry too.",
+      "texto_ptbr": "Ah, não, não é nada.\\nVamos nos apressar também."
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    }
+  ]
+}

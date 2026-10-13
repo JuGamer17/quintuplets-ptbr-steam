@@ -1,0 +1,516 @@
+{
+  "arquivo": "gr_06_03",
+  "total": 85,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "We'll be in Okinawa soon, huh.",
+      "texto_ptbr": "Logo estaremos em Okinawa, hein."
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(The graduation ceremony ended smoothly.\\n Plus, Ichika passed her special exam and \\n was certified to graduate with no issue.)",
+      "texto_ptbr": "(A cerimônia de formatura terminou sem problemas.\\n Além disso, a Ichika passou na prova especial e \\n teve a formatura confirmada sem nenhum problema.)"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(We have indeed reached the distant goal we saw\\n when we started studying together.)",
+      "texto_ptbr": "(Realmente alcançamos o objetivo distante que víamos\\n quando começamos a estudar juntos.)"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "(The remaining problem is%p-2;――%p;)",
+      "texto_ptbr": "(O problema que resta é%p-2;――%p;)"
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "(I've been thinking about it until today.\\n The answer to give to them.)",
+      "texto_ptbr": "(Estive pensando nisso até hoje.\\n A resposta a dar a elas.)"
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "(I feel like I'm finally understanding my own feelings.\\n During this trip, I have to confirm whether \\n those feelings are real.)",
+      "texto_ptbr": "(Sinto que finalmente estou entendendo meus próprios sentimentos.\\n Durante essa viagem, preciso confirmar se \\n esses sentimentos são reais.)"
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "We made it! We're in Okinawa!",
+      "texto_ptbr": "Chegamos! Estamos em Okinawa!"
+    },
+    {
+      "id": 8,
+      "personagem": "Miku",
+      "texto_en": "It's closer than I thought.\\nI thought it would take more time.",
+      "texto_ptbr": "É mais perto do que eu pensava.\\nAchei que levaria mais tempo."
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "Airplanes sure are convenient.",
+      "texto_ptbr": "Avião é muito prático mesmo."
+    },
+    {
+      "id": 10,
+      "personagem": "Yotsuba",
+      "texto_en": "Ohhhh?\\nDon't you feel like the atmosphere has already changed?\\nWhat do you think, Uesugi-san?",
+      "texto_ptbr": "Ohhhh?\\nNão sentem que o clima já mudou?\\nO que acha, Uesugi-san?"
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Ah, you're right.",
+      "texto_ptbr": "Ah, é verdade."
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "(Although the whole airport is in a welcoming mood as \\n a tourist destination, there's a relaxed feeling in the air. \\n What's it called? Uchina-time?)",
+      "texto_ptbr": "(Apesar de o aeroporto inteiro estar num clima acolhedor de \\n destino turístico, há uma sensação relaxada no ar. \\n Como é que chamam? Horário Uchina?)"
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 14,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun? Is something wrong?",
+      "texto_ptbr": "Fu-kun? Aconteceu alguma coisa?"
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "No, I just thought the atmosphere\\nwas better than I expected.",
+      "texto_ptbr": "Não, só achei que o clima\\nera melhor do que eu esperava."
+    },
+    {
+      "id": 16,
+      "personagem": "Miku",
+      "texto_en": "Yeah, I'm glad we came.",
+      "texto_ptbr": "É, que bom que viemos."
+    },
+    {
+      "id": 17,
+      "personagem": "Yotsuba",
+      "texto_en": "This way, we'll make pleeenty of good memories.",
+      "texto_ptbr": "Assim, vamos criar muuuitas lembranças boas."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "You guys are getting ahead of yourselves.\\nWe just arrived, didn't we?",
+      "texto_ptbr": "Vocês estão se precipitando.\\nAcabamos de chegar, não é?"
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "That's right.\\nWe haven't even left the airport yet.",
+      "texto_ptbr": "Verdade.\\nNem saímos do aeroporto ainda."
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 21,
+      "personagem": "Yotsuba",
+      "texto_en": "Itsuki? Ichika too, are you alright?\\nYou've been pretty quiet for a while.",
+      "texto_ptbr": "Itsuki? Ichika também, vocês estão bem?\\nEstão bem quietas faz um tempo."
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, no.\\nNo problems.",
+      "texto_ptbr": "Ah, não.\\nSem problemas."
+    },
+    {
+      "id": 23,
+      "personagem": "Ichika",
+      "texto_en": "Sorry, sorry, I'm fine too.\\nMaybe I got a little airsick.",
+      "texto_ptbr": "Desculpa, desculpa, eu também estou bem.\\nTalvez eu tenha enjoado um pouco no avião."
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Hey, are you serious?\\nMaybe you should rest for a bit?",
+      "texto_ptbr": "Ei, sério isso?\\nTalvez você devesse descansar um pouco?"
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "No, it's not that bad.\\nWe're going straight to the hotel today,\\nso I'm okay.",
+      "texto_ptbr": "Não, não é tão grave.\\nHoje vamos direto pro hotel,\\nentão estou bem."
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "Ah, that's right.\\nIt's already afternoon,\\nso it's difficult to go sightseeing now.",
+      "texto_ptbr": "Ah, é verdade.\\nJá é de tarde,\\nentão fica difícil passear agora."
+    },
+    {
+      "id": 27,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, I almost forgot!\\nI haven't told Uesugi-san the details yet.",
+      "texto_ptbr": "Ah, quase esqueci!\\nAinda não contei os detalhes pro Uesugi-san."
+    },
+    {
+      "id": 28,
+      "personagem": "Yotsuba",
+      "texto_en": "Here you go.\\nIt's the travel guide for this trip.",
+      "texto_ptbr": "Aqui está.\\nÉ o guia dessa viagem."
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Thanks.\\nDid you go out of your way to make this?\\nYou're really enthusiastic.",
+      "texto_ptbr": "Valeu.\\nVocê se deu ao trabalho de fazer isso?\\nVocê está muito empolgada."
+    },
+    {
+      "id": 30,
+      "personagem": "Yotsuba",
+      "texto_en": "Tee-hee, I just got carried away.",
+      "texto_ptbr": "Hihi, eu me empolguei."
+    },
+    {
+      "id": 31,
+      "personagem": "Miku",
+      "texto_en": "The itinerary is something we all discussed\\nand decided upon.\\nI'll give you a brief explanation.",
+      "texto_ptbr": "O roteiro é algo que todas nós conversamos\\ne decidimos.\\nVou dar uma breve explicação."
+    },
+    {
+      "id": 32,
+      "personagem": "Miku",
+      "texto_en": "The trip is for six days,\\nbut we can use only four days for sightseeing\\nbecause the first and last days are for travel.",
+      "texto_ptbr": "A viagem é de seis dias,\\nmas só podemos usar quatro dias pra passear\\nporque o primeiro e o último dia são de deslocamento."
+    },
+    {
+      "id": 33,
+      "personagem": "Miku",
+      "texto_en": "Tomorrow, we'll visit Kokusai dori and Shurijo Castle.\\nThe next day, we'll go to Mihama American Village\\nand the Okinawa Prefectural Museum.",
+      "texto_ptbr": "Amanhã, vamos visitar a Kokusai dori e o Castelo Shurijo.\\nNo dia seguinte, vamos à Mihama American Village\\ne ao Museu Prefeitural de Okinawa."
+    },
+    {
+      "id": 34,
+      "personagem": "Miku",
+      "texto_en": "On the fourth day, we'll go to Ocean Expo Park.",
+      "texto_ptbr": "No quarto dia, vamos ao Parque Ocean Expo."
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Ocean Expo Park.\\nIf I remember right, that's where Okinawa Churaumi\\nAquarium is.",
+      "texto_ptbr": "Parque Ocean Expo.\\nSe bem me lembro, é onde fica o Aquário\\nChuraumi de Okinawa."
+    },
+    {
+      "id": 36,
+      "personagem": "Nino",
+      "texto_en": "That's right.\\nAnd we also plan to visit Kouri Island.",
+      "texto_ptbr": "Isso mesmo.\\nE também planejamos visitar a Ilha Kouri."
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "On the last day,\\nwe'll play in the ocean and have a barbecue.",
+      "texto_ptbr": "No último dia,\\nvamos brincar no mar e fazer um churrasco."
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "I see.\\nIt's a well-organized plan, isn't it?",
+      "texto_ptbr": "Entendo.\\nÉ um plano bem organizado, não é?"
+    },
+    {
+      "id": 39,
+      "personagem": "Nino",
+      "texto_en": "It was hard work narrowing down the options, you know?\\nThe more we researched, the more places we wanted to go\\nand things we wanted to do.",
+      "texto_ptbr": "Deu trabalho reduzir as opções, sabe?\\nQuanto mais pesquisávamos, mais lugares queríamos ir\\ne mais coisas queríamos fazer."
+    },
+    {
+      "id": 40,
+      "personagem": "Miku",
+      "texto_en": "We should have made it longer.",
+      "texto_ptbr": "Devíamos ter feito mais longa."
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "No, no. Four days of fun\\nis already plenty luxurious.\\nShould we head straight to the hotel for today?",
+      "texto_ptbr": "Não, não. Quatro dias de diversão\\njá é bastante luxo.\\nVamos direto pro hotel hoje?"
+    },
+    {
+      "id": 42,
+      "personagem": "Miku",
+      "texto_en": "Yes, let's check in and have dinner.",
+      "texto_ptbr": "Sim, vamos fazer o check-in e jantar."
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "Got it.\\nLet's hurry then.\\nI want Ichika to go rest up soon.",
+      "texto_ptbr": "Certo.\\nVamos nos apressar, então.\\nQuero que a Ichika descanse logo."
+    },
+    {
+      "id": 44,
+      "personagem": "Ichika",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 45,
+      "personagem": "Ichika",
+      "texto_en": "Thanks, Futaro-kun.\\nBut really, I'm fine.",
+      "texto_ptbr": "Obrigada, Fuutarou-kun.\\nMas sério, estou bem."
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Are you sure?\\nDon't push yourself too hard, okay?",
+      "texto_ptbr": "Tem certeza?\\nNão force demais a barra, tá?"
+    },
+    {
+      "id": 47,
+      "personagem": "Ichika",
+      "texto_en": "I'm telling you, I'm okay.\\nYou worry too much.",
+      "texto_ptbr": "Já disse que estou bem.\\nVocê se preocupa demais."
+    },
+    {
+      "id": 48,
+      "personagem": "Nino",
+      "texto_en": "Then, is it okay to take a taxi?",
+      "texto_ptbr": "Então, podemos pegar um táxi?"
+    },
+    {
+      "id": 49,
+      "personagem": "Miku",
+      "texto_en": "Wait.\\nSince we're in Okinawa,\\nI want to ride the Yui Rail.",
+      "texto_ptbr": "Espera.\\nJá que estamos em Okinawa,\\nquero andar de Yui Rail."
+    },
+    {
+      "id": 50,
+      "personagem": "Ichika",
+      "texto_en": "Yui Rail? Isn't that a monorail?",
+      "texto_ptbr": "Yui Rail? Não é um monotrilho?"
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "Yes, it's the only railway in Okinawa.",
+      "texto_ptbr": "Sim, é a única ferrovia de Okinawa."
+    },
+    {
+      "id": 52,
+      "personagem": "Miku",
+      "texto_en": "You're interested, too, right, Futaro?",
+      "texto_ptbr": "Você também tem interesse, né, Fuutarou?"
+    },
+    {
+      "id": 53,
+      "personagem": "Nino",
+      "texto_en": "But isn't the entrance for the Yui Rail somewhere else?",
+      "texto_ptbr": "Mas a entrada do Yui Rail não fica em outro lugar?"
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "(...Huh?)",
+      "texto_ptbr": "(...Hã?)"
+    },
+    {
+      "id": 55,
+      "personagem": "Miku",
+      "texto_en": "But we have our chance now.\\nRight, Futaro?",
+      "texto_ptbr": "Mas agora temos a nossa chance.\\nNão é, Fuutarou?"
+    },
+    {
+      "id": 56,
+      "personagem": "Nino",
+      "texto_en": "We'll probably ride it from tomorrow on,\\nso let's just take a taxi for today. Right, Fu-kun?",
+      "texto_ptbr": "Provavelmente vamos andar nele a partir de amanhã,\\nentão vamos de táxi só por hoje. Né, Fu-kun?"
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "(Huh? Huhhh?\\n What's with Nino and Miku competing like this all of\\n a sudden? It hasn't happened lately. What's going on?)",
+      "texto_ptbr": "(Hã? Hãããã?\\n Por que a Nino e a Miku estão competindo assim de\\n repente? Isso não acontecia ultimamente. O que está havendo?)"
+    },
+    {
+      "id": 58,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun?",
+      "texto_ptbr": "Fu-kun?"
+    },
+    {
+      "id": 59,
+      "personagem": "Miku",
+      "texto_en": "Futaro?",
+      "texto_ptbr": "Fuutarou?"
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "I don't care either way.",
+      "texto_ptbr": "Tanto faz pra mim."
+    },
+    {
+      "id": 61,
+      "personagem": "Miku",
+      "texto_en": "I'm asking because it's not good either way.",
+      "texto_ptbr": "Estou perguntando porque 'tanto faz' não serve."
+    },
+    {
+      "id": 62,
+      "personagem": "Nino",
+      "texto_en": "Yeah, that's true.\\nIt's not as simple as just going with the flow.",
+      "texto_ptbr": "É, é verdade.\\nNão é tão simples assim deixar rolar."
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "But it's not really something to fuss over, is it?",
+      "texto_ptbr": "Mas não é algo pra fazer tanto alvoroço, é?"
+    },
+    {
+      "id": 64,
+      "personagem": "Both",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 65,
+      "personagem": "Ichika",
+      "texto_en": "Okay then, let's take a taxi.\\nThere seems to be a stop nearby.",
+      "texto_ptbr": "Certo, então vamos de táxi.\\nParece que tem um ponto aqui perto."
+    },
+    {
+      "id": 66,
+      "personagem": "Itsuki",
+      "texto_en": "Then, shall we head over there?",
+      "texto_ptbr": "Então, vamos até lá?"
+    },
+    {
+      "id": 67,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh wait, hold on a second, Itsuki.\\nDo you know where it is?",
+      "texto_ptbr": "Ah, espera aí um segundo, Itsuki.\\nVocê sabe onde fica?"
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "Let's take the Yui Rail.\\nI also wanted to try riding it since we came to Okinawa. ",
+      "texto_ptbr": "Vamos de Yui Rail.\\nEu também queria andar nele já que viemos a Okinawa."
+    },
+    {
+      "id": 69,
+      "personagem": "Yotsuba",
+      "texto_en": "That's a good idea. We should definitely ride it\\nsince it's the only rail in Okinawa!",
+      "texto_ptbr": "Boa ideia. Temos que andar nele com certeza\\njá que é a única ferrovia de Okinawa!"
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "Right?\\nIt's always interesting to experience things\\nthat are unique to a certain place.",
+      "texto_ptbr": "Né?\\nÉ sempre interessante experimentar coisas\\nque são exclusivas de um determinado lugar."
+    },
+    {
+      "id": 71,
+      "personagem": "Nino",
+      "texto_en": "Okay, okay, got it.",
+      "texto_ptbr": "Tá, tá, entendi."
+    },
+    {
+      "id": 72,
+      "personagem": "Itsuki",
+      "texto_en": "Then, shall we head over there?",
+      "texto_ptbr": "Então, vamos até lá?"
+    },
+    {
+      "id": 73,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh wait, hold on a second, Itsuki.\\nDo you know where it is?",
+      "texto_ptbr": "Ah, espera aí um segundo, Itsuki.\\nVocê sabe onde fica?"
+    },
+    {
+      "id": 74,
+      "personagem": "Futaro",
+      "texto_en": "Why don't we take the bus?",
+      "texto_ptbr": "Que tal pegarmos o ônibus?"
+    },
+    {
+      "id": 75,
+      "personagem": "Miku",
+      "texto_en": "The bus?",
+      "texto_ptbr": "O ônibus?"
+    },
+    {
+      "id": 76,
+      "personagem": "Futaro",
+      "texto_en": "We might be using it a lot during our trip.\\nWe should become familiar with it.",
+      "texto_ptbr": "Talvez a gente use bastante durante a viagem.\\nÉ bom nos familiarizarmos com ele."
+    },
+    {
+      "id": 77,
+      "personagem": "Itsuki",
+      "texto_en": "That's a good point.\\nMaybe we should take the bus here.",
+      "texto_ptbr": "Bom argumento.\\nTalvez devêssemos pegar o ônibus aqui."
+    },
+    {
+      "id": 78,
+      "personagem": "Nino",
+      "texto_en": "Yeah, that makes sense.\\nIf Fu-kun says so.",
+      "texto_ptbr": "É, faz sentido.\\nSe o Fu-kun diz."
+    },
+    {
+      "id": 79,
+      "personagem": "Itsuki",
+      "texto_en": "Then, shall we head over there?",
+      "texto_ptbr": "Então, vamos até lá?"
+    },
+    {
+      "id": 80,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh wait, hold on a second, Itsuki.\\nDo you know where it is?",
+      "texto_ptbr": "Ah, espera aí um segundo, Itsuki.\\nVocê sabe onde fica?"
+    },
+    {
+      "id": 81,
+      "personagem": "Nino",
+      "texto_en": "Let's go, Fu-kun.",
+      "texto_ptbr": "Vamos, Fu-kun."
+    },
+    {
+      "id": 82,
+      "personagem": "Futaro",
+      "texto_en": "Okay.",
+      "texto_ptbr": "Certo."
+    },
+    {
+      "id": 83,
+      "personagem": "Futaro",
+      "texto_en": "Hey, Miku, you're too close.\\nMove a bit further away, it's hard to walk.",
+      "texto_ptbr": "Ei, Miku, você está muito perto.\\nSe afasta um pouco, fica difícil andar."
+    },
+    {
+      "id": 84,
+      "personagem": "Ichika",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "arquivo": "ca06_mv5_02",
+  "total": 7,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ではどうして、みんなはあると信じるのでしょう。",
+      "texto_en": "So, why do people believe in it?",
+      "texto_ptbr": "Então, por que as pessoas acreditam nisso?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "やってられない時もあるんだろ",
+      "texto_en": "There'd be times you want to give in.",
+      "texto_ptbr": "Deve ter momentos em que a gente não aguenta mais.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "多分、夢みたいなもんだ",
+      "texto_en": "Probably, it's like a dream.",
+      "texto_ptbr": "Provavelmente é tipo um sonho.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "最初から諦めていたら走れないだろ",
+      "texto_en": "Can't give up from the start.",
+      "texto_ptbr": "Se desistir desde o começo, não dá pra correr.",
+      "selidx": 2
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "エメラルドビーチ:一花:三玖",
+      "texto_en": "Emerald Beach: Ichika/Miku",
+      "texto_ptbr": "Emerald Beach: Ichika/Miku",
+      "selidx": 0
+    },
+    {
+      "id": 5,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "イルカショー施設:二乃:五月",
+      "texto_en": "Dolphin Show Area: Nino/Itsuki",
+      "texto_ptbr": "Área do Show de Golfinhos: Nino/Itsuki",
+      "selidx": 1
+    },
+    {
+      "id": 6,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "海洋博公園広場:四葉",
+      "texto_en": "Ocean Expo Park Square: Yotsuba",
+      "texto_ptbr": "Praça do Ocean Expo Park: Yotsuba",
+      "selidx": 2
+    }
+  ]
+}

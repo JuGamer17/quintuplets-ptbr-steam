@@ -1,0 +1,360 @@
+{
+  "arquivo": "ca02_08",
+  "total": 59,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Wow!\\nThat is...",
+      "texto_ptbr": "Nossa!\\nIsso é..."
+    },
+    {
+      "id": 1,
+      "personagem": "Yotsuba",
+      "texto_en": "Ohhh...",
+      "texto_ptbr": "Ohhhh..."
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "I'm totally speechless...",
+      "texto_ptbr": "Fiquei sem palavras..."
+    },
+    {
+      "id": 3,
+      "personagem": "Miku",
+      "texto_en": "It's completely different\\nfrom an ordinary sunset...",
+      "texto_ptbr": "É completamente diferente\\nde um pôr do sol comum..."
+    },
+    {
+      "id": 4,
+      "personagem": "Raiha",
+      "texto_en": "Yeah, it's like a scene from a movie.",
+      "texto_ptbr": "É, parece uma cena de filme."
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "The view is just stunning! It looks like a postcard.",
+      "texto_ptbr": "A vista é simplesmente incrível! Parece um cartão-postal."
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "I have to thank you for suggesting this, Nino.\\nThank you truly.",
+      "texto_ptbr": "Tenho que te agradecer por ter sugerido isso, Nino.\\nSério, muito obrigada."
+    },
+    {
+      "id": 7,
+      "personagem": "Nino",
+      "texto_en": "Teehee! I'm glad everyone likes it.",
+      "texto_ptbr": "Hehe! Fico feliz que todo mundo gostou."
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Indeed, it's a fitting scenery to end the day.",
+      "texto_ptbr": "Concordo, é a paisagem perfeita pra encerrar o dia."
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "Since we're here,\\nI wanted to see the Heart Rock during daylight and\\nits beauty at dusk too.",
+      "texto_ptbr": "Já que a gente veio até aqui,\\nqueria ver a Heart Rock tanto durante o dia\\nquanto a beleza dela no entardecer."
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "I'm sure the night sky is beautiful too,\\nbut we have to return to the hotel.",
+      "texto_ptbr": "Tenho certeza que o céu noturno também é lindo,\\nmas temos que voltar pro hotel."
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "That's too bad.\\nThere might be a beautiful starry sky\\nsince there's no artificial light.",
+      "texto_ptbr": "Que pena.\\nDeve ter um céu estrelado lindo\\nporque não tem luz artificial aqui."
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "If you really want to see it...\\nhow about staying here, Futaro?",
+      "texto_ptbr": "Se você quiser tanto ver...\\nque tal ficar aqui, Futaro?"
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "N-no, we can't do that.",
+      "texto_ptbr": "N-não, a gente não pode fazer isso."
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "Oh, I think I'll go see the sunset from over there.\\nIt'll probably look even more beautiful.",
+      "texto_ptbr": "Ah, acho que vou ver o pôr do sol lá de cima.\\nProvavelmente fica ainda mais bonito de lá."
+    },
+    {
+      "id": 16,
+      "personagem": "Miku",
+      "texto_en": "That's right, let's go.\\nItsuki and Yotsuba, you too.",
+      "texto_ptbr": "É, vamos lá.\\nItsuki e Yotsuba, vocês também."
+    },
+    {
+      "id": 17,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "O-oh, yeah, right!\\nWe shouldn't intrude, should we!",
+      "texto_ptbr": "A-ah, é, claro!\\nA gente não precisa ficar atrapalhando, né!"
+    },
+    {
+      "id": 19,
+      "personagem": "Raiha",
+      "texto_en": "Itsuki-san, Itsuki-san!",
+      "texto_ptbr": "Itsuki-san, Itsuki-san!"
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "Huh?!\\nNo, no, it's for the sunset!\\nYou too, Yotsuba! Let's go!",
+      "texto_ptbr": "Hã?!\\nNão, não, é por causa do pôr do sol!\\nYotsuba, você também! Vamos!"
+    },
+    {
+      "id": 21,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, okay...?",
+      "texto_ptbr": "Ah, tá...?"
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "They gave us some lovey-dovey time.",
+      "texto_ptbr": "Elas nos deram um tempinho a dois."
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "W-well, I guess that's true.\\nWe're free from any obstacles now.",
+      "texto_ptbr": "B-bem, acho que é verdade.\\nAgora a gente tá sem ninguém no caminho."
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "...Hey.\\nNow you can calm down and recharge from today too, Futaro.",
+      "texto_ptbr": "...Ei.\\nAgora você pode relaxar e recarregar as energias do dia, Futaro."
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "Ah, well, recharging is good,\\nbut since we're here,\\nlet's watch the sunset too, okay?",
+      "texto_ptbr": "Ah, bom, recarregar as energias é ótimo,\\nmas já que a gente tá aqui,\\nvamos ver o pôr do sol também, tá bom?"
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "Of course.",
+      "texto_ptbr": "Claro."
+    },
+    {
+      "id": 28,
+      "personagem": "Nino",
+      "texto_en": "I'm glad that you are by my side and we can enjoy the\\nview together, Futaro.",
+      "texto_ptbr": "Fico feliz que você tá do meu lado e a gente pode curtir\\na vista juntos, Futaro."
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "...Me too.\\nThis way, I have another memory with you.",
+      "texto_ptbr": "...Eu também.\\nAssim, tenho mais uma memória com você."
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "I already said it yesterday,\\nbut before we get into a long-distance relationship,\\nI want to make tons of memories with you, Futaro.",
+      "texto_ptbr": "Já falei isso ontem,\\nmas antes de entrar num relacionamento à distância,\\nquero criar um monte de memórias com você, Futaro."
+    },
+    {
+      "id": 31,
+      "personagem": "Nino",
+      "texto_en": "Memories that will fill the lonely times.",
+      "texto_ptbr": "Memórias que vão preencher os momentos de solidão."
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Nino...",
+      "texto_ptbr": "Nino..."
+    },
+    {
+      "id": 33,
+      "personagem": "Nino",
+      "texto_en": "For example, the photos we took today.",
+      "texto_ptbr": "Por exemplo, as fotos que a gente tirou hoje."
+    },
+    {
+      "id": 34,
+      "personagem": "Nino",
+      "texto_en": "That you went as far as making that pose for me.\\nIt's such a precious photo.\\nI'll cherish it for the rest of my life.",
+      "texto_ptbr": "Que você chegou a fazer aquela pose pra mim.\\nÉ uma foto muito preciosa.\\nVou guardar ela pra sempre."
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Y-you're going to cherish it?\\nAs for me, I feel like I want to make better memories\\nand overwrite it.",
+      "texto_ptbr": "V-vai guardar?\\nPra mim, tenho vontade de criar memórias melhores\\ne substituir essa."
+    },
+    {
+      "id": 36,
+      "personagem": "Nino",
+      "texto_en": "Oh, was it that embarrassing for you?",
+      "texto_ptbr": "Nossa, foi tão constrangedor assim pra você?"
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "I want to writhe just thinking about it.",
+      "texto_ptbr": "Quero me encolher só de pensar nisso."
+    },
+    {
+      "id": 38,
+      "personagem": "Nino",
+      "texto_en": "But you still went along with it...\\nThat means you like me, right?",
+      "texto_ptbr": "Mas mesmo assim você topou...\\nIsso quer dizer que gosta de mim, né?"
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "...I wouldn't have done it for anyone else.",
+      "texto_ptbr": "...Não teria feito isso por mais ninguém."
+    },
+    {
+      "id": 40,
+      "personagem": "Nino",
+      "texto_en": "...It's embarrassing to hear that\\nface-to-face, though.",
+      "texto_ptbr": "...É constrangedor ouvir isso\\nolho no olho, mas..."
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "I feel the same way.",
+      "texto_ptbr": "Eu sinto o mesmo."
+    },
+    {
+      "id": 42,
+      "personagem": "Nino",
+      "texto_en": "But sometimes things\\ncan't be understood without saying them.",
+      "texto_ptbr": "Mas às vezes as coisas\\nnão dá pra entender sem falar."
+    },
+    {
+      "id": 43,
+      "personagem": "Nino",
+      "texto_en": "I like you too, Futaro.",
+      "texto_ptbr": "Eu também gosto de você, Futaro."
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "...!",
+      "texto_ptbr": "...!"
+    },
+    {
+      "id": 45,
+      "personagem": "Nino",
+      "texto_en": "The truth is, I want to be with you forever.\\nI want to accompany you to Tokyo.",
+      "texto_ptbr": "A verdade é que quero ficar com você pra sempre.\\nQuero te acompanhar até Tóquio."
+    },
+    {
+      "id": 46,
+      "personagem": "Nino",
+      "texto_en": "But I know that's selfish of me.",
+      "texto_ptbr": "Mas eu sei que isso é egoísmo da minha parte."
+    },
+    {
+      "id": 47,
+      "personagem": "Nino",
+      "texto_en": "Please let us create lots of memories together,\\nso that I won't feel lonely.\\nI want to send you off to Tokyo with a smile, Futaro.",
+      "texto_ptbr": "Por favor, deixa a gente criar muitas memórias juntos,\\npra que eu não me sinta sozinha.\\nQuero te mandar pra Tóquio com um sorriso, Futaro."
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "(Will Nino really be able to send me off with a smile?)",
+      "texto_ptbr": "(Será que a Nino vai conseguir mesmo me mandar embora com um sorriso?)"
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "(Nino thinks so highly of me.\\n With her by my side,\\n I can definitely overcome any difficulty...)",
+      "texto_ptbr": "(A Nino tem uma opinião tão boa de mim.\\n Com ela do meu lado,\\n com certeza consigo superar qualquer dificuldade...)"
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "(However, even she\\n must have her own worries regarding the future.)",
+      "texto_ptbr": "(Mesmo assim,\\n ela também deve ter suas preocupações com o futuro.)"
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "(Besides, it's obvious to anyone who knows me that I am\\n absolutely clueless when it comes to romance...)",
+      "texto_ptbr": "(Além disso, qualquer um que me conheça sabe que eu\\n não entendo nada de romance...)"
+    },
+    {
+      "id": 53,
+      "personagem": "Nino",
+      "texto_en": "Futaro?",
+      "texto_ptbr": "Futaro?"
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "It's nothing...\\nI was just thinking that\\nI need to be more responsible.",
+      "texto_ptbr": "Não é nada...\\nTava só pensando que\\npreciso ser mais responsável."
+    },
+    {
+      "id": 55,
+      "personagem": "Nino",
+      "texto_en": "What's wrong all of a sudden? \\nI think you're fine the way you are, Futaro.",
+      "texto_ptbr": "O que foi de repente? \\nAcho que você já tá ótimo do jeito que é, Futaro."
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "I can't leave things like this.\\nThis is my responsibility.",
+      "texto_ptbr": "Não posso deixar as coisas assim.\\nEssa é minha responsabilidade."
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "(Even if I'm clueless about romance,\\n I have to show Nino what kind of man I am\\n and try to ease her worries, even a little.)",
+      "texto_ptbr": "(Mesmo sem entender nada de romance,\\n tenho que mostrar pra Nino que tipo de homem sou\\n e tentar aliviar as preocupações dela, nem que seja um pouco.)"
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "(It's not about whether I can do it or not.\\n I have to do it, no matter what.)",
+      "texto_ptbr": "(Não é questão de conseguir ou não.\\n Tenho que fazer isso, não importa o que seja.)"
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "arquivo": "ed03_01_02",
+  "total": 42,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Miku",
+      "texto_en": "*yawn*",
+      "texto_ptbr": "*bocejo*"
+    },
+    {
+      "id": 1,
+      "personagem": "Miku",
+      "texto_en": "(Last night, I was up late writing a letter.)",
+      "texto_ptbr": "(Ontem à noite, fiquei acordada até tarde escrevendo uma carta.)"
+    },
+    {
+      "id": 2,
+      "personagem": "Miku",
+      "texto_en": "(Thanks to that, I'm sleep-deprived,\\n but I can't nap in school...)",
+      "texto_ptbr": "(Por causa disso, estou com sono,\\n mas não posso tirar uma soneca na escola...)"
+    },
+    {
+      "id": 3,
+      "personagem": "Miku",
+      "texto_en": "(But, I didn't want to keep Futaro waiting any longer,\\n so I had to finish writing.)",
+      "texto_ptbr": "(Mas eu não queria fazer o Fuutarou esperar mais,\\n então tive que terminar de escrever.)"
+    },
+    {
+      "id": 4,
+      "personagem": "Miku",
+      "texto_en": "(We talk on the phone almost every day,\\n and exchange messages on social media.)",
+      "texto_ptbr": "(A gente conversa por telefone quase todo dia,\\n e troca mensagens nas redes sociais.)"
+    },
+    {
+      "id": 5,
+      "personagem": "Miku",
+      "texto_en": "(But writing a letter\\n felt completely different from that,\\n it was enjoyable.)",
+      "texto_ptbr": "(Mas escrever uma carta\\n foi completamente diferente disso,\\n foi divertido.)"
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "(You can only write so much in a letter, \\n but I had a lot to say.\\n So much that it took me ages to write them.)",
+      "texto_ptbr": "(Só dá pra escrever um tanto numa carta, \\n mas eu tinha muita coisa pra dizer.\\n Tanta que levei uma eternidade para escrever.)"
+    },
+    {
+      "id": 7,
+      "personagem": "Miku",
+      "texto_en": "(I wonder if Futaro felt the same \\n when he wrote the letters...)",
+      "texto_ptbr": "(Será que o Fuutarou sentiu o mesmo \\n quando escreveu as cartas...)"
+    },
+    {
+      "id": 8,
+      "personagem": "Miku",
+      "texto_en": "Ah, that was a close one.\\nI was just about to walk past the postbox.",
+      "texto_ptbr": "Ah, essa foi por pouco.\\nEu estava quase passando direto pela caixa de correio."
+    },
+    {
+      "id": 9,
+      "personagem": "Miku",
+      "texto_en": "Well, I'll do a final check before I mail the postcard.",
+      "texto_ptbr": "Bom, vou fazer uma última conferida antes de postar a carta."
+    },
+    {
+      "id": 10,
+      "personagem": "Miku",
+      "texto_en": "(I checked many times at home...\\n If something happens and it's delayed\\n or doesn't arrive, that'd be troublesome.)",
+      "texto_ptbr": "(Eu conferi várias vezes em casa...\\n Se acontecer alguma coisa e atrasar\\n ou não chegar, ia dar problema.)"
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "The stamp is attached,\\nand the address is...correct.",
+      "texto_ptbr": "O selo está colado,\\ne o endereço está...certo."
+    },
+    {
+      "id": 12,
+      "personagem": "Miku",
+      "texto_en": "The recipient, Uesugi Futaro.",
+      "texto_ptbr": "O destinatário, Uesugi Fuutarou."
+    },
+    {
+      "id": 13,
+      "personagem": "Miku",
+      "texto_en": "Okay, good to go%p-2;――",
+      "texto_ptbr": "Ok, tudo certo%p-2;――"
+    },
+    {
+      "id": 14,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 15,
+      "personagem": "Miku",
+      "texto_en": "Oh no, I forgot!\\nThe address on the back and my name...\\nYes, now it's okay.",
+      "texto_ptbr": "Ai não, esqueci!\\nO endereço no verso e o meu nome...\\nPronto, agora está certo."
+    },
+    {
+      "id": 16,
+      "personagem": "Miku",
+      "texto_en": "I hope I sealed it properly.",
+      "texto_ptbr": "Espero ter fechado direitinho."
+    },
+    {
+      "id": 17,
+      "personagem": "Miku",
+      "texto_en": "(Futaro will be surprised to receive\\n such a thick envelope.)",
+      "texto_ptbr": "(O Fuutarou vai se surpreender ao receber\\n um envelope tão grosso.)"
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "(I was worried if I could seal it properly.)",
+      "texto_ptbr": "(Fiquei preocupada se conseguiria fechar direito.)"
+    },
+    {
+      "id": 19,
+      "personagem": "Miku",
+      "texto_en": "(Because it's Futaro,\\n he might write an even longer letter.)",
+      "texto_ptbr": "(Sendo o Fuutarou,\\n ele pode escrever uma carta ainda mais longa.)"
+    },
+    {
+      "id": 20,
+      "personagem": "Miku",
+      "texto_en": "(When will I get a reply?\\n I hope it comes soon.)",
+      "texto_ptbr": "(Quando será que vou receber a resposta?\\n Espero que venha logo.)"
+    },
+    {
+      "id": 21,
+      "personagem": "Miku",
+      "texto_en": "(How long does it take for a letter to arrive?\\n It's probably not tomorrow,\\n so maybe the day after tomorrow...)",
+      "texto_ptbr": "(Quanto tempo leva pra uma carta chegar?\\n Provavelmente não chega amanhã,\\n então talvez depois de amanhã...)"
+    },
+    {
+      "id": 22,
+      "personagem": "Miku",
+      "texto_en": "(Futaro will surely read it, and then write a reply\\n on the same day.)",
+      "texto_ptbr": "(O Fuutarou com certeza vai ler e escrever a resposta\\n no mesmo dia.)"
+    },
+    {
+      "id": 23,
+      "personagem": "Miku",
+      "texto_en": "(If he mails it in the postbox the next day,\\n I might receive it on the weekend.)",
+      "texto_ptbr": "(Se ele colocar no correio no dia seguinte,\\n talvez eu receba no fim de semana.)"
+    },
+    {
+      "id": 24,
+      "personagem": "Miku",
+      "texto_en": "(Oh, but he might be busy with college\\n and won't have time to read it right away.\\n He also said he started working part-time.)",
+      "texto_ptbr": "(Ah, mas ele pode estar ocupado com a faculdade\\n e não ter tempo de ler na hora.\\n Ele também disse que começou um trabalho de meio período.)"
+    },
+    {
+      "id": 25,
+      "personagem": "Miku",
+      "texto_en": "(...I hope he isn't overworking.\\n Is he eating properly?)",
+      "texto_ptbr": "(...Espero que ele não esteja se matando de trabalhar.\\n Será que está comendo direito?)"
+    },
+    {
+      "id": 26,
+      "personagem": "Miku",
+      "texto_en": "(When we talked on the phone, he seemed fine, though%p-2;――%p;)",
+      "texto_ptbr": "(Quando conversamos por telefone, ele parecia bem, mas%p-2;――%p;)"
+    },
+    {
+      "id": 27,
+      "personagem": "Miku",
+      "texto_en": "!...",
+      "texto_ptbr": "!..."
+    },
+    {
+      "id": 28,
+      "personagem": "Miku",
+      "texto_en": "(Wh-what am I doing?\\n I'm standing alone in front of the postbox...)",
+      "texto_ptbr": "(O-o que eu estou fazendo?\\n Estou aqui sozinha parada na frente da caixa de correio...)"
+    },
+    {
+      "id": 29,
+      "personagem": "Miku",
+      "texto_en": "Alright, finally%p-2;――",
+      "texto_ptbr": "Certo, finalmente%p-2;――"
+    },
+    {
+      "id": 30,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 31,
+      "personagem": "Miku",
+      "texto_en": "Yes, it's perfect.",
+      "texto_ptbr": "Sim, está perfeito."
+    },
+    {
+      "id": 32,
+      "personagem": "Miku",
+      "texto_en": "Alright, I'm off.",
+      "texto_ptbr": "Certo, estou indo."
+    },
+    {
+      "id": 33,
+      "personagem": "Miku",
+      "texto_en": "...Teehee.",
+      "texto_ptbr": "...Hihi."
+    },
+    {
+      "id": 34,
+      "personagem": "Miku",
+      "texto_en": "(Hm? A call from Nino?)",
+      "texto_ptbr": "(Hm? Uma ligação da Nino?)"
+    },
+    {
+      "id": 35,
+      "personagem": "Nino",
+      "texto_en": " I'm going to school first.]",
+      "texto_ptbr": " Vou para a escola primeiro.]"
+    },
+    {
+      "id": 36,
+      "personagem": "Miku",
+      "texto_en": "Ah...",
+      "texto_ptbr": "Ah..."
+    },
+    {
+      "id": 37,
+      "personagem": "Miku",
+      "texto_en": " so I left home earlier.]",
+      "texto_ptbr": " então saí de casa mais cedo.]"
+    },
+    {
+      "id": 38,
+      "personagem": "Nino",
+      "texto_en": " See you at school, then.]",
+      "texto_ptbr": " Nos vemos na escola, então.]"
+    },
+    {
+      "id": 39,
+      "personagem": "Miku",
+      "texto_en": "yeah",
+      "texto_ptbr": "aham"
+    },
+    {
+      "id": 40,
+      "personagem": "Miku",
+      "texto_en": "...Alright.\\nWell then, let's do our best today.",
+      "texto_ptbr": "...Certo.\\nBom, então vamos dar o nosso melhor hoje."
+    },
+    {
+      "id": 41,
+      "personagem": "Miku",
+      "texto_en": "Futaro, do your best, too.",
+      "texto_ptbr": "Fuutarou, faz o seu melhor também."
+    }
+  ]
+}

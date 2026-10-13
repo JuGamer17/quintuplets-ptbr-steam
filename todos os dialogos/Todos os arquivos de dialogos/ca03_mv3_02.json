@@ -1,0 +1,438 @@
+{
+  "arquivo": "ca03_mv3_02",
+  "total": 72,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san... What on earth is happening here?",
+      "texto_ptbr": "Uesugi-san... O que diabos tá acontecendo aqui?"
+    },
+    {
+      "id": 1,
+      "personagem": "Yotsuba",
+      "texto_en": "Just a moment ago we were at the park by the sea,\\nand now we're walking through an unfamiliar village%p-2;――",
+      "texto_ptbr": "Há pouco a gente tava no parque perto do mar,\\ne agora tá andando por uma vila desconhecida%p-2;――"
+    },
+    {
+      "id": 2,
+      "personagem": "Yotsuba",
+      "texto_en": "ARE WE IN SOME ALTERNATE UNIVERSE?!",
+      "texto_ptbr": "A GENTE TÁ EM ALGUM UNIVERSO ALTERNATIVO?!"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Enough with the jokes.",
+      "texto_ptbr": "Chega de brincadeira."
+    },
+    {
+      "id": 4,
+      "personagem": "Yotsuba",
+      "texto_en": "Wha-?!\\nCan't you just play along for a bit?!",
+      "texto_ptbr": "Quê-?!\\nVocê não pode só entrar na brincadeira um pouco?!"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Itsuki, you take over.",
+      "texto_ptbr": "Itsuki, assume você."
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "Huhhh?!",
+      "texto_ptbr": "Hããã?!"
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "Wh-what shall we dooo?\\nI wonder what era we're innn?",
+      "texto_ptbr": "O-o que a gente vai fazeer?\\nSerá em que época a gente táaa?"
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "...I didn't think you'd actually go through with it.",
+      "texto_ptbr": "...Eu não imaginei que você fosse mesmo levar isso adiante."
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "What's with that tone,\\nafter making me do this?!",
+      "texto_ptbr": "Que tom é esse,\\ndepois de me fazer fazer isso?!"
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Enough with the jokes, you two.\\nThis area is modeled after a village\\nfrom the Ryukyu Kingdom era.",
+      "texto_ptbr": "Chega de brincadeira, vocês duas.\\nEssa área foi feita baseada numa vila\\nda época do Reino de Ryukyu."
+    },
+    {
+      "id": 11,
+      "personagem": "Yotsuba",
+      "texto_en": "Hmm, wow. I didn't know they had a facility like this\\nhere as well.",
+      "texto_ptbr": "Hmm, nossa. Eu não sabia que tinha uma instalação assim\\naqui também."
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "The fact that they built\\na village of this scale inside a park is very impressive.\\nIt's almost as we've stumbled upon an unknown village.",
+      "texto_ptbr": "O fato de terem construído\\numa vila desse tamanho dentro de um parque é impressionante.\\nÉ quase como se a gente tivesse encontrado uma vila desconhecida."
+    },
+    {
+      "id": 13,
+      "personagem": "Yotsuba",
+      "texto_en": "The houses here all look like ZEE Okinawan houses\\nyou would see in movies and books.",
+      "texto_ptbr": "As casas aqui parecem TODAS umas casas ZEE bem de Okinawa,\\ndaquelas que a gente vê em filme e livro."
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, the roofing design particularly stands out.",
+      "texto_ptbr": "Sim, o design do telhado se destaca bastante."
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "(...Strictly speaking, the way Yotsuba's pronouncing\\n 'the' is wrong, but that's not really important\\n right now. It's just something that's bugging me.)",
+      "texto_ptbr": "(...Rigorosamente falando, o jeito que a Yotsuba fala\\n 'ZEE' tá errado, mas isso não é realmente importante\\n agora. É só uma coisa que tá me incomodando.)"
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Oh, that's a measure to protect against typhoons.\\nThey apply plaster to the gaps in the red roof tiles\\nto keep them from getting blown away by the wind.",
+      "texto_ptbr": "Ah, isso é uma medida de proteção contra tufões.\\nEles aplicam gesso nos vãos das telhas vermelhas\\npra evitar que sejam levadas pelo vento."
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "It's said that the many stone walls and fences\\naround Okinawan houses\\nare also meant to protect against typhoons.",
+      "texto_ptbr": "Dizem que os muitos muros e cercas de pedra\\nao redor das casas de Okinawa\\ntambém servem pra proteger contra tufões."
+    },
+    {
+      "id": 18,
+      "personagem": "Yotsuba",
+      "texto_en": "I see, so this is the aftermath of facing\\nthe annual typhoons every year.",
+      "texto_ptbr": "Entendo, então isso é resultado de enfrentar\\nos tufões anuais todos os anos."
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "There's indeed a reason\\nbehind the traditional townscape.",
+      "texto_ptbr": "Realmente existe um motivo\\npor trás da paisagem urbana tradicional."
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Yeah. Okinawa has abundant limestone deposits,\\nwhich made it easy to create stone walls\\nand stone-paved roads.",
+      "texto_ptbr": "É. Okinawa tem depósitos abundantes de calcário,\\no que facilitou a criação de muros de pedra\\ne estradas pavimentadas com pedra."
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Come to think of it,\\nI heard there's a street near Shurijo Castle\\nthat still has the original stone paving from that time.",
+      "texto_ptbr": "Pensando bem,\\nouvi dizer que tem uma rua perto do Castelo Shurijo\\nque ainda tem a pavimentação de pedra original daquela época."
+    },
+    {
+      "id": 22,
+      "personagem": "Yotsuba",
+      "texto_en": "Is that so? I'm curious.\\nI'm gonna look it up on my phone real quick.",
+      "texto_ptbr": "É mesmo? Fiquei curiosa.\\nVou pesquisar no meu celular rapidinho."
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "Let's see... Near Shurijo Castle...",
+      "texto_ptbr": "Vamos ver... Perto do Castelo Shurijo..."
+    },
+    {
+      "id": 24,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, this is it!\\nIt's apparently called the Kinjo Stone Road.",
+      "texto_ptbr": "Ah, é essa aqui!\\nAparentemente é chamada de Estrada de Pedra de Kinjo."
+    },
+    {
+      "id": 25,
+      "personagem": "Yotsuba",
+      "texto_en": "Look, the houses along the road have stone walls\\nand red roof tiles too. This is really 'ZEE Okinawa!'",
+      "texto_ptbr": "Olha, as casas ao longo da estrada também têm muros de pedra\\ne telhados vermelhos. Isso é reeealmente 'ZEE Okinawa'!"
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "Well!\\nWhat a gorgeous street.",
+      "texto_ptbr": "Nossa!\\nQue rua magnífica."
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Yes, it really gives off\\nan old-fashioned Okinawan vibe.\\nDo you want to go check it out?",
+      "texto_ptbr": "É, realmente passa\\numa vibe antiga de Okinawa.\\nVocês querem ir dar uma olhada?"
+    },
+    {
+      "id": 28,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, wait a minute. According to people\\nwho have been there%p-2;――",
+      "texto_ptbr": "Ah, espera um pouco. Segundo as pessoas\\nque já foram lá%p-2;――"
+    },
+    {
+      "id": 29,
+      "personagem": "Yotsuba",
+      "texto_en": "The slopes are very steep\\nand it's difficult to climb.",
+      "texto_ptbr": "As ladeiras são bem íngremes\\ne é difícil de subir."
+    },
+    {
+      "id": 30,
+      "personagem": "Yotsuba",
+      "texto_en": "...Uesugi-san, you gonna be alright?",
+      "texto_ptbr": "...Uesugi-san, você vai ficar bem?"
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "I always have you, if things go south!",
+      "texto_ptbr": "Eu sempre tenho vocês, se as coisas derem errado!"
+    },
+    {
+      "id": 32,
+      "personagem": "Yotsuba",
+      "texto_en": "Of course! Leave it to me!",
+      "texto_ptbr": "Claro! Pode deixar comigo!"
+    },
+    {
+      "id": 33,
+      "personagem": "Yotsuba",
+      "texto_en": "Even if you're exhausted and can't move, Uesugi-san,\\nI'll carry you on my shoulders\\nand take you up the hill!",
+      "texto_ptbr": "Mesmo se você tiver exausto e não conseguir se mexer, Uesugi-san,\\neu te carrego nos ombros\\ne levo você até o topo da colina!"
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Itsuki, take notes of these words of encouragement\\nand overflowing smiles from Yotsuba!",
+      "texto_ptbr": "Itsuki, anota essas palavras de incentivo\\ne os sorrisos transbordantes da Yotsuba!"
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "...Aren't you embarrassed saying that?",
+      "texto_ptbr": "...Você não fica com vergonha de falar isso?"
+    },
+    {
+      "id": 36,
+      "personagem": "Yotsuba",
+      "texto_en": "By the way, Uesugi-san.",
+      "texto_ptbr": "Aliás, Uesugi-san."
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "What's up?",
+      "texto_ptbr": "O que foi?"
+    },
+    {
+      "id": 38,
+      "personagem": "Yotsuba",
+      "texto_en": "Did you change our destination today\\nbecause you came up with a strategy last night?",
+      "texto_ptbr": "Você mudou nosso destino de hoje\\nporque bolou uma estratégia ontem à noite?"
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Well, that's the idea.",
+      "texto_ptbr": "Bom, é mais ou menos essa a ideia."
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "I can't imagine this...\\nbeing a place of memories for you and Miku, though.",
+      "texto_ptbr": "Eu não consigo imaginar isso aqui...\\nsendo um lugar de memórias pra você e a Miku, sabe."
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "What do you mean?\\nDo you think I'm going to be dinged up by a hill?",
+      "texto_ptbr": "Como assim?\\nVocê acha que eu vou me machucar numa colina?"
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "To be honest,\\nthere's a possibility that you might.",
+      "texto_ptbr": "Pra ser sincera,\\ntem uma possibilidade de você se machucar sim."
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 44,
+      "personagem": "Yotsuba",
+      "texto_en": "W-well, if something happens, I'll carry you\\nand make it to the summit without oxygen!",
+      "texto_ptbr": "B-bom, se acontecer alguma coisa, eu te carrego\\ne chego no topo sem oxigênio!"
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "What snowy mountain are you planning on climbing?",
+      "texto_ptbr": "Que montanha nevada você tá planejando escalar?"
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "(But it's embarrassing that I have to worry\\n about my stamina even though I'm just sightseeing.\\n I've gotta improve my fitness...)",
+      "texto_ptbr": "(Mas é constrangedor eu ter que me preocupar\\n com meu condicionamento físico mesmo só fazendo turismo.\\n Eu preciso melhorar meu preparo físico...)"
+    },
+    {
+      "id": 47,
+      "personagem": "Yotsuba",
+      "texto_en": "By the way, Uesugi-san.",
+      "texto_ptbr": "Aliás, Uesugi-san."
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "What's up?",
+      "texto_ptbr": "O que foi?"
+    },
+    {
+      "id": 49,
+      "personagem": "Yotsuba",
+      "texto_en": "Did you change our destination today\\nbecause you came up with a strategy last night?",
+      "texto_ptbr": "Você mudou nosso destino de hoje\\nporque bolou uma estratégia ontem à noite?"
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "Well, that's the idea.",
+      "texto_ptbr": "Bom, é mais ou menos essa a ideia."
+    },
+    {
+      "id": 51,
+      "personagem": "Itsuki",
+      "texto_en": "I can't imagine this...\\nbeing a place of memories for you and Miku, though.",
+      "texto_ptbr": "Eu não consigo imaginar isso aqui...\\nsendo um lugar de memórias pra você e a Miku, sabe."
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Miku might have a tough time.",
+      "texto_ptbr": "A Miku pode ter dificuldade."
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "(She's got little stamina.\\n If it's tough for ordinary folk...)",
+      "texto_ptbr": "(Ela tem pouco fôlego.\\n Se já é difícil pra pessoas normais...)"
+    },
+    {
+      "id": 54,
+      "personagem": "Yotsuba",
+      "texto_en": "Ho-ho.",
+      "texto_ptbr": "Ho-ho."
+    },
+    {
+      "id": 55,
+      "personagem": "Itsuki",
+      "texto_en": "I see, that's what you're worried about.",
+      "texto_ptbr": "Entendo, é isso que te preocupa."
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 57,
+      "personagem": "Yotsuba",
+      "texto_en": "You're worrying about Miku more than yourself!\\nThat's what a boyfriend should do!",
+      "texto_ptbr": "Você tá se preocupando mais com a Miku do que consigo mesmo!\\nÉ isso que um namorado deve fazer!"
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "WHA?! No, this is different, you know?!",
+      "texto_ptbr": "QUÊ?! Não, isso é diferente, sabia?!"
+    },
+    {
+      "id": 59,
+      "personagem": "Yotsuba",
+      "texto_en": "You don't have to be embarrassed.\\nIt's natural for lovers to worry about each other.",
+      "texto_ptbr": "Você não precisa ficar com vergonha.\\nÉ natural que casais se preocupem um com o outro."
+    },
+    {
+      "id": 60,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, this level of sweetness is acceptable.",
+      "texto_ptbr": "Sim, esse nível de doçura é aceitável."
+    },
+    {
+      "id": 61,
+      "personagem": "Yotsuba",
+      "texto_en": "By the way, Uesugi-san.",
+      "texto_ptbr": "Aliás, Uesugi-san."
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "What's up?",
+      "texto_ptbr": "O que foi?"
+    },
+    {
+      "id": 63,
+      "personagem": "Yotsuba",
+      "texto_en": "Did you change our destination today\\nbecause you came up with a strategy last night?",
+      "texto_ptbr": "Você mudou nosso destino de hoje\\nporque bolou uma estratégia ontem à noite?"
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "Well, that's the idea.",
+      "texto_ptbr": "Bom, é mais ou menos essa a ideia."
+    },
+    {
+      "id": 65,
+      "personagem": "Itsuki",
+      "texto_en": "I can't imagine this...\\nbeing a place of memories for you and Miku, though.",
+      "texto_ptbr": "Eu não consigo imaginar isso aqui...\\nsendo um lugar de memórias pra você e a Miku, sabe."
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "No doubt. Today is our first time coming here.",
+      "texto_ptbr": "Sem dúvidas. Essa é a primeira vez que a gente vem aqui."
+    },
+    {
+      "id": 67,
+      "personagem": "Yotsuba",
+      "texto_en": "Then, why here?",
+      "texto_ptbr": "Então, por que aqui?"
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "I know you want to ask that,\\nbut I'm sure this is the right time and place.",
+      "texto_ptbr": "Eu sei que você quer perguntar isso,\\nmas tenho certeza que essa é a hora e o lugar certos."
+    },
+    {
+      "id": 69,
+      "personagem": "Itsuki",
+      "texto_en": "I see. You seem confident about it.",
+      "texto_ptbr": "Entendo. Você parece confiante quanto a isso."
+    },
+    {
+      "id": 70,
+      "personagem": "Itsuki",
+      "texto_en": "Alright, I won't ask any further.\\nGood luck, Uesugi-kun.",
+      "texto_ptbr": "Tudo bem, não vou perguntar mais nada.\\nBoa sorte, Uesugi-kun."
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "Thanks.",
+      "texto_ptbr": "Valeu."
+    }
+  ]
+}

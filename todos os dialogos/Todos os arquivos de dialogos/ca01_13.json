@@ -1,0 +1,264 @@
+{
+  "arquivo": "ca01_13",
+  "total": 43,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*",
+      "texto_ptbr": "*suspiro*"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(I'm in trouble. Just the thought of Ichika\\n being in the bed next to me\\n makes me nervous and unable to sleep...)",
+      "texto_ptbr": "(Tô encrencado. Só de pensar que a Ichika\\n está na cama do lado da minha\\n fico nervoso e não consigo dormir...)"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(When we stayed in the same room\\n during the school camping trip,\\n it wasn't like this.)",
+      "texto_ptbr": "(Quando ficamos no mesmo quarto\\n durante o acampamento escolar,\\n não era assim.)"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "(Well, things have changed a lot since then,\\n so it's only natural, I guess.)",
+      "texto_ptbr": "(Bom, muita coisa mudou desde então,\\n então é natural, eu acho.)"
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "(...Speaking of which, Raiha said that \\n Itsuki was feeling lonely, and moved to Yotsuba's room\\n before going to bed.)",
+      "texto_ptbr": "(...Aliás, a Raiha disse que \\n a Itsuki estava se sentindo sozinha, e foi pro quarto da Yotsuba\\n antes de dormir.)"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "(So that means there's one room available.\\n Can I move there, maybe?\\n I might be able to get the key from the front desk.)",
+      "texto_ptbr": "(Então tem um quarto livre.\\n Será que consigo me mudar pra lá?\\n Posso tentar pegar a chave na recepção.)"
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "Nnh...\\nFutaro-kun?",
+      "texto_ptbr": "Mmh...\\nFutaro-kun?"
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Ah...",
+      "texto_ptbr": "Ah..."
+    },
+    {
+      "id": 8,
+      "personagem": "Ichika",
+      "texto_en": "Where are you going?\\nAre you sneaking out to play at night?",
+      "texto_ptbr": "Pra onde você vai?\\nTá querendo escapar pra bagunçar à noite?"
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "N-nothing like that.\\n...Sorry, did I wake you up?",
+      "texto_ptbr": "N-não é nada disso.\\n...Desculpa, te acordei?"
+    },
+    {
+      "id": 10,
+      "personagem": "Ichika",
+      "texto_en": "No, it's okay. I was already awake.\\nI'm supposed to be tired,\\nbut I can't seem to sleep well.",
+      "texto_ptbr": "Não, tudo bem. Eu já estava acordada.\\nDeveria estar cansada,\\nmas não consigo pegar no sono."
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Same as me.",
+      "texto_ptbr": "Igual eu."
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "Ahaha, we're in the same boat.",
+      "texto_ptbr": "Ahaha, estamos no mesmo barco."
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "If this were our house, I'd make you some\\nhot milk with honey to help you sleep.\\nIt's a classic remedy for insomnia.",
+      "texto_ptbr": "Se fosse nossa casa, eu faria\\num leite quente com mel pra te ajudar a dormir.\\nÉ o remédio clássico pra insônia."
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "But, there's no point in asking for something\\nthat isn't available%p-2;――",
+      "texto_ptbr": "Mas não adianta pedir algo\\nque não tem por aqui%p-2;――"
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "Let's talk until we get sleepy.\\nLet's be quiet so as not to wake Raiha-chan.",
+      "texto_ptbr": "A gente conversa até bater o sono.\\nVamos falar baixinho pra não acordar a Raiha-chan."
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "...Yeah, okay.\\nActually, there's something I wanted to ask you.",
+      "texto_ptbr": "...É, tá bom.\\nNa verdade, tinha uma coisa que queria te perguntar."
+    },
+    {
+      "id": 17,
+      "personagem": "Ichika",
+      "texto_en": "Hm? What?",
+      "texto_ptbr": "Hm? O quê?"
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Why did we end up with this room arrangement?",
+      "texto_ptbr": "Por que acabamos com essa divisão de quartos?"
+    },
+    {
+      "id": 19,
+      "personagem": "Ichika",
+      "texto_en": "Ahaha...\\nYou don't like it?",
+      "texto_ptbr": "Ahaha...\\nNão gostou?"
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "N-no, it's not like that.",
+      "texto_ptbr": "N-não, não é isso."
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "But, realistically, this room arrangement is a flop\\nsince neither of us can sleep.",
+      "texto_ptbr": "Mas, sendo realista, essa divisão de quartos foi um fracasso\\njá que nenhum dos dois consegue dormir."
+    },
+    {
+      "id": 22,
+      "personagem": "Ichika",
+      "texto_en": "Hmm?\\nIs it because you're nervous being with me\\nin the same room, Futaro-kun?",
+      "texto_ptbr": "Hmm?\\nÉ porque você tá nervoso de estar comigo\\nno mesmo quarto, Futaro-kun?"
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "...Well, yes. Sorry.",
+      "texto_ptbr": "...Bom, sim. Desculpa."
+    },
+    {
+      "id": 24,
+      "personagem": "Ichika",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "No, it's okay.\\nBecause I'm the same way.",
+      "texto_ptbr": "Não, tudo bem.\\nPorque eu também."
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "You know, if you're gonna ask me why I made\\nthese arrangements, it's because I wanted\\nto spend more time with you, Futaro-kun.",
+      "texto_ptbr": "Sabe, se vai me perguntar por que eu fiz\\nessa divisão, é porque queria\\npassar mais tempo com você, Futaro-kun."
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "!...",
+      "texto_ptbr": "!..."
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "Ever since we started dating,\\nwe've both been pretty busy, right?\\nWe haven't been able to go on many real dates.",
+      "texto_ptbr": "Desde que a gente começou a namorar,\\nos dois ficamos bem ocupados, né?\\nNão conseguimos ter muitos encontros de verdade."
+    },
+    {
+      "id": 29,
+      "personagem": "Ichika",
+      "texto_en": "So I asked everyone to let us be together\\nas much as possible during this trip.",
+      "texto_ptbr": "Então pedi pra todo mundo deixar a gente ficar junto\\no máximo possível durante essa viagem."
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "(...That's what she was thinking of?\\n I'm going to Tokyo after this trip,\\n so this time is even more precious.)",
+      "texto_ptbr": "(...Era isso que ela estava pensando?\\n Vou pra Tóquio depois dessa viagem,\\n então esse tempo é ainda mais precioso.)"
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Ichika.\\nLet's make a lot of memories on this trip, okay?",
+      "texto_ptbr": "Ichika.\\nVamos fazer muitas memórias nessa viagem, tá?"
+    },
+    {
+      "id": 32,
+      "personagem": "Ichika",
+      "texto_en": "...Okay.",
+      "texto_ptbr": "...Tá."
+    },
+    {
+      "id": 33,
+      "personagem": "Ichika",
+      "texto_en": "Achoo!",
+      "texto_ptbr": "Atchim!"
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "!!\\nYou okay?",
+      "texto_ptbr": "!!\\nTá bem?"
+    },
+    {
+      "id": 35,
+      "personagem": "Raiha",
+      "texto_en": "Nnn... Hmmmm...?",
+      "texto_ptbr": "Mmm... Hmmmm...?"
+    },
+    {
+      "id": 36,
+      "personagem": "Raiha",
+      "texto_en": "You're both still awake.",
+      "texto_ptbr": "Vocês dois ainda estão acordados."
+    },
+    {
+      "id": 37,
+      "personagem": "Ichika",
+      "texto_en": "Sorry, Raiha-chan.\\nWe woke you up.",
+      "texto_ptbr": "Desculpa, Raiha-chan.\\nA gente te acordou."
+    },
+    {
+      "id": 38,
+      "personagem": "Raiha",
+      "texto_en": "...Ah. \\nI'm interrupting something, huh.\\nI'll pretend to sleep then.",
+      "texto_ptbr": "...Ah. \\nEstou atrapalhando, né.\\nVou fingir que tô dormindo então."
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "It's too late for that.\\nCome on, Ichika, let's go to sleep too.",
+      "texto_ptbr": "Já é tarde demais pra isso.\\nVamos, Ichika, a gente também dorme."
+    },
+    {
+      "id": 40,
+      "personagem": "Ichika",
+      "texto_en": "Ahaha, yeah, let's.\\nGoodnight, Futaro-kun, Raiha-chan.",
+      "texto_ptbr": "Ahaha, é, vamos.\\nBoa noite, Futaro-kun, Raiha-chan."
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Okay, good night.",
+      "texto_ptbr": "Tá, boa noite."
+    },
+    {
+      "id": 42,
+      "personagem": "Raiha",
+      "texto_en": "Good niiight.",
+      "texto_ptbr": "Boa noiiiite."
+    }
+  ]
+}

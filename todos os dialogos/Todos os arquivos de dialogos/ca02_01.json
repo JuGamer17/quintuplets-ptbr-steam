@@ -1,0 +1,498 @@
+{
+  "arquivo": "ca02_01",
+  "total": 82,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Wow... What is this place...?",
+      "texto_ptbr": "Uau... Que lugar é esse...?"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Fine dining like only the rich can afford.\\nThey even have an indoor pool and a fitness center!",
+      "texto_ptbr": "Gastronomia fina que só os ricos podem pagar.\\nTêm até piscina coberta e academia!"
+    },
+    {
+      "id": 2,
+      "personagem": "Raiha",
+      "texto_en": "And the view from the lounge is also amazing!\\nSo this is what a luxury resort hotel looks like!",
+      "texto_ptbr": "E a vista do lounge é incrível também!\\nEntão é assim que um resort de luxo parece!"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "I'm getting dizzy...\\nAre we really staying here...?",
+      "texto_ptbr": "Tô ficando tonto...\\nA gente vai ficar aqui de verdade...?"
+    },
+    {
+      "id": 4,
+      "personagem": "Ichika",
+      "texto_en": "Um, Futaro-kun?\\nCan you calm down a bit?\\nYou're attracting attention.",
+      "texto_ptbr": "Hm, Futaro-kun?\\nDá pra se acalmar um pouco?\\nVocê tá chamando atenção."
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "Well, it's true that it's\\na bit more luxurious than usual.",
+      "texto_ptbr": "Bom, é verdade que é\\num pouco mais luxuoso do que o normal."
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "A bit? This is just a bit?!",
+      "texto_ptbr": "Um pouco? Isso é só um pouco?!"
+    },
+    {
+      "id": 7,
+      "personagem": "Raiha",
+      "texto_en": "So the Nakano family is rich after all!",
+      "texto_ptbr": "Então a família Nakano é rica mesmo!"
+    },
+    {
+      "id": 8,
+      "personagem": "Yotsuba",
+      "texto_en": "No, this time is thanks to Uesugi-san.",
+      "texto_ptbr": "Não, dessa vez é graças ao Uesugi-san."
+    },
+    {
+      "id": 9,
+      "personagem": "Yotsuba",
+      "texto_en": "It seems like our dad splurged as a thank you\\nfor completing your tutoring job.",
+      "texto_ptbr": "Parece que nosso pai quis caprichar como agradecimento\\npor você ter terminado o trabalho de tutor."
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "I-is that so?",
+      "texto_ptbr": "É... é mesmo?"
+    },
+    {
+      "id": 11,
+      "personagem": "Yotsuba",
+      "texto_en": "By the way,\\nthere are other reasons why we chose this hotel!",
+      "texto_ptbr": "Aliás,\\ntêm outros motivos pelos quais escolhemos esse hotel!"
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "This hotel has good access to tourist spots,\\nso it's perfect as a base for traveling.",
+      "texto_ptbr": "Esse hotel tem fácil acesso aos pontos turísticos,\\nentão é perfeito como base para a viagem."
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "Also, the hotel provides various activity plans,\\nwhich makes it easy for us to arrange our trip.",
+      "texto_ptbr": "Além disso, o hotel oferece vários pacotes de atividades,\\no que facilita muito organizar o roteiro."
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "I-I see.",
+      "texto_ptbr": "E-entendo."
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "(Their way of using the hotel\\n is different from my family...)",
+      "texto_ptbr": "(A forma como elas usam o hotel\\n é bem diferente da minha família...)"
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "Sorry to keep you waiting.\\nWe've finished checking-in.",
+      "texto_ptbr": "Desculpe a demora.\\nTerminamos de fazer o check-in."
+    },
+    {
+      "id": 17,
+      "personagem": "Miku",
+      "texto_en": "And we got the room keys.",
+      "texto_ptbr": "E já pegamos as chaves dos quartos."
+    },
+    {
+      "id": 18,
+      "personagem": "Nino",
+      "texto_en": "Thanks. This hotel has mostly twin rooms, right?",
+      "texto_ptbr": "Obrigada. Esse hotel tem principalmente quartos duplos, né?"
+    },
+    {
+      "id": 19,
+      "personagem": "Miku",
+      "texto_en": "Yes. We booked four twin rooms.",
+      "texto_ptbr": "Sim. A gente reservou quatro quartos duplos."
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "Then, Futaro and I will share a room.",
+      "texto_ptbr": "Então, eu e o Futaro vamos dividir um quarto."
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "What?!",
+      "texto_ptbr": "O quê?!"
+    },
+    {
+      "id": 22,
+      "personagem": "Yotsuba",
+      "texto_en": "Um, I don't think that's a good idea, you know?\\nEthically speaking!",
+      "texto_ptbr": "Hm, acho que isso não é uma boa ideia, sabe?\\nDo ponto de vista ético!"
+    },
+    {
+      "id": 23,
+      "personagem": "Itsuki",
+      "texto_en": "I-indeed. It's as Yotsuba says.\\nIt's inappropriate for minors of opposite genders\\nto share a room, right?",
+      "texto_ptbr": "É-é isso. A Yotsuba tem razão.\\nNão é apropriado para menores de sexos opostos\\ndividirem um quarto, né?"
+    },
+    {
+      "id": 24,
+      "personagem": "Nino",
+      "texto_en": "Why not? It's okay. Futaro and I are dating.",
+      "texto_ptbr": "Por que não? Tá tudo bem. Eu e o Futaro estamos namorando."
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "N-no!\\nI think it's better if we sleep in separate rooms.",
+      "texto_ptbr": "N-não!\\nAcho melhor a gente dormir em quartos separados."
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "Huh, why?\\nOf all the people here, why are YOU trying to stop me Futaro?",
+      "texto_ptbr": "Hã, por quê?\\nDe todas as pessoas aqui, por que VOCÊ tá tentando me parar, Futaro?"
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Right now I'm responsible\\nfor taking care of you guys on behalf of your dad.\\nI prefer having a room of my own. I beg you.",
+      "texto_ptbr": "No momento eu sou responsável\\npor cuidar de vocês no lugar do pai de vocês.\\nPrefiro ter meu próprio quarto. Pelo amor de Deus."
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "(If I were caught in the same room as Nino...\\n there'd be hell to pay!)",
+      "texto_ptbr": "(Se me pegassem no mesmo quarto que a Nino...\\n ia ser um inferno!)"
+    },
+    {
+      "id": 29,
+      "personagem": "Ichika",
+      "texto_en": "Okay, okay. Then let's assign the rooms\\nin order from the top%p-2;――",
+      "texto_ptbr": "Tudo bem, tudo bem. Então vamos distribuir os quartos\\nem ordem desde o começo%p-2;――"
+    },
+    {
+      "id": 30,
+      "personagem": "Ichika",
+      "texto_en": "Me and Nino, Miku and Yotsuba,\\nItsuki and Raiha-chan.\\nIs it okay if you're alone, Futaro-kun?",
+      "texto_ptbr": "Eu e a Nino, a Miku e a Yotsuba,\\na Itsuki e a Raiha-chan.\\nTá bom pra você ficar sozinho, Futaro-kun?"
+    },
+    {
+      "id": 31,
+      "personagem": "Itsuki",
+      "texto_en": "I think that's just fine!",
+      "texto_ptbr": "Acho que tá ótimo assim!"
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "Huh?\\nGeez, you're so stubborn.\\nThere's nothing I can do about it, then.",
+      "texto_ptbr": "Hã?\\nQue saco, você é teimoso demais.\\nNão tem o que fazer, então."
+    },
+    {
+      "id": 33,
+      "personagem": "Itsuki",
+      "texto_en": "I don't think it's a matter of being STUBBORN...!",
+      "texto_ptbr": "Acho que não é uma questão de ser TEIMOSO...!"
+    },
+    {
+      "id": 34,
+      "personagem": "Yotsuba",
+      "texto_en": "Itsuki, calm down. Now now.",
+      "texto_ptbr": "Itsuki, se acalma. Anda, anda."
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "*sigh*",
+      "texto_ptbr": "*suspiro*"
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "Okay, let's get back on track.\\nFor dinner tonight, I made a reservation\\nfor Okinawan cuisine at the hotel restaurant.",
+      "texto_ptbr": "Certo, vamos ao que interessa.\\nPara o jantar de hoje à noite, fiz uma reserva\\npara culinária de Okinawa no restaurante do hotel."
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "This hotel's restaurant has a good reputation.\\nThey cover many different cuisines\\nand apparently their sweets are amazing.",
+      "texto_ptbr": "O restaurante desse hotel tem boa reputação.\\nEles têm vários tipos de culinária\\ne aparentemente as sobremesas são incríveis."
+    },
+    {
+      "id": 38,
+      "personagem": "Yotsuba",
+      "texto_en": "Sounds good! I'm looking forward to it!",
+      "texto_ptbr": "Que ótimo! Tô ansiosa!"
+    },
+    {
+      "id": 39,
+      "personagem": "Itsuki",
+      "texto_en": "We have some time until dinner.\\nIs it okay if we take some time for ourselves?",
+      "texto_ptbr": "Temos um tempo até o jantar.\\nTá bom se cada um fizer o que quiser por enquanto?"
+    },
+    {
+      "id": 40,
+      "personagem": "Raiha",
+      "texto_en": "Okay, sure!",
+      "texto_ptbr": "Pode ser!"
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Well then, I'll be in my room%p-2;――",
+      "texto_ptbr": "Então, eu vou pro meu quarto%p-2;――"
+    },
+    {
+      "id": 42,
+      "personagem": "Nino",
+      "texto_en": "Hey, Futaro!\\nI want to spend some time with you.",
+      "texto_ptbr": "Ei, Futaro!\\nQuero passar um tempo com você."
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "How about we all take a walk around the area together?\\nIt's a tourist spot,\\nso just walking around should be fun.",
+      "texto_ptbr": "Que tal a gente dar uma caminhada pela área?\\nÉ um ponto turístico,\\nentão só passear por aí já deve ser divertido."
+    },
+    {
+      "id": 44,
+      "personagem": "Nino",
+      "texto_en": "Guuuuys?\\nI'd prefer to be alone with him.",
+      "texto_ptbr": "Pessoooal?\\nPrefiro ficar só com ele."
+    },
+    {
+      "id": 45,
+      "personagem": "Ichika",
+      "texto_en": "Futaro-kun? I appreciate the sentiment,\\nbut you have someone else\\nyou need to be concerned about, right?",
+      "texto_ptbr": "Futaro-kun? Agradeço o pensamento,\\nmas tem alguém mais\\ncom quem você precisa se preocupar, né?"
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Ah...\\nYeah, that's right...",
+      "texto_ptbr": "Ah...\\nÉ, verdade..."
+    },
+    {
+      "id": 47,
+      "personagem": "Ichika",
+      "texto_en": "I know! How about the lounge?",
+      "texto_ptbr": "Já sei! Que tal o lounge?"
+    },
+    {
+      "id": 48,
+      "personagem": "Ichika",
+      "texto_en": "You two can just go there and enjoy the amazing view.",
+      "texto_ptbr": "Vocês dois podem ir lá e curtir a vista incrível."
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Alright, let's do that.",
+      "texto_ptbr": "Tá bom, vamos fazer isso."
+    },
+    {
+      "id": 50,
+      "personagem": "Nino",
+      "texto_en": "Okay, let's go!",
+      "texto_ptbr": "Ótimo, vamos lá!"
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "Wait a minute.\\nWe need to bring our luggage to our rooms first.",
+      "texto_ptbr": "Espera um pouco.\\nPrecisamos levar a bagagem pros quartos primeiro."
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Okay, want to come to my room then?",
+      "texto_ptbr": "Tá, quer vir pro meu quarto então?"
+    },
+    {
+      "id": 53,
+      "personagem": "Nino",
+      "texto_en": "Really?!",
+      "texto_ptbr": "De verdade?!"
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "Well, I can't really offer you anything special.",
+      "texto_ptbr": "Bom, não tenho nada de especial pra oferecer."
+    },
+    {
+      "id": 55,
+      "personagem": "Nino",
+      "texto_en": "It's okay if you're there, Futaro.",
+      "texto_ptbr": "Tá bom se você estiver lá, Futaro."
+    },
+    {
+      "id": 56,
+      "personagem": "Itsuki",
+      "texto_en": "W-wait a minute. I already said\\nthat it's inappropriate for minors of opposite genders to\\nshare a room?",
+      "texto_ptbr": "E-espera. Eu já falei\\nque não é apropriado menores de sexos opostos\\ndividirem um quarto?"
+    },
+    {
+      "id": 57,
+      "personagem": "Miku",
+      "texto_en": "Even if Futaro says it's okay, it's not.",
+      "texto_ptbr": "Mesmo que o Futaro diga que tá bem, não tá."
+    },
+    {
+      "id": 58,
+      "personagem": "Nino",
+      "texto_en": "What have you guys been imagining?",
+      "texto_ptbr": "O que vocês ficaram imaginando?"
+    },
+    {
+      "id": 59,
+      "personagem": "Itsuki",
+      "texto_en": "W-well...",
+      "texto_ptbr": "B-bem..."
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "I said it without having any weird intentions...\\nYour fantasy is running wild.",
+      "texto_ptbr": "Falei sem nenhuma intenção estranha...\\nA imaginação de vocês tá viajando."
+    },
+    {
+      "id": 61,
+      "personagem": "Miku",
+      "texto_en": "Still, it's not okay.\\nFutaro's room is off-limits.",
+      "texto_ptbr": "Mesmo assim, não tá bem.\\nO quarto do Futaro é proibido."
+    },
+    {
+      "id": 62,
+      "personagem": "Itsuki",
+      "texto_en": "Right, what Miku said!\\nAt least let's go to the lounge.",
+      "texto_ptbr": "Isso, concordo com a Miku!\\nPelo menos vamos pro lounge."
+    },
+    {
+      "id": 63,
+      "personagem": "Nino",
+      "texto_en": "Well, that's not a bad idea.\\nThe view seems nice there.",
+      "texto_ptbr": "Bom, não é uma má ideia.\\nA vista de lá parece boa."
+    },
+    {
+      "id": 64,
+      "personagem": "Nino",
+      "texto_en": "Hey, Futaro.\\nHow about the two of us go to the lounge?",
+      "texto_ptbr": "Ei, Futaro.\\nQue tal a gente dois ir pro lounge?"
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "Sure, if you want to go, Nino I'll come along.\\nLet's go.",
+      "texto_ptbr": "Claro, se você quiser ir, Nino, eu vou junto.\\nVamos lá."
+    },
+    {
+      "id": 66,
+      "personagem": "Nino",
+      "texto_en": "Okay, let's go!",
+      "texto_ptbr": "Ótimo, vamos lá!"
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "Wait a minute.\\nWe need to bring our luggage to our rooms first.",
+      "texto_ptbr": "Espera um pouco.\\nPrecisamos levar a bagagem pros quartos primeiro."
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "Let's head for the lounge.\\nThe view is nice there, right?",
+      "texto_ptbr": "Vamos pro lounge.\\nA vista de lá é boa, né?"
+    },
+    {
+      "id": 69,
+      "personagem": "Nino",
+      "texto_en": "Just the two of us?",
+      "texto_ptbr": "Só nós dois?"
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "...Well, yeah. That's the plan.",
+      "texto_ptbr": "...Bom, é. Esse é o plano."
+    },
+    {
+      "id": 71,
+      "personagem": "Nino",
+      "texto_en": "I'm okay with that!\\nI was curious about it too.",
+      "texto_ptbr": "Tô dentro!\\nEu também tava curiosa."
+    },
+    {
+      "id": 72,
+      "personagem": "Nino",
+      "texto_en": "Our date in Okinawa starts at the lounge, huh?\\nHehe, I'm excited.",
+      "texto_ptbr": "Nosso date em Okinawa começa no lounge, hein?\\nHehe, tô animada."
+    },
+    {
+      "id": 73,
+      "personagem": "Nino",
+      "texto_en": "Okay, let's go!",
+      "texto_ptbr": "Ótimo, vamos lá!"
+    },
+    {
+      "id": 74,
+      "personagem": "Futaro",
+      "texto_en": "Wait a minute.\\nWe need to bring our luggage to our rooms first.",
+      "texto_ptbr": "Espera um pouco.\\nPrecisamos levar a bagagem pros quartos primeiro."
+    },
+    {
+      "id": 75,
+      "personagem": "Nino",
+      "texto_en": "We can just ask someone to do it for us.",
+      "texto_ptbr": "A gente pode pedir pra alguém fazer isso pra gente."
+    },
+    {
+      "id": 76,
+      "personagem": "Futaro",
+      "texto_en": "Who should I ask...?",
+      "texto_ptbr": "Pra quem eu peço...?"
+    },
+    {
+      "id": 77,
+      "personagem": "Nino",
+      "texto_en": "Excuse me.\\nCan you please take this luggage to our room for us?",
+      "texto_ptbr": "Com licença.\\nPode levar essa bagagem pro nosso quarto, por favor?"
+    },
+    {
+      "id": 78,
+      "personagem": "Bellhop",
+      "texto_en": "Right away.",
+      "texto_ptbr": "Imediatamente."
+    },
+    {
+      "id": 79,
+      "personagem": "Futaro",
+      "texto_en": "(...Wow, they're used to asking for favors.)",
+      "texto_ptbr": "(...Nossa, ela manda nos outros com muita naturalidade.)"
+    },
+    {
+      "id": 80,
+      "personagem": "Nino",
+      "texto_en": "What's wrong?\\nLet's go, Futaro.",
+      "texto_ptbr": "O que foi?\\nVamos logo, Futaro."
+    },
+    {
+      "id": 81,
+      "personagem": "Futaro",
+      "texto_en": "O-okay.",
+      "texto_ptbr": "T-tá bom."
+    }
+  ]
+}

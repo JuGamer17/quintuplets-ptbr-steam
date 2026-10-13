@@ -1,0 +1,55 @@
+{
+  "arquivo": "ca04_24",
+  "total": 5,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*map",
+      "texto_jp": "dummy",
+      "texto_en": "{UNTRANSLATED}dummy",
+      "texto_ptbr": "",
+      "selidx": 0
+    },
+    {
+      "id": 1,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "でも、ここなら迷っても楽しいですよ。\\n見てて飽きないし、テーマパークみたいですし！",
+      "texto_en": "But it's fun to get lost here.\\nIt never gets boring to look at it all.\\nIt feels like a theme park!",
+      "texto_ptbr": "Mas é divertido se perder aqui.\\nNunca enjoa de ficar olhando tudo.\\nParece um parque temático!"
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "マジで迷ってんのか？",
+      "texto_en": "We're actually lost, right?",
+      "texto_ptbr": "Vocês estão perdidos de verdade?",
+      "selidx": 0
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "本当だな",
+      "texto_en": "That's for sure.",
+      "texto_ptbr": "Verdade mesmo.",
+      "selidx": 1
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "迷ってもいいぞ",
+      "texto_en": "It's alright to get lost.",
+      "texto_ptbr": "Pode se perder, tudo bem.",
+      "selidx": 2
+    }
+  ]
+}

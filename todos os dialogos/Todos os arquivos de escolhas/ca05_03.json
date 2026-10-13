@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca05_03",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "あの、お部屋に……お邪魔してもいいですか？",
+      "texto_en": "Um, can I...come into your room?",
+      "texto_ptbr": "Hum, eu posso... entrar no seu quarto?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "いや、用ならここで聞く",
+      "texto_en": "We can talk right here. ",
+      "texto_ptbr": "Se for algo, fala aqui mesmo.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "話があるならラウンジに行くか？",
+      "texto_en": "We can talk at the lounge?",
+      "texto_ptbr": "Se quer conversar, que tal no lounge?",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "どうぞ入ってくれ",
+      "texto_en": "Come on in.",
+      "texto_ptbr": "Pode entrar.",
+      "selidx": 2
+    }
+  ]
+}

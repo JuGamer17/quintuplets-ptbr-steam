@@ -1,0 +1,462 @@
+{
+  "arquivo": "ed02_02_01",
+  "total": 76,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "",
+      "texto_en": "Five years later%p-2;――",
+      "texto_ptbr": "Cinco anos depois%p-2;――"
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "Welcome%p-2;――",
+      "texto_ptbr": "Bem-vindos%p-2;――"
+    },
+    {
+      "id": 2,
+      "personagem": "Nino",
+      "texto_en": "Oh, it's you guys.",
+      "texto_ptbr": "Ah, são vocês."
+    },
+    {
+      "id": 3,
+      "personagem": "Yotsuba",
+      "texto_en": "Ichika, welcome back!",
+      "texto_ptbr": "Ichika, bem-vinda de volta!"
+    },
+    {
+      "id": 4,
+      "personagem": "Miku",
+      "texto_en": "Been a while.",
+      "texto_ptbr": "Quanto tempo."
+    },
+    {
+      "id": 5,
+      "personagem": "Ichika",
+      "texto_en": "It's good to see you guys. \\nAnd you're in a good shape as well.",
+      "texto_ptbr": "Que bom ver vocês. \\nE vejo que estão em boa forma também."
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "And I see the shop is obviously bursting at the seams with customers. ",
+      "texto_ptbr": "E pelo visto a loja está estourando de tanto cliente, hein. "
+    },
+    {
+      "id": 7,
+      "personagem": "Nino",
+      "texto_en": "Yeah, yeah, and here I thought you were better at those sarcastic American-style jokes. ",
+      "texto_ptbr": "Sei, sei, e eu aqui achando que você era melhor nessas piadas sarcásticas ao estilo americano. "
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, come on, Nino.\\nShe came all the way from America just for you.",
+      "texto_ptbr": "Ah, vamos, Nino.\\nEla veio até aqui, lá dos Estados Unidos, só por você."
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "It wasn't just for Nino, you know?\\nI planned to come no matter what.",
+      "texto_ptbr": "Não foi só pela Nino, sabe?\\nEu ia vir de qualquer jeito."
+    },
+    {
+      "id": 10,
+      "personagem": "Ichika",
+      "texto_en": "And don't worry about it, Nino.\\nYou're doing great as you are.",
+      "texto_ptbr": "E não se preocupa com isso, Nino.\\nVocê está indo muito bem assim."
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "I'm as usual you know.",
+      "texto_ptbr": "Eu estou como sempre, sabia?"
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "That's right.\\nThe bride is calm, as she always is.",
+      "texto_ptbr": "É verdade.\\nA noiva está calma, como sempre."
+    },
+    {
+      "id": 13,
+      "personagem": "Yotsuba",
+      "texto_en": "You're just too calm Nino.\\nYou should have taken the day off from the shop today.",
+      "texto_ptbr": "Você é calma demais, Nino.\\nDevia ter tirado o dia de folga da loja hoje."
+    },
+    {
+      "id": 14,
+      "personagem": "Nino",
+      "texto_en": "Miku said she could handle the shop on her own,\\nso I left it to her.\\nWho knows what will happen if she's in charge.",
+      "texto_ptbr": "A Miku disse que dava conta da loja sozinha,\\nentão deixei com ela.\\nQuem sabe o que vai acontecer se ela ficar no comando."
+    },
+    {
+      "id": 15,
+      "personagem": "Miku",
+      "texto_en": "So, Yotsuba came to help too.",
+      "texto_ptbr": "Então, a Yotsuba veio ajudar também."
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "Yotsuba can only handle the floor work, right?\\nYou're the one who does all the cooking.",
+      "texto_ptbr": "A Yotsuba só dá conta do atendimento no salão, né?\\nÉ você quem faz toda a cozinha."
+    },
+    {
+      "id": 17,
+      "personagem": "Miku",
+      "texto_en": "We're telling you, things are going to be fine.",
+      "texto_ptbr": "Já falamos, vai ficar tudo bem."
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "Besides, Nino, once you get married,\\nyou'll go to Futaro's place.",
+      "texto_ptbr": "Além disso, Nino, quando você se casar,\\nvai morar com o Fuutarou."
+    },
+    {
+      "id": 19,
+      "personagem": "Ichika",
+      "texto_en": "Oh, that's right, we talked about that.",
+      "texto_ptbr": "Ah, é mesmo, a gente falou sobre isso."
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "Nino, you taught us how to cook\\nso we could manage the cafe without you, remember?",
+      "texto_ptbr": "Nino, você nos ensinou a cozinhar\\npra podermos cuidar do café sem você, lembra?"
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "But this girl is always so clumsy.",
+      "texto_ptbr": "Mas essa garota é sempre tão desastrada."
+    },
+    {
+      "id": 22,
+      "personagem": "Miku",
+      "texto_en": "You're the only one who thinks that, Nino.\\nGrow up already.",
+      "texto_ptbr": "Só você pensa isso, Nino.\\nCresce logo."
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "Huh?!",
+      "texto_ptbr": "Hã?!"
+    },
+    {
+      "id": 24,
+      "personagem": "Ichika",
+      "texto_en": "Ahaha!\\nShe really came at you, eh.",
+      "texto_ptbr": "Ahaha!\\nEla te atacou com tudo, hein."
+    },
+    {
+      "id": 25,
+      "personagem": "Itsuki",
+      "texto_en": "Will you help in the shop from now on, Yotsuba?",
+      "texto_ptbr": "Você vai ajudar na loja daqui pra frente, Yotsuba?"
+    },
+    {
+      "id": 26,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, I plan to come help occasionally.\\nHow about you, Itsuki?",
+      "texto_ptbr": "Vou sim, pretendo vir ajudar de vez em quando.\\nE você, Itsuki?"
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "What are you talking about?\\nItsuki is a schoolteacher, you know?\\nShe doesn't have that kind of time.",
+      "texto_ptbr": "Do que você está falando?\\nA Itsuki é professora, sabia?\\nEla não tem esse tipo de tempo."
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "Yeah, it might be a little difficult.\\nSorry.",
+      "texto_ptbr": "É, pode ser um pouco difícil.\\nDesculpe."
+    },
+    {
+      "id": 29,
+      "personagem": "Nino",
+      "texto_en": "That's okay.\\nYou finally got your dream job,\\nso put all your efforts into that.",
+      "texto_ptbr": "Tudo bem.\\nVocê finalmente conseguiu o emprego dos seus sonhos,\\nentão coloca todo o seu esforço nisso."
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "And you too, Yotsuba.\\nPrioritize what you really want to do\\nover helping out here.",
+      "texto_ptbr": "E você também, Yotsuba.\\nDá prioridade ao que você realmente quer fazer\\nem vez de ajudar aqui."
+    },
+    {
+      "id": 31,
+      "personagem": "Nino",
+      "texto_en": "You too, Miku, consider hiring part-time workers\\ninstead of relying only on Yotsuba and Raiha-chan.",
+      "texto_ptbr": "Você também, Miku, pense em contratar funcionários de meio período\\nem vez de depender só da Yotsuba e da Raiha-chan."
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "If you only rely on family,\\nyou may be in trouble when something happens.",
+      "texto_ptbr": "Se você depender só da família,\\npode ficar em apuros quando acontecer alguma coisa."
+    },
+    {
+      "id": 33,
+      "personagem": "Ichika",
+      "texto_en": "Oh my, oh my.\\nMaybe we really need to grow up.",
+      "texto_ptbr": "Ai, ai.\\nTalvez a gente realmente precise crescer."
+    },
+    {
+      "id": 34,
+      "personagem": "Nino",
+      "texto_en": "Th-that's why! I'm worried about the shop!\\nWe finally have more regulars,\\nand things are starting to look up.",
+      "texto_ptbr": "É-é por isso! Estou preocupada com a loja!\\nFinalmente temos mais clientes fixos,\\ne as coisas estão começando a melhorar."
+    },
+    {
+      "id": 35,
+      "personagem": "Nino",
+      "texto_en": "I want to make sure we don't disappoint Futaro's dad,\\nwho lent us this place.",
+      "texto_ptbr": "Quero garantir que a gente não decepcione o pai do Fuutarou,\\nque nos emprestou este lugar."
+    },
+    {
+      "id": 36,
+      "personagem": "Miku",
+      "texto_en": "I understand.\\nLeave it to me, Nino.",
+      "texto_ptbr": "Entendi.\\nPode deixar comigo, Nino."
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "...Okay.\\nI'm counting on you, Miku.",
+      "texto_ptbr": "...Tá bom.\\nEstou contando com você, Miku."
+    },
+    {
+      "id": 38,
+      "personagem": "Yotsuba",
+      "texto_en": "Maybe someday we can open\\na second 'NAKANO' store in Tokyo,\\nand surprise you, Nino.",
+      "texto_ptbr": "Quem sabe um dia a gente abra\\numa segunda loja 'NAKANO' em Tóquio,\\ne surpreenda você, Nino."
+    },
+    {
+      "id": 39,
+      "personagem": "Nino",
+      "texto_en": "Oh, if that happens,\\nI can work at the second store too, you know?",
+      "texto_ptbr": "Ah, se isso acontecer,\\nposso trabalhar na segunda loja também, sabia?"
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "Teehee, that's a big dream.",
+      "texto_ptbr": "Teehee, que sonho grande."
+    },
+    {
+      "id": 41,
+      "personagem": "Ichika",
+      "texto_en": "Well then.\\nWe can't talk for too long, can we?",
+      "texto_ptbr": "Bem, então.\\nNão dá pra ficar conversando por muito tempo, né?"
+    },
+    {
+      "id": 42,
+      "personagem": "Ichika",
+      "texto_en": "Here.\\nThese are Mom's heirloom earrings.",
+      "texto_ptbr": "Toma.\\nSão os brincos de herança da mamãe."
+    },
+    {
+      "id": 43,
+      "personagem": "Miku",
+      "texto_en": "This is our wedding gift to you, Nino.",
+      "texto_ptbr": "Este é o nosso presente de casamento pra você, Nino."
+    },
+    {
+      "id": 44,
+      "personagem": "Yotsuba",
+      "texto_en": "Alright, here we go.\\nOne, two, three!",
+      "texto_ptbr": "Certo, vamos lá.\\nUm, dois, três!"
+    },
+    {
+      "id": 45,
+      "personagem": "All 4",
+      "texto_en": "Nino, congratulations on getting married!",
+      "texto_ptbr": "Nino, parabéns pelo casamento!"
+    },
+    {
+      "id": 46,
+      "personagem": "Nino",
+      "texto_en": "Thanks.",
+      "texto_ptbr": "Obrigada."
+    },
+    {
+      "id": 47,
+      "personagem": "Yotsuba",
+      "texto_en": "What about the ones you were holding onto, Nino?",
+      "texto_ptbr": "E aqueles que você estava guardando, Nino?"
+    },
+    {
+      "id": 48,
+      "personagem": "Nino",
+      "texto_en": "I brought them.\\nIt turns out I had them in storage until today.",
+      "texto_ptbr": "Eu trouxe.\\nAcontece que estavam guardados até hoje."
+    },
+    {
+      "id": 49,
+      "personagem": "Ichika",
+      "texto_en": "Are your piercings still there? Oh, they are?",
+      "texto_ptbr": "Os seus piercings ainda estão aí? Ah, estão?"
+    },
+    {
+      "id": 50,
+      "personagem": "Nino",
+      "texto_en": "Yes.\\nI asked Futaro to help me open them.",
+      "texto_ptbr": "Sim.\\nPedi pro Fuutarou me ajudar a furar."
+    },
+    {
+      "id": 51,
+      "personagem": "Nino",
+      "texto_en": "I never thought I'd end up\\nopening them five years later.",
+      "texto_ptbr": "Nunca imaginei que acabaria furando\\ncinco anos depois."
+    },
+    {
+      "id": 52,
+      "personagem": "Ichika",
+      "texto_en": "Five years later?\\nWhat are you talking about, now?",
+      "texto_ptbr": "Cinco anos depois?\\nDo que você está falando agora?"
+    },
+    {
+      "id": 53,
+      "personagem": "Nino",
+      "texto_en": "Remember when you borrowed my piercer?\\nI wanted Futaro to help me pierce my ears then.",
+      "texto_ptbr": "Lembra quando você pegou o meu furador emprestado?\\nNaquela época eu queria que o Fuutarou me ajudasse a furar as orelhas."
+    },
+    {
+      "id": 54,
+      "personagem": "Miku",
+      "texto_en": "Oh, that's right.",
+      "texto_ptbr": "Ah, é verdade."
+    },
+    {
+      "id": 55,
+      "personagem": "Nino",
+      "texto_en": "Well, we never pierced my ears with them.",
+      "texto_ptbr": "Bom, a gente nunca chegou a furar as minhas orelhas com eles."
+    },
+    {
+      "id": 56,
+      "personagem": "Yotsuba",
+      "texto_en": "Why not?",
+      "texto_ptbr": "Por que não?"
+    },
+    {
+      "id": 57,
+      "personagem": "Nino",
+      "texto_en": "That's... Well, it doesn't matter, right?\\nI just didn't feel like opening them for some reason.",
+      "texto_ptbr": "É que... Bom, não importa, né?\\nÉ que, por algum motivo, eu não senti vontade de furá-las."
+    },
+    {
+      "id": 58,
+      "personagem": "Ichika",
+      "texto_en": "Weren't you just scared?",
+      "texto_ptbr": "Você não estava só com medo?"
+    },
+    {
+      "id": 59,
+      "personagem": "Nino",
+      "texto_en": "No, that's not it.\\nI told you, I said I would get them pierced\\nby the time I wore my wedding dress.",
+      "texto_ptbr": "Não, não é isso.\\nEu falei, eu disse que ia furá-las\\naté o momento de usar o meu vestido de noiva."
+    },
+    {
+      "id": 60,
+      "personagem": "Ichika",
+      "texto_en": "Oh, that's right, you did say that.",
+      "texto_ptbr": "Ah, é mesmo, você disse isso."
+    },
+    {
+      "id": 61,
+      "personagem": "Itsuki",
+      "texto_en": "It's funny that Uesugi-kun,\\nwho tried to help me do that back then,\\nis the groom, five years later.",
+      "texto_ptbr": "É engraçado que o Uesugi-kun,\\nque tentou me ajudar com isso naquela época,\\nseja o noivo, cinco anos depois."
+    },
+    {
+      "id": 62,
+      "personagem": "Yotsuba",
+      "texto_en": "It's romantic. So lovey-dovey.",
+      "texto_ptbr": "É romântico. Tão meloso."
+    },
+    {
+      "id": 63,
+      "personagem": "Nino",
+      "texto_en": "Yes, Futaro and I are very lovey-dovey.",
+      "texto_ptbr": "Sim, o Fuutarou e eu somos bem melosos."
+    },
+    {
+      "id": 64,
+      "personagem": "Miku",
+      "texto_en": "...Thank you for the display.",
+      "texto_ptbr": "...Obrigada pela demonstração."
+    },
+    {
+      "id": 65,
+      "personagem": "Ichika",
+      "texto_en": "We actually planned\\nto pierce your ears ourselves.",
+      "texto_ptbr": "A gente até planejava\\nfurar as suas orelhas nós mesmas."
+    },
+    {
+      "id": 66,
+      "personagem": "Ichika",
+      "texto_en": "It's a shame, that Futaro-kun beat us to it. \\nWe were looking forward to pierce your ears.",
+      "texto_ptbr": "Que pena que o Fuutarou-kun saiu na frente. \\nA gente estava ansiosa pra furar as suas orelhas."
+    },
+    {
+      "id": 67,
+      "personagem": "Nino",
+      "texto_en": "Too bad for you.",
+      "texto_ptbr": "Que pena pra vocês."
+    },
+    {
+      "id": 68,
+      "personagem": "Itsuki",
+      "texto_en": "Well then, shall we head to the venue\\nwhere the groom is waiting?",
+      "texto_ptbr": "Bem, então, vamos até o local\\nonde o noivo está esperando?"
+    },
+    {
+      "id": 69,
+      "personagem": "Miku",
+      "texto_en": "There are some preparations to be made.",
+      "texto_ptbr": "Temos alguns preparativos a fazer."
+    },
+    {
+      "id": 70,
+      "personagem": "Ichika",
+      "texto_en": "Right, my makeup artist is here right now.\\nMy dress is also ready.",
+      "texto_ptbr": "É, minha maquiadora está aqui agora.\\nO meu vestido também está pronto."
+    },
+    {
+      "id": 71,
+      "personagem": "Yotsuba",
+      "texto_en": "Nino, are you sure about this?\\nAre you okay?",
+      "texto_ptbr": "Nino, você tem certeza disso?\\nEstá tudo bem?"
+    },
+    {
+      "id": 72,
+      "personagem": "Nino",
+      "texto_en": "I said it's what I want, so I'll be fine.\\nOnce I've made up my mind, I'll see it through.",
+      "texto_ptbr": "Eu disse que é o que eu quero, então vou ficar bem.\\nQuando eu decido algo, eu vou até o fim."
+    },
+    {
+      "id": 73,
+      "personagem": "Itsuki",
+      "texto_en": "That's right.\\nWe'll have to have Uesugi-kun confirm it.",
+      "texto_ptbr": "É verdade.\\nTeremos que pedir pro Uesugi-kun confirmar."
+    },
+    {
+      "id": 74,
+      "personagem": "Miku",
+      "texto_en": "I wonder what kind of expression Futaro will make.",
+      "texto_ptbr": "Que tipo de expressão será que o Fuutarou vai fazer?"
+    },
+    {
+      "id": 75,
+      "personagem": "Nino",
+      "texto_en": "He'll probably be really angry.\\nLike, 'what the heck are you guys doing?'",
+      "texto_ptbr": "Ele provavelmente vai ficar bem bravo.\\nTipo, 'o que vocês estão fazendo?'"
+    }
+  ]
+}

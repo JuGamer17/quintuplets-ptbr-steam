@@ -1,0 +1,75 @@
+{
+  "arquivo": "ca03_mv3_03",
+  "total": 7,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "…………。",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "なにも想像してないぞ？",
+      "texto_en": "I wasn't imagining a thing.",
+      "texto_ptbr": "Não imaginei nada, tá?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "……想像に任せる",
+      "texto_en": "...I'll leave that up to your imagination.",
+      "texto_ptbr": "...Deixo por conta da sua imaginação.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "言わなくてもわかってるだろ……",
+      "texto_en": "You know, without me having to say...",
+      "texto_ptbr": "Você já sabe, sem eu precisar dizer...",
+      "selidx": 2
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "ドリームセンター:一花:五月",
+      "texto_en": "Dream Center: Ichika/Itsuki",
+      "texto_ptbr": "Dream Center: Ichika/Itsuki",
+      "selidx": 0
+    },
+    {
+      "id": 5,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "海洋博公園広場:二乃:四葉",
+      "texto_en": "Ocean Expo Park Square: Nino/Yotsuba",
+      "texto_ptbr": "Praça do Ocean Expo Park: Nino/Yotsuba",
+      "selidx": 1
+    },
+    {
+      "id": 6,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "郷土村:三玖:らいは",
+      "texto_en": "Native Okinawan Village: Miku/Raiha",
+      "texto_ptbr": "Vila Nativa de Okinawa: Miku/Raiha",
+      "selidx": 2
+    }
+  ]
+}

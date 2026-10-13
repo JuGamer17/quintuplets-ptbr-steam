@@ -1,0 +1,396 @@
+{
+  "arquivo": "ca01_27",
+  "total": 65,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "Alright then,\\nit's finally the last day of our graduation trip!\\nLet's give it our all!",
+      "texto_ptbr": "Muito bem,\\nfinalmente é o último dia da nossa viagem de formatura!\nVamos dar tudo de nós!"
+    },
+    {
+      "id": 1,
+      "personagem": "Raiha",
+      "texto_en": "This place is so beautiful.\\nIt doesn't feel like Japan.",
+      "texto_ptbr": "Esse lugar é lindo demais.\\nNão parece que a gente está no Japão."
+    },
+    {
+      "id": 2,
+      "personagem": "Nino",
+      "texto_en": "The contrast between the white buildings\\nand the blue sea...",
+      "texto_ptbr": "O contraste entre os prédios brancos\\ne o mar azul..."
+    },
+    {
+      "id": 3,
+      "personagem": "Nino",
+      "texto_en": "It really feels like we're at a resort!\\nUmikaji Terrace is such a great spot.",
+      "texto_ptbr": "Parece mesmo que estamos num resort!\nA Umikaji Terrace é um lugar incrível."
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, this place also feels like we're overseas!\\nBut it has a different atmosphere from\\nAmerican Village.",
+      "texto_ptbr": "É, esse lugar também dá sensação de estar no exterior!\nMas tem uma atmosfera diferente da\\nAmerican Village."
+    },
+    {
+      "id": 5,
+      "personagem": "Miku",
+      "texto_en": "There are so many different ways to enjoy Okinawa.",
+      "texto_ptbr": "Tem tantas formas diferentes de aproveitar Okinawa."
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "Hey, everyone?\\nAre you really okay with this?\\nToday was supposed to be for beach-going and barbecuing.",
+      "texto_ptbr": "Ei, pessoal?\\nVocês realmente estão bem com isso?\\nHoje era pra ser dia de praia e churrasco."
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "It's fine. You should still take care,\\nand we all agreed on this plan.",
+      "texto_ptbr": "Tá bom. Você ainda precisa ter cuidado,\\ne todo mundo concordou com esse plano."
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "You're worrying too much.",
+      "texto_ptbr": "Você está preocupando demais."
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "And we didn't come here\\njust to accommodate you, Ichika.",
+      "texto_ptbr": "E a gente não veio aqui\\nsó pra te agradar, Ichika."
+    },
+    {
+      "id": 10,
+      "personagem": "Ichika",
+      "texto_en": "Huh? You didn't?",
+      "texto_ptbr": "Hã? Não vieram?"
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, there are still things\\nwe haven't done on this trip.",
+      "texto_ptbr": "É, ainda tem coisas\\nque a gente não fez nessa viagem."
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "Things we haven't done...",
+      "texto_ptbr": "Coisas que não fizemos..."
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "Ah, our souvenir search!",
+      "texto_ptbr": "Ah, a nossa busca por lembranças!"
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "That's right!\\nWe still haven't found matching souvenirs for us yet.",
+      "texto_ptbr": "Exato!\nAinda não achamos lembranças iguais pra nós."
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "That's true.\\nWe don't have time for a barbecue anyway.",
+      "texto_ptbr": "É verdade.\\nNão temos tempo pra churrasco de qualquer forma."
+    },
+    {
+      "id": 16,
+      "personagem": "Miku",
+      "texto_en": "That's right.",
+      "texto_ptbr": "É isso mesmo."
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "This place has a variety of shops,\\nso it's perfect for a souvenir search.",
+      "texto_ptbr": "Esse lugar tem uma variedade de lojas,\\nentão é perfeito pra procurar lembranças."
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "Plus, we have to find them today.\\nWe're flying out tomorrow morning.",
+      "texto_ptbr": "Além disso, a gente precisa achar hoje.\\nA gente pega o voo amanhã de manhã."
+    },
+    {
+      "id": 19,
+      "personagem": "Ichika",
+      "texto_en": "Exactly! Right,\\nlet's put some effort into finding them!",
+      "texto_ptbr": "Exatamente! Então,\\nvamos nos empenhar em achar!"
+    },
+    {
+      "id": 20,
+      "personagem": "Yotsuba",
+      "texto_en": "Wow, you can see the ocean from anywhere you look!\\nÉ tão divertido só de admirar a paisagem.",
+      "texto_ptbr": "Nossa, dá pra ver o oceano de qualquer lugar!\nÉ tão divertido só de admirar a paisagem."
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "If you walk while looking into the distance,\\nyou'll get lost, you know?",
+      "texto_ptbr": "Se você andar olhando pro longe,\\nvai se perder, sabia?"
+    },
+    {
+      "id": 22,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, you're right, I have to be careful.\\nRaiha-chan, should we hold hands?",
+      "texto_ptbr": "Ah, é verdade, tenho que ter cuidado.\\nRaiha-chan, a gente se dá as mãos?"
+    },
+    {
+      "id": 23,
+      "personagem": "Raiha",
+      "texto_en": "No thanks, I'm not a kid anymore.",
+      "texto_ptbr": "Não, obrigada, não sou mais criança."
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "...Oh? Where's Uesugi-kun?",
+      "texto_ptbr": "...Hm? Cadê o Uesugi-kun?"
+    },
+    {
+      "id": 25,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh? He's not here?!\\nCould it be that Uesugi-san got lost?",
+      "texto_ptbr": "Hã? Não está aqui?!\nSerá que o Uesugi-san se perdeu?"
+    },
+    {
+      "id": 26,
+      "personagem": "Miku",
+      "texto_en": "Shall we go look for him?",
+      "texto_ptbr": "A gente vai procurar ele?"
+    },
+    {
+      "id": 27,
+      "personagem": "Ichika",
+      "texto_en": "Futaro-kun will be fine.\\nHe'll come back on his own.",
+      "texto_ptbr": "O Futaro-kun vai ficar bem.\\nEle volta sozinho."
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "...Hehe.",
+      "texto_ptbr": "...Hehe."
+    },
+    {
+      "id": 29,
+      "personagem": "Ichika",
+      "texto_en": "Hmm? Do you have anything to say, Itsuki-chan?",
+      "texto_ptbr": "Hmm? Tem algo a dizer, Itsuki-chan?"
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "No, I was just thinking that\\nyou really trust Uesugi-kun, Ichika.",
+      "texto_ptbr": "Não, estava só pensando que\\nvocê confia muito no Uesugi-kun, Ichika."
+    },
+    {
+      "id": 31,
+      "personagem": "Nino",
+      "texto_en": "Yeah, you had that look on your face.\\nYou looked so calm and confident\\nthat he would come back to you.",
+      "texto_ptbr": "É, você estava com essa cara.\\nParecia tão calma e confiante\\nde que ele ia voltar pra você."
+    },
+    {
+      "id": 32,
+      "personagem": "Ichika",
+      "texto_en": "D-did I have that look on my face?\\nThat's embarrassing...",
+      "texto_ptbr": "E-eu estava com essa cara?\nQue vergonha..."
+    },
+    {
+      "id": 33,
+      "personagem": "Miku",
+      "texto_en": "Hey, Ichika, how is it living with Futaro?",
+      "texto_ptbr": "Ei, Ichika, como é morar com o Futaro?"
+    },
+    {
+      "id": 34,
+      "personagem": "Ichika",
+      "texto_en": "W-well...",
+      "texto_ptbr": "B-bom..."
+    },
+    {
+      "id": 35,
+      "personagem": "Ichika",
+      "texto_en": "It was fun, after all.\\nThat's the most important thing.\\nI'm just happy being by his side.",
+      "texto_ptbr": "Foi divertido, no final das contas.\\nIsso é o mais importante.\\nEstou feliz só de estar do lado dele."
+    },
+    {
+      "id": 36,
+      "personagem": "Nino",
+      "texto_en": "We changed rooms\\nbecause you wanted to simulate living together, right?",
+      "texto_ptbr": "A gente trocou de quartos\\nporque você queria simular como seria morar juntos, né?"
+    },
+    {
+      "id": 37,
+      "personagem": "Ichika",
+      "texto_en": "Of course, and we did that too.\\nI learned some things\\nby spending time in the same room as him.",
+      "texto_ptbr": "Claro, e fizemos isso também.\\nAprendi algumas coisas\\nficando no mesmo quarto que ele."
+    },
+    {
+      "id": 38,
+      "personagem": "Ichika",
+      "texto_en": "Thanks to everyone,\\nI think I had a really meaningful time.",
+      "texto_ptbr": "Graças a todo mundo,\\nacho que tive um tempo muito especial."
+    },
+    {
+      "id": 39,
+      "personagem": "Yotsuba",
+      "texto_en": "Is that so!\\nThat's great, Ichika.",
+      "texto_ptbr": "É mesmo!\nQue bom, Ichika."
+    },
+    {
+      "id": 40,
+      "personagem": "Ichika",
+      "texto_en": "But there are still a lot of things I need to learn.",
+      "texto_ptbr": "Mas ainda tem muita coisa que preciso aprender."
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "Learn?",
+      "texto_ptbr": "Aprender?"
+    },
+    {
+      "id": 42,
+      "personagem": "Ichika",
+      "texto_en": "Yes. Like cooking for Futaro-kun\\nwhen we actually start living together.",
+      "texto_ptbr": "É. Tipo cozinhar pro Futaro-kun\\nquando a gente de fato começar a morar juntos."
+    },
+    {
+      "id": 43,
+      "personagem": "Ichika",
+      "texto_en": "I don't know what to say. I'm just happy\\nbeing by his side%p-2;――",
+      "texto_ptbr": "Não sei bem o que dizer. Estou feliz só\\nde estar do lado dele%p-2;――"
+    },
+    {
+      "id": 44,
+      "personagem": "Ichika",
+      "texto_en": "But, if we can be together, \\nunderstand and support each other,\\nwe can move forward even more.",
+      "texto_ptbr": "Mas, se a gente puder ficar junto,\\nse entender e se apoiar,\\na gente consegue avançar ainda mais."
+    },
+    {
+      "id": 45,
+      "personagem": "Ichika",
+      "texto_en": "We can't just stand still because we're happy now.",
+      "texto_ptbr": "Não dá pra ficar parada só porque estou feliz agora."
+    },
+    {
+      "id": 46,
+      "personagem": "Ichika",
+      "texto_en": "So, Nino, can you teach me how to cook next time?",
+      "texto_ptbr": "Então, Nino, você pode me ensinar a cozinhar na próxima vez?"
+    },
+    {
+      "id": 47,
+      "personagem": "Nino",
+      "texto_en": "Sure, but my tuition fee is high, you know?",
+      "texto_ptbr": "Claro, mas minha taxa de aula é cara, viu?"
+    },
+    {
+      "id": 48,
+      "personagem": "Ichika",
+      "texto_en": "Oh, is that so?\\nThen I have to work harder as an actress.",
+      "texto_ptbr": "Ah, é mesmo?\\nEntão tenho que me esforçar mais como atriz."
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Hey, there you are!\\nYou guys went somewhere, didn't you?",
+      "texto_ptbr": "Ei, aí estão vocês!\nVocês foram a algum lugar, né?"
+    },
+    {
+      "id": 50,
+      "personagem": "Raiha",
+      "texto_en": "Eh? Big bro,\\nyou're the one who went somewhere.",
+      "texto_ptbr": "Ei? Onii-chan,\\nvocê é quem foi a algum lugar."
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "No, I was checking out some souvenirs\\nthat looked great\\nand you guys had gone ahead without me.",
+      "texto_ptbr": "Não, eu estava olhando umas lembranças\\nque pareciam ótimas\\ne vocês foram embora sem mim."
+    },
+    {
+      "id": 52,
+      "personagem": "Ichika",
+      "texto_en": "Huh? Did you find something good?\\nWhat did you find?",
+      "texto_ptbr": "Hã? Encontrou alguma coisa boa?\nO que você achou?"
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "That's a surprise. You'll have to wait and see.",
+      "texto_ptbr": "É surpresa. Vai ter que esperar pra ver."
+    },
+    {
+      "id": 54,
+      "personagem": "Ichika",
+      "texto_en": "Oh, you're teasing us.\\nThe bar has been raised, I see.",
+      "texto_ptbr": "Ah, está nos deixando na curiosidade.\\nA expectativa subiu, hein."
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "Hehehe, I'm confident I can clear that bar.\\nCome on, follow me!",
+      "texto_ptbr": "Hehehehe, estou confiante que consigo superar essa expectativa.\\nVamos, me sigam!"
+    },
+    {
+      "id": 56,
+      "personagem": "Raiha",
+      "texto_en": "Okay!",
+      "texto_ptbr": "Tá bem!"
+    },
+    {
+      "id": 57,
+      "personagem": "Ichika",
+      "texto_en": "Alright, let's see what you've got!",
+      "texto_ptbr": "Então, vamos ver o que você tem!"
+    },
+    {
+      "id": 58,
+      "personagem": "Yotsuba",
+      "texto_en": "Ichika looks like she's having fun.",
+      "texto_ptbr": "A Ichika parece estar se divertindo."
+    },
+    {
+      "id": 59,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, her smile just now\\nis shining brighter\\nthan anything I've seen in dramas.",
+      "texto_ptbr": "É, o sorriso dela agora\\nbrilha mais\\ndo que qualquer coisa que eu já vi em dramas."
+    },
+    {
+      "id": 60,
+      "personagem": "Nino",
+      "texto_en": "It's definitely because of Fu-kun,\\nthere's no doubt about that.",
+      "texto_ptbr": "É definitivamente por causa do Fu-kun,\\nnão tem dúvida."
+    },
+    {
+      "id": 61,
+      "personagem": "Miku",
+      "texto_en": "Yeah...",
+      "texto_ptbr": "É..."
+    },
+    {
+      "id": 62,
+      "personagem": "Miku",
+      "texto_en": "But, I won't let Futaro\\nsteal our sisterly relationship away.",
+      "texto_ptbr": "Mas eu não vou deixar o Futaro\\nroubar o nosso laço de irmãs."
+    },
+    {
+      "id": 63,
+      "personagem": "Nino",
+      "texto_en": "Of course not. Being quintuplets\\nis something that will never change for us.",
+      "texto_ptbr": "Claro que não. Ser quintuplas\\né algo que nunca vai mudar pra nós."
+    },
+    {
+      "id": 64,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah! Ichika will always be our big sister,\\nforever and ever.",
+      "texto_ptbr": "Isso mesmo! A Ichika sempre vai ser nossa irmã mais velha,\\npara sempre e sempre."
+    }
+  ]
+}

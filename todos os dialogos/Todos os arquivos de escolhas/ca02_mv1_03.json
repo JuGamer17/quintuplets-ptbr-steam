@@ -1,0 +1,75 @@
+{
+  "arquivo": "ca02_mv1_03",
+  "total": 7,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "それに、旅行で気分が\\n高揚してしまっていたのもあります。\\n反省しなくては……。",
+      "texto_en": "I felt so excited because of the trip, but yeah, I've definitely \\noverdone it and I need to calm down a bit...",
+      "texto_ptbr": "Eu fiquei tão animada por causa da viagem, mas é, com certeza \neu exagerei e preciso me acalmar um pouco..."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "旅の恥はなんとやら、か",
+      "texto_en": "What happens in Okinawa stays in Okinawa.",
+      "texto_ptbr": "Vergonha de viagem não conta, né?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "らいはは大丈夫か？",
+      "texto_en": "Is Raiha alright?",
+      "texto_ptbr": "A Raiha tá bem?",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "この景色は気分があがるよな",
+      "texto_en": "This scenery really gets you pumped.",
+      "texto_ptbr": "Essa paisagem anima a gente, hein.",
+      "selidx": 2
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "サンセットビーチＡ:一花:五月",
+      "texto_en": "Sunset Beach A: Ichika/Raiha",
+      "texto_ptbr": "Sunset Beach A: Ichika/Itsuki",
+      "selidx": 0
+    },
+    {
+      "id": 5,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "サンセットビーチＢ:二乃:四葉",
+      "texto_en": "Sunset Beach B: Miku/Yotsuba",
+      "texto_ptbr": "Sunset Beach B: Nino/Yotsuba",
+      "selidx": 1
+    },
+    {
+      "id": 6,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "サンセットビーチＣ:三玖:らいは",
+      "texto_en": "Sunset Beach C: Nino/Itsuki",
+      "texto_ptbr": "Sunset Beach C: Miku/Raiha",
+      "selidx": 2
+    }
+  ]
+}

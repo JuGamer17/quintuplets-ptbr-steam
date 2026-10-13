@@ -1,0 +1,55 @@
+{
+  "arquivo": "ca04_03",
+  "total": 5,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*map",
+      "texto_jp": "dummy",
+      "texto_en": "{UNTRANSLATED}dummy",
+      "texto_ptbr": "",
+      "selidx": 0
+    },
+    {
+      "id": 1,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "へ？",
+      "texto_en": "What do you mean?",
+      "texto_ptbr": "Como assim?"
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "予定を変えたのは一花たちだ",
+      "texto_en": "Ichika and them changed the plans.",
+      "texto_ptbr": "Foram a Ichika e as outras que mudaram o plano.",
+      "selidx": 0
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "アクティビティも楽しみだしな",
+      "texto_en": "I was looking forward to the activities, too.",
+      "texto_ptbr": "Eu também estava ansioso pras atividades.",
+      "selidx": 1
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "旅行なんてこんなものだろ",
+      "texto_en": "This is just how things go on a trip.",
+      "texto_ptbr": "Viagem é assim mesmo.",
+      "selidx": 2
+    }
+  ]
+}

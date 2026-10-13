@@ -1,0 +1,192 @@
+{
+  "arquivo": "ca03_20",
+  "total": 31,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Trainer",
+      "texto_en": "Hello!\\nWelcome, everyone!",
+      "texto_ptbr": "Olá!\\nSejam bem-vindos, pessoal!"
+    },
+    {
+      "id": 1,
+      "personagem": "Miku",
+      "texto_en": "Wow...!\\nThey greet us properly.",
+      "texto_ptbr": "Uau...!\\nEles cumprimentam direitinho."
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, they are so polite.",
+      "texto_ptbr": "É, são bem educados."
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "They even bow.\\nHow cute!",
+      "texto_ptbr": "Eles até fazem reverência.\\nQue fofo!"
+    },
+    {
+      "id": 4,
+      "personagem": "Trainer",
+      "texto_en": "From here on, we will show you various stunts we will be performing!",
+      "texto_ptbr": "A partir de agora, vamos mostrar várias acrobacias que preparamos!"
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "Wow!\\nCan dolphins really jump that high?!",
+      "texto_ptbr": "Uau!\\nGolfinhos conseguem pular assim tão alto?!"
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "It looks like they push the water with their tails.\\nHow skillful.",
+      "texto_ptbr": "Parece que eles empurram a água com o rabo.\\nQue habilidosos."
+    },
+    {
+      "id": 7,
+      "personagem": "Miku",
+      "texto_en": "They swim fast too!\\nThey move so quickly through the water!",
+      "texto_ptbr": "E nadam rápido também!\\nEles se movem tão rápido na água!"
+    },
+    {
+      "id": 8,
+      "personagem": "Yotsuba",
+      "texto_en": "Their form is beautiful!\\nI want to swim like that too!",
+      "texto_ptbr": "A forma deles é linda!\\nEu também quero nadar assim!"
+    },
+    {
+      "id": 9,
+      "personagem": "Trainer",
+      "texto_en": "Next, the dolphin will attempt to move the ball to the other side!\\nWill the dolphin manage to swim without dropping it?",
+      "texto_ptbr": "A seguir, o golfinho vai tentar levar a bola para o outro lado!\\nSerá que ele vai conseguir nadar sem deixá-la cair?"
+    },
+    {
+      "id": 10,
+      "personagem": "Raiha",
+      "texto_en": "Woah, they're so good!",
+      "texto_ptbr": "Nossa, eles são tão bons!"
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "Futaro!\\nThose dolphins over there\\nare doing the backstroke!",
+      "texto_ptbr": "Fuutarou!\\nAqueles golfinhos ali\\nestão nadando de costas!"
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Yeah! Their bodies are mostly out of the water!\\nHow are they doing that?",
+      "texto_ptbr": "É! O corpo deles fica quase todo fora da água!\\nComo será que fazem isso?"
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Ah! Those ones are doing a handstand in the water!",
+      "texto_ptbr": "Ah! Aqueles ali estão fazendo parada de mão na água!"
+    },
+    {
+      "id": 14,
+      "personagem": "Miku",
+      "texto_en": "They're saying something to us!\\nI wonder what they're saying?",
+      "texto_ptbr": "Eles estão dizendo algo pra gente!\\nSerá o que será?"
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "(Miku is really into this.\\n As expected, she was looking forward to this,\\n so it's only natural.)",
+      "texto_ptbr": "(A Miku está bem animada com isso.\\n Como eu já esperava, ela estava ansiosa por isso,\\n então é só natural.)"
+    },
+    {
+      "id": 16,
+      "personagem": "Miku",
+      "texto_en": "Futaro! Futaro!\\nDid you see that? Three of them jumped!",
+      "texto_ptbr": "Fuutarou! Fuutarou!\\nViu aquilo? Três deles pularam juntos!"
+    },
+    {
+      "id": 17,
+      "personagem": "Miku",
+      "texto_en": "Wow! They did it again!\\nAmazing, their movements are perfectly synchronized!",
+      "texto_ptbr": "Uau! Fizeram de novo!\\nIncrível, os movimentos deles estão perfeitamente sincronizados!"
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "Huhhh?!\\nThey're flying and spinning now!",
+      "texto_ptbr": "Hã?!\\nAgora eles estão voando e girando!"
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Miku, calm down a bit, huh?",
+      "texto_ptbr": "Miku, se acalma um pouco, hein?"
+    },
+    {
+      "id": 20,
+      "personagem": "Miku",
+      "texto_en": "B-but!\\nI've never seen anything like this!",
+      "texto_ptbr": "M-mas!\\nEu nunca vi nada assim antes!"
+    },
+    {
+      "id": 21,
+      "personagem": "Miku",
+      "texto_en": "I didn't know dolphins could move like this.\\nDid you know that, Futaro?",
+      "texto_ptbr": "Eu não sabia que golfinhos conseguiam se mover assim.\\nVocê sabia disso, Fuutarou?"
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "No, it's my first time learning about it too.",
+      "texto_ptbr": "Não, também é a primeira vez que fico sabendo disso."
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "(...Good.\\n The gap between me and Miku that was there\\n until now doesn't feel like it exists anymore.)",
+      "texto_ptbr": "(...Que bom.\\n Aquela distância que existia entre mim e a Miku\\n até agora, parece que já não existe mais.)"
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "(If things keep going like this,\\n I might be able to find out\\n what Miku was worried about.)",
+      "texto_ptbr": "(Se as coisas continuarem assim,\\n talvez eu consiga descobrir\\n o que estava incomodando a Miku.)"
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "(And then, I might even be able to kiss her...)",
+      "texto_ptbr": "(E aí, talvez eu até consiga beijá-la...)"
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "(I feel like it's possible!\\n No, I should definitely go for it!\\n After all, it's the goal of this trip!)",
+      "texto_ptbr": "(Sinto que é possível!\\n Não, eu definitivamente tenho que tentar!\\n Afinal, esse é o objetivo dessa viagem!)"
+    },
+    {
+      "id": 27,
+      "personagem": "Trainer",
+      "texto_en": "Finally, we'd like to say farewell to everyone!",
+      "texto_ptbr": "Por fim, gostaríamos de nos despedir de todos!"
+    },
+    {
+      "id": 28,
+      "personagem": "Miku",
+      "texto_en": "Futaro!\\nThey're waving their tails at us!\\nI-it's so cute!",
+      "texto_ptbr": "Fuutarou!\\nEles estão acenando o rabo pra gente!\\nQ-que fofo!"
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Okay, then let's wave back, eh?",
+      "texto_ptbr": "Certo, então vamos acenar de volta, né?"
+    },
+    {
+      "id": 30,
+      "personagem": "Miku",
+      "texto_en": "Oh, you're right.\\nUm... Thank you, dolphins!",
+      "texto_ptbr": "Ah, é verdade.\\nHum... Obrigada, golfinhos!"
+    }
+  ]
+}

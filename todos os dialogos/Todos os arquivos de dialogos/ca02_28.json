@@ -1,0 +1,150 @@
+{
+  "arquivo": "ca02_28",
+  "total": 24,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Nino",
+      "texto_en": "The aquarium was so much fun, wasn't it?",
+      "texto_ptbr": "O aquário foi muito divertido, né?"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, we must have seen everything by now...",
+      "texto_ptbr": "É, a gente já deve ter visto tudo a essa altura..."
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "We ended up coming back here, didn't we?\\nThe big tank is really impressive after all.",
+      "texto_ptbr": "Acabamos voltando aqui, né?\\nO tanque grande é impressionante mesmo."
+    },
+    {
+      "id": 3,
+      "personagem": "Nino",
+      "texto_en": "Yeah... It's amazing that there's a tank big enough\\nfor a whale shark to swim in.",
+      "texto_ptbr": "É... É incrível que exista um tanque grande o suficiente\\npra um tubarão-baleia nadar."
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "The deck where we could look down from above\\nwas also great. It had a different kind of impact\\nthan looking from the side.",
+      "texto_ptbr": "O deck de onde a gente podia olhar lá de cima\\ntambém foi ótimo. Tinha um impacto diferente\\ndo que olhar de lado."
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "Then again, the Aqua Room,\\nwhere we could watch from below, was so nice.\\nBeing able to just sit and watch was so relaxing.",
+      "texto_ptbr": "Mas a Aqua Room,\\nonde a gente podia assistir de baixo, foi incrível.\\nPoder simplesmente sentar e assistir foi muito relaxante."
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "Also, I was happy to be able to snuggle up to you,\\nFutaro.",
+      "texto_ptbr": "Além disso, fiquei feliz de poder me encostar em você,\\nFuutarou."
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "You were actually looking at the fish, right?",
+      "texto_ptbr": "Você tava olhando pros peixes de verdade, né?"
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "Of course I was.",
+      "texto_ptbr": "Claro que tava."
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "(Actually, I was more conscious of my arm\\n that was touching Futaro.)",
+      "texto_ptbr": "(Na verdade, eu tava mais consciente do meu braço\\n que estava encostado em Fuutarou.)"
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "It's about time, isn't it?",
+      "texto_ptbr": "Já tá na hora, né?"
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "(Is Futaro looking at a...clock?)",
+      "texto_ptbr": "(Fuutarou tá olhando pra um...relógio?)"
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "Is there some event you want to see?\\nI'll go with you.",
+      "texto_ptbr": "Tem algum evento que você quer ver?\\nVou junto."
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "No, that's not it.",
+      "texto_ptbr": "Não, não é isso."
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "Nino, I'm gonna leave here first.\\nCome to the entrance of the park in a while.",
+      "texto_ptbr": "Nino, vou sair daqui primeiro.\\nVem até a entrada do parque daqui a pouco."
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "That's fine...",
+      "texto_ptbr": "Tá bom..."
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Sorry. See you soon.",
+      "texto_ptbr": "Desculpa. Até já."
+    },
+    {
+      "id": 18,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "(I wonder what he's planning?\\n Is he going to prepare something?)",
+      "texto_ptbr": "(O que será que ele tá planejando?\\n Ele vai preparar alguma coisa?)"
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "(Could it be that he's planning a surprise?)",
+      "texto_ptbr": "(Será que ele está planejando uma surpresa?)"
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "(I mean, just spending a day together\\n is already enough, what else does he have in mind?!)",
+      "texto_ptbr": "(Quer dizer, só passar um dia juntos\\n já é o suficiente, o que mais ele tem em mente?!)"
+    },
+    {
+      "id": 22,
+      "personagem": "Nino",
+      "texto_en": "(That's so troublesome!\\n It's troublesome, but%p-2;――%p;)",
+      "texto_ptbr": "(Que chato!\\n É chato, mas%p-2;――%p;)"
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "(I'm happy.\\n Futaro is doing something just for me...)",
+      "texto_ptbr": "(Estou feliz.\\n Fuutarou está fazendo algo só pra mim...)"
+    }
+  ]
+}

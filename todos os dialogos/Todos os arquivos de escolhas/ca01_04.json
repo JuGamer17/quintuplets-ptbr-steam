@@ -1,0 +1,55 @@
+{
+  "arquivo": "ca01_04",
+  "total": 5,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*map",
+      "texto_jp": "dummy",
+      "texto_en": "{UNTRANSLATED}dummy",
+      "texto_ptbr": "",
+      "selidx": 0
+    },
+    {
+      "id": 1,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "わっ！？\\n急にクネクネして、どうしたの？",
+      "texto_en": "WAH?!\\nYou suddenly started writhing, are you okay?",
+      "texto_ptbr": "UAU?!\\nVocê de repente começou a se contorcer, tá bem?"
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "なんでもない……",
+      "texto_en": "It's nothing...",
+      "texto_ptbr": "Não é nada...",
+      "selidx": 0
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "反省中だ",
+      "texto_en": "I'm reflecting on something.",
+      "texto_ptbr": "Estou refletindo sobre umas coisas.",
+      "selidx": 1
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "お前の言う通りだ",
+      "texto_en": "It's as you say.",
+      "texto_ptbr": "Você tem razão.",
+      "selidx": 2
+    }
+  ]
+}

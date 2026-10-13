@@ -1,0 +1,804 @@
+{
+  "arquivo": "ca02_14",
+  "total": 133,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Itsuki",
+      "texto_en": "Okay everybody listen, it's lunchtime now.",
+      "texto_ptbr": "Atenção pessoal, é hora do almoço."
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Hey Itsuki, aren't you the one who is looking forward to\\nlunchtime the most?",
+      "texto_ptbr": "Ei, Itsuki, não é você quem estava mais animada pra hora do almoço?"
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "It's not just me okay?\\nEveryone was looking forward to this, right guys?",
+      "texto_ptbr": "Não sou só eu, tá?\\nTodo mundo estava esperando por isso, né pessoal?"
+    },
+    {
+      "id": 3,
+      "personagem": "Raiha",
+      "texto_en": "Of course we were!\\nA barbecue on the beach is awesome!",
+      "texto_ptbr": "Claro que sim!\\nUm churrasco na praia é demais!"
+    },
+    {
+      "id": 4,
+      "personagem": "Yotsuba",
+      "texto_en": "The charcoal is smoldering, and we're all set.\\nLet's throw the meat on the grill and eat as much as we can!",
+      "texto_ptbr": "O carvão já está na brasa e tudo pronto.\\nVamos colocar a carne na grelha e comer à vontade!"
+    },
+    {
+      "id": 5,
+      "personagem": "Miku",
+      "texto_en": "Yotsuba, don't gnash the tongs together like that.",
+      "texto_ptbr": "Yotsuba, para de bater o pegador assim."
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "WOOOW?!\\nLook at the different kinds of meat and fish!",
+      "texto_ptbr": "UAAAU?!\\nOlha a variedade de carnes e peixes!"
+    },
+    {
+      "id": 7,
+      "personagem": "Nino",
+      "texto_en": "I thought it would be mainly seafood\\nsince we're in Okinawa,\\nbut they have plenty of different meat too.",
+      "texto_ptbr": "Achei que ia ser principalmente frutos do mar\\npor estarmos em Okinawa,\\nmas tem bastante carne também."
+    },
+    {
+      "id": 8,
+      "personagem": "Ichika",
+      "texto_en": "Good for you, Itsuki-chan.",
+      "texto_ptbr": "Que bom pra você, Itsuki-chan."
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "Y-yes, since they've prepared all of this for us,\\nit's only polite to eat everything, right guys?",
+      "texto_ptbr": "É-é, já que prepararam tudo isso pra gente,\\né de bom tom comer tudo, né pessoal?"
+    },
+    {
+      "id": 10,
+      "personagem": "Miku",
+      "texto_en": "I wonder what to grill first.\\nIt might not be a good idea to grill seafood\\nafter the meat...",
+      "texto_ptbr": "Fico pensando no que grelhar primeiro.\\nTalvez não seja uma boa ideia grelhar frutos do mar\\ndepois da carne..."
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "Then let's use a different grill.\\nThere are a few of them prepared for us, right?",
+      "texto_ptbr": "Então vamos usar uma grelha diferente.\\nTem várias disponíveis pra gente, né?"
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Is that so?\\nI thought other people will be using them.",
+      "texto_ptbr": "É mesmo?\\nAchei que outras pessoas iam usar."
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "That might be true. That's why we need to figure out\\nhow to use them effectively.",
+      "texto_ptbr": "Pode ser. Por isso precisamos pensar\\nem como usá-las direito."
+    },
+    {
+      "id": 14,
+      "personagem": "Nino",
+      "texto_en": "Yeah, it looks like the grills are heated up already.",
+      "texto_ptbr": "É, parece que as grelhas já estão aquecidas."
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "Adjusting the amount of charcoal to create high and low heat \\nzones might be a good idea. We also need a spot to\\nkeep the food warm.",
+      "texto_ptbr": "Ajustar a quantidade de carvão para criar zonas de calor\\nalto e baixo pode ser uma boa ideia. Precisamos também de um canto\\npara manter a comida aquecida."
+    },
+    {
+      "id": 16,
+      "personagem": "Miku",
+      "texto_en": "Ah, I see.\\nWe should separate the food by cooking time.",
+      "texto_ptbr": "Ah, entendi.\\nDevemos separar a comida pelo tempo de preparo."
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "That's right.\\nIt might not work as well as a stove,\\nbut it's better than nothing.",
+      "texto_ptbr": "Exatamente.\\nPode não funcionar tão bem quanto um fogão,\\nmas é melhor do que nada."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Alright, I'll be the fire keeper.",
+      "texto_ptbr": "Certo, eu fico cuidando do fogo."
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "Please be careful not to burn yourself.",
+      "texto_ptbr": "Cuidado pra não se queimar."
+    },
+    {
+      "id": 20,
+      "personagem": "Yotsuba",
+      "texto_en": "Okay, then I'll take care of the meat on this grill. \\nNow let's start with...",
+      "texto_ptbr": "Certo, então eu cuido da carne nessa grelha.\\nVamos começar com..."
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "Wait.\\nI have some foil here,\\nlet's use it for the meat.",
+      "texto_ptbr": "Espera.\\nTenho papel alumínio aqui,\\nvamos usar pra carne."
+    },
+    {
+      "id": 22,
+      "personagem": "Raiha",
+      "texto_en": "Nino-san, I'll help you too!",
+      "texto_ptbr": "Nino-san, eu também vou ajudar!"
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "Thanks. Could you take care of the seafood grill?",
+      "texto_ptbr": "Obrigada. Você pode cuidar da grelha dos frutos do mar?"
+    },
+    {
+      "id": 24,
+      "personagem": "Raiha",
+      "texto_en": "Okay!",
+      "texto_ptbr": "Pode deixar!"
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "Put the hard-to-cook vegetables on the low heat zone, then\\ngrill the main chunks of meat on the high heat one%p-2;――",
+      "texto_ptbr": "Coloque os legumes mais difíceis de cozinhar na zona de calor baixo, depois\\ngrelhe os pedaços maiores de carne na zona de calor alto%p-2;――"
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "When the surface of the meat is done,\\nwrap it tightly with foil and let it rest for a bit.",
+      "texto_ptbr": "Quando a superfície da carne estiver pronta,\\nembrulhe bem com papel alumínio e deixe descansar um pouco."
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "After resting for five minutes, all we have to do is\\ncut the meat and it's ready to be served.",
+      "texto_ptbr": "Depois de descansar por cinco minutos, é só\\ncortar a carne e servir."
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "You're really good at this...",
+      "texto_ptbr": "Você é muito boa nisso..."
+    },
+    {
+      "id": 29,
+      "personagem": "Nino",
+      "texto_en": "We'll leave everything that's ready to eat on this plate,\\nso please help yourselves.",
+      "texto_ptbr": "Vamos deixar tudo que estiver pronto nesse prato,\\nfiquem à vontade para se servir."
+    },
+    {
+      "id": 30,
+      "personagem": "Ichika",
+      "texto_en": "Alright, let's dig in!",
+      "texto_ptbr": "Ótimo, bora comer!"
+    },
+    {
+      "id": 31,
+      "personagem": "Itsuki",
+      "texto_en": "...!",
+      "texto_ptbr": "...!"
+    },
+    {
+      "id": 32,
+      "personagem": "Miku",
+      "texto_en": "It's delicious...",
+      "texto_ptbr": "Está delicioso..."
+    },
+    {
+      "id": 33,
+      "personagem": "Yotsuba",
+      "texto_en": "It's cooked perfectly!\\nAs expected from Nino.",
+      "texto_ptbr": "Ficou no ponto perfeito!\\nEra de se esperar da Nino."
+    },
+    {
+      "id": 34,
+      "personagem": "Nino",
+      "texto_en": "I'm a natural!\\nFutaro, you can eat as much as you want.",
+      "texto_ptbr": "Sou um talento nato!\\nFuutarou, pode comer à vontade."
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Okay.",
+      "texto_ptbr": "Certo."
+    },
+    {
+      "id": 36,
+      "personagem": "Ichika",
+      "texto_en": "This is really delicious.\\nAre you using garlic oil for these vegetables?",
+      "texto_ptbr": "Isso está gostosíssimo.\\nVocê usou azeite com alho nesses legumes?"
+    },
+    {
+      "id": 37,
+      "personagem": "Raiha",
+      "texto_en": "Yeah.\\nWe got plenty of seasonings,\\nand Nino-san thought a little change would be nice.",
+      "texto_ptbr": "É.\\nTinha bastante tempero disponível,\\ne a Nino-san achou que uma variação cairia bem."
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "I think fresh ingredients are also important,\\nbut the flavors have really been brought out.",
+      "texto_ptbr": "Acho que ingredientes frescos também fazem a diferença,\\nmas os sabores realmente ressaltaram."
+    },
+    {
+      "id": 39,
+      "personagem": "Nino",
+      "texto_en": "Alright, the yakisoba is done.\\nWho's ready to eat?",
+      "texto_ptbr": "Pronto, o yakisoba está feito.\\nQuem quer comer?"
+    },
+    {
+      "id": 40,
+      "personagem": "Yotsuba",
+      "texto_en": "ME!",
+      "texto_ptbr": "EU!"
+    },
+    {
+      "id": 41,
+      "personagem": "Miku",
+      "texto_en": "Me too.",
+      "texto_ptbr": "Eu também."
+    },
+    {
+      "id": 42,
+      "personagem": "Nino",
+      "texto_en": "Give me your plate, I'll serve you.",
+      "texto_ptbr": "Me dá o seu prato que eu sirvo."
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "Wait, there's a fried egg in there too?!\\nWhen did you prepare that?",
+      "texto_ptbr": "Espera, tem ovo frito também?!\\nQuando você preparou isso?"
+    },
+    {
+      "id": 44,
+      "personagem": "Nino",
+      "texto_en": "Crush it and mix it with the noodles.\\nIt should make for a perfect seasoning.",
+      "texto_ptbr": "Estoure a gema e misture com o macarrão.\\nVai ficar um tempero perfeito."
+    },
+    {
+      "id": 45,
+      "personagem": "Ichika",
+      "texto_en": "Nino, bless me with your cooking too!",
+      "texto_ptbr": "Nino, me abençoa com sua cozinha também!"
+    },
+    {
+      "id": 46,
+      "personagem": "Nino",
+      "texto_en": "Sure, I'll give you a big chunk of meat!",
+      "texto_ptbr": "Claro, vou te dar um pedaço grande de carne!"
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "Man, really... The way the meat is prepared and\\nhow you grilled the vegetables...\\nThis is just...*chef's kiss*",
+      "texto_ptbr": "Cara, sério... A forma como a carne foi preparada e\\ncomo você grelhei os legumes...\\nIsso é simplesmente... *beijo de chef*"
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "This barbecue is on a whole different level. I've never tasted\\nanything like it before.",
+      "texto_ptbr": "Esse churrasco é de outro nível. Nunca comi\\nnada assim antes."
+    },
+    {
+      "id": 49,
+      "personagem": "Nino",
+      "texto_en": "Have I strengthened the bond between us?",
+      "texto_ptbr": "Será que fortaleço o laço entre a gente?"
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "Hey...\\nWh-what are you talking about...?",
+      "texto_ptbr": "Ei...\\nD-do que você tá falando...?"
+    },
+    {
+      "id": 51,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san, here's your miso soup!\\nIt's your chance to ask her \\nto make it for you every day!",
+      "texto_ptbr": "Uesugi-san, aqui está o seu missô!\\nÉ a sua chance de pedir pra ela\\nfazer todo dia!"
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Y-Yotsuba?!",
+      "texto_ptbr": "Y-Yotsuba?!"
+    },
+    {
+      "id": 53,
+      "personagem": "Nino",
+      "texto_en": "What is this? The '50s?!",
+      "texto_ptbr": "O que é isso? A gente tá nos anos 50?!"
+    },
+    {
+      "id": 54,
+      "personagem": "Nino",
+      "texto_en": "But, if you're into Japanese cuisine for breakfast,\\nthat's fine.\\nI'll make you something delicious.",
+      "texto_ptbr": "Mas se você curte culinária japonesa no café da manhã,\\ntudo bem.\\nVou te fazer algo gostoso."
+    },
+    {
+      "id": 55,
+      "personagem": "Raiha",
+      "texto_en": "Ooohh, a reverse proposal...!",
+      "texto_ptbr": "Uaaau, uma proposta ao contrário...!"
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "No, it's not like that! You're getting it wrong!",
+      "texto_ptbr": "Não é nada disso! Vocês estão entendendo errado!"
+    },
+    {
+      "id": 57,
+      "personagem": "Nino",
+      "texto_en": "Ahaha!\\nWell, he's right. Proposing with yakisoba in one hand\\nis definitely out.",
+      "texto_ptbr": "Ahaha!\\nBem, ele tem razão. Pedir em casamento com yakisoba na mão\\nnem pensar."
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "A-anyway, I have an idea!\\nHow about Nino and Raiha take a break,\\nand I'll take over as the cook?",
+      "texto_ptbr": "E-enfim, tive uma ideia!\\nQue tal Nino e Raiha descansarem\\nenquanto eu assumo a grelha?"
+    },
+    {
+      "id": 59,
+      "personagem": "Nino",
+      "texto_en": "I'm fine with preparing the food, you know?",
+      "texto_ptbr": "Eu tô bem preparando a comida, sabe?"
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "Ah, well, um...\\nYou two haven't even eaten yet\\nsince you've been cooking the food for all of us, right?",
+      "texto_ptbr": "Ah, bem, é...\\nVocês duas nem comeram ainda\\nporque ficaram cozinhando pra todo mundo, né?"
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "For now, I'll be cooking for you guys,\\nso why don't you grab something to eat too?",
+      "texto_ptbr": "Por enquanto eu cuido da grelha,\\nentão aproveita pra comer também."
+    },
+    {
+      "id": 62,
+      "personagem": "Nino",
+      "texto_en": "...Are you perhaps being considerate of us, Futaro?",
+      "texto_ptbr": "...Você está sendo gentil com a gente, Fuutarou?"
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "Come on! The spatula and chopsticks, hand 'em over!",
+      "texto_ptbr": "Vai logo! Me passa a espátula e o hashi!"
+    },
+    {
+      "id": 64,
+      "personagem": "Nino",
+      "texto_en": "Teehee!\\nWell then, I'll leave it to you.",
+      "texto_ptbr": "Hehe!\\nBom então, deixo nas suas mãos."
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "(I've placed the vegetables and meat on the griddle.\\n As long as I watch the heat like Nino does\\n and cook it properly, it should work out...)",
+      "texto_ptbr": "(Coloquei os legumes e a carne na grelha.\\n Desde que eu observe o calor como a Nino faz\\n e cozinhe direito, vai dar certo...)"
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 67,
+      "personagem": "Raiha",
+      "texto_en": "Big bro, are you okay?",
+      "texto_ptbr": "Onii-chan, tá tudo bem?"
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "Sorry, I burned it.\\nWhy'd that happen...?",
+      "texto_ptbr": "Desculpa, queimou.\\nComo foi que aconteceu isso...?"
+    },
+    {
+      "id": 69,
+      "personagem": "Raiha",
+      "texto_en": "Barbecuing looks easy\\nbut it's actually difficult, you know?",
+      "texto_ptbr": "Churrasco parece fácil\\nmas na verdade é difícil, sabe?"
+    },
+    {
+      "id": 70,
+      "personagem": "Raiha",
+      "texto_en": "Unlike a stove, you can't adjust the fire,\\nso you have to keep an eye on the grill\\nand flip the meat to prepare it properly.",
+      "texto_ptbr": "Diferente de um fogão, você não consegue regular o fogo,\\nentão tem que ficar de olho na grelha\\ne virar a carne para prepará-la direito."
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "I-I see.\\nNow that you mention it, it's not as easy as it looks.",
+      "texto_ptbr": "É-é verdade.\\nAgora que você falou, não é tão fácil quanto parece."
+    },
+    {
+      "id": 72,
+      "personagem": "Nino",
+      "texto_en": "Futaro.\\nPass me the meat, please.",
+      "texto_ptbr": "Fuutarou.\\nMe passa a carne, por favor."
+    },
+    {
+      "id": 73,
+      "personagem": "Futaro",
+      "texto_en": "No, you can't eat this!",
+      "texto_ptbr": "Não, você não pode comer isso!"
+    },
+    {
+      "id": 74,
+      "personagem": "Nino",
+      "texto_en": "It's fine. You cooked it for us and I appreciate the effort.",
+      "texto_ptbr": "Tá bom. Você fez pra gente e eu valorizo o esforço."
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "Hey, seriously, stop it!\\nNino...!",
+      "texto_ptbr": "Ei, sério, para com isso!\\nNino...!"
+    },
+    {
+      "id": 76,
+      "personagem": "Nino",
+      "texto_en": "Nom!\\nMmm, it's delicious!\\nYou did a good job.",
+      "texto_ptbr": "Nhac!\\nMmm, está delicioso!\\nVocê foi bem."
+    },
+    {
+      "id": 77,
+      "personagem": "Futaro",
+      "texto_en": "...Sorry about that.",
+      "texto_ptbr": "...Desculpa por isso."
+    },
+    {
+      "id": 78,
+      "personagem": "Nino",
+      "texto_en": "Why are you apologizing?\\nYou're overthinking, Futaro.",
+      "texto_ptbr": "Por que está se desculpando?\\nVocê tá pensando demais, Fuutarou."
+    },
+    {
+      "id": 79,
+      "personagem": "Nino",
+      "texto_en": "Since we're here,\\nlet me teach you how to improve your cooking.\\nNext time will be our yummiest meal ever!",
+      "texto_ptbr": "Já que estamos aqui,\\ndeixa eu te ensinar a melhorar no churrasco.\\nDa próxima vez vai ser nossa refeição mais gostosa!"
+    },
+    {
+      "id": 80,
+      "personagem": "Futaro",
+      "texto_en": "Okay, got it.",
+      "texto_ptbr": "Certo, entendido."
+    },
+    {
+      "id": 81,
+      "personagem": "Itsuki",
+      "texto_en": "*sigh*\\nI'm so full.\\nBoth the meat and seafood were fantastic.",
+      "texto_ptbr": "*suspiro*\\nEstou tão cheia.\\nTanto a carne quanto os frutos do mar foram incríveis."
+    },
+    {
+      "id": 82,
+      "personagem": "Miku",
+      "texto_en": "Thanks to Nino and Raiha-chan,\\nwe had a wonderful lunch.\\nMuch appreciated.",
+      "texto_ptbr": "Graças à Nino e à Raiha-chan,\\ntivemos um almoço maravilhoso.\\nMuito obrigada."
+    },
+    {
+      "id": 83,
+      "personagem": "Raiha",
+      "texto_en": "You're welcome!",
+      "texto_ptbr": "De nada!"
+    },
+    {
+      "id": 84,
+      "personagem": "Nino",
+      "texto_en": "You should show your gratitude like that more often,\\neven on regular occasions.",
+      "texto_ptbr": "Você deveria demonstrar gratidão assim com mais frequência,\\naté nas ocasiões do dia a dia."
+    },
+    {
+      "id": 85,
+      "personagem": "Ichika",
+      "texto_en": "Okay.",
+      "texto_ptbr": "Tá bom."
+    },
+    {
+      "id": 86,
+      "personagem": "???",
+      "texto_en": "U-umm, excuse me.",
+      "texto_ptbr": "L-licença."
+    },
+    {
+      "id": 87,
+      "personagem": "Ichika",
+      "texto_en": "Yes? Can I help you?",
+      "texto_ptbr": "Sim? Posso ajudar?"
+    },
+    {
+      "id": 88,
+      "personagem": "???",
+      "texto_en": "Oh, no way!\\nYou're Nakano Ichika-san, right?",
+      "texto_ptbr": "Nossa, não acredito!\\nVocê é Nakano Ichika-san, né?"
+    },
+    {
+      "id": 89,
+      "personagem": "Energetic Ichika Fan",
+      "texto_en": "W-we're fans of yours!\\nCan we get a handshake?!",
+      "texto_ptbr": "S-somos fãs suas!\\nPodemos dar um aperto de mão?!"
+    },
+    {
+      "id": 90,
+      "personagem": "Ichika",
+      "texto_en": "Thank you for always cheering me on.\\nI'd love giving you a handshake.\\nHere you go.",
+      "texto_ptbr": "Obrigada por sempre me apoiar.\\nFicarei feliz em dar um aperto de mão.\\nAqui está."
+    },
+    {
+      "id": 91,
+      "personagem": "Energetic Ichika Fan",
+      "texto_en": "We love your work so much!",
+      "texto_ptbr": "Amamos demais o seu trabalho!"
+    },
+    {
+      "id": 92,
+      "personagem": "Ichika",
+      "texto_en": "Thank you too.",
+      "texto_ptbr": "Obrigada também."
+    },
+    {
+      "id": 93,
+      "personagem": "Ichika",
+      "texto_en": "This is a private event,\\nso please don't get too excited, now.\\nI'd like to relax with my family.",
+      "texto_ptbr": "Este é um evento particular,\\nentão por favor não façam muito alarde, tá?\\nGostaria de relaxar com minha família."
+    },
+    {
+      "id": 94,
+      "personagem": "Timid Ichika Fan",
+      "texto_en": "Y-yes! Of course!\\nThank you so much!",
+      "texto_ptbr": "S-sim! Claro!\\nMuito obrigada!"
+    },
+    {
+      "id": 95,
+      "personagem": "Futaro",
+      "texto_en": "Wow, you handled the situation so well, like a real celebrity.",
+      "texto_ptbr": "Uau, você lidou muito bem com a situação, igualzinho a uma celebridade de verdade."
+    },
+    {
+      "id": 96,
+      "personagem": "Miku",
+      "texto_en": "Sometimes things like this happen,\\nbut I'm getting better at handling them.",
+      "texto_ptbr": "Às vezes acontece essas coisas,\\nmas estou melhorando em lidar com elas."
+    },
+    {
+      "id": 97,
+      "personagem": "Nino",
+      "texto_en": "You really have the aura of a great actress, Ichika.",
+      "texto_ptbr": "Você realmente tem o charme de uma grande atriz, Ichika."
+    },
+    {
+      "id": 98,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 99,
+      "personagem": "Futaro",
+      "texto_en": "(I was too focused on the barbecue and didn't notice,\\n but are we standing out?\\n It feels like we're drawing attention...)",
+      "texto_ptbr": "(Estava tão focado no churrasco que não percebi,\\n mas será que estamos chamando atenção?\\n Parece que estamos atraindo olhares...)"
+    },
+    {
+      "id": 100,
+      "personagem": "Party Guy",
+      "texto_en": "Hey, who are those people over there?\\nAll the girls are so cute.",
+      "texto_ptbr": "Ei, quem são aquelas pessoas ali?\\nTodas as meninas são tão bonitas."
+    },
+    {
+      "id": 101,
+      "personagem": "Playboy Guy",
+      "texto_en": "Are they all siblings or something?\\nThey look so alike.",
+      "texto_ptbr": "São irmãs ou o quê?\\nSão tão parecidas."
+    },
+    {
+      "id": 102,
+      "personagem": "Futaro",
+      "texto_en": "(Ah...\\n Those guys over there are talking.)",
+      "texto_ptbr": "(Ah...\\n Aqueles caras ali estão falando.)"
+    },
+    {
+      "id": 103,
+      "personagem": "Futaro",
+      "texto_en": "(It's hard to believe that someone as beautiful as Ichika has\\n four other siblings that look exacty like her.\\n I would imagine they're all beautiful.)",
+      "texto_ptbr": "(É difícil acreditar que alguém tão bonita quanto a Ichika tenha\\n mais quatro irmãs que se parecem exatamente com ela.\\n Imagino que todas sejam bonitas.)"
+    },
+    {
+      "id": 104,
+      "personagem": "Party Guy",
+      "texto_en": "What kind of gathering is that guy at,\\nto be with such beautiful women? It doesn't make sense.",
+      "texto_ptbr": "Que tipo de evento é esse que aquele cara está participando,\\npara estar com mulheres tão bonitas? Não faz sentido."
+    },
+    {
+      "id": 105,
+      "personagem": "Playboy Guy",
+      "texto_en": "One guy and five girls? That's obviously unbalanced.",
+      "texto_ptbr": "Um cara e cinco meninas? Isso é obviamente desproporcional."
+    },
+    {
+      "id": 106,
+      "personagem": "Futaro",
+      "texto_en": "(...Is he talking about me?)",
+      "texto_ptbr": "(...Ele tá falando de mim?)"
+    },
+    {
+      "id": 107,
+      "personagem": "Futaro",
+      "texto_en": "(Well, it's true that I stick out\\n when I'm with them.)",
+      "texto_ptbr": "(Bem, é verdade que me destaco\\n quando estou com elas.)"
+    },
+    {
+      "id": 108,
+      "personagem": "Ichika",
+      "texto_en": "Ah-that surprised me.\\nI was really caught off guard.",
+      "texto_ptbr": "Ah — isso me surpreendeu.\\nFui pega totalmente de surpresa."
+    },
+    {
+      "id": 109,
+      "personagem": "Itsuki",
+      "texto_en": "You handled it very well.",
+      "texto_ptbr": "Você lidou muito bem."
+    },
+    {
+      "id": 110,
+      "personagem": "Ichika",
+      "texto_en": "I'm glad you said that.\\nIt's just that it's hard\\nto turn down requests on my days off.",
+      "texto_ptbr": "Fico feliz que você disse isso.\\nÉ que é difícil recusar pedidos\\nnos meus dias de folga."
+    },
+    {
+      "id": 111,
+      "personagem": "Ichika",
+      "texto_en": "Well, as long as it's not an unreasonable request,\\nI intend to take care of my admirers.",
+      "texto_ptbr": "Bem, desde que não seja um pedido absurdo,\\ntenciono atender meus admiradores."
+    },
+    {
+      "id": 112,
+      "personagem": "Ichika",
+      "texto_en": "I'm genuinely happy that they've become my fans.",
+      "texto_ptbr": "Fico feliz de verdade que elas se tornaram minhas fãs."
+    },
+    {
+      "id": 113,
+      "personagem": "Ichika",
+      "texto_en": "But, I'm sorry that\\neveryone got startled.",
+      "texto_ptbr": "Mas, me desculpa\\npor todo mundo ter se assustado."
+    },
+    {
+      "id": 114,
+      "personagem": "Yotsuba",
+      "texto_en": "It's okay. You need to take care of your fans.",
+      "texto_ptbr": "Tá ótimo. Você precisa cuidar das suas fãs."
+    },
+    {
+      "id": 115,
+      "personagem": "Itsuki",
+      "texto_en": "Plus, it makes me happy to see it.\\nIt makes me realize that there are a lot of people\\nout there cheering for you, Ichika.",
+      "texto_ptbr": "Além disso, me faz feliz ver isso.\\nMe faz perceber que tem muita gente\\ntorcendo por você, Ichika."
+    },
+    {
+      "id": 116,
+      "personagem": "Miku",
+      "texto_en": "Yeah, I feel the same way.",
+      "texto_ptbr": "É, eu sinto o mesmo."
+    },
+    {
+      "id": 117,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 118,
+      "personagem": "Futaro",
+      "texto_en": "(All of the girls are so awesome.)",
+      "texto_ptbr": "(Todas as meninas são incríveis.)"
+    },
+    {
+      "id": 119,
+      "personagem": "Futaro",
+      "texto_en": "(And they're rich too...\\n They're living in a completely different world\\n than me.)",
+      "texto_ptbr": "(E elas são ricas também...\\n Vivem num mundo completamente diferente\\n do meu.)"
+    },
+    {
+      "id": 120,
+      "personagem": "Futaro",
+      "texto_en": "(Especially Nino is kindhearted\\n and caring towards her sisters.)",
+      "texto_ptbr": "(A Nino em especial é de coração bom\\n e carinhosa com as irmãs.)"
+    },
+    {
+      "id": 121,
+      "personagem": "Futaro",
+      "texto_en": "(She's always asserting herself,\\n she is passionate and dedicated...\\n Even if she can be a bit extreme sometimes.)",
+      "texto_ptbr": "(Ela sempre se impõe,\\n é apaixonada e dedicada...\\n Mesmo sendo um pouco intensa às vezes.)"
+    },
+    {
+      "id": 122,
+      "personagem": "Futaro",
+      "texto_en": "(The more I think about her...\\n she's, like...really cute.)",
+      "texto_ptbr": "(Quanto mais penso nela...\\n ela é tipo... muito fofa.)"
+    },
+    {
+      "id": 123,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 124,
+      "personagem": "Futaro",
+      "texto_en": "(After confessing to her, I'm actually DATING\\n Nino as her boyfriend...)",
+      "texto_ptbr": "(Depois de me declarar, na prática SOU o namorado\\n da Nino...)"
+    },
+    {
+      "id": 125,
+      "personagem": "Nino",
+      "texto_en": "Hey, Futaro?\\nWhat's up? Why are you staring at me?",
+      "texto_ptbr": "Ei, Fuutarou?\\nO que foi? Por que você tá me encarando?"
+    },
+    {
+      "id": 126,
+      "personagem": "Futaro",
+      "texto_en": "Ah...\\nNah, it's nothing...",
+      "texto_ptbr": "Ah...\\nNão, não é nada..."
+    },
+    {
+      "id": 127,
+      "personagem": "Nino",
+      "texto_en": "...What?",
+      "texto_ptbr": "...Que foi?"
+    },
+    {
+      "id": 128,
+      "personagem": "Futaro",
+      "texto_en": "It's really nothing.",
+      "texto_ptbr": "É realmente nada."
+    },
+    {
+      "id": 129,
+      "personagem": "Nino",
+      "texto_en": "I see.\\nWell, okay then.",
+      "texto_ptbr": "Entendo.\\nBom, tudo bem então."
+    },
+    {
+      "id": 130,
+      "personagem": "Nino",
+      "texto_en": "I heard there's ice cream for dessert.\\nIt's in the cooler box,\\nso pick your favorite one, okay?",
+      "texto_ptbr": "Ouvi dizer que tem sorvete de sobremesa.\\nEstá na caixa térmica,\\nentão pega o seu favorito, tá?"
+    },
+    {
+      "id": 131,
+      "personagem": "Futaro",
+      "texto_en": "Oh, really.\\nThen, I'll go grab it.",
+      "texto_ptbr": "Ah, é mesmo.\\nEntão vou pegar um."
+    },
+    {
+      "id": 132,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    }
+  ]
+}

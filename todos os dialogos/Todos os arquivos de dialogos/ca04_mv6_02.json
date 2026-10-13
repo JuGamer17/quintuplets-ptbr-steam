@@ -1,0 +1,480 @@
+{
+  "arquivo": "ca04_mv6_02",
+  "total": 79,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Nino",
+      "texto_en": "Ah, Fu-kun!\\nOver here, over here!",
+      "texto_ptbr": "Ah, Fu-kun!\\nAqui, aqui!"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "N-Nino.\\nDon't call out so loudly, we'll stand out.",
+      "texto_ptbr": "N-Nino.\\nNão grita assim, a gente vai chamar atenção."
+    },
+    {
+      "id": 2,
+      "personagem": "Nino",
+      "texto_en": "You don't need to hide your embarrassment.\\nYou're happy to see me, right?",
+      "texto_ptbr": "Não precisa disfarçar a vergonha.\\nVocê tá feliz de me ver, né?"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "(Oh no, this is bad.\\n I'm getting caught up in Nino's wild world again.)",
+      "texto_ptbr": "(Ah não, isso é ruim.\\n Tô sendo arrastado pro mundinho maluco da Nino de novo.)"
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "D-do you need something from me, Nino? If not%p-2;――",
+      "texto_ptbr": "V-você precisa de alguma coisa, Nino? Se não%p-2;――"
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun, aren't you tired from walking?\\nHave some gelato with us.",
+      "texto_ptbr": "Fu-kun, você não tá cansado de tanto andar?\\nVem tomar gelato com a gente."
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Us?",
+      "texto_ptbr": "A gente?"
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "Nino bought some for us.",
+      "texto_ptbr": "A Nino comprou pra gente."
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, Uesugi-kun? When did you get here?",
+      "texto_ptbr": "Ah, Uesugi-kun? Quando foi que você chegou?"
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*\\nOh, Itsuki's here too, huh.",
+      "texto_ptbr": "*suspiro*\\nAh, a Itsuki tá aqui também, né."
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "What's with that tone?\\nIt's rude to sigh right in someone's face.",
+      "texto_ptbr": "Que tom foi esse?\\nÉ falta de educação suspirar na cara dos outros."
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "No, I'm just relieved. I'm glad you're here.",
+      "texto_ptbr": "Não, é que eu tô aliviado. Que bom que você tá aqui."
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "Huh?! W-what do you mean?!\\nWhat are you talking about all the sudden?!",
+      "texto_ptbr": "Hã?! C-como assim?!\\nDo que você tá falando do nada?!"
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "Thanks, Itsuki. This one's mine, right?",
+      "texto_ptbr": "Valeu, Itsuki. Esse aqui é o meu, né?"
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, yes.\\nHere you are, apple mango.",
+      "texto_ptbr": "Ah, sim.\\nAqui está, manga-maçã."
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "This looks delicious!\\nI'm pretty excited.",
+      "texto_ptbr": "Isso parece delicioso!\\nTô bem animada."
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "(It certainly looks...delicious, right?\\n Is that something you can tell just by looking?)",
+      "texto_ptbr": "(Parece mesmo... delicioso, né?\\n Dá pra saber isso só de olhar?)"
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "I heard they use locally grown fruits\\nfor the gelato here.",
+      "texto_ptbr": "Ouvi dizer que eles usam frutas cultivadas aqui\\npra fazer o gelato."
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "That's one of the joys of traveling,\\nenjoying local flavors, isn't it?",
+      "texto_ptbr": "Essa é uma das graças de viajar,\\naproveitar os sabores locais, não é?"
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Well, that's true.\\nThen maybe I'll try something new.",
+      "texto_ptbr": "Bom, isso é verdade.\\nEntão talvez eu experimente algo novo."
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "(The menu...\\n Pineapple, mango, and salted milk?\\n There are more flavors than I thought.)",
+      "texto_ptbr": "(O cardápio...\\n Abacaxi, manga e leite com sal?\\n Tem mais sabores do que eu imaginava.)"
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "I have no idea.\\nWell, I guess vanilla is fine.",
+      "texto_ptbr": "Não faço ideia.\\nBom, acho que baunilha tá bom."
+    },
+    {
+      "id": 22,
+      "personagem": "Nino",
+      "texto_en": "Hey, Fu-kun. Did you not hear what Itsuki said?",
+      "texto_ptbr": "Ei, Fu-kun. Você não ouviu o que a Itsuki falou?"
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "We should try something\\nthat we can only have in Okinawa,\\nsince we're here, and all that.",
+      "texto_ptbr": "A gente tem que provar alguma coisa\\nque só dá pra comer em Okinawa,\\njá que estamos aqui e tudo mais."
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "You saying that doesn't really help my decision.\\nBy the way, what flavors did you guys get?",
+      "texto_ptbr": "Falar isso não ajuda em nada na minha decisão.\\nAliás, quais sabores vocês pegaram?"
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "I got the apple mango and Okinawa strawberry flavors.",
+      "texto_ptbr": "Eu peguei manga-maçã e morango de Okinawa."
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "I got a scoop of purple sweet potato and Okinawa tofu,\\nwith black honey as a topping.",
+      "texto_ptbr": "Eu peguei uma bola de batata-doce roxa e outra de tofu de Okinawa,\\ncom melado preto de cobertura."
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Now I have no idea what to order.",
+      "texto_ptbr": "Agora eu não faço ideia do que pedir."
+    },
+    {
+      "id": 28,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun, you're not good with this kind of thing,\\nare you?\\nIf you're not sure, why don't you try mine?",
+      "texto_ptbr": "Fu-kun, você não é bom com esse tipo de coisa,\\né?\\nSe tá na dúvida, por que não prova o meu?"
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "...Whaaa?!",
+      "texto_ptbr": "...Quêêê?!"
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "N-Nino?!",
+      "texto_ptbr": "N-Nino?!"
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Wh-what are you saying?!\\nThat's gelato that you...",
+      "texto_ptbr": "O-o que você tá dizendo?!\\nEsse gelato você já..."
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "Teeehee, you're so cute when you're embarrassed.",
+      "texto_ptbr": "Teeehee, você fica tão fofo envergonhado."
+    },
+    {
+      "id": 33,
+      "personagem": "Nino",
+      "texto_en": "I don't care.\\nCome on, why don't you try it?",
+      "texto_ptbr": "Eu não ligo.\\nVai, por que não experimenta?"
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "Please, DO care!",
+      "texto_ptbr": "Por favor, LIGA sim!"
+    },
+    {
+      "id": 35,
+      "personagem": "Nino",
+      "texto_en": "Oh my, you're so uptight, Itsuki.\\nIt's just a little joke,\\nthere's no need to be so angry.",
+      "texto_ptbr": "Nossa, como você é dura, Itsuki.\\nÉ só uma brincadeirinha,\\nnão precisa ficar tão brava."
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "There's a limit to jokes you know!",
+      "texto_ptbr": "Tem limite pra brincadeira, sabia?!"
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "Come on, Uesugi-kun, please decide quickly.\\nBefore things get more complicated!",
+      "texto_ptbr": "Vai, Uesugi-kun, decide logo.\\nAntes que as coisas fiquem mais complicadas!"
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "Huh?\\nThen, vanilla%p-2;――",
+      "texto_ptbr": "Hã?\\nEntão, baunilha%p-2;――"
+    },
+    {
+      "id": 39,
+      "personagem": "Itsuki",
+      "texto_en": "Decide, on a flavor that can only be tasted here!",
+      "texto_ptbr": "Decide por um sabor que só dá pra provar aqui!"
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "Okay...",
+      "texto_ptbr": "Tá bom..."
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Ah, that's...not really appropriate.",
+      "texto_ptbr": "Ah, esse aí... não é muito apropriado."
+    },
+    {
+      "id": 42,
+      "personagem": "Nino",
+      "texto_en": "Why not?\\nThere's no need to hold back, just eat it.",
+      "texto_ptbr": "Por que não?\\nNão precisa se segurar, come logo."
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "U-Uesugi-kun, don't you think it's a bit\\ntoo complex of a flavor for you to handle?!",
+      "texto_ptbr": "U-Uesugi-kun, você não acha que é um sabor\\ncomplexo demais pra você aguentar?!"
+    },
+    {
+      "id": 44,
+      "personagem": "Nino",
+      "texto_en": "Do you think?\\nI think it's simpler than your flavor, Itsuki.",
+      "texto_ptbr": "Você acha?\\nEu acho bem mais simples que o seu, Itsuki."
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "Oh come on, you always ends up saying\\nthat it's just 'good,' no matter what you eat!\\nIsn't that right, Uesugi-kun?!",
+      "texto_ptbr": "Ah, qual é, você sempre acaba dizendo\\nque é só 'bom', não importa o que coma!\\nNão é mesmo, Uesugi-kun?!"
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Uh, yeah, I guess so.",
+      "texto_ptbr": "É, é, acho que sim."
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "So that's why, you should hurry up and decide,\\nand buy some gelato!",
+      "texto_ptbr": "É por isso que você devia se apressar, decidir\\ne comprar logo o gelato!"
+    },
+    {
+      "id": 48,
+      "personagem": "Nino",
+      "texto_en": "Why, again?",
+      "texto_ptbr": "Por quê, de novo?"
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "That's yours, isn't it?\\nI'll buy my own portion.\\nThanks for your consideration though.",
+      "texto_ptbr": "Esse aí é seu, não é?\\nEu compro a minha parte.\\nMas valeu pela consideração."
+    },
+    {
+      "id": 50,
+      "personagem": "Nino",
+      "texto_en": "Hmm.\\nWell, fine then.",
+      "texto_ptbr": "Hmm.\\nTá bom, então."
+    },
+    {
+      "id": 51,
+      "personagem": "Nino",
+      "texto_en": "I still recommend the fruity flavors.\\nThis apple-mango is REALLY delicious.",
+      "texto_ptbr": "Mesmo assim eu recomendo os sabores de fruta.\\nEsse manga-maçã é MUITO gostoso."
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Fruity flavors, huh.\\nIf it's a fruit from Okinawa...",
+      "texto_ptbr": "Sabores de fruta, né.\\nSe for uma fruta de Okinawa..."
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "Oh, there's a good one.",
+      "texto_ptbr": "Ah, tem um bom aqui."
+    },
+    {
+      "id": 54,
+      "personagem": "Nino",
+      "texto_en": "Come on, Fu-kun.\\nHurry up and buy it,\\nor we'll finish eating without you.",
+      "texto_ptbr": "Vai logo, Fu-kun.\\nCompra logo,\\nsenão a gente termina de comer sem você."
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "Alright.",
+      "texto_ptbr": "Beleza."
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "I tried the Shikuwasa flavor.",
+      "texto_ptbr": "Eu fui de shikuwasa."
+    },
+    {
+      "id": 57,
+      "personagem": "Nino",
+      "texto_en": "Ah! That's the one I was curious about.\\nWhat's it taste like?",
+      "texto_ptbr": "Ah! Esse era o que eu tava curiosa.\\nTem gosto de quê?"
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "It's sour, but it's good.",
+      "texto_ptbr": "É azedo, mas é bom."
+    },
+    {
+      "id": 59,
+      "personagem": "Nino",
+      "texto_en": "I knew it, it's just 'good,' like always.\\nI had a feeling.",
+      "texto_ptbr": "Eu sabia, é só 'bom', como sempre.\\nEu já imaginava."
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "No, when I say something's good,\\nI mean it's delicious, you know?",
+      "texto_ptbr": "Não, quando eu digo que algo é bom,\\neu quero dizer que tá delicioso, entende?"
+    },
+    {
+      "id": 61,
+      "personagem": "Itsuki",
+      "texto_en": "...That's enough.\\nMy head's starting to spin.",
+      "texto_ptbr": "...Chega.\\nMinha cabeça tá começando a girar."
+    },
+    {
+      "id": 62,
+      "personagem": "Itsuki",
+      "texto_en": "By the way, did you know that gelato\\nhas less fat, and is relatively healthy?",
+      "texto_ptbr": "Aliás, vocês sabiam que o gelato\\ntem menos gordura e é relativamente saudável?"
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "Really!",
+      "texto_ptbr": "Sério!"
+    },
+    {
+      "id": 64,
+      "personagem": "Itsuki",
+      "texto_en": "Mmh...",
+      "texto_ptbr": "Mmh..."
+    },
+    {
+      "id": 65,
+      "personagem": "Itsuki",
+      "texto_en": "Fruit-based gelato, especially, contains nutrients\\nwhich allow you to beat the heat, like vitamin C.",
+      "texto_ptbr": "O gelato de fruta, principalmente, tem nutrientes\\nque ajudam a encarar o calor, como a vitamina C."
+    },
+    {
+      "id": 66,
+      "personagem": "Itsuki",
+      "texto_en": "It's healthy, delicious, and good for your skin.\\nGelato is amazing, isn't it?",
+      "texto_ptbr": "É saudável, delicioso e faz bem pra pele.\\nO gelato é incrível, não é?"
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 68,
+      "personagem": "Itsuki",
+      "texto_en": "Don't you think it's amazing, Uesugi-kun?!",
+      "texto_ptbr": "Você não acha incrível, Uesugi-kun?!"
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "Calm down and let me eat.\\nYou may have finished eating already,\\nbut I'm not quite done yet.",
+      "texto_ptbr": "Calma aí e deixa eu comer.\\nVocê pode já ter terminado,\\nmas eu ainda não acabei."
+    },
+    {
+      "id": 70,
+      "personagem": "Nino",
+      "texto_en": "Itsuki, you had a double scoop of purple sweet potato\\nand Okinawa tofu with black honey topping, right?",
+      "texto_ptbr": "Itsuki, você pegou duas bolas, uma de batata-doce roxa\\ne outra de tofu de Okinawa, com melado preto de cobertura, né?"
+    },
+    {
+      "id": 71,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, that's right.",
+      "texto_ptbr": "Sim, isso mesmo."
+    },
+    {
+      "id": 72,
+      "personagem": "Nino",
+      "texto_en": "There's no fruit in there at all, is there?",
+      "texto_ptbr": "Não tem fruta nenhuma aí, tem?"
+    },
+    {
+      "id": 73,
+      "personagem": "Itsuki",
+      "texto_en": "Ooh...",
+      "texto_ptbr": "Ooh..."
+    },
+    {
+      "id": 74,
+      "personagem": "Nino",
+      "texto_en": "On top of that, there's a difference in\\nfat and calories. Quite the difference.\\nToppings really add up calories too, you know?",
+      "texto_ptbr": "Além disso, tem uma diferença\\nde gordura e calorias. E bem grande.\\nCobertura soma um monte de caloria também, sabia?"
+    },
+    {
+      "id": 75,
+      "personagem": "Itsuki",
+      "texto_en": "Oooohh...",
+      "texto_ptbr": "Oooohh..."
+    },
+    {
+      "id": 76,
+      "personagem": "Nino",
+      "texto_en": "It all comes down to how much you eat.",
+      "texto_ptbr": "No fim das contas, depende de quanto você come."
+    },
+    {
+      "id": 77,
+      "personagem": "Itsuki",
+      "texto_en": "WAAAAH!\\nEven Nino's being so COLD to me!",
+      "texto_ptbr": "AAAAH!\\nAté a Nino tá sendo FRIA comigo!"
+    },
+    {
+      "id": 78,
+      "personagem": "Futaro",
+      "texto_en": "(Nino really is merciless, isn't she...)",
+      "texto_ptbr": "(A Nino não tem piedade mesmo, né...)"
+    }
+  ]
+}

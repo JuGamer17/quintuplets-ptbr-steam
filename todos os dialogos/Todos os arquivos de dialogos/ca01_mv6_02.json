@@ -1,0 +1,492 @@
+{
+  "arquivo": "ca01_mv6_02",
+  "total": 81,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "Look, Uesugi-san!\\nIt's a blue sea and a white sandy beach!",
+      "texto_ptbr": "Olha, Uesugi-san!\\nÉ um mar azul e uma praia de areia branca!"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "I've been looking at it the whole time.",
+      "texto_ptbr": "Estou olhando pra isso o tempo todo."
+    },
+    {
+      "id": 2,
+      "personagem": "Yotsuba",
+      "texto_en": "This feels like a great vacation, doesn't it?\\nDon't you feel like running around?",
+      "texto_ptbr": "Isso parece uma ótima férias, né?\\nVocê não fica com vontade de sair correndo?"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "I can understand that.\\nThe feeling of wanting to run towards the sea.",
+      "texto_ptbr": "Entendo isso.\\nA vontade de sair correndo em direção ao mar."
+    },
+    {
+      "id": 4,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, you totally get it!\\nYou and I are on the same page, huh!",
+      "texto_ptbr": "Ah, você entende perfeitamente!\\nA gente pensa igual, hein!"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "On the same page...?",
+      "texto_ptbr": "A gente pensa igual...?"
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "I prefer to admire the view from the beach.\\nI also enjoy swimming a little, though.",
+      "texto_ptbr": "Prefiro admirar a vista da praia.\\nMas também gosto de nadar um pouco."
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "Why is that? Swimming in the sea feels so refreshing!",
+      "texto_ptbr": "Por quê? Nadar no mar é tão refrescante!"
+    },
+    {
+      "id": 8,
+      "personagem": "Miku",
+      "texto_en": "It's because it tires me out quickly,\\nand I can't enjoy it for very long.",
+      "texto_ptbr": "É porque me cansa rápido,\\ne não consigo aproveitar por muito tempo."
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "Miku doesn't have much stamina.",
+      "texto_ptbr": "A Miku não tem muita resistência."
+    },
+    {
+      "id": 10,
+      "personagem": "Miku",
+      "texto_en": "You don't either.",
+      "texto_ptbr": "Você também não."
+    },
+    {
+      "id": 11,
+      "personagem": "Yotsuba",
+      "texto_en": "But I like the feeling\\nof being exhausted after swimming.",
+      "texto_ptbr": "Mas eu gosto da sensação\\nde estar exausta depois de nadar."
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Right now, I felt a huge emotional barrier between Yotsuba and I.",
+      "texto_ptbr": "Agora mesmo, senti uma barreira enorme entre mim e a Yotsuba."
+    },
+    {
+      "id": 13,
+      "personagem": "Miku",
+      "texto_en": "Me too.",
+      "texto_ptbr": "Eu também."
+    },
+    {
+      "id": 14,
+      "personagem": "Yotsuba",
+      "texto_en": "Whaa?!\\nWhy is there suddenly an emotional barrier between us?!",
+      "texto_ptbr": "Cooom?!\\nPor que de repente surgiu uma barreira entre a gente?!"
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "There's a line that can't be crossed\\nbetween teams that can exercise and those that can't.",
+      "texto_ptbr": "Existe uma linha que não pode ser cruzada\\nentre a turma que aguenta fazer exercício e a que não aguenta."
+    },
+    {
+      "id": 16,
+      "personagem": "Yotsuba",
+      "texto_en": "Then, let's make an opening in the barrier\\nand try to understand each other!\\nLet's make peace!",
+      "texto_ptbr": "Então, vamos abrir uma brecha na barreira\\ne tentar se entender!\\nVamos fazer as pazes!"
+    },
+    {
+      "id": 17,
+      "personagem": "Yotsuba",
+      "texto_en": "Okay, how about playing in the sand?\\nThat doesn't tire you out, does it?",
+      "texto_ptbr": "Tá, que tal brincar na areia?\\nIsso não cansa, né?"
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "Sand is heavy.",
+      "texto_ptbr": "Areia é pesada."
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh...\\nMiku, are you saying that you can't lift\\nanything heavier than chopsticks?",
+      "texto_ptbr": "Hein...\\nMiku, você tá dizendo que não consegue levantar\\nnada mais pesado que hashi?"
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "However, it's true\\nthat many beach activities are tiring.",
+      "texto_ptbr": "Mas é verdade\\nque muitas atividades de praia cansam."
+    },
+    {
+      "id": 21,
+      "personagem": "Yotsuba",
+      "texto_en": "I'm sure there are other activities\\nthat don't require as much physical exertion.\\nThe ones I thought of do, though.",
+      "texto_ptbr": "Tenho certeza que têm outras atividades\\nque não exigem tanto esforço físico.\\nAs que pensei exigem, no entanto."
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "By the way, do you have anything else you want to do?",
+      "texto_ptbr": "A propósito, tem alguma outra coisa que quer fazer?"
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "I want to go diving!\\nI want to try the proper scuba diving\\nwith a scuba tank on my back.",
+      "texto_ptbr": "Quero fazer mergulho!\\nQuero experimentar o mergulho de verdade\\ncom o cilindro nas costas."
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Scuba diving, huh.\\nBut don't you need a license for that?",
+      "texto_ptbr": "Mergulho, hein.\\nMas não precisa de habilitação pra isso?"
+    },
+    {
+      "id": 25,
+      "personagem": "Yotsuba",
+      "texto_en": "You need a license to do it alone,\\nbut it seems like beginners can do it\\non trial diving tours.",
+      "texto_ptbr": "Precisa de habilitação pra fazer sozinho,\\nmas parece que iniciantes podem fazer\\nem tours experimentais de mergulho."
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "Oh, I see.",
+      "texto_ptbr": "Ah, entendo."
+    },
+    {
+      "id": 27,
+      "personagem": "Yotsuba",
+      "texto_en": "Yes, it said that if you're with an instructor\\nwho has a license, there's no issue.",
+      "texto_ptbr": "É, disse que se estiver com um instrutor\\nque tem habilitação, não tem problema."
+    },
+    {
+      "id": 28,
+      "personagem": "Miku",
+      "texto_en": "You're so knowledgeable, Yotsuba.",
+      "texto_ptbr": "Você é muito informada, Yotsuba."
+    },
+    {
+      "id": 29,
+      "personagem": "Yotsuba",
+      "texto_en": "I looked it up before we left.\\nIf it seems possible, I want to give it a try.",
+      "texto_ptbr": "Pesquisei antes de a gente sair.\\nSe parecer possível, quero tentar."
+    },
+    {
+      "id": 30,
+      "personagem": "Miku",
+      "texto_en": "Diving...",
+      "texto_ptbr": "Mergulho..."
+    },
+    {
+      "id": 31,
+      "personagem": "Yotsuba",
+      "texto_en": "What do you think, Miku? Are you interested?",
+      "texto_ptbr": "O que acha, Miku? Tem interesse?"
+    },
+    {
+      "id": 32,
+      "personagem": "Miku",
+      "texto_en": "I'd like to see the world underwater, but I'm\\nnot good at physical activities. I might end up causing\\ntrouble for everyone if my legs cramp up.",
+      "texto_ptbr": "Gostaria de ver o mundo embaixo d'água, mas não\\nsou boa em atividades físicas. Posso acabar dando\\ntrabalho pra todo mundo se minha perna cãibrar."
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "I can't help feeling anxious\\nabout the unexpected things that might happen\\nunderwater.",
+      "texto_ptbr": "Fico preocupado com as coisas inesperadas\\nque podem acontecer\\nembaixo d'água."
+    },
+    {
+      "id": 34,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh my!\\nYou two are only thinking about\\nthe things that could go wrong before even trying!",
+      "texto_ptbr": "Nossa!\\nVocês dois só estão pensando\\nno que pode dar errado antes de nem tentar!"
+    },
+    {
+      "id": 35,
+      "personagem": "Yotsuba",
+      "texto_en": "If it's a tour for beginners, they'll teach us nice and easy,\\nso I'm sure it'll be okay!",
+      "texto_ptbr": "Se for um tour pra iniciantes, vão ensinar direitinho e devagar,\\nentão tenho certeza que vai ficar tudo bem!"
+    },
+    {
+      "id": 36,
+      "personagem": "Yotsuba",
+      "texto_en": "So, we won't know until we try.\\nWho knows, we might love it.",
+      "texto_ptbr": "Então, só vamos saber se tentar.\\nQuem sabe a gente não vai amar."
+    },
+    {
+      "id": 37,
+      "personagem": "Miku",
+      "texto_en": "Hmmm...",
+      "texto_ptbr": "Hmmm..."
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "That's right, Miku.\\nIt's not good to feel scared before giving it a try.",
+      "texto_ptbr": "É verdade, Miku.\\nNão adianta ter medo antes de nem tentar."
+    },
+    {
+      "id": 39,
+      "personagem": "Miku",
+      "texto_en": "Why are you talking like it's someone else's problem?\\nYou said you were anxious earlier too.",
+      "texto_ptbr": "Por que você fala como se fosse problema dos outros?\\nVocê mesmo disse que estava preocupado pouco antes."
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "It just means I'm a little anxious.\\nIt doesn't mean I don't want to do it.",
+      "texto_ptbr": "Significa só que estou um pouco ansioso.\\nNão significa que não quero fazer."
+    },
+    {
+      "id": 41,
+      "personagem": "Miku",
+      "texto_en": "Excuses...",
+      "texto_ptbr": "Desculpa..."
+    },
+    {
+      "id": 42,
+      "personagem": "Yotsuba",
+      "texto_en": "Miku, you're not really afraid of water though, right?",
+      "texto_ptbr": "Miku, você não tem medo de água de verdade, né?"
+    },
+    {
+      "id": 43,
+      "personagem": "Miku",
+      "texto_en": "Yeah, I can swim.",
+      "texto_ptbr": "É, sei nadar."
+    },
+    {
+      "id": 44,
+      "personagem": "Yotsuba",
+      "texto_en": "Then you'll be fine! Challenge yourself.",
+      "texto_ptbr": "Então vai ficar bem! Se desafia."
+    },
+    {
+      "id": 45,
+      "personagem": "Miku",
+      "texto_en": "...Fine, if there's an opportunity.",
+      "texto_ptbr": "...Tá bom, se aparecer oportunidade."
+    },
+    {
+      "id": 46,
+      "personagem": "Yotsuba",
+      "texto_en": "Okay, it's a promise then.",
+      "texto_ptbr": "Ótimo, então é uma promessa."
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "Speaking of which...\\nwe're talking like we're completely set on going diving,\\nbut was it in the itinerary for this trip?",
+      "texto_ptbr": "Por falar nisso...\\na gente tá falando como se fosse certo que vai mergulhar,\\nmas estava no roteiro desta viagem?"
+    },
+    {
+      "id": 48,
+      "personagem": "Yotsuba",
+      "texto_en": "No, unfortunately it wasn't.\\nThe reservations for the beginner tour were full.",
+      "texto_ptbr": "Não, infelizmente não estava.\\nAs reservas pro tour de iniciantes estavam lotadas."
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "If it's a beginner tour, then it should be doable.",
+      "texto_ptbr": "Se é um tour pra iniciantes, então deve ser possível."
+    },
+    {
+      "id": 50,
+      "personagem": "Yotsuba",
+      "texto_en": "Yes, it should be.\\nAll we have to do is take the first step and try!",
+      "texto_ptbr": "É, deve ser.\\nBasta dar o primeiro passo e tentar!"
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "In the beginner tour, \\nthey start-off by teaching you from the basics, right?",
+      "texto_ptbr": "No tour de iniciantes,\\neles ensinam desde o começo, do básico, né?"
+    },
+    {
+      "id": 52,
+      "personagem": "Yotsuba",
+      "texto_en": "Yes, they should teach us carefully\\nso it's not dangerous.",
+      "texto_ptbr": "É, devem ensinar com cuidado\\npara não ser perigoso."
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "Well then, it should be okay.",
+      "texto_ptbr": "Bom então, deve ficar tudo bem."
+    },
+    {
+      "id": 54,
+      "personagem": "Yotsuba",
+      "texto_en": "That's right, that's the way!",
+      "texto_ptbr": "Isso mesmo, é assim!"
+    },
+    {
+      "id": 55,
+      "personagem": "Miku",
+      "texto_en": "If Futaro's doing it, then I will too.",
+      "texto_ptbr": "Se o Fuutarou vai fazer, eu também vou."
+    },
+    {
+      "id": 56,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah! It'll be fun if we all dive together!",
+      "texto_ptbr": "Isso! Vai ser divertido se a gente mergulhar junto!"
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "Speaking of which...\\nwe're talking like we're completely set on going diving,\\nbut was it in the itinerary for this trip?",
+      "texto_ptbr": "Por falar nisso...\\na gente tá falando como se fosse certo que vai mergulhar,\\nmas estava no roteiro desta viagem?"
+    },
+    {
+      "id": 58,
+      "personagem": "Yotsuba",
+      "texto_en": "No, unfortunately it wasn't.\\nThe reservations for the beginner tour were full.",
+      "texto_ptbr": "Não, infelizmente não estava.\\nAs reservas pro tour de iniciantes estavam lotadas."
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "You really looked into this huh.\\nYou even looked up the tour?",
+      "texto_ptbr": "Você pesquisou mesmo a fundo, hein.\\nAté verificou o tour?"
+    },
+    {
+      "id": 60,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahaha...\\nActually, I've been researching fun things to do\\non this graduation trip here and there.",
+      "texto_ptbr": "Ahaha...\\nNa verdade, fui pesquisando coisas legais pra fazer\\nnessa viagem de formatura aqui e acolá."
+    },
+    {
+      "id": 61,
+      "personagem": "Yotsuba",
+      "texto_en": "Since we're all going on this trip together,\\nI want to enjoy it to the fullest and leave without any regrets.",
+      "texto_ptbr": "Já que a gente toda está indo nessa viagem junto,\\nquero aproveitar ao máximo e sair sem nenhum arrependimento."
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "That's right.\\nDoing some research before a trip is important.",
+      "texto_ptbr": "É verdade.\\nPesquisar antes de uma viagem é importante."
+    },
+    {
+      "id": 63,
+      "personagem": "Yotsuba",
+      "texto_en": "It sure is!",
+      "texto_ptbr": "Com certeza!"
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "I won't let your efforts go to waste.\\nIf it's a beginner tour, and everyone's up for it,\\nlet's give it a try.",
+      "texto_ptbr": "Não vou deixar seu esforço ir pro lixo.\\nSe é um tour de iniciantes e todo mundo topar,\\nvamos tentar."
+    },
+    {
+      "id": 65,
+      "personagem": "Miku",
+      "texto_en": "If Futaro's doing it, then I will too.",
+      "texto_ptbr": "Se o Fuutarou vai fazer, eu também vou."
+    },
+    {
+      "id": 66,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah! Let's do it together!",
+      "texto_ptbr": "Isso! Vamos fazer juntos!"
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "Speaking of which...\\nwe're talking like we're completely set on going diving,\\nbut was it in the itinerary for this trip?",
+      "texto_ptbr": "Por falar nisso...\\na gente tá falando como se fosse certo que vai mergulhar,\\nmas estava no roteiro desta viagem?"
+    },
+    {
+      "id": 68,
+      "personagem": "Yotsuba",
+      "texto_en": "No, unfortunately it wasn't.\\nThe reservations for the beginner tour were full.",
+      "texto_ptbr": "Não, infelizmente não estava.\\nAs reservas pro tour de iniciantes estavam lotadas."
+    },
+    {
+      "id": 69,
+      "personagem": "Yotsuba",
+      "texto_en": "But! Next time we come to Okinawa,\\nwe absolutely have to do it!\\nMiku agreed to give it a try!",
+      "texto_ptbr": "Mas! Da próxima vez que viermos a Okinawa,\\na gente tem que fazer com certeza!\\nA Miku concordou em tentar!"
+    },
+    {
+      "id": 70,
+      "personagem": "Miku",
+      "texto_en": "Yeah, I'll give it a shot.",
+      "texto_ptbr": "É, vou tentar."
+    },
+    {
+      "id": 71,
+      "personagem": "Yotsuba",
+      "texto_en": "And once we've graduated from beginners,\\nlet's go to a place known for diving\\nlike Ishigaki Island and Miyako Island and dive.",
+      "texto_ptbr": "E quando nos formarmos no nível iniciante,\\nvamos a um lugar famoso pelo mergulho\\ncomo Ishigaki Island e Miyako Island e mergulhamos."
+    },
+    {
+      "id": 72,
+      "personagem": "Futaro",
+      "texto_en": "I remember you mentioning before\\nthat you wanted to go to Ishigaki Island\\nand Miyako Island.",
+      "texto_ptbr": "Lembro de você ter mencionado antes\\nque queria ir a Ishigaki Island\\ne a Miyako Island."
+    },
+    {
+      "id": 73,
+      "personagem": "Miku",
+      "texto_en": "You have to take a plane to get there.\\nOkinawa is bigger than I thought.",
+      "texto_ptbr": "É preciso pegar avião pra chegar lá.\\nOkinawa é maior do que eu pensava."
+    },
+    {
+      "id": 74,
+      "personagem": "Futaro",
+      "texto_en": "Yeah.\\nIt's a fascinating place with so much to explore\\nthat a few days is not enough.",
+      "texto_ptbr": "É.\\nÉ um lugar fascinante com tanto pra explorar\\nque alguns dias não são suficientes."
+    },
+    {
+      "id": 75,
+      "personagem": "Yotsuba",
+      "texto_en": "Then let's come as many times as we need to.\\nLet's enjoy Okinawa to the fullest, together!",
+      "texto_ptbr": "Então vamos vir quantas vezes for preciso.\\nVamos aproveitar Okinawa ao máximo, juntos!"
+    },
+    {
+      "id": 76,
+      "personagem": "Futaro",
+      "texto_en": "A remote island, huh?\\nWe don't have enough time to visit this time around.",
+      "texto_ptbr": "Uma ilha remota, hein?\\nNão temos tempo suficiente pra visitar dessa vez."
+    },
+    {
+      "id": 77,
+      "personagem": "Yotsuba",
+      "texto_en": "That's too bad.",
+      "texto_ptbr": "Que pena."
+    },
+    {
+      "id": 78,
+      "personagem": "Miku",
+      "texto_en": "You have to take a plane to get there.\\nOkinawa is bigger than I thought.",
+      "texto_ptbr": "É preciso pegar avião pra chegar lá.\\nOkinawa é maior do que eu pensava."
+    },
+    {
+      "id": 79,
+      "personagem": "Futaro",
+      "texto_en": "Yeah.\\nIt's a fascinating place with so much to explore\\nthat a few days is not enough.",
+      "texto_ptbr": "É.\\nÉ um lugar fascinante com tanto pra explorar\\nque alguns dias não são suficientes."
+    },
+    {
+      "id": 80,
+      "personagem": "Yotsuba",
+      "texto_en": "Then let's come as many times as we need to.\\nLet's enjoy Okinawa to the fullest, together!",
+      "texto_ptbr": "Então vamos vir quantas vezes for preciso.\\nVamos aproveitar Okinawa ao máximo, juntos!"
+    }
+  ]
+}

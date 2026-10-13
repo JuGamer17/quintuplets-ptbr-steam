@@ -1,0 +1,312 @@
+{
+  "arquivo": "ca02_03",
+  "total": 51,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Itsuki",
+      "texto_en": "Good morning, Uesugi-kun.",
+      "texto_ptbr": "Bom dia, Uesugi-kun."
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Oh, good morning.",
+      "texto_ptbr": "Ah, bom dia."
+    },
+    {
+      "id": 2,
+      "personagem": "Raiha",
+      "texto_en": "Good morning!\\nYou're up early, big bro.",
+      "texto_ptbr": "Bom dia!\\nVocê acordou cedo, Onii-chan."
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Hah...\\nI'm just too excited for our Okinawa trip,\\nI even woke up before my alarm went off.",
+      "texto_ptbr": "Hah...\\nÉ que tô muito animado com a viagem pra Okinawa,\\naté acordei antes do despertador tocar."
+    },
+    {
+      "id": 4,
+      "personagem": "Yotsuba",
+      "texto_en": "Same here!\\nI'm bursting with excitement!",
+      "texto_ptbr": "Eu também!\\nEstou explodindo de animação!"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Hey, Yotsuba and Miku.\\nMorning.",
+      "texto_ptbr": "Ei, Yotsuba e Miku.\\nBom dia."
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "Good morning.\\nWhat about Itsuki and Nino?",
+      "texto_ptbr": "Bom dia.\\nE a Itsuki e a Nino?"
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "I wonder if Ichika was able to get up?",
+      "texto_ptbr": "Será que a Ichika conseguiu se levantar?"
+    },
+    {
+      "id": 8,
+      "personagem": "Miku",
+      "texto_en": "Since Nino's with her, I think she'll be okay.",
+      "texto_ptbr": "Como a Nino tá com ela, acho que vai ficar bem."
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "Come on, wake up already.\\nIf you don't get up, I'll leave you behind.",
+      "texto_ptbr": "Vamos, acorda logo.\\nSe não levantar, vou te deixar pra trás."
+    },
+    {
+      "id": 10,
+      "personagem": "Ichika",
+      "texto_en": "Don't leave me alone...\\nPlease help me get up...",
+      "texto_ptbr": "Não me deixa sozinha...\\nPor favor me ajuda a levantar..."
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Good morning, Nino.\\nRough morning, eh.",
+      "texto_ptbr": "Bom dia, Nino.\\nManhã difícil, hein."
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "Good morning, Futaro.\\nYou bet.",
+      "texto_ptbr": "Bom dia, Futaro.\\nPode apostar."
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "Geeez, I was going to your room\\nto wake you up.\\nIchika should have known that.",
+      "texto_ptbr": "Que saco, eu ia até o seu quarto\\nte acordar.\\nA Ichika devia saber disso."
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "Sorry...",
+      "texto_ptbr": "Desculpa..."
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "N-no, don't worry about me.\\nI can wake up on my own.",
+      "texto_ptbr": "N-não, não precisa se preocupar comigo.\\nConsigo acordar sozinho."
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "It's not that I'm worried about you.\\nI just want to wake you up.",
+      "texto_ptbr": "Não é que estou preocupada com você.\\nSó quero ser eu quem te acorda."
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "Futaro waking up to me every morning.\\nTeehee, that alone makes me happy.",
+      "texto_ptbr": "Futaro acordando pra mim toda manhã.\\nHehe, só isso já me deixa feliz."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "I-is that so?",
+      "texto_ptbr": "É-é mesmo?"
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "What about you, Futaro?",
+      "texto_ptbr": "E você, Futaro?"
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "I'm...happy, too.",
+      "texto_ptbr": "Eu... também tô feliz."
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "Wow.\\nThis lovey-dovey atmosphere in the morning\\nreally wakes me up.",
+      "texto_ptbr": "Nossa.\\nEsse clima todo caloroso de manhã\\nme acorda de vez."
+    },
+    {
+      "id": 22,
+      "personagem": "Nino",
+      "texto_en": "Oh, that's good to hear.",
+      "texto_ptbr": "Ah, que bom então."
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "Then, should I bring Futaro to our room\\nevery morning to wake you up?",
+      "texto_ptbr": "Então, devo trazer o Futaro até o nosso quarto\\ntoda manhã pra te acordar?"
+    },
+    {
+      "id": 24,
+      "personagem": "Ichika",
+      "texto_en": "No, I'll pass.\\nI'll make sure to wake up on time tomorrow.",
+      "texto_ptbr": "Não, obrigada.\\nVou garantir que acordo na hora amanhã."
+    },
+    {
+      "id": 25,
+      "personagem": "Miku",
+      "texto_en": "So much romance in the morning...",
+      "texto_ptbr": "Tanto romance de manhã..."
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "Um, you two?\\nPlease choose the time and place more carefully, okay?",
+      "texto_ptbr": "Hm, vocês dois?\\nPor favor escolham melhor a hora e o lugar, tá bom?"
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "Yeah, yeah, we get it.",
+      "texto_ptbr": "Sim, sim, entendemos."
+    },
+    {
+      "id": 28,
+      "personagem": "Nino",
+      "texto_en": "Anyway, after breakfast, we're going to\\nKouri Island, right?",
+      "texto_ptbr": "De qualquer forma, depois do café da manhã, vamos\\npara a Ilha Kouri, né?"
+    },
+    {
+      "id": 29,
+      "personagem": "Raiha",
+      "texto_en": "How do we get to the island? By boat?",
+      "texto_ptbr": "Como a gente chega na ilha? De barco?"
+    },
+    {
+      "id": 30,
+      "personagem": "Yotsuba",
+      "texto_en": "Surprisingly, Kouri Island\\nis connected to Okinawa by a bridge.\\nSo we can drive there!",
+      "texto_ptbr": "Surpreendentemente, a Ilha Kouri\\nestá conectada a Okinawa por uma ponte.\\nEntão a gente pode ir de carro!"
+    },
+    {
+      "id": 31,
+      "personagem": "Itsuki",
+      "texto_en": "The hotel arranged for taxis,\\nso let's split up into two groups and head out.",
+      "texto_ptbr": "O hotel arranjou táxis,\\nentão vamos nos dividir em dois grupos e partir."
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "Then, I'll go with Futaro.",
+      "texto_ptbr": "Então eu vou com o Futaro."
+    },
+    {
+      "id": 33,
+      "personagem": "Itsuki",
+      "texto_en": "As expected, I already knew that,\\nso I've already prepared the groups.",
+      "texto_ptbr": "Como esperado, já sabia disso,\\nentão já preparei os grupos."
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "In the first taxi, it'll be\\nme, Raiha-chan, Nino, and Uesugi-kun.\\nIn the second, it'll be Ichika, Miku, and Yotsuba.",
+      "texto_ptbr": "No primeiro táxi vão\\neu, Raiha-chan, Nino e Uesugi-kun.\\nNo segundo vão Ichika, Miku e Yotsuba."
+    },
+    {
+      "id": 35,
+      "personagem": "Nino",
+      "texto_en": "Aww.\\nI wanted to be alone with Futaro.",
+      "texto_ptbr": "Ahh.\\nQueria ficar só com o Futaro."
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "Nope. I won't tolerate any changes.",
+      "texto_ptbr": "Nem pensar. Não vou tolerar mudanças."
+    },
+    {
+      "id": 37,
+      "personagem": "Raiha",
+      "texto_en": "Ahaha, you're like a teacher, Itsuki-san.",
+      "texto_ptbr": "Ahaha, você parece uma professora, Itsuki-san."
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "Huh?!\\nIs that so?\\nAm I being too controlling?",
+      "texto_ptbr": "Hã?!\\nÉ mesmo?\\nEstou sendo controladora demais?"
+    },
+    {
+      "id": 39,
+      "personagem": "Ichika",
+      "texto_en": "Don't worry about it.\\nIn fact, it's a relief.",
+      "texto_ptbr": "Não se preocupa com isso.\\nNa verdade, é um alívio."
+    },
+    {
+      "id": 40,
+      "personagem": "Miku",
+      "texto_en": "If we left it to Nino, things would be chaotic.",
+      "texto_ptbr": "Se deixássemos nas mãos da Nino, ia virar um caos."
+    },
+    {
+      "id": 41,
+      "personagem": "Nino",
+      "texto_en": "What now?\\nAre you telling me that I'm not allowed to be together with\\nFutaro?",
+      "texto_ptbr": "O que foi?\\nVocês estão dizendo que não posso ficar junto com o\\nFutaro?"
+    },
+    {
+      "id": 42,
+      "personagem": "Miku",
+      "texto_en": "It's not that, but there's a limit.",
+      "texto_ptbr": "Não é isso, mas tem um limite."
+    },
+    {
+      "id": 43,
+      "personagem": "Yotsuba",
+      "texto_en": "You might end up going into your own little world\\nand stay there.",
+      "texto_ptbr": "Você pode acabar entrando no mundinho de vocês dois\\ne ficar lá."
+    },
+    {
+      "id": 44,
+      "personagem": "Miku",
+      "texto_en": "Also Futaro is such a pushover.",
+      "texto_ptbr": "Além disso, o Futaro não sabe dizer não."
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "Th, that's not true?!",
+      "texto_ptbr": "Is-isso não é verdade?!"
+    },
+    {
+      "id": 46,
+      "personagem": "Ichika",
+      "texto_en": "Well, he's not weak to everything,\\nbut at least he's super weak to Nino's pushing,\\nright?",
+      "texto_ptbr": "Bom, ele não cede pra qualquer coisa,\\nmas pelo menos não resiste quando a Nino insiste,\\nné?"
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "That's not...",
+      "texto_ptbr": "Isso não é..."
+    },
+    {
+      "id": 48,
+      "personagem": "Raiha",
+      "texto_en": "It IS true.",
+      "texto_ptbr": "É SIM verdade."
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Stop it! That's enough!\\nLet's hurry up and eat breakfast!",
+      "texto_ptbr": "Para! Já chega!\\nVamos logo tomar café da manhã!"
+    },
+    {
+      "id": 50,
+      "personagem": "Nino",
+      "texto_en": "Hey, Futaro!\\nWait, the restaurant ain't that way!",
+      "texto_ptbr": "Ei, Futaro!\\nEspera, o restaurante não fica por aí!"
+    }
+  ]
+}

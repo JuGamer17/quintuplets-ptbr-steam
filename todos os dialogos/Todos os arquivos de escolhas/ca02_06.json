@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca02_06",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "２人でハートマークを作るの！\\nハートの半分をお互いの手で作って、\\nハートロックに重ね合わせて撮りたいわ。",
+      "texto_en": "You and I will make a heart mark together!\\nWe'll make half a heart with our hands and overlay it\\nwith the Heart Rock to take the picture.",
+      "texto_ptbr": "Eu e você vamos fazer um coração juntos!\\nVamos fazer metade de um coração com as mãos e sobrepor\\ncom a Pedra do Coração pra tirar a foto."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "無理！",
+      "texto_en": "No way!",
+      "texto_ptbr": "Nem pensar!",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "どうしてもか？",
+      "texto_en": "Do we have to?",
+      "texto_ptbr": "Tem que ser?",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "……わかった、撮ろう",
+      "texto_en": "...Okay. Let's do it.",
+      "texto_ptbr": "...Tá bom, vamos tirar.",
+      "selidx": 2
+    }
+  ]
+}

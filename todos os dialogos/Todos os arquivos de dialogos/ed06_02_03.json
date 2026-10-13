@@ -1,0 +1,324 @@
+{
+  "arquivo": "ed06_02_03",
+  "total": 53,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(This is the place she specified.\\n Somewhere around here%p-2;――%p;)",
+      "texto_ptbr": "(Este é o lugar que ela indicou.\\n Em algum lugar por aqui%p-2;――%p;)"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(...Found her!)",
+      "texto_ptbr": "(...Achei!)"
+    },
+    {
+      "id": 2,
+      "personagem": "???",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "I came to see you, Nino.",
+      "texto_ptbr": "Vim te encontrar, Nino."
+    },
+    {
+      "id": 4,
+      "personagem": "???",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "!...",
+      "texto_ptbr": "!..."
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "(...Hm?\\n It is Nino, isn't it?)",
+      "texto_ptbr": "(...Hm?\\n É a Nino, não é?)"
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "There's something I want to tell you, Fu-kun.",
+      "texto_ptbr": "Tem uma coisa que eu quero te dizer, Fu-kun."
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "What is it?",
+      "texto_ptbr": "O que é?"
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "(So it is Nino.\\n For a moment, I thought it might be someone else%p-2;――%p;)",
+      "texto_ptbr": "(É a Nino mesmo.\\n Por um instante, achei que pudesse ser outra pessoa%p-2;――%p;)"
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "%p-2;――%p; Huh?",
+      "texto_ptbr": "%p-2;――%p; Hã?"
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "(What the?\\n An impact to my cheek...)",
+      "texto_ptbr": "(Que isso?\\n Um impacto na minha bochecha...)"
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "(Could it be a slap?\\n In other words...she rejected me?\\n Nino no longer has feelings for me?)",
+      "texto_ptbr": "(Será que foi um tapa?\\n Ou seja...ela me rejeitou?\\n A Nino não sente mais nada por mim?)"
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "N-Nino.\\nI%p-2;――",
+      "texto_ptbr": "N-Nino.\\nEu%p-2;――"
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "It's noisy around here, isn't it?\\nLet's change location.",
+      "texto_ptbr": "Tá barulhento por aqui, né?\\nVamos mudar de lugar."
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "...R-right.",
+      "texto_ptbr": "...C-certo."
+    },
+    {
+      "id": 18,
+      "personagem": "Nino",
+      "texto_en": "...Is this place okay?",
+      "texto_ptbr": "...Aqui está bom?"
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Hey, Nino, what's going on?\\nIf you're rejecting my confession,\\nat least tell me the reason!",
+      "texto_ptbr": "Ei, Nino, o que tá acontecendo?\\nSe você está recusando a minha confissão,\\nao menos me fala o motivo!"
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "It's not that.",
+      "texto_ptbr": "Não é isso."
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Then%p-2;――",
+      "texto_ptbr": "Então%p-2;――"
+    },
+    {
+      "id": 22,
+      "personagem": "Nino",
+      "texto_en": "I said I have something to tell you.\\nJust stay silent and listen until the end.",
+      "texto_ptbr": "Eu disse que tenho uma coisa pra te dizer.\\nFica quieto e escuta até o fim."
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "...Got it.\\nLet's hear it.",
+      "texto_ptbr": "...Entendi.\\nPode falar."
+    },
+    {
+      "id": 24,
+      "personagem": "Nino",
+      "texto_en": "You're cruel, Fu-kun.",
+      "texto_ptbr": "Você é cruel, Fu-kun."
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "Saying things like 'I won't choose anyone' and\\n'it's a waste of time.' It was as if you were testing\\nour feelings, and now you're giving an answer again?",
+      "texto_ptbr": "Dizer coisas como 'não vou escolher ninguém' e\\n'é perda de tempo'. Era como se você estivesse testando\\nos nossos sentimentos, e agora vem dar uma resposta de novo?"
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "You've been playing with our feelings\\nfor the past six months.\\nYou're really selfish.",
+      "texto_ptbr": "Você anda brincando com os nossos sentimentos\\nnos últimos seis meses.\\nVocê é muito egoísta."
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Well, I didn't mean it that way%p-2;――",
+      "texto_ptbr": "Bom, eu não quis dizer isso desse jeito%p-2;――"
+    },
+    {
+      "id": 28,
+      "personagem": "Nino",
+      "texto_en": "Shut up and listen!!",
+      "texto_ptbr": "Cala a boca e escuta!!"
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "...Yes.",
+      "texto_ptbr": "...Sim."
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "(That's right.\\n I knew well enough that I was being too selfish.)",
+      "texto_ptbr": "(É verdade.\\n Eu sabia muito bem que estava sendo egoísta demais.)"
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "(But still, I confessed with the naive expectation\\n that she would understand.\\n It's only natural for her to be angry...)",
+      "texto_ptbr": "(Mesmo assim, eu me confessei com a expectativa ingênua\\n de que ela fosse entender.\\n É natural que ela esteja com raiva...)"
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "Regardless of your thoughts, Fu-kun...\\nEven so, the fact that you said you would\\ngive me an answer made me happy%p-2;――",
+      "texto_ptbr": "Independentemente do que você pensa, Fu-kun...\\nMesmo assim, o fato de você ter dito que ia\\nme dar uma resposta me deixou feliz%p-2;――"
+    },
+    {
+      "id": 33,
+      "personagem": "Nino",
+      "texto_en": "It means that what I've been doing\\nwasn't in vain...",
+      "texto_ptbr": "Significa que o que eu venho fazendo\\nnão foi em vão..."
+    },
+    {
+      "id": 34,
+      "personagem": "Nino",
+      "texto_en": "But maybe all this time, we've just been selfishly\\nfalling in love with you, Fu-kun,\\nand imposing ourselves on you%p-2;――",
+      "texto_ptbr": "Mas talvez, esse tempo todo, a gente só estivesse se apaixonando\\nde forma egoísta por você, Fu-kun,\\ne se impondo a você%p-2;――"
+    },
+    {
+      "id": 35,
+      "personagem": "Nino",
+      "texto_en": "I understand that, but still! Toying with our feelings\\nlike that, after stirring us up,\\njust giving an answer is still unfair...",
+      "texto_ptbr": "Eu entendo isso, mas mesmo assim! Brincar com os nossos sentimentos\\ndesse jeito, depois de mexer com a gente,\\ne só dar uma resposta continua sendo injusto..."
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Nino...",
+      "texto_ptbr": "Nino..."
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "Ah, my GOSH!\\nI've lost track of what I wanted to say, but anyway,\\nthat slap just now was about that!",
+      "texto_ptbr": "Ai, meu DEUS!\\nPerdi o fio do que eu queria dizer, mas enfim,\\naquele tapa agora foi por isso!"
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "I'm sorry.\\nIt's because I kept delaying my answer\\nthat I've made you suffer for so long.",
+      "texto_ptbr": "Desculpa.\\nFoi porque eu fiquei adiando a minha resposta\\nque fiz você sofrer por tanto tempo."
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "To forgive me with just one slap,\\nyou're honestly too kind.",
+      "texto_ptbr": "Me perdoar com um único tapa,\\nvocê é gentil demais, sinceramente."
+    },
+    {
+      "id": 40,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "If there's something you want to say to me,\\nsay it all. Criticism or whatnot, I'll accept it%p-2;――",
+      "texto_ptbr": "Se tem algo que você queira me dizer,\\nfala tudo. Críticas ou o que for, eu aceito%p-2;――"
+    },
+    {
+      "id": 42,
+      "personagem": "Nino",
+      "texto_en": "I love you.",
+      "texto_ptbr": "Eu te amo."
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "%p-2;――%p; Huh?",
+      "texto_ptbr": "%p-2;――%p; Hã?"
+    },
+    {
+      "id": 44,
+      "personagem": "Nino",
+      "texto_en": "I said it that night, didn't I?\\nMy feelings haven't changed.",
+      "texto_ptbr": "Eu disse naquela noite, não disse?\\nOs meus sentimentos não mudaram."
+    },
+    {
+      "id": 45,
+      "personagem": "Nino",
+      "texto_en": "Even now, it's the same.\\nMy feelings haven't changed even once.",
+      "texto_ptbr": "Mesmo agora, é igual.\\nOs meus sentimentos não mudaram nem uma vez."
+    },
+    {
+      "id": 46,
+      "personagem": "Nino",
+      "texto_en": "I love you, Fu-kun.",
+      "texto_ptbr": "Eu te amo, Fu-kun."
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "...Nino.",
+      "texto_ptbr": "...Nino."
+    },
+    {
+      "id": 48,
+      "personagem": "Nino",
+      "texto_en": "Teehee!\\nI don't have anything else to say.",
+      "texto_ptbr": "Teehee!\\nNão tenho mais nada pra dizer."
+    },
+    {
+      "id": 49,
+      "personagem": "Nino",
+      "texto_en": "So, that's everything.\\n...And?",
+      "texto_ptbr": "Então, é isso.\\n...E aí?"
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "I love you, too.\\nNino.",
+      "texto_ptbr": "Eu também te amo.\\nNino."
+    },
+    {
+      "id": 51,
+      "personagem": "Nino",
+      "texto_en": "...I finally got to hear it.",
+      "texto_ptbr": "...Finalmente consegui ouvir isso."
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Yeah. I finally said it.",
+      "texto_ptbr": "É. Finalmente eu disse."
+    }
+  ]
+}

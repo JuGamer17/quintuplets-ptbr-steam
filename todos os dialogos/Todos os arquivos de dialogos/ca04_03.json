@@ -1,0 +1,360 @@
+{
+  "arquivo": "ca04_03",
+  "total": 59,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "The sea!",
+      "texto_ptbr": "O mar!"
+    },
+    {
+      "id": 1,
+      "personagem": "Raiha",
+      "texto_en": "The sea!",
+      "texto_ptbr": "O mar!"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "The beautiful Churaumi sea!!",
+      "texto_ptbr": "O lindo mar de Churaumi!!"
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 4,
+      "personagem": "Nino",
+      "texto_en": "Why are you shouting...?",
+      "texto_ptbr": "Por que você tá gritando...?"
+    },
+    {
+      "id": 5,
+      "personagem": "Ichika",
+      "texto_en": "Futaro-kun?\\nYou're too energetic, don't you think?",
+      "texto_ptbr": "Fuutarou-kun?\\nVocê tá muito animado, não acha?"
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "It'd be a waste to not put my all into having fun!\\nLet's get pumped!!",
+      "texto_ptbr": "Seria um desperdício não me esforçar ao máximo pra me divertir!\\nVamos com tudo!!"
+    },
+    {
+      "id": 7,
+      "personagem": "Nino",
+      "texto_en": "Okay, just calm down a bit.\\nIt's really embarrassing.",
+      "texto_ptbr": "Certo, se acalma um pouco.\\nÉ muito constrangedor."
+    },
+    {
+      "id": 8,
+      "personagem": "Yotsuba",
+      "texto_en": "The bright blue sky, the emerald green sea.\\nIt's just like a painting!\\nWe're so lucky that it's sunny today!",
+      "texto_ptbr": "O céu azul brilhante, o mar verde esmeralda.\\nÉ igualzinho a uma pintura!\\nQue sorte a nossa que hoje está fazendo sol!"
+    },
+    {
+      "id": 9,
+      "personagem": "Miku",
+      "texto_en": "The sand is so white and beautiful.\\nIt looks like it's sparkling.",
+      "texto_ptbr": "A areia é tão branca e bonita.\\nParece que tá brilhando."
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "That's so true.\\nIt really feels like we're really in Okinawa.",
+      "texto_ptbr": "É verdade mesmo.\\nParece que a gente realmente tá em Okinawa."
+    },
+    {
+      "id": 11,
+      "personagem": "Ichika",
+      "texto_en": "Oh, speaking of which, I heard from a photographer\\nat work that, because the water is shallow here\\nthis beach is good for underwater photography.",
+      "texto_ptbr": "Ah, por falar nisso, eu ouvi de um fotógrafo\\nno trabalho que, como a água é rasa aqui,\\nessa praia é boa pra fotografia subaquática."
+    },
+    {
+      "id": 12,
+      "personagem": "Miku",
+      "texto_en": "Underwater photography?\\nYou mean taking pictures in the water?",
+      "texto_ptbr": "Fotografia subaquática?\\nQuer dizer, tirar fotos dentro da água?"
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "Ohh, that sounds nice.\\nIt'd be great on social media,\\nlet's all take some later!",
+      "texto_ptbr": "Ohh, que legal.\\nFicaria ótimo nas redes sociais,\\nvamos tirar umas depois!"
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "The waves aren't too high,\\nso it'll be safe for Raiha-chan too.",
+      "texto_ptbr": "As ondas não tão muito altas,\\nentão vai ser seguro pra Raiha-chan também."
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "The facilities for tourists are also well-equipped.\\nYou found a great spot.",
+      "texto_ptbr": "As instalações pra turistas também são bem equipadas.\\nVocê achou um ótimo lugar."
+    },
+    {
+      "id": 16,
+      "personagem": "Yotsuba",
+      "texto_en": "Ehehe, I'm so glad you guys are happy.\\nI worked hard to find this place.",
+      "texto_ptbr": "Ehehe, fico tão feliz que vocês estejam gostando.\\nEu me esforcei muito pra achar esse lugar."
+    },
+    {
+      "id": 17,
+      "personagem": "Yotsuba",
+      "texto_en": "Well then, shall we do some beach activities first?",
+      "texto_ptbr": "Bom, vamos fazer algumas atividades de praia primeiro?"
+    },
+    {
+      "id": 18,
+      "personagem": "Nino",
+      "texto_en": "That's a good idea, but look at how beautiful\\nthe sea is, and it's right there.\\nShouldn't we go for a swim first?",
+      "texto_ptbr": "É uma boa ideia, mas olha como o mar\\ntá bonito, e tá bem ali.\\nA gente não devia nadar primeiro?"
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "Why?",
+      "texto_ptbr": "Por quê?"
+    },
+    {
+      "id": 20,
+      "personagem": "Ichika",
+      "texto_en": "Well. My body is still a bit sleepy, \\nso I think I'd like to relax and let the waves\\nwash over my feet for a bit.",
+      "texto_ptbr": "Bom. Meu corpo ainda tá meio sonolento, \\nentão acho que eu queria relaxar e deixar as ondas\\nbaterem nos meus pés por um tempo."
+    },
+    {
+      "id": 21,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, I see\\nThat's a good point.",
+      "texto_ptbr": "Ah, entendi\\nFaz sentido."
+    },
+    {
+      "id": 22,
+      "personagem": "Yotsuba",
+      "texto_en": "Alright then, let's go for a swim first!",
+      "texto_ptbr": "Certo então, vamos nadar primeiro!"
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "*sigh*",
+      "texto_ptbr": "*suspiro*"
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Yotsuba?",
+      "texto_ptbr": "Yotsuba?"
+    },
+    {
+      "id": 25,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, Uesugi-san.\\nAren't you going to swim with everyone else?",
+      "texto_ptbr": "Ah, Uesugi-san.\\nVocê não vai nadar com todo mundo?"
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "It's too bad your plans got changed.",
+      "texto_ptbr": "É uma pena que seus planos mudaram."
+    },
+    {
+      "id": 27,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, no it's ok... \\nI'm just getting ahead of myself.",
+      "texto_ptbr": "Ah, não, tá tudo bem... \\nEu só tô me adiantando demais."
+    },
+    {
+      "id": 28,
+      "personagem": "Yotsuba",
+      "texto_en": "After all, we came to the beach,\\nso swimming might be more fun for everyone\\nthan doing activities right away, right?",
+      "texto_ptbr": "Afinal, a gente veio pra praia,\\nentão nadar deve ser mais divertido pra todo mundo\\ndo que já fazer as atividades logo de cara, né?"
+    },
+    {
+      "id": 29,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, I guess I do \\nfeel a little sorry about \\nnot realizing that sooner!",
+      "texto_ptbr": "Bom, acho que eu \\nfico meio chateada \\npor não ter percebido isso antes!"
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "(She's still the same, always thinking about others\\n before herself. It's not something\\n that can change easily.)",
+      "texto_ptbr": "(Ela continua a mesma, sempre pensando nos outros\\n antes de si mesma. Não é algo\\n que muda fácil assim.)"
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "There's no reason to feel embarrassed.",
+      "texto_ptbr": "Não tem motivo pra ficar constrangida."
+    },
+    {
+      "id": 32,
+      "personagem": "Yotsuba",
+      "texto_en": "What do you mean?",
+      "texto_ptbr": "Como assim?"
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Ichika and them were the ones who\\nchanged the plans, didn't they?\\nSo there's no reason for you to be so down about it.",
+      "texto_ptbr": "Foram a Ichika e as outras que\\nmudaram os planos, né?\\nEntão não tem motivo pra você ficar assim tão pra baixo."
+    },
+    {
+      "id": 34,
+      "personagem": "Yotsuba",
+      "texto_en": "I suppose so, but...\\nI wonder if I didn't plan as much as I should have.",
+      "texto_ptbr": "Acho que sim, mas...\\nSerá que eu não planejei tanto quanto devia."
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Even so, there's no point in worrying about it.\\nLet's think positive and move on.",
+      "texto_ptbr": "Mesmo assim, não adianta ficar se preocupando com isso.\\nVamos pensar positivo e seguir em frente."
+    },
+    {
+      "id": 36,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, you're right.",
+      "texto_ptbr": "É, você tem razão."
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "All right!\\nThen let's get in there too.\\nIt'd be a waste to just watch, right?",
+      "texto_ptbr": "Certo!\\nEntão vamos entrar também.\\nSeria um desperdício só ficar assistindo, né?"
+    },
+    {
+      "id": 38,
+      "personagem": "Yotsuba",
+      "texto_en": "That's right!\\nIt'd be disrespectful to the ocean\\nnot to swim in it!",
+      "texto_ptbr": "Isso mesmo!\\nSeria uma falta de respeito com o oceano\\nnão nadar nele!"
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "I was looking forward to the activities, too.\\nI've never done anything like what you had\\nplanned before.",
+      "texto_ptbr": "Eu também tava ansioso pelas atividades.\\nEu nunca fiz nada parecido com o que você\\ntinha planejado antes."
+    },
+    {
+      "id": 40,
+      "personagem": "Yotsuba",
+      "texto_en": "Really?",
+      "texto_ptbr": "Sério?"
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "I never even thought about going to the beach\\nto enjoy myself until I met you guys.",
+      "texto_ptbr": "Eu nunca nem tinha pensado em ir pra praia\\npra me divertir até conhecer vocês."
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "So, please show me how to have \\nfun on the beach the right way.\\nI'm counting on you.",
+      "texto_ptbr": "Então, por favor, me mostra como se divertir \\nna praia do jeito certo.\\nTô contando com você."
+    },
+    {
+      "id": 43,
+      "personagem": "Yotsuba",
+      "texto_en": "Of course!\\nLeave it to me,\\nI'll teach you step by step.",
+      "texto_ptbr": "Claro!\\nPode deixar comigo,\\nvou te ensinar passo a passo."
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "All right!\\nThen let's get in there too.\\nIt'd be a waste to just watch, right?",
+      "texto_ptbr": "Certo!\\nEntão vamos entrar também.\\nSeria um desperdício só ficar assistindo, né?"
+    },
+    {
+      "id": 45,
+      "personagem": "Yotsuba",
+      "texto_en": "That's right!\\nIt'd be disrespectful to the ocean\\nnot to swim in it!",
+      "texto_ptbr": "Isso mesmo!\\nSeria uma falta de respeito com o oceano\\nnão nadar nele!"
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "This is just how things go on a trip.\\nIt's common for plans to change\\nin the heat of the moment.",
+      "texto_ptbr": "É assim mesmo que as coisas acontecem numa viagem.\\nÉ comum os planos mudarem\\nno calor do momento."
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "No matter how perfectly one's planned,\\nit can't beat how everyone feels in the moment.",
+      "texto_ptbr": "Não importa o quão perfeito seja o planejamento,\\nnão dá pra competir com o que todo mundo sente no momento."
+    },
+    {
+      "id": 48,
+      "personagem": "Yotsuba",
+      "texto_en": "But Uesugi-san, you're the type to plan your trips\\nmeticulously, aren't you?",
+      "texto_ptbr": "Mas Uesugi-san, você é do tipo que planeja suas viagens\\nnos mínimos detalhes, né?"
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "That's...true.",
+      "texto_ptbr": "Isso... é verdade."
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "Well, that's why I understand.\\nThere were countless times with you guys\\nwhere things didn't go as planned, you know?",
+      "texto_ptbr": "Bom, é por isso que eu entendo.\\nTeve inúmeras vezes com vocês\\nem que as coisas não saíram como planejado, sabia?"
+    },
+    {
+      "id": 51,
+      "personagem": "Yotsuba",
+      "texto_en": "WHAT?!\\nI don't have anything to say to that!",
+      "texto_ptbr": "QUÊ?!\\nEu não tenho nada pra dizer sobre isso!"
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Plans are just plans, aren't they?\\nYou can think of this as a little ad-libbing.",
+      "texto_ptbr": "Planos são só planos, né?\\nVocê pode pensar nisso como uma pequena improvisação."
+    },
+    {
+      "id": 53,
+      "personagem": "Yotsuba",
+      "texto_en": "Ehehe, I guess you're right.\\n...Thank you.",
+      "texto_ptbr": "Ehehe, acho que você tem razão.\\n...Obrigada."
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "All right!\\nThen let's get in there too.\\nIt'd be a waste to just watch, right?",
+      "texto_ptbr": "Certo!\\nEntão vamos entrar também.\\nSeria um desperdício só ficar assistindo, né?"
+    },
+    {
+      "id": 55,
+      "personagem": "Yotsuba",
+      "texto_en": "That's right!\\nIt'd be disrespectful to the ocean\\nnot to swim in it!",
+      "texto_ptbr": "Isso mesmo!\\nSeria uma falta de respeito com o oceano\\nnão nadar nele!"
+    },
+    {
+      "id": 56,
+      "personagem": "Yotsuba",
+      "texto_en": "Alright Uesugi-san, you're on!\\nIt's a race!",
+      "texto_ptbr": "Certo, Uesugi-san, aceito o desafio!\\nÉ uma corrida!"
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "What now?!",
+      "texto_ptbr": "O quê agora?!"
+    },
+    {
+      "id": 58,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahahaha!\\nReady, GO!",
+      "texto_ptbr": "Ahahaha!\\nPreparar, VAI!"
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "arquivo": "ca06_mv2_01",
+  "total": 90,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Ichika",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Hmm? Is that Ichika?",
+      "texto_ptbr": "Hm? Aquela é a Ichika?"
+    },
+    {
+      "id": 2,
+      "personagem": "Ichika",
+      "texto_en": "Oh no?!",
+      "texto_ptbr": "Ai, não?!"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Huh?\\nHey, why are you running away?!",
+      "texto_ptbr": "Hã?\\nEi, por que você está fugindo?!"
+    },
+    {
+      "id": 4,
+      "personagem": "Miku",
+      "texto_en": "Ichika, it's okay.\\nThat was Futaro.",
+      "texto_ptbr": "Ichika, tá tudo bem.\\nEra o Fuutarou."
+    },
+    {
+      "id": 5,
+      "personagem": "Ichika",
+      "texto_en": "Eh? Was it really?",
+      "texto_ptbr": "Hã? Era mesmo?"
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "Look.",
+      "texto_ptbr": "Olha."
+    },
+    {
+      "id": 7,
+      "personagem": "Ichika",
+      "texto_en": "Oh, it IS Futaro-kun.\\nI got startled when you suddenly called out to me.",
+      "texto_ptbr": "Ah, é o Fuutarou-kun mesmo.\\nMe assustei quando você me chamou de repente."
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "I was the one who was surprised.\\nYou suddenly ran away,\\nand I thought something had happened.",
+      "texto_ptbr": "Eu que me assustei.\\nVocê saiu correndo de repente,\\ne achei que tinha acontecido alguma coisa."
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "Sorry, sorry, it was just a little bit of a fuss before.",
+      "texto_ptbr": "Desculpa, desculpa, é que rolou uma pequena confusão antes."
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "What's wrong, did something happen?",
+      "texto_ptbr": "O que houve, aconteceu alguma coisa?"
+    },
+    {
+      "id": 11,
+      "personagem": "Ichika",
+      "texto_en": "Oh, earlier I caused a little commotion.",
+      "texto_ptbr": "Ah, agora há pouco eu causei um pequeno tumulto."
+    },
+    {
+      "id": 12,
+      "personagem": "Miku",
+      "texto_en": "The people around us noticed that she's an actress.",
+      "texto_ptbr": "As pessoas ao redor perceberam que ela é atriz."
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Ahh, I get it.\\nYou're disguising yourself with glasses\\nso that you won't be recognized and approached.",
+      "texto_ptbr": "Ahh, entendi.\\nVocê está se disfarçando com óculos\\npra não ser reconhecida e abordada."
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, that's right.\\nYou recognized me right away though, right?",
+      "texto_ptbr": "É, isso mesmo.\\nMas você me reconheceu na hora, né?"
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "Well, with this much experience,\\nI should be able to.\\nBesides, I've seen you wearing glasses before.",
+      "texto_ptbr": "Bom, com tanta experiência,\\nera de se esperar.\\nAlém disso, já vi você de óculos antes."
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Right, it was around the time\\nyour movie was featured on TV,\\nand you tasted a little fame.",
+      "texto_ptbr": "Isso, foi na época\\nem que seu filme apareceu na TV,\\ne você experimentou um pouco de fama."
+    },
+    {
+      "id": 17,
+      "personagem": "Ichika",
+      "texto_en": "Hmm, so you remember that.",
+      "texto_ptbr": "Hmm, então você lembra disso."
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Why don't you change your hairstyle while you're at it?",
+      "texto_ptbr": "Por que não muda o penteado já que está nisso?"
+    },
+    {
+      "id": 20,
+      "personagem": "Ichika",
+      "texto_en": "Well, no, I can't change my hairstyle to that extent.\\nI don't have a wig with me now.",
+      "texto_ptbr": "Ah, não, não dá pra mudar o penteado tanto assim.\\nNão estou com uma peruca agora."
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "At times like this,\\nI envy you, Miku. You can change your look\\nwith just your hairstyle.",
+      "texto_ptbr": "Em horas assim,\\neu te invejo, Miku. Você consegue mudar o visual\\nsó com o penteado."
+    },
+    {
+      "id": 22,
+      "personagem": "Miku",
+      "texto_en": "Is that so?",
+      "texto_ptbr": "É mesmo?"
+    },
+    {
+      "id": 23,
+      "personagem": "Ichika",
+      "texto_en": "Hm?",
+      "texto_ptbr": "Hm?"
+    },
+    {
+      "id": 24,
+      "personagem": "Miku",
+      "texto_en": "You didn't even react when I changed my hairstyle,\\nFutaro.",
+      "texto_ptbr": "Você nem reagiu quando eu mudei o penteado,\\nFuutarou."
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Huh? When was that?",
+      "texto_ptbr": "Hã? Quando foi isso?"
+    },
+    {
+      "id": 26,
+      "personagem": "Miku",
+      "texto_en": "...You remember Ichika's glasses,\\nbut you don't remember my hair.",
+      "texto_ptbr": "...Você lembra dos óculos da Ichika,\\nmas não lembra do meu cabelo."
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Was it when we stayed at your grandfather's\\nhot spring inn?\\nI think it was Itsuki that you%p-2;――",
+      "texto_ptbr": "Foi quando ficamos na pousada de águas termais\\ndo seu avô?\\nAcho que foi a Itsuki que você%p-2;――"
+    },
+    {
+      "id": 28,
+      "personagem": "Miku",
+      "texto_en": "You're completely wrong.\\nThat was a disguise.",
+      "texto_ptbr": "Você errou completamente.\\nAquilo foi um disfarce."
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Th-that's right!\\nAt the school festival,\\nyou were working behind the scenes, right?",
+      "texto_ptbr": "I-isso mesmo!\\nNo festival da escola,\\nvocê estava trabalhando nos bastidores, né?"
+    },
+    {
+      "id": 30,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "...Wrong again.",
+      "texto_ptbr": "...Errei de novo."
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Actually, I only ever paid attention to your hairstyles \\nwhen I was trying to tell you apart. ",
+      "texto_ptbr": "Na verdade, eu só prestava atenção nos seus penteados \\nquando estava tentando diferenciar vocês. "
+    },
+    {
+      "id": 33,
+      "personagem": "Ichika",
+      "texto_en": "Hey, Futaro-kun? That's actually not a good thing.\\nWhen a girl changes her hairstyle,\\nyou have to praise her, at least.",
+      "texto_ptbr": "Ei, Fuutarou-kun? Isso na verdade não é coisa boa.\\nQuando uma garota muda o penteado,\\nvocê tem que elogiar, no mínimo."
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "...Hm?\\nI feel like I've been told that before.",
+      "texto_ptbr": "...Hm?\\nSinto que já me disseram isso antes."
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "I think that was...",
+      "texto_ptbr": "Acho que foi..."
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Oh, I remember now. It was when I went to the fireworks\\nfestival with you guys. Miku, you changed your hair,\\nand someone else mistook you for Ichika, right?",
+      "texto_ptbr": "Ah, agora lembrei. Foi quando fui ao festival de\\nfogos com vocês. Miku, você mudou o cabelo,\\ne outra pessoa te confundiu com a Ichika, né?"
+    },
+    {
+      "id": 37,
+      "personagem": "Miku",
+      "texto_en": "You finally remembered.",
+      "texto_ptbr": "Finalmente lembrou."
+    },
+    {
+      "id": 38,
+      "personagem": "Ichika",
+      "texto_en": "Miku, that hairstyle on you was really cute, wasn't it?",
+      "texto_ptbr": "Miku, aquele penteado ficou muito fofo em você, não ficou?"
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Things were so chaotic at the time...\\nI can't remember what kind of hairstyle it was...",
+      "texto_ptbr": "Estava tudo tão caótico naquela hora...\\nNão consigo lembrar que penteado era..."
+    },
+    {
+      "id": 40,
+      "personagem": "Miku",
+      "texto_en": "Mmmh...",
+      "texto_ptbr": "Mmmh..."
+    },
+    {
+      "id": 41,
+      "personagem": "Ichika",
+      "texto_en": "Futaro-kun?\\nWere you actually listening to what I was just saying?",
+      "texto_ptbr": "Fuutarou-kun?\\nVocê estava mesmo ouvindo o que eu acabei de dizer?"
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Well, if I don't remember,\\nthere's nothing I can do about it.",
+      "texto_ptbr": "Bom, se eu não lembro,\\nnão tem o que eu possa fazer."
+    },
+    {
+      "id": 43,
+      "personagem": "Ichika",
+      "texto_en": "Then, let's try something.\\nMiku, could you hold still for a moment?",
+      "texto_ptbr": "Então vamos tentar uma coisa.\\nMiku, pode ficar parada um momento?"
+    },
+    {
+      "id": 44,
+      "personagem": "Miku",
+      "texto_en": "Huh? Wha... Ichika?",
+      "texto_ptbr": "Hã? O quê... Ichika?"
+    },
+    {
+      "id": 45,
+      "personagem": "Ichika",
+      "texto_en": "Okay, okay, this should do it.\\nAnd I'll lend you this, too.",
+      "texto_ptbr": "Pronto, pronto, acho que assim está bom.\\nE vou te emprestar isto também."
+    },
+    {
+      "id": 46,
+      "personagem": "Ichika",
+      "texto_en": "Here you go, it's done!\\nI think you've changed your appearance quite a bit.",
+      "texto_ptbr": "Prontinho, terminei!\\nAcho que você mudou bastante a aparência."
+    },
+    {
+      "id": 47,
+      "personagem": "Miku",
+      "texto_en": "I'm not too sure of myself.\\nFutaro, what do you think?",
+      "texto_ptbr": "Não estou muito confiante.\\nFuutarou, o que você acha?"
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "Don't ask me.",
+      "texto_ptbr": "Não me pergunta."
+    },
+    {
+      "id": 49,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "Well, I guess it's different from the usual Miku.",
+      "texto_ptbr": "Bom, acho que é diferente da Miku de sempre."
+    },
+    {
+      "id": 51,
+      "personagem": "Ichika",
+      "texto_en": "What? Is that it?",
+      "texto_ptbr": "O quê? Só isso?"
+    },
+    {
+      "id": 52,
+      "personagem": "Miku",
+      "texto_en": "Well, it is Futaro, so that's how it is.",
+      "texto_ptbr": "Bom, é o Fuutarou, então é assim mesmo."
+    },
+    {
+      "id": 53,
+      "personagem": "Miku",
+      "texto_en": "I was expecting a little more, though.",
+      "texto_ptbr": "Eu esperava um pouco mais, porém."
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "Hmm, it suits you, doesn't it?",
+      "texto_ptbr": "Hmm, combina com você, não combina?"
+    },
+    {
+      "id": 55,
+      "personagem": "Miku",
+      "texto_en": "Why are you asking in a questioning tone...",
+      "texto_ptbr": "Por que você está perguntando em tom de dúvida..."
+    },
+    {
+      "id": 56,
+      "personagem": "Ichika",
+      "texto_en": "Are you trying to compliment her with that?",
+      "texto_ptbr": "Isso foi uma tentativa de elogio?"
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "Well, that was my intention.",
+      "texto_ptbr": "Bom, essa era a intenção."
+    },
+    {
+      "id": 58,
+      "personagem": "Miku",
+      "texto_en": "There could be a better way to put it, I think.",
+      "texto_ptbr": "Acho que dava pra dizer de um jeito melhor."
+    },
+    {
+      "id": 59,
+      "personagem": "Ichika",
+      "texto_en": "Futaro-kun, you might have tried your best,\\nbut that's only worth a measly 50 percent score. ",
+      "texto_ptbr": "Fuutarou-kun, você pode ter se esforçado,\\nmas isso só vale uma nota miserável de 50 por cento. "
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "Harsh...",
+      "texto_ptbr": "Que duro..."
+    },
+    {
+      "id": 61,
+      "personagem": "Miku",
+      "texto_en": "Alright, let's just go back to the way it was.",
+      "texto_ptbr": "Tá bom, vamos voltar ao jeito de antes."
+    },
+    {
+      "id": 62,
+      "personagem": "Ichika",
+      "texto_en": "Well, it's Futaro-kun after all.\\nI guess this is how it is.",
+      "texto_ptbr": "Bom, é o Fuutarou-kun, afinal.\\nAcho que é assim mesmo."
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "It's not like it doesn't suit her, but...\\nI prefer the usual Miku.",
+      "texto_ptbr": "Não é que não combine com ela, mas...\\nEu prefiro a Miku de sempre."
+    },
+    {
+      "id": 64,
+      "personagem": "Miku",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 65,
+      "personagem": "Ichika",
+      "texto_en": "Ohh?\\nFutaro-kun is straightforward with his words, for once.",
+      "texto_ptbr": "Ohh?\\nO Fuutarou-kun está sendo direto com as palavras, pela primeira vez."
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "W-well, I just thought that way.",
+      "texto_ptbr": "B-bom, foi só o que eu pensei."
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "Ah, that's right!\\nIf you change your hairstyle,\\nI've gotta praise it, right?!",
+      "texto_ptbr": "Ah, é verdade!\\nSe você muda o penteado,\\ntenho que elogiar, né?!"
+    },
+    {
+      "id": 68,
+      "personagem": "Miku",
+      "texto_en": "Nah.\\nYou don't have to force yourself to compliment me.",
+      "texto_ptbr": "Nah.\\nNão precisa se forçar a me elogiar."
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "Is that so?",
+      "texto_ptbr": "É mesmo?"
+    },
+    {
+      "id": 70,
+      "personagem": "Miku",
+      "texto_en": "Futaro says that he prefers the usual Miku.\\nThat's enough for me.",
+      "texto_ptbr": "O Fuutarou disse que prefere a Miku de sempre.\\nIsso já basta pra mim."
+    },
+    {
+      "id": 71,
+      "personagem": "Miku",
+      "texto_en": "Let's just go back to the way it was.\\nThank you, Ichika.",
+      "texto_ptbr": "Vamos voltar ao jeito de antes.\\nObrigada, Ichika."
+    },
+    {
+      "id": 72,
+      "personagem": "Miku",
+      "texto_en": "After all, my usual hairstyle is the most comfortable.",
+      "texto_ptbr": "Afinal, meu penteado de sempre é o mais confortável."
+    },
+    {
+      "id": 73,
+      "personagem": "Futaro",
+      "texto_en": "Hey, I guess I feel more at ease\\nseeing the familiar look too.",
+      "texto_ptbr": "Ei, acho que eu também me sinto mais à vontade\\nvendo o visual familiar."
+    },
+    {
+      "id": 74,
+      "personagem": "Ichika",
+      "texto_en": "Futaro-kun is the type who,\\nspeaking positively,\\ndoesn't care much about appearances, huh.",
+      "texto_ptbr": "O Fuutarou-kun é do tipo que,\\nfalando de forma positiva,\\nnão liga muito pra aparência, né."
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "There's no particular reason to care.\\nIf I had to say, I'd just prefer you not to be sloppy.",
+      "texto_ptbr": "Não tem motivo especial pra ligar.\\nSe é pra dizer alguma coisa, só prefiro que vocês não sejam desleixadas."
+    },
+    {
+      "id": 76,
+      "personagem": "Miku",
+      "texto_en": "Is what he says.",
+      "texto_ptbr": "É o que ele diz."
+    },
+    {
+      "id": 77,
+      "personagem": "Ichika",
+      "texto_en": "Huh?\\nI wonder who he could be referring to?",
+      "texto_ptbr": "Hã?\\nQuem será que ele está querendo dizer?"
+    },
+    {
+      "id": 78,
+      "personagem": "Futaro",
+      "texto_en": "That's right. I know someone like that real close by.",
+      "texto_ptbr": "Isso mesmo. Conheço alguém assim bem de perto."
+    },
+    {
+      "id": 79,
+      "personagem": "Ichika",
+      "texto_en": "Wow, you're horrible.",
+      "texto_ptbr": "Nossa, você é horrível."
+    },
+    {
+      "id": 80,
+      "personagem": "Ichika",
+      "texto_en": "But you know, when you fall in love,\\nthose kind of things can become cute to you.",
+      "texto_ptbr": "Mas sabe, quando a gente se apaixona,\\nesse tipo de coisa pode se tornar fofo."
+    },
+    {
+      "id": 81,
+      "personagem": "Futaro",
+      "texto_en": "No, that's not true.",
+      "texto_ptbr": "Não, isso não é verdade."
+    },
+    {
+      "id": 82,
+      "personagem": "Miku",
+      "texto_en": "Can't be.",
+      "texto_ptbr": "Não pode ser."
+    },
+    {
+      "id": 83,
+      "personagem": "Ichika",
+      "texto_en": "Well. It. Is.",
+      "texto_ptbr": "Pois. É. Sim."
+    },
+    {
+      "id": 84,
+      "personagem": "Ichika",
+      "texto_en": "If you don't believe me,\\nshall I make you experience it?",
+      "texto_ptbr": "Se você não acredita em mim,\\nquer que eu te faça experimentar?"
+    },
+    {
+      "id": 85,
+      "personagem": "Futaro",
+      "texto_en": "Wha?!\\nWhat does that mean...",
+      "texto_ptbr": "Quê?!\\nO que isso quer dizer..."
+    },
+    {
+      "id": 86,
+      "personagem": "Miku",
+      "texto_en": "Ichika, you're too close to Futaro.",
+      "texto_ptbr": "Ichika, você está perto demais do Fuutarou."
+    },
+    {
+      "id": 87,
+      "personagem": "Ichika",
+      "texto_en": "If you ever feel like it, just say so, 'kay?",
+      "texto_ptbr": "Se você tiver vontade, é só falar, tá?"
+    },
+    {
+      "id": 88,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 89,
+      "personagem": "Futaro",
+      "texto_en": "(Is she joking or being serious...\\nWhich one is it?)",
+      "texto_ptbr": "(Ela está brincando ou falando sério...\\nQual dos dois é?)"
+    }
+  ]
+}

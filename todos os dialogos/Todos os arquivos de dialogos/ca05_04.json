@@ -1,0 +1,558 @@
+{
+  "arquivo": "ca05_04",
+  "total": 92,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "Wooow! Is this Umikaji Terrace?",
+      "texto_ptbr": "Nooossa! Esse é o Umikaji Terrace?"
+    },
+    {
+      "id": 1,
+      "personagem": "Raiha",
+      "texto_en": "The buildings are all white!",
+      "texto_ptbr": "Os prédios são todos brancos!"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "This atmosphere is similar to Europe,\\nor maybe the Mediterranean coast.",
+      "texto_ptbr": "Esse clima lembra a Europa,\\nou talvez o litoral do Mediterrâneo."
+    },
+    {
+      "id": 3,
+      "personagem": "Miku",
+      "texto_en": "The sea is beautiful too...",
+      "texto_ptbr": "O mar também está lindo..."
+    },
+    {
+      "id": 4,
+      "personagem": "Nino",
+      "texto_en": "This is such a stylish place! How nice!\\nJust being here puts me in a good mood.",
+      "texto_ptbr": "Que lugar estiloso! Que legal!\\nSó de estar aqui já me deixa de bom humor."
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, this resort vibe\\nis definitely getting me excited!",
+      "texto_ptbr": "É, esse clima de resort\\ntá me animando de verdade!"
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "I had no idea there was such a place.",
+      "texto_ptbr": "Eu nem sabia que existia um lugar desses."
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "I think this is a relatively new facility.\\nI found it while planning for this trip.",
+      "texto_ptbr": "Acho que é um espaço relativamente novo.\\nEu achei enquanto planejava essa viagem."
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "It's quite an unconventional tourist spot to visit as our first stop.",
+      "texto_ptbr": "É um ponto turístico bem fora do comum pra primeira parada."
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "Well, I didn't want to disappoint you\\nwith a typical plan that would make you say,\\n'Oh, that's ordinary.'",
+      "texto_ptbr": "Bom, eu não queria te decepcionar\\ncom um roteiro comum que te faria dizer:\\n'Ah, que banal.'"
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "Also, I thought it was a really nice place\\nfrom the moment I saw the photos...\\nI definitely wanted to come here.",
+      "texto_ptbr": "Além disso, eu achei o lugar muito bonito\\ndesde o momento que vi as fotos...\\nEu queria muito vir pra cá."
+    },
+    {
+      "id": 11,
+      "personagem": "Raiha",
+      "texto_en": "What kind of place is this?",
+      "texto_ptbr": "Que tipo de lugar é esse?"
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "There are many kinds of shops here.\\nYou can enjoy leisurely shopping,\\nand there are also Okinawan sweets!",
+      "texto_ptbr": "Tem vários tipos de loja aqui.\\nDá pra fazer compras com calma,\\ne também tem doces de Okinawa!"
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "The scenery is so nice that \\njust walking around looks fun.",
+      "texto_ptbr": "A paisagem é tão bonita que \\nsó de caminhar por aqui já parece divertido."
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "However, let's have brunch first!\\nThis place also has a variety of restaurants.",
+      "texto_ptbr": "Mas antes, vamos fazer um brunch!\\nEsse lugar também tem vários restaurantes."
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "Ah, that's exactly why I had a light breakfast.",
+      "texto_ptbr": "Ah, foi exatamente por isso que eu tomei um café da manhã leve."
+    },
+    {
+      "id": 16,
+      "personagem": "Miku",
+      "texto_en": "I'm okay with that.\\nWhat should we eat?",
+      "texto_ptbr": "Por mim tudo bem.\\nO que a gente come?"
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "Leave the menu to me!\\nI did some research on Okinawan cuisine\\nbefore coming here.",
+      "texto_ptbr": "Deixa o cardápio comigo!\\nEu pesquisei sobre a culinária de Okinawa\\nantes de vir pra cá."
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "I made sure to memorize the restaurants here.",
+      "texto_ptbr": "Eu fiz questão de decorar os restaurantes daqui."
+    },
+    {
+      "id": 19,
+      "personagem": "Miku",
+      "texto_en": "You really value substance over style, huh, Itsuki?",
+      "texto_ptbr": "Você valoriza mesmo o conteúdo mais que a aparência, né, Itsuki?"
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "Ahaha... Not to that degree....",
+      "texto_ptbr": "Ahaha... Não a esse ponto..."
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "I think it's fine, isn't it?\\nEnjoying the local food culture\\nis also one of the highlights of travel, isn't it?",
+      "texto_ptbr": "Eu acho que tá tudo bem, não tá?\\nAproveitar a cultura gastronômica local\\ntambém é um dos pontos altos de uma viagem, não é?"
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "Yeah, you're right!\\nYou can enjoy the food as much as the sights when traveling!",
+      "texto_ptbr": "É, você tem razão!\\nDá pra aproveitar a comida tanto quanto os passeios numa viagem!"
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "...I'm not sure I'd put them both on the same level.",
+      "texto_ptbr": "...Não sei se eu colocaria as duas coisas no mesmo nível."
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "So, first of all!!\\nWhat I want to teach you\\nis about Okinawa's steak culture.",
+      "texto_ptbr": "Então, antes de mais nada!!\\nO que eu quero ensinar pra vocês\\né sobre a cultura do bife em Okinawa."
+    },
+    {
+      "id": 25,
+      "personagem": "Miku",
+      "texto_en": "It suddenly feels like we're in a classroom. ",
+      "texto_ptbr": "De repente parece que a gente tá numa sala de aula. "
+    },
+    {
+      "id": 26,
+      "personagem": "Raiha",
+      "texto_en": "Steak in Okinawa?\\nI can't really imagine that. ",
+      "texto_ptbr": "Bife em Okinawa?\\nNão consigo imaginar muito bem. "
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "Actually, there are many steak restaurants in Okinawa.\\nThey were influenced by American culture, you know.",
+      "texto_ptbr": "Na verdade, tem muita churrascaria em Okinawa.\\nElas foram influenciadas pela cultura americana, sabiam?"
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "Moreover, it seems that Okinawa's steak\\nis a little different from the steak we usually eat%p-2;――",
+      "texto_ptbr": "Além disso, parece que o bife de Okinawa\\né um pouco diferente do bife que a gente come normalmente%p-2;――"
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "Surprisingly, there's a unique Okinawan steak sauce, too!",
+      "texto_ptbr": "Pra surpresa de todos, tem até um molho de bife típico de Okinawa!"
+    },
+    {
+      "id": 30,
+      "personagem": "Ichika",
+      "texto_en": "Oh, I had no idea about that either.",
+      "texto_ptbr": "Ah, eu também não fazia ideia disso."
+    },
+    {
+      "id": 31,
+      "personagem": "Nino",
+      "texto_en": "Wait a minute. I have a bad feeling about this...\\nThe fact that you suddenly started talking about steak must mean%p-2;――",
+      "texto_ptbr": "Peraí. Eu tô com um mau pressentimento...\\nVocê começar a falar de bife do nada só pode significar%p-2;――"
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "Yup, we're going to a steak restaurant!",
+      "texto_ptbr": "Isso, a gente vai numa churrascaria!"
+    },
+    {
+      "id": 33,
+      "personagem": "Nino",
+      "texto_en": "Oh no... I knew it...",
+      "texto_ptbr": "Ah, não... Eu sabia..."
+    },
+    {
+      "id": 34,
+      "personagem": "Miku",
+      "texto_en": "Steak for brunch is a bit heavy...",
+      "texto_ptbr": "Bife no brunch é meio pesado..."
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "And it seems a little too luxurious...",
+      "texto_ptbr": "E parece um pouco luxuoso demais..."
+    },
+    {
+      "id": 36,
+      "personagem": "Miku",
+      "texto_en": "That's what you're worried about?",
+      "texto_ptbr": "É com isso que você tá preocupado?"
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "Putting luxury aside,\\nisn't steak usually eaten for dinner?",
+      "texto_ptbr": "Deixando o luxo de lado,\\nbife não é uma coisa que se come no jantar?"
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "Th-that's not true!\\nBrunch steak is delicious too,\\nI'm sure of it!",
+      "texto_ptbr": "N-não é verdade!\\nBife no brunch é delicioso também,\\neu tenho certeza!"
+    },
+    {
+      "id": 39,
+      "personagem": "Yotsuba",
+      "texto_en": "We're going to be walking around all day today, \\nso I think it's not a bad idea to eat\\na proper meal while we're here.",
+      "texto_ptbr": "A gente vai andar o dia todo hoje, \\nentão eu acho que não é má ideia fazer\\numa refeição decente enquanto estamos aqui."
+    },
+    {
+      "id": 40,
+      "personagem": "Ichika",
+      "texto_en": "We'll definitely use up the calories we consume.",
+      "texto_ptbr": "A gente com certeza vai gastar as calorias que consumir."
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Why is it that you guys don't hesitate when you eat \\nanything sweet but at times like this, \\nyou all start talking about calories?",
+      "texto_ptbr": "Por que é que vocês não hesitam quando comem \\nqualquer coisa doce, mas numa hora dessas \\ntodo mundo começa a falar de caloria?"
+    },
+    {
+      "id": 42,
+      "personagem": "Raiha",
+      "texto_en": "Big brooo! You're not supposed to say things like that!",
+      "texto_ptbr": "Onii-chaaan! Você não pode falar uma coisa dessas!"
+    },
+    {
+      "id": 43,
+      "personagem": "Ichika",
+      "texto_en": "Well, anyway, setting calories aside.\\nI'm okay with steak.",
+      "texto_ptbr": "Bom, enfim, deixando as calorias de lado.\\nPor mim tudo bem comer bife."
+    },
+    {
+      "id": 44,
+      "personagem": "Yotsuba",
+      "texto_en": "I mean, it seems like you're totally gung-ho on steak,\\nItsuki.",
+      "texto_ptbr": "Quer dizer, parece que você tá com tudo\\nnessa de bife, Itsuki."
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "Uuuh...",
+      "texto_ptbr": "Uuuh..."
+    },
+    {
+      "id": 46,
+      "personagem": "Nino",
+      "texto_en": "Fine, fine. Steak it is. ",
+      "texto_ptbr": "Tá bom, tá bom. Bife então. "
+    },
+    {
+      "id": 47,
+      "personagem": "Miku",
+      "texto_en": "I'm leaving all aspects of this plan up to Itsuki,\\nso I won't complain.",
+      "texto_ptbr": "Eu tô deixando todos os aspectos desse roteiro por conta da Itsuki,\\nentão não vou reclamar."
+    },
+    {
+      "id": 48,
+      "personagem": "Itsuki",
+      "texto_en": "Thank you very much!",
+      "texto_ptbr": "Muito obrigada!"
+    },
+    {
+      "id": 49,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, the photos of the menu items\\nlook so delicious!\\nI can't decide which one to choose!",
+      "texto_ptbr": "Ah, as fotos dos pratos do cardápio\\nparecem tão deliciosas!\\nNão consigo decidir qual escolher!"
+    },
+    {
+      "id": 50,
+      "personagem": "Nino",
+      "texto_en": "I'll go with something lighter.",
+      "texto_ptbr": "Eu vou de alguma coisa mais leve."
+    },
+    {
+      "id": 51,
+      "personagem": "Miku",
+      "texto_en": "Me too.",
+      "texto_ptbr": "Eu também."
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "Ehhh, but this is our chance to eat steak, you know?",
+      "texto_ptbr": "Ahn, mas essa é nossa chance de comer bife, sabia?"
+    },
+    {
+      "id": 53,
+      "personagem": "Yotsuba",
+      "texto_en": "I'm going all out!",
+      "texto_ptbr": "Eu vou com tudo!"
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "(Kkh! Authentic steaks are pretty expensive!\\nThey're more than twice the cost of\\nsteaks at family restaurants!)",
+      "texto_ptbr": "(Kh! Bifes de verdade são bem caros!\\nCustam mais que o dobro dos bifes\\nde restaurante de família!)"
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "(Considering the budget for the remaining\\n days of the trip and Raiha's portion...\\n I wonder if we're cutting it close? In the red?)",
+      "texto_ptbr": "(Considerando o orçamento pros dias\\n que faltam da viagem e a parte da Raiha...\\n Será que a gente tá no limite? No vermelho?)"
+    },
+    {
+      "id": 57,
+      "personagem": "Itsuki",
+      "texto_en": "Is something wrong?",
+      "texto_ptbr": "Alguma coisa errada?"
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "Ah, no, it's just that...\\nI was thinking that top quality stuff can add up.",
+      "texto_ptbr": "Ah, não, é só que...\\nEu tava pensando que coisa de primeira qualidade vai somando."
+    },
+    {
+      "id": 59,
+      "personagem": "Itsuki",
+      "texto_en": "...Oh, is that it?",
+      "texto_ptbr": "...Ah, é isso?"
+    },
+    {
+      "id": 60,
+      "personagem": "Itsuki",
+      "texto_en": "Don't worry about that. I'll take care of the payment.",
+      "texto_ptbr": "Não se preocupa com isso. Eu cuido do pagamento."
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "What the%p-2;――",
+      "texto_ptbr": "Mas que%p-2;――"
+    },
+    {
+      "id": 62,
+      "personagem": "Itsuki",
+      "texto_en": "Otherwise, you might end up ordering a\\nsteak set without the steak, Uesugi-kun.",
+      "texto_ptbr": "Senão, você vai acabar pedindo um\\ncombo de bife sem o bife, Uesugi-kun."
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "I wouldn't do that, especially while on vacation!\\nI'll pay for it myself!",
+      "texto_ptbr": "Eu não faria isso, ainda mais nas férias!\\nEu pago a minha parte!"
+    },
+    {
+      "id": 64,
+      "personagem": "Ichika",
+      "texto_en": "Naturally, it's a little embarrassing for a boy \\nto ask his girlfriend to pay for him, right?",
+      "texto_ptbr": "Naturalmente, é meio vergonhoso pra um garoto \\npedir pra namorada pagar pra ele, né?"
+    },
+    {
+      "id": 65,
+      "personagem": "Itsuki",
+      "texto_en": "...Wha%p-2;――%p;!",
+      "texto_ptbr": "...Quê%p-2;――%p;!"
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "It's not embarrassing or anything, it's just%p-2;――",
+      "texto_ptbr": "Não é vergonhoso nem nada, é só que%p-2;――"
+    },
+    {
+      "id": 67,
+      "personagem": "Itsuki",
+      "texto_en": "That's right, Uesugi-kun!\\nPlease, treat me this time!",
+      "texto_ptbr": "Isso mesmo, Uesugi-kun!\\nPor favor, me paga uma refeição dessa vez!"
+    },
+    {
+      "id": 68,
+      "personagem": "Ichika",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "WHAAA?!\\nWh-why do I have to do that?!",
+      "texto_ptbr": "QUÊÊÊ?!\\nP-por que eu tenho que fazer isso?!"
+    },
+    {
+      "id": 70,
+      "personagem": "Itsuki",
+      "texto_en": "Well, I mean...",
+      "texto_ptbr": "Bom, quer dizer..."
+    },
+    {
+      "id": 71,
+      "personagem": "Itsuki",
+      "texto_en": "N-no reason! Just because!",
+      "texto_ptbr": "P-por nada! Só porque sim!"
+    },
+    {
+      "id": 72,
+      "personagem": "Ichika",
+      "texto_en": "W-woah, Itsuki-chan?",
+      "texto_ptbr": "U-uou, Itsuki-chan?"
+    },
+    {
+      "id": 73,
+      "personagem": "Futaro",
+      "texto_en": "I mean, well, I'm sorry, but that's just not possible.\\nI'll be paying for myself and Raiha's portion, too.",
+      "texto_ptbr": "Quer dizer, bom, me desculpa, mas isso não dá.\\nEu vou pagar a minha parte e a da Raiha também."
+    },
+    {
+      "id": 74,
+      "personagem": "Itsuki",
+      "texto_en": "I-if you're not treating me, then at least let me treat you!\\nIt should be fine if I pay, right?!",
+      "texto_ptbr": "S-se você não vai me pagar uma refeição, então pelo menos deixa eu te pagar!\\nTá tudo bem se eu pagar, não tá?!"
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "What are you talking about?\\nEach of us can just pay for our own meal\\nlike normal people.",
+      "texto_ptbr": "Do que você tá falando?\\nCada um pode pagar a própria refeição\\ncomo gente normal."
+    },
+    {
+      "id": 76,
+      "personagem": "Itsuki",
+      "texto_en": "But if we do that, then, um...",
+      "texto_ptbr": "Mas se a gente fizer isso, aí, hum..."
+    },
+    {
+      "id": 77,
+      "personagem": "Itsuki",
+      "texto_en": "I-it's decided!\\nWe're going as a pair, Uesugi-kun!\\nEither I pay, or you pay!",
+      "texto_ptbr": "T-tá decidido!\\nA gente vai como um casal, Uesugi-kun!\\nOu eu pago, ou você paga!"
+    },
+    {
+      "id": 78,
+      "personagem": "Futaro",
+      "texto_en": "What exactly is your end game here?!",
+      "texto_ptbr": "Qual é exatamente o seu objetivo aqui?!"
+    },
+    {
+      "id": 79,
+      "personagem": "Futaro",
+      "texto_en": "Haah... Haah...\\nAlright, so each person\\ncan pay for their own portion, okay?",
+      "texto_ptbr": "Aah... Aah...\\nTá bom, então cada pessoa\\npaga a própria parte, certo?"
+    },
+    {
+      "id": 80,
+      "personagem": "Itsuki",
+      "texto_en": "Understood, so then...",
+      "texto_ptbr": "Entendido, então..."
+    },
+    {
+      "id": 81,
+      "personagem": "Nino",
+      "texto_en": "Is everything settled now?",
+      "texto_ptbr": "Já está tudo resolvido?"
+    },
+    {
+      "id": 82,
+      "personagem": "Itsuki",
+      "texto_en": "Yes...\\nSorry for making such a fuss.",
+      "texto_ptbr": "Sim...\\nDesculpem por fazer tanto alvoroço."
+    },
+    {
+      "id": 83,
+      "personagem": "Futaro",
+      "texto_en": "No, it's my bad.\\nIf I could've treated you,\\nthere wouldn't have been a problem.",
+      "texto_ptbr": "Não, a culpa é minha.\\nSe eu pudesse ter te pagado a refeição,\\nnão teria dado problema nenhum."
+    },
+    {
+      "id": 84,
+      "personagem": "Itsuki",
+      "texto_en": "B-but, I'm the one who asked\\nwithout considering your circumstances!\\nYou don't have to apologize%p-2;――",
+      "texto_ptbr": "M-mas fui eu que pedi\\nsem considerar a sua situação!\\nVocê não precisa se desculpar%p-2;――"
+    },
+    {
+      "id": 85,
+      "personagem": "Miku",
+      "texto_en": "Stop, before you get into another loop.",
+      "texto_ptbr": "Para, antes que vocês entrem em outro loop."
+    },
+    {
+      "id": 86,
+      "personagem": "Itsuki",
+      "texto_en": "Ah... Sorry...",
+      "texto_ptbr": "Ah... Desculpa..."
+    },
+    {
+      "id": 87,
+      "personagem": "Ichika",
+      "texto_en": "I'm sorry too.\\nI mispoke earlier.",
+      "texto_ptbr": "Eu também peço desculpas.\\nEu falei besteira agora há pouco."
+    },
+    {
+      "id": 88,
+      "personagem": "Itsuki",
+      "texto_en": "No, it's my fault...",
+      "texto_ptbr": "Não, a culpa é minha..."
+    },
+    {
+      "id": 89,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, anyway, let's just go inside\\nand eat at the restaurant.\\nIt smells really good, and I'm getting hungry!",
+      "texto_ptbr": "Bom, enfim, vamos logo entrar\\ne comer no restaurante.\\nO cheiro tá muito bom, e eu tô ficando com fome!"
+    },
+    {
+      "id": 90,
+      "personagem": "Itsuki",
+      "texto_en": "Okay...",
+      "texto_ptbr": "Tá bom..."
+    },
+    {
+      "id": 91,
+      "personagem": "Futaro",
+      "texto_en": "(*sigh*\\n Why did Itsuki have to bring all that up anyway?)",
+      "texto_ptbr": "(*suspiro*\\n Por que será que a Itsuki foi levantar tudo isso?)"
+    }
+  ]
+}

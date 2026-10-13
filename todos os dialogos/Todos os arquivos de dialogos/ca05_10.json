@@ -1,0 +1,372 @@
+{
+  "arquivo": "ca05_10",
+  "total": 61,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Miku",
+      "texto_en": "I'm full...\\nMaybe I ate too much.",
+      "texto_ptbr": "Estou cheia...\\nAcho que comi demais."
+    },
+    {
+      "id": 1,
+      "personagem": "Yotsuba",
+      "texto_en": "That was delicious though.",
+      "texto_ptbr": "Mas estava delicioso."
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, I'm satisfied\\nbecause I was able to eat a lot of Okinawan food today.",
+      "texto_ptbr": "É, estou satisfeito\\nporque consegui comer bastante comida okinawana hoje."
+    },
+    {
+      "id": 3,
+      "personagem": "Nino",
+      "texto_en": "I wonder if you're satisfied too, Itsuki?\\nYou were really looking forward to this trip.",
+      "texto_ptbr": "Será que você também ficou satisfeita, Itsuki?\\nVocê estava mesmo ansiosa por essa viagem."
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, yeah, you're right.",
+      "texto_ptbr": "Ah, é, você tem razão."
+    },
+    {
+      "id": 5,
+      "personagem": "Yotsuba",
+      "texto_en": "So, what should we do now?\\nIt's too early to go back to our rooms and sleep.",
+      "texto_ptbr": "Então, o que a gente faz agora?\\nÉ cedo demais pra voltar pro quarto e dormir."
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "But it's not really a good time\\nfor sightseeing either.",
+      "texto_ptbr": "Mas também não é um bom horário\\npara fazer turismo."
+    },
+    {
+      "id": 7,
+      "personagem": "Ichika",
+      "texto_en": "Well, how about going to the lounge?\\nI've been looking forward to seeing the night view\\nfrom that room since we arrived.",
+      "texto_ptbr": "Bom, que tal irmos ao lounge?\\nEstou ansiosa pra ver a vista noturna\\ndaquele salão desde que a gente chegou."
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "That's a good idea, I agree.",
+      "texto_ptbr": "É uma boa ideia, concordo."
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "Um, I'll pass.\\nI'm a little tired,\\nso I'm gonna head back to my room.",
+      "texto_ptbr": "Hum, eu vou passar dessa.\\nEstou um pouco cansada,\\nentão vou voltar pro meu quarto."
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 11,
+      "personagem": "Yotsuba",
+      "texto_en": "Are you okay? Are you feeling unwell?",
+      "texto_ptbr": "Você está bem? Está se sentindo mal?"
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "No, I just got a little too excited.\\nTraveling can be overwhelming\\nwhen you're too excited, you know.",
+      "texto_ptbr": "Não, eu só fiquei um pouco animada demais.\\nViajar pode ser cansativo\\nquando a gente fica muito animado, sabe."
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Then, let me escort you to your room.",
+      "texto_ptbr": "Então, deixa eu te acompanhar até seu quarto."
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "No, it's okay.\\nReally, I'm just tired.",
+      "texto_ptbr": "Não, tá tudo bem.\\nSério, estou só cansada."
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "But%p-2;――",
+      "texto_ptbr": "Mas%p-2;――"
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "Please enjoy the night view, everyone.\\nGood night.",
+      "texto_ptbr": "Aproveitem a vista noturna, pessoal.\\nBoa noite."
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "She left.",
+      "texto_ptbr": "Ela foi embora."
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "Hmmm.\\nShe was saying all that, but I'll go check on her.",
+      "texto_ptbr": "Hmmm.\\nEla falou tudo isso, mas vou dar uma olhada nela."
+    },
+    {
+      "id": 20,
+      "personagem": "Raiha",
+      "texto_en": "Can I come with you? I'm worried about Itsuki-san.",
+      "texto_ptbr": "Posso ir com você? Estou preocupada com a Itsuki-san."
+    },
+    {
+      "id": 21,
+      "personagem": "Yotsuba",
+      "texto_en": "Thank you, Raiha-chan.",
+      "texto_ptbr": "Obrigada, Raiha-chan."
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "(It really didn't seem like she was unwell,\\n but I don't know...)",
+      "texto_ptbr": "(Realmente não parecia que ela estava mal,\\n mas eu não sei...)"
+    },
+    {
+      "id": 23,
+      "personagem": "Miku",
+      "texto_en": "Itsuki, was she really just tired?",
+      "texto_ptbr": "A Itsuki, será que ela estava mesmo só cansada?"
+    },
+    {
+      "id": 24,
+      "personagem": "Nino",
+      "texto_en": "She didn't seem like it.",
+      "texto_ptbr": "Não parecia."
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "Maybe she just wanted to be alone?",
+      "texto_ptbr": "Talvez ela só quisesse ficar sozinha?"
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "There was a certain atmosphere around her\\nthat seemed to push people away.",
+      "texto_ptbr": "Tinha um certo clima ao redor dela\\nque parecia afastar as pessoas."
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "Hey, Fu-kun.\\nWhat did you think of Itsuki today?",
+      "texto_ptbr": "Ei, Fu-kun.\\nO que você achou da Itsuki hoje?"
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "...The same as you guys.\\nShe seemed oddly high-strung,\\nand when it came to me...",
+      "texto_ptbr": "...O mesmo que vocês.\\nEla parecia estranhamente tensa,\\ne quando se tratava de mim..."
+    },
+    {
+      "id": 29,
+      "personagem": "Miku",
+      "texto_en": "Really enthusiastic?",
+      "texto_ptbr": "Bem animada?"
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "...Yeah, you could say that.",
+      "texto_ptbr": "...É, pode se dizer que sim."
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Not that I don't like it or anything.\\nI just feel like it's not very Itsuki-like.",
+      "texto_ptbr": "Não que eu não goste ou nada assim.\\nEu só sinto que não é muito a cara da Itsuki."
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "Yeah, I know what you mean.\\nNormally, Itsuki-chan wouldn't\\nbe all over Fu-kun in public like this.",
+      "texto_ptbr": "É, eu sei bem o que você quer dizer.\\nNormalmente, a Itsuki-chan não ficaria\\ntoda grudada no Fu-kun em público desse jeito."
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "All over me? I mean, we were close, but...",
+      "texto_ptbr": "Grudada em mim? Quer dizer, a gente estava próximo, mas..."
+    },
+    {
+      "id": 34,
+      "personagem": "Ichika",
+      "texto_en": "Well, Itsuki-chan is a girl in love, right?\\nMaybe she's just excited to be on a trip\\nwith the person she likes.",
+      "texto_ptbr": "Bom, a Itsuki-chan é uma garota apaixonada, né?\\nTalvez ela só esteja animada de estar numa viagem\\ncom a pessoa que ela gosta."
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "C-could that be it?",
+      "texto_ptbr": "S-será que é isso?"
+    },
+    {
+      "id": 36,
+      "personagem": "Miku",
+      "texto_en": "I don't think it's impossible.",
+      "texto_ptbr": "Não acho que seja impossível."
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "Perhaps because she's usually so serious,\\nshe ends up letting loose in different ways.",
+      "texto_ptbr": "Talvez por ela ser tão séria normalmente,\\nela acabe relaxando de formas diferentes."
+    },
+    {
+      "id": 38,
+      "personagem": "Miku",
+      "texto_en": "Itsuki is not immune to falling in love\\nin the first place.\\nShe might have just lost control of herself.",
+      "texto_ptbr": "A Itsuki não é imune a se apaixonar,\\npra começar.\\nEla pode só ter perdido o controle."
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "...That's a convincing argument.",
+      "texto_ptbr": "...Esse é um argumento convincente."
+    },
+    {
+      "id": 40,
+      "personagem": "Ichika",
+      "texto_en": "It's not just Itsuki-chan who's inexperienced\\nand doesn't have immunity to love, you know.",
+      "texto_ptbr": "Não é só a Itsuki-chan que é inexperiente\\ne não tem imunidade ao amor, sabe."
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Ooh...",
+      "texto_ptbr": "Ooh..."
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "(I don't have a response.\\n I don't understand things like being romantic\\n or having a sense of distance either.)",
+      "texto_ptbr": "(Eu não tenho uma resposta.\\n Eu também não entendo muito bem coisas como ser romântico\\n ou ter noção de distância.)"
+    },
+    {
+      "id": 43,
+      "personagem": "Ichika",
+      "texto_en": "Well, I guess I'll have to be the big sister\\nand help out my little sister,\\nwho's getting a little carried away.",
+      "texto_ptbr": "Bom, acho que vou ter que ser a irmã mais velha\\ne ajudar minha irmãzinha,\\nque está se empolgando um pouco."
+    },
+    {
+      "id": 44,
+      "personagem": "Nino",
+      "texto_en": "Oh jeez.\\nShe's truly such a handful.",
+      "texto_ptbr": "Ai, meu Deus.\\nEla realmente dá muito trabalho."
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "I feel like I should say sorry or something...",
+      "texto_ptbr": "Sinto que deveria pedir desculpa ou algo assim..."
+    },
+    {
+      "id": 46,
+      "personagem": "Nino",
+      "texto_en": "Stop apologizing and reflect on your actions.",
+      "texto_ptbr": "Para de pedir desculpa e reflita sobre suas ações."
+    },
+    {
+      "id": 47,
+      "personagem": "Nino",
+      "texto_en": "You've been dating Itsuki for almost six months now,\\nright? During that time, you haven't really done\\nanything romantic with her, have you?",
+      "texto_ptbr": "Você está namorando a Itsuki há quase seis meses,\\nnão é? Durante esse tempo, você não fez\\nnada muito romântico com ela, fez?"
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "...Yeah. ",
+      "texto_ptbr": "...É. "
+    },
+    {
+      "id": 49,
+      "personagem": "Nino",
+      "texto_en": "I understand that there were exams and everything,\\nbut you have to take the lead with that girl, Fu-kun.",
+      "texto_ptbr": "Eu entendo que teve prova e tudo mais,\\nmas você precisa tomar a iniciativa com essa garota, Fu-kun."
+    },
+    {
+      "id": 50,
+      "personagem": "Nino",
+      "texto_en": "Alright? This is just a one-time thing.\\nAfter this, what happens between you two isn't my problem.",
+      "texto_ptbr": "Tá bom? Isso é só dessa vez.\\nDepois disso, o que acontecer entre vocês dois não é problema meu."
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "I understand. Thank you, Nino.",
+      "texto_ptbr": "Entendi. Obrigado, Nino."
+    },
+    {
+      "id": 52,
+      "personagem": "Nino",
+      "texto_en": "Really, no need to thank me.",
+      "texto_ptbr": "Sério, não precisa me agradecer."
+    },
+    {
+      "id": 53,
+      "personagem": "Miku",
+      "texto_en": "I'm just gonna say this,\\nbut it's just cause Nino's worried about you two.",
+      "texto_ptbr": "Só vou dizer isso,\\nmas é porque a Nino está preocupada com vocês dois."
+    },
+    {
+      "id": 54,
+      "personagem": "Nino",
+      "texto_en": "WHA! Miku!!",
+      "texto_ptbr": "QUÊ! Miku!!"
+    },
+    {
+      "id": 55,
+      "personagem": "Nino",
+      "texto_en": "Oh, come on! This conversation is over!\\nLet's go to the lounge already!",
+      "texto_ptbr": "Ah, qual é! Essa conversa acabou!\\nVamos logo pro lounge!"
+    },
+    {
+      "id": 56,
+      "personagem": "Miku",
+      "texto_en": "There's no need to be embarrassed.",
+      "texto_ptbr": "Não precisa ficar com vergonha."
+    },
+    {
+      "id": 57,
+      "personagem": "Ichika",
+      "texto_en": "That's what makes her so cute.",
+      "texto_ptbr": "É isso que a deixa tão fofa."
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "(It's at times like these that I realize...\\n it's all thanks to these guys\\n that we're where we are now%p-2;――%p;)",
+      "texto_ptbr": "(É em momentos assim que eu percebo...\\n é graças a essas garotas\\n que a gente chegou até aqui%p-2;――%p;)"
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "(Itsuki and I are really happy, aren't we.)",
+      "texto_ptbr": "(Eu e a Itsuki estamos realmente felizes, não é.)"
+    }
+  ]
+}

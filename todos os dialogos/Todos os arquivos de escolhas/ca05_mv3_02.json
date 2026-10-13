@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca05_mv3_02",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "上杉君も一緒にどうですか？",
+      "texto_en": "How about you, Uesugi-kun? Do you want to join me?",
+      "texto_ptbr": "E você, Uesugi-kun? Quer vir comigo?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "俺はいい",
+      "texto_en": "I'm good.",
+      "texto_ptbr": "Eu passo.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ちょっとだけな",
+      "texto_en": "Maybe a little. ",
+      "texto_ptbr": "Um pouquinho.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "楽しまないともったいないよな",
+      "texto_en": "It would be a shame to not enjoy it. ",
+      "texto_ptbr": "Seria um desperdício não aproveitar.",
+      "selidx": 2
+    }
+  ]
+}

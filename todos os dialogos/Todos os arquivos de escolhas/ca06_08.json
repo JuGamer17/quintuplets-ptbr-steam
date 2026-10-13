@@ -1,0 +1,55 @@
+{
+  "arquivo": "ca06_08",
+  "total": 5,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*map",
+      "texto_jp": "dummy",
+      "texto_en": "{UNTRANSLATED}dummy",
+      "texto_ptbr": "",
+      "selidx": 0
+    },
+    {
+      "id": 1,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "別に、なんでもありません。",
+      "texto_en": "No, it's nothing.",
+      "texto_ptbr": "Não, não é nada."
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "わかったぞ、腹が減ったんだろ？",
+      "texto_en": "I know what it is. You're hungry, aren't you?",
+      "texto_ptbr": "Já sei, você tá com fome, né?",
+      "selidx": 0
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "なんか、悪かったな",
+      "texto_en": "My bad, I guess.",
+      "texto_ptbr": "Ah, foi mal.",
+      "selidx": 1
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "なんでもなくはないよな",
+      "texto_en": "Doesn't seem like it's nothing.",
+      "texto_ptbr": "Não parece que não é nada.",
+      "selidx": 2
+    }
+  ]
+}

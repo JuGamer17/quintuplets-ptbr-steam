@@ -1,0 +1,474 @@
+{
+  "arquivo": "ca01_mv2_01",
+  "total": 78,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Hey, did you find anything?",
+      "texto_ptbr": "Ei, encontraram alguma coisa?"
+    },
+    {
+      "id": 1,
+      "personagem": "Miku",
+      "texto_en": "Ah, Futaro.",
+      "texto_ptbr": "Ah, Futaro."
+    },
+    {
+      "id": 2,
+      "personagem": "Ichika",
+      "texto_en": "It doesn't seem like we're going to decide on anything\\nanytime soon. There are so many good things\\nthat makes it so much harder to choose from.",
+      "texto_ptbr": "Não parece que vamos decidir nada\\ntão cedo. Tem tantas coisas boas\\nque fica muito mais difícil de escolher."
+    },
+    {
+      "id": 3,
+      "personagem": "Ichika",
+      "texto_en": "It seems like this shop promotes weaving.\\nLook, it's beautiful, don't you think?",
+      "texto_ptbr": "Parece que essa loja foca em tecelagem.\\nOlha, é lindo, né?"
+    },
+    {
+      "id": 4,
+      "personagem": "Ichika",
+      "texto_en": "I heard it's called 'bingata' dyeing.",
+      "texto_ptbr": "Ouvi que se chama tingimento 'bingata'."
+    },
+    {
+      "id": 5,
+      "personagem": "Ichika",
+      "texto_en": "It's a dyeing method called 'bingata.'\\nThe colors are so vivid, aren't they?",
+      "texto_ptbr": "É uma técnica de tingimento chamada 'bingata'.\\nAs cores são tão vivas, né?"
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Wow, they sell small items made of woven fabric.",
+      "texto_ptbr": "Nossa, eles vendem itens pequenos feitos de tecido trançado."
+    },
+    {
+      "id": 7,
+      "personagem": "Miku",
+      "texto_en": "Oh, this is cute.",
+      "texto_ptbr": "Ah, esse é fofo."
+    },
+    {
+      "id": 8,
+      "personagem": "Ichika",
+      "texto_en": "A woven smartphone case?\\nWow, that's nice.",
+      "texto_ptbr": "Uma capinha de celular trançada?\\nNossa, que bacana."
+    },
+    {
+      "id": 9,
+      "personagem": "Miku",
+      "texto_en": "They also have a matching patterned pass case.",
+      "texto_ptbr": "Também tem uma carteirinha com o mesmo padrão."
+    },
+    {
+      "id": 10,
+      "personagem": "Ichika",
+      "texto_en": "Oh, they even have a shoulder bag!\\nWow, I really want to get them all.",
+      "texto_ptbr": "Ah, até bolsa tiracolo tem!\\nNossa, eu quero comprar tudo."
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "You've fallen into the store's trap, haven't you?",
+      "texto_ptbr": "Você caiu na armadilha da loja, né?"
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "Now, don't say it like that.",
+      "texto_ptbr": "Ei, não fala assim."
+    },
+    {
+      "id": 13,
+      "personagem": "Miku",
+      "texto_en": "Futaro, you have a twisted way of thinking.",
+      "texto_ptbr": "Futaro, você pensa de um jeito torto."
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Whatever.",
+      "texto_ptbr": "Tanto faz."
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "Just looking at these cute things makes me happy.",
+      "texto_ptbr": "Só de olhar pra essas coisas fofas já fico feliz."
+    },
+    {
+      "id": 16,
+      "personagem": "Miku",
+      "texto_en": "Yeah, I just can't get enough of them.",
+      "texto_ptbr": "É, nunca canso de ver."
+    },
+    {
+      "id": 17,
+      "personagem": "Ichika",
+      "texto_en": "They might make for good souvenirs.\\nMatching pouches or something would be nice.",
+      "texto_ptbr": "Podem ser umas ótimas lembranças.\\nPouchinhos combinando ou algo assim seria legal."
+    },
+    {
+      "id": 18,
+      "personagem": "Ichika",
+      "texto_en": "We could get the same pattern but in different colors,\\nor get different patterns but in the same color\\nto create more matching options.",
+      "texto_ptbr": "A gente poderia pegar o mesmo padrão em cores diferentes,\\nou padrões diferentes na mesma cor\\npra criar mais opções de combinação."
+    },
+    {
+      "id": 19,
+      "personagem": "Miku",
+      "texto_en": "But a pouch might not suit Futaro.\\nThese pouches are too cute.",
+      "texto_ptbr": "Mas um poucinho pode não combinar com o Futaro.\\nEsses pouchinhos são fofos demais."
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "...I have to agree myself.\\nAnd I can't think of a use for it.\\nWhat do you guys put in these things?",
+      "texto_ptbr": "...Tenho que concordar.\\nE nem consigo pensar em pra que usar.\\nO que vocês guardam nessas coisas?"
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "What, you ask? Various things.\\nLike makeup tools.",
+      "texto_ptbr": "O que, pergunta você? Várias coisas.\\nComo utensílios de maquiagem."
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "...I realize\\nthat this isn't something I'm familiar with.",
+      "texto_ptbr": "...Percebi\\nque isso não é algo com que tenho familiaridade."
+    },
+    {
+      "id": 23,
+      "personagem": "Ichika",
+      "texto_en": "Well, for you, Futaro-kun...\\nhow about a pen case?\\nIt's a bit big, but it might work.",
+      "texto_ptbr": "Bem, pra você, Futaro-kun...\\nque tal um estojo?\\nÉ um pouco grande, mas pode funcionar."
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "I wouldn't like a cute pen case like this, don't you think?",
+      "texto_ptbr": "Eu não gostaria de um estojo fofo assim, né?"
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "Well, at first glance, it might not suit you,\\nbut you might get used to it and start liking it%p-2;――",
+      "texto_ptbr": "Bem, à primeira vista pode não combinar com você,\\nmas talvez você se acostume e comece a gostar%p-2;――"
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "Sorry, it still seems unlikely.\\nAn enjoyable souvenir might be better for you.",
+      "texto_ptbr": "Desculpa, ainda parece improvável.\\nUma lembrança mais divertida pode ser melhor pra você."
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Hey, what do you mean by 'enjoyable'?",
+      "texto_ptbr": "Ei, o que você quer dizer com 'divertida'?"
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "Ah, look at this.\\nThis woven barrette would look great on you, Miku.",
+      "texto_ptbr": "Ah, olha isso.\\nEsse presilha trançado ficaria ótimo em você, Miku."
+    },
+    {
+      "id": 29,
+      "personagem": "Miku",
+      "texto_en": "Really? I don't know about that.",
+      "texto_ptbr": "Sério? Não sei não."
+    },
+    {
+      "id": 30,
+      "personagem": "Ichika",
+      "texto_en": "Well, it's definitely not suitable for Futaro-kun,\\nso it's not a good souvenir.",
+      "texto_ptbr": "Bem, definitivamente não combina com o Futaro-kun,\\nentão não é uma boa lembrança."
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "That's even more unlikely to suit me than the pouch.",
+      "texto_ptbr": "Isso ainda é mais improvável de combinar comigo do que o poucinho."
+    },
+    {
+      "id": 32,
+      "personagem": "Miku",
+      "texto_en": "If I saw him wearing it, I would definitely laugh.",
+      "texto_ptbr": "Se eu visse ele usando, com certeza ia cair na gargalhada."
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "(...A barrette, huh? I can see how it would\\n look good on Miku, but with this color%p-2;――%p;)",
+      "texto_ptbr": "(...Uma presilha, né? Dá pra ver como ficaria\\n bem na Miku, mas com essa cor%p-2;――%p;)"
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "If it was this color,\\nit might also suit you, Ichika, right?",
+      "texto_ptbr": "Se fosse essa cor,\\ntambém poderia combinar com você, Ichika, né?"
+    },
+    {
+      "id": 35,
+      "personagem": "Ichika",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Just like this%p-2;――",
+      "texto_ptbr": "Assim ó%p-2;――"
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "See, I thought so. It suits you too, Ichika.\\nMy sense of fashion isn't so bad after all.",
+      "texto_ptbr": "Tá vendo, eu sabia. Fica bem em você também, Ichika.\\nMeu senso de moda não é tão ruim assim."
+    },
+    {
+      "id": 38,
+      "personagem": "Ichika",
+      "texto_en": "U-ummm... Th-thank you?\\nBut, well, it's just that...",
+      "texto_ptbr": "É-é... O-obrigada?\\nMas, bem, é que..."
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "What is it?",
+      "texto_ptbr": "O que foi?"
+    },
+    {
+      "id": 40,
+      "personagem": "Ichika",
+      "texto_en": "It feels like I'm being pat on the head,\\nand it's a little embarrassing.",
+      "texto_ptbr": "Parece que estou sendo elogiada como uma criança,\\ne é um pouco constrangedor."
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "...!",
+      "texto_ptbr": "...!"
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Hey, my bad...\\nI didn't mean to do that.",
+      "texto_ptbr": "Ei, desculpa...\\nNão era minha intenção."
+    },
+    {
+      "id": 43,
+      "personagem": "Ichika",
+      "texto_en": "Ahahaha,\\nyou don't have to apologize.\\nI was just a little surprised.",
+      "texto_ptbr": "Ahahaha,\\nnão precisa pedir desculpa.\\nFui só pega de surpresa."
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "O-okay.",
+      "texto_ptbr": "T-tá bom."
+    },
+    {
+      "id": 45,
+      "personagem": "Miku",
+      "texto_en": "Ahem.",
+      "texto_ptbr": "Hm-hm."
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "...Ah.",
+      "texto_ptbr": "...Ah."
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "You know, this kind of thing is refreshing.\\nTo stroke your head like this%p-2;――",
+      "texto_ptbr": "Sabe, esse tipo de coisa é reconfortante.\\nPassar a mão na sua cabeça assim%p-2;――"
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "No, I've done this before.\\nWhen I stayed over at your house to study.",
+      "texto_ptbr": "Não, eu já fiz isso antes.\\nQuando fui na casa de vocês estudar."
+    },
+    {
+      "id": 49,
+      "personagem": "Ichika",
+      "texto_en": "Ah, yeah! That's right!\\nIt was hot for autumn that day, wasn't it?",
+      "texto_ptbr": "Ah, é! É verdade!\\nEstava quente pra um dia de outono, né?"
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "No, it was cold, you know?",
+      "texto_ptbr": "Não, estava frio, sabia?"
+    },
+    {
+      "id": 51,
+      "personagem": "Ichika",
+      "texto_en": "W-was it now?",
+      "texto_ptbr": "E-estava?"
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Ah, but you seemed to dislike it back then.\\nSorry, if you don't like being pet%p-2;――",
+      "texto_ptbr": "Ah, mas você pareceu não gostar na época.\\nDesculpa, se você não gosta de ter a cabeça acariciada%p-2;――"
+    },
+    {
+      "id": 53,
+      "personagem": "Ichika",
+      "texto_en": "N-no! It's not like that!\\nI'm just not used to it\\nsince I'm the older sister...",
+      "texto_ptbr": "N-não! Não é assim!\\nÉ que não estou acostumada\\npor ser a irmã mais velha..."
+    },
+    {
+      "id": 54,
+      "personagem": "Ichika",
+      "texto_en": "If it's you, I don't mind being treated like this.",
+      "texto_ptbr": "Se for você, não me importo de ser tratada assim."
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "I see, well then, that's good.",
+      "texto_ptbr": "Entendo, bom então."
+    },
+    {
+      "id": 56,
+      "personagem": "Miku",
+      "texto_en": "Ahem.",
+      "texto_ptbr": "Hm-hm."
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "...Ah.",
+      "texto_ptbr": "...Ah."
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "You're short, aren't ya?",
+      "texto_ptbr": "Você é baixinha, né?"
+    },
+    {
+      "id": 59,
+      "personagem": "Ichika",
+      "texto_en": "Huh? What's gotten into you all of a sudden?\\nWell, compared to you, I'm shorter, yeah.",
+      "texto_ptbr": "Hã? O que deu em você de repente?\\nBem, comparado a você, sou mais baixinha, é."
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "I see, but...\\nyou usually feel taller, or something...",
+      "texto_ptbr": "Entendo, mas...\\nnormalmente parece que você é mais alta, sei lá..."
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "(Why am I suddenly thinking about this?)",
+      "texto_ptbr": "(Por que estou pensando nisso do nada?)"
+    },
+    {
+      "id": 62,
+      "personagem": "Ichika",
+      "texto_en": "Ah, it's a little embarrassing\\nto have you stare at me like that...",
+      "texto_ptbr": "Ah, é um pouco constrangedor\\nvocê me olhar assim..."
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "Ah, I see!",
+      "texto_ptbr": "Ah, entendi!"
+    },
+    {
+      "id": 64,
+      "personagem": "Ichika",
+      "texto_en": "Wah! What's going on now?",
+      "texto_ptbr": "Nossa! O que foi agora?"
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "(Ichika is always one step ahead of us.\\n Maybe that's why she seems taller.)",
+      "texto_ptbr": "(A Ichika está sempre um passo à frente da gente.\\n Talvez seja por isso que ela parece mais alta.)"
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "Nothing, really.\\nIt's just something I have on my mind.",
+      "texto_ptbr": "Não é nada, não.\\nÉ só algo que estava pensando."
+    },
+    {
+      "id": 67,
+      "personagem": "Ichika",
+      "texto_en": "Don't get ahead of yourself...\\nAs an older sister,\\nit's hard for me to react to these things.",
+      "texto_ptbr": "Não vai com tanta sede ao pote...\\nComo irmã mais velha,\\nfica difícil reagir a esse tipo de coisa."
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "You're doing your best, Ichika.",
+      "texto_ptbr": "Você está se esforçando muito, Ichika."
+    },
+    {
+      "id": 69,
+      "personagem": "Ichika",
+      "texto_en": "*sigh*\\nThank you very...much?",
+      "texto_ptbr": "*suspiro*\\nMuito obri...gada?"
+    },
+    {
+      "id": 70,
+      "personagem": "Ichika",
+      "texto_en": "Well, I don't feel so bad...\\nI guess I'll stay like this a little longer.",
+      "texto_ptbr": "Bem, não me sinto tão mal...\\nAcho que vou ficar assim por mais um tempinho."
+    },
+    {
+      "id": 71,
+      "personagem": "Miku",
+      "texto_en": "Ahem.",
+      "texto_ptbr": "Hm-hm."
+    },
+    {
+      "id": 72,
+      "personagem": "Futaro",
+      "texto_en": "...Ah.",
+      "texto_ptbr": "...Ah."
+    },
+    {
+      "id": 73,
+      "personagem": "Miku",
+      "texto_en": "Hey, I'm glad you two are so close,\\nbut don't forget about me, okay?",
+      "texto_ptbr": "Ei, fico feliz que vocês dois sejam tão próximos,\\nmas não me esqueçam, tá?"
+    },
+    {
+      "id": 74,
+      "personagem": "Ichika",
+      "texto_en": "O-of course we wouldn't forget about you!\\nRight, Futaro-kun?!",
+      "texto_ptbr": "C-claro que não íamos esquecer de você!\\nNé, Futaro-kun?!"
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah, definitely!\\nLet's get back to our souvenir search!",
+      "texto_ptbr": "É-é, com certeza!\\nVamos voltar a procurar as lembranças!"
+    },
+    {
+      "id": 76,
+      "personagem": "Ichika",
+      "texto_en": "Right on!\\nFor now, textiles are on the list too!",
+      "texto_ptbr": "Isso aí!\\nPor enquanto, os tecidos estão na lista também!"
+    },
+    {
+      "id": 77,
+      "personagem": "Miku",
+      "texto_en": "Come on...",
+      "texto_ptbr": "Gente..."
+    }
+  ]
+}

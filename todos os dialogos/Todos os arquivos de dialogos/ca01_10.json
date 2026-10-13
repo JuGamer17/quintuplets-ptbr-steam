@@ -1,0 +1,150 @@
+{
+  "arquivo": "ca01_10",
+  "total": 24,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Oh, you finally came back. What were you doing?",
+      "texto_ptbr": "Ah, vocês finalmente voltaram. O que estavam fazendo?"
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "There was a shop over there that caught my attention.",
+      "texto_ptbr": "Tinha uma loja ali que chamou minha atenção."
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Well, why didn't you just go with everyone else?",
+      "texto_ptbr": "Mas por que não foram junto com todo mundo?"
+    },
+    {
+      "id": 3,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, it was a lingerie shop.\\nI figured it might not be appropriate for you,\\nUesugi-san.",
+      "texto_ptbr": "Bem, era uma loja de lingerie.\\nAchei que talvez não fosse adequado pra você,\\nUesugi-san."
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Linger—?!",
+      "texto_ptbr": "Linge—?!"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "D-don't tell me you guys are pulling my leg again?",
+      "texto_ptbr": "N-não me diz que vocês tão me pregando peça de novo?"
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "It IS a necessity of life, you know.",
+      "texto_ptbr": "É uma necessidade básica, sabia."
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "I-I see...",
+      "texto_ptbr": "É-É mesmo..."
+    },
+    {
+      "id": 8,
+      "personagem": "Ichika",
+      "texto_en": "(Right, now's my chance%p-2;――%p;)",
+      "texto_ptbr": "(É, agora é minha chance%p-2;――%p;)"
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "Itsuki-chan, can I talk to you for a second?",
+      "texto_ptbr": "Itsuki-chan, posso falar com você um segundo?"
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "What is it?",
+      "texto_ptbr": "O que foi?"
+    },
+    {
+      "id": 11,
+      "personagem": "Ichika",
+      "texto_en": "Actually%p-2;――",
+      "texto_ptbr": "Na verdade%p-2;――"
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "...I understand.\\nIf everyone else is already okay with it,\\nthen I don't mind.",
+      "texto_ptbr": "...Entendo.\\nSe todo mundo já concordou,\\nentão não me importo."
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "Thanks, Itsuki-chan.\\nSo, shall we%p-2;――",
+      "texto_ptbr": "Obrigada, Itsuki-chan.\\nEntão, a gente%p-2;――"
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Hey, I think it's about time we move on.",
+      "texto_ptbr": "Ei, acho que tá na hora de a gente continuar."
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "Wah?!\\nFutaro-kun?!",
+      "texto_ptbr": "Uah?!\\nFutaro-kun?!"
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "What were you two talking about?\\nIs there somewhere you want to go?",
+      "texto_ptbr": "O que vocês duas estavam falando?\\nTem algum lugar que querem ir?"
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "W-well, um%p-2;――",
+      "texto_ptbr": "B-bem, é%p-2;――"
+    },
+    {
+      "id": 18,
+      "personagem": "Ichika",
+      "texto_en": "We were just talking about how we're getting hungry.",
+      "texto_ptbr": "A gente tava falando que tá ficando com fome."
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Ah, I get it.",
+      "texto_ptbr": "Ah, entendo."
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "Wha?!\\nWhy are you nodding at me like that?!",
+      "texto_ptbr": "Que?!\\nPor que você tá me olhando assim, balançando a cabeça?!"
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "It goes without saying. I understand.",
+      "texto_ptbr": "Não precisa nem falar. Eu entendo."
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "I-I don't know what you're talking about!\\nDon't look at me like that!",
+      "texto_ptbr": "N-Não sei do que você tá falando!\\nPara de me olhar assim!"
+    },
+    {
+      "id": 23,
+      "personagem": "Ichika",
+      "texto_en": "(Ahaha...\\n Sorry, Itsuki-chan.)",
+      "texto_ptbr": "(Ahaha...\\n Desculpa, Itsuki-chan.)"
+    }
+  ]
+}

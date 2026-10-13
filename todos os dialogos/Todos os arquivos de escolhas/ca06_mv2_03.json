@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca06_mv2_03",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "それくらいなら……。",
+      "texto_en": "If it's just that...",
+      "texto_ptbr": "Se for só isso..."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "お前の好きにしたらいい",
+      "texto_en": "Do whatever you'd like.",
+      "texto_ptbr": "Faz como preferir.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "せっかくだし、着てみたらどうだ？",
+      "texto_en": "You have this chance. Why not try it on?",
+      "texto_ptbr": "Já que tá aqui, por que não experimenta?",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "二乃なら、きっと似合うぞ",
+      "texto_en": "It'd definitely look good on you, Nino.",
+      "texto_ptbr": "Em você, Nino, com certeza ia ficar bem.",
+      "selidx": 2
+    }
+  ]
+}

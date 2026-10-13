@@ -1,0 +1,384 @@
+{
+  "arquivo": "op_02_01",
+  "total": 63,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Hey, sorry to have kept you waiting.",
+      "texto_ptbr": "Ei, desculpa a demora."
+    },
+    {
+      "id": 1,
+      "personagem": "Ichika",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 2,
+      "personagem": "Ichika",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 3,
+      "personagem": "Ichika",
+      "texto_en": "Ooh?\\nWhy are you here, Futaro-kun?",
+      "texto_ptbr": "Ooh?\\nO que você está fazendo aqui, Fuutarou-kun?"
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Why? I mean%p-2;――",
+      "texto_ptbr": "Por quê? Quer dizer%p-2;――"
+    },
+    {
+      "id": 5,
+      "personagem": "Ichika",
+      "texto_en": "Oh! Did you perhaps come to the wrong place?\\nYou didn't listen carefully to what Itsuki-chan said,\\ndid you? You're hopeless.",
+      "texto_ptbr": "Ah! Será que você veio ao lugar errado?\\nVocê não ouviu direito o que a Itsuki-chan disse,\\nnão foi? Você não tem jeito."
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Hey, Ichika.",
+      "texto_ptbr": "Ei, Ichika."
+    },
+    {
+      "id": 7,
+      "personagem": "Ichika",
+      "texto_en": "Or did you confess to someone else already?\\nKnowing you, you're probably thinking\\nof meeting everyone, just to be safe.",
+      "texto_ptbr": "Ou será que você já se declarou pra outra pessoa?\\nConhecendo você, provavelmente está pensando\\nem encontrar todas, só por garantia."
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Ichika!",
+      "texto_ptbr": "Ichika!"
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "...What?",
+      "texto_ptbr": "...O quê?"
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "I didn't come here by mistake.\\nI came to see you, Ichika.",
+      "texto_ptbr": "Eu não vim aqui por engano.\\nVim ver você, Ichika."
+    },
+    {
+      "id": 11,
+      "personagem": "Ichika",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "What are you talking about?\\nThat doesn't make any sense.",
+      "texto_ptbr": "Do que você está falando?\\nIsso não faz sentido nenhum."
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "Did you mistake me for someone else, after all?\\nDon't try to weirdly cover it up.\\nLook, I'll guide you!",
+      "texto_ptbr": "Você me confundiu com outra pessoa, afinal?\\nNão tente disfarçar de um jeito estranho.\\nOlha, eu te levo lá!"
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "So? Who do you want to see?\\nNino's in our classroom%p-2;――",
+      "texto_ptbr": "E aí? Quem você quer ver?\\nA Nino está na nossa sala%p-2;――"
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "ICHIKA!!",
+      "texto_ptbr": "ICHIKA!!"
+    },
+    {
+      "id": 17,
+      "personagem": "Ichika",
+      "texto_en": "!",
+      "texto_ptbr": "!"
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "I'll say it once again.\\nI came here to see you.",
+      "texto_ptbr": "Vou dizer mais uma vez.\\nEu vim aqui pra ver você."
+    },
+    {
+      "id": 19,
+      "personagem": "Ichika",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "I like you, Ichika.",
+      "texto_ptbr": "Eu gosto de você, Ichika."
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 23,
+      "personagem": "Ichika",
+      "texto_en": "Oh come on, what are you saying?",
+      "texto_ptbr": "Ah, qual é, o que você está dizendo?"
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "What do you mean?",
+      "texto_ptbr": "Como assim?"
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "I don't get it! I don't get it at all!\\nWhy me?! Why?!",
+      "texto_ptbr": "Eu não entendo! Não entendo nada!\\nPor que eu?! Por quê?!"
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "!...",
+      "texto_ptbr": "!..."
+    },
+    {
+      "id": 27,
+      "personagem": "Ichika",
+      "texto_en": "You're crazy, Futaro-kun!",
+      "texto_ptbr": "Você é louco, Fuutarou-kun!"
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "Huh?\\nI'm crazy, you say?",
+      "texto_ptbr": "Hã?\\nEu sou louco, você diz?"
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Okay, then.\\nLet me explain it to you so that you can understand.",
+      "texto_ptbr": "Tá bom, então.\\nDeixa eu te explicar pra você entender."
+    },
+    {
+      "id": 30,
+      "personagem": "Ichika",
+      "texto_en": "Explain what?",
+      "texto_ptbr": "Explicar o quê?"
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "What I like about you is obvious, isn't it?\\nSo that you can feel that I'm not crazy,\\nI'll take my time and tell you.",
+      "texto_ptbr": "O que eu gosto em você é óbvio, não é?\\nPra você sentir que eu não sou louco,\\nvou levar o tempo que precisar e te contar."
+    },
+    {
+      "id": 32,
+      "personagem": "Ichika",
+      "texto_en": "Huh...?",
+      "texto_ptbr": "Hã...?"
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "I've always watched you trying to be strong\\nfor your dreams and your own self.",
+      "texto_ptbr": "Eu sempre te observei tentando ser forte\\npelos seus sonhos e por você mesma."
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "You're always ahead of the game.\\nI thought, I wanted to catch up to you\\nso I could be with you.",
+      "texto_ptbr": "Você está sempre um passo à frente.\\nEu pensava que queria alcançar você\\npra poder ficar ao seu lado."
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Also, I know the weak side of you\\nthat pushes yourself too hard, corners yourself.\\nSo%p-2;――",
+      "texto_ptbr": "Além disso, eu conheço o seu lado fraco,\\nque se força demais e se encurrala.\\nPor isso%p-2;――"
+    },
+    {
+      "id": 36,
+      "personagem": "Ichika",
+      "texto_en": "So, you'd better stop.",
+      "texto_ptbr": "Então é melhor você parar."
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 38,
+      "personagem": "Ichika",
+      "texto_en": "You said I want to be strong for myself,\\nbut I just can't. I'm weaker, so I have to be\\nmore cunning than everyone else.",
+      "texto_ptbr": "Você disse que eu quero ser forte por mim mesma,\\nmas eu simplesmente não consigo. Sou mais fraca, então tenho que ser\\nmais astuta que todo mundo."
+    },
+    {
+      "id": 39,
+      "personagem": "Ichika",
+      "texto_en": "I'll only make you unhappy.\\nSo, you'd better stop, I say.",
+      "texto_ptbr": "Eu só vou te deixar infeliz.\\nPor isso, é melhor você parar, estou dizendo."
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Don't underestimate me, Ichika.",
+      "texto_ptbr": "Não me subestime, Ichika."
+    },
+    {
+      "id": 42,
+      "personagem": "Ichika",
+      "texto_en": "Huh...?",
+      "texto_ptbr": "Hã...?"
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "I don't really know what you're thinking to say,\\nor whether you're going to make me unhappy or not.\\nI don't know what the future holds!",
+      "texto_ptbr": "Eu não sei muito bem o que você está pensando em dizer,\\nnem se você vai me deixar infeliz ou não.\\nEu não sei o que o futuro reserva!"
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "But you don't have to worry about anything.\\nBecause I'll be able to heal your anxieties.",
+      "texto_ptbr": "Mas você não precisa se preocupar com nada.\\nPorque eu vou conseguir curar as suas ansiedades."
+    },
+    {
+      "id": 45,
+      "personagem": "Ichika",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Then there won't be any problems, right?\\nDon't you agree?",
+      "texto_ptbr": "Então não vai haver problema nenhum, certo?\\nNão concorda?"
+    },
+    {
+      "id": 47,
+      "personagem": "Ichika",
+      "texto_en": "That's a pushy argument...",
+      "texto_ptbr": "Que argumento forçado..."
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "Ichika.\\nLet me hear how you feel right now.",
+      "texto_ptbr": "Ichika.\\nMe deixa ouvir o que você sente agora."
+    },
+    {
+      "id": 49,
+      "personagem": "Ichika",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 50,
+      "personagem": "Ichika",
+      "texto_en": "I...",
+      "texto_ptbr": "Eu..."
+    },
+    {
+      "id": 51,
+      "personagem": "Ichika",
+      "texto_en": "It's okay for me to love you, isn't it?",
+      "texto_ptbr": "Tudo bem eu te amar, não é?"
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "...!",
+      "texto_ptbr": "...!"
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "I think I've caused you so much pain.\\nI'm really sorry.",
+      "texto_ptbr": "Acho que te causei muita dor.\\nSinto muito de verdade."
+    },
+    {
+      "id": 54,
+      "personagem": "Ichika",
+      "texto_en": "No...that's...",
+      "texto_ptbr": "Não...isso é..."
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "It's true, isn't it?",
+      "texto_ptbr": "É verdade, não é?"
+    },
+    {
+      "id": 56,
+      "personagem": "Ichika",
+      "texto_en": "That's...not fair...",
+      "texto_ptbr": "Isso...não é justo..."
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "You're right.\\nBut I won't make you cry like this anymore.",
+      "texto_ptbr": "Você tem razão.\\nMas não vou mais te fazer chorar assim."
+    },
+    {
+      "id": 58,
+      "personagem": "Ichika",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 59,
+      "personagem": "Ichika",
+      "texto_en": "This is completely different from before.\\nThese are tears of joy.",
+      "texto_ptbr": "Isso é completamente diferente de antes.\\nSão lágrimas de alegria."
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "Is that so?",
+      "texto_ptbr": "É mesmo?"
+    },
+    {
+      "id": 61,
+      "personagem": "Ichika",
+      "texto_en": "Futaro-kun.\\nI love you.",
+      "texto_ptbr": "Fuutarou-kun.\\nEu te amo."
+    },
+    {
+      "id": 62,
+      "personagem": "Ichika",
+      "texto_en": "I've always loved you...",
+      "texto_ptbr": "Eu sempre te amei..."
+    }
+  ]
+}

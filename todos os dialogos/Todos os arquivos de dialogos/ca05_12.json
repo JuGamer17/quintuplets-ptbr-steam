@@ -1,0 +1,126 @@
+{
+  "arquivo": "ca05_12",
+  "total": 20,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Hmm...",
+      "texto_ptbr": "Hmm..."
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(Even though they promised to support me,\\n it's really my problem with Itsuki.)",
+      "texto_ptbr": "(Mesmo que elas tenham prometido me apoiar,\\n isso é realmente um problema meu com a Itsuki.)"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(If Itsuki is having fun on this trip together with me \\n but then acting like that...)",
+      "texto_ptbr": "(Se a Itsuki está se divertindo nessa viagem junto comigo \\n mas depois agindo assim...)"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "(At the very least, she's actively spending time with me\\n and being a loving partner.)",
+      "texto_ptbr": "(Pelo menos, ela está ativamente passando tempo comigo\\n e sendo uma parceira carinhosa.)"
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "(That's something to be happy about,\\n something I must respond to.)",
+      "texto_ptbr": "(Isso é motivo pra ficar feliz,\\n algo que eu preciso corresponder.)"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "(She's making an effort to be proactive,\\n and it's the worst if I don't reciprocate.)",
+      "texto_ptbr": "(Ela está se esforçando pra ser proativa,\\n e é péssimo se eu não retribuir.)"
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "I need to express my feelings too.",
+      "texto_ptbr": "Eu também preciso expressar meus sentimentos."
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "(But what should I do? Maybe a kiss, huh.\\n To show Itsuki how much I care...)",
+      "texto_ptbr": "(Mas o que eu devo fazer? Talvez um beijo, né.\\n Pra mostrar pra Itsuki o quanto eu me importo...)"
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "...Hm?",
+      "texto_ptbr": "...Hm?"
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "(GUAAAAHH!\\n Am I really thinking about something\\n so utterly embarrassing right now?!)",
+      "texto_ptbr": "(GUAAAAHH!\\n Será que eu estou mesmo pensando numa coisa\\n tão constrangedora agora?!)"
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "(N-no, calm down. Nino said it herself,\\n we haven't been acting like a couple,\\n so I need to show her my feelings.)",
+      "texto_ptbr": "(N-não, se acalma. A própria Nino disse,\\n a gente não tem agido como um casal,\\n então eu preciso mostrar meus sentimentos pra ela.)"
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "(But it's not going to be easy,\\n and I'm not going to just let it slide.\\n First, I need to set the mood.)",
+      "texto_ptbr": "(Mas não vai ser fácil,\\n e eu não vou simplesmente deixar passar.\\n Primeiro, eu preciso criar o clima.)"
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "(Should I...invite her to the lounge now?)",
+      "texto_ptbr": "(Será que eu...devo convidar ela pro lounge agora?)"
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "(But there will be people around.\\n The night view might help set the mood...)",
+      "texto_ptbr": "(Mas vai ter gente por perto.\\n A vista noturna pode ajudar a criar o clima...)"
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "...Ah!",
+      "texto_ptbr": "...Ah!"
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "(That's it!\\n There's an event that's PERFECT for setting the mood!)",
+      "texto_ptbr": "(É isso!\\n Tem um evento que é PERFEITO pra criar o clima!)"
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "I bet it would be even more beautiful\\nwhen the sun's setting.",
+      "texto_ptbr": "Aposto que ficaria ainda mais bonito\\nquando o sol estiver se pondo."
+    },
+    {
+      "id": 17,
+      "personagem": "Ichika",
+      "texto_en": "I saw a flyer earlier\\nthat there are light shows at night.",
+      "texto_ptbr": "Eu vi um panfleto mais cedo\\nque tem shows de luz à noite."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "(Yes, the event at Umikaji Terrace!)",
+      "texto_ptbr": "(Isso, o evento no Umikaji Terrace!)"
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "All right, let's put this plan into action!",
+      "texto_ptbr": "Tudo bem, vamos colocar esse plano em ação!"
+    }
+  ]
+}

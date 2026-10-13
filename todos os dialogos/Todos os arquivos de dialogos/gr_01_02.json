@@ -1,0 +1,1086 @@
+{
+  "arquivo": "gr_01_02",
+  "total": 180,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "???",
+      "texto_en": "Uesugi-kun.",
+      "texto_ptbr": "Uesugi-kun."
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 2,
+      "personagem": "???",
+      "texto_en": "Uesugi-kun, wake up.",
+      "texto_ptbr": "Uesugi-kun, acorda."
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "...Huh?",
+      "texto_ptbr": "...Hã?"
+    },
+    {
+      "id": 4,
+      "personagem": "Yotsuba",
+      "texto_en": "Gooood morniiing!",
+      "texto_ptbr": "Bom diiiia!"
+    },
+    {
+      "id": 5,
+      "personagem": "Ichika",
+      "texto_en": "Looking at you made me sleepy too, Futaro-kun.",
+      "texto_ptbr": "De tanto olhar para você, também fiquei com sono, Fuutarou-kun."
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "You'll catch a cold.",
+      "texto_ptbr": "Você vai pegar um resfriado."
+    },
+    {
+      "id": 7,
+      "personagem": "Nino",
+      "texto_en": "Don't sleep in a place like that.\\nWake up now.",
+      "texto_ptbr": "Não durma num lugar desses.\\nAcorda logo."
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Huh...? The wedding...",
+      "texto_ptbr": "Hã...? O casamento..."
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "Are you still half-asleep?",
+      "texto_ptbr": "Ainda está meio dormindo?"
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "You're quite hasty.",
+      "texto_ptbr": "Você é bem precipitado."
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Ah, no, it's like I had a weird dream\\nor something...",
+      "texto_ptbr": "Ah, não, é que tive um sonho estranho\\nou algo assim..."
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "It's unusual for you to say something like that,\\nand sleep in a place like this.",
+      "texto_ptbr": "É incomum você dizer algo assim,\\ne dormir num lugar como este."
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "Everyone has decided on their path,\\nso maybe you're just tired?",
+      "texto_ptbr": "Todo mundo já decidiu o seu caminho,\\nentão talvez você só esteja cansado?"
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah...",
+      "texto_ptbr": "S-sim..."
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "The wedding...?",
+      "texto_ptbr": "O casamento...?"
+    },
+    {
+      "id": 17,
+      "personagem": "Miku",
+      "texto_en": "Are you half-asleep?",
+      "texto_ptbr": "Está meio dormindo?"
+    },
+    {
+      "id": 18,
+      "personagem": "Yotsuba",
+      "texto_en": "You're a little hasty.",
+      "texto_ptbr": "Você está se precipitando um pouquinho."
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Ah, no, it's like I had a weird dream\\nor something...",
+      "texto_ptbr": "Ah, não, é que tive um sonho estranho\\nou algo assim..."
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "It's unusual for you to say something like that,\\nand sleep in a place like this.",
+      "texto_ptbr": "É incomum você dizer algo assim,\\ne dormir num lugar como este."
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "Everyone has decided on their path,\\nso maybe you're just tired?",
+      "texto_ptbr": "Todo mundo já decidiu o seu caminho,\\nentão talvez você só esteja cansado?"
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah...",
+      "texto_ptbr": "S-sim..."
+    },
+    {
+      "id": 23,
+      "personagem": "Itsuki",
+      "texto_en": "Huh?!\\nWhat are you saying?!",
+      "texto_ptbr": "Hã?!\\nO que você está dizendo?!"
+    },
+    {
+      "id": 24,
+      "personagem": "Miku",
+      "texto_en": "...Y-you're being hasty.",
+      "texto_ptbr": "...V-você está se precipitando."
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "That's right.",
+      "texto_ptbr": "Isso mesmo."
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "Ah, no, it's like I had a weird dream\\nor something...",
+      "texto_ptbr": "Ah, não, é que tive um sonho estranho\\nou algo assim..."
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "It's unusual for you to say something like that,\\nand sleep in a place like this.",
+      "texto_ptbr": "É incomum você dizer algo assim,\\ne dormir num lugar como este."
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "Everyone has decided on their path,\\nso maybe you're just tired?",
+      "texto_ptbr": "Todo mundo já decidiu o seu caminho,\\nentão talvez você só esteja cansado?"
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah...",
+      "texto_ptbr": "S-sim..."
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "Huh? WHAT?!",
+      "texto_ptbr": "Hã? O QUÊ?!"
+    },
+    {
+      "id": 31,
+      "personagem": "Yotsuba",
+      "texto_en": "WHAAAT?!",
+      "texto_ptbr": "O QUÊÊÊ?!"
+    },
+    {
+      "id": 32,
+      "personagem": "Ichika",
+      "texto_en": "Don't be so hasty.",
+      "texto_ptbr": "Não se precipite."
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Ah, no, it's like I had a weird dream\\nor something...",
+      "texto_ptbr": "Ah, não, é que tive um sonho estranho\\nou algo assim..."
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "It's unusual for you to say something like that,\\nand sleep in a place like this.",
+      "texto_ptbr": "É incomum você dizer algo assim,\\ne dormir num lugar como este."
+    },
+    {
+      "id": 35,
+      "personagem": "Ichika",
+      "texto_en": "Everyone has decided on their path,\\nso maybe you're just tired?",
+      "texto_ptbr": "Todo mundo já decidiu o seu caminho,\\nentão talvez você só esteja cansado?"
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah...",
+      "texto_ptbr": "S-sim..."
+    },
+    {
+      "id": 37,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh? A wedding?",
+      "texto_ptbr": "Hã? Casamento?"
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "Wh-what are you saying, all of a sudden?!",
+      "texto_ptbr": "O-o que você está dizendo, de repente?!"
+    },
+    {
+      "id": 39,
+      "personagem": "Ichika",
+      "texto_en": "This is sleepwalking, right?",
+      "texto_ptbr": "Isso é sonambulismo, né?"
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "Ah, no, it's like I had a weird dream\\nor something...",
+      "texto_ptbr": "Ah, não, é que tive um sonho estranho\\nou algo assim..."
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "It's unusual for you to say something like that,\\nespecially when you're sleeping in a place like this.",
+      "texto_ptbr": "É incomum você dizer algo assim,\\nprincipalmente dormindo num lugar como este."
+    },
+    {
+      "id": 42,
+      "personagem": "Ichika",
+      "texto_en": "Everyone has decided on their path,\\nso maybe you're just tired?",
+      "texto_ptbr": "Todo mundo já decidiu o seu caminho,\\nentão talvez você só esteja cansado?"
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah...",
+      "texto_ptbr": "S-sim..."
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "Wait a minute.\\nIt hasn't even been decided if you can graduate yet,\\nright?",
+      "texto_ptbr": "Espera um pouco.\\nAinda nem foi decidido se você vai se formar,\\nné?"
+    },
+    {
+      "id": 45,
+      "personagem": "Ichika",
+      "texto_en": "Ahaha, that's right.",
+      "texto_ptbr": "Ahaha, é verdade."
+    },
+    {
+      "id": 46,
+      "personagem": "Yotsuba",
+      "texto_en": "If you pass the exam after the graduation ceremony,\\nthen we're fine, right?",
+      "texto_ptbr": "Se você passar na prova depois da cerimônia de formatura,\\nentão está tudo bem, né?"
+    },
+    {
+      "id": 47,
+      "personagem": "Ichika",
+      "texto_en": "Yeah. I was on a leave of absence, but it \\nwas a special situation and I could retake the test.\\nThe school was considerate in many ways.",
+      "texto_ptbr": "É. Eu estava afastada, mas foi\\numa situação especial e pude refazer a prova.\\nA escola foi compreensiva em muitos aspectos."
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "But if you fail, you'll end up doing nothing for a year.\\nBe aware that the situation is unpredictable.",
+      "texto_ptbr": "Mas se você reprovar, vai ficar um ano sem fazer nada.\\nEsteja ciente de que a situação é imprevisível."
+    },
+    {
+      "id": 49,
+      "personagem": "Ichika",
+      "texto_en": "I get it, I get it.",
+      "texto_ptbr": "Eu sei, eu sei."
+    },
+    {
+      "id": 50,
+      "personagem": "Ichika",
+      "texto_en": "I want to graduate with everyone, but most of all,\\nI want to graduate with you.\\nWatch me give it my all.",
+      "texto_ptbr": "Quero me formar com todo mundo, mas, acima de tudo,\\nquero me formar com você.\\nVai ver eu dar o meu máximo."
+    },
+    {
+      "id": 51,
+      "personagem": "Nino",
+      "texto_en": "I see.\\nThe power of love is truly great, isn't it.",
+      "texto_ptbr": "Sei.\\nO poder do amor é mesmo enorme, né."
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Th-that's not really relevant.\\nI just want you to always do your best...",
+      "texto_ptbr": "N-não é bem isso que importa.\\nSó quero que você sempre dê o seu melhor..."
+    },
+    {
+      "id": 53,
+      "personagem": "Yotsuba",
+      "texto_en": "With Uesugi-san by your side, you'll be okay!\\nI was able to get into university too, thanks to him.",
+      "texto_ptbr": "Com o Uesugi-san ao seu lado, você vai ficar bem!\\nEu também consegui entrar na universidade graças a ele."
+    },
+    {
+      "id": 54,
+      "personagem": "Miku",
+      "texto_en": "Itsuki also got into the school she wanted.",
+      "texto_ptbr": "A Itsuki também entrou na escola que queria."
+    },
+    {
+      "id": 55,
+      "personagem": "Itsuki",
+      "texto_en": "Yes. I've come one step closer to my dream\\nof becoming a teacher, thanks to Uesugi-kun.",
+      "texto_ptbr": "Sim. Cheguei um passo mais perto do meu sonho\\nde ser professora, graças ao Uesugi-kun."
+    },
+    {
+      "id": 56,
+      "personagem": "Ichika",
+      "texto_en": "I finally got this chance and\\nI'm going to do my best to graduate with everyone.",
+      "texto_ptbr": "Finalmente consegui essa chance e\\nvou dar o meu melhor para me formar com todo mundo."
+    },
+    {
+      "id": 57,
+      "personagem": "Yotsuba",
+      "texto_en": "With Uesugi-san by your side, you'll be okay!\\nI was able to get into university too, thanks to him.",
+      "texto_ptbr": "Com o Uesugi-san ao seu lado, você vai ficar bem!\\nEu também consegui entrar na universidade graças a ele."
+    },
+    {
+      "id": 58,
+      "personagem": "Miku",
+      "texto_en": "Itsuki also got into the school she wanted.",
+      "texto_ptbr": "A Itsuki também entrou na escola que queria."
+    },
+    {
+      "id": 59,
+      "personagem": "Itsuki",
+      "texto_en": "Yes. I've come one step closer to my dream\\nof becoming a teacher, thanks to Uesugi-kun.",
+      "texto_ptbr": "Sim. Cheguei um passo mais perto do meu sonho\\nde ser professora, graças ao Uesugi-kun."
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "Well, it was really tough, but...",
+      "texto_ptbr": "Bom, foi muito difícil, mas..."
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "It's the result of your continuous efforts and hard work. \\nBe proud of yourselves.",
+      "texto_ptbr": "É o resultado do esforço contínuo e do trabalho duro de vocês.\\nTenham orgulho de si mesmas."
+    },
+    {
+      "id": 62,
+      "personagem": "Yotsuba",
+      "texto_en": "Alright!",
+      "texto_ptbr": "Beleza!"
+    },
+    {
+      "id": 63,
+      "personagem": "Itsuki",
+      "texto_en": "Thank you very much.",
+      "texto_ptbr": "Muito obrigada."
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "Nino and Miku, you'll be attending\\nculinary school together in spring, right?",
+      "texto_ptbr": "Nino e Miku, vocês vão fazer juntas\\na escola de culinária na primavera, né?"
+    },
+    {
+      "id": 65,
+      "personagem": "Nino",
+      "texto_en": "That's right. I'm sorry\\nI won't be going to university with you guys.",
+      "texto_ptbr": "Isso mesmo. Desculpe\\npor não ir para a universidade com vocês."
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "Don't worry about it.\\nUniversity isn't the only path to take.\\nRight, Ichika?",
+      "texto_ptbr": "Não se preocupe com isso.\\nA universidade não é o único caminho.\\nCerto, Ichika?"
+    },
+    {
+      "id": 67,
+      "personagem": "Ichika",
+      "texto_en": "That's right.\\nAfter graduating from high school,\\nI plan to pursue my dream of becoming an actress.",
+      "texto_ptbr": "Isso mesmo.\\nDepois de me formar no ensino médio,\\npretendo correr atrás do meu sonho de ser atriz."
+    },
+    {
+      "id": 68,
+      "personagem": "Nino",
+      "texto_en": "Feels like you're already doing it, though.",
+      "texto_ptbr": "Mas parece que você já está fazendo isso."
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "That's true.",
+      "texto_ptbr": "Verdade."
+    },
+    {
+      "id": 70,
+      "personagem": "Ichika",
+      "texto_en": "However, it's hard to believe you're saying\\nthat university isn't the only path,\\ngiven the person I met back then.",
+      "texto_ptbr": "Porém, é difícil acreditar que você está dizendo\\nque a universidade não é o único caminho,\\nconsiderando a pessoa que conheci naquela época."
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "Ah, right...",
+      "texto_ptbr": "Ah, é..."
+    },
+    {
+      "id": 72,
+      "personagem": "Yotsuba",
+      "texto_en": "For you, Uesugi-san, going to university in Tokyo\\nwas the best path, wasn't it!",
+      "texto_ptbr": "Para você, Uesugi-san, ir para a universidade em Tóquio\\nfoi o melhor caminho, não foi!"
+    },
+    {
+      "id": 73,
+      "personagem": "Itsuki",
+      "texto_en": "Tokyo, huh. As we talk about it like this,\\nI feel like we're about to start a new life soon.",
+      "texto_ptbr": "Tóquio, hein. Conversando assim,\\nsinto que logo vamos começar uma nova vida."
+    },
+    {
+      "id": 74,
+      "personagem": "Nino",
+      "texto_en": "I wonder how things will turn out.\\nI can't imagine how it'll be.",
+      "texto_ptbr": "Fico me perguntando como as coisas vão ser.\\nNão consigo imaginar como vai ser."
+    },
+    {
+      "id": 75,
+      "personagem": "Yotsuba",
+      "texto_en": "While we're all here together, Uesugi-san...",
+      "texto_ptbr": "Enquanto estamos todos aqui juntos, Uesugi-san..."
+    },
+    {
+      "id": 76,
+      "personagem": "Futaro",
+      "texto_en": "(That's right. I won't be able to spend time\\n with these guys like I used to.)",
+      "texto_ptbr": "(É verdade. Não vou poder passar tempo\\n com essa galera como antes.)"
+    },
+    {
+      "id": 77,
+      "personagem": "Miku",
+      "texto_en": "That's why I was so happy.\\nWhen you suggested a graduation trip, Futaro.",
+      "texto_ptbr": "Por isso fiquei tão feliz.\\nQuando você sugeriu uma viagem de formatura, Fuutarou."
+    },
+    {
+      "id": 78,
+      "personagem": "Itsuki",
+      "texto_en": "I can't imagine you saying,\\n'Let's make our last high school memories memorable.'",
+      "texto_ptbr": "Não consigo imaginar você dizendo:\\n'Vamos tornar inesquecíveis as nossas últimas lembranças do ensino médio.'"
+    },
+    {
+      "id": 79,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah, I guess.",
+      "texto_ptbr": "É-é, acho que sim."
+    },
+    {
+      "id": 80,
+      "personagem": "Futaro",
+      "texto_en": "(Making our last high school memories.\\n That's certainly true, but more than anything,\\n I'm going on this trip to show her%p-2;――%p;)",
+      "texto_ptbr": "(Criar as nossas últimas lembranças do ensino médio.\\n Isso é verdade, mas, mais do que tudo,\\n estou indo nesta viagem para mostrar a ela%p-2;――%p;)"
+    },
+    {
+      "id": 81,
+      "personagem": "Futaro",
+      "texto_en": "(The kind of man I really am!!)",
+      "texto_ptbr": "(O tipo de homem que eu realmente sou!!)"
+    },
+    {
+      "id": 82,
+      "personagem": "Futaro",
+      "texto_en": "(I see. Maybe the reason I had that dream\\n about a wedding earlier\\n was because of my determination.)",
+      "texto_ptbr": "(Entendi. Talvez o motivo de eu ter tido aquele sonho\\n com casamento agora há pouco\\n tenha sido a minha determinação.)"
+    },
+    {
+      "id": 83,
+      "personagem": "Futaro",
+      "texto_en": "(After all, I'm going on this trip with her...!)",
+      "texto_ptbr": "(Afinal, vou nesta viagem com ela...!)"
+    },
+    {
+      "id": 84,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun?\\nIs something bothering you all of a sudden?",
+      "texto_ptbr": "Uesugi-kun?\\nTem algo te incomodando de repente?"
+    },
+    {
+      "id": 85,
+      "personagem": "Futaro",
+      "texto_en": "Huh?!\\nN-n-no, it's nothing!",
+      "texto_ptbr": "Hã?!\\nN-n-não, não é nada!"
+    },
+    {
+      "id": 86,
+      "personagem": "Futaro",
+      "texto_en": "Anyway, let's decide where to go!\\nIsn't that why we all gathered here today?",
+      "texto_ptbr": "Enfim, vamos decidir para onde ir!\\nNão foi por isso que nos reunimos aqui hoje?"
+    },
+    {
+      "id": 87,
+      "personagem": "Nino",
+      "texto_en": "You say that,\\nbut I wonder who was asleep until just now.",
+      "texto_ptbr": "Você fala isso,\\nmas me pergunto quem estava dormindo até agora há pouco."
+    },
+    {
+      "id": 88,
+      "personagem": "Ichika",
+      "texto_en": "Well, this is a tough decision.\\nMaybe we should consider going overseas.",
+      "texto_ptbr": "Bem, essa é uma decisão difícil.\\nTalvez devêssemos considerar ir para o exterior."
+    },
+    {
+      "id": 89,
+      "personagem": "Futaro",
+      "texto_en": "No way!",
+      "texto_ptbr": "De jeito nenhum!"
+    },
+    {
+      "id": 90,
+      "personagem": "Ichika",
+      "texto_en": "Huh? Why?",
+      "texto_ptbr": "Hã? Por quê?"
+    },
+    {
+      "id": 91,
+      "personagem": "Futaro",
+      "texto_en": "Travel expenses, of course.\\nDon't compare me to you guys,\\nwe're going somewhere nearby!",
+      "texto_ptbr": "As despesas de viagem, é claro.\\nNão me compare com vocês,\\nvamos para um lugar perto!"
+    },
+    {
+      "id": 92,
+      "personagem": "Miku",
+      "texto_en": "We'll cover the travel expenses.",
+      "texto_ptbr": "Nós cobrimos as despesas de viagem."
+    },
+    {
+      "id": 93,
+      "personagem": "Futaro",
+      "texto_en": "What? Wait, wait a minute.\\nThat's just too much...",
+      "texto_ptbr": "O quê? Espera, espera um pouco.\\nIsso é demais..."
+    },
+    {
+      "id": 94,
+      "personagem": "Ichika",
+      "texto_en": "Don't worry,\\nwe're not planning on treating you.\\nConsider it an investment in our future success.",
+      "texto_ptbr": "Não se preocupe,\\nnão estamos planejando te pagar de graça.\\nConsidere um investimento no nosso sucesso futuro."
+    },
+    {
+      "id": 95,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*\\nWell, if that's the case.",
+      "texto_ptbr": "*suspiro*\\nBom, se for assim."
+    },
+    {
+      "id": 96,
+      "personagem": "Yotsuba",
+      "texto_en": "Then where should we go?\\nSince this is going to be our last high school trip,\\nlet's go as far away as possible!",
+      "texto_ptbr": "Então para onde vamos?\\nJá que vai ser a nossa última viagem do ensino médio,\\nvamos o mais longe possível!"
+    },
+    {
+      "id": 97,
+      "personagem": "Futaro",
+      "texto_en": "Nearby should be fine.",
+      "texto_ptbr": "Perto deve bastar."
+    },
+    {
+      "id": 98,
+      "personagem": "Ichika",
+      "texto_en": "Huh?\\nCome on, we're making memories, so let's just\\nup and head somewhere.",
+      "texto_ptbr": "Hã?\\nQual é, estamos criando memórias, então vamos simplesmente\\npartir para algum lugar."
+    },
+    {
+      "id": 99,
+      "personagem": "Itsuki",
+      "texto_en": "Up and head...somewhere?\\nIs that what traveling is all about?",
+      "texto_ptbr": "Partir... para algum lugar?\\nÉ isso que é viajar?"
+    },
+    {
+      "id": 100,
+      "personagem": "Ichika",
+      "texto_en": "Well, it doesn't necessarily mean going all out, but\\nnow that exams are over and we're free from everything,\\nwe should have the time of our lives!",
+      "texto_ptbr": "Bem, não precisa necessariamente ser exagerado, mas\\nagora que as provas acabaram e estamos livres de tudo,\\ndevíamos aproveitar a vida ao máximo!"
+    },
+    {
+      "id": 101,
+      "personagem": "Ichika",
+      "texto_en": "Hey, Futaro-kun!\\nDon't you think treating yourself is a good idea too?",
+      "texto_ptbr": "Ei, Fuutarou-kun!\\nVocê não acha que se dar um mimo também é uma boa ideia?"
+    },
+    {
+      "id": 102,
+      "personagem": "Futaro",
+      "texto_en": "I don't really get the concept\\nof treating yourself though.",
+      "texto_ptbr": "Eu não entendo muito bem o conceito\\nde se dar um mimo."
+    },
+    {
+      "id": 103,
+      "personagem": "Ichika",
+      "texto_en": "Oh, my?",
+      "texto_ptbr": "Ora, ora?"
+    },
+    {
+      "id": 104,
+      "personagem": "Futaro",
+      "texto_en": "Oh well, if it's more fun for you guys,\\nthen I'll go along with it.",
+      "texto_ptbr": "Ah, tanto faz, se for mais divertido para vocês,\\nentão eu vou junto."
+    },
+    {
+      "id": 105,
+      "personagem": "Ichika",
+      "texto_en": "Yay! You understand us so well, Futaro-kun.",
+      "texto_ptbr": "Oba! Você nos entende tão bem, Fuutarou-kun."
+    },
+    {
+      "id": 106,
+      "personagem": "Itsuki",
+      "texto_en": "So, how about us five pointing to a place together?",
+      "texto_ptbr": "Então, que tal nós cinco apontarmos juntas para um lugar?"
+    },
+    {
+      "id": 107,
+      "personagem": "Futaro",
+      "texto_en": "Where's my say?",
+      "texto_ptbr": "E a minha opinião?"
+    },
+    {
+      "id": 108,
+      "personagem": "Ichika",
+      "texto_en": "Well, we already know the result.",
+      "texto_ptbr": "Bem, a gente já sabe o resultado."
+    },
+    {
+      "id": 109,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, since we're going anyway.",
+      "texto_ptbr": "É, já que a gente vai de qualquer jeito."
+    },
+    {
+      "id": 110,
+      "personagem": "Yotsuba",
+      "texto_en": "Right!\\nAlright, so are we really gonna go overseas here?",
+      "texto_ptbr": "Isso!\\nBeleza, então vamos mesmo para o exterior?"
+    },
+    {
+      "id": 111,
+      "personagem": "Futaro",
+      "texto_en": "Oh?\\nLooks like you've gained some confidence\\nin your language skills.",
+      "texto_ptbr": "Oh?\\nParece que você ganhou confiança\\nnas suas habilidades de idioma."
+    },
+    {
+      "id": 112,
+      "personagem": "Yotsuba",
+      "texto_en": "What?",
+      "texto_ptbr": "O quê?"
+    },
+    {
+      "id": 113,
+      "personagem": "Futaro",
+      "texto_en": "In that case, I'll have you show me them!\\nHow about a vacation with no interpreter?!",
+      "texto_ptbr": "Nesse caso, quero que me mostre!\\nQue tal umas férias sem intérprete?!"
+    },
+    {
+      "id": 114,
+      "personagem": "Miku",
+      "texto_en": "That's impossible. Let's just stay in Japan.",
+      "texto_ptbr": "Isso é impossível. Vamos ficar no Japão."
+    },
+    {
+      "id": 115,
+      "personagem": "Itsuki",
+      "texto_en": "So, how about us five pointing to a place together?",
+      "texto_ptbr": "Então, que tal nós cinco apontarmos juntas para um lugar?"
+    },
+    {
+      "id": 116,
+      "personagem": "Futaro",
+      "texto_en": "Where's my say?",
+      "texto_ptbr": "E a minha opinião?"
+    },
+    {
+      "id": 117,
+      "personagem": "Ichika",
+      "texto_en": "Well, we already know the result.",
+      "texto_ptbr": "Bem, a gente já sabe o resultado."
+    },
+    {
+      "id": 118,
+      "personagem": "Futaro",
+      "texto_en": "For example, where do you suggest?",
+      "texto_ptbr": "Por exemplo, onde você sugere?"
+    },
+    {
+      "id": 119,
+      "personagem": "Nino",
+      "texto_en": "Let's see...\\nFor example...",
+      "texto_ptbr": "Deixa eu ver...\\nPor exemplo..."
+    },
+    {
+      "id": 120,
+      "personagem": "Nino",
+      "texto_en": "Anywhere is fine if you're with us, Futaro.",
+      "texto_ptbr": "Qualquer lugar serve se você estiver com a gente, Fuutarou."
+    },
+    {
+      "id": 121,
+      "personagem": "Futaro",
+      "texto_en": "...Uh, well, that's not really an answer.",
+      "texto_ptbr": "...Hã, bom, isso não é bem uma resposta."
+    },
+    {
+      "id": 122,
+      "personagem": "Miku",
+      "texto_en": "Nino.",
+      "texto_ptbr": "Nino."
+    },
+    {
+      "id": 123,
+      "personagem": "Yotsuba",
+      "texto_en": "Hey now.\\nDon't just run off with her alone.",
+      "texto_ptbr": "Ei, ei.\\nNão saia correndo sozinha com ele."
+    },
+    {
+      "id": 124,
+      "personagem": "Itsuki",
+      "texto_en": "So, how about us five pointing to a place together?",
+      "texto_ptbr": "Então, que tal nós cinco apontarmos juntas para um lugar?"
+    },
+    {
+      "id": 125,
+      "personagem": "Futaro",
+      "texto_en": "Where's my say?",
+      "texto_ptbr": "E a minha opinião?"
+    },
+    {
+      "id": 126,
+      "personagem": "Ichika",
+      "texto_en": "Well, we already know the result.",
+      "texto_ptbr": "Bem, a gente já sabe o resultado."
+    },
+    {
+      "id": 127,
+      "personagem": "Nino",
+      "texto_en": "Anywhere is fine if you're with us, Fu-kun.",
+      "texto_ptbr": "Qualquer lugar serve se você estiver com a gente, Fu-kun."
+    },
+    {
+      "id": 128,
+      "personagem": "Futaro",
+      "texto_en": "Well, that's not really an answer.\\nIn that case, let's go somewhere nearby.",
+      "texto_ptbr": "Bom, isso não é bem uma resposta.\\nNesse caso, vamos para um lugar perto."
+    },
+    {
+      "id": 129,
+      "personagem": "Nino",
+      "texto_en": "...Yeah, yeah.\\nYour response is as expected. ",
+      "texto_ptbr": "...É, é.\\nA sua resposta é como esperado."
+    },
+    {
+      "id": 130,
+      "personagem": "Itsuki",
+      "texto_en": "So, how about us five pointing to a place together?",
+      "texto_ptbr": "Então, que tal nós cinco apontarmos juntas para um lugar?"
+    },
+    {
+      "id": 131,
+      "personagem": "Futaro",
+      "texto_en": "Where's my say?",
+      "texto_ptbr": "E a minha opinião?"
+    },
+    {
+      "id": 132,
+      "personagem": "Ichika",
+      "texto_en": "Well, we already know the result.",
+      "texto_ptbr": "Bem, a gente já sabe o resultado."
+    },
+    {
+      "id": 133,
+      "personagem": "Futaro",
+      "texto_en": "I think so too.",
+      "texto_ptbr": "Também acho."
+    },
+    {
+      "id": 134,
+      "personagem": "Yotsuba",
+      "texto_en": "Alright, let's do this on three!",
+      "texto_ptbr": "Beleza, vamos fazer isso no três!"
+    },
+    {
+      "id": 135,
+      "personagem": "All 5",
+      "texto_en": "One, two, THREE! Here!",
+      "texto_ptbr": "Um, dois, TRÊS! Aqui!"
+    },
+    {
+      "id": 136,
+      "personagem": "Futaro",
+      "texto_en": "...Look, see?",
+      "texto_ptbr": "...Viu só?"
+    },
+    {
+      "id": 137,
+      "personagem": "Ichika",
+      "texto_en": "Ahaha.\\nAs expected, we all pointed to different places.",
+      "texto_ptbr": "Ahaha.\\nComo esperado, todos apontamos para lugares diferentes."
+    },
+    {
+      "id": 138,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*\\nQuintuplets are so troublesome...",
+      "texto_ptbr": "*suspiro*\\nQuintuplas são tão trabalhosas..."
+    },
+    {
+      "id": 139,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 140,
+      "personagem": "Itsuki",
+      "texto_en": "Still, the food in Hokkaido is so tempting, isn't it?",
+      "texto_ptbr": "Ainda assim, a comida de Hokkaido é tão tentadora, não é?"
+    },
+    {
+      "id": 141,
+      "personagem": "Miku",
+      "texto_en": "But isn't it still cold there?\\nAnd there might be a lot of snow.",
+      "texto_ptbr": "Mas será que ainda não está frio lá?\\nE pode ter muita neve."
+    },
+    {
+      "id": 142,
+      "personagem": "Nino",
+      "texto_en": "Yeah, that's true, isn't it.",
+      "texto_ptbr": "É, é verdade, né."
+    },
+    {
+      "id": 143,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 144,
+      "personagem": "Yotsuba",
+      "texto_en": "Snow, eh.\\nMaybe it'd be nice to go spring skiing.",
+      "texto_ptbr": "Neve, hein.\\nTalvez seja legal ir esquiar na primavera."
+    },
+    {
+      "id": 145,
+      "personagem": "Ichika",
+      "texto_en": "In that case, how about Nagano?\\nWe can also enjoy hot springs on the side.",
+      "texto_ptbr": "Nesse caso, que tal Nagano?\\nTambém podemos aproveitar as fontes termais de quebra."
+    },
+    {
+      "id": 146,
+      "personagem": "Itsuki",
+      "texto_en": "Niigata is also a possibility.",
+      "texto_ptbr": "Niigata também é uma possibilidade."
+    },
+    {
+      "id": 147,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 148,
+      "personagem": "Nino",
+      "texto_en": "But skiing doesn't really feel\\nlike a graduation trip, does it?",
+      "texto_ptbr": "Mas esquiar não tem muita cara\\nde viagem de formatura, né?"
+    },
+    {
+      "id": 149,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, that's true.",
+      "texto_ptbr": "É, verdade."
+    },
+    {
+      "id": 150,
+      "personagem": "Yotsuba",
+      "texto_en": "In that case%p-2;――",
+      "texto_ptbr": "Nesse caso%p-2;――"
+    },
+    {
+      "id": 151,
+      "personagem": "Futaro",
+      "texto_en": "Enough already!",
+      "texto_ptbr": "Chega!"
+    },
+    {
+      "id": 152,
+      "personagem": "Yotsuba",
+      "texto_en": "WAAAH!\\nWhat's the matter, Uesugi-san?",
+      "texto_ptbr": "UAAAH!\\nO que foi, Uesugi-san?"
+    },
+    {
+      "id": 153,
+      "personagem": "Futaro",
+      "texto_en": "Don't give me that 'what's the matter' crap!\\nHow long are we going to argue?\\nIt's been an hour already!",
+      "texto_ptbr": "Não me venha com essa de 'o que foi'!\\nAté quando vamos ficar discutindo?\\nJá faz uma hora!"
+    },
+    {
+      "id": 154,
+      "personagem": "Nino",
+      "texto_en": "But, you know, since it's a rare opportunity,\\nwe want to choose a place that we can all agree on.",
+      "texto_ptbr": "Mas, sabe, como é uma oportunidade rara,\\nqueremos escolher um lugar com o qual todos concordem."
+    },
+    {
+      "id": 155,
+      "personagem": "Futaro",
+      "texto_en": "At this rate, we'll never decide!\\nAlright, just let me decide!",
+      "texto_ptbr": "Assim nunca vamos decidir!\\nCerto, deixem que eu decido!"
+    },
+    {
+      "id": 156,
+      "personagem": "Itsuki",
+      "texto_en": "Well, to be honest,\\nI don't really have a place in mind either...",
+      "texto_ptbr": "Bem, para ser sincera,\\neu também não tenho um lugar em mente..."
+    },
+    {
+      "id": 157,
+      "personagem": "Miku",
+      "texto_en": "It seems best to have Futaro decide, here.",
+      "texto_ptbr": "Parece melhor deixar o Fuutarou decidir, aqui."
+    },
+    {
+      "id": 158,
+      "personagem": "Futaro",
+      "texto_en": "Leave it to me.\\nI've heard all of your wishes,\\nso I'll show us a place that satisfies all of them!",
+      "texto_ptbr": "Deixem comigo.\\nOuvi todos os desejos de vocês,\\nentão vou mostrar um lugar que satisfaça todos!"
+    },
+    {
+      "id": 159,
+      "personagem": "Futaro",
+      "texto_en": "And, that is...",
+      "texto_ptbr": "E esse lugar é..."
+    },
+    {
+      "id": 160,
+      "personagem": "Itsuki",
+      "texto_en": "That is?",
+      "texto_ptbr": "É?"
+    },
+    {
+      "id": 161,
+      "personagem": "Futaro",
+      "texto_en": "Okinawa!",
+      "texto_ptbr": "Okinawa!"
+    },
+    {
+      "id": 162,
+      "personagem": "Ichika",
+      "texto_en": "Okinawa?",
+      "texto_ptbr": "Okinawa?"
+    },
+    {
+      "id": 163,
+      "personagem": "Futaro",
+      "texto_en": "Okinawa at this time of the year\\nshould have nice weather that's not too hot or too cold\\nand we should be able to relax.",
+      "texto_ptbr": "Okinawa nessa época do ano\\ndeve ter um clima bom, nem quente nem frio demais,\\ne dá para relaxar."
+    },
+    {
+      "id": 164,
+      "personagem": "Ichika",
+      "texto_en": "I see.",
+      "texto_ptbr": "Entendo."
+    },
+    {
+      "id": 165,
+      "personagem": "Futaro",
+      "texto_en": "Of course, the beauty of the sea goes without saying,\\nand there are plenty of activities\\nsuch as marine sports!",
+      "texto_ptbr": "Claro, a beleza do mar nem se fala,\\ne há muitas atividades,\\ncomo esportes marítimos!"
+    },
+    {
+      "id": 166,
+      "personagem": "Yotsuba",
+      "texto_en": "That's right!",
+      "texto_ptbr": "Isso mesmo!"
+    },
+    {
+      "id": 167,
+      "personagem": "Futaro",
+      "texto_en": "Not only the sea,\\nbut we can also enjoy the unique beauty of nature!",
+      "texto_ptbr": "Não só o mar,\\nmas também dá para aproveitar a beleza única da natureza!"
+    },
+    {
+      "id": 168,
+      "personagem": "Miku",
+      "texto_en": "Yes, that's true.",
+      "texto_ptbr": "Sim, é verdade."
+    },
+    {
+      "id": 169,
+      "personagem": "Futaro",
+      "texto_en": "There are also many famous power spots!",
+      "texto_ptbr": "Também há muitos power spots famosos!"
+    },
+    {
+      "id": 170,
+      "personagem": "Nino",
+      "texto_en": "That's certainly true.",
+      "texto_ptbr": "Isso é verdade mesmo."
+    },
+    {
+      "id": 171,
+      "personagem": "Futaro",
+      "texto_en": "With a wealth of ingredients represented by seafood,\\nwe can enjoy cuisine that makes the most of them!",
+      "texto_ptbr": "Com uma riqueza de ingredientes representada pelos frutos do mar,\\npodemos aproveitar uma culinária que os valoriza ao máximo!"
+    },
+    {
+      "id": 172,
+      "personagem": "Itsuki",
+      "texto_en": "Oh...I see!",
+      "texto_ptbr": "Ah... entendi!"
+    },
+    {
+      "id": 173,
+      "personagem": "Futaro",
+      "texto_en": "How about it?\\nIs there a better place than this?",
+      "texto_ptbr": "Que tal?\\nExiste lugar melhor que este?"
+    },
+    {
+      "id": 174,
+      "personagem": "Itsuki",
+      "texto_en": "No, it's amazing!",
+      "texto_ptbr": "Não, é incrível!"
+    },
+    {
+      "id": 175,
+      "personagem": "Nino",
+      "texto_en": "This is definitely it.",
+      "texto_ptbr": "É esse com certeza."
+    },
+    {
+      "id": 176,
+      "personagem": "Yotsuba",
+      "texto_en": "As expected of Uesugi-san!",
+      "texto_ptbr": "Como esperado do Uesugi-san!"
+    },
+    {
+      "id": 177,
+      "personagem": "Ichika",
+      "texto_en": "We should have had you decide from the beginning.",
+      "texto_ptbr": "Devíamos ter deixado você decidir desde o começo."
+    },
+    {
+      "id": 178,
+      "personagem": "Miku",
+      "texto_en": "If we did,\\nwe would have ended up with a place really close.",
+      "texto_ptbr": "Se tivéssemos deixado,\\nteríamos acabado num lugar bem perto."
+    },
+    {
+      "id": 179,
+      "personagem": "Futaro",
+      "texto_en": "...Well, I won't deny that.",
+      "texto_ptbr": "...Bom, não vou negar."
+    }
+  ]
+}

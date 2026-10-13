@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca04_mv4_02",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "これって種類も色々あるのね。\\n大皿から一通り揃えられそうだわ。",
+      "texto_en": "There are various types of these dishes, aren't there?\\nSeems you can collect them in a set\\nfrom large plates to small ones.",
+      "texto_ptbr": "Tem vários tipos desses pratos, né?\\nParece que dá pra colecionar em conjunto,\\ndos pratos grandes aos pequenos."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "そんなに必要ないだろ",
+      "texto_en": "You don't need those, right?",
+      "texto_ptbr": "Você não precisa de tantas, né?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "持って帰るのが大変じゃないか？",
+      "texto_en": "Won't it be difficult to take them home?",
+      "texto_ptbr": "Não vai ser difícil levar pra casa?",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "将来、揃えてみたらどうだ？",
+      "texto_en": "How about getting a whole set in the future?",
+      "texto_ptbr": "Que tal juntar um jogo completo no futuro?",
+      "selidx": 2
+    }
+  ]
+}

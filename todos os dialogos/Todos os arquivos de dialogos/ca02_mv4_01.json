@@ -1,0 +1,402 @@
+{
+  "arquivo": "ca02_mv4_01",
+  "total": 66,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Nino",
+      "texto_en": "Huh?\\nAre Miku and Ichika over there?",
+      "texto_ptbr": "Hã?\nAquelas ali são a Miku e a Ichika?"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Seems that way.",
+      "texto_ptbr": "Parece que sim."
+    },
+    {
+      "id": 2,
+      "personagem": "Miku",
+      "texto_en": "This mango pudding is so good...!",
+      "texto_ptbr": "Esse pudim de manga tá tão bom...!"
+    },
+    {
+      "id": 3,
+      "personagem": "Ichika",
+      "texto_en": "And this sweet potato tart too!\\nIt's so fluffy!",
+      "texto_ptbr": "E essa torta de batata-doce também!\nTá tão fofinha!"
+    },
+    {
+      "id": 4,
+      "personagem": "Miku",
+      "texto_en": "We can even try some chinsuko biscuits.\\nLet's give them a taste.",
+      "texto_ptbr": "Também dá pra experimentar uns biscoitos de chinsuko.\nVamos provar."
+    },
+    {
+      "id": 5,
+      "personagem": "Ichika",
+      "texto_en": "Ah, I just remembered something.\\nThe person I co-starred with before\\ntold me about the most delicious chinsuko in Okinawa.",
+      "texto_ptbr": "Ah, acabei de lembrar de uma coisa.\nA pessoa que contracenou comigo antes\nme contou sobre o chinsuko mais gostoso de Okinawa."
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "Huh? Which shop?",
+      "texto_ptbr": "Hã? Qual loja?"
+    },
+    {
+      "id": 7,
+      "personagem": "Ichika",
+      "texto_en": "I forgot where it was.\\nAhaha, I should have taken notes.",
+      "texto_ptbr": "Esqueci onde era.\nAhaha, devia ter anotado."
+    },
+    {
+      "id": 8,
+      "personagem": "Miku",
+      "texto_en": "But, can there really be that much difference in taste?",
+      "texto_ptbr": "Mas, será que pode ter tanta diferença assim de sabor?"
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "Well, that chinsuko is said to be exceptional.\\nOnce you try it, you can't eat any other chinsuko.",
+      "texto_ptbr": "Bom, dizem que aquele chinsuko é excepcional.\nDepois de experimentar, você não consegue mais comer outro."
+    },
+    {
+      "id": 10,
+      "personagem": "Miku",
+      "texto_en": "That's something you can't forget.",
+      "texto_ptbr": "Isso não dá pra esquecer."
+    },
+    {
+      "id": 11,
+      "personagem": "Ichika",
+      "texto_en": "Oooh, it's on the tip of my tongue!",
+      "texto_ptbr": "Ooh, tá na ponta da língua!"
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "What are you two doing?\\nLooking for souvenirs?",
+      "texto_ptbr": "O que vocês duas estão fazendo?\nProcurando souvenirs?"
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "Oh, Futaro-kun and Nino.",
+      "texto_ptbr": "Ah, Futaro-kun e Nino."
+    },
+    {
+      "id": 14,
+      "personagem": "Miku",
+      "texto_en": "Yes, we're trying out some samples\\nwhile looking for souvenirs.",
+      "texto_ptbr": "Sim, a gente tá provando algumas amostras\nenquanto procura souvenirs."
+    },
+    {
+      "id": 15,
+      "personagem": "Miku",
+      "texto_en": "Futaro and Nino, want to try some too?\\nThis mango pudding is delicious.",
+      "texto_ptbr": "Futaro, Nino, querem experimentar também?\nEsse pudim de manga tá uma delícia."
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "Sure, let me have a bite.",
+      "texto_ptbr": "Claro, deixa eu provar um pouco."
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "It's really sweet.",
+      "texto_ptbr": "É bem doce."
+    },
+    {
+      "id": 18,
+      "personagem": "Nino",
+      "texto_en": "But it has a natural sweetness.\\nThe mango flavor is so rich.",
+      "texto_ptbr": "Mas é um doce natural.\nO sabor da manga é bem intenso."
+    },
+    {
+      "id": 19,
+      "personagem": "Ichika",
+      "texto_en": "On the other hand, there are some things that are\\ndeliciously spicy, right?\\nLike these Okinawa pepper rice crackers.",
+      "texto_ptbr": "Por outro lado, também tem coisas gostosas\nde picante, né?\nTipo essas bolachas de arroz com pimenta de Okinawa."
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "...Those are REALLY spicy.",
+      "texto_ptbr": "...Essas são MUITO picantes."
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "But they smell and taste so good.",
+      "texto_ptbr": "Mas o cheiro e o gosto são tão bons."
+    },
+    {
+      "id": 22,
+      "personagem": "Ichika",
+      "texto_en": "And the spiciness doesn't last.\\nI'm thinking of buying some for the office.",
+      "texto_ptbr": "E a picância não dura muito.\nTô pensando em comprar umas pro escritório."
+    },
+    {
+      "id": 23,
+      "personagem": "Miku",
+      "texto_en": "Oh, if you want something sweet,\\nthis black sugar chocolate is good.",
+      "texto_ptbr": "Ah, se você quer algo doce,\nesse chocolate de açúcar mascavo é bom."
+    },
+    {
+      "id": 24,
+      "personagem": "Nino",
+      "texto_en": "Ah, well, this has a rich flavor,\\nbut it's not too sweet.",
+      "texto_ptbr": "Ah, bom, esse tem um sabor intenso,\nmas não é muito doce."
+    },
+    {
+      "id": 25,
+      "personagem": "Miku",
+      "texto_en": "Yes, it seems it'll match matcha soda.",
+      "texto_ptbr": "É, parece que combina com refrigerante de matcha."
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "I don't think so.",
+      "texto_ptbr": "Acho que não."
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "...It's really sweet.",
+      "texto_ptbr": "...É bem doce."
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "Futaro-kun, don't you have any other thoughts\\nbesides really 'sweet' or 'spicy'?\\nIs just one word good enough for you?",
+      "texto_ptbr": "Futaro-kun, você não tem mais nada pra dizer\nalém de 'doce' ou 'picante'?\nUma palavra só já basta pra você?"
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Well, you know...",
+      "texto_ptbr": "Bom, sabe como é..."
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "After all, it is Futaro. It can't be helped.",
+      "texto_ptbr": "Afinal, é o Futaro mesmo. Não tem jeito."
+    },
+    {
+      "id": 31,
+      "personagem": "Ichika",
+      "texto_en": "There you go again, spoiling him.",
+      "texto_ptbr": "Lá vem você mimando ele de novo."
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "(Spoiling me...)",
+      "texto_ptbr": "(Me mimando...)"
+    },
+    {
+      "id": 33,
+      "personagem": "Ichika",
+      "texto_en": "Souvenirs are good, but I should also buy something \\nfor myself. Thus I won't have to worry about snacks for a while.",
+      "texto_ptbr": "Souvenirs são bons, mas eu também deveria comprar algo\npra mim mesma. Assim não preciso me preocupar com lanches por um tempo."
+    },
+    {
+      "id": 34,
+      "personagem": "Nino",
+      "texto_en": "I should buy something too.\\nHey, Futaro, what do you recommend?",
+      "texto_ptbr": "Eu também devia comprar algo.\nEi, Futaro, o que você recomenda?"
+    },
+    {
+      "id": 35,
+      "personagem": "Miku",
+      "texto_en": "Asking him is unreasonable...",
+      "texto_ptbr": "Perguntar pra ele é surreal..."
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "(Gghhnn...\\n This request is indeed a bit unreasonable!)",
+      "texto_ptbr": "(Gghhnn...\n Esse pedido é meio absurdo mesmo!)"
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Why not go with a classic?\\nIf it's selling well, it must be good.",
+      "texto_ptbr": "Por que não ir de clássico?\nSe tá vendendo bem, deve ser bom."
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "(If it's a standard product, it should have a certain\\n level of quality. This way, Nino won't be disappointed.\\n Being a standard product is a strength in itself!)",
+      "texto_ptbr": "(Se é um produto padrão, deve ter um certo\n nível de qualidade. Assim, a Nino não vai se decepcionar.\n Ser um produto padrão já é uma vantagem em si!)"
+    },
+    {
+      "id": 39,
+      "personagem": "Nino",
+      "texto_en": "I see.\\nThen, let's go with mango pudding and chinsuko.",
+      "texto_ptbr": "Entendi.\nEntão, vamos de pudim de manga e chinsuko."
+    },
+    {
+      "id": 40,
+      "personagem": "Nino",
+      "texto_en": "I'll go and pay for it now.\\nThanks for your help, Futaro.",
+      "texto_ptbr": "Vou pagar agora.\nValeu pela ajuda, Futaro."
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Okay.",
+      "texto_ptbr": "Beleza."
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "How about choosing by the design of the \\npackage? This one is quite elaborate,\\nand even just looking at it is fun.",
+      "texto_ptbr": "Que tal escolher pelo design da\nembalagem? Essa aqui é bem caprichada,\né divertido até só de olhar."
+    },
+    {
+      "id": 43,
+      "personagem": "Nino",
+      "texto_en": "Oh, yes. This case could even be used\\nfor holding small items.\\nIt'll also remind you of Okinawa.",
+      "texto_ptbr": "Ah, é. Essa caixinha até dá pra usar\npra guardar coisas pequenas.\nTambém vai lembrar de Okinawa."
+    },
+    {
+      "id": 44,
+      "personagem": "Nino",
+      "texto_en": "Which one...do you think is cutest, Futaro?",
+      "texto_ptbr": "Qual...você acha mais fofa, Futaro?"
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "I don't know if it's cute,\\nbut I think this one with the blue sky\\nand ocean packaging is real nice.",
+      "texto_ptbr": "Não sei se é fofa,\nmas acho que essa com a embalagem do céu azul\ne do mar ficou bem legal."
+    },
+    {
+      "id": 46,
+      "personagem": "Nino",
+      "texto_en": "Alright, then I'll go with that!",
+      "texto_ptbr": "Beleza, então vou de essa!"
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "Huh? Is that really okay?",
+      "texto_ptbr": "Hã? Pode ser mesmo?"
+    },
+    {
+      "id": 48,
+      "personagem": "Nino",
+      "texto_en": "The things that you picked out for me are the best, Futaro.\\nIt'll become a memory of mine just because you chose it.",
+      "texto_ptbr": "As coisas que você escolhe pra mim são as melhores, Futaro.\nJá vira uma memória minha só de você ter escolhido."
+    },
+    {
+      "id": 49,
+      "personagem": "Nino",
+      "texto_en": "I'll go and pay for it now.\\nThanks for your help, Futaro.",
+      "texto_ptbr": "Vou pagar agora.\nValeu pela ajuda, Futaro."
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "Okay.",
+      "texto_ptbr": "Beleza."
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "Seasonings might be good.",
+      "texto_ptbr": "Temperos podem ser uma boa."
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "You're good at cooking, right?\\nBottled seasonings using Okinawa peppers\\nmight be more useful than rice crackers.",
+      "texto_ptbr": "Você é boa de cozinha, né?\nTemperos engarrafados com pimenta de Okinawa\ntalvez sejam mais úteis do que bolachas de arroz."
+    },
+    {
+      "id": 53,
+      "personagem": "Nino",
+      "texto_en": "Yes, seasonings are a good idea.\\nOkinawa peppers can be used as\\na secret ingredient in various dishes.",
+      "texto_ptbr": "É, temperos são uma boa ideia.\nA pimenta de Okinawa pode ser usada como\num ingrediente secreto em vários pratos."
+    },
+    {
+      "id": 54,
+      "personagem": "Nino",
+      "texto_en": "Shikuwasa fruit vinegar is also drinkable%p-2;――",
+      "texto_ptbr": "O vinagre de shikuwasa também dá pra beber%p-2;――"
+    },
+    {
+      "id": 55,
+      "personagem": "Nino",
+      "texto_en": "It might be fun to utilize it in a dressing or dessert.",
+      "texto_ptbr": "Pode ser divertido usar num molho ou numa sobremesa."
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "O-ohh...\\nIt's amazing how you keep coming up with ideas,\\none after another, like that.",
+      "texto_ptbr": "O-oh...\nÉ incrível como você fica tendo ideias,\numa atrás da outra, desse jeito."
+    },
+    {
+      "id": 57,
+      "personagem": "Nino",
+      "texto_en": "It's all thanks to you, Futaro.\\nIf you hadn't given me this advice,\\nI wouldn't have thought of buying seasonings.",
+      "texto_ptbr": "Isso é tudo graças a você, Futaro.\nSe você não tivesse me dado essa dica,\neu não teria pensado em comprar temperos."
+    },
+    {
+      "id": 58,
+      "personagem": "Nino",
+      "texto_en": "I'll go and pay for it now.\\nThanks for your help, Futaro.",
+      "texto_ptbr": "Vou pagar agora.\nValeu pela ajuda, Futaro."
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "Okay.",
+      "texto_ptbr": "Beleza."
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "(Hmm, I wonder how well I performed.\\n Leading the conversation is harder than I thought...)",
+      "texto_ptbr": "(Hmm, será que eu me saí bem.\n Tomar a iniciativa na conversa é mais difícil do que eu pensava...)"
+    },
+    {
+      "id": 62,
+      "personagem": "Miku",
+      "texto_en": "Futaro, what's wrong?\\nYou seem lost in thought.",
+      "texto_ptbr": "Futaro, o que foi?\nVocê parece meio pensativo."
+    },
+    {
+      "id": 63,
+      "personagem": "Ichika",
+      "texto_en": "Maybe Futaro-kun is trying his best in his own way.",
+      "texto_ptbr": "Talvez o Futaro-kun esteja se esforçando do jeito dele."
+    },
+    {
+      "id": 64,
+      "personagem": "Ichika",
+      "texto_en": "He's finally starting to grasp\\nthe difficulty of love.",
+      "texto_ptbr": "Ele finalmente tá começando a entender\na dificuldade do amor."
+    },
+    {
+      "id": 65,
+      "personagem": "Miku",
+      "texto_en": "Hang in there, Futaro.",
+      "texto_ptbr": "Força aí, Futaro."
+    }
+  ]
+}

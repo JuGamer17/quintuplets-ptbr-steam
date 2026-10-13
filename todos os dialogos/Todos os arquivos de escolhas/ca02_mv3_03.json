@@ -1,0 +1,75 @@
+{
+  "arquivo": "ca02_mv3_03",
+  "total": 7,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "なんだろう、この中味汁（なかみじる）って。",
+      "texto_en": "I wonder what this 'nakami-jiru' is.",
+      "texto_ptbr": "Será o que é esse tal de 'nakami-jiru'."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "謎だな",
+      "texto_en": "It's a mystery to me.",
+      "texto_ptbr": "É um mistério.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "豚汁みたいなものか？",
+      "texto_en": "Wonder if it's like pork miso soup.",
+      "texto_ptbr": "Será que é tipo uma sopa de missô com porco?",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "『中味』は『中身』か？",
+      "texto_en": "Doesn't it have organs in it?",
+      "texto_ptbr": "Esse 'nakami' é o mesmo de 'conteúdo', né?",
+      "selidx": 2
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "裏通り:一花:三玖",
+      "texto_en": "Back Street: Ichika/Miku",
+      "texto_ptbr": "Rua dos Fundos: Ichika/Miku",
+      "selidx": 0
+    },
+    {
+      "id": 5,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "ショップＡ:五月",
+      "texto_en": "Shop A: Itsuki",
+      "texto_ptbr": "Loja A: Itsuki",
+      "selidx": 1
+    },
+    {
+      "id": 6,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "大通りＢ:四葉:らいは",
+      "texto_en": "Main Street B: Yotsuba/Raiha",
+      "texto_ptbr": "Rua Principal B: Yotsuba/Raiha",
+      "selidx": 2
+    }
+  ]
+}

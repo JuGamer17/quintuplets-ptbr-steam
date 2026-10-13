@@ -1,0 +1,486 @@
+{
+  "arquivo": "ca05_mv1_02",
+  "total": 80,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Nino",
+      "texto_en": "I did some good shopping.\\nNow if only the right person could come along,\\nthen it would be perfect.",
+      "texto_ptbr": "Eu fiz umas boas compras.\\nAgora só falta a pessoa certa aparecer,\\naí ia ficar perfeito."
+    },
+    {
+      "id": 1,
+      "personagem": "Yotsuba",
+      "texto_en": "We wouldn't be so lucky. ",
+      "texto_ptbr": "A gente não teria tanta sorte assim."
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Hmm? Isn't that Nino and Yotsuba?",
+      "texto_ptbr": "Hmm? Não são a Nino e a Yotsuba ali?"
+    },
+    {
+      "id": 3,
+      "personagem": "Nino",
+      "texto_en": "Oh, the perfect person has arrived.",
+      "texto_ptbr": "Ah, a pessoa perfeita chegou."
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "What's going on?\\nAre you planning something?",
+      "texto_ptbr": "O que está havendo?\\nVocês estão planejando alguma coisa?"
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "Ah...",
+      "texto_ptbr": "Ah..."
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "Hee-hee-hee!\\nYou're quite brave, Uesugi-san.",
+      "texto_ptbr": "Hihihi!\\nVocê é bem corajoso, Uesugi-san."
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "But aren't you being overly cautious?\\nI'm not going to do anything weird.",
+      "texto_ptbr": "Mas você não está sendo cauteloso demais?\\nEu não vou fazer nada estranho."
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "N-no, I didn't mean to suspect you\\nor anything, Nino.",
+      "texto_ptbr": "N-não, eu não quis dizer que desconfiava de você\\nnem nada, Nino."
+    },
+    {
+      "id": 10,
+      "personagem": "Yotsuba",
+      "texto_en": "You acted on impulse.\\nThe power of love, I see.",
+      "texto_ptbr": "Você agiu por impulso.\\nO poder do amor, entendi."
+    },
+    {
+      "id": 11,
+      "personagem": "Itsuki",
+      "texto_en": "U-um!\\nAnyway, is there anything you want from me?",
+      "texto_ptbr": "H-hm!\\nEnfim, vocês querem alguma coisa de mim?"
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "We want you to try this on.",
+      "texto_ptbr": "A gente quer que você experimente isso."
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "What's this?\\nIt looks like a metal rod.",
+      "texto_ptbr": "O que é isso?\\nParece uma haste de metal."
+    },
+    {
+      "id": 14,
+      "personagem": "Yotsuba",
+      "texto_en": "This is a traditional Okinawan hairpin,\\ncalled a 'jiifaa.'",
+      "texto_ptbr": "Isso é um grampo de cabelo tradicional de Okinawa,\\nchamado 'jiifaa'."
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "A hairpin, huh?\\nIt's the first time I've seen this shape.",
+      "texto_ptbr": "Um grampo de cabelo, né?\\nÉ a primeira vez que vejo esse formato."
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "I saw it at the store and fell in love with it.\\nSo, Itsuki, can you let me try it on your hair?",
+      "texto_ptbr": "Eu vi na loja e me apaixonei.\\nEntão, Itsuki, você deixa eu colocar no seu cabelo?"
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "That's a bit out of nowhere, isn't it?!",
+      "texto_ptbr": "Isso é meio do nada, não é?!"
+    },
+    {
+      "id": 18,
+      "personagem": "Nino",
+      "texto_en": "It's fine.\\nYou have long hair, so it'll look good on you.\\nIt'll be a fun challenge.",
+      "texto_ptbr": "Tá tudo bem.\\nVocê tem cabelo comprido, então vai ficar bom em você.\\nVai ser um desafio divertido."
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "*sigh*\\nI guess it's okay.",
+      "texto_ptbr": "*suspiro*\\nAcho que tudo bem."
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Is it really possible to do it here?\\nWe don't even have a comb or a mirror.",
+      "texto_ptbr": "Dá pra fazer isso aqui mesmo?\\nA gente nem tem pente ou espelho."
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "I can easily put it together.\\nIf it's a more complicated style,\\nthen we might need hairpins.",
+      "texto_ptbr": "Eu consigo montar fácil.\\nSe fosse um penteado mais complicado,\\naí a gente ia precisar de grampos."
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Oh, that's how it is.",
+      "texto_ptbr": "Ah, é assim então."
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "Alright, I'm done!\\nIt turned out really nice.",
+      "texto_ptbr": "Pronto, terminei!\\nFicou bem legal."
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Wow, you're quite talented.",
+      "texto_ptbr": "Nossa, você tem bastante talento."
+    },
+    {
+      "id": 25,
+      "personagem": "Yotsuba",
+      "texto_en": "It's sooo cute!\\nItsuki, it really suits you!",
+      "texto_ptbr": "É taaão fofo!\\nItsuki, combinou muito com você!"
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "Th-thank you.",
+      "texto_ptbr": "O-obrigada."
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "Um... F-Futaro, what do you think?",
+      "texto_ptbr": "Hm... F-Futaro, o que você acha?"
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "What do I think...",
+      "texto_ptbr": "O que eu acho..."
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "Does it suit me?\\nI want to hear your opinion, as my...boyfriend.",
+      "texto_ptbr": "Combinou comigo?\\nEu quero ouvir a sua opinião, como o meu... namorado."
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 31,
+      "personagem": "Nino",
+      "texto_en": "My, oh my.",
+      "texto_ptbr": "Nossa, nossa."
+    },
+    {
+      "id": 32,
+      "personagem": "Yotsuba",
+      "texto_en": "Ooh?",
+      "texto_ptbr": "Ooh?"
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "(B-boyfriend...\\n Isn't that cheating, asking me that way?)",
+      "texto_ptbr": "(N-namorado...\\n Isso não é golpe baixo, perguntar desse jeito?)"
+    },
+    {
+      "id": 34,
+      "personagem": "Yotsuba",
+      "texto_en": "Come on, Uesugi-san!\\nShe wants your opinion! Do tell!",
+      "texto_ptbr": "Vamos lá, Uesugi-san!\\nEla quer a sua opinião! Fala logo!"
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "...It's not bad.",
+      "texto_ptbr": "...Não está ruim."
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "That's pretty vague, ya know.\\nDoes that mean it doesn't suit me?",
+      "texto_ptbr": "Isso é bem vago, sabia.\\nIsso quer dizer que não combinou comigo?"
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "No! That's not what I mean! I just couldn't judge\\nwell because I'm not used to seeing you with\\nyour hair up... Um, you look good.",
+      "texto_ptbr": "Não! Não é isso que eu quis dizer! Eu só não consegui julgar\\ndireito porque não estou acostumado a ver você\\ncom o cabelo preso... Hm, você está bonita."
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "Well, if that's the case, just say so.",
+      "texto_ptbr": "Bom, se é assim, é só falar."
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Sorry...",
+      "texto_ptbr": "Desculpa..."
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "But, thank you.",
+      "texto_ptbr": "Mas, obrigada."
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "It's kind of a fresh look.\\nI don't usually get to see you\\nwith your hair up like that.",
+      "texto_ptbr": "É meio que um visual novo.\\nGeralmente eu não te vejo\\ncom o cabelo preso desse jeito."
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "That doesn't answer my question\\nabout whether it looks good on me or not.",
+      "texto_ptbr": "Isso não responde a minha pergunta\\nsobre se ficou bom em mim ou não."
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "Ah, well, um...",
+      "texto_ptbr": "Ah, bom, é..."
+    },
+    {
+      "id": 44,
+      "personagem": "Itsuki",
+      "texto_en": "Or, do you not like this hairstyle,\\nFutaro?",
+      "texto_ptbr": "Ou, você não gosta desse penteado,\\nFutaro?"
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "...No, I think it's nice.\\nIt suits you.",
+      "texto_ptbr": "...Não, acho legal.\\nCombina com você."
+    },
+    {
+      "id": 46,
+      "personagem": "Itsuki",
+      "texto_en": "Is that so.\\nWell, then I'll try wearing my hair up like this \\nfrom time to time. ",
+      "texto_ptbr": "Ah é.\\nBom, então vou tentar prender o cabelo assim\\nde vez em quando."
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "It looks really good on you.",
+      "texto_ptbr": "Fica muito bom em você."
+    },
+    {
+      "id": 48,
+      "personagem": "Itsuki",
+      "texto_en": "R-really?",
+      "texto_ptbr": "S-sério?"
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Really.\\nI mean...",
+      "texto_ptbr": "Sério.\\nQuer dizer..."
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "I'm a bit...entranced by it.",
+      "texto_ptbr": "Eu fico meio... encantado com isso."
+    },
+    {
+      "id": 51,
+      "personagem": "Itsuki",
+      "texto_en": "!...",
+      "texto_ptbr": "!..."
+    },
+    {
+      "id": 52,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh my GOSH, that was so smooth...",
+      "texto_ptbr": "Nossa, MEU DEUS, que suave..."
+    },
+    {
+      "id": 53,
+      "personagem": "Nino",
+      "texto_en": "It's kind of embarrassing to watch.",
+      "texto_ptbr": "É meio constrangedor de assistir."
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "Sh-shut up!\\nI was just giving her my opinion like she asked!",
+      "texto_ptbr": "C-cala a boca!\\nEu só estava dando minha opinião como ela pediu!"
+    },
+    {
+      "id": 55,
+      "personagem": "Itsuki",
+      "texto_en": "A-anyway, I'll try this hairstyle occasionally.\\nBut only in front of you, Futaro...",
+      "texto_ptbr": "E-enfim, vou tentar esse penteado de vez em quando.\\nMas só na sua frente, Futaro..."
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "O-oh, is that so?",
+      "texto_ptbr": "A-ah, é assim então?"
+    },
+    {
+      "id": 57,
+      "personagem": "Itsuki",
+      "texto_en": "Thanks, Nino.\\nI'll give this back now.",
+      "texto_ptbr": "Valeu, Nino.\\nVou devolver agora."
+    },
+    {
+      "id": 58,
+      "personagem": "Nino",
+      "texto_en": "You seem pretty happy.\\nIs it because Fu-kun complimented you?",
+      "texto_ptbr": "Você parece bem feliz.\\nÉ porque o Fu-kun te elogiou?"
+    },
+    {
+      "id": 59,
+      "personagem": "Itsuki",
+      "texto_en": "W-well...",
+      "texto_ptbr": "B-bom..."
+    },
+    {
+      "id": 60,
+      "personagem": "Yotsuba",
+      "texto_en": "Of course. That's only natural, right?",
+      "texto_ptbr": "Claro. É só natural, né?"
+    },
+    {
+      "id": 61,
+      "personagem": "Itsuki",
+      "texto_en": "...Yeah. ",
+      "texto_ptbr": "...É."
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 63,
+      "personagem": "Nino",
+      "texto_en": "Alright, you want to try it next, Fu-kun?",
+      "texto_ptbr": "Beleza, quer experimentar em seguida, Fu-kun?"
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "You tell me. Look at the length of my hair. ",
+      "texto_ptbr": "Você me diz. Olha o tamanho do meu cabelo."
+    },
+    {
+      "id": 65,
+      "personagem": "Yotsuba",
+      "texto_en": "Fine, we'll just stretch it out!",
+      "texto_ptbr": "Tá bom, a gente só estica então!"
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "Don't be ridiculous!",
+      "texto_ptbr": "Para de ridicularia!"
+    },
+    {
+      "id": 67,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun with long hair...",
+      "texto_ptbr": "Uesugi-kun de cabelo comprido..."
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "...I just remembered, Nino, \\nweren't you the one that said long hair would look gross on me?",
+      "texto_ptbr": "...Eu acabei de lembrar, Nino,\\nnão foi você quem disse que cabelo comprido ia ficar nojento em mim?"
+    },
+    {
+      "id": 69,
+      "personagem": "Nino",
+      "texto_en": "Oh, I did say that, didn't I?\\nCould it be that you're still holding a grudge?",
+      "texto_ptbr": "Ah, eu disse isso mesmo, né?\\nSerá que você ainda está guardando rancor?"
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "No, not really. I just believe in my potential.\\nThere's a possibility that long hair could suit me!",
+      "texto_ptbr": "Não, não muito. Eu só acredito no meu potencial.\\nExiste uma possibilidade de cabelo comprido combinar comigo!"
+    },
+    {
+      "id": 71,
+      "personagem": "Itsuki",
+      "texto_en": "That's right! I think it would look good on you!",
+      "texto_ptbr": "Isso mesmo! Acho que ia ficar bom em você!"
+    },
+    {
+      "id": 72,
+      "personagem": "Futaro",
+      "texto_en": "WHAAA?!",
+      "texto_ptbr": "QUÊÊÊ?!"
+    },
+    {
+      "id": 73,
+      "personagem": "Itsuki",
+      "texto_en": "Uesu%p-2;――%p; Futaro, there's infinite potential in you.\\nYou could even let your hair flow in the wind!",
+      "texto_ptbr": "Uesu%p-2;――%p; Futaro, tem um potencial infinito em você.\\nVocê podia até deixar o cabelo balançar ao vento!"
+    },
+    {
+      "id": 74,
+      "personagem": "Nino",
+      "texto_en": "Anyone can do that.",
+      "texto_ptbr": "Qualquer um consegue fazer isso."
+    },
+    {
+      "id": 75,
+      "personagem": "Itsuki",
+      "texto_en": "N-no, that's not what I mean!\\nUmm...uhh...",
+      "texto_ptbr": "N-não, não é isso que eu quis dizer!\\nHmm... éh..."
+    },
+    {
+      "id": 76,
+      "personagem": "Itsuki",
+      "texto_en": "A-anyway, I think it would suit you!",
+      "texto_ptbr": "E-enfim, acho que ia combinar com você!"
+    },
+    {
+      "id": 77,
+      "personagem": "Yotsuba",
+      "texto_en": "Hmm, it just might, you know?",
+      "texto_ptbr": "Hmm, talvez combine mesmo, sabia?"
+    },
+    {
+      "id": 78,
+      "personagem": "Itsuki",
+      "texto_en": "It definitely would!",
+      "texto_ptbr": "Com certeza ia combinar!"
+    },
+    {
+      "id": 79,
+      "personagem": "Futaro",
+      "texto_en": "(Why is Itsuki getting so worked up over my hair...?)",
+      "texto_ptbr": "(Por que a Itsuki está ficando tão animada com o meu cabelo...?)"
+    }
+  ]
+}

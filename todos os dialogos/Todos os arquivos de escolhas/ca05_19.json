@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca05_19",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "……は？",
+      "texto_en": "...Huh?",
+      "texto_ptbr": "...Hã?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "な、なんで……",
+      "texto_en": "Wh-why...?",
+      "texto_ptbr": "P-por quê...?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "……お前がいいなら",
+      "texto_en": "...If you're okay with that.",
+      "texto_ptbr": "...Se você não se importar.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "俺もだ",
+      "texto_en": "Me too.",
+      "texto_ptbr": "Eu também.",
+      "selidx": 2
+    }
+  ]
+}

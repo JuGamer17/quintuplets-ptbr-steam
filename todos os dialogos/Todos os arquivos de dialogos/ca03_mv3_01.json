@@ -1,0 +1,390 @@
+{
+  "arquivo": "ca03_mv3_01",
+  "total": 64,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Raiha",
+      "texto_en": "With a park this big,\\njust moving from one facility to another\\nseems tiring, doesn't it.",
+      "texto_ptbr": "Com um parque desse tamanho,\\nsó de ficar indo de uma instalação pra outra\\njá parece cansativo, né."
+    },
+    {
+      "id": 1,
+      "personagem": "Ichika",
+      "texto_en": "Oh! then I have good news for you, Raiha-chan!",
+      "texto_ptbr": "Ah! Então eu tenho uma boa notícia pra você, Raiha-chan!"
+    },
+    {
+      "id": 2,
+      "personagem": "Ichika",
+      "texto_en": "There seems to be something called\\nan electric tour bus, a vehicle\\nthat circles around the park.",
+      "texto_ptbr": "Parece que tem uma coisa chamada\\nônibus turístico elétrico, um veículo\\nque circula pelo parque inteiro."
+    },
+    {
+      "id": 3,
+      "personagem": "Raiha",
+      "texto_en": "Wha?!\\nWhat's that? I'm curious!",
+      "texto_ptbr": "Quê?!\\nO que é isso? Fiquei curiosa!"
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "What are you two talking about?",
+      "texto_ptbr": "Do que vocês duas estão falando?"
+    },
+    {
+      "id": 5,
+      "personagem": "Raiha",
+      "texto_en": "Ah, hey, big bro.",
+      "texto_ptbr": "Ah, oi, Onii-chan."
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "Not only is the size of the park impressive,\\nbut there's also an electric powered vehicle\\ncompletely circling around it.",
+      "texto_ptbr": "Além do tamanho do parque ser impressionante,\\ntem também um veículo elétrico\\nque dá a volta completa nele."
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Oh, is that so?\\nWell, I guess it's necessary considering the size of the park.",
+      "texto_ptbr": "Ah, é mesmo?\\nBom, acho que é necessário considerando o tamanho do parque."
+    },
+    {
+      "id": 8,
+      "personagem": "Ichika",
+      "texto_en": "There's a guide in the brochure.\\nIt seems to stop at designated places, like a bus stop.",
+      "texto_ptbr": "Tem um guia no folheto.\\nParece que ele para em lugares designados, tipo um ponto de ônibus."
+    },
+    {
+      "id": 9,
+      "personagem": "Raiha",
+      "texto_en": "Riding this and going around the park\\nsounds fun too.",
+      "texto_ptbr": "Andar nisso e dar a volta no parque\\ntambém parece divertido."
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "It would take more than a half hour\\nto walk from one end to the other.\\nSo, I wonder how fast the tour bus goes?",
+      "texto_ptbr": "Levaria mais de meia hora\\npra andar de uma ponta a outra.\\nEntão, será quão rápido esse ônibus turístico vai?"
+    },
+    {
+      "id": 11,
+      "personagem": "Ichika",
+      "texto_en": "Futaro-kun and Miku, you guys should hold hands and walk together instead of taking the tour bus.",
+      "texto_ptbr": "Futaro-kun e Miku, vocês deviam dar as mãos e andar juntos ao invés de pegar o ônibus turístico."
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "...Why are you suddenly changing the topic?",
+      "texto_ptbr": "...Por que você tá mudando de assunto do nada?"
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "Well, you're intending to put everything on the line today,\\nright?\\nFor Miku.",
+      "texto_ptbr": "Bom, você tá pretendendo dar tudo de si hoje,\\nnão tá?\\nPela Miku."
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, something like that.",
+      "texto_ptbr": "É, mais ou menos isso."
+    },
+    {
+      "id": 15,
+      "personagem": "Raiha",
+      "texto_en": "I figured as much.\\nGood luck, big bro!",
+      "texto_ptbr": "Imaginei que sim.\\nBoa sorte, Onii-chan!"
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Ichika.\\nUm... Thanks for earlier.",
+      "texto_ptbr": "Ichika.\\nHum... Obrigado por mais cedo."
+    },
+    {
+      "id": 17,
+      "personagem": "Ichika",
+      "texto_en": "I didn't do anything, did I?\\nI just said what I was thinking.",
+      "texto_ptbr": "Eu não fiz nada, não é?\\nSó falei o que eu tava pensando."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "No, thanks to what you said earlier,\\nI was able to come up with this plan.\\nI'm going to try to get some decent results.",
+      "texto_ptbr": "Não, graças ao que você falou mais cedo,\\neu consegui bolar esse plano.\\nVou tentar conseguir um resultado decente."
+    },
+    {
+      "id": 19,
+      "personagem": "Ichika",
+      "texto_en": "Teehee!\\nThat's something you would definitely say.",
+      "texto_ptbr": "Hihi!\\nIsso é bem a sua cara de falar."
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Huh? Did I say something wrong?",
+      "texto_ptbr": "Hã? Eu falei algo errado?"
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "Well, you said you're going to achieve 'some decent results.'\\nBut, it's not a test, you know?",
+      "texto_ptbr": "Bom, você disse que vai conseguir 'um resultado decente.'\\nMas isso não é uma prova, sabia?"
+    },
+    {
+      "id": 22,
+      "personagem": "Raiha",
+      "texto_en": "Big bro really likes tests, quite literally.",
+      "texto_ptbr": "Onii-chan realmente gosta de provas, literalmente."
+    },
+    {
+      "id": 23,
+      "personagem": "Ichika",
+      "texto_en": "Well, if I'm going through with it, I want to show the best result.",
+      "texto_ptbr": "Bom, se eu vou fazer isso, quero mostrar o melhor resultado."
+    },
+    {
+      "id": 24,
+      "personagem": "Ichika",
+      "texto_en": "When we're leaving this place,\\nIf I see you two holding hands, I'll leave you two to it!",
+      "texto_ptbr": "Quando a gente for sair daqui,\\nse eu ver vocês dois de mãos dadas, eu deixo vocês dois sozinhos!"
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "W-we won't be holding hands!",
+      "texto_ptbr": "N-a gente não vai dar as mãos!"
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "What, you're blushing at this?",
+      "texto_ptbr": "O quê, você tá ficando vermelho com isso?"
+    },
+    {
+      "id": 27,
+      "personagem": "Ichika",
+      "texto_en": "You're almost a college student, right? Or are you still a child?",
+      "texto_ptbr": "Você já tá quase na faculdade, né? Ou ainda é uma criança?"
+    },
+    {
+      "id": 28,
+      "personagem": "Raiha",
+      "texto_en": "Big bro doesn't like being teased.",
+      "texto_ptbr": "Onii-chan não gosta de ser provocado."
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "It's not like that!\\nI just don't like to do it in front of other people!",
+      "texto_ptbr": "Não é assim!\\nEu só não gosto de fazer isso na frente dos outros!"
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "...The thing is,\\nI feel bad for putting you guys through all this trouble,\\nfor my own selfish desire.",
+      "texto_ptbr": "...A verdade é que,\\neu me sinto mal de dar todo esse trabalho pra vocês,\\npor causa do meu desejo egoísta."
+    },
+    {
+      "id": 32,
+      "personagem": "Ichika",
+      "texto_en": "Don't worry about it.\\nWe were supposed to come here the day after tomorrow\\nanyway, so it's just a change of schedule.",
+      "texto_ptbr": "Não se preocupa com isso.\\nA gente ia vir aqui depois de amanhã\\nde qualquer jeito, então é só uma mudança de agenda."
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "If Miku doesn't mind, that is.\\nI'd like to prioritize her feelings.",
+      "texto_ptbr": "Se a Miku não se importar, claro.\\nEu gostaria de priorizar os sentimentos dela."
+    },
+    {
+      "id": 34,
+      "personagem": "Ichika",
+      "texto_en": "Miku's feelings, huh.",
+      "texto_ptbr": "Os sentimentos da Miku, hein."
+    },
+    {
+      "id": 35,
+      "personagem": "Ichika",
+      "texto_en": "Futaro-kun,\\nyou know that Miku is a strong girl, right?",
+      "texto_ptbr": "Futaro-kun,\\nvocê sabe que a Miku é uma garota forte, né?"
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Of course.",
+      "texto_ptbr": "Claro."
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "(That's why I like Miku...)",
+      "texto_ptbr": "(É por isso que eu gosto da Miku...)"
+    },
+    {
+      "id": 38,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, there shouldn't be any problem\\nif you manage to tell her how you feel properly.",
+      "texto_ptbr": "É, não deveria ter nenhum problema\\nse você conseguir dizer como se sente pra ela direito."
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "...The thing is, I feel bad for putting you guys through all this trouble,\\nfor my own selfish desire.",
+      "texto_ptbr": "...A verdade é que eu me sinto mal de dar todo esse trabalho pra vocês,\\npor causa do meu desejo egoísta."
+    },
+    {
+      "id": 40,
+      "personagem": "Ichika",
+      "texto_en": "Don't worry about it.\\nWe were supposed to come here the day after tomorrow\\nanyway, so it's just a change of schedule.",
+      "texto_ptbr": "Não se preocupa com isso.\\nA gente ia vir aqui depois de amanhã\\nde qualquer jeito, então é só uma mudança de agenda."
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "That'll be of a big help.",
+      "texto_ptbr": "Isso vai ajudar muito."
+    },
+    {
+      "id": 42,
+      "personagem": "Ichika",
+      "texto_en": "Oh? You look pretty confident.\\nDo you really think you can manage to\\nhold hands with her before it's time to leave?",
+      "texto_ptbr": "Ah? Você parece bem confiante.\\nVocê realmente acha que vai conseguir\\ndar as mãos com ela antes da hora de ir embora?"
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "I don't know...\\nbut if I don't try,\\nI won't be able to convey my feelings to Miku, right?",
+      "texto_ptbr": "Eu não sei...\\nmas se eu não tentar,\\neu não vou conseguir transmitir meus sentimentos pra Miku, né?"
+    },
+    {
+      "id": 44,
+      "personagem": "Ichika",
+      "texto_en": "I see. Well, I know you're the type to do it\\nwhen the time comes, so I'm sure it'll be okay.",
+      "texto_ptbr": "Entendo. Bom, eu sei que você é do tipo que faz\\nna hora certa, então tenho certeza que vai ficar tudo bem."
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "...The thing is, I feel bad for putting you guys through all this trouble,\\nfor my own selfish desire.",
+      "texto_ptbr": "...A verdade é que eu me sinto mal de dar todo esse trabalho pra vocês,\\npor causa do meu desejo egoísta."
+    },
+    {
+      "id": 46,
+      "personagem": "Ichika",
+      "texto_en": "Don't worry about it.\\nWe were supposed to come here the day after tomorrow\\nanyway, so it's just a change of schedule.",
+      "texto_ptbr": "Não se preocupa com isso.\\nA gente ia vir aqui depois de amanhã\\nde qualquer jeito, então é só uma mudança de agenda."
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "I see. Thanks a bunch.",
+      "texto_ptbr": "Entendo. Muito obrigado."
+    },
+    {
+      "id": 48,
+      "personagem": "Ichika",
+      "texto_en": "Oh, c'mon.\\nYou're worrying too much.",
+      "texto_ptbr": "Ah, qual é.\\nVocê tá se preocupando demais."
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Of course I'll worry.\\nWe involved you guys in our problem.",
+      "texto_ptbr": "Claro que eu vou me preocupar.\\nA gente envolveu vocês no nosso problema."
+    },
+    {
+      "id": 50,
+      "personagem": "Ichika",
+      "texto_en": "What are you saying.\\nWe don't believe you've gotten us involved in anything.",
+      "texto_ptbr": "O que você tá dizendo.\\nA gente não acha que vocês nos envolveram em nada."
+    },
+    {
+      "id": 51,
+      "personagem": "Ichika",
+      "texto_en": "You guys' problem is our problem.",
+      "texto_ptbr": "O problema de vocês é o nosso problema."
+    },
+    {
+      "id": 52,
+      "personagem": "Raiha",
+      "texto_en": "We're all gonna enjoy this trip together!",
+      "texto_ptbr": "A gente vai curtir essa viagem todo mundo junto!"
+    },
+    {
+      "id": 53,
+      "personagem": "Ichika",
+      "texto_en": "That's right. We all think the same way.",
+      "texto_ptbr": "Isso mesmo. A gente pensa tudo igual."
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "...I see.",
+      "texto_ptbr": "...Entendo."
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "(It's all thanks to these guys watching over us,\\n that we've been able to make it this far.)",
+      "texto_ptbr": "(É graças a essas garotas cuidando da gente,\\n que a gente conseguiu chegar até aqui.)"
+    },
+    {
+      "id": 56,
+      "personagem": "Ichika",
+      "texto_en": "Hey, Futaro-kun.\\nIf I'm being honest,\\nI'm feeling a little regretful about something.",
+      "texto_ptbr": "Ei, Futaro-kun.\\nSe eu for ser sincera,\\nestou me sentindo um pouco arrependida de uma coisa."
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "Regretful? About what?",
+      "texto_ptbr": "Arrependida? Do quê?"
+    },
+    {
+      "id": 58,
+      "personagem": "Ichika",
+      "texto_en": "At the hotel, I pressured you by saying I'm counting on you.",
+      "texto_ptbr": "No hotel, eu te pressionei dizendo que estava contando com você."
+    },
+    {
+      "id": 59,
+      "personagem": "Ichika",
+      "texto_en": "I said it as a means to encourage you,\\nbut I'm sorry if I pressured you by accident.",
+      "texto_ptbr": "Eu disse isso como forma de te encorajar,\\nmas desculpa se acabei te pressionando sem querer."
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "Pressure?\\nWhat are you talking about?\\nI took it as an encouragement. It actually motivated me.",
+      "texto_ptbr": "Pressão?\\nDo que você tá falando?\\nEu levei como um incentivo. Na verdade, isso me motivou."
+    },
+    {
+      "id": 61,
+      "personagem": "Ichika",
+      "texto_en": "...Ahh, is that so. Oh, you're such a dork.",
+      "texto_ptbr": "...Ahh, é mesmo. Ah, você é tão bobo."
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "You're the one\\nwho worries too much.",
+      "texto_ptbr": "Você que é a que\\nse preocupa demais."
+    },
+    {
+      "id": 63,
+      "personagem": "Ichika",
+      "texto_en": "Touche!",
+      "texto_ptbr": "Touché!"
+    }
+  ]
+}

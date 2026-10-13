@@ -1,0 +1,162 @@
+{
+  "arquivo": "ca03_27",
+  "total": 26,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(Damn it...\\n In the end, I couldn't have a proper conversation\\n with Miku, and the time's up...)",
+      "texto_ptbr": "(Droga...\\n No fim, eu não consegui ter uma conversa de verdade\\n com a Miku, e o tempo acabou...)"
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun, how did it go?",
+      "texto_ptbr": "Uesugi-kun, como foi?"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Well...",
+      "texto_ptbr": "Bom..."
+    },
+    {
+      "id": 4,
+      "personagem": "Miku",
+      "texto_en": "...!",
+      "texto_ptbr": "...!"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "...It's exactly how you see it.",
+      "texto_ptbr": "...É exatamente como você está vendo."
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "A-ah, I get it.",
+      "texto_ptbr": "A-ah, entendi."
+    },
+    {
+      "id": 7,
+      "personagem": "Miku",
+      "texto_en": "*sigh*",
+      "texto_ptbr": "*suspiro*"
+    },
+    {
+      "id": 8,
+      "personagem": "Miku",
+      "texto_en": "Even though I know\\nI have to talk to him properly...",
+      "texto_ptbr": "Mesmo sabendo\\nque preciso conversar direito com ele..."
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "Well, seems things didn't go well.",
+      "texto_ptbr": "Bom, parece que as coisas não foram bem."
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "Suppose so.\\nIf it had gone well,\\nhe wouldn't be making that face.",
+      "texto_ptbr": "Acho que sim.\\nSe tivesse dado certo,\\nele não estaria com essa cara."
+    },
+    {
+      "id": 11,
+      "personagem": "Yotsuba",
+      "texto_en": "Then, I guess I have to use my trump card after all.",
+      "texto_ptbr": "Então, acho que vou ter que usar minha cartada na manga afinal."
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "Yotsuba, can you explain the situation\\nto Raiha-chan as well?",
+      "texto_ptbr": "Yotsuba, você pode explicar a situação\\npra Raiha-chan também?"
+    },
+    {
+      "id": 13,
+      "personagem": "Yotsuba",
+      "texto_en": "Okay.",
+      "texto_ptbr": "Certo."
+    },
+    {
+      "id": 14,
+      "personagem": "Yotsuba",
+      "texto_en": "Raiha-chan,\\ncan I talk to you for a second?",
+      "texto_ptbr": "Raiha-chan,\\nposso falar com você um segundo?"
+    },
+    {
+      "id": 15,
+      "personagem": "Raiha",
+      "texto_en": "What?",
+      "texto_ptbr": "Que foi?"
+    },
+    {
+      "id": 16,
+      "personagem": "Yotsuba",
+      "texto_en": "Bring your ear close.\\nSo...",
+      "texto_ptbr": "Chega o ouvido aqui.\\nEntão..."
+    },
+    {
+      "id": 17,
+      "personagem": "Raiha",
+      "texto_en": "Yeah... Yeah, yeah...",
+      "texto_ptbr": "Sim... Sim, sim..."
+    },
+    {
+      "id": 18,
+      "personagem": "Raiha",
+      "texto_en": "Ohh!\\nI understand! I'll help too!",
+      "texto_ptbr": "Ohh!\\nEntendi! Eu também vou ajudar!"
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "Thank you so much!",
+      "texto_ptbr": "Muito obrigada!"
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "What are you going to do?",
+      "texto_ptbr": "O que vocês vão fazer?"
+    },
+    {
+      "id": 21,
+      "personagem": "Raiha",
+      "texto_en": "Wah! Big bro?!",
+      "texto_ptbr": "Wah! Onii-chan?!"
+    },
+    {
+      "id": 22,
+      "personagem": "Yotsuba",
+      "texto_en": "N-nothing, nothing at all, you know?",
+      "texto_ptbr": "N-nada, nada de mais, viu?"
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "Now, after lunch, the moment we've all been waiting for...\\nOCEAN TIME!\\nI'm looking forward to it! Ha ha ha ha!",
+      "texto_ptbr": "Agora, depois do almoço, o momento que todos estávamos esperando...\\nHORA DO MAR!\\nEstou super animada! Ha ha ha ha!"
+    },
+    {
+      "id": 24,
+      "personagem": "Raiha",
+      "texto_en": "Yeah, when you think of Okinawa,\\nyou think of the ocean.\\nBig bro, you have fun too, okay?",
+      "texto_ptbr": "É, quando a gente pensa em Okinawa,\\npensa logo no mar.\\nOnii-chan, se divirta também, tá?"
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "O-okay...?",
+      "texto_ptbr": "T-tá...?"
+    }
+  ]
+}

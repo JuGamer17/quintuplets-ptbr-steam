@@ -1,0 +1,75 @@
+{
+  "arquivo": "ca03_mv3_01",
+  "total": 7,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ここから帰る時、\\n君と三玖が手を繋いでいても見逃してあげよう！",
+      "texto_en": "When we're leaving this place,\\nIf I see you two holding hands, I'll leave you two to it!",
+      "texto_ptbr": "Quando a gente for sair daqui,\\nse eu ver vocês dois de mãos dadas, eu deixo vocês dois sozinhos!"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "そ、そんなことしねぇよ！",
+      "texto_en": "W-we won't be holding hands!",
+      "texto_ptbr": "N-não vamos dar as mãos!",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "三玖が許してくれるならな",
+      "texto_en": "If Miku doesn't mind, that is.",
+      "texto_ptbr": "Se a Miku permitir, claro.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "そいつは助かる",
+      "texto_en": "That'll be of a big help.",
+      "texto_ptbr": "Isso ajuda bastante.",
+      "selidx": 2
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "ドリームセンター:一花:五月",
+      "texto_en": "Dream Center: Ichika/Itsuki",
+      "texto_ptbr": "Dream Center: Ichika/Itsuki",
+      "selidx": 0
+    },
+    {
+      "id": 5,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "海洋博公園広場:二乃:四葉",
+      "texto_en": "Ocean Expo Park Square: Nino/Yotsuba",
+      "texto_ptbr": "Praça do Ocean Expo Park: Nino/Yotsuba",
+      "selidx": 1
+    },
+    {
+      "id": 6,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "郷土村:三玖:らいは",
+      "texto_en": "Native Okinawan Village: Miku/Raiha",
+      "texto_ptbr": "Vila Nativa de Okinawa: Miku/Raiha",
+      "selidx": 2
+    }
+  ]
+}

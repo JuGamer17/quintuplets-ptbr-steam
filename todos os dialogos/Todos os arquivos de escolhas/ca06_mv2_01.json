@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca06_mv2_01",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "自分ではよくわからないけど。\\nフータロー、どうかな？",
+      "texto_en": "I'm not too sure of myself.\\nFutaro, what do you think?",
+      "texto_ptbr": "Não estou muito confiante.\\nFuutarou, o que você acha?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "どうって言われても",
+      "texto_en": "Don't ask me.",
+      "texto_ptbr": "Não me pergunta.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "まあ、似合うんじゃないか？",
+      "texto_en": "Hmm, it suits you, doesn't it?",
+      "texto_ptbr": "Hum, acho que combina com você.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "俺はいつもの三玖がいいな",
+      "texto_en": "I prefer the usual Miku.",
+      "texto_ptbr": "Eu prefiro a Miku de sempre.",
+      "selidx": 2
+    }
+  ]
+}

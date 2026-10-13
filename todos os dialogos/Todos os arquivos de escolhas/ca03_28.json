@@ -1,0 +1,55 @@
+{
+  "arquivo": "ca03_28",
+  "total": 5,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*map",
+      "texto_jp": "dummy",
+      "texto_en": "{UNTRANSLATED}dummy",
+      "texto_ptbr": "",
+      "selidx": 0
+    },
+    {
+      "id": 1,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "けどな、三玖。\\nこれからはもっと遠慮なしでいかないか？",
+      "texto_en": "However, Miku. From now on,\\nshall we stop holding back from expressing our feelings to each other?",
+      "texto_ptbr": "Mas, Miku. De agora em diante,\\nque tal a gente parar de se segurar pra expressar os sentimentos um pro outro?"
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "こんな思いはもうしたくない",
+      "texto_en": "I don't want to feel like this anymore.",
+      "texto_ptbr": "Não quero sentir isso nunca mais.",
+      "selidx": 0
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "俺たちは恋人同士なんだから",
+      "texto_en": "We're dating.",
+      "texto_ptbr": "Afinal, nós estamos namorando.",
+      "selidx": 1
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "三玖のことをもっと知りたい",
+      "texto_en": "I want to know more about you, Miku.",
+      "texto_ptbr": "Quero saber mais sobre você, Miku.",
+      "selidx": 2
+    }
+  ]
+}

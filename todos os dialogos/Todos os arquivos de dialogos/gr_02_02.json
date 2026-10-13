@@ -1,0 +1,186 @@
+{
+  "arquivo": "gr_02_02",
+  "total": 30,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Nino",
+      "texto_en": "Hey, Futaro?\\nLet's take Raiha-chan too.",
+      "texto_ptbr": "Ei, Fuutarou?\\nVamos levar a Raiha-chan também."
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Raiha too?\\nReally?",
+      "texto_ptbr": "A Raiha também?\\nSério?"
+    },
+    {
+      "id": 2,
+      "personagem": "Nino",
+      "texto_en": "Of course, she's already like family, right?",
+      "texto_ptbr": "Claro, ela já é praticamente da família, né?"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "......\\nWell, I guess so, yeah.",
+      "texto_ptbr": "......\\nBom, acho que sim, é."
+    },
+    {
+      "id": 4,
+      "personagem": "Ichika",
+      "texto_en": "Great!",
+      "texto_ptbr": "Ótimo!"
+    },
+    {
+      "id": 5,
+      "personagem": "Yotsuba",
+      "texto_en": "Hmm.",
+      "texto_ptbr": "Hmm."
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "What's with you two?",
+      "texto_ptbr": "O que deu em vocês duas?"
+    },
+    {
+      "id": 7,
+      "personagem": "Ichika",
+      "texto_en": "Well, I just thought that hearing 'Futaro' from Nino\\nhas become quite familiar.",
+      "texto_ptbr": "Bem, é que percebi que ouvir 'Fuutarou' da Nino\\njá se tornou bem familiar."
+    },
+    {
+      "id": 8,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san seems to have gotten used to it too.\\nAt first, he was blushing every time.",
+      "texto_ptbr": "O Uesugi-san também parece ter se acostumado.\\nNo começo, ele ficava corado toda vez."
+    },
+    {
+      "id": 9,
+      "personagem": "Miku",
+      "texto_en": "That was embarrassing to watch.",
+      "texto_ptbr": "Era constrangedor de ver."
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Sh-shut up!",
+      "texto_ptbr": "C-cala a boca!"
+    },
+    {
+      "id": 11,
+      "personagem": "Ichika",
+      "texto_en": "Well, not just that,\\nbut to call each other family,\\ncould it be that you two...",
+      "texto_ptbr": "Bem, e não só isso,\\nmas chamar um ao outro de família,\\nserá que vocês dois..."
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "What?!\\nN-no way, Nino... that far?!",
+      "texto_ptbr": "O quê?!\\nN-não pode ser, Nino... tão longe assim?!"
+    },
+    {
+      "id": 13,
+      "personagem": "Miku",
+      "texto_en": "It's okay, they haven't gone that far.\\nNino is reserved in that sense,\\nand Futaro is%p-2;――",
+      "texto_ptbr": "Tudo bem, eles não foram tão longe.\\nA Nino é reservada nesse sentido,\\ne o Fuutarou é%p-2;――"
+    },
+    {
+      "id": 14,
+      "personagem": "Nino",
+      "texto_en": "H-hold it! Don't make wild assumptions!",
+      "texto_ptbr": "E-espera aí! Não tirem conclusões malucas!"
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "Well, it's heartwarming, isn't it?",
+      "texto_ptbr": "Bem, é comovente, não é?"
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "What are you looking at?",
+      "texto_ptbr": "O que você está olhando?"
+    },
+    {
+      "id": 17,
+      "personagem": "Ichika",
+      "texto_en": "A big sister's perspective? Just kidding.",
+      "texto_ptbr": "Perspectiva de irmã mais velha? Brincadeira."
+    },
+    {
+      "id": 18,
+      "personagem": "Ichika",
+      "texto_en": "But, Futaro-kun?\\nBe careful not to make Nino uneasy.",
+      "texto_ptbr": "Mas, Fuutarou-kun?\\nCuidado para não deixar a Nino insegura."
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "...I know.",
+      "texto_ptbr": "...Eu sei."
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "(I don't have to be told that. I know myself\\n that there hasn't been much progress\\n since I confessed my feelings to Nino.)",
+      "texto_ptbr": "(Não preciso que me digam isso. Eu mesmo sei\\n que não houve muito progresso\\n desde que me declarei para a Nino.)"
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "(I had exams, and I had a job as a tutor.\\n Nino was considerate of me in that regard.)",
+      "texto_ptbr": "(Eu tinha as provas e tinha o trabalho de tutor.\\n A Nino foi compreensiva comigo nesse sentido.)"
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "(I'm done with my exams now, but as long as I\\n go to Tokyo, we'll be forced into a so-called\\n long-distance relationship.)",
+      "texto_ptbr": "(Agora terminei as provas, mas, enquanto eu\\n for para Tóquio, seremos forçados a ter o chamado\\n relacionamento à distância.)"
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "(I have no doubt about Nino's feelings.\\n But as a beginner in love...\\n to be honest, I'm nothing but anxious.)",
+      "texto_ptbr": "(Não tenho dúvida dos sentimentos da Nino.\\n Mas, como iniciante no amor...\\n para ser sincero, só estou ansioso.)"
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "(That's why, on this trip, I want to deepen my bond\\n with Nino even more.\\n For that reason...!)",
+      "texto_ptbr": "(Por isso, nesta viagem, quero aprofundar o meu laço\\n com a Nino ainda mais.\\n Para isso...!)"
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "(During this trip! I will KISS HER!!)",
+      "texto_ptbr": "(Nesta viagem! Eu vou BEIJAR ELA!!)"
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "(Remember, that guy kissed her before.\\n As they say, love is about taking the initiative...\\n So I'll do as you say, Nino!)",
+      "texto_ptbr": "(Lembre-se, aquele cara a beijou antes.\\n Como dizem, o amor é tomar a iniciativa...\\n Então vou fazer como você disse, Nino!)"
+    },
+    {
+      "id": 27,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, that's right, Uesugi-san,\\ndon't worry about Raiha-chan's travel expenses!",
+      "texto_ptbr": "Ah, é verdade, Uesugi-san,\\nnão se preocupe com as despesas de viagem da Raiha-chan!"
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "Since we're the ones inviting her,\\nit's only natural for us to cover the cost.",
+      "texto_ptbr": "Como fomos nós que a convidamos,\\né natural que a gente cubra o custo."
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "O-okay.\\nI feel kinda bad. Thanks for the help.",
+      "texto_ptbr": "T-tá bom.\\nMe sinto meio mal. Valeu pela ajuda."
+    }
+  ]
+}

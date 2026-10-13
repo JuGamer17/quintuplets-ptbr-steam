@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca02_mv5_03",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "あら、でもよく撮れてるわよ？\\n変な顔を撮ったわけじゃないんだから、\\nいいでしょ？",
+      "texto_en": "Well, the pictures turned out great, didn't they?\\nI didn't take any pictures of a weird face\\nor anything, so it's fine, right?",
+      "texto_ptbr": "Bom, as fotos ficaram ótimas, não ficaram?\\nEu não tirei nenhuma foto de cara estranha nem nada,\\nentão tá tudo bem, né?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "まさか変な顔も撮ってるのか？",
+      "texto_en": "You're taking weird face shots too?",
+      "texto_ptbr": "Não me diga que você também tirou foto de careta?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "だから勝手に撮るなって",
+      "texto_en": "Without consent?",
+      "texto_ptbr": "Por isso, para de tirar sem pedir.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "お前も撮ってやる！",
+      "texto_en": "I'm gonna take pictures of you too!",
+      "texto_ptbr": "Então eu também vou tirar de você!",
+      "selidx": 2
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "arquivo": "ca01_mv5_01",
+  "total": 7,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "なっ……！？",
+      "texto_en": "Wha?!",
+      "texto_ptbr": "O quê?!"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "そ、そんなことだろうと思ったし？",
+      "texto_en": "W-well, I knew I wasn't gonna score that high.",
+      "texto_ptbr": "B-bom, eu já imaginava que seria isso, tá?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "低いな……",
+      "texto_en": "That's low...",
+      "texto_ptbr": "Que baixo...",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "まあ、そんなもんだよな",
+      "texto_en": "Well, I agree.",
+      "texto_ptbr": "Bom, é isso mesmo.",
+      "selidx": 2
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "アラハビーチＣ:一花:二乃",
+      "texto_en": "Araha Beach C: Ichika/Nino",
+      "texto_ptbr": "Araha Beach C: Ichika/Nino",
+      "selidx": 0
+    },
+    {
+      "id": 5,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "アラハビーチＢ:三玖:四葉",
+      "texto_en": "Araha Beach B: Miku/Yotsuba",
+      "texto_ptbr": "Araha Beach B: Miku/Yotsuba",
+      "selidx": 1
+    },
+    {
+      "id": 6,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "アラハビーチＡ:五月:らいは",
+      "texto_en": "Araha Beach A: Itsuki/Raiha",
+      "texto_ptbr": "Araha Beach A: Itsuki/Raiha",
+      "selidx": 2
+    }
+  ]
+}

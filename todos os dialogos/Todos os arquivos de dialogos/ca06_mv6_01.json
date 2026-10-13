@@ -1,0 +1,426 @@
+{
+  "arquivo": "ca06_mv6_01",
+  "total": 70,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(Wow...\\n I had no idea there was a beach here.)",
+      "texto_ptbr": "(Uau...\\n Eu não fazia ideia de que tinha uma praia aqui.)"
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "Oh?\\nYou came here too, Uesugi-kun.",
+      "texto_ptbr": "Ah?\\nVocê também veio aqui, Uesugi-kun."
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Hey, you guys are here too?\\nThe ocean is really beautiful.",
+      "texto_ptbr": "Ei, vocês também estão aqui?\\nO mar está mesmo lindo."
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, it is!\\nAs expected of a beach named Emerald Beach.",
+      "texto_ptbr": "Sim, está!\\nComo esperado de uma praia chamada Emerald Beach."
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, it's a stunning emerald green.",
+      "texto_ptbr": "É, é um verde-esmeralda deslumbrante."
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "The sand is so white, too...\\nWe unexpectedly stumbled upon a lovely place.",
+      "texto_ptbr": "A areia também é tão branca...\\nAcabamos encontrando um lugar encantador sem esperar."
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "Why don't you come over here, Uesugi-kun?\\nThe water is cool and refreshing.",
+      "texto_ptbr": "Por que você não vem para cá, Uesugi-kun?\\nA água está fresquinha e revigorante."
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "Heheh!\\nThe waves washing up to shore tickle my feet.",
+      "texto_ptbr": "Hehe!\\nAs ondas batendo na praia fazem cócegas nos meus pés."
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Hey, now.\\nDon't get too carried away and fall.",
+      "texto_ptbr": "Ei, calma.\\nNão se empolga demais e cai."
+    },
+    {
+      "id": 9,
+      "personagem": "Both",
+      "texto_en": "Okaaay.",
+      "texto_ptbr": "Táaa bom."
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Geez, you're acting like children,\\nrunning around like that.",
+      "texto_ptbr": "Nossa, vocês estão agindo feito criança,\\ncorrendo desse jeito."
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "(Well, I guess my spirits\\n are also lifted by such a beautiful sea.)",
+      "texto_ptbr": "(Bem, acho que meu ânimo\\n também melhora com um mar tão bonito assim.)"
+    },
+    {
+      "id": 12,
+      "personagem": "Strolling Girl",
+      "texto_en": "Hey, those girls over there, are they twins?",
+      "texto_ptbr": "Ei, aquelas garotas ali, são gêmeas?"
+    },
+    {
+      "id": 13,
+      "personagem": "Carefree Girl",
+      "texto_en": "They sure are.\\nThey seem very close with their matching outfits.",
+      "texto_ptbr": "Com certeza são.\\nParecem bem próximas, com as roupas iguais."
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "(...Here we go again.\\n Even though there are fewer tourists here\\n than in other places, they still attract attention.)",
+      "texto_ptbr": "(...Lá vamos nós de novo.\\n Mesmo tendo menos turistas aqui\\n do que em outros lugares, elas ainda chamam atenção.)"
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "(Though I thought it would be fine\\n if it's just the two of them...\\n It's only natural they stand out being this lively.)",
+      "texto_ptbr": "(Eu até pensei que seria tranquilo\\n sendo só as duas...\\n Mas é natural que se destaquem sendo tão animadas assim.)"
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Hey, let's head over to somewhere else.",
+      "texto_ptbr": "Ei, vamos para outro lugar."
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "What are you talking about?\\nThis is such a beautiful coast.\\nWe should fully enjoy it while we're here!",
+      "texto_ptbr": "Do que você está falando?\\nEssa costa é tão linda.\\nDevíamos aproveitar ao máximo enquanto estamos aqui!"
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Ah, hey, don't go too far.\\nIt'll be a hassle if you get tangled up \\nwith any troublemakers.",
+      "texto_ptbr": "Ah, ei, não vai muito longe.\\nVai ser um saco se você se enrolar \\ncom algum encrenqueiro."
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "Oh?\\nWho are these troublesome people you speak of?",
+      "texto_ptbr": "Ah?\\nQuem são essas pessoas problemáticas de que você fala?"
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "Could it be...pick-up artists?",
+      "texto_ptbr": "Será que...são cantadores?"
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Well, I suppose so.",
+      "texto_ptbr": "Bem, suponho que sim."
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "Then, we'll do this!",
+      "texto_ptbr": "Então, vamos fazer assim!"
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "Eh?!",
+      "texto_ptbr": "Ein?!"
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, I see! Like this?!",
+      "texto_ptbr": "Ah, entendi! Assim?!"
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "H-hey, what are you doing?!",
+      "texto_ptbr": "E-ei, o que você está fazendo?!"
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "What are you waiting for?",
+      "texto_ptbr": "O que você está esperando?"
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "Actually, it's a pretty good idea, isn't it?",
+      "texto_ptbr": "Na verdade, é uma ideia bem boa, não é?"
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "Just back off, will you?!",
+      "texto_ptbr": "Só se afasta, quer?!"
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "It's to deal with any troublemakers,\\nso we can't do that.",
+      "texto_ptbr": "É para lidar com qualquer encrenqueiro,\\nentão não podemos fazer isso."
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, that's right.\\nWe can stay like this, and feel safe.",
+      "texto_ptbr": "Sim, isso mesmo.\\nPodemos ficar assim, e nos sentir seguros."
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "This is only going to make us stand out more.",
+      "texto_ptbr": "Isso só vai fazer a gente se destacar ainda mais."
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "Do you think so?\\nIt's pretty normal in tourist spots, isn't it?",
+      "texto_ptbr": "Você acha?\\nÉ bem normal em pontos turísticos, não é?"
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "What kind of logic is that?\\nJust back off already.",
+      "texto_ptbr": "Que lógica é essa?\\nSó se afasta logo."
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "You said not to go too far,\\nand now you're telling me to go away?\\nYou're a very demanding person.",
+      "texto_ptbr": "Você disse para eu não ir muito longe,\\ne agora está me mandando ficar longe?\\nVocê é uma pessoa muito exigente."
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Well, I guess this could work, huh?",
+      "texto_ptbr": "Bem, acho que isso pode funcionar, né?"
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "Is that so?\\nYou don't seem to mind it, do you?",
+      "texto_ptbr": "É mesmo?\\nVocê parece não se importar, não é?"
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "N-no, that's not what I meant!",
+      "texto_ptbr": "N-não, não foi isso que eu quis dizer!"
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "I mean, what's my position in all this?",
+      "texto_ptbr": "Quer dizer, qual é a minha posição em tudo isso?"
+    },
+    {
+      "id": 39,
+      "personagem": "Itsuki",
+      "texto_en": "Is that bothering you?\\nWell...",
+      "texto_ptbr": "Isso está te incomodando?\\nBem..."
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "You might be a sleazy guy who's dating both of us\\nat the same time.",
+      "texto_ptbr": "Você pode ser um cara sujeito que está namorando as duas\\nao mesmo tempo."
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "Or, maybe you're a questionable guy\\nwho deceives women.",
+      "texto_ptbr": "Ou, talvez você seja um cara suspeito\\nque engana mulheres."
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Hold on a second! Don't just label me as the bad guy!",
+      "texto_ptbr": "Espera um pouco! Não vai me rotulando de vilão assim!"
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "This way, any nearby troublesome guys\\nwon't come near us, right?",
+      "texto_ptbr": "Assim, qualquer cara problemático por perto\\nnão vai chegar perto da gente, né?"
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "But we're standing out even more, aren't we?!",
+      "texto_ptbr": "Mas a gente está se destacando ainda mais, não está?!"
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "You say that, but deep down you're actually happy,\\naren't you?",
+      "texto_ptbr": "Você fala isso, mas no fundo está feliz,\\nnão está?"
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "N-no, it's not like that...",
+      "texto_ptbr": "N-não, não é assim..."
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "It's okay to not be embarrassed, you know.\\nYou should be more honest with yourself.",
+      "texto_ptbr": "Não precisa ficar sem graça, sabe.\\nVocê devia ser mais honesto consigo mesmo."
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "(Teasing me like this...\\n Could this be Ichika?)",
+      "texto_ptbr": "(Me provocando desse jeito...\\n Será que é a Ichika?)"
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "(No, it could also be one of the other sisters\\n acting like Ichika... Which is it?)",
+      "texto_ptbr": "(Não, também pode ser uma das outras irmãs\\n agindo como a Ichika... Qual é?)"
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "Are you happy, or not?\\nThat's all I want to know.",
+      "texto_ptbr": "Você está feliz, ou não?\\nÉ só isso que eu quero saber."
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "It doesn't matter either way...\\nJust please, get off me already!",
+      "texto_ptbr": "Não importa de qualquer jeito...\\nSó, por favor, sai de cima de mim logo!"
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*\\nCome on, I feel like I'm wasting my energy for nothing.",
+      "texto_ptbr": "*suspiro*\\nQue saco, sinto que estou gastando energia à toa."
+    },
+    {
+      "id": 53,
+      "personagem": "Itsuki",
+      "texto_en": "But isn't this what you wanted, Uesugi-kun?",
+      "texto_ptbr": "Mas não é isso que você queria, Uesugi-kun?"
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "...Huh?",
+      "texto_ptbr": "...Hã?"
+    },
+    {
+      "id": 55,
+      "personagem": "Itsuki",
+      "texto_en": "'I really love you five.\\nI hope we can stay in this same relationship forever,\\nthe six of us.'",
+      "texto_ptbr": "'Eu realmente amo vocês cinco.\\nEspero que possamos manter esse mesmo relacionamento para sempre,\\nnós seis.'"
+    },
+    {
+      "id": 56,
+      "personagem": "Itsuki",
+      "texto_en": "You said that on the first day of the school festival.",
+      "texto_ptbr": "Você disse isso no primeiro dia do festival escolar."
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "Well, that's...",
+      "texto_ptbr": "Bem, isso é..."
+    },
+    {
+      "id": 58,
+      "personagem": "Itsuki",
+      "texto_en": "And then to 'not choose anyone,' on top of all that.",
+      "texto_ptbr": "E depois 'não escolher ninguém', além de tudo isso."
+    },
+    {
+      "id": 59,
+      "personagem": "Itsuki",
+      "texto_en": "Words like that can lead to this kind of situation,\\nif you really think about it.",
+      "texto_ptbr": "Palavras assim podem levar a esse tipo de situação,\\nse você pensar bem."
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "!...",
+      "texto_ptbr": "!..."
+    },
+    {
+      "id": 61,
+      "personagem": "Itsuki",
+      "texto_en": "Saying to 'not choose anyone' is a line\\nthat couldn't be said, unless you had confidence\\nthat all five of us liked you.",
+      "texto_ptbr": "Dizer 'não escolher ninguém' é uma frase\\nque não poderia ser dita, a menos que você tivesse confiança\\nde que todas nós cinco gostávamos de você."
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "I-I didn't mean it like that.\\nI just%p-2;――",
+      "texto_ptbr": "E-eu não quis dizer isso.\\nEu só%p-2;――"
+    },
+    {
+      "id": 63,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, come on. It was just a joke.",
+      "texto_ptbr": "Ah, qual é. Foi só uma brincadeira."
+    },
+    {
+      "id": 64,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, it was just a little joke.\\nDon't worry about it.",
+      "texto_ptbr": "Sim, foi só uma brincadeirinha.\\nNão se preocupa com isso."
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "What do you mean, a joke...",
+      "texto_ptbr": "Como assim, uma brincadeira..."
+    },
+    {
+      "id": 66,
+      "personagem": "Itsuki",
+      "texto_en": "It seems like we really are attracting \\ntoo much attention now.",
+      "texto_ptbr": "Parece que estamos realmente chamando \\natenção demais agora."
+    },
+    {
+      "id": 67,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, shall we move before we cause any more commotion,\\nlike we did before?",
+      "texto_ptbr": "Sim, vamos nos mexer antes que causemos mais alvoroço,\\ncomo fizemos antes?"
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "H-hey?!",
+      "texto_ptbr": "E-ei?!"
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "(...Was she really joking just now?)",
+      "texto_ptbr": "(...Será que ela estava mesmo brincando agora?)"
+    }
+  ]
+}

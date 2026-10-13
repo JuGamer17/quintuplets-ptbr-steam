@@ -1,0 +1,162 @@
+{
+  "arquivo": "ca06_17",
+  "total": 26,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(After leaving American Village,\\n we arrived at our next destination,\\n the Okinawa Prefectural Museum.)",
+      "texto_ptbr": "(Depois de sair da American Village,\\n chegamos ao nosso próximo destino,\\n o Museu Provincial de Okinawa.)"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(I was honestly surprised\\n that we almost caused a commotion...)",
+      "texto_ptbr": "(Para ser sincero, fiquei surpreso\\n por quase termos causado um tumulto...)"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(Being quintuplets and all, dressed the same way,\\n it can't be helped that they attract attention\\n to some extent.)",
+      "texto_ptbr": "(Sendo quintuplas e tudo mais, vestidas da mesma forma,\\n não tem como evitar que elas chamem atenção\\n até certo ponto.)"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Oh, I see...\\nThis museum is different from what I imagined.\\nIt's kinda stylish, or something.",
+      "texto_ptbr": "Ah, entendi...\\nEsse museu é diferente do que eu imaginava.\\nÉ meio estiloso, sei lá."
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "This museum is combined with an art museum,\\nso that might be related, don't you think?",
+      "texto_ptbr": "Esse museu é combinado com um museu de arte,\\nentão talvez tenha a ver com isso, não acha?"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, I can get that.",
+      "texto_ptbr": "É, faz sentido."
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "From this facility alone, you can learn about\\nOkinawa's history, culture, and even its climate\\nand art. That's a pretty good deal, right?",
+      "texto_ptbr": "Só com esse lugar, dá para aprender sobre\\na história, cultura, e até o clima\\ne a arte de Okinawa. É um ótimo negócio, não é?"
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "There's also a shop inside the museum.\\nIt might be a good idea to buy some crafts\\nor folk art as souvenirs.",
+      "texto_ptbr": "Também tem uma loja dentro do museu.\\nPode ser uma boa ideia comprar alguns artesanatos\\nou arte popular como lembrança."
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, they also have workshop events here.\\nWhy don't we participate if we have time?",
+      "texto_ptbr": "Ah, também tem eventos de oficina aqui.\\nQue tal participarmos se tivermos tempo?"
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "...Hey.\\nAren't we already attracting attention\\nfrom the people around us?",
+      "texto_ptbr": "...Ei.\\nA gente já não está chamando atenção\\ndas pessoas ao redor?"
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "Ooh...\\nWe're well aware of that too.",
+      "texto_ptbr": "Ah...\\nJá estamos bem cientes disso também."
+    },
+    {
+      "id": 11,
+      "personagem": "Itsuki",
+      "texto_en": "Us five are bound to stand out no matter what.",
+      "texto_ptbr": "Nós cinco vamos chamar atenção de qualquer jeito."
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "I mean, after all, you're five identical people.\\nIt's only natural that you draw attention.",
+      "texto_ptbr": "Quer dizer, afinal, vocês são cinco pessoas idênticas.\\nÉ natural que chamem atenção."
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "That's true...",
+      "texto_ptbr": "Isso é verdade..."
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "What should we do?\\nWe might end up in the same situation as before.",
+      "texto_ptbr": "O que devemos fazer?\\nPodemos acabar na mesma situação de antes."
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "At American Village,\\nwe started off doing things separately, didn't we?",
+      "texto_ptbr": "Na American Village,\\na gente começou fazendo as coisas separadamente, não foi?"
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "Thanks to that,\\nwe didn't attract any attention while sightseeing.",
+      "texto_ptbr": "Graças a isso,\\nnão chamamos atenção nenhuma enquanto passeávamos."
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "It seems like we should split up here too.",
+      "texto_ptbr": "Parece que devemos nos separar aqui também."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Yes, being separated\\nwill definitely reduce the chance we're noticed,\\ncompared to being all together.",
+      "texto_ptbr": "Sim, estar separados\\nvai com certeza diminuir a chance de sermos notados,\\ncomparado a estarmos todos juntos."
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "Okay, let's freely move about for now,\\nand everyone can explore as they like.",
+      "texto_ptbr": "Certo, vamos nos mover livremente por agora,\\ne cada uma pode explorar como quiser."
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "We'll meet up again at this entrance hall.",
+      "texto_ptbr": "Vamos nos encontrar de novo aqui no hall de entrada."
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Okay.",
+      "texto_ptbr": "Certo."
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Now...",
+      "texto_ptbr": "Agora..."
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "(I'm pretty sure we came to this museum because Miku\\n was interested in the relationship between Ryukyu\\n history and Japanese military commanders.)",
+      "texto_ptbr": "(Tenho quase certeza de que viemos a esse museu porque a Miku\\n estava interessada na relação entre a história\\n de Ryukyu e os comandantes militares japoneses.)"
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "(If that's the case, there's a high probability\\n that Miku will be the one who is most enthusiastic\\n about the exhibits...right?)",
+      "texto_ptbr": "(Se for esse o caso, há uma grande probabilidade\\n de que a Miku seja a mais empolgada\\n com as exposições... certo?)"
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "(Should I start from there?\\n Since I don't have any other clues at the moment?)",
+      "texto_ptbr": "(Devo começar por aí?\\n Já que não tenho nenhuma outra pista no momento?)"
+    }
+  ]
+}

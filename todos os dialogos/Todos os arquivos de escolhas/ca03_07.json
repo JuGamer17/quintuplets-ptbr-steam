@@ -1,0 +1,46 @@
+{
+  "arquivo": "ca03_07",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*map",
+      "texto_jp": "dummy",
+      "texto_en": "{UNTRANSLATED}dummy",
+      "texto_ptbr": "",
+      "selidx": 0
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "生物展示:一花:三玖",
+      "texto_en": "Biology Exhibit: Ichika/Miku",
+      "texto_ptbr": "Exposição de Biologia: Ichika/Miku",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "文芸展示:二乃:五月",
+      "texto_en": "Arts and Literature Exhibit: Nino/Itsuki",
+      "texto_ptbr": "Exposição de Artes e Literatura: Nino/Itsuki",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "ホール:四葉:らいは",
+      "texto_en": "Hall: Yotsuba/Raiha",
+      "texto_ptbr": "Salão: Yotsuba/Raiha",
+      "selidx": 2
+    }
+  ]
+}

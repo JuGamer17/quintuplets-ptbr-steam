@@ -1,0 +1,522 @@
+{
+  "arquivo": "ca04_mv2_01",
+  "total": 86,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Hey can I talk to you for a bit?",
+      "texto_ptbr": "Ei, posso falar com vocês um instante?"
+    },
+    {
+      "id": 1,
+      "personagem": "Ichika",
+      "texto_en": "Huh? It's Futaro-kun again. What is it this time?",
+      "texto_ptbr": "Hã? É o Fuutarou-kun de novo. O que foi dessa vez?"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Actually, I have something I want to ask Miku.",
+      "texto_ptbr": "Na verdade, tenho uma coisa pra perguntar pra Miku."
+    },
+    {
+      "id": 3,
+      "personagem": "Miku",
+      "texto_en": "What? Me?",
+      "texto_ptbr": "O quê? Eu?"
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Do you have anything you want to do after this, Miku?\\nSightseeing, shopping, anything is fine.",
+      "texto_ptbr": "Tem alguma coisa que você queira fazer depois disso, Miku?\\nPasseio, compras, qualquer coisa serve."
+    },
+    {
+      "id": 5,
+      "personagem": "Ichika",
+      "texto_en": "Yotsuba wants to know everyone's thoughts.",
+      "texto_ptbr": "A Yotsuba quer saber o que todo mundo pensa."
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "Ah, I see.\\nThat's just like Yotsuba.",
+      "texto_ptbr": "Ah, entendi.\\nIsso é a cara da Yotsuba."
+    },
+    {
+      "id": 7,
+      "personagem": "Miku",
+      "texto_en": "I don't really have anything in mind...\\nanything is fine. Just tell Yotsuba to decide.",
+      "texto_ptbr": "Não tenho nada em mente, na verdade...\\nqualquer coisa serve. É só dizer pra Yotsuba decidir."
+    },
+    {
+      "id": 8,
+      "personagem": "Ichika",
+      "texto_en": "Hey, Futaro-kun. It's nice that you're asking\\nfor our thoughts, but in the end, it's up to\\nyou and Yotsuba to decide based on what you like, okay?",
+      "texto_ptbr": "Ei, Fuutarou-kun. É legal você estar perguntando\\nas nossas ideias, mas no fim das contas, quem decide\\nsão você e a Yotsuba, com base no que vocês gostam, tá?"
+    },
+    {
+      "id": 9,
+      "personagem": "Miku",
+      "texto_en": "I think I agree with Ichika on this one.",
+      "texto_ptbr": "Acho que concordo com a Ichika nessa."
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Got it. I'll let Yotsuba know.",
+      "texto_ptbr": "Entendido. Vou avisar a Yotsuba."
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "Oh, Futaro?\\nDo you still have something to ask?",
+      "texto_ptbr": "Ah, Fuutarou?\\nAinda tem algo pra perguntar?"
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, I wanted to ask Ichika something.",
+      "texto_ptbr": "Tenho, queria perguntar uma coisa pra Ichika."
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "Me?",
+      "texto_ptbr": "Eu?"
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Is there anything that\\nyou want to do after this, Ichika?\\nSightseeing, shopping, anything is fine.",
+      "texto_ptbr": "Tem alguma coisa que\\nvocê queira fazer depois disso, Ichika?\\nPasseio, compras, qualquer coisa serve."
+    },
+    {
+      "id": 15,
+      "personagem": "Miku",
+      "texto_en": "Yotsuba wants to know what everyone wants to do.",
+      "texto_ptbr": "A Yotsuba quer saber o que todo mundo quer fazer."
+    },
+    {
+      "id": 16,
+      "personagem": "Ichika",
+      "texto_en": "Ah I see.",
+      "texto_ptbr": "Ah, entendi."
+    },
+    {
+      "id": 17,
+      "personagem": "Ichika",
+      "texto_en": "Hmm...\\nHow about parasailing again?",
+      "texto_ptbr": "Hmm...\\nQue tal parasailing de novo?"
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "You really liked that too, huh, Ichika.",
+      "texto_ptbr": "Você gostou muito disso também, hein, Ichika."
+    },
+    {
+      "id": 19,
+      "personagem": "Ichika",
+      "texto_en": "It felt great to fly through the sky.\\nI'm okay with switching partners too.",
+      "texto_ptbr": "Foi ótimo voar pelo céu.\\nEu topo trocar de dupla também."
+    },
+    {
+      "id": 20,
+      "personagem": "Ichika",
+      "texto_en": "Hey, Futaro-kun. It's nice that you're asking\\nfor our thoughts, but in the end, it's up to\\nyou and Yotsuba to decide based on what you like, okay?",
+      "texto_ptbr": "Ei, Fuutarou-kun. É legal você estar perguntando\\nas nossas ideias, mas no fim das contas, quem decide\\nsão você e a Yotsuba, com base no que vocês gostam, tá?"
+    },
+    {
+      "id": 21,
+      "personagem": "Miku",
+      "texto_en": "I think I agree with Ichika on this one.",
+      "texto_ptbr": "Acho que concordo com a Ichika nessa."
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Got it. I'll let Yotsuba know.",
+      "texto_ptbr": "Entendido. Vou avisar a Yotsuba."
+    },
+    {
+      "id": 23,
+      "personagem": "Miku",
+      "texto_en": "Oh, Futaro?\\nWhat are you doing by yourself?",
+      "texto_ptbr": "Ah, Fuutarou?\\nO que você está fazendo sozinho?"
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "I've been looking for you guys,\\nI had something I wanted to ask you.",
+      "texto_ptbr": "Estava procurando vocês,\\ntinha uma coisa pra perguntar."
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "Huh? Coming all the way to see us?\\nIs something the matter?",
+      "texto_ptbr": "Hã? Veio até aqui só pra nos ver?\\nAconteceu alguma coisa?"
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "It's nothing major.\\nDo you guys have anything you want to do after this?",
+      "texto_ptbr": "Nada demais.\\nVocês têm alguma coisa que queiram fazer depois disso?"
+    },
+    {
+      "id": 27,
+      "personagem": "Miku",
+      "texto_en": "Why are you asking us?",
+      "texto_ptbr": "Por que você está perguntando pra gente?"
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "Yotsuba wants to know everyone's thoughts,\\nso I thought I would ask.",
+      "texto_ptbr": "A Yotsuba quer saber o que todo mundo pensa,\\nentão pensei em perguntar."
+    },
+    {
+      "id": 29,
+      "personagem": "Ichika",
+      "texto_en": "I see, so that's what's going on.",
+      "texto_ptbr": "Entendi, então é isso que está rolando."
+    },
+    {
+      "id": 30,
+      "personagem": "Ichika",
+      "texto_en": "Hey, Futaro-kun. It's nice that you're asking\\nfor our thoughts, but in the end, it's up to\\nyou and Yotsuba to decide based on what you like, okay?",
+      "texto_ptbr": "Ei, Fuutarou-kun. É legal você estar perguntando\\nas nossas ideias, mas no fim das contas, quem decide\\nsão você e a Yotsuba, com base no que vocês gostam, tá?"
+    },
+    {
+      "id": 31,
+      "personagem": "Miku",
+      "texto_en": "I think I agree with Ichika on this one.",
+      "texto_ptbr": "Acho que concordo com a Ichika nessa."
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Got it. I'll let Yotsuba know.",
+      "texto_ptbr": "Entendido. Vou avisar a Yotsuba."
+    },
+    {
+      "id": 33,
+      "personagem": "Ichika",
+      "texto_en": "Well, to be honest,\\neverything we could do seems like fun.",
+      "texto_ptbr": "Bem, pra ser sincera,\\ntudo o que a gente poderia fazer parece divertido."
+    },
+    {
+      "id": 34,
+      "personagem": "Miku",
+      "texto_en": "Yeah, even just swimming in the beautiful ocean\\nis a lot of fun%p-2;――",
+      "texto_ptbr": "É, até nadar no mar lindo\\né muito divertido%p-2;――"
+    },
+    {
+      "id": 35,
+      "personagem": "Miku",
+      "texto_en": "Ah, but jellyfish are scary.",
+      "texto_ptbr": "Ah, mas águas-vivas dão medo."
+    },
+    {
+      "id": 36,
+      "personagem": "Ichika",
+      "texto_en": "Jellyfish? Are there any here?",
+      "texto_ptbr": "Águas-vivas? Tem alguma aqui?"
+    },
+    {
+      "id": 37,
+      "personagem": "Miku",
+      "texto_en": "No, but it would be an issue if there were.",
+      "texto_ptbr": "Não, mas seria um problema se tivesse."
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "Are you afraid of jellyfish, Miku?",
+      "texto_ptbr": "Você tem medo de águas-vivas, Miku?"
+    },
+    {
+      "id": 39,
+      "personagem": "Miku",
+      "texto_en": "Not really, but there was a sign that said\\nthere were dangerous ones around.",
+      "texto_ptbr": "Nem tanto, mas tinha uma placa dizendo\\nque havia algumas perigosas por aí."
+    },
+    {
+      "id": 40,
+      "personagem": "Miku",
+      "texto_en": "I think it was the habu-jellyfish and the man o' war.\\nThey both have venom.",
+      "texto_ptbr": "Acho que era a água-viva-habu e a caravela-portuguesa.\\nAs duas têm veneno."
+    },
+    {
+      "id": 41,
+      "personagem": "Ichika",
+      "texto_en": "There's a jellyfish called the habu-jellyfish?\\nI've heard of a snake called a habu,\\nbut not a jellyfish.",
+      "texto_ptbr": "Existe uma água-viva chamada habu?\\nJá ouvi falar da cobra habu,\\nmas de água-viva não."
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "The name of the habu-jellyfish\\ncomes from the habu snake.\\nIt's a jellyfish with venom just that strong.",
+      "texto_ptbr": "O nome da água-viva-habu\\nvem da cobra habu.\\nÉ uma água-viva com um veneno tão forte quanto."
+    },
+    {
+      "id": 43,
+      "personagem": "Miku",
+      "texto_en": "Both stings are supposed to be painful.\\nAnd, they say where you get stung swells up a lot.",
+      "texto_ptbr": "As duas picadas devem ser dolorosas.\\nE dizem que o lugar da picada incha bastante."
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "Be careful, okay?\\nI've heard that in the worst case,\\nyou could end up in the hospital.",
+      "texto_ptbr": "Tomem cuidado, tá?\\nOuvi dizer que, no pior dos casos,\\nvocê pode acabar no hospital."
+    },
+    {
+      "id": 45,
+      "personagem": "Ichika",
+      "texto_en": "Aaaah...\\nI definitely want to avoid that during this trip.",
+      "texto_ptbr": "Aaaah...\\nCom certeza quero evitar isso nessa viagem."
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Well, jellyfish should only appear from around May.",
+      "texto_ptbr": "Bem, as águas-vivas só devem aparecer a partir de maio."
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "Besides, this beach has jellyfish prevention nets\\ninstalled, so there's no need to worry too much.",
+      "texto_ptbr": "Além disso, essa praia tem redes de proteção contra águas-vivas\\ninstaladas, então não precisa se preocupar demais."
+    },
+    {
+      "id": 48,
+      "personagem": "Miku",
+      "texto_en": "The nets are those things out in the ocean, right?",
+      "texto_ptbr": "As redes são aquelas coisas lá no mar, né?"
+    },
+    {
+      "id": 49,
+      "personagem": "Miku",
+      "texto_en": "Oh, I see. Those are for jellyfish. That's a relief.",
+      "texto_ptbr": "Ah, entendi. Aquilo é pra águas-vivas. Que alívio."
+    },
+    {
+      "id": 50,
+      "personagem": "Ichika",
+      "texto_en": "Jellyfish in aquariums\\nare beautiful and soothing to watch,\\nbut there are also dangerous ones among them, huh.",
+      "texto_ptbr": "Águas-vivas em aquários\\nsão lindas e relaxantes de ver,\\nmas também tem umas perigosas entre elas, hein."
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "You think watching jellyfish is soothing?",
+      "texto_ptbr": "Você acha relaxante ver águas-vivas?"
+    },
+    {
+      "id": 52,
+      "personagem": "Ichika",
+      "texto_en": "Isn't it relaxing just to watch them drift leisurely?\\nI think there's a healing effect to it.",
+      "texto_ptbr": "Não é relaxante só de ver elas flutuando à toa?\\nAcho que tem um efeito calmante nisso."
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "Well, but if you look closely,\\njellyfish are kinda gross, aren't they?",
+      "texto_ptbr": "Bem, mas se você olhar de perto,\\nas águas-vivas são meio nojentas, não são?"
+    },
+    {
+      "id": 54,
+      "personagem": "Miku",
+      "texto_en": "Some people might feel that way.",
+      "texto_ptbr": "Algumas pessoas podem pensar assim."
+    },
+    {
+      "id": 55,
+      "personagem": "Ichika",
+      "texto_en": "If that's the case,\\nthen just don't look at them too closely.",
+      "texto_ptbr": "Se for assim,\\nentão é só não olhar muito de perto."
+    },
+    {
+      "id": 56,
+      "personagem": "Ichika",
+      "texto_en": "For the sake of one another, appreciate their beauty\\nby squinting your eyes and talking about how prettily\\nthey flutter around. Yeah, that'd be nice.",
+      "texto_ptbr": "Pelo bem de todos, aprecie a beleza delas\\nfranzindo os olhos e falando de como elas\\nflutuam lindamente. É, isso seria legal."
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "What are you going on about...?",
+      "texto_ptbr": "Do que você está falando...?"
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "In any case, if you want to see jellyfish safely,\\ngoing to an aquarium is probably the best option.",
+      "texto_ptbr": "De qualquer forma, se você quer ver águas-vivas com segurança,\\nir a um aquário provavelmente é a melhor opção."
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "What should we do?\\nShould we add it to the list of things we want to do?",
+      "texto_ptbr": "O que a gente faz?\\nA gente coloca isso na lista de coisas que queremos fazer?"
+    },
+    {
+      "id": 60,
+      "personagem": "Ichika",
+      "texto_en": "Hmm?\\nWasn't a trip to the aquarium\\nalready on the schedule somewhere?",
+      "texto_ptbr": "Hmm?\\nUma visita ao aquário já não estava\\nno cronograma em algum lugar?"
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "They may look pretty, but just be sure\\nnot to touch them. Even the ones washed up on the beach.",
+      "texto_ptbr": "Podem ser bonitas, mas não se esqueçam de\\nnão encostar nelas. Nem nas que foram parar na praia."
+    },
+    {
+      "id": 62,
+      "personagem": "Miku",
+      "texto_en": "They're probably dead anyway,\\nand even then you can't touch them?",
+      "texto_ptbr": "Elas provavelmente já estão mortas,\\ne mesmo assim não pode encostar?"
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "Even if the jellyfish itself is dead,\\nif you touch the tentacles,\\nthey'll sting you out of reflex.",
+      "texto_ptbr": "Mesmo que a água-viva em si esteja morta,\\nse você encostar nos tentáculos,\\neles picam por reflexo."
+    },
+    {
+      "id": 64,
+      "personagem": "Ichika",
+      "texto_en": "Wow, really?\\nThat's freaky.",
+      "texto_ptbr": "Nossa, sério?\\nQue assustador."
+    },
+    {
+      "id": 65,
+      "personagem": "Miku",
+      "texto_en": "I'll tell everyone else, too.",
+      "texto_ptbr": "Vou contar pra todo mundo também."
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "Yeah.\\nIt wouldn't be funny if our trip\\nwas ruined by jellyfish.",
+      "texto_ptbr": "É.\\nSeria uma droga se a nossa viagem\\nfosse arruinada por águas-vivas."
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "In any case, if you want to see jellyfish safely,\\ngoing to an aquarium is probably the best option.",
+      "texto_ptbr": "De qualquer forma, se você quer ver águas-vivas com segurança,\\nir a um aquário provavelmente é a melhor opção."
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "What should we do?\\nShould we add it to the list of things we want to do?",
+      "texto_ptbr": "O que a gente faz?\\nA gente coloca isso na lista de coisas que queremos fazer?"
+    },
+    {
+      "id": 69,
+      "personagem": "Ichika",
+      "texto_en": "Hmm?\\nWasn't a trip to the aquarium\\nalready on the schedule somewhere?",
+      "texto_ptbr": "Hmm?\\nUma visita ao aquário já não estava\\nno cronograma em algum lugar?"
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "Aquariums are designed for them.\\nThey use lighting cleverly to make them\\nlook beautiful, don't they.",
+      "texto_ptbr": "Os aquários são feitos pra elas.\\nUsam a iluminação de forma inteligente pra fazer com que elas\\nfiquem lindas, né."
+    },
+    {
+      "id": 71,
+      "personagem": "Ichika",
+      "texto_en": "Jellyfish are transparent, so you can create\\nmany different effects with lighting colors and angles.",
+      "texto_ptbr": "As águas-vivas são transparentes, então dá pra criar\\nvários efeitos diferentes com cores e ângulos de luz."
+    },
+    {
+      "id": 72,
+      "personagem": "Ichika",
+      "texto_en": "Thinking about it,\\nit's similar to photography.\\nThe image can change completely with just one light.",
+      "texto_ptbr": "Pensando bem,\\né parecido com fotografia.\\nA imagem pode mudar completamente com uma única luz."
+    },
+    {
+      "id": 73,
+      "personagem": "Miku",
+      "texto_en": "Is that so.",
+      "texto_ptbr": "É mesmo."
+    },
+    {
+      "id": 74,
+      "personagem": "Ichika",
+      "texto_en": "We take many shots using various lighting\\nto match the cameraman's image.\\nAs an actress, we have to match that too.",
+      "texto_ptbr": "A gente tira muitas fotos com várias iluminações\\npra combinar com a imagem do fotógrafo.\\nComo atriz, a gente tem que combinar com isso também."
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "Wow, actresses have it tough too.",
+      "texto_ptbr": "Nossa, atrizes também sofrem."
+    },
+    {
+      "id": 76,
+      "personagem": "Ichika",
+      "texto_en": "Well, it's not that tough.\\nIt's our job, and they're trying to bring out\\nour good side.",
+      "texto_ptbr": "Bem, não é tão difícil assim.\\nÉ o nosso trabalho, e eles estão tentando\\nrealçar o nosso lado bom."
+    },
+    {
+      "id": 77,
+      "personagem": "Futaro",
+      "texto_en": "I see.\\nSo, you take many shots because\\nthere's joy in bringing out everyone's good side.",
+      "texto_ptbr": "Entendi.\\nEntão vocês tiram muitas fotos porque\\nhá alegria em realçar o lado bom de cada uma."
+    },
+    {
+      "id": 78,
+      "personagem": "Ichika",
+      "texto_en": "That's right!\\nIt isn't super serious though.",
+      "texto_ptbr": "Isso mesmo!\\nMas não é nada super sério."
+    },
+    {
+      "id": 79,
+      "personagem": "Futaro",
+      "texto_en": "In any case, if you want to see jellyfish safely,\\ngoing to an aquarium is probably the best option.",
+      "texto_ptbr": "De qualquer forma, se você quer ver águas-vivas com segurança,\\nir a um aquário provavelmente é a melhor opção."
+    },
+    {
+      "id": 80,
+      "personagem": "Futaro",
+      "texto_en": "What should we do?\\nShould we add it to the list of things we want to do?",
+      "texto_ptbr": "O que a gente faz?\\nA gente coloca isso na lista de coisas que queremos fazer?"
+    },
+    {
+      "id": 81,
+      "personagem": "Ichika",
+      "texto_en": "Hmm?\\nWasn't a trip to the aquarium\\nalready on the schedule somewhere?",
+      "texto_ptbr": "Hmm?\\nUma visita ao aquário já não estava\\nno cronograma em algum lugar?"
+    },
+    {
+      "id": 82,
+      "personagem": "Futaro",
+      "texto_en": "Oh, right, we're going to Ocean Expo Park.\\nThat's where Churaumi Aquarium is.",
+      "texto_ptbr": "Ah, é, a gente vai pro Ocean Expo Park.\\nÉ lá que fica o Aquário Churaumi."
+    },
+    {
+      "id": 83,
+      "personagem": "Miku",
+      "texto_en": "Then it seems like\\nwe'll be able to see some\\njellyfish after all.",
+      "texto_ptbr": "Então parece que\\nvamos conseguir ver umas\\nágua-vivas no fim das contas."
+    },
+    {
+      "id": 84,
+      "personagem": "Ichika",
+      "texto_en": "Then, that should be plenty for us.\\nWe'll leave it up to you and Yotsuba\\nto decide what to do, Futaro-kun.",
+      "texto_ptbr": "Então isso já deve ser mais que suficiente pra gente.\\nDeixamos por conta de você e da Yotsuba\\ndecidir o que fazer, Fuutarou-kun."
+    },
+    {
+      "id": 85,
+      "personagem": "Futaro",
+      "texto_en": "Got it. I'll let Yotsuba know.",
+      "texto_ptbr": "Entendido. Vou avisar a Yotsuba."
+    }
+  ]
+}

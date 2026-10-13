@@ -1,0 +1,510 @@
+{
+  "arquivo": "ca01_24",
+  "total": 84,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Raiha",
+      "texto_en": "Okay, I'll open it now!",
+      "texto_ptbr": "Certo, vou abrir agora!"
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "Good morning, Fu-kun.",
+      "texto_ptbr": "Bom dia, Fu-kun."
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Ah, you came.",
+      "texto_ptbr": "Ah, vocês vieram."
+    },
+    {
+      "id": 3,
+      "personagem": "Miku",
+      "texto_en": "We went to the convenience store\\nand bought the necessities.\\nLike water, and foods that are good for digestion.",
+      "texto_ptbr": "Fomos à loja de conveniência\\ne compramos o necessário.\\nComo água e comidas de fácil digestão."
+    },
+    {
+      "id": 4,
+      "personagem": "Yotsuba",
+      "texto_en": "How is Ichika doing?",
+      "texto_ptbr": "Como a Ichika tá?"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "She's in the same condition as last night.\\nHer consciousness is clear, but...",
+      "texto_ptbr": "Tá na mesma situação de ontem à noite.\\nA consciência tá clara, mas..."
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "I'll be fine.\\nMy fever isn't high or anything.",
+      "texto_ptbr": "Vou ficar bem.\\nMinha febre não tá alta nem nada."
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "I'm still worried!",
+      "texto_ptbr": "Mesmo assim fico preocupada!"
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "Don't you think\\nwe should ask the hotel to call a doctor?",
+      "texto_ptbr": "Você não acha\\nque a gente devia pedir pro hotel chamar um médico?"
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "Sorry, I appreciate you looking out for me,\\nbut I don't want to make a big deal out of this.",
+      "texto_ptbr": "Desculpa, agradeço vocês se preocuparem comigo,\\nmas não quero fazer disso um drama."
+    },
+    {
+      "id": 10,
+      "personagem": "Miku",
+      "texto_en": "But what if you got some kind of illness...",
+      "texto_ptbr": "Mas e se você tiver pego alguma doença..."
+    },
+    {
+      "id": 11,
+      "personagem": "Ichika",
+      "texto_en": "No, I think I'm just exhausted.",
+      "texto_ptbr": "Não, acho que estou simplesmente esgotada."
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "I haven't told everyone,\\nbut I've been working really hard recently.",
+      "texto_ptbr": "Não contei pra todo mundo,\\nmas tenho trabalhado muito ultimamente."
+    },
+    {
+      "id": 13,
+      "personagem": "Miku",
+      "texto_en": "Oh really?",
+      "texto_ptbr": "Sério?"
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "It was difficult trying to get this week off.\\nBeing successful sure is tough.",
+      "texto_ptbr": "Foi difícil conseguir essa semana de folga.\\nTer sucesso é puxado mesmo."
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "(That's true, I couldn't believe she got a week off, but...\\n I guess she worked in advance to get it?)",
+      "texto_ptbr": "(É verdade, não acreditei que ela conseguiu uma semana de folga, mas...\\n Acho que ela trabalhou adiantado pra isso?)"
+    },
+    {
+      "id": 16,
+      "personagem": "Ichika",
+      "texto_en": "Ah, no one needs to feel responsible, okay?\\nI came here on my own will.",
+      "texto_ptbr": "Ah, ninguém precisa se sentir responsável, tá?\\nVim aqui por vontade própria."
+    },
+    {
+      "id": 17,
+      "personagem": "Ichika",
+      "texto_en": "So, if I take it easy today,\\nI'll probably feel better.\\nI'll keep quiet at the hotel.",
+      "texto_ptbr": "Então, se eu descansar hoje,\\nprovavelmente vou melhorar.\\nVou ficar quietinha no hotel."
+    },
+    {
+      "id": 18,
+      "personagem": "Ichika",
+      "texto_en": "Everyone, go sightseeing as planned.",
+      "texto_ptbr": "Todo mundo, vai passear como planejado."
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "...Huh?",
+      "texto_ptbr": "...Hein?"
+    },
+    {
+      "id": 20,
+      "personagem": "Ichika",
+      "texto_en": "Don't say 'huh.'\\nYou guys were all looking forward to go to \\nthe Valley of Gangala and Okinawa World, right?",
+      "texto_ptbr": "Não fala 'hein'.\\nVocês todas estavam animadas pra ir ao\\nVale de Gangala e ao Okinawa World, né?"
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "Come on, it's a waste of time to stay here,\\nyou guys should leave early. Go ahead.",
+      "texto_ptbr": "Vamos, é perda de tempo ficar aqui,\\nvocês deveriam sair cedo. Pode ir."
+    },
+    {
+      "id": 22,
+      "personagem": "Nino",
+      "texto_en": "There's no way we're going.",
+      "texto_ptbr": "De jeito nenhum que a gente vai."
+    },
+    {
+      "id": 23,
+      "personagem": "Ichika",
+      "texto_en": "...What?",
+      "texto_ptbr": "...O quê?"
+    },
+    {
+      "id": 24,
+      "personagem": "Miku",
+      "texto_en": "We can't just leave you behind, Ichika.",
+      "texto_ptbr": "Não dá pra a gente te deixar pra trás, Ichika."
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "But still, it's my own fault that I collapsed.",
+      "texto_ptbr": "Mas mesmo assim, a culpa de eu ter passado mal é minha."
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "If I had managed myself better,\\nthis wouldn't have happened, you know?",
+      "texto_ptbr": "Se eu tivesse me cuidado melhor,\\nisso não teria acontecido, sabe?"
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "No one thinks it's your fault.",
+      "texto_ptbr": "Ninguém acha que é culpa sua."
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "I'm at fault here.",
+      "texto_ptbr": "A culpa é minha."
+    },
+    {
+      "id": 29,
+      "personagem": "Ichika",
+      "texto_en": "So don't worry about it.\\nSince we've come all the way to Okinawa,\\nyou guys enjoy yourselves.",
+      "texto_ptbr": "Então não se preocupem com isso.\\nJá que viemos até Okinawa,\\nvocês se divirtam."
+    },
+    {
+      "id": 30,
+      "personagem": "Yotsuba",
+      "texto_en": "No, we'll stay with you.",
+      "texto_ptbr": "Não, a gente fica com você."
+    },
+    {
+      "id": 31,
+      "personagem": "Itsuki",
+      "texto_en": "Even if it's a mistake on your part, Ichika,\\nor the sadness of not being able to go together...\\nit's all part of being quintuplets, you know.",
+      "texto_ptbr": "Mesmo que seja um erro seu, Ichika,\\nou a tristeza de não poder ir juntas...\\nfaz parte de ser quintupla, sabe."
+    },
+    {
+      "id": 32,
+      "personagem": "Ichika",
+      "texto_en": "Haha, what a dilemma.",
+      "texto_ptbr": "Haha, que dilema."
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "(I can understand both their feelings,\\n but we're at a standstill.)",
+      "texto_ptbr": "(Entendo o sentimento dos dois lados,\\n mas chegamos a um impasse.)"
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "We're all worried about you.\\nUnderstand that, Ichika.",
+      "texto_ptbr": "A gente toda tá preocupada com você.\\nEntenda isso, Ichika."
+    },
+    {
+      "id": 35,
+      "personagem": "Ichika",
+      "texto_en": "I understand perfectly.\\nIf someone collapsed,\\nI would say the same thing.",
+      "texto_ptbr": "Entendo perfeitamente.\\nSe fosse outra pessoa que tivesse passado mal,\\neu diria a mesma coisa."
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Then%p-2;――",
+      "texto_ptbr": "Então%p-2;――"
+    },
+    {
+      "id": 37,
+      "personagem": "Ichika",
+      "texto_en": "But it still bothers me\\nthat you guys feel less inclined to go because of me.\\nI want you to understand that too.",
+      "texto_ptbr": "Mas ainda assim me incomoda\\nvocês ficarem menos animados de ir por minha causa.\\nQuero que entendam isso também."
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 39,
+      "personagem": "Yotsuba",
+      "texto_en": "Hmm.\\nThen how about someone stays behind?",
+      "texto_ptbr": "Hmm.\\nE se alguém ficar pra trás?"
+    },
+    {
+      "id": 40,
+      "personagem": "Miku",
+      "texto_en": "That would be the case if we meet in the middle.",
+      "texto_ptbr": "Seria isso se a gente chegasse num meio-termo."
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "If we keep arguing like this,\\nIchika won't be able to rest...",
+      "texto_ptbr": "Se a gente continuar discutindo assim,\\na Ichika não vai conseguir descansar..."
+    },
+    {
+      "id": 42,
+      "personagem": "Nino",
+      "texto_en": "Then I'll stay behind%p-2;――",
+      "texto_ptbr": "Então eu fico%p-2;――"
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "No, I'll stay.",
+      "texto_ptbr": "Não, eu fico."
+    },
+    {
+      "id": 44,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun?",
+      "texto_ptbr": "Fu-kun?"
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "I was the one who was closest to Ichika yesterday.\\nLet me take responsibility for not noticing.",
+      "texto_ptbr": "Fui eu quem ficou mais perto da Ichika ontem.\\nDeixa eu assumir a responsabilidade por não ter percebido."
+    },
+    {
+      "id": 46,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun...",
+      "texto_ptbr": "Uesugi-kun..."
+    },
+    {
+      "id": 47,
+      "personagem": "Miku",
+      "texto_en": "Okay, we'll leave it to you, Futaro.",
+      "texto_ptbr": "Certo, deixamos com você, Futaro."
+    },
+    {
+      "id": 48,
+      "personagem": "Itsuki",
+      "texto_en": "I'm fine with that too.",
+      "texto_ptbr": "Pra mim também tá bom."
+    },
+    {
+      "id": 49,
+      "personagem": "Yotsuba",
+      "texto_en": "Me too!",
+      "texto_ptbr": "Pra mim também!"
+    },
+    {
+      "id": 50,
+      "personagem": "Nino",
+      "texto_en": "Yes, I feel at ease with Fu-kun here.",
+      "texto_ptbr": "É, fico mais tranquila com o Fu-kun aqui."
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "Then it's settled.\\nI'll stay and take care of Ichika.\\nSorry, but take care of Raiha for me.",
+      "texto_ptbr": "Então tá decidido.\\nVou ficar e cuidar da Ichika.\\nDesculpa, mas cuida da Raiha pra mim."
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "There's no point in everyone being here.\\nOne person should be enough to take care of Ichika.",
+      "texto_ptbr": "Não faz sentido todo mundo ficar aqui.\\nUma pessoa já é suficiente pra cuidar da Ichika."
+    },
+    {
+      "id": 53,
+      "personagem": "Itsuki",
+      "texto_en": "But...",
+      "texto_ptbr": "Mas..."
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "Moreover, it might put pressure on Ichika, you know?\\nYour desire to take care of her\\ncould increase her guilt.",
+      "texto_ptbr": "Além disso, pode acabar pressionando a Ichika, sabe?\\nO desejo de vocês de cuidar dela\\npode aumentar o sentimento de culpa dela."
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "If you were in the same situation on a trip,\\nwouldn't you want everyone else to go?",
+      "texto_ptbr": "Se vocês estivessem na mesma situação numa viagem,\\nnão iam querer que todo mundo fosse?"
+    },
+    {
+      "id": 56,
+      "personagem": "Miku",
+      "texto_en": "...Right.",
+      "texto_ptbr": "...É verdade."
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "Then you guys go.\\nI'll stay here.",
+      "texto_ptbr": "Então vocês vão.\\nEu fico aqui."
+    },
+    {
+      "id": 58,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san?",
+      "texto_ptbr": "Uesugi-san?"
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, I said one person staying behind would be enough.",
+      "texto_ptbr": "É, disse que uma pessoa ficando já é suficiente."
+    },
+    {
+      "id": 60,
+      "personagem": "Itsuki",
+      "texto_en": "...Okay, I understand.\\nI can entrust Ichika to you.",
+      "texto_ptbr": "...Certo, entendi.\\nPosso confiar a Ichika a você."
+    },
+    {
+      "id": 61,
+      "personagem": "Nino",
+      "texto_en": "That's right.\\nFu-kun is fine.",
+      "texto_ptbr": "É isso.\\nCom o Fu-kun tá ótimo."
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "Then it's settled.\\nI'll stay and take care of Ichika.\\nSorry, but take care of Raiha for me.",
+      "texto_ptbr": "Então tá decidido.\\nVou ficar e cuidar da Ichika.\\nDesculpa, mas cuida da Raiha pra mim."
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "Leave Ichika to me.",
+      "texto_ptbr": "Deixa a Ichika comigo."
+    },
+    {
+      "id": 64,
+      "personagem": "Miku",
+      "texto_en": "But...",
+      "texto_ptbr": "Mas..."
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "I was the one who was closest to Ichika yesterday.\\nAnd yet, I didn't notice that she was unwell until\\nshe collapsed. Let me take responsibility for that.",
+      "texto_ptbr": "Fui eu quem ficou mais perto da Ichika ontem.\\nE mesmo assim, só percebi que ela não estava bem quando\\nela desmaiou. Deixa eu assumir a responsabilidade por isso."
+    },
+    {
+      "id": 66,
+      "personagem": "Miku",
+      "texto_en": "If you start talking about responsibility,\\neveryone is responsible.",
+      "texto_ptbr": "Se for falar de responsabilidade,\\ntodo mundo é responsável."
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "...I'm Ichika's boyfriend.\\nI wouldn't be able to forgive myself.",
+      "texto_ptbr": "...Sou o namorado da Ichika.\\nNão me perdoaria."
+    },
+    {
+      "id": 68,
+      "personagem": "Itsuki",
+      "texto_en": "Her b-boyfriend...you say.",
+      "texto_ptbr": "O n-namorado...você disse."
+    },
+    {
+      "id": 69,
+      "personagem": "Nino",
+      "texto_en": "Come on...",
+      "texto_ptbr": "Nossa..."
+    },
+    {
+      "id": 70,
+      "personagem": "Nino",
+      "texto_en": "It's hard to argue back when you say \\nthings you don't usually say.",
+      "texto_ptbr": "Fica difícil rebater quando você fala\\ncoisas que não costuma falar."
+    },
+    {
+      "id": 71,
+      "personagem": "Miku",
+      "texto_en": "Yeah, we have no choice but to leave it to you,\\nFutaro.",
+      "texto_ptbr": "É, não nos resta escolha senão deixar com você,\\nFutaro."
+    },
+    {
+      "id": 72,
+      "personagem": "Yotsuba",
+      "texto_en": "I feel relieved\\nknowing that you'll be taking care of her, Uesugi-san.",
+      "texto_ptbr": "Fico aliviada\\nsabendo que você vai cuidar dela, Uesugi-san."
+    },
+    {
+      "id": 73,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, me too.",
+      "texto_ptbr": "Eu também."
+    },
+    {
+      "id": 74,
+      "personagem": "Futaro",
+      "texto_en": "Then it's settled.\\nI'll stay and take care of Ichika.\\nSorry, but take care of Raiha for me.",
+      "texto_ptbr": "Então tá decidido.\\nVou ficar e cuidar da Ichika.\\nDesculpa, mas cuida da Raiha pra mim."
+    },
+    {
+      "id": 75,
+      "personagem": "Yotsuba",
+      "texto_en": "You can count on me for that!",
+      "texto_ptbr": "Pode deixar isso comigo!"
+    },
+    {
+      "id": 76,
+      "personagem": "Futaro",
+      "texto_en": "Raiha, make sure you listen to everyone, okay?",
+      "texto_ptbr": "Raiha, certifica de ouvir todo mundo, tá?"
+    },
+    {
+      "id": 77,
+      "personagem": "Raiha",
+      "texto_en": "Oh come on, I know already.\\nI'm not a child.",
+      "texto_ptbr": "Nossa, já sei.\\nNão sou criança."
+    },
+    {
+      "id": 78,
+      "personagem": "Itsuki",
+      "texto_en": "Then, please take care of Ichika.",
+      "texto_ptbr": "Então, por favor, cuida da Ichika."
+    },
+    {
+      "id": 79,
+      "personagem": "Nino",
+      "texto_en": "If anything happens, contact us immediately.\\nDon't hesitate to do so.",
+      "texto_ptbr": "Se acontecer qualquer coisa, entre em contato imediatamente.\\nSem hesitar."
+    },
+    {
+      "id": 80,
+      "personagem": "Futaro",
+      "texto_en": "Okay, got it.",
+      "texto_ptbr": "Certo, entendido."
+    },
+    {
+      "id": 81,
+      "personagem": "Ichika",
+      "texto_en": "Sorry for making you all worry.",
+      "texto_ptbr": "Desculpa por preocupar todo mundo."
+    },
+    {
+      "id": 82,
+      "personagem": "Nino",
+      "texto_en": "Before apologizing, make sure to rest properly.\\nListen to what Fu-kun says and rest.",
+      "texto_ptbr": "Antes de pedir desculpa, descansa direito.\\nOuve o que o Fu-kun falar e descansa."
+    },
+    {
+      "id": 83,
+      "personagem": "Ichika",
+      "texto_en": "Yeah.\\nTake care.",
+      "texto_ptbr": "É.\\nCuida-se."
+    }
+  ]
+}

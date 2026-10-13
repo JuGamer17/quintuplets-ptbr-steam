@@ -1,0 +1,426 @@
+{
+  "arquivo": "ca02_mv3_02",
+  "total": 70,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Miku, Itsuki.\\nWhat are you looking at?",
+      "texto_ptbr": "Miku, Itsuki.\nO que vocês estão olhando?"
+    },
+    {
+      "id": 1,
+      "personagem": "Miku",
+      "texto_en": "Ah, Futaro.",
+      "texto_ptbr": "Ah, Futaro."
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "I'm not sure about Nino,\\nbut I don't think it's something\\nthat would interest you, Uesugi-kun...",
+      "texto_ptbr": "Não sei sobre a Nino,\nmas acho que não é algo\nque interessaria você, Uesugi-kun..."
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "What do you mean? You just made me curious.",
+      "texto_ptbr": "Como assim? Agora você me deixou curioso."
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "No, I didn't mean it in a bad way.\\nI just thought that you're not someone\\nwho would be interested in cosmetics.",
+      "texto_ptbr": "Não, não quis dizer de forma ruim.\nSó achei que você não é alguém\nque se interessaria por cosméticos."
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Cosmetics?",
+      "texto_ptbr": "Cosméticos?"
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Oh, cosmetics, yeah, cosmetics.\\nIt depends on the person, but I don't hate cosmetics.",
+      "texto_ptbr": "Ah, cosméticos, é, cosméticos.\nDepende da pessoa, mas eu não odeio cosméticos."
+    },
+    {
+      "id": 7,
+      "personagem": "Nino",
+      "texto_en": "That's the same reaction I got from you when you were \\nspeaking about aromas.",
+      "texto_ptbr": "Foi a mesma reação que eu tive de você quando estávamos\nfalando sobre aromas."
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "Those are basically skincare products.\\nIt's not food.",
+      "texto_ptbr": "Isso são basicamente produtos de cuidado com a pele.\nNão é comida."
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "Then why use a foreign word to describe it?",
+      "texto_ptbr": "Então por que usar uma palavra estrangeira pra descrever isso?"
+    },
+    {
+      "id": 10,
+      "personagem": "Miku",
+      "texto_en": "Nino, this one looks good.\\nIt's a facial toner made with hibiscus.",
+      "texto_ptbr": "Nino, esse aqui parece bom.\nÉ um tônico facial feito com hibisco."
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "Oh, I've never seen that before.\\nThere's such a thing?",
+      "texto_ptbr": "Ah, eu nunca vi isso antes.\nExiste uma coisa dessas?"
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "This shop carries cosmetics\\nmade with regional products.",
+      "texto_ptbr": "Essa loja vende cosméticos\nfeitos com produtos regionais."
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "How about it?\\nWould you like to try it too, Uesugi-kun?",
+      "texto_ptbr": "Que tal?\nVocê também quer experimentar, Uesugi-kun?"
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "...Nah, I'll be alright.",
+      "texto_ptbr": "...Não, eu passo."
+    },
+    {
+      "id": 15,
+      "personagem": "Miku",
+      "texto_en": "There's also a beauty oil that smells really good.\\nIt seems to be made with shikuwasa.",
+      "texto_ptbr": "Também tem um óleo de beleza que cheira muito bem.\nParece que é feito com shikuwasa."
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Woah! This citrus scent is amazing.\\nI thought it was something to eat.",
+      "texto_ptbr": "Uau! Esse cheiro cítrico é incrível.\nAté pensei que fosse algo pra comer."
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "Please don't eat it, okay?",
+      "texto_ptbr": "Por favor, não coma isso, tá?"
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "I'm not gonna eat it! I just thought about it!",
+      "texto_ptbr": "Eu não vou comer! Só pensei nisso!"
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "They also sell bath salts.\\nThese are made with natural salt from Okinawa.",
+      "texto_ptbr": "Também vendem sais de banho.\nEsses são feitos com sal natural de Okinawa."
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "(Now it's salt.\\n How is it different from food?)",
+      "texto_ptbr": "(Agora é sal.\n Qual é a diferença pra comida?)"
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "It also contains herbs from Okinawa.\\nLet's see here...an herb called gettou?\\nHmm, I've never heard of this either.",
+      "texto_ptbr": "Também tem ervas de Okinawa.\nDeixa eu ver aqui... uma erva chamada gettou?\nHmm, nunca ouvi falar dessa também."
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "(Now, herbs...)",
+      "texto_ptbr": "(Agora, ervas...)"
+    },
+    {
+      "id": 23,
+      "personagem": "Miku",
+      "texto_en": "Facial toner, or oils...\\nI want to buy one, but which one is better?",
+      "texto_ptbr": "Tônico facial, ou óleo...\nEu quero comprar um, mas qual é melhor?"
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "Since you're already here,\\nwhy not buy both?",
+      "texto_ptbr": "Já que você tá aqui,\npor que não comprar os dois?"
+    },
+    {
+      "id": 25,
+      "personagem": "Miku",
+      "texto_en": "But I still have some that I'm using.",
+      "texto_ptbr": "Mas eu ainda tenho um que tô usando."
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "It's not something that spoils easily,\\nso you could buy it now\\nand use it later, couldn't you?",
+      "texto_ptbr": "Não é algo que estraga fácil,\nentão dá pra comprar agora\ne usar depois, não é?"
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "Ah! This soap is nice too.\\nIt's made with seaweed\\nand makes your skin smooth, they say.",
+      "texto_ptbr": "Ah! Esse sabonete também é bom.\nÉ feito com alga\ne dizem que deixa a pele lisinha."
+    },
+    {
+      "id": 28,
+      "personagem": "Nino",
+      "texto_en": "I'm interested in that too.\\nApparently combining this soap with the mud pack here\\nis good for your skin.",
+      "texto_ptbr": "Também fiquei interessada nisso.\nAparentemente, combinar esse sabonete com essa lama daqui\né bom pra pele."
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "(They're really getting into this...\\n It's a world I can't keep up with anymore.)",
+      "texto_ptbr": "(Elas tão mesmo entrando nessa...\n É um mundo que eu não consigo mais acompanhar.)"
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "...Oh!",
+      "texto_ptbr": "...Ah!"
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "I know this one!\\nThis is aroma! Hey, Nino! This is aroma, isn't it?",
+      "texto_ptbr": "Esse eu conheço!\nIsso é aroma! Ei, Nino! Isso é aroma, né?"
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "Yes, yes, it's an aroma candle.\\nYou remembered it well.",
+      "texto_ptbr": "Sim, sim, é uma vela aromática.\nVocê lembrou direitinho."
+    },
+    {
+      "id": 33,
+      "personagem": "Miku",
+      "texto_en": "He's so happy, just from remembering that...",
+      "texto_ptbr": "Ele ficou tão feliz, só de lembrar disso..."
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "Was he feeling lonely\\nbecause he couldn't join in on the conversation?",
+      "texto_ptbr": "Será que ele tava se sentindo sozinho\npor não conseguir participar da conversa?"
+    },
+    {
+      "id": 35,
+      "personagem": "Nino",
+      "texto_en": "The one I gave to you before, Futaro,\\nhad a fragrance that helps with fatigue recovery%p-2;――",
+      "texto_ptbr": "A que eu te dei antes, Futaro,\ntinha uma fragrância que ajuda a recuperar do cansaço%p-2;――"
+    },
+    {
+      "id": 36,
+      "personagem": "Nino",
+      "texto_en": "This series seems to have a scent inspired by the sun, sea, \\nand sky of Okinawa.",
+      "texto_ptbr": "Essa linha parece ter um aroma inspirado no sol, no mar\ne no céu de Okinawa."
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "Hey, don't you want to get this one, Futaro?",
+      "texto_ptbr": "Ei, você não quer pegar essa aqui, Futaro?"
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "Even if I did, beats me how to use it...",
+      "texto_ptbr": "Mesmo se eu quisesse, nem sei como usar isso..."
+    },
+    {
+      "id": 39,
+      "personagem": "Nino",
+      "texto_en": "I taught you how to use it before, didn't I?\\nDoesn't it help you relax when you use it?",
+      "texto_ptbr": "Eu já te ensinei como usar antes, não foi?\nNão te ajuda a relaxar quando você usa?"
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "To be honest, I don't know if it really works.\\nMaybe it's just not for me.",
+      "texto_ptbr": "Pra ser sincero, não sei se realmente funciona.\nTalvez simplesmente não seja pra mim."
+    },
+    {
+      "id": 41,
+      "personagem": "Miku",
+      "texto_en": "Is there really such a thing as being suited\\nor not suited for aromatherapy?",
+      "texto_ptbr": "Será que existe mesmo isso de ser adequado\nou não pra aromaterapia?"
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "I wonder...\\nIf you're not interested in scents,\\nthen maybe it's not for you.",
+      "texto_ptbr": "Será...\nSe você não se interessa por cheiros,\ntalvez realmente não seja pra você."
+    },
+    {
+      "id": 43,
+      "personagem": "Nino",
+      "texto_en": "But you did like the scent, didn't you?",
+      "texto_ptbr": "Mas você gostou do cheiro, não gostou?"
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "Well, yeah. It wasn't bad or anything.",
+      "texto_ptbr": "Bom, é. Não era ruim nem nada."
+    },
+    {
+      "id": 45,
+      "personagem": "Nino",
+      "texto_en": "Okay then, let me choose for you.\\nForget about the relaxation part\\nand let's just enjoy the scent.",
+      "texto_ptbr": "Certo então, deixa eu escolher pra você.\nEsquece a parte do relaxamento\ne vamos só aproveitar o cheiro."
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Looking at the flame calms me down.\\nThe flickering light draws you in.",
+      "texto_ptbr": "Olhar pra chama me acalma.\nA luz tremeluzindo prende a atenção."
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "Are you sure you're using it correctly?\\nAromatherapy candles are meant to be enjoyed\\nfor their scent.",
+      "texto_ptbr": "Você tem certeza que tá usando certo?\nVelas de aromaterapia são feitas pra serem apreciadas\npelo cheiro."
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "Really?\\nWell, I guess the scent wasn't bad either.",
+      "texto_ptbr": "Sério?\nBom, acho que o cheiro também não era ruim."
+    },
+    {
+      "id": 49,
+      "personagem": "Miku",
+      "texto_en": "It's okay to enjoy the ambiance of the flickering flame.\\nIt's also part of the experience.",
+      "texto_ptbr": "Tudo bem aproveitar o clima da chama tremeluzindo.\nTambém faz parte da experiência."
+    },
+    {
+      "id": 50,
+      "personagem": "Nino",
+      "texto_en": "It's nice to just relax\\nand watch the burning candle in the bath, too.",
+      "texto_ptbr": "Também é bom só relaxar\ne ficar olhando a vela acesa no banho."
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "In the bath, huh?\\nI didn't think of using it like that.",
+      "texto_ptbr": "No banho, é?\nNão tinha pensado em usar assim."
+    },
+    {
+      "id": 52,
+      "personagem": "Nino",
+      "texto_en": "If you like watching the flame, then let's buy one!\\nI'll choose something that I think you'll like, Futaro.",
+      "texto_ptbr": "Se você gosta de olhar a chama, então vamos comprar uma!\nEu escolho uma que eu acho que você vai gostar, Futaro."
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "Sure, you pick one out for me.",
+      "texto_ptbr": "Claro, escolhe uma pra mim."
+    },
+    {
+      "id": 54,
+      "personagem": "Nino",
+      "texto_en": "Leave it to me!\\nWhat kind of scent do you prefer?",
+      "texto_ptbr": "Pode deixar comigo!\nQue tipo de cheiro você prefere?"
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "Scent, eh.\\nThe one I got before\\nthat had a relaxing effect wasn't bad.",
+      "texto_ptbr": "Cheiro, hein.\nAquela que eu ganhei antes\ncom efeito relaxante não era ruim."
+    },
+    {
+      "id": 56,
+      "personagem": "Nino",
+      "texto_en": "Okay, how about something with a sweeter scent\\nthan that? Do you have a preference?",
+      "texto_ptbr": "Certo, que tal algo com um cheiro mais doce\nque aquele? Você tem alguma preferência?"
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "I'm not sure about something too sweet.\\nI just want something\\nthat won't interfere with my studies.",
+      "texto_ptbr": "Não sei se curto algo muito doce.\nEu só quero algo\nque não atrapalhe meus estudos."
+    },
+    {
+      "id": 58,
+      "personagem": "Nino",
+      "texto_en": "Hmm, then how about something with a component\\nthat can help boost concentration?\\nI'd say, a mild scent...",
+      "texto_ptbr": "Hmm, então que tal algo com um componente\nque ajude a aumentar a concentração?\nEu diria, um cheiro suave..."
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "Sorry. Pretty vague instructions, huh.",
+      "texto_ptbr": "Desculpa. Instruções bem vagas, né."
+    },
+    {
+      "id": 60,
+      "personagem": "Nino",
+      "texto_en": "No, it's fine.\\nIt's fun to learn more about your preferences like this,\\nFutaro.",
+      "texto_ptbr": "Não, tudo bem.\nÉ divertido aprender mais sobre suas preferências assim,\nFutaro."
+    },
+    {
+      "id": 61,
+      "personagem": "Miku",
+      "texto_en": "Futaro,\\nit's amazing how you do these things unconsciously.",
+      "texto_ptbr": "Futaro,\né incrível como você faz essas coisas sem perceber."
+    },
+    {
+      "id": 62,
+      "personagem": "Itsuki",
+      "texto_en": "You forgot about our presence, didn't you.",
+      "texto_ptbr": "Você esqueceu da nossa presença, não foi."
+    },
+    {
+      "id": 63,
+      "personagem": "Nino",
+      "texto_en": "If you're looking for relaxation effects,\\nthen lavender, rose, jasmine...",
+      "texto_ptbr": "Se você tá procurando efeitos relaxantes,\nentão lavanda, rosa, jasmim..."
+    },
+    {
+      "id": 64,
+      "personagem": "Nino",
+      "texto_en": "Oh, and gettou too, it seems.",
+      "texto_ptbr": "Ah, e gettou também, parece."
+    },
+    {
+      "id": 65,
+      "personagem": "Nino",
+      "texto_en": "It is also good for improving concentration and memory...\\nOh yes, it's perfect for you, Futaro.",
+      "texto_ptbr": "Também é bom pra melhorar a concentração e a memória...\nAh, é perfeito pra você, Futaro."
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "(Nino seems to be having fun.\\n I'm glad I decided to let her choose.)",
+      "texto_ptbr": "(A Nino parece estar se divertindo.\n Ainda bem que decidi deixar ela escolher.)"
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "(...Hm?\\n Wait, does it mean that\\n I'm not the one taking the lead?)",
+      "texto_ptbr": "(...Hm?\n Espera, será que isso significa\n que eu não sou o que tá no controle?)"
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "(Pull yourself together, man!)",
+      "texto_ptbr": "(Se recompõe, cara!)"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca06_mv6_03",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "上杉君は、きちんと答えを出せそうですか？",
+      "texto_en": "Uesugi-kun, do you think you'll be able \\nto give a proper answer?",
+      "texto_ptbr": "Uesugi-kun, você acha que vai conseguir \\ndar uma resposta de verdade?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "も、もちろんだとも！",
+      "texto_en": "O-of course!",
+      "texto_ptbr": "C-claro que sim!",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "まあ、なんとかするさ",
+      "texto_en": "Hey, somethin'll work out.",
+      "texto_ptbr": "Bom, eu dou um jeito.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "お前らの期待は裏切りたくないからな",
+      "texto_en": "I don't want to disappoint your expectations.",
+      "texto_ptbr": "Não quero trair as expectativas de vocês.",
+      "selidx": 2
+    }
+  ]
+}

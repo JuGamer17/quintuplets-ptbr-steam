@@ -1,0 +1,46 @@
+{
+  "arquivo": "ca05_23",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*map",
+      "texto_jp": "dummy",
+      "texto_en": "{UNTRANSLATED}dummy",
+      "texto_ptbr": "",
+      "selidx": 0
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "ショッピングゾーンＢ",
+      "texto_en": "Shopping Zone B",
+      "texto_ptbr": "Zona de Compras B",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "ショッピングゾーンＣ",
+      "texto_en": "Shopping Zone C",
+      "texto_ptbr": "Zona de Compras C",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "レストランゾーン",
+      "texto_en": "Restaurant Zone",
+      "texto_ptbr": "Zona de Restaurantes",
+      "selidx": 2
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "arquivo": "ca06_31",
+  "total": 5,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*kokuhaku",
+      "texto_jp": "「中野一花」に告白",
+      "texto_en": "Confess to \"Nakano Ichika\"",
+      "texto_ptbr": "Confessar para \"Nakano Ichika\"",
+      "selidx": 0
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*kokuhaku",
+      "texto_jp": "「中野二乃」に告白",
+      "texto_en": "Confess to \"Nakano Nino\"",
+      "texto_ptbr": "Confessar para \"Nakano Nino\"",
+      "selidx": 1
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*kokuhaku",
+      "texto_jp": "「中野三玖」に告白",
+      "texto_en": "Confess to \"Nakano Miku\"",
+      "texto_ptbr": "Confessar para \"Nakano Miku\"",
+      "selidx": 2
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*kokuhaku",
+      "texto_jp": "「中野四葉」に告白",
+      "texto_en": "Confess to \"Nakano Yotsuba\"",
+      "texto_ptbr": "Confessar para \"Nakano Yotsuba\"",
+      "selidx": 3
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*kokuhaku",
+      "texto_jp": "「中野五月」に告白",
+      "texto_en": "Confess to \"Nakano Itsuki\"",
+      "texto_ptbr": "Confessar para \"Nakano Itsuki\"",
+      "selidx": 4
+    }
+  ]
+}

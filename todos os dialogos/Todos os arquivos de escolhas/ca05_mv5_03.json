@@ -1,0 +1,75 @@
+{
+  "arquivo": "ca05_mv5_03",
+  "total": 7,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ええ、楽しそう。\\n予約が埋まってなければやってみたかったのに。",
+      "texto_en": "Yes, it sounds fun.\\nI would have liked to try it\\nif the reservations weren't already full.",
+      "texto_ptbr": "É, parece divertido.\\nEu teria gostado de tentar\\nse as reservas não estivessem cheias."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ちょっと意外だな",
+      "texto_en": "That's a bit surprising.",
+      "texto_ptbr": "Isso é meio surpreendente.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "らいはもこういうの好きだろ？",
+      "texto_en": "You like this kind of stuff too, right, Raiha?",
+      "texto_ptbr": "A Raiha também gosta dessas coisas, né?",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "やっぱテンション上がるよな！",
+      "texto_en": "This gets me so pumped!",
+      "texto_ptbr": "Isso dá uma empolgação, né!",
+      "selidx": 2
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "アラハビーチＡ:一花:二乃",
+      "texto_en": "Araha Beach A: Ichika/Nino",
+      "texto_ptbr": "Araha Beach A: Ichika/Nino",
+      "selidx": 0
+    },
+    {
+      "id": 5,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "アラハビーチＢ:三玖:四葉",
+      "texto_en": "Araha Beach B: Miku/Yotsuba",
+      "texto_ptbr": "Araha Beach B: Miku/Yotsuba",
+      "selidx": 1
+    },
+    {
+      "id": 6,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "アラハビーチＣ:五月:らいは",
+      "texto_en": "Araha Beach C: Itsuki/Raiha",
+      "texto_ptbr": "Araha Beach C: Itsuki/Raiha",
+      "selidx": 2
+    }
+  ]
+}

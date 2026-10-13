@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca06_mv4_03",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "（う、これはまずい！\\n　冗談のつもりが本気で怒らせちまったか！？）",
+      "texto_en": "(Th-this is bad!\\n Did I really make her angry with my joke?!)",
+      "texto_ptbr": "(I-Isso é ruim!\\n Será que eu realmente a deixei brava com essa piada?!)"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ちょっとした冗談だって",
+      "texto_en": "It was just a little joke.",
+      "texto_ptbr": "Foi só uma brincadeirinha.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "いや、普段の自分も省みろよ",
+      "texto_en": "You should reflect on that too.",
+      "texto_ptbr": "Não, reflete também sobre como você é no dia a dia.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "すまん、ちょっと言いすぎた",
+      "texto_en": "Sorry, I went a little too far. ",
+      "texto_ptbr": "Desculpa, exagerei um pouco.",
+      "selidx": 2
+    }
+  ]
+}

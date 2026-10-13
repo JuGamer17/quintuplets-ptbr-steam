@@ -1,0 +1,432 @@
+{
+  "arquivo": "ca02_mv3_01",
+  "total": 71,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Nino",
+      "texto_en": "Oh, it's Ichika.\\nWhat are you looking at?",
+      "texto_ptbr": "Ah, é a Ichika.\nO que você tá olhando?"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Hey...\\nWhat're you doing in front of the Awamori shop?",
+      "texto_ptbr": "Ei...\nO que você tá fazendo na frente da loja de Awamori?"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Ichika, drinking alcohol is NOT good, you know.",
+      "texto_ptbr": "Ichika, beber álcool NÃO é uma coisa boa, sabia."
+    },
+    {
+      "id": 3,
+      "personagem": "Ichika",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 4,
+      "personagem": "Ichika",
+      "texto_en": "Oh, Futaro-kun and Nino?\\nThat's surprising.",
+      "texto_ptbr": "Ah, Futaro-kun e Nino?\nQue surpresa."
+    },
+    {
+      "id": 5,
+      "personagem": "Ichika",
+      "texto_en": "I know that Futaro-kun.\\nDon't worry, it's not for me.",
+      "texto_ptbr": "Eu sei disso, Futaro-kun.\nPode ficar tranquilo, não é pra mim."
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "Is it a souvenir for our father?",
+      "texto_ptbr": "É um souvenir pro nosso pai?"
+    },
+    {
+      "id": 7,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, I thought Awamori would be good\\nas it's a typical Okinawan souvenir.",
+      "texto_ptbr": "É, pensei que Awamori seria uma boa,\njá que é um souvenir típico de Okinawa."
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "Yesterday, Yotsuba was thinking the same thing.\\nBut I don't think I've ever seen Dad drinking alcohol.",
+      "texto_ptbr": "Ontem, a Yotsuba tava pensando a mesma coisa.\nMas acho que nunca vi o papai bebendo álcool."
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "Ah, now that you mention it...\\nI start wondering if he can drink alcohol at all.",
+      "texto_ptbr": "Ah, agora que você falou...\nComecei a me perguntar se ele nem bebe álcool."
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "(Come to think of it,\\n he said he didn't like alcohol before.)",
+      "texto_ptbr": "(Pensando bem,\n ele disse antes que não gostava de álcool.)"
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "(Well, he might have said that\\n just to refuse Dad's invitation...)",
+      "texto_ptbr": "(Bom, talvez ele só tenha dito isso\n pra recusar o convite do pai...)"
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Well, you guys can't drink alcohol.\\nWhy not choose something that everyone can eat?",
+      "texto_ptbr": "Bom, vocês não podem beber álcool.\nQue tal escolher algo que todo mundo possa comer?"
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "Why everyone?",
+      "texto_ptbr": "Por que todo mundo?"
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Well, while eating it with your family you could talk about the \\nmemories you made during this trip.",
+      "texto_ptbr": "Bom, enquanto vocês comem com a família, dá pra conversar sobre\nas memórias que fizeram nessa viagem."
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "As a family...",
+      "texto_ptbr": "Como uma família..."
+    },
+    {
+      "id": 16,
+      "personagem": "Ichika",
+      "texto_en": "Oh, that's a good idea.\\nWe can turn the memories into souvenirs too.",
+      "texto_ptbr": "Ah, que boa ideia.\nDá pra transformar as memórias em souvenir também."
+    },
+    {
+      "id": 17,
+      "personagem": "Ichika",
+      "texto_en": "That's a really thoughtful suggestion,\\nnot something I'd expect from you, Futaro-kun.",
+      "texto_ptbr": "É uma sugestão bem atenciosa,\nnão esperava isso de você, Futaro-kun."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Well, it's just my opinion.\\nPlease consider it, if its useful to you.",
+      "texto_ptbr": "Bom, é só minha opinião.\nConsiderem, se for útil pra vocês."
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "Futaro, you care about our father, don't you?",
+      "texto_ptbr": "Futaro, você se importa com o nosso pai, não é?"
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Well, yeah, of course.",
+      "texto_ptbr": "Bom, é, claro que sim."
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "(I even took Nino to the hospital\\n during the school festival.)",
+      "texto_ptbr": "(Eu até levei a Nino pro hospital\n durante o festival da escola.)"
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "(And above all, at that time,\\n I was told to seriously think about\\n my relationship with his daughters...)",
+      "texto_ptbr": "(E, acima de tudo, naquela hora,\n me disseram pra pensar sério\n sobre meu relacionamento com as filhas dele...)"
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "Someday, we have to report him that we're dating.",
+      "texto_ptbr": "Algum dia, vamos ter que contar pra ele que estamos namorando."
+    },
+    {
+      "id": 24,
+      "personagem": "Nino",
+      "texto_en": "Futaro...",
+      "texto_ptbr": "Futaro..."
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "Oh yeah, you two are so innocent.",
+      "texto_ptbr": "Ah é, vocês dois são tão inocentes."
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "Even though it's not official yet,\\ndoes Dad know that you're dating?",
+      "texto_ptbr": "Mesmo não sendo oficial ainda,\no papai sabe que vocês estão namorando?"
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "I wonder.",
+      "texto_ptbr": "Será."
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "You can't just talk about it\\nlike it's someone else's problem, come on.",
+      "texto_ptbr": "Você não pode ficar falando disso\ncomo se fosse problema dos outros, qual é."
+    },
+    {
+      "id": 29,
+      "personagem": "Ichika",
+      "texto_en": "Well, I understand that you're afraid of our dad.",
+      "texto_ptbr": "Bom, eu entendo que você tem medo do nosso pai."
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "I-I'm not afraid of him, or anything.",
+      "texto_ptbr": "E-eu não tenho medo dele nem nada."
+    },
+    {
+      "id": 31,
+      "personagem": "Ichika",
+      "texto_en": "Really? You don't feel anything at all?",
+      "texto_ptbr": "Sério? Você não sente nada mesmo?"
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "...I have an aversion to him, that's for sure.",
+      "texto_ptbr": "...Eu tenho uma certa aversão a ele, isso é certo."
+    },
+    {
+      "id": 33,
+      "personagem": "Ichika",
+      "texto_en": "So you admit it?",
+      "texto_ptbr": "Então você admite?"
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "But, I'm not afraid of him!",
+      "texto_ptbr": "Mas eu não tenho medo dele!"
+    },
+    {
+      "id": 35,
+      "personagem": "Nino",
+      "texto_en": "Don't force yourself.\\nWe too get nervous sometimes\\nwhen we're talking to him.",
+      "texto_ptbr": "Não força a barra.\nA gente também fica nervosa às vezes\nquando conversa com ele."
+    },
+    {
+      "id": 36,
+      "personagem": "Ichika",
+      "texto_en": "Ah, right!\\nHow about greeting him with an Okinawan souvenir?\\nWhat do you think, Futaro-kun?",
+      "texto_ptbr": "Ah, é verdade!\nQue tal cumprimentar ele com um souvenir de Okinawa?\nO que você acha, Futaro-kun?"
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Well, as a starting point, it might be a good idea.",
+      "texto_ptbr": "Bom, como ponto de partida, pode ser uma boa ideia."
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "You don't need to say anything, Nino.\\nI'll explain things myself.",
+      "texto_ptbr": "Você não precisa dizer nada, Nino.\nEu mesmo vou explicar as coisas."
+    },
+    {
+      "id": 39,
+      "personagem": "Ichika",
+      "texto_en": "Oh? Give it your best shot Futaro-kun.",
+      "texto_ptbr": "Ah, é? Dá o seu melhor, Futaro-kun."
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "Of course, I'll give my best!\\nBesides, even if Nino tells her dad,\\nwe won't be able to gain his trust.",
+      "texto_ptbr": "Claro, vou dar o meu melhor!\nAlém disso, mesmo que a Nino conte pro pai dela,\na gente não vai conseguir a confiança dele."
+    },
+    {
+      "id": 41,
+      "personagem": "Nino",
+      "texto_en": "Futaro...!",
+      "texto_ptbr": "Futaro...!"
+    },
+    {
+      "id": 42,
+      "personagem": "Ichika",
+      "texto_en": "Teehee, he'll make a decision when the time is right.\\nNino is a lucky girl.",
+      "texto_ptbr": "Hihi, ele vai tomar uma decisão na hora certa.\nA Nino é uma garota sortuda."
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "Hey, don't make fun of me.",
+      "texto_ptbr": "Ei, não fica zoando comigo."
+    },
+    {
+      "id": 44,
+      "personagem": "Ichika",
+      "texto_en": "I'm not making fun of you,\\nI really think that way.",
+      "texto_ptbr": "Eu não tô zoando você,\né isso mesmo que eu penso."
+    },
+    {
+      "id": 45,
+      "personagem": "Ichika",
+      "texto_en": "Ah, now I can send off my cute little sister\\nwith peace of mind...!",
+      "texto_ptbr": "Ah, agora eu posso deixar minha irmãzinha fofa partir\nde coração tranquilo...!"
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "You're really not making fun of me, right?",
+      "texto_ptbr": "Você realmente não tá zoando comigo, né?"
+    },
+    {
+      "id": 47,
+      "personagem": "Ichika",
+      "texto_en": "Yes, I really mean it.\\nYou'll make Nino happy, right Futaro-kun?",
+      "texto_ptbr": "Sim, eu falo sério.\nVocê vai fazer a Nino feliz, né, Futaro-kun?"
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah. Of course, leave it to me.",
+      "texto_ptbr": "É... É claro, pode deixar comigo."
+    },
+    {
+      "id": 49,
+      "personagem": "Nino",
+      "texto_en": "W-wait, Miku!\\nWhy did the conversation suddenly turned this way?",
+      "texto_ptbr": "E-espera, Miku!\nPor que a conversa virou pra esse lado do nada?"
+    },
+    {
+      "id": 50,
+      "personagem": "Ichika",
+      "texto_en": "Ah, right!\\nHow about greeting him with an Okinawan souvenir?\\nWhat do you think, Futaro-kun?",
+      "texto_ptbr": "Ah, é verdade!\nQue tal cumprimentar ele com um souvenir de Okinawa?\nO que você acha, Futaro-kun?"
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "Well, as a starting point, it might be a good idea.",
+      "texto_ptbr": "Bom, como ponto de partida, pode ser uma boa ideia."
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "He probably senses it.",
+      "texto_ptbr": "Ele provavelmente já percebeu."
+    },
+    {
+      "id": 53,
+      "personagem": "Nino",
+      "texto_en": "Why do you think that?\\nDad left us alone and only returned six months ago.",
+      "texto_ptbr": "Por que você acha isso?\nO papai nos deixou sozinhas e só voltou há seis meses."
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "He'll sense it because he's your father.",
+      "texto_ptbr": "Ele vai perceber porque é o pai de vocês."
+    },
+    {
+      "id": 55,
+      "personagem": "Nino",
+      "texto_en": "!...",
+      "texto_ptbr": "!..."
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "You're starting to understand it too, aren't you?",
+      "texto_ptbr": "Você também tá começando a entender isso, não é?"
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "(Even if you're not blood-related,\\n your dad has deep feelings for you guys...)",
+      "texto_ptbr": "(Mesmo que não sejam ligadas por sangue,\n o pai de vocês tem sentimentos profundos por vocês...)"
+    },
+    {
+      "id": 58,
+      "personagem": "Nino",
+      "texto_en": "...That's right.\\nHe is our dad after all.",
+      "texto_ptbr": "...É verdade.\nEle é nosso pai, afinal."
+    },
+    {
+      "id": 59,
+      "personagem": "Ichika",
+      "texto_en": "But we still need some time to get used to it.",
+      "texto_ptbr": "Mas ainda precisamos de um tempo pra nos acostumar."
+    },
+    {
+      "id": 60,
+      "personagem": "Nino",
+      "texto_en": "It's...a two-way street.\\nFor Dad and for us.",
+      "texto_ptbr": "É... uma via de mão dupla.\nPro papai e pra gente."
+    },
+    {
+      "id": 61,
+      "personagem": "Nino",
+      "texto_en": "It's only been half a year,\\nso we still have a lot of catching up to do.",
+      "texto_ptbr": "Faz só meio ano,\nentão ainda temos muito o que recuperar."
+    },
+    {
+      "id": 62,
+      "personagem": "Ichika",
+      "texto_en": "Ah, right!\\nHow about greeting him with an Okinawan souvenir?\\nWhat do you think, Futaro-kun?",
+      "texto_ptbr": "Ah, é verdade!\nQue tal cumprimentar ele com um souvenir de Okinawa?\nO que você acha, Futaro-kun?"
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "Well, as a starting point, it might be a good idea.",
+      "texto_ptbr": "Bom, como ponto de partida, pode ser uma boa ideia."
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "However, with my current financial situation,\\nI might not be able to afford anything decent.",
+      "texto_ptbr": "Só que, com a minha situação financeira atual,\ntalvez eu não consiga pagar por nada decente."
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "Buying a local souvenir just from anywhere\\nmight be considered rude...",
+      "texto_ptbr": "Comprar um souvenir local de qualquer lugar\ntalvez seja mal-educado..."
+    },
+    {
+      "id": 66,
+      "personagem": "Nino",
+      "texto_en": "We just graduated from high school,\\nso there's nothing to worry about.",
+      "texto_ptbr": "A gente acabou de se formar no colégio,\nentão não tem com o que se preocupar."
+    },
+    {
+      "id": 67,
+      "personagem": "Nino",
+      "texto_en": "Besides, it's not about the money.\\nIt's the thought that counts, the THOUGHT.",
+      "texto_ptbr": "Além disso, não é sobre o dinheiro.\nO que conta é a intenção, a INTENÇÃO."
+    },
+    {
+      "id": 68,
+      "personagem": "Ichika",
+      "texto_en": "The point is to show that the souvenir\\nis one that you, Futaro-kun,\\nhas chosen to give Dad.",
+      "texto_ptbr": "O importante é mostrar que o souvenir\né algo que você, Futaro-kun,\nescolheu pra dar ao papai."
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "Ugh...\\nThe pressure is on...",
+      "texto_ptbr": "Ugh...\nA pressão tá em cima..."
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "(Well, at any rate,\\n I'll have to properly greet their father someday.)",
+      "texto_ptbr": "(Bom, de qualquer forma,\n eu vou ter que cumprimentar o pai delas direito algum dia.)"
+    }
+  ]
+}

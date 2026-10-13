@@ -1,0 +1,36 @@
+{
+  "arquivo": "ca01_21",
+  "total": 3,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "アラハビーチＢ:一花:らいは",
+      "texto_en": "Araha Beach B: Ichika/Raiha",
+      "texto_ptbr": "Araha Beach B: Ichika/Raiha",
+      "selidx": 0
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "アラハビーチＡ:四葉:五月",
+      "texto_en": "Araha Beach A: Yotsuba/Itsuki",
+      "texto_ptbr": "Araha Beach A: Yotsuba/Itsuki",
+      "selidx": 1
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "アラハビーチＣ:二乃:三玖",
+      "texto_en": "Araha Beach C: Nino/Miku",
+      "texto_ptbr": "Araha Beach C: Nino/Miku",
+      "selidx": 2
+    }
+  ]
+}

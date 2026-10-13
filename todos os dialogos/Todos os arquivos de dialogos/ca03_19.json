@@ -1,0 +1,426 @@
+{
+  "arquivo": "ca03_19",
+  "total": 70,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Ichika",
+      "texto_en": "Oh, there's a museum shop.\\nWanna take a look?",
+      "texto_ptbr": "Ah, tem uma loja do museu.\nQuer dar uma olhada?"
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "We still have time\\nuntil Miku's dolphin show, right?",
+      "texto_ptbr": "Ainda temos tempo\naté o show de golfinhos da Miku, né?"
+    },
+    {
+      "id": 2,
+      "personagem": "Miku",
+      "texto_en": "Yeah, we do.",
+      "texto_ptbr": "É, temos sim."
+    },
+    {
+      "id": 3,
+      "personagem": "Raiha",
+      "texto_en": "I'm gonna try to find something\\nthat could make a good souvenir.",
+      "texto_ptbr": "Eu vou tentar achar alguma coisa\nque possa ser uma boa lembrancinha."
+    },
+    {
+      "id": 4,
+      "personagem": "Yotsuba",
+      "texto_en": "I wonder if they have a life-sized stuffed toy\\nof a whale shark?",
+      "texto_ptbr": "Será que eles têm uma pelúcia em tamanho real\nde um tubarão-baleia?"
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "Yotsuba?\\nLet's not go for life-sized ones, shall we?",
+      "texto_ptbr": "Yotsuba?\nVamos não escolher os de tamanho real, tá?"
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Well, I don't think they'll be that big.",
+      "texto_ptbr": "Bem, eu acho que eles não vão ser tão grandes assim."
+    },
+    {
+      "id": 7,
+      "personagem": "Miku",
+      "texto_en": "Ah, this is cute.\\nLook, Futaro, it's a bento box in the shape of a fish.",
+      "texto_ptbr": "Ah, isso é fofo.\nOlha, Fuutarou, é uma marmita em formato de peixe."
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Really? That's pretty neat,\\nbut I guess that's expected\\nfrom a gift shop in an aquarium.",
+      "texto_ptbr": "Sério? Isso é bem legal,\nmas acho que é de se esperar\nde uma loja de presentes num aquário."
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "This one's a whale shark. It's a little stylized,\\nbut you can still see the distinctive features.",
+      "texto_ptbr": "Esse aqui é um tubarão-baleia. É um pouco estilizado,\nmas ainda dá pra ver as características distintas."
+    },
+    {
+      "id": 10,
+      "personagem": "Miku",
+      "texto_en": "I should've used a bento box this cute.",
+      "texto_ptbr": "Eu devia ter usado uma marmita tão fofa quanto essa."
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "But if you had brought a bento box like that,\\nit would have been kind of funny, don't you think?",
+      "texto_ptbr": "Mas se você tivesse levado uma marmita assim,\nteria sido meio engraçado, não acha?"
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "...Is this about the time when you made me\\nbento boxes every morning?",
+      "texto_ptbr": "...Isso é sobre a época em que você fazia\nmarmitas pra mim toda manhã?"
+    },
+    {
+      "id": 13,
+      "personagem": "Miku",
+      "texto_en": "Yes.",
+      "texto_ptbr": "Sim."
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "You handed them to me at school every morning.\\nIt made me happy, but wasn't it hard making 'em everyday?",
+      "texto_ptbr": "Você me entregava na escola toda manhã.\nIsso me deixava feliz, mas não era difícil fazer todo dia?"
+    },
+    {
+      "id": 15,
+      "personagem": "Miku",
+      "texto_en": "No, it was really fun.\\nI never thought it was hard at all.",
+      "texto_ptbr": "Não, era muito divertido.\nEu nunca achei que fosse difícil."
+    },
+    {
+      "id": 16,
+      "personagem": "Miku",
+      "texto_en": "I mean... I've always wanted to make one\\nfor you, Futaro, since we started dating.",
+      "texto_ptbr": "Quer dizer... Eu sempre quis fazer uma\npra você, Fuutarou, desde que a gente começou a namorar."
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "R-really...",
+      "texto_ptbr": "S-sério..."
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "I still remember what was in the first bento you\\nmade for me, you know? It was orthodox, with an\\nomelette, teriyaki chicken, and braised burdock root...",
+      "texto_ptbr": "Eu ainda lembro o que tinha na primeira marmita que você\nfez pra mim, sabia? Era bem tradicional, com uma\nomelete, frango teriyaki, e bardana refogada..."
+    },
+    {
+      "id": 20,
+      "personagem": "Miku",
+      "texto_en": "You remember well.",
+      "texto_ptbr": "Você lembra bem."
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Of course.\\n...Well it was quite obvious how much effort you put into it for me.",
+      "texto_ptbr": "Claro.\n...Bem, era bem óbvio o quanto de esforço você colocou nela pra mim."
+    },
+    {
+      "id": 22,
+      "personagem": "Miku",
+      "texto_en": "...Yeah.",
+      "texto_ptbr": "...É."
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "B-but, looking back on it now,\\nthe ingredients you used were all brown!\\nI would give it a poor rating for the color scheme!",
+      "texto_ptbr": "M-mas, olhando pra trás agora,\nos ingredientes que você usou eram todos marrons!\nEu daria uma nota baixa pelo esquema de cores!"
+    },
+    {
+      "id": 24,
+      "personagem": "Miku",
+      "texto_en": "You don't have to remember all that.",
+      "texto_ptbr": "Você não precisa lembrar tudo isso."
+    },
+    {
+      "id": 25,
+      "personagem": "Miku",
+      "texto_en": "I was just doing my best to make it,\\nso I didn't have time to think about colors.",
+      "texto_ptbr": "Eu só estava fazendo o meu melhor pra fazer aquilo,\nentão não tinha tempo de pensar nas cores."
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "Yet, I was still surprised to see how much you had improved\\nevery time you made them for me.",
+      "texto_ptbr": "Ainda assim, eu ficava surpreso de ver o quanto você melhorava\ntoda vez que fazia elas pra mim."
+    },
+    {
+      "id": 27,
+      "personagem": "Miku",
+      "texto_en": "I practiced a lot because I wanted you\\nto eat my delicious bento, Futaro.",
+      "texto_ptbr": "Eu pratiquei muito porque eu queria que você\ncomesse uma marmita gostosa, Fuutarou."
+    },
+    {
+      "id": 28,
+      "personagem": "Miku",
+      "texto_en": "And, I also enjoyed it more and more\\nas I realized that I was getting better at it.",
+      "texto_ptbr": "E eu também fui gostando cada vez mais\nconforme percebia que estava melhorando."
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Me too.\\nI felt like I watching over your progress.",
+      "texto_ptbr": "Eu também.\nSentia como se estivesse acompanhando o seu progresso."
+    },
+    {
+      "id": 30,
+      "personagem": "Miku",
+      "texto_en": "I'm still improving, though.",
+      "texto_ptbr": "Eu ainda estou melhorando, porém."
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Yeah. I'm looking forward\\nto seeing how much you'll improve at the culinary school.",
+      "texto_ptbr": "É. Estou animado\npra ver o quanto você vai melhorar na escola de culinária."
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "However, I was teased pretty bad by our classmates\\nbecause of the bento incident.",
+      "texto_ptbr": "Porém, eu fui bem zoado pelos nossos colegas de classe\npor causa do incidente da marmita."
+    },
+    {
+      "id": 33,
+      "personagem": "Miku",
+      "texto_en": "That's right. Everyone found out\\nthat we were dating because of it.",
+      "texto_ptbr": "Isso mesmo. Todo mundo descobriu\nque a gente estava namorando por causa disso."
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "That was really embarrassing.\\nThey were making fun of me when I felt the most vulnerable.",
+      "texto_ptbr": "Aquilo foi muito constrangedor.\nEles ficavam zoando comigo quando eu me sentia mais vulnerável."
+    },
+    {
+      "id": 35,
+      "personagem": "Miku",
+      "texto_en": "Futaro, you always gets worked up so quickly.\\nIt makes you an easy target for teasing.",
+      "texto_ptbr": "Fuutarou, você sempre fica agitado tão rápido.\nIsso te torna um alvo fácil pra zoação."
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "B-but even so.\\nIt's weird to just ignore them.",
+      "texto_ptbr": "M-mas mesmo assim.\nÉ estranho simplesmente ignorá-los."
+    },
+    {
+      "id": 37,
+      "personagem": "Miku",
+      "texto_en": "...Though I have to admit, I was kind of happy.",
+      "texto_ptbr": "...Embora eu tenha que admitir, eu fiquei meio feliz."
+    },
+    {
+      "id": 38,
+      "personagem": "Miku",
+      "texto_en": "I wonder when I'll be able to make another bento\\nfor you, Futaro.",
+      "texto_ptbr": "Será que quando eu vou poder fazer outra marmita\npra você, Fuutarou."
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "I don't know...when that will be, though...",
+      "texto_ptbr": "Eu não sei... quando vai ser isso, porém..."
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "Well, there were benefits, too.\\nWe were able to let everyone know.",
+      "texto_ptbr": "Bem, também teve benefícios.\nA gente conseguiu deixar todo mundo saber."
+    },
+    {
+      "id": 41,
+      "personagem": "Miku",
+      "texto_en": "Benefits?",
+      "texto_ptbr": "Benefícios?"
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Oh, well, umm...\\nIf another guy suddenly confessed to you, Miku,\\nit would be a problem, right?",
+      "texto_ptbr": "Ah, bem, hum...\nSe outro cara de repente se declarasse pra você, Miku,\nseria um problema, né?"
+    },
+    {
+      "id": 43,
+      "personagem": "Miku",
+      "texto_en": "...Ah.",
+      "texto_ptbr": "...Ah."
+    },
+    {
+      "id": 44,
+      "personagem": "Miku",
+      "texto_en": "Letting them know...\\nThat, I'm, um, your... Is what you mean?",
+      "texto_ptbr": "Deixar eles saberem...\nQue eu sou, hum, sua... É isso que você quer dizer?"
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "...Or that, I'm yours?",
+      "texto_ptbr": "...Ou que eu sou seu?"
+    },
+    {
+      "id": 46,
+      "personagem": "Miku",
+      "texto_en": "O-okay...",
+      "texto_ptbr": "T-tá bem..."
+    },
+    {
+      "id": 47,
+      "personagem": "Miku",
+      "texto_en": "I wonder when I'll be able to make another bento\\nfor you, Futaro.",
+      "texto_ptbr": "Será que quando eu vou poder fazer outra marmita\npra você, Fuutarou."
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "I don't know...when that will be, though...",
+      "texto_ptbr": "Eu não sei... quando vai ser isso, porém..."
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Because of you, it became more colorful.",
+      "texto_ptbr": "Por causa de você, ficou mais colorido."
+    },
+    {
+      "id": 50,
+      "personagem": "Miku",
+      "texto_en": "Colorful? You're not talking about the...bento, right?",
+      "texto_ptbr": "Colorido? Você não está falando da... marmita, né?"
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "The colorful high school life.\\nThanks to that,\\nthere are people I talk to a lot more now.",
+      "texto_ptbr": "A colorida vida do colegial.\nGraças a isso,\ntem gente com quem eu converso muito mais agora."
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "If you look at it that way, it's not a bad thing.",
+      "texto_ptbr": "Se você olhar por esse lado, não é uma coisa ruim."
+    },
+    {
+      "id": 53,
+      "personagem": "Miku",
+      "texto_en": "...I see.\\nEnjoying your youth, huh?",
+      "texto_ptbr": "...Entendo.\nAproveitando a juventude, hein?"
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "W-well, yeah, that's one way to put it.",
+      "texto_ptbr": "B-bem, é, essa é uma forma de dizer isso."
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "I was able to experience this\\nbecause I was together with you, Miku. Thanks.",
+      "texto_ptbr": "Eu consegui viver isso\nporque estava junto com você, Miku. Obrigado."
+    },
+    {
+      "id": 56,
+      "personagem": "Miku",
+      "texto_en": "No...\\nI've been able to experience so much\\nbecause I'm with you, Futaro.",
+      "texto_ptbr": "Não...\nEu consegui viver tanta coisa\nporque estou com você, Fuutarou."
+    },
+    {
+      "id": 57,
+      "personagem": "Miku",
+      "texto_en": "Thank you.",
+      "texto_ptbr": "Obrigada."
+    },
+    {
+      "id": 58,
+      "personagem": "Miku",
+      "texto_en": "I wonder when I'll be able to make another bento\\nfor you, Futaro.",
+      "texto_ptbr": "Será que quando eu vou poder fazer outra marmita\npra você, Fuutarou."
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "I don't know...when that will be, though...",
+      "texto_ptbr": "Eu não sei... quando vai ser isso, porém..."
+    },
+    {
+      "id": 60,
+      "personagem": "Miku",
+      "texto_en": "But, in the future...",
+      "texto_ptbr": "Mas, no futuro..."
+    },
+    {
+      "id": 61,
+      "personagem": "Miku",
+      "texto_en": "I'll make them for you every day again.\\nDelicious bento.",
+      "texto_ptbr": "Eu vou fazer elas pra você todo dia de novo.\nMarmitas gostosas."
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "!...",
+      "texto_ptbr": "!..."
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "(In other words...)",
+      "texto_ptbr": "(Em outras palavras...)"
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, I'll be looking forward to it.",
+      "texto_ptbr": "É, vou ficar animado esperando por isso."
+    },
+    {
+      "id": 65,
+      "personagem": "Miku",
+      "texto_en": "I'll do my best.",
+      "texto_ptbr": "Vou fazer o meu melhor."
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 67,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "W-well, it's about time!\\nThe dolphin show is starting,\\nso let's go!",
+      "texto_ptbr": "B-bem, já é quase hora!\nO show de golfinhos vai começar,\nentão vamos!"
+    },
+    {
+      "id": 69,
+      "personagem": "Miku",
+      "texto_en": "Yeah...",
+      "texto_ptbr": "É..."
+    }
+  ]
+}

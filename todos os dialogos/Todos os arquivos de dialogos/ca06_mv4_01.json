@@ -1,0 +1,336 @@
+{
+  "arquivo": "ca06_mv4_01",
+  "total": 55,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "What's up, you two going shopping?",
+      "texto_ptbr": "E aí, vocês duas indo às compras?"
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, Uesugi-kun, you've come here too.",
+      "texto_ptbr": "Ah, Uesugi-kun, você veio pra cá também."
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "It seems like there are a lot of fashion shops\\naround here. Did you find anything interesting?",
+      "texto_ptbr": "Parece que tem bastante loja de roupa\\npor aqui. Achou alguma coisa interessante?"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "I'm not really interested in clothes...",
+      "texto_ptbr": "Eu não ligo muito pra roupa..."
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "That makes sense.\\nWell, then please accompany us on our shopping trip.",
+      "texto_ptbr": "Faz sentido.\\nBom, então nos acompanha nessa ida às compras."
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "Would you please be our pack mule?",
+      "texto_ptbr": "Você pode ser o nosso carregador de sacolas?"
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "...You're not trying to use me, are you?",
+      "texto_ptbr": "...Você não está tentando me usar, está?"
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "Please show us that level of determination.",
+      "texto_ptbr": "Por favor, mostra essa determinação pra gente."
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, this shop is really nice.\\nThere are clothes with Okinawan color schemes.",
+      "texto_ptbr": "Ah, essa loja é bem legal.\\nTem roupas com as cores de Okinawa."
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "They look like they could be worn\\nas casual clothes too.\\nShall we take a look?",
+      "texto_ptbr": "Dá pra usar até no dia a dia\\ntambém, parece.\\nVamos dar uma olhada?"
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "(I've heard them talk about clothes before.\\n I think Ichika likes more mature styles\\n and Yotsuba likes more childish ones...)",
+      "texto_ptbr": "(Já ouvi elas falando de roupa antes.\\n Acho que a Ichika gosta de estilos mais maduros\\n e a Yotsuba gosta de coisas mais infantis...)"
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "(...Which isn't really useful information.)",
+      "texto_ptbr": "(...O que não ajuda muito agora.)"
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "So?\\nHave you decided on what to buy?",
+      "texto_ptbr": "E aí?\\nJá decidiu o que vai comprar?"
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "Something that captures the essence of Okinawa,\\nor something easy to wear on a daily basis...\\nHard to choose when you see the actual products.",
+      "texto_ptbr": "Algo que capture a essência de Okinawa,\\nou algo fácil de usar no dia a dia...\\nÉ difícil escolher quando vê as peças de verdade."
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "Well, how about this one?",
+      "texto_ptbr": "Bom, que tal essa aqui?"
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "Huh?\\nThat outfit is...",
+      "texto_ptbr": "Hã?\\nEssa roupa é..."
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "It's cute and perfect for summer, isn't it?\\nWhat do you think, Uesugi-kun?",
+      "texto_ptbr": "É fofa e perfeita pro verão, não é?\\nO que você acha, Uesugi-kun?"
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Don't ask me.\\nI mean, it looks fine to me, I guess.",
+      "texto_ptbr": "Não me pergunta.\\nQuer dizer, acho que tá boa, sei lá."
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "See, even Uesugi-kun's reaction isn't bad.\\nCome on, try it on!",
+      "texto_ptbr": "Viu, até a reação do Uesugi-kun não foi ruim.\\nAnda, experimenta!"
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "Um, well...\\nConsidering the amount of fabric,\\nit might be a little too revealing...",
+      "texto_ptbr": "Hm, bem...\\nConsiderando a quantidade de tecido,\\ntalvez fique meio reveladora demais..."
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, I see%p-2;――",
+      "texto_ptbr": "Ah, entendi%p-2;――"
+    },
+    {
+      "id": 21,
+      "personagem": "Itsuki",
+      "texto_en": "You gained weight, didn't you?",
+      "texto_ptbr": "Você engordou, não foi?"
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "Hyaa!\\nWh-what are you doing?!",
+      "texto_ptbr": "Hyaa!\\nO-o que você está fazendo?!"
+    },
+    {
+      "id": 23,
+      "personagem": "Itsuki",
+      "texto_en": "Could it be that you've relaxed a little too much\\nafter being freed from studying for exams?",
+      "texto_ptbr": "Será que você relaxou demais\\ndepois que se livrou de estudar pras provas?"
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "Especially around here!",
+      "texto_ptbr": "Principalmente aqui!"
+    },
+    {
+      "id": 25,
+      "personagem": "Itsuki",
+      "texto_en": "P-please stop it!\\nDon't touch people's stomachs without permission!",
+      "texto_ptbr": "P-para com isso!\\nNão fica tocando na barriga dos outros sem permissão!"
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "I won't stop! You're the meat bun monster!",
+      "texto_ptbr": "Eu não vou parar! Você é o monstro do pãozinho de carne!"
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "M-meat?! Who's the meat bun monster?!",
+      "texto_ptbr": "C-carne?! Quem é o monstro do pãozinho de carne?!"
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "(Hm? 'Meat bun monster'...\\n I feel like I've heard that before.)",
+      "texto_ptbr": "(Hm? 'Monstro do pãozinho de carne'...\\n Sinto que já ouvi isso antes.)"
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "(That's right.\\n Come to think of it, this scene is familiar...)",
+      "texto_ptbr": "(É isso mesmo.\\n Pensando bem, essa cena me é familiar...)"
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "(What was it...\\n I can't remember...)",
+      "texto_ptbr": "(O que era mesmo...\\n Não consigo lembrar...)"
+    },
+    {
+      "id": 31,
+      "personagem": "Itsuki",
+      "texto_en": "I-I've had enough!",
+      "texto_ptbr": "J-já chega!"
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Itsuki often eats meat buns, doesn't she?\\nAnd, really like a monster.",
+      "texto_ptbr": "A Itsuki come pãozinho de carne direto, não é?\\nE de um jeito bem monstruoso."
+    },
+    {
+      "id": 33,
+      "personagem": "Itsuki",
+      "texto_en": "I-I didn't eat that much, did I?!",
+      "texto_ptbr": "E-eu não comi tanto assim, comi?!"
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "No no, it was enough to get you to this point.\\nMaybe you did eat too much after all?",
+      "texto_ptbr": "Não, não, foi o suficiente pra chegar nesse ponto.\\nTalvez você tenha mesmo comido demais?"
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "FHYAA?!",
+      "texto_ptbr": "FHYAA?!"
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "This area in particular is the danger zone, huh?",
+      "texto_ptbr": "Essa área aqui em especial é a zona de perigo, né?"
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "Hey! Please stop that!",
+      "texto_ptbr": "Ei! Para com isso, por favor!"
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "Now I remember!\\nYou've gotta be Nino, right?! I'm pretty sure you've\\nteased Itsuki about being a meat bun monster before!",
+      "texto_ptbr": "Agora eu lembrei!\\nVocê tem que ser a Nino, né?! Tenho quase certeza que você já\\nzoou a Itsuki chamando ela de monstro do pãozinho de carne!"
+    },
+    {
+      "id": 39,
+      "personagem": "Itsuki",
+      "texto_en": "No, that's not true.\\nWhat are you talking about, all of a sudden?",
+      "texto_ptbr": "Não, isso não é verdade.\\nDo que você está falando, do nada?"
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "I'm sure of it!\\nYou were the one who called Itsuki\\na 'meat bun monster' before, Nino!",
+      "texto_ptbr": "Tenho certeza disso!\\nFoi você quem chamou a Itsuki\\nde 'monstro do pãozinho de carne' antes, Nino!"
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "Really, now.\\nI believe you aren't remembering correctly.",
+      "texto_ptbr": "Sério mesmo.\\nAcho que você não está lembrando direito."
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "E-enough arguing already!\\nStop touching my stomach!",
+      "texto_ptbr": "J-já chega de discussão!\\nPara de tocar na minha barriga!"
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "No can do.\\nI won't stop\\nuntil you reflect on your recent overeating!",
+      "texto_ptbr": "Não dá.\\nEu não vou parar\\naté você refletir sobre ter comido demais ultimamente!"
+    },
+    {
+      "id": 44,
+      "personagem": "Itsuki",
+      "texto_en": "I'm not overeating!\\nI-I'm just going through a growth spurt,\\nthat's all!",
+      "texto_ptbr": "Eu não estou comendo demais!\\nE-eu só estou num surto de crescimento,\\nsó isso!"
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "If you can't control yourself,\\nyou'll be in trouble!",
+      "texto_ptbr": "Se você não consegue se controlar,\\nvai se dar mal!"
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "(Itsuki is being punished by Itsuki...\\n Wait, or is Itsuki punishing Itsuki?\\n What's going on here... What am I seeing?)",
+      "texto_ptbr": "(A Itsuki está sendo castigada pela Itsuki...\\n Espera, ou é a Itsuki castigando a Itsuki?\\n O que está acontecendo aqui... O que estou vendo?)"
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "Huff, huff...\\nY-you're just terrible...",
+      "texto_ptbr": "Huff, huff...\\nV-você é terrível mesmo..."
+    },
+    {
+      "id": 48,
+      "personagem": "Itsuki",
+      "texto_en": "Heh, it seems like\\nyou've reflected on your actions, huh?",
+      "texto_ptbr": "Heh, parece que\\nvocê refletiu sobre suas atitudes, né?"
+    },
+    {
+      "id": 49,
+      "personagem": "Itsuki",
+      "texto_en": "I'm sure I've been caught like this before.\\nAm I up against Nino?",
+      "texto_ptbr": "Tenho certeza que já fui pega assim antes.\\nEstou lidando com a Nino?"
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "You figured it out quickly.\\nAs expected, Ichika.",
+      "texto_ptbr": "Você percebeu rápido.\\nComo esperado, Ichika."
+    },
+    {
+      "id": 51,
+      "personagem": "Itsuki",
+      "texto_en": "But you went a little too far.\\n*sigh* My stomach still feels weird.",
+      "texto_ptbr": "Mas você exagerou um pouco.\\n*suspiro* Minha barriga ainda está estranha."
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "Ahaha.\\nI got a little carried away, didn't I?",
+      "texto_ptbr": "Ahaha.\\nEu me empolguei um pouco, né?"
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "...Hm?\\nWhat are you guys talking about?",
+      "texto_ptbr": "...Hm?\\nDo que vocês estão falando?"
+    },
+    {
+      "id": 54,
+      "personagem": "Both",
+      "texto_en": "It's nothing.",
+      "texto_ptbr": "Não é nada."
+    }
+  ]
+}

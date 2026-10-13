@@ -1,0 +1,306 @@
+{
+  "arquivo": "ca04_12",
+  "total": 50,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Raiha",
+      "texto_en": "Good morning, big bro!",
+      "texto_ptbr": "Bom dia, maninho!"
+    },
+    {
+      "id": 1,
+      "personagem": "Yotsuba",
+      "texto_en": "Good morning, Uesugi-san.",
+      "texto_ptbr": "Bom dia, Uesugi-san."
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Hey, mornin'.",
+      "texto_ptbr": "E aí, bom dia."
+    },
+    {
+      "id": 3,
+      "personagem": "Yotsuba",
+      "texto_en": "Did you sleep well last night?\\nDo you still feel tired?",
+      "texto_ptbr": "Você dormiu bem ontem à noite?\nAinda tá se sentindo cansado?"
+    },
+    {
+      "id": 4,
+      "personagem": "Raiha",
+      "texto_en": "I got a massage before going to bed.\\nIt felt SO good!",
+      "texto_ptbr": "Eu recebi uma massagem antes de dormir.\nFoi TÃO bom!"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Really now? I'm glad.\\nYou're a big help, Yotsuba,\\nfor taking care of her.",
+      "texto_ptbr": "É mesmo? Que bom.\nVocê é uma grande ajuda, Yotsuba,\npor cuidar dela."
+    },
+    {
+      "id": 6,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, it's nothing much.\\nStretching after exercise is basic for good health.",
+      "texto_ptbr": "Ah, não é grande coisa.\nAlongar depois de se exercitar é básico pra ter boa saúde."
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "(...I was a little surprised last night,\\n but Yotsuba is the same as usual.)",
+      "texto_ptbr": "(...Eu fiquei um pouco surpreso ontem à noite,\n mas a Yotsuba tá do jeito de sempre.)"
+    },
+    {
+      "id": 8,
+      "personagem": "Raiha",
+      "texto_en": "Are we going out for breakfast today?",
+      "texto_ptbr": "A gente vai sair pra tomar café da manhã hoje?"
+    },
+    {
+      "id": 9,
+      "personagem": "Yotsuba",
+      "texto_en": "Yes, there are many shops on Kokusai dori%p-2;――",
+      "texto_ptbr": "Sim, tem muitas lojas na Kokusai dori%p-2;――"
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "Good morning, Fu-kun!",
+      "texto_ptbr": "Bom dia, Fu-kun!"
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "WOAH?!",
+      "texto_ptbr": "UAAH?!"
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "Sorry to keep you waiting.\\nIt took me longer than expected to get ready.",
+      "texto_ptbr": "Desculpa te fazer esperar.\nDemorei mais do que esperava pra me arrumar."
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "I wasn't really waiting,\\nbut what's going on? That was kind of dangerous.",
+      "texto_ptbr": "Eu não tava exatamente esperando,\nmas o que foi isso? Isso foi meio perigoso."
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "You don't have to be embarrassed.\\nWe're close, aren't we?",
+      "texto_ptbr": "Você não precisa ficar com vergonha.\nA gente é próximo, não é?"
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "I don't remember being THIS close.",
+      "texto_ptbr": "Eu não me lembro de sermos TÃO próximos assim."
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "Hmm? \\nDon't tell me you forgot about me, did you?",
+      "texto_ptbr": "Hmm?\nNão me diz que você esqueceu de mim, esqueceu?"
+    },
+    {
+      "id": 18,
+      "personagem": "Yotsuba",
+      "texto_en": "U-um, Nino, good morning.",
+      "texto_ptbr": "H-hã, Nino, bom dia."
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "Oh, good morning, Yotsuba.\\nGood morning, Raiha-chan.",
+      "texto_ptbr": "Ah, bom dia, Yotsuba.\nBom dia, Raiha-chan."
+    },
+    {
+      "id": 20,
+      "personagem": "Raiha",
+      "texto_en": "Gooood mooorning!",
+      "texto_ptbr": "Boooom diiiaa!"
+    },
+    {
+      "id": 21,
+      "personagem": "Yotsuba",
+      "texto_en": "Hey, Nino! Isn't Miku with you?",
+      "texto_ptbr": "Ei, Nino! A Miku não tá com você?"
+    },
+    {
+      "id": 22,
+      "personagem": "Miku",
+      "texto_en": "Here I am.",
+      "texto_ptbr": "Aqui estou."
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "UHYAAA?!",
+      "texto_ptbr": "UHYAAA?!"
+    },
+    {
+      "id": 24,
+      "personagem": "Yotsuba",
+      "texto_en": "When did you get behind me?\\nYou really surprised me!",
+      "texto_ptbr": "Quando você foi pras minhas costas?\nVocê me assustou de verdade!"
+    },
+    {
+      "id": 25,
+      "personagem": "Miku",
+      "texto_en": "If you don't notice someone sneaking up from behind,\\nyou have too many openings.",
+      "texto_ptbr": "Se você não percebe alguém se aproximando por trás,\nvocê tem brechas demais."
+    },
+    {
+      "id": 26,
+      "personagem": "Miku",
+      "texto_en": "If this were the Sengoku era,\\nthe Yotsuba clan would be elimitated immediately.",
+      "texto_ptbr": "Se isso fosse a era Sengoku,\no clã Yotsuba seria eliminado imediatamente."
+    },
+    {
+      "id": 27,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 28,
+      "personagem": "Miku",
+      "texto_en": "Futaro, good morning.",
+      "texto_ptbr": "Futaro, bom dia."
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Hey, morning, Miku.",
+      "texto_ptbr": "E aí, bom dia, Miku."
+    },
+    {
+      "id": 30,
+      "personagem": "Miku",
+      "texto_en": "Yesterday was so fun.",
+      "texto_ptbr": "Ontem foi muito divertido."
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, for sure.\\nI'm glad you had fun too, Miku%p-2;――",
+      "texto_ptbr": "É, com certeza.\nFico feliz que você também se divertiu, Miku%p-2;――"
+    },
+    {
+      "id": 32,
+      "personagem": "Miku",
+      "texto_en": "But I don't have much stamina, and...\\nI bet you don't either, Futaro.\\nIf we get tired, let's take a break together, okay?",
+      "texto_ptbr": "Mas eu não tenho muito fôlego, e...\naposto que você também não tem, Futaro.\nSe a gente ficar cansado, vamos descansar juntos, tá?"
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "H-hey, you two!\\nDon't get so close to me!",
+      "texto_ptbr": "E-ei, vocês duas!\nNão fiquem tão perto de mim!"
+    },
+    {
+      "id": 34,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "Good morning.\\nSorry to keep you waiting.",
+      "texto_ptbr": "Bom dia.\nDesculpa te fazer esperar."
+    },
+    {
+      "id": 36,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, Itsuki! Morning.",
+      "texto_ptbr": "Ah, Itsuki! Bom dia."
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "Come on, Ichika.\\nWe've arrived at the lobby,\\nso please get yourself together.",
+      "texto_ptbr": "Vamos, Ichika.\nJá chegamos no saguão,\nentão por favor se organiza."
+    },
+    {
+      "id": 38,
+      "personagem": "Ichika",
+      "texto_en": "Nnnnh...morninggg...",
+      "texto_ptbr": "Nnnnh...bom diiaa..."
+    },
+    {
+      "id": 39,
+      "personagem": "Yotsuba",
+      "texto_en": "Ichika, are you awake?\\nOr, perhaps asleep?",
+      "texto_ptbr": "Ichika, você tá acordada?\nOu, talvez, dormindo?"
+    },
+    {
+      "id": 40,
+      "personagem": "Ichika",
+      "texto_en": "Half-and-half, I guess.\\nThinking about how I don't have to work or study,\\nI kind of let my guard down...",
+      "texto_ptbr": "Meio a meio, eu acho.\nPensando que não preciso trabalhar nem estudar,\nacabei relaxando um pouco a guarda..."
+    },
+    {
+      "id": 41,
+      "personagem": "Ichika",
+      "texto_en": "But, I'll be okay.\\nOnce I have breakfast,\\nI'll wake up...",
+      "texto_ptbr": "Mas, eu vou ficar bem.\nAssim que eu tomar café da manhã,\nvou acordar..."
+    },
+    {
+      "id": 42,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, you're right.\\nWell, now that we're all here%p-2;――",
+      "texto_ptbr": "É, você tem razão.\nBem, agora que estamos todos aqui%p-2;――"
+    },
+    {
+      "id": 43,
+      "personagem": "Nino",
+      "texto_en": "Hey, Fu-kun.\\nI'm hungry.\\nLet's go already.",
+      "texto_ptbr": "Ei, Fu-kun.\nTô com fome.\nVamos logo."
+    },
+    {
+      "id": 44,
+      "personagem": "Miku",
+      "texto_en": "What do you want to eat, Futaro?",
+      "texto_ptbr": "O que você quer comer, Futaro?"
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "I said, get away from me.\\nIt's hard to walk.",
+      "texto_ptbr": "Eu falei, saiam de perto de mim.\nTá difícil de andar."
+    },
+    {
+      "id": 46,
+      "personagem": "Itsuki",
+      "texto_en": "Yotsuba?",
+      "texto_ptbr": "Yotsuba?"
+    },
+    {
+      "id": 47,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, yeah! Let's go!\\nTime to depart!",
+      "texto_ptbr": "Ah, é! Vamos!\nHora de partir!"
+    },
+    {
+      "id": 48,
+      "personagem": "Raiha",
+      "texto_en": "Alrighty.",
+      "texto_ptbr": "Certinho."
+    },
+    {
+      "id": 49,
+      "personagem": "Itsuki",
+      "texto_en": "...Nino and Miku are serious, huh.",
+      "texto_ptbr": "...A Nino e a Miku tão falando sério, hein."
+    }
+  ]
+}

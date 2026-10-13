@@ -1,0 +1,55 @@
+{
+  "arquivo": "ca01_11",
+  "total": 5,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*map",
+      "texto_jp": "dummy",
+      "texto_en": "{UNTRANSLATED}dummy",
+      "texto_ptbr": "",
+      "selidx": 0
+    },
+    {
+      "id": 1,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "……！",
+      "texto_en": "...!",
+      "texto_ptbr": "...!"
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "男女７歳にしてって言うだろ！",
+      "texto_en": "Boys and girls should be separated!",
+      "texto_ptbr": "Garotos e garotas têm que ficar separados a partir dos sete anos!",
+      "selidx": 0
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "らいはの教育に悪い！",
+      "texto_en": "It's bad for Raiha's upbringing!",
+      "texto_ptbr": "Isso faz mal pra educação da Raiha!",
+      "selidx": 1
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "そういうの止めろって",
+      "texto_en": "Stop that kind of talk.",
+      "texto_ptbr": "Para com esse tipo de conversa.",
+      "selidx": 2
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca01_mv2_02",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "俺に同意を求めるな。\\nお前のセンスはさっぱりわからん。\\nつーか――",
+      "texto_en": "Don't look at me for approval.\\nI have no idea what your sense of style is.\\nAnyway%p-2;――",
+      "texto_ptbr": "Não me olha pra eu validar.\\nNão faço ideia de qual é o estilo de vocês.\\nDe qualquer forma%p-2;――"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "いい加減にしてくれ",
+      "texto_en": "Give me a break, would you?",
+      "texto_ptbr": "Me dá um tempo, tá?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "どれも似合わないだろ",
+      "texto_en": "None of them would look good on me.",
+      "texto_ptbr": "Nenhuma delas ficaria bem em mim.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "色々あるんだな",
+      "texto_en": "There are a lot of different patterns, huh.",
+      "texto_ptbr": "Tem um monte de estampas diferentes, hein.",
+      "selidx": 2
+    }
+  ]
+}

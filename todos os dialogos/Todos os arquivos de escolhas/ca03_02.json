@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca03_02",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "（……どうする？\\n　ここはどう切り出すべきだ？）",
+      "texto_en": "(What do I say?\\n How should I bring this up?)",
+      "texto_ptbr": "(O que eu digo?\n Como eu trago esse assunto à tona?)"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "俺に言いたいことはないか？",
+      "texto_en": "Don't you have something to tell me?",
+      "texto_ptbr": "Você não tem nada pra me dizer?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "大丈夫か？",
+      "texto_en": "Are you okay?",
+      "texto_ptbr": "Tá tudo bem?",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "（ここはまず別の話題からだ）",
+      "texto_en": "(I need to change the subject first.)",
+      "texto_ptbr": "(Primeiro preciso mudar de assunto.)",
+      "selidx": 2
+    }
+  ]
+}

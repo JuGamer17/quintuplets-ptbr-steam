@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca02_mv4_03",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "風太郎、似合いそうね。",
+      "texto_en": "It would look good on you, Futaro.",
+      "texto_ptbr": "Ficaria bem em você, Futaro."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "どうだろうな",
+      "texto_en": "I'm not sure.",
+      "texto_ptbr": "Será?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "二乃とお揃いになるな",
+      "texto_en": "I'd like to match Nino's outfit.",
+      "texto_ptbr": "Vai combinar com a Nino.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "お前が言うなら着てみてもいいな",
+      "texto_en": "I'd wear it at your recommendation",
+      "texto_ptbr": "Se você recomenda, eu até experimento.",
+      "selidx": 2
+    }
+  ]
+}

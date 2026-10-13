@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca05_mv2_03",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ど、ど、同棲……！",
+      "texto_en": "L-living together!",
+      "texto_ptbr": "M-morar juntos!"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "変な想像すんなって",
+      "texto_en": "Don't imagine weird things.",
+      "texto_ptbr": "Não imagina coisas estranhas.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "まあ、いずれはな",
+      "texto_en": "Well, eventually.",
+      "texto_ptbr": "Bom, um dia.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "同棲というか家族に……",
+      "texto_en": "Living together, like a family...",
+      "texto_ptbr": "Mais do que morar junto, virar uma família...",
+      "selidx": 2
+    }
+  ]
+}

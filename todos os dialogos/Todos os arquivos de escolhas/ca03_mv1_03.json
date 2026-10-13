@@ -1,0 +1,75 @@
+{
+  "arquivo": "ca03_mv1_03",
+  "total": 7,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "お兄ちゃんは？　どっちが可愛い？",
+      "texto_en": "How about you, big bro? Which one did you think was cuter?",
+      "texto_ptbr": "E você, Onii-chan? Qual você achou mais fofo?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "その視点は俺にはないな",
+      "texto_en": "I don't see them the same way as you guys do.",
+      "texto_ptbr": "Essa perspectiva eu não tenho.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ヤンバルクイナだな！",
+      "texto_en": "The Yanbaru rail for sure!",
+      "texto_ptbr": "O Yanbaru Kuina com certeza!",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "どっちも絶滅危惧種だな",
+      "texto_en": "They're both endangered species.",
+      "texto_ptbr": "Os dois são espécies ameaçadas de extinção.",
+      "selidx": 2
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "文芸展示:一花:二乃",
+      "texto_en": "Arts and Literature Exhibit: Ichika/Nino",
+      "texto_ptbr": "Exposição de Artes e Literatura: Ichika/Nino",
+      "selidx": 0
+    },
+    {
+      "id": 5,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "ホール:三玖:四葉",
+      "texto_en": "Hall: Miku/Yotsuba",
+      "texto_ptbr": "Salão: Miku/Yotsuba",
+      "selidx": 1
+    },
+    {
+      "id": 6,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "生物展示:五月:らいは",
+      "texto_en": "Biology Exhibit: Itsuki/Raiha",
+      "texto_ptbr": "Exposição de Biologia: Itsuki/Raiha",
+      "selidx": 2
+    }
+  ]
+}

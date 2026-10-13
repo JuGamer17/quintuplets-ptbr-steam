@@ -1,0 +1,162 @@
+{
+  "arquivo": "ca02_07",
+  "total": 26,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(After leaving Tinu Beach, we went around the island\\n and visited the power spots recommended by Nino.)",
+      "texto_ptbr": "(Depois de sair da Praia Tinu, demos uma volta pela ilha\\n e visitamos os pontos de energia recomendados pela Nino.)"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(We also enjoyed Okinawan tourism,\\n and delectable seafood for lunch...)",
+      "texto_ptbr": "(Também aproveitamos o turismo de Okinawa\\n e comemos frutos do mar deliciosos no almoço...)"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(We returned to the front of Ocean Tower again.)",
+      "texto_ptbr": "(Voltamos à frente do Ocean Tower de novo.)"
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "As expected of Okinawa, the seafood was delicious.",
+      "texto_ptbr": "Como esperado de Okinawa, os frutos do mar foram incríveis."
+    },
+    {
+      "id": 4,
+      "personagem": "Raiha",
+      "texto_en": "It's just too good\\nto be able to eat freshly caught seafood!",
+      "texto_ptbr": "É bom demais\\npoder comer frutos do mar fresquinhos assim!"
+    },
+    {
+      "id": 5,
+      "personagem": "Yotsuba",
+      "texto_en": "Teehee, it's only the first day of the trip and there will be\\neven more delicious dishes to have!",
+      "texto_ptbr": "Hehe, e é só o primeiro dia da viagem — ainda tem\\nmuit coisa gostosa por vir!"
+    },
+    {
+      "id": 6,
+      "personagem": "Both",
+      "texto_en": "Wowee!!",
+      "texto_ptbr": "Uhulll!!"
+    },
+    {
+      "id": 7,
+      "personagem": "Miku",
+      "texto_en": "You too, Itsuki?",
+      "texto_ptbr": "Você também, Itsuki?"
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "That's so her.",
+      "texto_ptbr": "Muito ela."
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "Umm, today we went to Heart Rock at Tinu Beach,\\na cave at Chigunu Beach,\\nand...Tokei Beach.",
+      "texto_ptbr": "Bom, hoje fomos à Heart Rock na Praia Tinu,\\numa caverna na Praia Chigunu,\\ne... à Praia Tokei."
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "Yes, we went around and visited many places.\\nWe must have seen all the famous spots.",
+      "texto_ptbr": "É, demos uma volta e visitamos bastante coisa.\\nAcho que vimos todos os lugares famosos."
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "Everywhere we went the ocean was clear and beautiful.",
+      "texto_ptbr": "Em todo lugar que fomos o mar era cristalino e lindo."
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, the view was wonderful, especially with the sunny weather.",
+      "texto_ptbr": "É, a paisagem foi incrível, ainda mais com esse sol."
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "I'm looking forward to seeing the photos later.",
+      "texto_ptbr": "Tô curiosa pra ver as fotos depois."
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Anyway, that's about it for today's sightseeing, huh?\\nConsidering the time to head back,\\nit's probably about time to wrap up.",
+      "texto_ptbr": "Bom, acho que é isso pelo passeio de hoje, né?\\nLevando em conta o tempo de volta,\\nprovavelmente já tá na hora de encerrar."
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "Ah! Wait!\\nBefore we go back, can we go to Tinu Beach again?",
+      "texto_ptbr": "Ah! Espera!\\nAntes de voltar, a gente pode ir à Praia Tinu de novo?"
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Did you forget something?",
+      "texto_ptbr": "Esqueceu alguma coisa?"
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "No, it's not that.",
+      "texto_ptbr": "Não, não é isso."
+    },
+    {
+      "id": 18,
+      "personagem": "Nino",
+      "texto_en": "If we go now, we can see Tinu Beach at dusk.\\nI want to see it as the finishing touch for today.",
+      "texto_ptbr": "Se a gente for agora, dá pra ver a Praia Tinu no entardecer.\\nQuero ver isso como encerramento perfeito do dia."
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Ah, I see. The sunset!\\nWe should be able to see it from Tinu Beach.",
+      "texto_ptbr": "Ah, entendi. O pôr do sol!\\nA gente deve conseguir ver da Praia Tinu."
+    },
+    {
+      "id": 20,
+      "personagem": "Ichika",
+      "texto_en": "Wow, I want to see it!\\nTem que ser lindo!",
+      "texto_ptbr": "Nossa, eu quero ver!\\nTem que ser lindo!"
+    },
+    {
+      "id": 21,
+      "personagem": "Itsuki",
+      "texto_en": "Since we have plenty of time,\\nlet's go as Nino suggested.",
+      "texto_ptbr": "Como ainda temos tempo de sobra,\\nvamos como a Nino sugeriu."
+    },
+    {
+      "id": 22,
+      "personagem": "Miku",
+      "texto_en": "Okay.",
+      "texto_ptbr": "Certo."
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "I agree too!",
+      "texto_ptbr": "Eu também topo!"
+    },
+    {
+      "id": 24,
+      "personagem": "Raiha",
+      "texto_en": "Me too!",
+      "texto_ptbr": "Eu também!"
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "All right then,\\nlet's go.",
+      "texto_ptbr": "Ótimo então,\\nvamos lá."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca02_mv4_02",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "……ああ。\\nいいのよ風太郎、気にしないで。",
+      "texto_en": "I see.\\nIt's fine, Futaro, don't worry about it.",
+      "texto_ptbr": "Entendi.\nTudo bem, Futaro, não precisa se preocupar."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "無理じゃないぞ",
+      "texto_en": "It's not impossible.",
+      "texto_ptbr": "Não é impossível.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "すまん……",
+      "texto_en": "Sorry...",
+      "texto_ptbr": "Desculpa...",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "せっかく似合ってるのに",
+      "texto_en": "It does suit you after all. ",
+      "texto_ptbr": "Mas combina com você, afinal.",
+      "selidx": 2
+    }
+  ]
+}

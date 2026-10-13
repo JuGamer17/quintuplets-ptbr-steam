@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca01_26",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "上杉君？\\nなにをニヤニヤしているんですか？",
+      "texto_en": "Uesugi-kun?\\nWhy are you grinning like that?",
+      "texto_ptbr": "Uesugi-kun?\\nPor que está com esse sorrisão?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "いや、美味しそうだと思って",
+      "texto_en": "Nah, I just thought it looked delicious.",
+      "texto_ptbr": "Não, só achei que parecia gostoso.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "元気になって良かったよ",
+      "texto_en": "I'm glad she's feeling better.",
+      "texto_ptbr": "Que bom que ela melhorou.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "いい光景だと思ってさ",
+      "texto_en": "I was thinking how nice of a scene this is.",
+      "texto_ptbr": "Só achei que é uma bela cena.",
+      "selidx": 2
+    }
+  ]
+}

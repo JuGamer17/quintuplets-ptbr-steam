@@ -1,0 +1,408 @@
+{
+  "arquivo": "ca03_mv4_01",
+  "total": 67,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Itsuki",
+      "texto_en": "That was surprising.\\nThese things actually happen, huh?",
+      "texto_ptbr": "Aquilo foi surpreendente.\\nEssas coisas realmente acontecem, hein?"
+    },
+    {
+      "id": 1,
+      "personagem": "Ichika",
+      "texto_en": "Sorry for freaking you out.",
+      "texto_ptbr": "Desculpa por te assustar."
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "No, it's not your fault, Ichika.",
+      "texto_ptbr": "Não, a culpa não é sua, Ichika."
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Ichika, Itsuki?\\nDid something happen?",
+      "texto_ptbr": "Ichika, Itsuki?\\nAconteceu alguma coisa?"
+    },
+    {
+      "id": 4,
+      "personagem": "Ichika",
+      "texto_en": "Oh, Futaro-kun. You were able to recognize me.",
+      "texto_ptbr": "Ah, Futaro-kun. Você conseguiu me reconhecer."
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Huh? What do you mean?",
+      "texto_ptbr": "Hã? Como assim?"
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "Look. I look different from usual, right?",
+      "texto_ptbr": "Olha. Eu tô diferente do normal, né?"
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "I mean, come on, just because I wear glasses,\\ndoesn't mean my eyesight is that bad.",
+      "texto_ptbr": "Quer dizer, qual é, só porque eu uso óculos\\nnão significa que minha visão é tão ruim assim."
+    },
+    {
+      "id": 8,
+      "personagem": "Ichika",
+      "texto_en": "Ahaha! Don't make such a pouty face,\\nit was just a joke.",
+      "texto_ptbr": "Ahaha! Não faz essa cara emburrada,\\nera só uma brincadeira."
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "Jeez...",
+      "texto_ptbr": "Ah, cara..."
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "But, why are you wearing glasses?\\nYou don't have bad eyesight, do you?",
+      "texto_ptbr": "Mas, por que você tá de óculos?\\nVocê não tem problema de vista, tem?"
+    },
+    {
+      "id": 11,
+      "personagem": "Itsuki",
+      "texto_en": "No, it's just that...",
+      "texto_ptbr": "Não, é que..."
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "While I was admiring the fountain with Itsuki-chan,\\na father with his kids called out to me and said,\\n'You're Nakano Ichika-san, right?'",
+      "texto_ptbr": "Enquanto eu tava admirando a fonte com a Itsuki-chan,\\num pai com os filhos me chamou e disse,\\n'Você é a Nakano Ichika-san, né?'"
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Ahh, so it's a disguise.",
+      "texto_ptbr": "Ahh, então é um disfarce."
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "I thought I wouldn't be noticed,\\nbut there are sharp-eyed people after all.",
+      "texto_ptbr": "Eu achei que não ia ser notada,\\nmas realmente existem pessoas com olhos afiados."
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "Also, maybe little kids are more perceptive.",
+      "texto_ptbr": "Além disso, talvez as crianças pequenas sejam mais perceptivas."
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Little kids??",
+      "texto_ptbr": "Crianças pequenas??"
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "It seems that the kid was a fan of Ichika\\nand asked for an autograph.",
+      "texto_ptbr": "Parece que a criança era fã da Ichika\\ne pediu um autógrafo."
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "He was holding a memo pad and his hands were trembling\\nwith nervousness.\\nIt was adorable how serious he was.",
+      "texto_ptbr": "Ele tava segurando um bloco de anotações e suas mãos tremiam\\nde nervosismo.\\nFoi adorável de ver o tanto que ele levou a sério."
+    },
+    {
+      "id": 19,
+      "personagem": "Ichika",
+      "texto_en": "I was happy too, and I wanted to sign an autograph,\\nbut people around us started gathering.",
+      "texto_ptbr": "Eu também fiquei feliz, e queria dar o autógrafo,\\nmas as pessoas ao redor começaram a se aglomerar."
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "I was surprised by that.\\nWe had no choice but to run away...\\nI feel sorry for the child.",
+      "texto_ptbr": "Eu fiquei surpresa com isso.\\nA gente não teve escolha a não ser fugir...\\nEu sinto pena da criança."
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "Yeah. It was good that I was able\\nto give him a handshake, at least.",
+      "texto_ptbr": "É. Ainda bem que eu consegui\\ndar um aperto de mão pra ele, pelo menos."
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Hey, I have a question.\\nDoes just wearing glasses\\nmake that much of a difference?",
+      "texto_ptbr": "Ei, eu tenho uma pergunta.\\nSó de usar óculos\\nfaz tanta diferença assim?"
+    },
+    {
+      "id": 23,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, it surprisingly does.",
+      "texto_ptbr": "É, surpreendentemente faz."
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "I see. It must be tough being a famous actress, huh?",
+      "texto_ptbr": "Entendo. Deve ser difícil ser uma atriz famosa, né?"
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "Well, I guess, but I'm used to it by now.",
+      "texto_ptbr": "Bom, acho que sim, mas já tô acostumada agora."
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "(...Oh?)",
+      "texto_ptbr": "(...Ah?)"
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "There's no privacy if I'm always like this.\\nDon't you feel a overwhelmed as well, Ichika?",
+      "texto_ptbr": "Não tem privacidade se eu fico sempre assim.\\nVocê também não se sente sobrecarregada, Ichika?"
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "Well, a bit. But being an actress\\nis a path I chose myself, and I'm prepared for it.",
+      "texto_ptbr": "Bom, um pouco. Mas ser atriz\\né um caminho que eu escolhi por conta própria, e tô preparada pra isso."
+    },
+    {
+      "id": 29,
+      "personagem": "Ichika",
+      "texto_en": "And, there's still a long way to go.\\nI want more and more people to see my acting.",
+      "texto_ptbr": "E ainda tem um longo caminho pela frente.\\nEu quero que cada vez mais pessoas vejam minha atuação."
+    },
+    {
+      "id": 30,
+      "personagem": "Ichika",
+      "texto_en": "Now that I've graduated,\\nI must work harder than ever!",
+      "texto_ptbr": "Agora que eu já me formei,\\ntenho que trabalhar mais duro do que nunca!"
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Wow...",
+      "texto_ptbr": "Uau..."
+    },
+    {
+      "id": 32,
+      "personagem": "Ichika",
+      "texto_en": "Hm? What's wrong?",
+      "texto_ptbr": "Hm? O que foi?"
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "It's nothing, I was just thinking about how much you've also changed.",
+      "texto_ptbr": "Não é nada, eu só tava pensando o quanto você também mudou."
+    },
+    {
+      "id": 34,
+      "personagem": "Ichika",
+      "texto_en": "Huh?!\\nWh-what is it, all of a sudden?",
+      "texto_ptbr": "Hã?!\\nO-o que é isso, do nada?"
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Didn't something like that happen before,\\nwhen you were wearing glasses...",
+      "texto_ptbr": "Não aconteceu algo parecido antes,\\nquando você tava de óculos..."
+    },
+    {
+      "id": 36,
+      "personagem": "Ichika",
+      "texto_en": "Ahhh...\\nYeah, something like that did happen.",
+      "texto_ptbr": "Ahhh...\\nÉ, algo assim aconteceu mesmo."
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Back then, you screamed something like 'Don't tell\\nanyone because it's embarrassing,' didn't you?\\nCompared to that, you seem much calmer now.",
+      "texto_ptbr": "Naquela época, você gritou algo tipo 'Não conta\\npra ninguém porque é constrangedor,' não foi?\\nComparado com isso, você parece bem mais calma agora."
+    },
+    {
+      "id": 38,
+      "personagem": "Ichika",
+      "texto_en": "It's been almost a year since then.\\nMy perception has changed.",
+      "texto_ptbr": "Já faz quase um ano desde então.\\nMinha percepção mudou."
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "...I see.",
+      "texto_ptbr": "...Entendo."
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "My bad.\\nYou were a good actress then,\\nand you are still a good actress now, Ichika.",
+      "texto_ptbr": "Foi mal.\\nVocê já era uma boa atriz naquela época,\\ne continua sendo uma boa atriz agora, Ichika."
+    },
+    {
+      "id": 41,
+      "personagem": "Ichika",
+      "texto_en": "Hehe, thanks.",
+      "texto_ptbr": "Hehe, obrigada."
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "The circumstances\\nhave also changed over this past year, Ichika.\\nYou've become quite popular now.",
+      "texto_ptbr": "As circunstâncias\\ntambém mudaram nesse último ano, Ichika.\\nVocê ficou bem popular agora."
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "Dramas, commercials, talk shows, variety shows...\\nYou're on TV almost every day.\\nIt's hard to keep track of everything.",
+      "texto_ptbr": "Doramas, comerciais, talk shows, programas de variedades...\\nVocê tá na TV quase todo dia.\\nÉ difícil acompanhar tudo."
+    },
+    {
+      "id": 44,
+      "personagem": "Ichika",
+      "texto_en": "HUH?!\\nYou're keeping track of everything?",
+      "texto_ptbr": "HÃ?!\\nVocê tá acompanhando tudo?"
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "Of course!\\nI save all of them TOO!",
+      "texto_ptbr": "Claro!\\nEu gravo tudo também!"
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "You love your big sister a little too much, eh.",
+      "texto_ptbr": "Você ama demais sua irmã mais velha, hein."
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "That's fine, isn't it?!\\nI want to watch the scenes where Ichika is in the spotlight, over and over again!",
+      "texto_ptbr": "Que mal tem isso?!\\nEu quero assistir as cenas em que a Ichika tá em destaque, de novo e de novo!"
+    },
+    {
+      "id": 48,
+      "personagem": "Ichika",
+      "texto_en": "Ahaha...\\nWell, I guess I love my little sister a bit\\ntoo much too. But I think the feeling is mutual.",
+      "texto_ptbr": "Ahaha...\\nBom, acho que eu também amo demais\\nminha irmã mais nova. Mas acho que o sentimento é mútuo."
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Nevertheless, you had so much work to do,\\nhow were you able to take time off during this trip?",
+      "texto_ptbr": "Mesmo assim, você tinha tanto trabalho pra fazer,\\ncomo conseguiu tirar um tempo pra essa viagem?"
+    },
+    {
+      "id": 50,
+      "personagem": "Ichika",
+      "texto_en": "My boss worked very hard to arrange everything for me.\\nAs a reward for balancing both work and school.",
+      "texto_ptbr": "Meu empresário se esforçou muito pra organizar tudo pra mim.\\nComo recompensa por eu equilibrar trabalho e escola."
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "I'm interested in that collection.\\nShow me when she's on a talk show next time.",
+      "texto_ptbr": "Fiquei interessado nessa coleção.\\nMe mostra quando ela estiver num talk show da próxima vez."
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "Sure, I'll look for some good scenes\\nand we can all have a viewing party together.",
+      "texto_ptbr": "Claro, eu vou procurar umas cenas boas\\ne a gente pode fazer uma sessão pra assistir todo mundo junto."
+    },
+    {
+      "id": 53,
+      "personagem": "Ichika",
+      "texto_en": "Oh? Futaro-kun,\\nare you interested in my speeches?",
+      "texto_ptbr": "Ah? Futaro-kun,\\nvocê tá interessado nos meus discursos?"
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "Of course. I want to see what kind of idiotic things\\nthe great actress Ichika talks about on TV!",
+      "texto_ptbr": "Claro. Quero ver que tipo de bobagem\\na grande atriz Ichika fala na TV!"
+    },
+    {
+      "id": 55,
+      "personagem": "Ichika",
+      "texto_en": "Oh come on, you're so mean!\\nBut I guess I expected nothing less from you!",
+      "texto_ptbr": "Ah, qual é, você é tão malvado!\\nMas acho que não esperava menos de você!"
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "Nevertheless, you had so much work to do,\\nhow were you able to take time off during this trip?",
+      "texto_ptbr": "Mesmo assim, você tinha tanto trabalho pra fazer,\\ncomo conseguiu tirar um tempo pra essa viagem?"
+    },
+    {
+      "id": 57,
+      "personagem": "Ichika",
+      "texto_en": "My boss worked very hard to arrange everything for me.\\nAs a reward for balancing both work and school.",
+      "texto_ptbr": "Meu empresário se esforçou muito pra organizar tudo pra mim.\\nComo recompensa por eu equilibrar trabalho e escola."
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "I can understand how you feel, Itsuki.\\nI'm curious to know how Ichika performs.",
+      "texto_ptbr": "Eu entendo como você se sente, Itsuki.\\nFico curioso pra saber como a Ichika atua."
+    },
+    {
+      "id": 59,
+      "personagem": "Ichika",
+      "texto_en": "Are you going to score my acting too?\\nThat's a bit much.",
+      "texto_ptbr": "Você vai dar nota pra minha atuação também?\\nIsso é um pouco demais."
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "That's not what I meant.\\nI just want to see you work hard towards your dreams.",
+      "texto_ptbr": "Não foi isso que eu quis dizer.\\nEu só quero te ver se esforçando pelos seus sonhos."
+    },
+    {
+      "id": 61,
+      "personagem": "Ichika",
+      "texto_en": "Yeah...\\nI get so shy when you say things like that to me directly.",
+      "texto_ptbr": "É...\\nEu fico com tanta vergonha quando você diz esse tipo de coisa diretamente pra mim."
+    },
+    {
+      "id": 62,
+      "personagem": "Ichika",
+      "texto_en": "But, thank you, Futaro-kun.",
+      "texto_ptbr": "Mas, obrigada, Futaro-kun."
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "Nevertheless, you had so much work to do,\\nhow were you able to take time off during this trip?",
+      "texto_ptbr": "Mesmo assim, você tinha tanto trabalho pra fazer,\\ncomo conseguiu tirar um tempo pra essa viagem?"
+    },
+    {
+      "id": 64,
+      "personagem": "Ichika",
+      "texto_en": "My boss worked very hard to arrange everything for me.\\nAs a reward for balancing both work and school.",
+      "texto_ptbr": "Meu empresário se esforçou muito pra organizar tudo pra mim.\\nComo recompensa por eu equilibrar trabalho e escola."
+    },
+    {
+      "id": 65,
+      "personagem": "Ichika",
+      "texto_en": "Besides, he really took care of a lot of things for me,\\nso I have to work hard to repay him as well.",
+      "texto_ptbr": "Além disso, ele cuidou de muitas coisas pra mim mesmo,\\nentão eu também tenho que me esforçar pra retribuir."
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "(Oh, so that boss\\n has a good side to him too, huh...)",
+      "texto_ptbr": "(Ah, então esse empresário\\n também tem um lado bom, hein...)"
+    }
+  ]
+}

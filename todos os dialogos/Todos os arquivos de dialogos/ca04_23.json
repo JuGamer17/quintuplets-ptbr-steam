@@ -1,0 +1,330 @@
+{
+  "arquivo": "ca04_23",
+  "total": 54,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "Now that we're back, it's already evening.\\nIn the end, I guess we can't go sightseeing today... I'm sorry.",
+      "texto_ptbr": "Agora que voltamos, já é fim de tarde.\\nNo fim das contas, acho que não dá pra passear hoje... Desculpem."
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "Don't worry about a thing.",
+      "texto_ptbr": "Não se preocupe com nada."
+    },
+    {
+      "id": 2,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, you're right.\\nWe experienced something even better than just sightseeing.",
+      "texto_ptbr": "É, tem razão.\\nVivemos algo ainda melhor do que só passear."
+    },
+    {
+      "id": 3,
+      "personagem": "Yotsuba",
+      "texto_en": "I-I knew we were being watched,\\nbut it's a little embarrassing to hear it out loud.",
+      "texto_ptbr": "E-eu sabia que estávamos sendo observados,\\nmas é meio vergonhoso ouvir isso em voz alta."
+    },
+    {
+      "id": 4,
+      "personagem": "Ichika",
+      "texto_en": "So, now you can finally do some PDA, right?",
+      "texto_ptbr": "Então, agora vocês finalmente podem trocar uns carinhos em público, né?"
+    },
+    {
+      "id": 5,
+      "personagem": "Yotsuba",
+      "texto_en": "I-I won't do that!",
+      "texto_ptbr": "E-eu não vou fazer isso!"
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "But Yotsuba,\\nyou were able to properly speak to Dad\\nabout everything.",
+      "texto_ptbr": "Mas Yotsuba,\\nvocê conseguiu falar direitinho com o pai\\nsobre tudo."
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "That was, well...momentum?",
+      "texto_ptbr": "Aquilo foi, bem...no embalo?"
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "When you saw Fu-kun,\\nyou had no choice but to jump in, with all you had.",
+      "texto_ptbr": "Quando você viu o Fu-kun,\\nnão teve escolha a não ser se jogar de cabeça, com tudo que tinha."
+    },
+    {
+      "id": 9,
+      "personagem": "Miku",
+      "texto_en": "He froze up when Dad stared at him.",
+      "texto_ptbr": "Ele congelou quando o pai o encarou."
+    },
+    {
+      "id": 10,
+      "personagem": "Yotsuba",
+      "texto_en": "Thanks to that though, I didn't hesitate.",
+      "texto_ptbr": "Mas graças a isso, eu não hesitei."
+    },
+    {
+      "id": 11,
+      "personagem": "Yotsuba",
+      "texto_en": "Itsuki already said it,\\nbut I knew I had to say it someday as well.\\nI just didn't have the chance before.",
+      "texto_ptbr": "A Itsuki já disse,\\nmas eu sabia que teria que dizer um dia também.\\nSó não tinha tido a chance antes."
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "Hmm.",
+      "texto_ptbr": "Hmm."
+    },
+    {
+      "id": 13,
+      "personagem": "Miku",
+      "texto_en": "Yotsuba, you've grown too.",
+      "texto_ptbr": "Yotsuba, você também cresceu."
+    },
+    {
+      "id": 14,
+      "personagem": "Yotsuba",
+      "texto_en": "You think so?",
+      "texto_ptbr": "Você acha?"
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "Well I mean, you told Daddy right to his face\\nthat Fu-kun had confessed to you, right?",
+      "texto_ptbr": "Bom, quer dizer, você disse pro papai, na cara dele,\\nque o Fu-kun se declarou pra você, né?"
+    },
+    {
+      "id": 16,
+      "personagem": "Yotsuba",
+      "texto_en": "...Yeah, I suppose.\\nThat's true...",
+      "texto_ptbr": "...É, acho que sim.\\nIsso é verdade..."
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "Teehee, it's silly that we were all so worried.",
+      "texto_ptbr": "Teehee, foi bobagem todas nós ficarmos tão preocupadas."
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "Yeah.\\nIn the end though, Dad took all the good parts.",
+      "texto_ptbr": "É.\\nMas no fim, o pai ficou com a parte boa toda."
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh? What do you mean?",
+      "texto_ptbr": "Hã? Como assim?"
+    },
+    {
+      "id": 20,
+      "personagem": "Ichika",
+      "texto_en": "Actually%p-2;――",
+      "texto_ptbr": "Na verdade%p-2;――"
+    },
+    {
+      "id": 21,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh my goodness!\\nYou guys are horrible, doing that to me!",
+      "texto_ptbr": "Meu Deus!\\nVocês são péssimas, fazerem isso comigo!"
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "That's just how much we were worried about you.",
+      "texto_ptbr": "Foi o quanto nos preocupamos com você."
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "...But, somehow, I had a feeling that was the case.\\nAlong the way, Ichika gave me some advice.",
+      "texto_ptbr": "...Mas, de algum jeito, eu tinha a sensação de que era isso.\\nNo caminho, a Ichika me deu uns conselhos."
+    },
+    {
+      "id": 24,
+      "personagem": "Miku",
+      "texto_en": "Oh, I see.",
+      "texto_ptbr": "Ah, entendi."
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "Ichika, you...",
+      "texto_ptbr": "Ichika, você..."
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "I didn't really get in the way, did I?",
+      "texto_ptbr": "Eu não atrapalhei de verdade, né?"
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "Yotsuba.\\nI'm sorry for deceiving you.",
+      "texto_ptbr": "Yotsuba.\\nDesculpe por ter enganado você."
+    },
+    {
+      "id": 28,
+      "personagem": "Yotsuba",
+      "texto_en": "It's okay, I'm not worried about it anymore.",
+      "texto_ptbr": "Tudo bem, eu não estou mais preocupada com isso."
+    },
+    {
+      "id": 29,
+      "personagem": "Yotsuba",
+      "texto_en": "I'm actually really happy.\\nBecause, everyone was worried about me.",
+      "texto_ptbr": "Na verdade, estou muito feliz.\\nPorque todo mundo estava preocupado comigo."
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "But, I'm not gonna worry about you anymore.",
+      "texto_ptbr": "Mas eu não vou mais me preocupar com você."
+    },
+    {
+      "id": 31,
+      "personagem": "Yotsuba",
+      "texto_en": "Wha, Nino, you're so cold.\\nYou should worry even more about me!",
+      "texto_ptbr": "Quê, Nino, você é tão fria.\\nDevia se preocupar ainda mais comigo!"
+    },
+    {
+      "id": 32,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, but let's not keep any secrets, okay?",
+      "texto_ptbr": "Ah, mas não vamos guardar segredos, tá?"
+    },
+    {
+      "id": 33,
+      "personagem": "Miku",
+      "texto_en": "Yeah, no secrets.",
+      "texto_ptbr": "É, sem segredos."
+    },
+    {
+      "id": 34,
+      "personagem": "Yotsuba",
+      "texto_en": "...You know what? I feel like I've been able\\nto let go of a lot of things on this trip.\\nAnd that's all thanks to everyone, and Dad too.",
+      "texto_ptbr": "...Sabe de uma coisa? Sinto que consegui\\nme libertar de muitas coisas nessa viagem.\\nE isso é tudo graças a vocês, e ao pai também."
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "I see.",
+      "texto_ptbr": "Entendo."
+    },
+    {
+      "id": 36,
+      "personagem": "Nino",
+      "texto_en": "But still, I can't believe Daddy actually came\\nall the way to Okinawa to check up on us.",
+      "texto_ptbr": "Mas mesmo assim, não acredito que o papai realmente veio\\naté Okinawa só pra ver como estamos."
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "Ignoring us completely, and then\\nturn around and do something like this?\\nIsn't he just moving from one extreme to the next?",
+      "texto_ptbr": "Ignorar a gente completamente, e depois\\nvirar e fazer uma coisa dessas?\\nEle não está indo de um extremo pro outro?"
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "You think so?\\nDad has always been worried about us,\\nsince we were little.",
+      "texto_ptbr": "Você acha?\\nO pai sempre se preocupou com a gente,\\ndesde que éramos pequenas."
+    },
+    {
+      "id": 39,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, you're right.\\nHe's always been watching over us.",
+      "texto_ptbr": "É, você tem razão.\\nEle sempre cuidou de nós."
+    },
+    {
+      "id": 40,
+      "personagem": "Ichika",
+      "texto_en": "Hm?",
+      "texto_ptbr": "Hm?"
+    },
+    {
+      "id": 41,
+      "personagem": "Ichika",
+      "texto_en": "Oh, a message from Dad.",
+      "texto_ptbr": "Ah, uma mensagem do pai."
+    },
+    {
+      "id": 42,
+      "personagem": "Yotsuba",
+      "texto_en": "Whaaaa?!\\nD-does this mean he still won't approve of us dating?!",
+      "texto_ptbr": "Quêêêê?!\\nQ-quer dizer que ele ainda não aprova a gente namorando?!"
+    },
+    {
+      "id": 43,
+      "personagem": "Miku",
+      "texto_en": "I really don't think it's that.",
+      "texto_ptbr": "Eu realmente não acho que seja isso."
+    },
+    {
+      "id": 44,
+      "personagem": "Ichika",
+      "texto_en": "Wait a second.\\nUmmm%p-2;――",
+      "texto_ptbr": "Espera um segundo.\\nHmmm%p-2;――"
+    },
+    {
+      "id": 45,
+      "personagem": "Ichika",
+      "texto_en": "'I'm done with the conference,\\nso I'm heading back early.\\nHave fun tomorrow...' That's all.",
+      "texto_ptbr": "'Terminei o congresso,\\nentão vou voltar mais cedo.\\nDivirtam-se amanhã...' É só isso."
+    },
+    {
+      "id": 46,
+      "personagem": "Nino",
+      "texto_en": "Hmm, the conference, huh.",
+      "texto_ptbr": "Hmm, o congresso, é?"
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "We need to have Ebata-san keep it a secret\\nthat we asked about Father's plans.",
+      "texto_ptbr": "Precisamos pedir ao Ebata-san que mantenha em segredo\\nque perguntamos sobre os planos do nosso pai."
+    },
+    {
+      "id": 48,
+      "personagem": "Yotsuba",
+      "texto_en": "Hey, Ichika.\\nCan I reply to the message?",
+      "texto_ptbr": "Ei, Ichika.\\nPosso responder a mensagem?"
+    },
+    {
+      "id": 49,
+      "personagem": "Ichika",
+      "texto_en": "Sure, go ahead.",
+      "texto_ptbr": "Claro, vai lá."
+    },
+    {
+      "id": 50,
+      "personagem": "Miku",
+      "texto_en": "What are you gonna say?",
+      "texto_ptbr": "O que você vai dizer?"
+    },
+    {
+      "id": 51,
+      "personagem": "Yotsuba",
+      "texto_en": "That's obvious.",
+      "texto_ptbr": "Isso é óbvio."
+    },
+    {
+      "id": 52,
+      "personagem": "Yotsuba",
+      "texto_en": "'I'm gonna have fun!\\nFrom Yotsuba%p-2;――%p;'",
+      "texto_ptbr": "'Eu vou me divertir!\\nDa Yotsuba%p-2;――%p;'"
+    },
+    {
+      "id": 53,
+      "personagem": "Yotsuba",
+      "texto_en": "And, sent!",
+      "texto_ptbr": "E, enviado!"
+    }
+  ]
+}

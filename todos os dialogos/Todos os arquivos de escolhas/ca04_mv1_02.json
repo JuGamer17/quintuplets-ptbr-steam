@@ -1,0 +1,75 @@
+{
+  "arquivo": "ca04_mv1_02",
+  "total": 7,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "へえ……。",
+      "texto_en": "Wow...",
+      "texto_ptbr": "Nossa..."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "俺には厳しそうなアクティビティだな",
+      "texto_en": "Seems challenging for me.",
+      "texto_ptbr": "Parece uma atividade difícil pra mim.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "四葉はすぐにできそうだな",
+      "texto_en": "Yotsuba, you'd master it quick.",
+      "texto_ptbr": "A Yotsuba aprenderia rapidinho.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "散歩はやってみたいな",
+      "texto_en": "I'd like to take a walk.",
+      "texto_ptbr": "Eu queria dar uma caminhada.",
+      "selidx": 2
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "アラハビーチＢ:一花:三玖",
+      "texto_en": "Araha Beach B: Ichika/Miku",
+      "texto_ptbr": "Araha Beach B: Ichika/Miku",
+      "selidx": 0
+    },
+    {
+      "id": 5,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "アラハビーチＣ:二乃:五月",
+      "texto_en": "Araha Beach C: Nino/Itsuki",
+      "texto_ptbr": "Araha Beach C: Nino/Itsuki",
+      "selidx": 1
+    },
+    {
+      "id": 6,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "アラハビーチＡ:四葉:らいは",
+      "texto_en": "Araha Beach A: Yotsuba/Raiha",
+      "texto_ptbr": "Araha Beach A: Yotsuba/Raiha",
+      "selidx": 2
+    }
+  ]
+}

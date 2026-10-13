@@ -1,0 +1,75 @@
+{
+  "arquivo": "ca04_mv5_02",
+  "total": 7,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "あの様子は、どんな角度からでも\\n眺めているだけで笑顔になってしまいます。",
+      "texto_en": "The way manatees are, they make you smile\\nno matter what angle you look at them from.",
+      "texto_ptbr": "O jeito dos peixes-boi faz a gente sorrir\\nnão importa de que ângulo se olha."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "へえ、そうなのか",
+      "texto_en": "Oh, really?",
+      "texto_ptbr": "Ah, é mesmo?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "かなり人間っぽいんだな",
+      "texto_en": "Manatees seem pretty human-like.",
+      "texto_ptbr": "Os peixes-boi parecem bastante humanos.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "よっぽど可愛かったんだな",
+      "texto_en": "They must have been really cute.",
+      "texto_ptbr": "Devem ter sido muito fofos mesmo.",
+      "selidx": 2
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "噴水:一花:三玖",
+      "texto_en": "Fountain Plaza: Ichika/Miku",
+      "texto_ptbr": "Praça da Fonte: Ichika/Miku",
+      "selidx": 0
+    },
+    {
+      "id": 5,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "海洋博公園広場:二乃:五月",
+      "texto_en": "Ocean Expo Park Square: Nino/Itsuki",
+      "texto_ptbr": "Praça do Ocean Expo Park: Nino/Itsuki",
+      "selidx": 1
+    },
+    {
+      "id": 6,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "イルカショー施設:四葉:らいは",
+      "texto_en": "Dolphin Show Area: Yotsuba/Raiha",
+      "texto_ptbr": "Área do Show de Golfinhos: Yotsuba/Raiha",
+      "selidx": 2
+    }
+  ]
+}

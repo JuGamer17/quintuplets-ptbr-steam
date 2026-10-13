@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca05_mv2_02",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ふ、風太郎も、太っているのは嫌でしょうか？",
+      "texto_en": "Fu-Futaro, you'd hate me if I was overweight, wouldn't you?",
+      "texto_ptbr": "Fu-Futaro, você ia me odiar se eu estivesse acima do peso, não ia?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "やっぱりってどういうことだ？",
+      "texto_en": "What do you mean by, 'of course'?",
+      "texto_ptbr": "Como assim, 'eu sabia'?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "別に気にならない",
+      "texto_en": "I don't really care.",
+      "texto_ptbr": "Não me incomoda.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "むしろ痩せたら心配だ",
+      "texto_en": "I'd be more worried if you lost weight.",
+      "texto_ptbr": "Eu ficaria mais preocupado se você emagrecesse.",
+      "selidx": 2
+    }
+  ]
+}

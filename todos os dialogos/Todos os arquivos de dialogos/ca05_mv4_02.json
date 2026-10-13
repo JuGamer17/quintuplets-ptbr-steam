@@ -1,0 +1,360 @@
+{
+  "arquivo": "ca05_mv4_02",
+  "total": 59,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Itsuki",
+      "texto_en": "I feel like I'm not in Japan, no matter where I look.\\nI wonder if the real America is like this too?",
+      "texto_ptbr": "Sinto que não estou no Japão, não importa pra onde eu olhe.\\nSerá que os Estados Unidos de verdade são assim também?"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "I don't know. America is vast,\\nand the climate varies depending on the location.",
+      "texto_ptbr": "Não sei. Os Estados Unidos são vastos,\\ne o clima varia dependendo do lugar."
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "That's true. Hawaii and Alaska are both in America too.",
+      "texto_ptbr": "É verdade. Havaí e Alasca também fazem parte dos Estados Unidos."
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "Come to think of it, where is Hollywood located?",
+      "texto_ptbr": "Pensando bem, onde fica Hollywood?"
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Hollywood is in Los Angeles.\\nIt's on the West Coast, on the Pacific Ocean.",
+      "texto_ptbr": "Hollywood fica em Los Angeles.\\nÉ na Costa Oeste, no Oceano Pacífico."
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "But why the sudden change of topic?",
+      "texto_ptbr": "Mas por que essa mudança de assunto do nada?"
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "No, I mean, when you think of America,\\nit's the home of cinema, right?",
+      "texto_ptbr": "Não, quer dizer, quando você pensa nos Estados Unidos,\\né a terra do cinema, né?"
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Well, yeah, Hollywood is there,\\nand it has that kind of image.",
+      "texto_ptbr": "Bom, é, Hollywood fica lá,\\ne tem essa imagem mesmo."
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "Recently, I've been thinking.\\nIf Ichika continues to be an actress%p-2;――",
+      "texto_ptbr": "Ultimamente eu tenho pensado.\\nSe a Ichika continuar sendo atriz%p-2;――"
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "She might eventually become a world-famous actress\\nand go abroad, right?",
+      "texto_ptbr": "Ela pode acabar virando uma atriz mundialmente famosa\\ne ir para o exterior, né?"
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Well, that's a premature discussion.",
+      "texto_ptbr": "Bom, essa é uma discussão prematura."
+    },
+    {
+      "id": 11,
+      "personagem": "Itsuki",
+      "texto_en": "However, it's not impossible, is it?",
+      "texto_ptbr": "Mas não é impossível, é?"
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Well, yeah. If she keeps challenging herself,\\neventually, that kind of thing might happen.",
+      "texto_ptbr": "Bom, é. Se ela continuar se desafiando,\\numa hora, esse tipo de coisa pode acontecer."
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "Yes. Ichika takes her work as an actress seriously.",
+      "texto_ptbr": "Sim. A Ichika leva o trabalho de atriz a sério."
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "But if that happens,\\nshe won't be able to live with us\\nlike she does now, will she?",
+      "texto_ptbr": "Mas se isso acontecer,\\nela não vai poder morar com a gente\\ncomo faz agora, vai?"
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "Of course, it's not just Ichika.\\nThe others might also graduate from university\\nor vocational school, and move out.",
+      "texto_ptbr": "Claro, não é só a Ichika.\\nAs outras também podem se formar na faculdade\\nou na escola técnica, e se mudar."
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "Someday, the days when we all lived together\\nwill come to an end.",
+      "texto_ptbr": "Algum dia, os dias em que todas nós vivíamos juntas\\nvão chegar ao fim."
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Itsuki...",
+      "texto_ptbr": "Itsuki..."
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "Everyone will live in different places.\\nThat future will end up coming, someday...",
+      "texto_ptbr": "Todo mundo vai morar em lugares diferentes.\\nEsse futuro vai acabar chegando, algum dia..."
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "And you'll feel lonely?",
+      "texto_ptbr": "E você vai se sentir sozinha?"
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "Of course.\\nWe've been together all this time, after all.",
+      "texto_ptbr": "Claro que sim.\\nAfinal, ficamos juntas esse tempo todo."
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Oh, I see. That's true.",
+      "texto_ptbr": "Ah, entendo. É verdade."
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "(I guess... It's not like I'll be lonely\\n going to Tokyo and leaving home.)",
+      "texto_ptbr": "(Acho que... não é como se eu fosse me sentir sozinho\\n ao ir para Tóquio e sair de casa.)"
+    },
+    {
+      "id": 23,
+      "personagem": "Itsuki",
+      "texto_en": "Whatever the future holds, when the day comes\\nfor Ichika to set off in pursuit of her dreams,\\nlet's celebrate in a grand fashion.",
+      "texto_ptbr": "Seja o que for que o futuro reserve, quando chegar o dia\\nda Ichika partir em busca dos sonhos dela,\\nvamos comemorar em grande estilo."
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Again, isn't that premature?",
+      "texto_ptbr": "De novo, não é prematuro isso?"
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Someday, that day will come.\\nYou may be quintuplets, but each of you\\nare an individual person as well.",
+      "texto_ptbr": "Algum dia, esse dia vai chegar.\\nVocês podem ser quintuplas, mas cada uma de vocês\\ntambém é uma pessoa individual."
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "That's true.",
+      "texto_ptbr": "É verdade."
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "When we were little, we looked exactly alike,\\nbut eventually we developed our own preferences\\nand changed our hairstyles...",
+      "texto_ptbr": "Quando éramos pequenas, éramos idênticas,\\nmas com o tempo desenvolvemos nossas próprias preferências\\ne mudamos de penteado..."
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "Of course, that doesn't mean I don't like that.",
+      "texto_ptbr": "Claro, isso não significa que eu não goste disso."
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "We can learn things from each other\\nbecause we're all different.\\nAnd there are four of us to learn from.",
+      "texto_ptbr": "Podemos aprender umas com as outras\\nporque somos todas diferentes.\\nE são quatro pessoas pra eu aprender."
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "But there was nothing you could do\\nabout your inability to study,\\neven when all five of you pooled your efforts.",
+      "texto_ptbr": "Mas não tinha nada que vocês pudessem fazer\\nsobre a incapacidade de estudar,\\nmesmo quando as cinco juntaram esforços."
+    },
+    {
+      "id": 31,
+      "personagem": "Itsuki",
+      "texto_en": "Ooohh...\\nI have no response to that.",
+      "texto_ptbr": "Ooohh...\\nNão tenho resposta pra isso."
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "Whatever the future holds, when the day comes\\nfor Ichika to set off in pursuit of her dreams,\\nlet's celebrate in a grand fashion.",
+      "texto_ptbr": "Seja o que for que o futuro reserve, quando chegar o dia\\nda Ichika partir em busca dos sonhos dela,\\nvamos comemorar em grande estilo."
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Again, isn't that premature?",
+      "texto_ptbr": "De novo, não é prematuro isso?"
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Yet, there are things that'll never change.",
+      "texto_ptbr": "Mesmo assim, tem coisas que nunca vão mudar."
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "Things that will never change...\\nAre you talking about us being sisters?",
+      "texto_ptbr": "Coisas que nunca vão mudar...\\nVocê está falando sobre a gente ser irmãs?"
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, that's what I mean.\\nIf something happens to one of you,\\nthe other four would come running to help, right?",
+      "texto_ptbr": "É, é isso que eu quero dizer.\\nSe alguma coisa acontecer com uma de vocês,\\nas outras quatro vão correndo ajudar, né?"
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, I would be the first.",
+      "texto_ptbr": "Sim, eu seria a primeira."
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "You'd come running too, Uesugi-kun, right?",
+      "texto_ptbr": "Você também viria correndo, né, Uesugi-kun?"
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "...Are you okay with that?",
+      "texto_ptbr": "...Você está bem com isso?"
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "Are you saying that to be mean?",
+      "texto_ptbr": "Você está falando isso para ser malvado?"
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "Of course, it's fine.\\nYou also cherish my dear sisters.\\nThat makes me very happy.",
+      "texto_ptbr": "Claro que está tudo bem.\\nVocê também aprecia muito minhas queridas irmãs.\\nIsso me deixa muito feliz."
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "Whatever the future holds, when the day comes\\nfor Ichika to set off in pursuit of her dreams,\\nlet's celebrate in a grand fashion.",
+      "texto_ptbr": "Seja o que for que o futuro reserve, quando chegar o dia\\nda Ichika partir em busca dos sonhos dela,\\nvamos comemorar em grande estilo."
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "Again, isn't that premature?",
+      "texto_ptbr": "De novo, não é prematuro isso?"
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "Thinking about it wouldn't hurt, right?\\nAfter all, they say it's better to be prepared.",
+      "texto_ptbr": "Pensar sobre isso não faz mal, né?\\nAfinal, dizem que é melhor estar preparada."
+    },
+    {
+      "id": 46,
+      "personagem": "Itsuki",
+      "texto_en": "Above all, I don't want to see Ichika off\\nwith a sad face as she chases her dream.",
+      "texto_ptbr": "Acima de tudo, eu não quero despedir da Ichika\\ncom uma cara triste enquanto ela persegue o sonho dela."
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "But, isn't there another concern\\nthat should be addressed first?",
+      "texto_ptbr": "Mas não tem outra preocupação\\nque devia ser resolvida primeiro?"
+    },
+    {
+      "id": 48,
+      "personagem": "Itsuki",
+      "texto_en": "Another one?",
+      "texto_ptbr": "Outra?"
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Well, if she's going to America,\\nthere's no way Ichika's English skills\\nwill be good enough to get by.",
+      "texto_ptbr": "Bom, se ela for para os Estados Unidos,\\nnão tem como o inglês da Ichika\\nser bom o suficiente pra se virar."
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "Y-yes, indeed.\\nThat's a huge problem...",
+      "texto_ptbr": "S-sim, de fato.\\nEsse é um baita problema..."
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "Well then, why don't you teach her?",
+      "texto_ptbr": "Bom então, por que você não ensina ela?"
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "Oh? Are you saying that you trust me enough\\nto become her teacher, Uesugi-kun?",
+      "texto_ptbr": "Ah? Você está dizendo que confia em mim o suficiente\\npra eu virar professora dela, Uesugi-kun?"
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "Ooh...",
+      "texto_ptbr": "Ooh..."
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "(Actually, the way I said that just now,\\n it sounds like there isn't any doubt,\\n that I trust her completely.)",
+      "texto_ptbr": "(Na real, do jeito que eu falei isso agora,\\n parece que não tem dúvida nenhuma,\\n que eu confio completamente nela.)"
+    },
+    {
+      "id": 55,
+      "personagem": "Itsuki",
+      "texto_en": "What do you think, Uesugi-kun?\\nPlease tell me your honest opinion.",
+      "texto_ptbr": "O que você acha, Uesugi-kun?\\nPor favor, me diga sua opinião sincera."
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "(Kkh... With that little grin...)",
+      "texto_ptbr": "(Kkh... Com esse sorrisinho...)"
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "W-well, I think you'll be able\\nto make your dreams come true,\\nso I bet you can become her teacher.",
+      "texto_ptbr": "B-bom, eu acho que você vai conseguir\\nrealizar seus sonhos,\\nentão aposto que você consegue virar professora dela."
+    },
+    {
+      "id": 58,
+      "personagem": "Itsuki",
+      "texto_en": "Teehee!\\nThank you very much.\\nI'll make sure to live up to your expectations.",
+      "texto_ptbr": "Teehee!\\nMuito obrigada.\\nVou fazer questão de corresponder às suas expectativas."
+    }
+  ]
+}

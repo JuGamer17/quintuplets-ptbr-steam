@@ -1,0 +1,546 @@
+{
+  "arquivo": "ca03_21",
+  "total": 90,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Ichika",
+      "texto_en": "Huh? Has the sun already set?",
+      "texto_ptbr": "Hã? O sol já está se pondo?"
+    },
+    {
+      "id": 1,
+      "personagem": "Raiha",
+      "texto_en": "The day sure went by in a flash, didn't it.",
+      "texto_ptbr": "O dia passou rápido assim, hein."
+    },
+    {
+      "id": 2,
+      "personagem": "Yotsuba",
+      "texto_en": "I want to keep playing,\\nbut it's time to head back right?",
+      "texto_ptbr": "Eu queria continuar brincando,\\nmas já está na hora de voltar, né?"
+    },
+    {
+      "id": 3,
+      "personagem": "Nino",
+      "texto_en": "Oh, wait!\\nHow about we watch the sunset from here?\\nWe still have time for that, right?",
+      "texto_ptbr": "Ah, espera!\\nQue tal a gente ver o pôr do sol daqui?\\nAinda dá tempo pra isso, né?"
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "Sounds good!\\nThere's a place called Emerald Beach,\\nlet's go check it out.",
+      "texto_ptbr": "Boa ideia!\\nTem um lugar chamado Emerald Beach,\\nvamos dar uma olhada lá."
+    },
+    {
+      "id": 5,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san, Miku, are you guys okay?",
+      "texto_ptbr": "Uesugi-san, Miku, vocês estão bem?"
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Sure, yeah.",
+      "texto_ptbr": "Claro, tudo bem."
+    },
+    {
+      "id": 7,
+      "personagem": "Miku",
+      "texto_en": "I want to see the sunset too.",
+      "texto_ptbr": "Eu também quero ver o pôr do sol."
+    },
+    {
+      "id": 8,
+      "personagem": "Yotsuba",
+      "texto_en": "Alright, let's head to Emerald Beach together!",
+      "texto_ptbr": "Certo, vamos todos juntos pra Emerald Beach!"
+    },
+    {
+      "id": 9,
+      "personagem": "Miku",
+      "texto_en": "(Walking side by side with Futaro...\\n I can hardly believe it.\\n It almost feels like a dream.)",
+      "texto_ptbr": "(Caminhando lado a lado com o Fuutarou...\\n Mal consigo acreditar.\\n Parece quase um sonho.)"
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Miku, you tired?",
+      "texto_ptbr": "Miku, você está cansada?"
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "No, I'm fine.",
+      "texto_ptbr": "Não, estou bem."
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "After all, it's Yotsuba and Raiha who are walking ahead.\\nThose two'll go faster and faster if no one warns them.\\nRemember to tell me if you can't keep up.",
+      "texto_ptbr": "Afinal, quem está andando na frente são a Yotsuba e a Raiha.\\nSe ninguém avisar, essas duas vão acelerando cada vez mais.\\nLembra de me avisar se não conseguir acompanhar."
+    },
+    {
+      "id": 13,
+      "personagem": "Miku",
+      "texto_en": "Thanks.",
+      "texto_ptbr": "Obrigada."
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "You're such a good boyfriend, Futaro-kun.",
+      "texto_ptbr": "Você é um namorado tão bom, Futaro-kun."
+    },
+    {
+      "id": 15,
+      "personagem": "Miku",
+      "texto_en": "Ah...",
+      "texto_ptbr": "Ah..."
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "This kind of thing is usual.",
+      "texto_ptbr": "Isso é só o normal."
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "Yeah, Fu-kun has always been really kind.\\nHe's just hard to read sometimes.",
+      "texto_ptbr": "É, o Fu-kun sempre foi bem gentil.\\nSó que às vezes é difícil de entender."
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "(Nino's right. I thought I had understood\\n Futaro's kindness when it comes to\\n understanding people's feelings.)",
+      "texto_ptbr": "(A Nino tem razão. Eu achava que tinha entendido\\n a gentileza do Fuutarou quando se trata de\\n entender os sentimentos das pessoas.)"
+    },
+    {
+      "id": 19,
+      "personagem": "Miku",
+      "texto_en": "(I'm sorry, Futaro.)",
+      "texto_ptbr": "(Me desculpa, Fuutarou.)"
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "Ichika, Nino,\\nplease don't interfere too much with them, okay?",
+      "texto_ptbr": "Ichika, Nino,\\npor favor não se metam demais na vida deles, tá?"
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "Ah, okay then.\\nTake your time walking back.",
+      "texto_ptbr": "Ah, tá bom então.\\nVão com calma na volta."
+    },
+    {
+      "id": 22,
+      "personagem": "Ichika",
+      "texto_en": "We'll be waiting at Emerald Beach.",
+      "texto_ptbr": "A gente espera vocês na Emerald Beach."
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "Man, can't believe we're already getting scolded\\neven by Itsuki.",
+      "texto_ptbr": "Cara, nem acredito que já estamos levando bronca\\naté da Itsuki."
+    },
+    {
+      "id": 24,
+      "personagem": "Miku",
+      "texto_en": "Yeah.",
+      "texto_ptbr": "É."
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 26,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 27,
+      "personagem": "Miku",
+      "texto_en": "(I don't mind this kind of silence.\\n If it's with Futaro...)",
+      "texto_ptbr": "(Eu não me importo com esse tipo de silêncio.\\n Se é com o Fuutarou...)"
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 29,
+      "personagem": "Miku",
+      "texto_en": "(...Huh?)",
+      "texto_ptbr": "(...Hã?)"
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 31,
+      "personagem": "Miku",
+      "texto_en": "Huh?!",
+      "texto_ptbr": "Hã?!"
+    },
+    {
+      "id": 32,
+      "personagem": "Miku",
+      "texto_en": "(Futaro's...holding...my...HAND!)",
+      "texto_ptbr": "(O Fuutarou está... segurando... a minha... MÃO!)"
+    },
+    {
+      "id": 33,
+      "personagem": "Miku",
+      "texto_en": "F-Futaro...?",
+      "texto_ptbr": "F-Fuutarou...?"
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 35,
+      "personagem": "Miku",
+      "texto_en": "(He looks unbothered...but his ears are bright red.)",
+      "texto_ptbr": "(Ele parece tranquilo... mas as orelhas dele estão bem vermelhas.)"
+    },
+    {
+      "id": 36,
+      "personagem": "Miku",
+      "texto_en": "(If that's the case...\\n Maybe I'll squeeze his hand back,\\n just a little?)",
+      "texto_ptbr": "(Se é assim...\\n Talvez eu aperte a mão dele de volta,\\n só um pouquinho?)"
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "!...",
+      "texto_ptbr": "!..."
+    },
+    {
+      "id": 38,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Miku...",
+      "texto_ptbr": "Miku..."
+    },
+    {
+      "id": 40,
+      "personagem": "Miku",
+      "texto_en": "(Futaro's hand is bigger than I thought,\\n I feel a sense of relief when his hand wraps around mine.)",
+      "texto_ptbr": "(A mão do Fuutarou é maior do que eu imaginava,\\n sinto um alívio quando ela envolve a minha.)"
+    },
+    {
+      "id": 41,
+      "personagem": "Miku",
+      "texto_en": "(Doing this makes me feel warm inside, somehow...)",
+      "texto_ptbr": "(Fazer isso me deixa quentinha por dentro, de algum jeito...)"
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 43,
+      "personagem": "Miku",
+      "texto_en": "(Huh? Wh-what's this?!)",
+      "texto_ptbr": "(Hã? O-o que é isso?!)"
+    },
+    {
+      "id": 44,
+      "personagem": "Miku",
+      "texto_en": "Are we...interlocking our fingers...right now?",
+      "texto_ptbr": "A gente... está entrelaçando os dedos... agora?"
+    },
+    {
+      "id": 45,
+      "personagem": "Miku",
+      "texto_en": "F-Futaro...?",
+      "texto_ptbr": "F-Fuutarou...?"
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "What's wrong?",
+      "texto_ptbr": "O que foi?"
+    },
+    {
+      "id": 47,
+      "personagem": "Miku",
+      "texto_en": "Huh?!\\nN-no, nothing...",
+      "texto_ptbr": "Hã?!\\nN-não, nada não..."
+    },
+    {
+      "id": 48,
+      "personagem": "Miku",
+      "texto_en": "(Th-that's right.\\n We're dating, so it's not weird\\n to do this kind of thing.)",
+      "texto_ptbr": "(I-isso mesmo.\\n A gente está namorando, então não é estranho\\n fazer esse tipo de coisa.)"
+    },
+    {
+      "id": 49,
+      "personagem": "Miku",
+      "texto_en": "(You're probably just overthinking things.)",
+      "texto_ptbr": "(Você provavelmente só está pensando demais nisso.)"
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "T-the sunset looks beautiful, doesn't it?!",
+      "texto_ptbr": "O-o pôr do sol está lindo, não está?!"
+    },
+    {
+      "id": 51,
+      "personagem": "Miku",
+      "texto_en": "Yeah...",
+      "texto_ptbr": "É..."
+    },
+    {
+      "id": 52,
+      "personagem": "Miku",
+      "texto_en": "(Futaro's hand, it feels warmer than before...)",
+      "texto_ptbr": "(A mão do Fuutarou está mais quente do que antes...)"
+    },
+    {
+      "id": 53,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "H-hey, Miku.",
+      "texto_ptbr": "E-ei, Miku."
+    },
+    {
+      "id": 56,
+      "personagem": "Miku",
+      "texto_en": "What?",
+      "texto_ptbr": "Que foi?"
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "Would you like to take a walk outside tonight?",
+      "texto_ptbr": "Você não quer dar uma volta lá fora hoje à noite?"
+    },
+    {
+      "id": 58,
+      "personagem": "Miku",
+      "texto_en": "...At night?",
+      "texto_ptbr": "...À noite?"
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "Kokusai dori is close from the hotel, right?\\nAnd there might be other things we'd like to see%p-2;――",
+      "texto_ptbr": "A Kokusai Dori é perto do hotel, né?\\nE deve ter outras coisas que a gente pode querer ver%p-2;――"
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "How about spending some time...just the two of us?",
+      "texto_ptbr": "Que tal passar um tempo... só nós dois?"
+    },
+    {
+      "id": 61,
+      "personagem": "Miku",
+      "texto_en": "The two of us...",
+      "texto_ptbr": "Só nós dois..."
+    },
+    {
+      "id": 62,
+      "personagem": "Miku",
+      "texto_en": "...!",
+      "texto_ptbr": "...!"
+    },
+    {
+      "id": 63,
+      "personagem": "Miku",
+      "texto_en": "(The two of us, at night...\\n Futaro, is he perhaps thinking about...!)",
+      "texto_ptbr": "(Só nós dois, à noite...\\n Será que o Fuutarou está pensando em...!)"
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "...No good?",
+      "texto_ptbr": "...Não pode?"
+    },
+    {
+      "id": 65,
+      "personagem": "Miku",
+      "texto_en": "I-it's not that I don't want to, but...",
+      "texto_ptbr": "N-não é que eu não queira, mas..."
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "Oh, well, I mean, if you don't want to,\\nthat's fine. You don't have to push yourself!",
+      "texto_ptbr": "Ah, bom, quer dizer, se você não quiser,\\ntudo bem. Não precisa se forçar!"
+    },
+    {
+      "id": 67,
+      "personagem": "Miku",
+      "texto_en": "(I do want to spend time with him, alone.\\n But if Futaro is really thinking like that%p-2;――%p;)",
+      "texto_ptbr": "(Eu realmente quero passar um tempo com ele, a sós.\\n Mas se o Fuutarou está mesmo pensando assim%p-2;――%p;)"
+    },
+    {
+      "id": 68,
+      "personagem": "Miku",
+      "texto_en": "I-I%p-2;――",
+      "texto_ptbr": "E-eu%p-2;――"
+    },
+    {
+      "id": 69,
+      "personagem": "Miku",
+      "texto_en": "Eeep!",
+      "texto_ptbr": "Iiii!"
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "WOAH?!\\nA-are you okay, Miku?",
+      "texto_ptbr": "UAH?!\\nV-você está bem, Miku?"
+    },
+    {
+      "id": 71,
+      "personagem": "Miku",
+      "texto_en": "S-sorry.\\nI wasn't looking where I was going and tripped.",
+      "texto_ptbr": "D-desculpa.\\nEu não estava olhando por onde andava e tropecei."
+    },
+    {
+      "id": 72,
+      "personagem": "Miku",
+      "texto_en": "(My hand feels warm after holding his hand...\\n like his warmth has transferred to me.)",
+      "texto_ptbr": "(Minha mão continua quente depois de segurar a dele...\\n como se o calor dele tivesse passado pra mim.)"
+    },
+    {
+      "id": 73,
+      "personagem": "Miku",
+      "texto_en": "(It's not just his hand. My face also feels hot.\\n It's probably really red... I must look super weird!!)",
+      "texto_ptbr": "(Não é só a mão dele. Meu rosto também está quente.\\n Deve estar bem vermelho... Eu devo estar parecendo super estranha!!)"
+    },
+    {
+      "id": 74,
+      "personagem": "Futaro",
+      "texto_en": "Miku?",
+      "texto_ptbr": "Miku?"
+    },
+    {
+      "id": 75,
+      "personagem": "Miku",
+      "texto_en": "L-let's hurry!\\nThe sun's going down!",
+      "texto_ptbr": "V-vamos logo!\\nO sol está se pondo!"
+    },
+    {
+      "id": 76,
+      "personagem": "Futaro",
+      "texto_en": "Ah!",
+      "texto_ptbr": "Ah!"
+    },
+    {
+      "id": 77,
+      "personagem": "Ichika",
+      "texto_en": "WAH?!",
+      "texto_ptbr": "UAH?!"
+    },
+    {
+      "id": 78,
+      "personagem": "Nino",
+      "texto_en": "Miku?\\nWhat, what's wrong?",
+      "texto_ptbr": "Miku?\\nO, o que foi?"
+    },
+    {
+      "id": 79,
+      "personagem": "Miku",
+      "texto_en": "It's n-nothing.\\nI just thought we should hurry before the sun sets.",
+      "texto_ptbr": "N-não é nada.\\nSó achei que a gente devia se apressar antes do sol se pôr."
+    },
+    {
+      "id": 80,
+      "personagem": "Ichika",
+      "texto_en": "Huh? Wait up?!",
+      "texto_ptbr": "Hã? Espera aí?!"
+    },
+    {
+      "id": 81,
+      "personagem": "Nino",
+      "texto_en": "What's going on here?",
+      "texto_ptbr": "O que está acontecendo aqui?"
+    },
+    {
+      "id": 82,
+      "personagem": "Ichika",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 83,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 84,
+      "personagem": "Ichika",
+      "texto_en": "...Based on Futaro-kun's expression,\\ndid Miku run away again?",
+      "texto_ptbr": "...Pela cara do Futaro-kun,\\na Miku fugiu de novo?"
+    },
+    {
+      "id": 85,
+      "personagem": "Nino",
+      "texto_en": "Huh? It seemed like things were going well earlier.\\nWhat happened?",
+      "texto_ptbr": "Hã? Parecia que as coisas estavam indo bem antes.\\nO que aconteceu?"
+    },
+    {
+      "id": 86,
+      "personagem": "Ichika",
+      "texto_en": "I have no idea...",
+      "texto_ptbr": "Não faço ideia..."
+    },
+    {
+      "id": 87,
+      "personagem": "Ichika",
+      "texto_en": "Maybe he tried to make a move,\\nbut it didn't work out?",
+      "texto_ptbr": "Talvez ele tenha tentado dar em cima dela,\\nmas não deu certo?"
+    },
+    {
+      "id": 88,
+      "personagem": "Nino",
+      "texto_en": "Miku...stopped by where Yotsuba and the others are.\\nLet's catch up to her for now.",
+      "texto_ptbr": "A Miku... passou por onde a Yotsuba e as outras estão.\\nVamos alcançá-la por enquanto."
+    },
+    {
+      "id": 89,
+      "personagem": "Ichika",
+      "texto_en": "Yes.",
+      "texto_ptbr": "Sim."
+    }
+  ]
+}

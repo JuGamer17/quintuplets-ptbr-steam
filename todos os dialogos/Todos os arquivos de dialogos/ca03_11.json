@@ -1,0 +1,432 @@
+{
+  "arquivo": "ca03_11",
+  "total": 71,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(The art museum exhibited contemporary artworks by artists\\n associated with Okinawa.)",
+      "texto_ptbr": "(O museu de arte expunha obras contemporâneas de artistas\n associados a Okinawa.)"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(There were also huge sculptures placed outdoors,\\n and we all enjoyed the art to a great extent.)",
+      "texto_ptbr": "(Também havia enormes esculturas colocadas ao ar livre,\n e todos nós aproveitamos bastante a arte.)"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(However, I couldn't fully concentrate on the tour.)",
+      "texto_ptbr": "(Porém, eu não consegui me concentrar totalmente no passeio.)"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "(During breaks, I asked the other quintuplets\\n about Miku.)",
+      "texto_ptbr": "(Durante os intervalos, perguntei às outras quintuplas\n sobre a Miku.)"
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "(But, it was unsuccesful. Everyone thinks something\\n is wrong with how Miku's acting, but no one\\n has any reason why.)",
+      "texto_ptbr": "(Mas não tive sucesso. Todo mundo acha que tem algo\n errado com o jeito que a Miku está agindo, mas ninguém\n sabe o motivo.)"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "(After finishing the museum tour, it was already\\n evening, and we enjoyed a luxurious dinner\\n as planned, before returning to the hotel.)",
+      "texto_ptbr": "(Depois de terminar o passeio pelo museu, já era\n noite, e desfrutamos de um jantar luxuoso\n como planejado, antes de voltar para o hotel.)"
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*",
+      "texto_ptbr": "*suspiro*"
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "(They told me that they don't know what's going on,\\n but they also said that its unlikely\\n Miku has any negative feelings towards me.)",
+      "texto_ptbr": "(Elas me disseram que não sabem o que está acontecendo,\n mas também disseram que é improvável\n que a Miku tenha algum sentimento negativo em relação a mim.)"
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "(I knew that, but to be honest,\\n it was a relief, hearing it from her sisters.)",
+      "texto_ptbr": "(Eu já sabia disso, mas para ser sincero,\n foi um alívio ouvir isso das irmãs dela.)"
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "(And Miku, the person in question, was still the same\\n during the museum tour.)",
+      "texto_ptbr": "(E a Miku, a pessoa em questão, continuou a mesma\n durante o passeio pelo museu.)"
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "(Sometimes, she spoke to me as she usually would.)",
+      "texto_ptbr": "(Às vezes, ela falava comigo normalmente, como sempre.)"
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "(And, if I replied, she would smile happily.)",
+      "texto_ptbr": "(E, se eu respondesse, ela sorria feliz.)"
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "(But, whenever I try to initiate a conversation.)",
+      "texto_ptbr": "(Mas, sempre que eu tento iniciar uma conversa.)"
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "(She suddenly starts stumbling on her\\n words, blushing...)",
+      "texto_ptbr": "(Ela de repente começa a gaguejar\n nas palavras, ficando vermelha...)"
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "(Strangely distancing herself, or even trying to run away.)",
+      "texto_ptbr": "(Se afastando estranhamente, ou até tentando fugir.)"
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "(...What the hell is going on?)",
+      "texto_ptbr": "(...Que diabos está acontecendo?)"
+    },
+    {
+      "id": 16,
+      "personagem": "???",
+      "texto_en": "Uesugi-kun.",
+      "texto_ptbr": "Uesugi-kun."
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "Why are you standing here, lost in your thoughts?",
+      "texto_ptbr": "Por que você está parado aqui, perdido em pensamentos?"
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Itsuki...\\nYotsuba and Raiha as well.",
+      "texto_ptbr": "Itsuki...\nA Yotsuba e a Raiha também."
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "You didn't go back to your room? You've been here all this time?",
+      "texto_ptbr": "Você não voltou pro seu quarto? Ficou aqui esse tempo todo?"
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "That room is too big. I can't relax there.",
+      "texto_ptbr": "Aquele quarto é grande demais. Não consigo relaxar lá."
+    },
+    {
+      "id": 21,
+      "personagem": "Raiha",
+      "texto_en": "Huh? It's even more spacious in here, no?",
+      "texto_ptbr": "Hã? Aqui é ainda mais espaçoso, não é?"
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "No, I didn't mean it in terms of space...\\nWhatever, don't worry about it.",
+      "texto_ptbr": "Não, não quis dizer em termos de espaço...\nEnfim, não se preocupem com isso."
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "So, what do you want?",
+      "texto_ptbr": "Então, o que vocês querem?"
+    },
+    {
+      "id": 24,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "You guys gathered and came all this way to the lobby.\\nYou came looking for me\\nbecause I wasn't in my room, right?",
+      "texto_ptbr": "Vocês se juntaram e vieram até aqui no saguão.\nVocês vieram atrás de mim\nporque eu não estava no meu quarto, né?"
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "So you already know why we are here, don't you?\\nEveryone is worried about you and Miku.",
+      "texto_ptbr": "Então você já sabe por que estamos aqui, não sabe?\nTodo mundo está preocupado com você e a Miku."
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Well, I guess that's natural.",
+      "texto_ptbr": "Bem, acho que isso é natural."
+    },
+    {
+      "id": 28,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahh!\\nDon't make that face.\\nWe're not blaming you.",
+      "texto_ptbr": "Ahh!\nNão faz essa cara.\nA gente não está te culpando."
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "...Did my face look that scary?",
+      "texto_ptbr": "...Minha cara estava tão assustadora assim?"
+    },
+    {
+      "id": 30,
+      "personagem": "Raiha",
+      "texto_en": "Yeah, it's a face I've never seen before.\\nAre you okay, big bro?",
+      "texto_ptbr": "É, é uma cara que eu nunca tinha visto antes.\nVocê está bem, Onii-chan?"
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Honestly, I can't say that I am...",
+      "texto_ptbr": "Sinceramente, não posso dizer que estou..."
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "Actually...\\nI had a little talk with Miku at the museum.",
+      "texto_ptbr": "Na verdade...\nEu conversei um pouco com a Miku no museu."
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "What?",
+      "texto_ptbr": "O quê?"
+    },
+    {
+      "id": 34,
+      "personagem": "Raiha",
+      "texto_en": "Huh? I can't believe you're actually discussing this topic\\nwith me, big bro.",
+      "texto_ptbr": "Hã? Não acredito que você está mesmo discutindo esse assunto\ncomigo, Onii-chan."
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "That just goes to show how much you care about Miku, right?",
+      "texto_ptbr": "Isso só mostra o quanto você se importa com a Miku, não é?"
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 37,
+      "personagem": "Raiha",
+      "texto_en": "Oh, I see.\\nYou're also struggling with love, huh, big bro.",
+      "texto_ptbr": "Ah, entendi.\nVocê também está sofrendo por amor, né, Onii-chan."
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "Actually...\\nI talked a little with Miku at the museum.",
+      "texto_ptbr": "Na verdade...\nEu conversei um pouco com a Miku no museu."
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "What?",
+      "texto_ptbr": "O quê?"
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "To me, it seemed like she was wanting to be with you,\\nbut there was a reason she couldn't.",
+      "texto_ptbr": "Pra mim, pareceu que ela queria ficar com você,\nmas havia um motivo pelo qual ela não podia."
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "A reason she couldn't?\\nWhat could that be?",
+      "texto_ptbr": "Um motivo pelo qual ela não podia?\nO que seria isso?"
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "I didn't ask her directly,\\nbut that's just how I felt,\\nso I don't know for sure.",
+      "texto_ptbr": "Eu não perguntei diretamente a ela,\nmas foi só o que eu senti,\nentão não sei ao certo."
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "I see...",
+      "texto_ptbr": "Entendo..."
+    },
+    {
+      "id": 44,
+      "personagem": "Yotsuba",
+      "texto_en": "So she wants to get along,\\nbut there's a reason she can't...\\nWhat could the reason be?",
+      "texto_ptbr": "Então ela quer se dar bem com ele,\nmas tem um motivo que não deixa...\nQual seria esse motivo?"
+    },
+    {
+      "id": 45,
+      "personagem": "Raiha",
+      "texto_en": "Well, if it were me, it would be something \\nlike having a fight with a friend and wanting to\\nmake up, but not being able to find a way to do so.",
+      "texto_ptbr": "Bem, se fosse eu, seria algo \ncomo ter brigado com uma amiga e querer\nfazer as pazes, mas não conseguir achar um jeito de fazer isso."
+    },
+    {
+      "id": 46,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, I totally get that!",
+      "texto_ptbr": "Ah, eu entendo isso perfeitamente!"
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "But, Miku and Uesugi-kun\\nnever fought before...",
+      "texto_ptbr": "Mas a Miku e o Uesugi-kun\nnunca brigaram antes..."
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "We haven't. If we had, Miku wouldn't be avoiding me\\nlike this. If that were the case, I would've acted\\na long time ago and apologized.",
+      "texto_ptbr": "Nós não brigamos. Se tivéssemos brigado, a Miku não estaria me evitando\ndesse jeito. Se fosse esse o caso, eu já teria agido\nhá muito tempo e pedido desculpas."
+    },
+    {
+      "id": 49,
+      "personagem": "Yotsuba",
+      "texto_en": "Miku does have a stubborn side though...",
+      "texto_ptbr": "Apesar disso, a Miku tem um lado teimoso..."
+    },
+    {
+      "id": 50,
+      "personagem": "Yotsuba",
+      "texto_en": "Even if they fought,\\nI also don't think she would avoid Uesugi-san like this.",
+      "texto_ptbr": "Mesmo que eles tivessem brigado,\ntambém não acho que ela evitaria o Uesugi-san desse jeito."
+    },
+    {
+      "id": 51,
+      "personagem": "Itsuki",
+      "texto_en": "...It doesn't seem like we're getting anywhere\\nby just thinking about it.",
+      "texto_ptbr": "...Não parece que estamos chegando a lugar nenhum\nsó de ficar pensando sobre isso."
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "Anyway, the only solution\\nis to talk to Miku directly.",
+      "texto_ptbr": "De qualquer forma, a única solução\né conversar diretamente com a Miku."
+    },
+    {
+      "id": 53,
+      "personagem": "Itsuki",
+      "texto_en": "I'm sure Miku herself would like\\nto resolve this situation.",
+      "texto_ptbr": "Tenho certeza de que a própria Miku gostaria\nde resolver essa situação."
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "That may be true, but if I try to talk to her,\\nshe'll just run away.",
+      "texto_ptbr": "Isso pode até ser verdade, mas se eu tentar falar com ela,\nela só vai fugir."
+    },
+    {
+      "id": 55,
+      "personagem": "Yotsuba",
+      "texto_en": "How about creating a situation\\nwhere Miku would feel comfortable talking?",
+      "texto_ptbr": "Que tal criar uma situação\nem que a Miku se sinta confortável pra conversar?"
+    },
+    {
+      "id": 56,
+      "personagem": "Raiha",
+      "texto_en": "A comfortable situation?",
+      "texto_ptbr": "Uma situação confortável?"
+    },
+    {
+      "id": 57,
+      "personagem": "Yotsuba",
+      "texto_en": "For example...",
+      "texto_ptbr": "Por exemplo..."
+    },
+    {
+      "id": 58,
+      "personagem": "Yotsuba",
+      "texto_en": "I know! How about inviting Miku and Uesugi-san\\nto a place where they have fond memories?",
+      "texto_ptbr": "Já sei! Que tal convidar a Miku e o Uesugi-san\npra um lugar onde eles têm boas lembranças?"
+    },
+    {
+      "id": 59,
+      "personagem": "Yotsuba",
+      "texto_en": "That way, they could start with reminiscing\\nabout their memories\\nand create a comfortable atmosphere to talk.",
+      "texto_ptbr": "Assim, eles poderiam começar relembrando\nas memórias deles\ne criar um clima confortável pra conversar."
+    },
+    {
+      "id": 60,
+      "personagem": "Raiha",
+      "texto_en": "Oh, that's a good idea!",
+      "texto_ptbr": "Ah, essa é uma boa ideia!"
+    },
+    {
+      "id": 61,
+      "personagem": "Itsuki",
+      "texto_en": "Wait a minute. That's not possible.",
+      "texto_ptbr": "Espera um pouco. Isso não é possível."
+    },
+    {
+      "id": 62,
+      "personagem": "Yotsuba",
+      "texto_en": "Why?",
+      "texto_ptbr": "Por quê?"
+    },
+    {
+      "id": 63,
+      "personagem": "Itsuki",
+      "texto_en": "We're in Okinawa right now, remember?",
+      "texto_ptbr": "A gente está em Okinawa agora, lembra?"
+    },
+    {
+      "id": 64,
+      "personagem": "Raiha",
+      "texto_en": "Ah, that's right.",
+      "texto_ptbr": "Ah, é verdade."
+    },
+    {
+      "id": 65,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahaha, true that.\\nRather, we're going to make memories from now on,\\naren't we?",
+      "texto_ptbr": "Ahaha, é verdade mesmo.\nNa verdade, a gente vai criar memórias daqui pra frente,\nnão é?"
+    },
+    {
+      "id": 66,
+      "personagem": "Yotsuba",
+      "texto_en": "I'm sorry, Uesugi-san.\\nI might've said something off-topic.",
+      "texto_ptbr": "Desculpa, Uesugi-san.\nAcho que falei besteira."
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "...No, that's actually a great idea.",
+      "texto_ptbr": "...Não, essa é uma ótima ideia, na verdade."
+    },
+    {
+      "id": 68,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh? Really?",
+      "texto_ptbr": "Hã? Sério?"
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "Yeah. That's a great idea!\\nI'm gonna go someplace memorable for both Miku and I tomorrow!",
+      "texto_ptbr": "É. É uma ótima ideia!\nAmanhã eu vou levar a Miku pra um lugar que seja especial pra nós dois!"
+    },
+    {
+      "id": 70,
+      "personagem": "Raiha",
+      "texto_en": "Huh?\\nWhat are you talking about, big bro?",
+      "texto_ptbr": "Hã?\nDo que você tá falando, Onii-chan?"
+    }
+  ]
+}

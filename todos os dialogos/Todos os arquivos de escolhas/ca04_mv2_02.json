@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca04_mv2_02",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "はあ……。\\nこれではまるで、私が大食いみたいじゃないですか。",
+      "texto_en": "*sigh*\\nThis makes it seem like I'm a big eater or something.",
+      "texto_ptbr": "*suspiro*\\nIsso faz parecer que eu sou uma comilona ou coisa assim."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "えっ？",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "別に悪気はなかったんだろ",
+      "texto_en": "The owner didn't mean anything bad by it.",
+      "texto_ptbr": "Não deve ter sido por mal.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "向こうは嬉しかったんじゃないか？",
+      "texto_en": "I bet the owner was happy, you know?",
+      "texto_ptbr": "Será que o outro lado não ficou feliz?",
+      "selidx": 2
+    }
+  ]
+}

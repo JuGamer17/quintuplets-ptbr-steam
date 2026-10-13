@@ -1,0 +1,288 @@
+{
+  "arquivo": "ca05_mv4_01",
+  "total": 47,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Even though it's spring,\\nthere are Santa decorations...",
+      "texto_ptbr": "Mesmo sendo primavera,\\ntem decoração de Papai Noel..."
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "Red stockings and a Christmas tree too.\\nIt's true that there are stores\\nselling Christmas goods all year round.",
+      "texto_ptbr": "Meias vermelhas e árvore de Natal também.\\nÉ verdade que existem lojas\\nque vendem produtos natalinos o ano inteiro."
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "It feels like it's December all year round here.\\nI remember when I sold cakes\\nin the cold weather.",
+      "texto_ptbr": "Parece que aqui é dezembro o ano todo.\\nMe lembro de quando eu vendia bolos\\nno frio."
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, I remember that.\\nYou even delivered one to our apartment.\\nI appreciated your effort. ",
+      "texto_ptbr": "Sim, eu me lembro disso.\\nVocê até entregou um no nosso apartamento.\\nEu fiquei grata pelo seu esforço. "
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Ugh, but to fall into the river on the way to the \\ndelivery destination. Thank goodness everyone came \\nout of it without catching a cold.",
+      "texto_ptbr": "Ugh, mas cair no rio no caminho do \\nlocal de entrega. Ainda bem que todo mundo \\nsaiu daquilo sem pegar resfriado."
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "At that time, before I even had time to think\\nabout what would happen if you drowned,\\nmy body just moved instinctively.",
+      "texto_ptbr": "Naquela hora, antes que eu tivesse tempo de pensar\\nno que aconteceria se você se afogasse,\\nmeu corpo já tinha se movido por instinto."
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "I think everyone felt the same way.",
+      "texto_ptbr": "Acho que todo mundo sentiu o mesmo."
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "...Right.",
+      "texto_ptbr": "...É verdade."
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "Th-that Christmas wasn't very good either.\\nLast year, I was too busy studying for exams\\nto even think about it.",
+      "texto_ptbr": "A-aquele Natal também não foi muito bom.\\nNo ano passado, eu estava ocupada demais estudando para as provas\\npara sequer pensar nisso."
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "But the party we had after the study session was \\nsmall but fun.\\nThe cake that Nino made was delicious, too.",
+      "texto_ptbr": "Mas a festinha que fizemos depois da sessão de estudos \\nfoi pequena, mas divertida.\\nO bolo que a Nino fez também estava delicioso."
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, it was a nice break.",
+      "texto_ptbr": "É, foi uma boa pausa."
+    },
+    {
+      "id": 11,
+      "personagem": "Itsuki",
+      "texto_en": "...I'll say it now, but I was a little surprised\\nwhen you gave me a present back then, Uesugi-kun.",
+      "texto_ptbr": "...Vou falar agora, mas eu fiquei um pouco surpresa\\nquando você me deu um presente naquela época, Uesugi-kun."
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Wha-what do you mean by surprised?!\\nIt was the least I could do!",
+      "texto_ptbr": "O-o que você quer dizer com surpresa?!\\nAquilo foi o mínimo que eu podia fazer!"
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "W-well, anyhow.\\nEven though I worried so much, in the end,\\nI just gave you a plain ol' Christmas card.",
+      "texto_ptbr": "B-bom, enfim.\\nMesmo eu tendo me preocupado tanto, no final,\\nsó te dei um simples cartão de Natal."
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "But I was happy, you know?\\nI could feel your sincerity.",
+      "texto_ptbr": "Mas eu fiquei feliz, sabia?\\nEu pude sentir a sua sinceridade."
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "That's great, then.",
+      "texto_ptbr": "Que bom, então."
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun, you also used the present\\nI gave you, right?",
+      "texto_ptbr": "Uesugi-kun, você também usou o presente\\nque eu te dei, certo?"
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "That really helped me out. Thanks to the scarf\\nyou gave me, I was able to get through the winter\\nwithout any problems.",
+      "texto_ptbr": "Aquilo me ajudou muito. Graças ao cachecol\\nque você me deu, consegui passar o inverno\\nsem problema nenhum."
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "Teehee, I'm glad I could be of help.",
+      "texto_ptbr": "Teehee, que bom que pude ajudar."
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "I was worried about you,\\nsince you don't even wear a coat,\\neven in the middle of winter.",
+      "texto_ptbr": "Eu estava preocupada com você,\\njá que nem casaco você usa,\\nmesmo no meio do inverno."
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Sorry about that.\\nI think I'll give you something practical\\nfor this year's Christmas present.",
+      "texto_ptbr": "Desculpa por isso.\\nAcho que vou te dar algo prático\\nde presente de Natal esse ano."
+    },
+    {
+      "id": 21,
+      "personagem": "Itsuki",
+      "texto_en": "If it's a gift from you, I'd be happy with anything.\\nEven if it's just a handwritten Christmas card.",
+      "texto_ptbr": "Se for um presente seu, eu ficaria feliz com qualquer coisa.\\nMesmo que seja só um cartão de Natal escrito à mão."
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "...I wonder how we'll spend Christmas this year?",
+      "texto_ptbr": "...Será como vamos passar o Natal esse ano?"
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "That's still a long way off. I can't even imagine it,\\nand there are too many things that could happen\\nbefore we get to Christmas.",
+      "texto_ptbr": "Ainda falta muito. Nem consigo imaginar,\\ne tem coisa demais que pode acontecer\\nantes de chegar o Natal."
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "Ahaha...\\nFirst of all, I'm worried about\\nkeeping up with my classes at university.",
+      "texto_ptbr": "Ahaha...\\nPrimeiro de tudo, estou preocupada\\nem conseguir acompanhar minhas aulas na faculdade."
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Maybe this Christmas will just have to be a simple one.",
+      "texto_ptbr": "Talvez esse Natal vá ter que ser simples mesmo."
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "Oooohh!\\nI'll do my best to make sure that doesn't happen!",
+      "texto_ptbr": "Ooohh!\\nVou me esforçar ao máximo pra isso não acontecer!"
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "You swear?\\nRepeating a school year is out of the question, you know?",
+      "texto_ptbr": "Promete?\\nRepetir de ano está fora de cogitação, viu?"
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "I want to spend it together.\\nIt IS Christmas, after all.",
+      "texto_ptbr": "Eu quero passar junto com você.\\nAfinal, é Natal."
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "Y-yes, that's true.\\nJust the two of us, Uesugi-kun and I%p-2;――",
+      "texto_ptbr": "S-sim, é verdade.\\nSó nós dois, Uesugi-kun e eu%p-2;――"
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "B-but!\\nIsn't it important\\nto spend Christmas with family, too?",
+      "texto_ptbr": "M-mas!\\nNão é importante\\npassar o Natal com a família também?"
+    },
+    {
+      "id": 31,
+      "personagem": "Itsuki",
+      "texto_en": "In fact, it seems like spending Christmas with family\\nis more common overseas!",
+      "texto_ptbr": "Aliás, parece que passar o Natal com a família\\né mais comum lá fora!"
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Well, whether it's just the two of us or with everyone else,\\nas long as we spend it together, that's enough for me.",
+      "texto_ptbr": "Bom, seja só nós dois ou com todo mundo,\\ndesde que a gente passe junto, já está bom pra mim."
+    },
+    {
+      "id": 33,
+      "personagem": "Itsuki",
+      "texto_en": "...Me too.",
+      "texto_ptbr": "...Pra mim também."
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Let's have a big party this year!\\nSo we can make up for last year!",
+      "texto_ptbr": "Vamos fazer uma festa grande esse ano!\\nPra compensar o ano passado!"
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "That's a great idea.\\nLet's invite Raiha-chan too and have fun with everyone.",
+      "texto_ptbr": "Que ótima ideia.\\nVamos chamar a Raiha-chan também e nos divertir com todo mundo."
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "We'll prepare a big cake and roast a chicken.\\nI also want to decorate a gorgeous Christmas tree.",
+      "texto_ptbr": "Vamos preparar um bolo grande e assar um frango.\\nTambém quero decorar uma árvore de Natal linda."
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Why don't we buy some decorations from this store now\\nwhile we're at it?",
+      "texto_ptbr": "Que tal a gente já aproveitar e comprar umas decorações\\ndessa loja agora?"
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "That's a bit too early, don't you think?\\nIt'll become a burden to carry around.",
+      "texto_ptbr": "Não acha meio cedo demais?\\nVai virar um peso pra carregar."
+    },
+    {
+      "id": 39,
+      "personagem": "Itsuki",
+      "texto_en": "But, I understand how you feel.\\nI'm looking forward to it too.",
+      "texto_ptbr": "Mas eu entendo como você se sente.\\nEstou ansiosa também."
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "Actually, how about we exchange gifts,\\njust the two of us,\\nafter the party with everyone?",
+      "texto_ptbr": "Aliás, que tal trocarmos presentes,\\nsó nós dois,\\ndepois da festa com todo mundo?"
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "That...makes me even more excited.",
+      "texto_ptbr": "Isso... me deixa ainda mais animada."
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Alright!\\nI'll carefully think about it\\nand give you the best present!",
+      "texto_ptbr": "Certo!\\nVou pensar com cuidado\\ne te dar o melhor presente!"
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "Is it okay to say something like that?\\nYou're raising the bar pretty high.",
+      "texto_ptbr": "Pode falar uma coisa dessas assim?\\nVocê está colocando a régua bem alta."
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "...Don't get your hopes up too high.",
+      "texto_ptbr": "...Não crie expectativa demais."
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "(I suppose this will be my third Christmas with Itsuki.)",
+      "texto_ptbr": "(Acho que esse será meu terceiro Natal com a Itsuki.)"
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "(The seasons will come and go.\\n But no matter how many do, I'm sure I'll always be\\n looking forward to how I'll spend that day with her.)",
+      "texto_ptbr": "(As estações vão vir e passar.\\n Mas não importa quantas passem, tenho certeza de que sempre vou\\n ficar ansioso pra saber como vou passar aquele dia com ela.)"
+    }
+  ]
+}

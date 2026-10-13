@@ -1,0 +1,438 @@
+{
+  "arquivo": "ca04_mv1_01",
+  "total": 72,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Oh, there you are.\\nI've been looking for you.",
+      "texto_ptbr": "Ah, aí estão vocês.\\nEstava procurando vocês."
+    },
+    {
+      "id": 1,
+      "personagem": "Ichika",
+      "texto_en": "Huh? Futaro-kun?",
+      "texto_ptbr": "Hã? Fuutarou-kun?"
+    },
+    {
+      "id": 2,
+      "personagem": "Raiha",
+      "texto_en": "Big bro,\\nweren't you with Yotsuba-san?",
+      "texto_ptbr": "Onii-chan,\\nvocê não estava com a Yotsuba-san?"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "I wanted to ask both of you something.\\nWe're both doing our own thing now.",
+      "texto_ptbr": "Queria perguntar uma coisa pra vocês duas.\\nAgora estamos cada um fazendo o seu programa."
+    },
+    {
+      "id": 4,
+      "personagem": "Ichika",
+      "texto_en": "What did you want to ask us?",
+      "texto_ptbr": "O que você queria perguntar pra gente?"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Is there anything you want to do after this?\\nLike sightseeing or shopping?",
+      "texto_ptbr": "Tem alguma coisa que vocês querem fazer depois disso?\\nTipo passear ou fazer compras?"
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "Hmm, take a nap?",
+      "texto_ptbr": "Hmm, tirar uma soneca?"
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "No.",
+      "texto_ptbr": "Não."
+    },
+    {
+      "id": 8,
+      "personagem": "Ichika",
+      "texto_en": "Whaaa?\\nYou said anything was fine, though.",
+      "texto_ptbr": "Quêêê?\\nMas você disse que qualquer coisa servia."
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "Well, do you think the others would agree?",
+      "texto_ptbr": "Bom, você acha que as outras concordariam?"
+    },
+    {
+      "id": 10,
+      "personagem": "Ichika",
+      "texto_en": "Alright, alright. I'll give you a proper answer.",
+      "texto_ptbr": "Tá bom, tá bom. Vou te dar uma resposta decente."
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "You should have done that from the beginning.",
+      "texto_ptbr": "Você devia ter feito isso desde o começo."
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "Hmm.\\nI think I might want to go parasailing again.\\nFloating in the air was really exhilarating.",
+      "texto_ptbr": "Hmm.\\nAcho que eu queria fazer parasailing de novo.\\nFlutuar no ar foi muito empolgante."
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Indeed, that unique sensation of floating\\ncan't be experienced anywhere else.",
+      "texto_ptbr": "Realmente, aquela sensação única de flutuar\\nnão dá pra sentir em nenhum outro lugar."
+    },
+    {
+      "id": 14,
+      "personagem": "Raiha",
+      "texto_en": "Yeah, I felt like a bird!",
+      "texto_ptbr": "É, eu me senti um passarinho!"
+    },
+    {
+      "id": 15,
+      "personagem": "Raiha",
+      "texto_en": "I wish I could fly freely like that, too.",
+      "texto_ptbr": "Queria poder voar livremente assim também."
+    },
+    {
+      "id": 16,
+      "personagem": "Ichika",
+      "texto_en": "So freely, huh.",
+      "texto_ptbr": "Assim, livremente, é?"
+    },
+    {
+      "id": 17,
+      "personagem": "Ichika",
+      "texto_en": "If you really want to experience the feeling\\nof flying like a bird,\\nwe could try a motorized paraglider.",
+      "texto_ptbr": "Se você quer mesmo sentir como é\\nvoar como um pássaro,\\na gente poderia tentar um parapente motorizado."
+    },
+    {
+      "id": 18,
+      "personagem": "Raiha",
+      "texto_en": "Umm... Huh? What's that?",
+      "texto_ptbr": "Hmm... Hã? O que é isso?"
+    },
+    {
+      "id": 19,
+      "personagem": "Ichika",
+      "texto_en": "Well, to put it simply,\\nit's a paraglider with a propeller-driven engine\\nthat lets you fly in the air.",
+      "texto_ptbr": "Bom, resumindo,\\né um parapente com um motor movido a hélice\\nque permite voar pelo ar."
+    },
+    {
+      "id": 20,
+      "personagem": "Raiha",
+      "texto_en": "An engine?",
+      "texto_ptbr": "Um motor?"
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Your explanation is too simple...",
+      "texto_ptbr": "Sua explicação está simples demais..."
+    },
+    {
+      "id": 22,
+      "personagem": "Ichika",
+      "texto_en": "Alright, then, Sensei, please explain!",
+      "texto_ptbr": "Tá bom, então, Sensei, explica aí!"
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "Listen, Raiha.\\nRemember when we went parasailing earlier?",
+      "texto_ptbr": "Escuta, Raiha.\\nLembra quando a gente fez parasailing mais cedo?"
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Instead of being pulled by a boat,\\nwith a motorized paraglider,\\nyou fly with a propeller attached to your back.",
+      "texto_ptbr": "Em vez de ser puxado por um barco,\\ncom um parapente motorizado,\\nvocê voa com uma hélice presa nas costas."
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "That's right.\\nSo, you can fly wherever you want.",
+      "texto_ptbr": "Isso mesmo.\\nEntão dá pra voar pra onde você quiser."
+    },
+    {
+      "id": 26,
+      "personagem": "Raiha",
+      "texto_en": "Hmmm...\\nThat sounds fun, but what if we crash?",
+      "texto_ptbr": "Hmmm...\\nParece divertido, mas e se a gente cair?"
+    },
+    {
+      "id": 27,
+      "personagem": "Ichika",
+      "texto_en": "That won't be a problem.\\nThere will be a pilot with us.",
+      "texto_ptbr": "Isso não vai ser problema.\\nVai ter um piloto com a gente."
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "The pilots will be the one to work the engine,\\nso all we need to do is sit back and enjoy the ride!",
+      "texto_ptbr": "Os pilotos é que vão operar o motor,\\nentão só precisamos relaxar e curtir o passeio!"
+    },
+    {
+      "id": 29,
+      "personagem": "Raiha",
+      "texto_en": "Wow.\\nIn that case, that sounds safe, and fun!",
+      "texto_ptbr": "Uau.\\nNesse caso, parece seguro, e divertido!"
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "But, is there a place where we can do that in Okinawa?\\nGo on a motorized paraglider.",
+      "texto_ptbr": "Mas, será que tem um lugar em Okinawa onde dá pra fazer isso?\\nAndar de parapente motorizado."
+    },
+    {
+      "id": 31,
+      "personagem": "Ichika",
+      "texto_en": "I haven't checked, but I think there might be.",
+      "texto_ptbr": "Não pesquisei, mas acho que deve ter."
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Wait, you said that without even knowing we could?",
+      "texto_ptbr": "Espera, você falou isso sem nem saber se dava pra fazer?"
+    },
+    {
+      "id": 33,
+      "personagem": "Ichika",
+      "texto_en": "But the scenery is so beautiful here.\\nIt's a tourist destination after all,\\nso they might offer something like that.",
+      "texto_ptbr": "Mas a paisagem aqui é tão linda.\\nÉ um destino turístico, afinal,\\nentão talvez ofereçam algo assim."
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Well, let's put motor paragliding down\\nas a candidate for now.",
+      "texto_ptbr": "Bom, vamos deixar o parapente motorizado\\ncomo candidato por enquanto."
+    },
+    {
+      "id": 35,
+      "personagem": "Raiha",
+      "texto_en": "I wonder if I'll be able to do it too?\\nIt might say that only adults can do it.",
+      "texto_ptbr": "Será que eu também vou conseguir fazer?\\nPode ser que só adultos possam fazer."
+    },
+    {
+      "id": 36,
+      "personagem": "Ichika",
+      "texto_en": "Oh, right.\\nThere might be age and height restrictions.",
+      "texto_ptbr": "Ah, é verdade.\\nPode ter restrição de idade e de altura."
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "I'm sure we can see some amazing scenery.",
+      "texto_ptbr": "Tenho certeza de que dá pra ver paisagens incríveis."
+    },
+    {
+      "id": 38,
+      "personagem": "Ichika",
+      "texto_en": "Right? It would be amazing to see a group of dolphins\\nfrom the sky.",
+      "texto_ptbr": "Né? Seria incrível ver um grupo de golfinhos\\ndo céu."
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, flying over a coral reef would be perfect.",
+      "texto_ptbr": "É, voar sobre um recife de coral seria perfeito."
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "However, what you can see depends on how high you fly.",
+      "texto_ptbr": "Só que o que dá pra ver depende da altura em que se voa."
+    },
+    {
+      "id": 41,
+      "personagem": "Ichika",
+      "texto_en": "I wonder if they take requests\\nfor what you want to see beforehand?",
+      "texto_ptbr": "Será que eles aceitam pedidos\\ndo que você quer ver com antecedência?"
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Who knows?\\nFor safety reasons,\\nthe course might already be set.",
+      "texto_ptbr": "Quem sabe?\\nPor questões de segurança,\\no percurso pode já estar definido."
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "Well, let's put motor paragliding down\\nas a candidate for now.",
+      "texto_ptbr": "Bom, vamos deixar o parapente motorizado\\ncomo candidato por enquanto."
+    },
+    {
+      "id": 44,
+      "personagem": "Raiha",
+      "texto_en": "I wonder if I can do it too?\\nIt might say that only adults can do it.",
+      "texto_ptbr": "Será que eu também consigo fazer?\\nPode ser que só adultos possam fazer."
+    },
+    {
+      "id": 45,
+      "personagem": "Ichika",
+      "texto_en": "Oh, right.\\nThere might be age and height restrictions.",
+      "texto_ptbr": "Ah, é verdade.\\nPode ter restrição de idade e de altura."
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Flying high without a care sounds really nice.",
+      "texto_ptbr": "Voar alto sem nenhuma preocupação parece muito bom."
+    },
+    {
+      "id": 47,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, I think there's a different kind of fun to it\\ncompared to parasailing.",
+      "texto_ptbr": "É, acho que tem um tipo de diversão diferente\\ncomparado ao parasailing."
+    },
+    {
+      "id": 48,
+      "personagem": "Raiha",
+      "texto_en": "I could really feel what it's like to be a bird!",
+      "texto_ptbr": "Eu senti mesmo como é ser um passarinho!"
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "After all, flying freely in the sky has always\\nbeen common dream amongst humans.\\nJust imagining it gets me excited!",
+      "texto_ptbr": "Afinal, voar livremente pelo céu sempre foi\\num sonho comum entre os humanos.\\nSó de imaginar já me empolgo!"
+    },
+    {
+      "id": 50,
+      "personagem": "Ichika",
+      "texto_en": "Ahaha, you're really honest\\nabout following your desires, aren't you.",
+      "texto_ptbr": "Ahaha, você é bem sincero\\nem seguir os seus desejos, né."
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "I'll check if there are any tours\\nwhere we can experience it later.",
+      "texto_ptbr": "Depois vou ver se tem algum passeio\\nem que a gente possa experimentar isso."
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Well, let's put motor paragliding down\\nas a candidate for now.",
+      "texto_ptbr": "Bom, vamos deixar o parapente motorizado\\ncomo candidato por enquanto."
+    },
+    {
+      "id": 53,
+      "personagem": "Raiha",
+      "texto_en": "I wonder if I can do it too?\\nIt might say that only adults can do it.",
+      "texto_ptbr": "Será que eu também consigo fazer?\\nPode ser que só adultos possam fazer."
+    },
+    {
+      "id": 54,
+      "personagem": "Ichika",
+      "texto_en": "Oh, right.\\nThere might be age and height restrictions.",
+      "texto_ptbr": "Ah, é verdade.\\nPode ter restrição de idade e de altura."
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "Since there would be a pilot with you,\\nI think that middle school students would\\nbe above the age limit.",
+      "texto_ptbr": "Como vai ter um piloto com você,\\nacho que alunos do ensino fundamental\\nestariam acima do limite de idade."
+    },
+    {
+      "id": 56,
+      "personagem": "Raiha",
+      "texto_en": "I hope so.",
+      "texto_ptbr": "Espero que sim."
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "However, we haven't decided\\non motor paragliding yet, have we?",
+      "texto_ptbr": "Só que ainda não decidimos\\npelo parapente motorizado, né?"
+    },
+    {
+      "id": 58,
+      "personagem": "Ichika",
+      "texto_en": "Besides, we don't even know if they offer it.\\nOther people might have different opinions too.",
+      "texto_ptbr": "Além disso, a gente nem sabe se eles oferecem.\\nAs outras pessoas podem ter opiniões diferentes também."
+    },
+    {
+      "id": 59,
+      "personagem": "Raiha",
+      "texto_en": "Have you asked everyone yet?",
+      "texto_ptbr": "Você já perguntou pra todo mundo?"
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "No, not everyone.",
+      "texto_ptbr": "Não, nem todo mundo."
+    },
+    {
+      "id": 61,
+      "personagem": "Ichika",
+      "texto_en": "I think the others will have different things they want to see,\\nyou know? Okinawa really has so many places \\nto see and things to do.",
+      "texto_ptbr": "Acho que as outras vão querer ver coisas diferentes,\\nsabe? Okinawa tem tantos lugares \\npra visitar e coisas pra fazer."
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "And ALSO,\\nyou guys never seem to agree on anything.",
+      "texto_ptbr": "E TAMBÉM,\\nvocês nunca parecem concordar em nada."
+    },
+    {
+      "id": 63,
+      "personagem": "Ichika",
+      "texto_en": "If it turns into a big fight,\\nwe'll leave it up to you again, Futaro-kun.\\nEveryone will listen to you and behave.",
+      "texto_ptbr": "Se virar uma briga feia,\\na gente deixa na sua mão de novo, Fuutarou-kun.\\nTodo mundo vai te ouvir e se comportar."
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "I don't know about that.\\nI can already imagine someone saying\\nthey want to do everything.",
+      "texto_ptbr": "Não sei se é bem assim.\\nJá consigo imaginar alguém dizendo\\nque quer fazer tudo."
+    },
+    {
+      "id": 65,
+      "personagem": "Ichika",
+      "texto_en": "Oh, that's a good idea.",
+      "texto_ptbr": "Ah, essa é uma boa ideia."
+    },
+    {
+      "id": 66,
+      "personagem": "Raiha",
+      "texto_en": "I also agree on doing everything!",
+      "texto_ptbr": "Eu também concordo em fazer tudo!"
+    },
+    {
+      "id": 67,
+      "personagem": "Ichika",
+      "texto_en": "If Raiha-chan agrees,\\nYotsuba and Itsuki-chan will definitely fold.",
+      "texto_ptbr": "Se a Raiha-chan concordar,\\na Yotsuba e a Itsuki-chan com certeza vão ceder."
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "No, no, doing everything is impossible.\\nRaiha, you should be a little more considerate.",
+      "texto_ptbr": "Não, não, fazer tudo é impossível.\\nRaiha, você devia ser um pouco mais considerada."
+    },
+    {
+      "id": 69,
+      "personagem": "Raiha",
+      "texto_en": "Alrighty.",
+      "texto_ptbr": "Tá bom."
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "Then, I'll go ask the others too.\\nTalk to you later.",
+      "texto_ptbr": "Então vou perguntar pras outras também.\\nFalo com vocês depois."
+    },
+    {
+      "id": 71,
+      "personagem": "Ichika",
+      "texto_en": "Yep, see ya.",
+      "texto_ptbr": "É, até mais."
+    }
+  ]
+}

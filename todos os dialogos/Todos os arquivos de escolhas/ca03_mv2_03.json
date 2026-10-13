@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca03_mv2_03",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "でも五月さんの言うとおりだよ。\\n三玖さんと一緒に見て回ればいいのに。",
+      "texto_en": "But, what Itsuki-san is saying is true.\\nYou should be walking around with Miku-san instead of us.",
+      "texto_ptbr": "Mas, o que a Itsuki-san tá dizendo é verdade.\\nVocê deveria estar andando com a Miku-san ao invés de com a gente."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "三玖はこういうの興味ないだろ",
+      "texto_en": "Miku isn't interested in things like this.",
+      "texto_ptbr": "A Miku não se interessa por esse tipo de coisa, né?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "わかってはいるんだが",
+      "texto_en": "Well, I know that but...",
+      "texto_ptbr": "Eu sei, mas...",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "俺だって本当はそうしたい",
+      "texto_en": "Honestly, I really wanna do that too. ",
+      "texto_ptbr": "Na verdade, eu também queria fazer isso.",
+      "selidx": 2
+    }
+  ]
+}

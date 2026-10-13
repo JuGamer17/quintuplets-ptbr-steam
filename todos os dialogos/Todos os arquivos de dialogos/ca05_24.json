@@ -1,0 +1,168 @@
+{
+  "arquivo": "ca05_24",
+  "total": 27,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, Uesugi-kun!\\nPlease wait.",
+      "texto_ptbr": "Ah, Uesugi-kun!\\nEspera, por favor."
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "What's up?\\nIs there something you wanted to check out?",
+      "texto_ptbr": "O que foi?\\nTem algo que você queria ver?"
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "I wanted to look at this shop.",
+      "texto_ptbr": "Eu queria dar uma olhada nessa loja."
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "(Is this...a glassware shop?)",
+      "texto_ptbr": "(Isso é... uma loja de artigos de vidro?)"
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Ah, is this Okinawa glassware?\\nThis is also famous.",
+      "texto_ptbr": "Ah, isso é vidro de Okinawa?\\nIsso também é famoso."
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, that's right.\\nThey also have a good selection of accessories\\nand small items.",
+      "texto_ptbr": "Sim, isso mesmo.\\nEles também têm uma boa seleção de acessórios\\ne itens pequenos."
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "I guess there's more to glass than what I had imagined. ",
+      "texto_ptbr": "Acho que tem mais coisa envolvendo vidro do que eu imaginava. "
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "(She's really absorbed...)",
+      "texto_ptbr": "(Ela tá mesmo absorta nisso...)"
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "There's something about this glassware\\nthat draws me in.\\nIt should be cold, but it feels warm somehow...",
+      "texto_ptbr": "Tem algo nesse vidro\\nque me atrai.\\nDeveria ser frio, mas de alguma forma parece quente..."
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "(Does she like Okinawa glassware?\\n Come to think of it, I'm sure there was...)",
+      "texto_ptbr": "(Será que ela gosta de vidro de Okinawa?\\n Pensando bem, tenho certeza que tinha...)"
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Hey, Itsuki,\\nhave you ever heard of Ryukyu Glass Village?",
+      "texto_ptbr": "Ei, Itsuki,\\nvocê já ouviu falar da Ryukyu Glass Village?"
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "Ah! Yes, I have!\\nI saw it when I was planning our trip.",
+      "texto_ptbr": "Ah! Sim, já ouvi!\\nEu vi quando estava planejando nossa viagem."
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "Let me look it up on my phone.",
+      "texto_ptbr": "Deixa eu procurar no celular."
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "...Ah, there it is.\\nIt seems that you can not only visit the workshops,\\nbut also experience making glass and other items.",
+      "texto_ptbr": "...Ah, achei.\\nParece que não dá só pra visitar as oficinas,\\nmas também pra experimentar fazer vidro e outros itens."
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "You can make it yourself?",
+      "texto_ptbr": "Dá pra fazer com as próprias mãos?"
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "Yeah.\\nIt's difficult to do the entire process,\\nso only some parts are available.",
+      "texto_ptbr": "É.\\nÉ difícil fazer o processo inteiro,\\nentão só algumas partes estão disponíveis."
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Hmm, making glass, huh?",
+      "texto_ptbr": "Hmm, fazer vidro, é?"
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Hey, Itsuki, if you want, would you like to go?\\nI'm also interested in Ryukyu Glass now.",
+      "texto_ptbr": "Ei, Itsuki, se você quiser, vamos lá?\\nAgora eu também tô interessado no vidro Ryukyu."
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "Yes!\\nI'd love to go.",
+      "texto_ptbr": "Sim!\\nEu adoraria ir."
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "It wasn't on our itinerary,\\nbut we don't have to stick to the plan.",
+      "texto_ptbr": "Não estava no nosso roteiro,\\nmas a gente não precisa seguir o plano à risca."
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Are we actually getting good at improvising?",
+      "texto_ptbr": "Será que a gente tá ficando bom em improvisar?"
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "Teehee!\\nThen, let's go.",
+      "texto_ptbr": "Teehee!\\nEntão, vamos."
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "Yeah.",
+      "texto_ptbr": "É."
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 25,
+      "personagem": "Itsuki",
+      "texto_en": "Sorry, everyone.\\nWe'll keep this part a secret from now on, okay?",
+      "texto_ptbr": "Desculpa, pessoal.\\nA partir de agora, vamos manter essa parte em segredo, tá bom?"
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "Because now...\\nUesugi-kun, you're all mine.",
+      "texto_ptbr": "Porque agora...\\nUesugi-kun, você é só meu."
+    }
+  ]
+}

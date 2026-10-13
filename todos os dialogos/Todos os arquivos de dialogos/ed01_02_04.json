@@ -1,0 +1,498 @@
+{
+  "arquivo": "ed01_02_04",
+  "total": 82,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Ahh... I'm so tired...",
+      "texto_ptbr": "Ahh... Que cansaço..."
+    },
+    {
+      "id": 1,
+      "personagem": "Ichika",
+      "texto_en": "I know how you feel.\\nFinally, we can take a breather.",
+      "texto_ptbr": "Eu sei como você se sente.\\nFinalmente podemos respirar um pouco."
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Yeah...",
+      "texto_ptbr": "É..."
+    },
+    {
+      "id": 3,
+      "personagem": "Raiha",
+      "texto_en": "You did good, big bro.\\nAnd you too, Ichika-san.",
+      "texto_ptbr": "Você se saiu bem, Onii-chan.\\nE você também, Ichika-san."
+    },
+    {
+      "id": 4,
+      "personagem": "Ichika",
+      "texto_en": "Thanks, Raiha-chan.",
+      "texto_ptbr": "Obrigada, Raiha-chan."
+    },
+    {
+      "id": 5,
+      "personagem": "Raiha",
+      "texto_en": "Hmmm...",
+      "texto_ptbr": "Hmmm..."
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "Hm? What's wrong?\\nDo I have a weird look or something?",
+      "texto_ptbr": "Hm? O que foi?\\nEstou com uma cara estranha ou algo assim?"
+    },
+    {
+      "id": 7,
+      "personagem": "Raiha",
+      "texto_en": "No, it's not that.",
+      "texto_ptbr": "Não, não é isso."
+    },
+    {
+      "id": 8,
+      "personagem": "Raiha",
+      "texto_en": "It's just that I still can't believe it.\\nThat my big bro is the husband\\nof Nakano Ichika-san.",
+      "texto_ptbr": "É só que eu ainda não consigo acreditar.\\nQue o meu Onii-chan é o marido\\nda Nakano Ichika-san."
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "To be honest, I feel the same way.\\nShe's so famous that everyone knows who she is.",
+      "texto_ptbr": "Pra ser sincero, eu sinto a mesma coisa.\\nEla é tão famosa que todo mundo sabe quem ela é."
+    },
+    {
+      "id": 10,
+      "personagem": "Ichika",
+      "texto_en": "Ahaha, thanks very much.",
+      "texto_ptbr": "Ahaha, muito obrigada."
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "However, when I think about it, you're \\nactually very lazy and sloppy%p-2;――",
+      "texto_ptbr": "Mas, pensando bem, você é \\nna verdade muito preguiçosa e desleixada%p-2;――"
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "Hey!",
+      "texto_ptbr": "Ei!"
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "MGGH?!",
+      "texto_ptbr": "MGGH?!"
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "Futaro!\\nDon't ruin the image of me that Raiha-chan\\nhas in her mind!",
+      "texto_ptbr": "Fuutarou!\\nNão estraga a imagem que a Raiha-chan\\ntem de mim!"
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "Why not?",
+      "texto_ptbr": "Por que não?"
+    },
+    {
+      "id": 16,
+      "personagem": "Ichika",
+      "texto_en": "I want Raiha-chan to think of me\\nas a cool big sister!",
+      "texto_ptbr": "Eu quero que a Raiha-chan me veja\\ncomo uma irmã mais velha descolada!"
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "What are you saying?\\nI don't think you can keep that up for long,\\neven if you try.",
+      "texto_ptbr": "Que papo é esse?\\nNão acho que você consiga manter isso por muito tempo,\\nmesmo se tentar."
+    },
+    {
+      "id": 18,
+      "personagem": "Ichika",
+      "texto_en": "Well I want to try my best to protect that image!",
+      "texto_ptbr": "Bom, eu quero me esforçar ao máximo pra proteger essa imagem!"
+    },
+    {
+      "id": 19,
+      "personagem": "Ichika",
+      "texto_en": "Maybe there's a slim chance we can keep it a secret?",
+      "texto_ptbr": "Talvez exista uma pequena chance de a gente manter isso em segredo?"
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Pph!\\nThen you should work on improving\\nyour fundamental lifestyle habits.",
+      "texto_ptbr": "Pph!\\nEntão você devia trabalhar em melhorar\\nos seus hábitos básicos de vida."
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "Ooh...\\nThat hurts...",
+      "texto_ptbr": "Ooh...\\nEssa doeu..."
+    },
+    {
+      "id": 22,
+      "personagem": "Raiha",
+      "texto_en": "Teehee!",
+      "texto_ptbr": "Teehee!"
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "What's wrong?",
+      "texto_ptbr": "O que foi?"
+    },
+    {
+      "id": 24,
+      "personagem": "Raiha",
+      "texto_en": "You're normally so cool, Ichika-san,\\nbut you're so cute in front of my big bro.",
+      "texto_ptbr": "Você normalmente é tão descolada, Ichika-san,\\nmas fica tão fofa na frente do meu Onii-chan."
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "C-cute...huh?\\nIs that so?",
+      "texto_ptbr": "F-fofa...é?\\nÉ mesmo?"
+    },
+    {
+      "id": 26,
+      "personagem": "Raiha",
+      "texto_en": "Yeah, you were making a really cute face just now.\\nI've never seen that side of you on TV.",
+      "texto_ptbr": "É, você estava fazendo uma carinha muito fofa agora há pouco.\\nEu nunca vi esse seu lado na TV."
+    },
+    {
+      "id": 27,
+      "personagem": "Ichika",
+      "texto_en": "Th-that's gonna make me blush.",
+      "texto_ptbr": "Assim eu vou ficar vermelha."
+    },
+    {
+      "id": 28,
+      "personagem": "Raiha",
+      "texto_en": "Big bro can even make the cool Ichika-san act cute.\\nWhat a good husband.",
+      "texto_ptbr": "O Onii-chan consegue até fazer a descolada Ichika-san agir de forma fofa.\\nQue bom marido."
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "...Well, I guess.",
+      "texto_ptbr": "...Bom, acho que sim."
+    },
+    {
+      "id": 30,
+      "personagem": "Raiha",
+      "texto_en": "Teehee!\\nWell then, I'll go return your suit.",
+      "texto_ptbr": "Teehee!\\nBem, então vou devolver o seu terno."
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Okay, thanks.",
+      "texto_ptbr": "Beleza, valeu."
+    },
+    {
+      "id": 32,
+      "personagem": "Ichika",
+      "texto_en": "Ahaha...\\nRaiha-chan has grown up so much, hasn't she?",
+      "texto_ptbr": "Ahaha...\\nA Raiha-chan cresceu tanto, né?"
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, she's in high school now.\\nShe's becoming quite a handful.",
+      "texto_ptbr": "É, ela já está no ensino médio.\\nEstá dando bastante trabalho."
+    },
+    {
+      "id": 34,
+      "personagem": "Ichika",
+      "texto_en": "Huh?\\nYou've never been able to stand up to her.",
+      "texto_ptbr": "Hã?\\nVocê nunca conseguiu peitar ela."
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "That is true.",
+      "texto_ptbr": "Isso é verdade."
+    },
+    {
+      "id": 36,
+      "personagem": "Ichika",
+      "texto_en": "But really, Raiha-chan's in high school now.\\nTime really flies.",
+      "texto_ptbr": "Mas sério, a Raiha-chan já está no ensino médio.\\nO tempo voa mesmo."
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Yeah. It's been five years.\\nWe've come a long way.",
+      "texto_ptbr": "É. Já faz cinco anos.\\nPercorremos um longo caminho."
+    },
+    {
+      "id": 38,
+      "personagem": "Ichika",
+      "texto_en": "Yeah. We got married.",
+      "texto_ptbr": "É. A gente se casou."
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "There's something very moving about it...\\nI'm really glad it ended with no issue.",
+      "texto_ptbr": "Isso é muito emocionante...\\nEstou muito feliz que tenha terminado sem problemas."
+    },
+    {
+      "id": 40,
+      "personagem": "Ichika",
+      "texto_en": "I was worried that you'd be so nervous\\nand would mess up the ceremonial kiss.",
+      "texto_ptbr": "Eu estava preocupada que você ficasse tão nervoso\\ne acabasse estragando o beijo da cerimônia."
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Well, I mean...you were nervous too, right?",
+      "texto_ptbr": "Bom, quer dizer...você também estava nervosa, né?"
+    },
+    {
+      "id": 42,
+      "personagem": "Ichika",
+      "texto_en": "Not as much as you, Futaro.\\nI'm used to being in front of people\\nbecause of my job.",
+      "texto_ptbr": "Não tanto quanto você, Fuutarou.\\nEu estou acostumada a ficar na frente das pessoas\\npor causa do meu trabalho."
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "That makes sense.",
+      "texto_ptbr": "Faz sentido."
+    },
+    {
+      "id": 44,
+      "personagem": "Ichika",
+      "texto_en": "But it wasn't your first time either, right,\\nFutaro?",
+      "texto_ptbr": "Mas não foi a sua primeira vez também, né,\\nFuutarou?"
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 46,
+      "personagem": "Ichika",
+      "texto_en": "What were you remembering just now?",
+      "texto_ptbr": "No que você estava pensando agora?"
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "...Five years ago,\\non the way back from the school festival.",
+      "texto_ptbr": "...Cinco anos atrás,\\nna volta do festival da escola."
+    },
+    {
+      "id": 48,
+      "personagem": "Ichika",
+      "texto_en": "Me too.",
+      "texto_ptbr": "Eu também."
+    },
+    {
+      "id": 49,
+      "personagem": "Ichika",
+      "texto_en": "Come to think of it,\\nI never heard the answer from you back then.",
+      "texto_ptbr": "Pensando bem,\\neu nunca ouvi a sua resposta naquela época."
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "The answer?\\nYou mean when you asked me to buy a drink?",
+      "texto_ptbr": "A resposta?\\nVocê quer dizer quando você me pediu pra comprar uma bebida?"
+    },
+    {
+      "id": 51,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, and you didn't buy anything%p-2;――",
+      "texto_ptbr": "É, e você não comprou nada%p-2;――"
+    },
+    {
+      "id": 52,
+      "personagem": "Ichika",
+      "texto_en": "You couldn't buy anything,\\nso you made me think about it\\nuntil the last day, right?",
+      "texto_ptbr": "Você não conseguiu comprar nada,\\nentão me fez pensar nisso\\naté o último dia, né?"
+    },
+    {
+      "id": 53,
+      "personagem": "Ichika",
+      "texto_en": "But, not that.\\nThe other thing you asked me at that park, remember?",
+      "texto_ptbr": "Mas não isso.\\nA outra coisa que você me perguntou naquele parque, lembra?"
+    },
+    {
+      "id": 54,
+      "personagem": "Ichika",
+      "texto_en": "Did it make you happy?",
+      "texto_ptbr": "Isso te deixou feliz?"
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "(Even though it was five years ago,\\n I can still remember it vividly.)",
+      "texto_ptbr": "(Mesmo tendo sido há cinco anos,\\n ainda consigo me lembrar com clareza.)"
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "(The sensation of that kiss in the park\\n on the way back from the school festival.\\n The feelings I had at that time%p-2;――%p;)",
+      "texto_ptbr": "(A sensação daquele beijo no parque\\n na volta do festival da escola.\\n Os sentimentos que eu tive naquela hora%p-2;――%p;)"
+    },
+    {
+      "id": 58,
+      "personagem": "Ichika",
+      "texto_en": "Hey, how did you feel?",
+      "texto_ptbr": "Ei, como você se sentiu?"
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "Well... Umm, you know.\\nIt's just, like...",
+      "texto_ptbr": "Bom... Hmm, sabe.\\nÉ que, tipo..."
+    },
+    {
+      "id": 60,
+      "personagem": "Ichika",
+      "texto_en": "Oh, I see.\\nYou were happy, right?",
+      "texto_ptbr": "Ah, entendi.\\nVocê ficou feliz, né?"
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "W-well, you haven't answered yet.",
+      "texto_ptbr": "B-bom, você ainda não respondeu."
+    },
+    {
+      "id": 62,
+      "personagem": "Ichika",
+      "texto_en": "How many years do you think we've been together?\\nEven if you don't say it,\\nI can tell from your face and attitude.",
+      "texto_ptbr": "Quantos anos você acha que a gente está junto?\\nMesmo que você não diga,\\neu percebo pelo seu rosto e pela sua atitude."
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 64,
+      "personagem": "Ichika",
+      "texto_en": "Heheh!\\nYou're a husband worth teasing. ",
+      "texto_ptbr": "Heheh!\\nVocê é um marido que vale a pena provocar. "
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "If you tease me too much,\\nI'll spill the beans about your laziness to Raiha.",
+      "texto_ptbr": "Se você me provocar demais,\\nvou contar tudo sobre a sua preguiça pra Raiha."
+    },
+    {
+      "id": 66,
+      "personagem": "Ichika",
+      "texto_en": "What?!\\nNot that!\\nMy cool big sister image will be ruined!",
+      "texto_ptbr": "O quê?!\\nIsso não!\\nA minha imagem de irmã mais velha descolada vai por água abaixo!"
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "Just kidding.\\nEither way, even if we pretend it's not true, \\nit's all going to fall apart eventually.",
+      "texto_ptbr": "Brincadeira.\\nDe qualquer jeito, mesmo que a gente finja que não é verdade, \\nisso tudo vai acabar desmoronando uma hora."
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "(She probably already knew the answer,\\n from back then...)",
+      "texto_ptbr": "(Ela provavelmente já sabia a resposta,\\n desde aquela época...)"
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "Hey, Ichika.\\nAbout that kiss we had back then.",
+      "texto_ptbr": "Ei, Ichika.\\nSobre aquele beijo que a gente deu naquela época."
+    },
+    {
+      "id": 70,
+      "personagem": "Ichika",
+      "texto_en": "What about it?",
+      "texto_ptbr": "O que tem?"
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "...I was really happy.",
+      "texto_ptbr": "...Eu fiquei muito feliz."
+    },
+    {
+      "id": 72,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, I know.",
+      "texto_ptbr": "É, eu sei."
+    },
+    {
+      "id": 73,
+      "personagem": "Futaro",
+      "texto_en": "I followed my feelings from back then\\nand that's why we're here today.",
+      "texto_ptbr": "Eu segui os meus sentimentos daquela época\\ne é por isso que estamos aqui hoje."
+    },
+    {
+      "id": 74,
+      "personagem": "Futaro",
+      "texto_en": "And through today's kiss, I was able to\\nunderstand your feelings from before.",
+      "texto_ptbr": "E através do beijo de hoje, eu consegui\\nentender os seus sentimentos de antes."
+    },
+    {
+      "id": 75,
+      "personagem": "Ichika",
+      "texto_en": "From before?",
+      "texto_ptbr": "De antes?"
+    },
+    {
+      "id": 76,
+      "personagem": "Futaro",
+      "texto_en": "The feeling of happiness.",
+      "texto_ptbr": "O sentimento de felicidade."
+    },
+    {
+      "id": 77,
+      "personagem": "Ichika",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 78,
+      "personagem": "Futaro",
+      "texto_en": "I thought that walking through life with you, Ichika,\\nwould start with this kiss.",
+      "texto_ptbr": "Eu achei que caminhar pela vida com você, Ichika,\\niria começar com este beijo."
+    },
+    {
+      "id": 79,
+      "personagem": "Futaro",
+      "texto_en": "Beyond the happiness I felt at that moment, I felt pure bliss. ",
+      "texto_ptbr": "Além da felicidade que senti naquele momento, senti puro êxtase. "
+    },
+    {
+      "id": 80,
+      "personagem": "Ichika",
+      "texto_en": "Yes.\\nI'm very happy right now, too.",
+      "texto_ptbr": "Sim.\\nEu também estou muito feliz agora."
+    },
+    {
+      "id": 81,
+      "personagem": "Ichika",
+      "texto_en": "And, we'll be happy together forever.\\nAs long as I'm with you, Futaro%p-2;――",
+      "texto_ptbr": "E vamos ser felizes juntos para sempre.\\nContanto que eu esteja com você, Fuutarou%p-2;――"
+    }
+  ]
+}

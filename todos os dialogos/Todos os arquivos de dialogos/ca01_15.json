@@ -1,0 +1,186 @@
+{
+  "arquivo": "ca01_15",
+  "total": 30,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Ichika",
+      "texto_en": "Running like this on a trip makes \\nthe scenery feels fresh and fun!",
+      "texto_ptbr": "Correr assim numa viagem faz \\na paisagem parecer mais viva e divertida!"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Well, I can't, really enjoy, the scenery\\nwhen I'm...trying my best...to keep up with you.",
+      "texto_ptbr": "Bom, eu não consigo...curtir muito...a paisagem\\nquando tô...me matando...pra acompanhar você."
+    },
+    {
+      "id": 2,
+      "personagem": "Ichika",
+      "texto_en": "Aww, what a waste then.\\nWe're running through the streets of Okinawa,\\nlet's at least enjoy the fresh air.",
+      "texto_ptbr": "Ah, que pena então.\\nA gente tá correndo pelas ruas de Okinawa,\\npelo menos aproveita o ar fresco."
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "If that's...the case...can you...slow down a bit more?\\nI don't...have running gear...like you do.",
+      "texto_ptbr": "Se é assim...então...pode...diminuir um pouco mais?\\nEu não tenho...roupa de corrida...igual você."
+    },
+    {
+      "id": 4,
+      "personagem": "Ichika",
+      "texto_en": "Okay, okay.\\nI'll slow down a bit.",
+      "texto_ptbr": "Tá, tá.\\nVou diminuir um pouco."
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "(What a relief...)",
+      "texto_ptbr": "(Ainda bem...)"
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Haah, haah...\\nHey...don't you think...it's a bit strange...to go for a run\\nduring a trip? Most people...don't do that.",
+      "texto_ptbr": "Haah, haah...\\nEi...você não acha...um pouco estranho...sair pra correr\\nnum passeio? A maioria das pessoas...não faz isso."
+    },
+    {
+      "id": 7,
+      "personagem": "Ichika",
+      "texto_en": "That may be true?\\nBut...",
+      "texto_ptbr": "Talvez seja verdade?\\nMas..."
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "But?",
+      "texto_ptbr": "Mas?"
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "Well, I was thinking that in the future,\\nmaybe this could become a regular thing we do?",
+      "texto_ptbr": "Bom, tava pensando que no futuro,\\nquem sabe isso podia virar uma coisa que a gente faz sempre?"
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Huh? What do you mean?",
+      "texto_ptbr": "Hã? O que você quer dizer com isso?"
+    },
+    {
+      "id": 11,
+      "personagem": "Ichika",
+      "texto_en": "You don't have to worry about it, Futaro-kun!\\nNot right now, at least.",
+      "texto_ptbr": "Não precisa se preocupar com isso, Futaro-kun!\\nPelo menos não agora."
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "(What the hell...?)",
+      "texto_ptbr": "(Que foi isso...?)"
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "But anyways, it's pretty empty now\\ncompared to yesterday afternoon,\\nwhen there were so many people around.",
+      "texto_ptbr": "Mas enfim, tá bem vazio agora\\ncomparado à tarde de ontem,\\nque tava cheio de gente."
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Well, it is early in the morning.",
+      "texto_ptbr": "Bom, ainda é cedo de manhã."
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "Most shops are still closed...",
+      "texto_ptbr": "A maioria das lojas ainda tá fechada..."
+    },
+    {
+      "id": 16,
+      "personagem": "Ichika",
+      "texto_en": "Oh, that's right!\\nWe have to search for souvenirs again today.\\nWe couldn't find any yesterday.",
+      "texto_ptbr": "Ah, é verdade!\\nA gente precisa procurar lembraninhas de novo hoje.\\nOntem não achamos nada."
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Yeah...",
+      "texto_ptbr": "É..."
+    },
+    {
+      "id": 18,
+      "personagem": "Ichika",
+      "texto_en": "But today we're going to Ocean Expo Park,\\nso it might be hard to spend a lot of time\\nlooking around shops.",
+      "texto_ptbr": "Mas hoje a gente vai ao Ocean Expo Park,\\nentão talvez seja difícil ter muito tempo\\npara ficar fuçando nas lojas."
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Okay...",
+      "texto_ptbr": "É..."
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "(Uuugh... Ichika has so much energy to talk...\\n Meanwhile, I'm over here about to cry \\n from my lack of physical strength.)",
+      "texto_ptbr": "(Aaarg... Ichika tem tanta energia pra falar...\\n Enquanto isso, eu tô aqui quase chorando\\n de tanta falta de preparo físico.)"
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "I don't want to do this every day,\\nbut I think it would be better for me \\nto go for a run every once in a while.",
+      "texto_ptbr": "Não quero fazer isso todo dia,\\nmas acho que seria bom pra mim \\ncorrer de vez em quando."
+    },
+    {
+      "id": 22,
+      "personagem": "Ichika",
+      "texto_en": "Really?\\nThen occasionally, you can go for a run with me.",
+      "texto_ptbr": "É mesmo?\\nEntão de vez em quando você pode correr comigo."
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "Well, if it's just occasionally.\\nI want to improve my stamina a bit too.",
+      "texto_ptbr": "Bom, se for só de vez em quando.\\nQuero melhorar meu fôlego também."
+    },
+    {
+      "id": 24,
+      "personagem": "Ichika",
+      "texto_en": "Definitely!\\nBut I'll cry in shock if I hear you say that \\nyou're skipping a day cause you're tired, okay?",
+      "texto_ptbr": "Com certeza!\\nMas vou chorar de susto se ouvir você dizer que \\nquer faltar num dia porque tá cansado, tá bom?"
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "I won't say that.",
+      "texto_ptbr": "Não vou falar isso."
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "(But seriously... What kind of situation is\\n she imagining? I don't really get it, but Ichika\\n looks like she's having fun, so I guess it's fine.)",
+      "texto_ptbr": "(Mas sério... Que tipo de situação ela tá\\n imaginando? Não entendo muito bem, mas Ichika\\n parece estar se divertindo, então tudo bem.)"
+    },
+    {
+      "id": 27,
+      "personagem": "Ichika",
+      "texto_en": "Alright! I'm starting to feel pumped up,\\nso should we run a bit more than planned?",
+      "texto_ptbr": "Ótimo! Tô começando a ficar animada,\\nque tal a gente correr um pouco mais do que o planejado?"
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "I have to train you so we can run together more often.",
+      "texto_ptbr": "Preciso te treinar pra gente poder correr junto com mais frequência."
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "H-hey, wait...a minute!\\nI can't just...suddenly run long distances!\\nI need my energy for sightseeing!",
+      "texto_ptbr": "E-ei, espera...um segundo!\\nNão dá pra...de repente correr distâncias longas!\\nPreciso de energia pro passeio!"
+    }
+  ]
+}

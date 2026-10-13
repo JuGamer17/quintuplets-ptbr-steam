@@ -1,0 +1,312 @@
+{
+  "arquivo": "ca02_23",
+  "total": 51,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*",
+      "texto_ptbr": "*suspiro*"
+    },
+    {
+      "id": 1,
+      "personagem": "Yotsuba",
+      "texto_en": "Hey, Itsuki.\\nUesugi-san seems off, don't you think?",
+      "texto_ptbr": "Ei, Itsuki.\\nO Uesugi-san tá meio estranho, não tá?"
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, I've been worried about it too.",
+      "texto_ptbr": "É, eu também tô preocupada com isso."
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "Could it be because of our advice...?",
+      "texto_ptbr": "Será que foi por causa do nosso conselho...?"
+    },
+    {
+      "id": 4,
+      "personagem": "Raiha",
+      "texto_en": "It's like he's pushing too hard isn't it?\\nHe even invited Nino-san to shop earlier.",
+      "texto_ptbr": "Parece que ele tá forçando demais, né?\\nAté convidou a Nino-san pra fazer compras mais cedo."
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "Maybe he made a mistake while shopping\\nand that's why he's feeling down.",
+      "texto_ptbr": "Talvez tenha feito alguma besteira enquanto fazia compras\\ne por isso tá pra baixo."
+    },
+    {
+      "id": 6,
+      "personagem": "Yotsuba",
+      "texto_en": "Nino seemed a bit off at that time too.",
+      "texto_ptbr": "A Nino também parecia meio estranha naquela hora."
+    },
+    {
+      "id": 7,
+      "personagem": "Raiha",
+      "texto_en": "I wonder if big bro and Nino are okay.",
+      "texto_ptbr": "Será que o Onii-chan e a Nino estão bem."
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "(Futaro is acting strange.\\n He's been sighing since then.)",
+      "texto_ptbr": "(Fuutarou tá agindo estranho.\\n Ele fica suspirando desde então.)"
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "(Futaro wouldn't be the type to keep dwelling\\n on something like failing at making a shisa...)",
+      "texto_ptbr": "(Fuutarou não é do tipo que fica ruminando\\n algo como ter errado ao fazer um shisa...)"
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "(I wonder if I made a mistake when I suggested \\n making a shisa?)",
+      "texto_ptbr": "(Será que eu errei quando sugeri\\n fazer o shisa?)"
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "(Shisa protect one's house in pairs\\n That's why I wanted to make them with Futaro.)",
+      "texto_ptbr": "(Os shisa protegem a casa em par.\\n Por isso eu queria fazer com o Fuutarou.)"
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "(I thought that if we put our creations\\n side by side, they would also protect us.)",
+      "texto_ptbr": "(Pensei que se colocássemos os nossos\\n lado a lado, eles também nos protegeriam.)"
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "(He looks so gloomy...\\n I might be seeing this side of Futaro\\n for the first time.)",
+      "texto_ptbr": "(Ele tá com uma cara tão abatida...\\n Talvez seja a primeira vez\\n que vejo esse lado do Fuutarou.)"
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "(I'm wondering what happened?\\n He was being so proactive earlier,\\n and seemed to be having fun shopping.)",
+      "texto_ptbr": "(Fico me perguntando o que aconteceu?\\n Ele estava tão proativo antes,\\n parecia estar se divertindo nas compras.)"
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "(Ugh, I can't figure this out on my own!\\n This isn't how I do things!)",
+      "texto_ptbr": "(Ugh, não consigo resolver isso sozinha!\\n Não é assim que eu faço as coisas!)"
+    },
+    {
+      "id": 18,
+      "personagem": "Nino",
+      "texto_en": "Futaro.",
+      "texto_ptbr": "Fuutarou."
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "What is it?",
+      "texto_ptbr": "O que foi?"
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "Is there something on your mind?",
+      "texto_ptbr": "Tem alguma coisa te preocupando?"
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "No, nothing really%p-2;――",
+      "texto_ptbr": "Não, nada de mais%p-2;――"
+    },
+    {
+      "id": 22,
+      "personagem": "Nino",
+      "texto_en": "Don't lie to me.",
+      "texto_ptbr": "Não me mente."
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 24,
+      "personagem": "Nino",
+      "texto_en": "You're clearly not yourself.\\nIt's as if your head is in the clouds.",
+      "texto_ptbr": "Claramente você não tá bem.\\nParece que sua cabeça tá nas nuvens."
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "Tell me. What happened?",
+      "texto_ptbr": "Me conta. O que aconteceu?"
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "It's really nothing.\\nI'm sorry for worrying you.",
+      "texto_ptbr": "Realmente não é nada.\\nDesculpa por te preocupar."
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 28,
+      "personagem": "Nino",
+      "texto_en": "Fine.\\nIf that's the case, I have an idea as well.",
+      "texto_ptbr": "Tudo bem.\\nNesse caso, eu também tenho uma ideia."
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "Everyone, I need to talk to you.",
+      "texto_ptbr": "Pessoal, preciso falar uma coisa."
+    },
+    {
+      "id": 31,
+      "personagem": "Ichika",
+      "texto_en": "What? What's wrong, all of a sudden?",
+      "texto_ptbr": "O quê? O que foi, de repente assim?"
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "I need to talk to Futaro, alone, from now.",
+      "texto_ptbr": "Preciso falar com o Fuutarou, a sós, agora."
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "AH?!",
+      "texto_ptbr": "HÃ?!"
+    },
+    {
+      "id": 34,
+      "personagem": "Nino",
+      "texto_en": "We're gonna split up and do our own thing\\nfor the time being. That's fine, right?",
+      "texto_ptbr": "A gente vai se separar e fazer cada um a sua coisa\\npor enquanto. Tudo bem, né?"
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Hey, Nino?!",
+      "texto_ptbr": "Ei, Nino?!"
+    },
+    {
+      "id": 36,
+      "personagem": "Nino",
+      "texto_en": "Futaro, hush.\\nThis is necessary for us right now.",
+      "texto_ptbr": "Fuutarou, fica quieto.\\nIsso é necessário pra nós agora."
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "(Yes, if we don't talk about this now,\\n we might just grow apart.)",
+      "texto_ptbr": "(É, se a gente não conversar sobre isso agora,\\n a gente pode acabar se afastando.)"
+    },
+    {
+      "id": 38,
+      "personagem": "Nino",
+      "texto_en": "(I don't want that. I DON'T!)",
+      "texto_ptbr": "(Eu não quero isso. NÃO QUERO!)"
+    },
+    {
+      "id": 39,
+      "personagem": "Miku",
+      "texto_en": "I'm fine with that.",
+      "texto_ptbr": "Eu tô bem com isso."
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "Miku?!",
+      "texto_ptbr": "Miku?!"
+    },
+    {
+      "id": 41,
+      "personagem": "Miku",
+      "texto_en": "I mean, Futaro, you've been acting strange\\nsince earlier. If Nino says she needs to talk to you,\\nthen it must be true.",
+      "texto_ptbr": "Quer dizer, Fuutarou, você tá agindo estranho\\ndesde antes. Se a Nino diz que precisa falar com você,\\ndeve ser verdade mesmo."
+    },
+    {
+      "id": 42,
+      "personagem": "Ichika",
+      "texto_en": "I agree with Miku.\\nLet's leave this to Nino%p-2;――",
+      "texto_ptbr": "Concordo com a Miku.\\nVamos deixar isso pra Nino%p-2;――"
+    },
+    {
+      "id": 43,
+      "personagem": "Ichika",
+      "texto_en": "At this point, it's something that ONLY Nino can handle.\\nI don't mind either.",
+      "texto_ptbr": "Nesse ponto, é algo que SÓ a Nino pode resolver.\\nEu também não me importo."
+    },
+    {
+      "id": 44,
+      "personagem": "Itsuki",
+      "texto_en": "Me neither.",
+      "texto_ptbr": "Eu também não."
+    },
+    {
+      "id": 45,
+      "personagem": "Yotsuba",
+      "texto_en": "Me too!",
+      "texto_ptbr": "Eu também!"
+    },
+    {
+      "id": 46,
+      "personagem": "Raiha",
+      "texto_en": "Please take care of my big bro, Nino-san.",
+      "texto_ptbr": "Por favor, cuida bem do meu Onii-chan, Nino-san."
+    },
+    {
+      "id": 47,
+      "personagem": "Nino",
+      "texto_en": "Thanks, everyone.",
+      "texto_ptbr": "Obrigada, pessoal."
+    },
+    {
+      "id": 48,
+      "personagem": "Nino",
+      "texto_en": "(Now, all that's left is to talk to Futaro.)",
+      "texto_ptbr": "(Agora, só falta conversar com o Fuutarou.)"
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 50,
+      "personagem": "Nino",
+      "texto_en": "(I'm definitely going to make you talk.\\n Prepare yourself, Futaro!)",
+      "texto_ptbr": "(Eu definitivamente vou fazer você falar.\\n Se prepara, Fuutarou!)"
+    }
+  ]
+}

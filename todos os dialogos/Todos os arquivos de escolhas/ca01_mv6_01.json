@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca01_mv6_01",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "旅行は楽しむものだから当然と言えば当然だけど、\\nそれにしても、ね。\\nここまで来るとちょっと心配だわ。",
+      "texto_en": "Traveling is meant to be enjoyable,\\nso of course it's natural, but still.\\nAt this moment, I'm a little worried.",
+      "texto_ptbr": "Viajar é pra ser divertido,\\nentão claro que é natural, mas mesmo assim.\\nNesse momento, estou um pouco preocupada."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "雰囲気に当てられてるのかもな",
+      "texto_en": "Maybe it's just the atmosphere getting to her.",
+      "texto_ptbr": "Talvez seja o clima que tá contagiando ela.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "はしゃぐのもいいもんだろ",
+      "texto_en": "It's good to let loose.",
+      "texto_ptbr": "Se soltar de vez em quando é bom.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "確かにちょっと変か？",
+      "texto_en": "Yeah, she is being a little weird, isn't she?",
+      "texto_ptbr": "É, ela tá meio estranha mesmo, né?",
+      "selidx": 2
+    }
+  ]
+}

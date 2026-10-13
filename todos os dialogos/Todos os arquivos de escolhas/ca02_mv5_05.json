@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca02_mv5_05",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "せっかくだから、\\n神様に風太郎との幸せを願っておいたわ。",
+      "texto_en": "I took this opportunity\\nto pray to the gods for our happiness, Futaro.",
+      "texto_ptbr": "Eu aproveitei a oportunidade\\npra rezar aos deuses pela nossa felicidade, Fuutarou."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ここでか？",
+      "texto_en": "Here?",
+      "texto_ptbr": "Aqui?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "俺も願うか",
+      "texto_en": "Guess I'll pray too.",
+      "texto_ptbr": "Acho que vou rezar também.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "願わなくても大丈夫だ",
+      "texto_en": "You don't need to do that.",
+      "texto_ptbr": "Não precisa rezar.",
+      "selidx": 2
+    }
+  ]
+}

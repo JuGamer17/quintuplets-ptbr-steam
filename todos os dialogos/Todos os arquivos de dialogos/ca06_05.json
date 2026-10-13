@@ -1,0 +1,78 @@
+{
+  "arquivo": "ca06_05",
+  "total": 12,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Nino",
+      "texto_en": "Is it okay to stop here?",
+      "texto_ptbr": "Tá tudo bem parar aqui?"
+    },
+    {
+      "id": 1,
+      "personagem": "Miku",
+      "texto_en": "Yes.\\nFutaro isn't following us.",
+      "texto_ptbr": "Sim.\nO Fuutarou não tá nos seguindo."
+    },
+    {
+      "id": 2,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san had a strange expression.",
+      "texto_ptbr": "O Uesugi-san tava com uma expressão estranha."
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "But we mustn't explain the reason why we ran off.",
+      "texto_ptbr": "Mas não podemos explicar o motivo de termos saído correndo."
+    },
+    {
+      "id": 4,
+      "personagem": "Ichika",
+      "texto_en": "So? What are you going to tell me?",
+      "texto_ptbr": "E então? O que vocês vão me contar?"
+    },
+    {
+      "id": 5,
+      "personagem": "Miku",
+      "texto_en": "Ichika, you've made up your mind.",
+      "texto_ptbr": "Ichika, você já se decidiu."
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "Yep, that's right.",
+      "texto_ptbr": "É, isso mesmo."
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "My lord, you were slow to decide.",
+      "texto_ptbr": "Ah, meu lorde, você demorou pra se decidir, hein."
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "You're right.\\nEven though I'm late...",
+      "texto_ptbr": "Você tem razão.\nMesmo estando atrasada..."
+    },
+    {
+      "id": 10,
+      "personagem": "Ichika",
+      "texto_en": "I also don't want to keep these feelings I have\\nas a lie.",
+      "texto_ptbr": "Eu também não quero continuar escondendo\nesses sentimentos que eu tenho, feito uma mentira."
+    },
+    {
+      "id": 11,
+      "personagem": "Ichika",
+      "texto_en": "Everyone said that you'd all be my rivals. Right?",
+      "texto_ptbr": "Todo mundo disse que vocês seriam minhas rivais. Não foi?"
+    }
+  ]
+}

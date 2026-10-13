@@ -1,0 +1,55 @@
+{
+  "arquivo": "ca03_05",
+  "total": 5,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*map",
+      "texto_jp": "dummy",
+      "texto_en": "{UNTRANSLATED}dummy",
+      "texto_ptbr": "",
+      "selidx": 0
+    },
+    {
+      "id": 1,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "（……ダメだ。\\n　どうにも三玖の反応が薄い気がする）",
+      "texto_en": "(...It's no use.\\n No matter what I say, Miku's not really reacting.)",
+      "texto_ptbr": "(...Não adianta.\n Não importa o que eu diga, a Miku não está realmente reagindo.)"
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "こういうのは興味ないか",
+      "texto_en": "You're not interested in this stuff, eh?",
+      "texto_ptbr": "Você não se interessa por esse tipo de coisa, né?",
+      "selidx": 0
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "すまん、こんなウンチク話ばかりで",
+      "texto_en": "Sorry about the boring trivia questions.",
+      "texto_ptbr": "Desculpa por só ficar soltando essas curiosidades.",
+      "selidx": 1
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "なにか質問あるか？",
+      "texto_en": "Do you have any questions?",
+      "texto_ptbr": "Tem alguma pergunta?",
+      "selidx": 2
+    }
+  ]
+}

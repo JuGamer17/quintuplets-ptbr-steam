@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca06_mv2_02",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "……さすがに、\\n１人で過ごすつもりはないようですね。",
+      "texto_en": "...Seems like you didn't plan on\\nspending time alone.",
+      "texto_ptbr": "...Parece que você não pretendia\\npassar o tempo sozinho."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "そうか、その手があったか",
+      "texto_en": "So, you played that hand, huh?",
+      "texto_ptbr": "Ah, então tinha essa saída, hein?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "どうしようが俺の勝手だろ",
+      "texto_en": "What I do is my own business, right?",
+      "texto_ptbr": "O que eu faço é problema meu, não é?",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "さすがに、そこまでじゃねぇよ",
+      "texto_en": "That's going a bit too far, don't you think?",
+      "texto_ptbr": "Não é pra tanto, pô.",
+      "selidx": 2
+    }
+  ]
+}

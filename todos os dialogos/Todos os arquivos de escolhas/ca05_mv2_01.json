@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca05_mv2_01",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "お揃い、いいですよね！\\nど、どうしましょう、買っちゃいますか？",
+      "texto_en": "Matching, huh? That's really nice, isn't it?\\nW-what should we do? Should we buy them?",
+      "texto_ptbr": "Combinando, é? Isso é bem legal, né?\\nO-o que a gente faz? Vamos comprar?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ちょっと可愛すぎる……",
+      "texto_en": "That's a little too cute for me..",
+      "texto_ptbr": "Muito fofo pra mim...",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "色違いでもいいかもな",
+      "texto_en": "We could get different colors, eh.",
+      "texto_ptbr": "Podemos pegar cores diferentes, né.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "必要ないからいいだろ",
+      "texto_en": "We don't really need them, right?",
+      "texto_ptbr": "Não precisamos deles, então tá bom, né?",
+      "selidx": 2
+    }
+  ]
+}

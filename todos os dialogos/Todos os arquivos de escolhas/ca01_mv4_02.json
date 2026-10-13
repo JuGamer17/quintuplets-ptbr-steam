@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca01_mv4_02",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ねえ、フー君はどこか行きたいとこないの？\\nせっかくなんだから教えてよ。",
+      "texto_en": "Hey, Fu-kun, is there anywhere you want to go?\\nCome on, don't waste this opportunity.",
+      "texto_ptbr": "Ei, Fu-kun, tem algum lugar que você quer ir?\\nVamos, não desperdiça essa oportunidade."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "特にない",
+      "texto_en": "I can't think of anywhere in particular.",
+      "texto_ptbr": "Nenhum lugar em particular.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "エメラルドビーチは気になるな",
+      "texto_en": "I'm interested in Emerald Beach.",
+      "texto_ptbr": "Tô curioso sobre a Emerald Beach.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "当てもなく散歩もありかもな",
+      "texto_en": "Maybe taking a stroll could be good too.",
+      "texto_ptbr": "Dar uma volta sem rumo também pode ser uma boa.",
+      "selidx": 2
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "arquivo": "ca02_12",
+  "total": 5,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*map",
+      "texto_jp": "dummy",
+      "texto_en": "{UNTRANSLATED}dummy",
+      "texto_ptbr": "",
+      "selidx": 0
+    },
+    {
+      "id": 1,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ねえ風太郎。\\n腕枕、してくれない？",
+      "texto_en": "Hey, Futaro.\\nCan you lend me your arm as a pillow?",
+      "texto_ptbr": "Ei, Futaro.\\nPode me emprestar seu braço como travesseiro?"
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "さすがにちょっと",
+      "texto_en": "Ah, that's a bit tough.",
+      "texto_ptbr": "Aí já é um pouco demais.",
+      "selidx": 0
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "お、俺の腕は硬いから止めとけ！",
+      "texto_en": "M-my arms are too boney! Don't do it.",
+      "texto_ptbr": "O-os meus braços são duros! Desiste!",
+      "selidx": 1
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "わかった、こっちに来い",
+      "texto_en": "All right, come here.",
+      "texto_ptbr": "Tá bom, vem cá.",
+      "selidx": 2
+    }
+  ]
+}

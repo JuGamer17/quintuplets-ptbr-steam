@@ -1,0 +1,144 @@
+{
+  "arquivo": "ed06_01_05",
+  "total": 23,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(This is the place she specified.\\n Somewhere around here%p-2;――%p;)",
+      "texto_ptbr": "(Este é o lugar que ela indicou.\\n Em algum lugar por aqui%p-2;――%p;)"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(...Found her!)",
+      "texto_ptbr": "(...Achei ela!)"
+    },
+    {
+      "id": 2,
+      "personagem": "???",
+      "texto_en": "...Who am I?",
+      "texto_ptbr": "...Quem sou eu?"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Ichika, yeah?",
+      "texto_ptbr": "Ichika, né?"
+    },
+    {
+      "id": 4,
+      "personagem": "???",
+      "texto_en": "So, that's your answer, is it.",
+      "texto_ptbr": "Então essa é a sua resposta, não é."
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "(...What?\\n No way, was I wrong?!)",
+      "texto_ptbr": "(...O quê?\\n Não pode ser, eu errei?!)"
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Nino, it's you.",
+      "texto_ptbr": "Nino, é você."
+    },
+    {
+      "id": 7,
+      "personagem": "???",
+      "texto_en": "So, that's your answer, is it.",
+      "texto_ptbr": "Então essa é a sua resposta, não é."
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "(...What?\\n No way, was I wrong?!)",
+      "texto_ptbr": "(...O quê?\\n Não pode ser, eu errei?!)"
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "...Miku.",
+      "texto_ptbr": "...Miku."
+    },
+    {
+      "id": 10,
+      "personagem": "???",
+      "texto_en": "So, that's your answer, is it.",
+      "texto_ptbr": "Então essa é a sua resposta, não é."
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "(...What?\\n No way, was I wrong?!)",
+      "texto_ptbr": "(...O quê?\\n Não pode ser, eu errei?!)"
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "It's you, Yotsuba.",
+      "texto_ptbr": "É você, Yotsuba."
+    },
+    {
+      "id": 13,
+      "personagem": "???",
+      "texto_en": "So, that's your answer, is it.",
+      "texto_ptbr": "Então essa é a sua resposta, não é."
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "(...What?\\n No way, was I wrong?!)",
+      "texto_ptbr": "(...O quê?\\n Não pode ser, eu errei?!)"
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "Wh-who...are you then?",
+      "texto_ptbr": "Q-quem... é você, então?"
+    },
+    {
+      "id": 16,
+      "personagem": "???",
+      "texto_en": "Do I need to answer?",
+      "texto_ptbr": "Preciso responder?"
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 18,
+      "personagem": "???",
+      "texto_en": "My business here is done.\\nI will contact the other sisters myself.",
+      "texto_ptbr": "Meu assunto aqui está encerrado.\\nEu mesma entrarei em contato com as outras irmãs."
+    },
+    {
+      "id": 19,
+      "personagem": "???",
+      "texto_en": "Of course, I will keep the name you mentioned earlier\\na secret from everyone, so don't worry.",
+      "texto_ptbr": "Claro, manterei em segredo de todas o nome\\nque você mencionou antes, então não se preocupe."
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "O-okay...",
+      "texto_ptbr": "T-tá bom..."
+    },
+    {
+      "id": 21,
+      "personagem": "???",
+      "texto_en": "Well then, I'll head back to the hotel first.\\nExcuse me.",
+      "texto_ptbr": "Bem, então voltarei ao hotel primeiro.\\nCom licença."
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    }
+  ]
+}

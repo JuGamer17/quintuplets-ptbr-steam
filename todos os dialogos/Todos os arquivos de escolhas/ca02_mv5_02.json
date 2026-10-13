@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca02_mv5_02",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ああ……。\\n新生活に向けて色々やることがあるし\\n忙しいよな、お互い。",
+      "texto_en": "Yeah...\\nThere are things we need to do for our new life,\\nand we're both busy, aren't we?",
+      "texto_ptbr": "É verdade...\\nTem coisas que precisamos fazer pra nossa nova vida,\\ne nós dois estamos ocupados, né?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "今年は無理だな",
+      "texto_en": "It's impossible this year.",
+      "texto_ptbr": "Esse ano não dá.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "少しならできるかもしれない",
+      "texto_en": "We might be able to see a little bit of it.",
+      "texto_ptbr": "Talvez dê pra ver um pouquinho.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "来年は見に行こうぜ",
+      "texto_en": "Let's go see cherry blossoms next year.",
+      "texto_ptbr": "Ano que vem vamos ver.",
+      "selidx": 2
+    }
+  ]
+}

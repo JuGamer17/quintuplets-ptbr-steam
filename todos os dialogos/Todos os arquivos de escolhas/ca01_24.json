@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca01_24",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "（行ってほしい一花と心配なこいつら……。\\n　どっちの気持ちもわかるが、平行線だな）",
+      "texto_en": "(I can understand both their feelings,\\n but we're at a standstill.)",
+      "texto_ptbr": "(Entendo o sentimento dos dois lados,\\n mas chegamos a um impasse.)"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "お前が心配なんだろ",
+      "texto_en": "They're worried about you.",
+      "texto_ptbr": "Elas estão preocupadas com você.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ここに全員いても意味はない",
+      "texto_en": "There's no point in everyone being here.",
+      "texto_ptbr": "Não faz sentido todo mundo ficar aqui.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "一花は俺に任せてくれ",
+      "texto_en": "Leave Ichika to me.",
+      "texto_ptbr": "Deixa a Ichika comigo.",
+      "selidx": 2
+    }
+  ]
+}

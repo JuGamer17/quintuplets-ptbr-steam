@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca06_13",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "おい……。\\n冗談じゃないってんなら……。",
+      "texto_en": "Hey...\\nIf you're not joking, then what's going on?",
+      "texto_ptbr": "Ei...\\nSe você não está brincando, então o que está acontecendo?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "なんだよ、この悪夢は……",
+      "texto_en": "What's with this nightmare...",
+      "texto_ptbr": "Que pesadelo é esse...",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "なんのつもりだよ",
+      "texto_en": "What're your intentions?",
+      "texto_ptbr": "O que você pretende?",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "そうか、これが試練ってわけか",
+      "texto_en": "I see. So this is the trial.",
+      "texto_ptbr": "Entendi, então essa é a provação.",
+      "selidx": 2
+    }
+  ]
+}

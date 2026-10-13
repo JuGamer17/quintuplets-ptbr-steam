@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca05_mv4_02",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "みんなが別々の場所で暮らす。\\nそんな未来が、いつかは来る……。",
+      "texto_en": "Everyone will live in different places.\\nThat future will end up coming, someday...",
+      "texto_ptbr": "Todo mundo vai morar em lugares diferentes.\\nEsse futuro vai acabar chegando, algum dia..."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "寂しいのか？",
+      "texto_en": "And you'll feel lonely?",
+      "texto_ptbr": "Você vai se sentir sozinha?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "いつかはそういう日も来るさ",
+      "texto_en": "Someday, that day will come.",
+      "texto_ptbr": "Um dia esse dia vai chegar.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "それでも変わらないものもある",
+      "texto_en": "Yet, there are things that'll never change.",
+      "texto_ptbr": "Mesmo assim, tem coisas que não mudam.",
+      "selidx": 2
+    }
+  ]
+}

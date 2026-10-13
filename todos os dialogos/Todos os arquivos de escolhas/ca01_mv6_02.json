@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca01_mv6_02",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "うーん……。",
+      "texto_en": "Hmmm...",
+      "texto_ptbr": "Hmmm..."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "そうだぞ、三玖",
+      "texto_en": "That's true, Miku.",
+      "texto_ptbr": "É verdade, Miku.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "初心者用ならいけるか",
+      "texto_en": "If it's a tour for beginners, maybe.",
+      "texto_ptbr": "Se for um passeio pra iniciantes, talvez dê.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "よく調べてるな",
+      "texto_en": "You really looked into this.",
+      "texto_ptbr": "Você pesquisou bastante, hein.",
+      "selidx": 2
+    }
+  ]
+}

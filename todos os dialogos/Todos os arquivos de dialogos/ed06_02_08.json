@@ -1,0 +1,468 @@
+{
+  "arquivo": "ed06_02_08",
+  "total": 77,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "???",
+      "texto_en": "Uuuesuuugi-saaan!",
+      "texto_ptbr": "Uuuesuuugi-saaan!"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Yo-Yotsuba.\\nIt's been a while.",
+      "texto_ptbr": "Yo-Yotsuba.\\nFaz tempo."
+    },
+    {
+      "id": 2,
+      "personagem": "Yotsuba",
+      "texto_en": "You seem to be doing well, Uesugi-san!\\nI'm so glad!",
+      "texto_ptbr": "Você parece estar bem, Uesugi-san!\\nQue bom!"
+    },
+    {
+      "id": 3,
+      "personagem": "Yotsuba",
+      "texto_en": "So, what do you think of our \\ntown after being away for so long?",
+      "texto_ptbr": "Então, o que você acha da nossa \\ncidade depois de ficar tanto tempo longe?"
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Well, it feels like the familiar sights\\nstill haven't really changed.",
+      "texto_ptbr": "Bom, parece que as paisagens familiares\\nainda não mudaram muito."
+    },
+    {
+      "id": 5,
+      "personagem": "Yotsuba",
+      "texto_en": "Heeheehee.\\nI thought you suddenly came here\\nbecause you were homesick or something.",
+      "texto_ptbr": "Hihihi.\\nAchei que você tinha vindo de repente\\nporque estava com saudade de casa ou algo assim."
+    },
+    {
+      "id": 6,
+      "personagem": "Yotsuba",
+      "texto_en": "Living alone in Tokyo must be lonely, huh?",
+      "texto_ptbr": "Morar sozinho em Tóquio deve ser solitário, né?"
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Well, it can be lonely.\\nThat's why I came to see you.",
+      "texto_ptbr": "Bom, pode ser solitário.\\nPor isso vim te ver."
+    },
+    {
+      "id": 8,
+      "personagem": "Yotsuba",
+      "texto_en": "!...",
+      "texto_ptbr": "!..."
+    },
+    {
+      "id": 9,
+      "personagem": "Yotsuba",
+      "texto_en": "N-now!\\nIt's forbidden to say such things out of the blue!",
+      "texto_ptbr": "A-agora!\\nÉ proibido falar essas coisas do nada!"
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "...You're right.\\nWhat am I saying?",
+      "texto_ptbr": "...Você tem razão.\\nO que eu estou dizendo?"
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "So, what are we going to do today?\\nWe promised to go on a date, didn't we?",
+      "texto_ptbr": "Então, o que vamos fazer hoje?\\nA gente prometeu ir num encontro, não foi?"
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "Hmm, let's see.\\nFor now, let's take it easy and go with the flow.",
+      "texto_ptbr": "Hmm, vejamos.\\nPor enquanto, vamos com calma e ir na onda."
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Alright.\\nThere's no need for me to be so formal with you.",
+      "texto_ptbr": "Certo.\\nNão preciso ser tão formal com você."
+    },
+    {
+      "id": 14,
+      "personagem": "Yotsuba",
+      "texto_en": "Yes!\\nJust being with you is enjoyable.",
+      "texto_ptbr": "Sim!\\nSó de estar com você já é divertido."
+    },
+    {
+      "id": 15,
+      "personagem": "Yotsuba",
+      "texto_en": "We can take a leisurely stroll,\\nand if we come across an interesting shop,\\nwe can check it out.",
+      "texto_ptbr": "Podemos dar uma volta tranquila,\\ne se encontrarmos uma loja interessante,\\ndamos uma olhada."
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "And to wrap it up,\\nhow about finishing on the swings at the park?",
+      "texto_ptbr": "E pra fechar,\\nque tal terminar nos balanços do parque?"
+    },
+    {
+      "id": 17,
+      "personagem": "Yotsuba",
+      "texto_en": "That sounds good.\\nIt's decided!",
+      "texto_ptbr": "Parece ótimo.\\nEstá decidido!"
+    },
+    {
+      "id": 18,
+      "personagem": "Yotsuba",
+      "texto_en": "Hey, everyone, we're baaack!\\nI've brought Uesugi-san!",
+      "texto_ptbr": "Ei, pessoal, voltamos!\\nTrouxe o Uesugi-san!"
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Sorry for dropping in.",
+      "texto_ptbr": "Desculpa aparecer assim."
+    },
+    {
+      "id": 20,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh, wait a minute?\\nNo one's here, and there's no response.\\nDid everyone go out?",
+      "texto_ptbr": "Hã, espera aí?\\nNão tem ninguém aqui, e ninguém responde.\\nSerá que todo mundo saiu?"
+    },
+    {
+      "id": 21,
+      "personagem": "Yotsuba",
+      "texto_en": "Even though Uesugi-san came to visit,\\nI wonder where they all went.",
+      "texto_ptbr": "Mesmo com o Uesugi-san vindo visitar,\\nonde será que todo mundo foi?"
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "(Ah...\\n Maybe they're being considerate of us?)",
+      "texto_ptbr": "(Ah...\\n Será que estão sendo atenciosas com a gente?)"
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "If no one's around...\\nThis is our chance, Uesugi-san!",
+      "texto_ptbr": "Se não tem ninguém por perto...\\nEssa é a nossa chance, Uesugi-san!"
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Wh-what?",
+      "texto_ptbr": "O-o quê?"
+    },
+    {
+      "id": 25,
+      "personagem": "Yotsuba",
+      "texto_en": "Let's try on the clothes\\nwe bought earlier.",
+      "texto_ptbr": "Vamos experimentar as roupas\\nque compramos mais cedo."
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "Huh? Here?",
+      "texto_ptbr": "Hã? Aqui?"
+    },
+    {
+      "id": 27,
+      "personagem": "Yotsuba",
+      "texto_en": "There's no need to be embarrassed.\\nRight now,\\nit's just the two of us who will see it.",
+      "texto_ptbr": "Não precisa ter vergonha.\\nAgora,\\nsomos só nós dois que vamos ver."
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "Well, that's true, but...",
+      "texto_ptbr": "Bom, isso é verdade, mas..."
+    },
+    {
+      "id": 29,
+      "personagem": "Yotsuba",
+      "texto_en": "We can't miss this chance!",
+      "texto_ptbr": "Não podemos perder essa chance!"
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "(Indeed, I can't imagine what the \\n others would say if they were to see that. )",
+      "texto_ptbr": "(De fato, não consigo imaginar o que as \\n outras diriam se vissem isso. )"
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Alright, let me try it on.",
+      "texto_ptbr": "Tá bom, vou experimentar."
+    },
+    {
+      "id": 32,
+      "personagem": "Yotsuba",
+      "texto_en": "Hooray!\\nThen I'll change in my room.\\nAnd you, Uesugi-san...",
+      "texto_ptbr": "Oba!\\nEntão eu me troco no meu quarto.\\nE você, Uesugi-san..."
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "I'm fine here.\\nIt's basically just a sweater anyway.",
+      "texto_ptbr": "Eu fico bem aqui.\\nÉ basicamente só um suéter, afinal."
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Ooohh...",
+      "texto_ptbr": "Ooohh..."
+    },
+    {
+      "id": 35,
+      "personagem": "Yotsuba",
+      "texto_en": "It looks good, doesn't it?\\nUesugi-san, it suits you very well.",
+      "texto_ptbr": "Ficou bom, né?\\nUesugi-san, combina muito com você."
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "But, well...",
+      "texto_ptbr": "Mas, bem..."
+    },
+    {
+      "id": 37,
+      "personagem": "Yotsuba",
+      "texto_en": "...Could it be that you don't like it?",
+      "texto_ptbr": "...Será que você não gostou?"
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "No, no!\\nIt's not that I don't like it or anything!",
+      "texto_ptbr": "Não, não!\\nNão é que eu não tenha gostado nem nada!"
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "It's just...\\nHow should I put this...\\nIt's way more embarrassing than I imagined.",
+      "texto_ptbr": "É só que...\\nComo dizer...\\nÉ muito mais vergonhoso do que eu imaginava."
+    },
+    {
+      "id": 40,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahaha.\\nIt's just matching outfits, though.",
+      "texto_ptbr": "Ahaha.\\nSão só roupas combinando, né."
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "I suppose it does feel special since it's with you. ",
+      "texto_ptbr": "Acho que dá uma sensação especial por ser com você. "
+    },
+    {
+      "id": 42,
+      "personagem": "Yotsuba",
+      "texto_en": "W-when you say it like that, \\nit makes me feel embarrassed too!",
+      "texto_ptbr": "Q-quando você fala assim, \\naté eu fico com vergonha!"
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "I wonder what the others would say if they saw us...",
+      "texto_ptbr": "Me pergunto o que as outras diriam se nos vissem..."
+    },
+    {
+      "id": 44,
+      "personagem": "Yotsuba",
+      "texto_en": "Hmm, it's a complex feeling,\\nlike wanting to be seen...\\nand not wanting to be seen at the same time.",
+      "texto_ptbr": "Hmm, é um sentimento complexo,\\ntipo querer ser vista...\\ne não querer ser vista ao mesmo tempo."
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "Complex, huh?\\nBut it was you who suggested buying them, right?",
+      "texto_ptbr": "Complexo, é?\\nMas foi você que sugeriu comprar, não foi?"
+    },
+    {
+      "id": 46,
+      "personagem": "Yotsuba",
+      "texto_en": "Yes.\\nThe store clerk recommended them,\\nand I couldn't help but buy them.",
+      "texto_ptbr": "Sim.\\nA vendedora recomendou,\\ne eu não resisti e comprei."
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "You made a quick decision\\nwithout even checking the price.",
+      "texto_ptbr": "Você tomou uma decisão rápida\\nsem nem olhar o preço."
+    },
+    {
+      "id": 48,
+      "personagem": "Yotsuba",
+      "texto_en": "That's...",
+      "texto_ptbr": "Isso é..."
+    },
+    {
+      "id": 49,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san, when the clerk asked\\nif you were my boyfriend,\\nand you said, 'yes'%p-2;――",
+      "texto_ptbr": "Uesugi-san, quando a vendedora perguntou\\nse você era meu namorado,\\ne você disse 'sim'%p-2;――"
+    },
+    {
+      "id": 50,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, I just got so happy,\\nand decided without thinking.",
+      "texto_ptbr": "Ah, eu fiquei tão feliz\\nque decidi sem pensar."
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "I-is that the reason?",
+      "texto_ptbr": "É-é esse o motivo?"
+    },
+    {
+      "id": 52,
+      "personagem": "Yotsuba",
+      "texto_en": "For you, Uesugi-san, it might be just that,\\nbut for me, it feels like a miracle...",
+      "texto_ptbr": "Pra você, Uesugi-san, pode ser só isso,\\nmas pra mim parece um milagre..."
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "A-a miracle?! \\nThat's a bit of an overreaction.\\nI mean, it's true that I'm...your...",
+      "texto_ptbr": "U-um milagre?! \\nIsso é um pouco exagerado.\\nQuer dizer, é verdade que eu sou...o seu..."
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "......Your b-boyfriend.",
+      "texto_ptbr": "......O seu n-namorado."
+    },
+    {
+      "id": 55,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san, are you blushing when you say that?",
+      "texto_ptbr": "Uesugi-san, você está corando ao dizer isso?"
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "I can't believe the day has come\\nwhen I can say such a thing...",
+      "texto_ptbr": "Não acredito que chegou o dia\\nem que eu posso dizer uma coisa dessas..."
+    },
+    {
+      "id": 57,
+      "personagem": "Yotsuba",
+      "texto_en": "With that reaction, if you were to wear this outside,\\nyou might collapse from embarrassment, Uesugi-san.",
+      "texto_ptbr": "Com essa reação, se você usasse isso na rua,\\npoderia desmaiar de vergonha, Uesugi-san."
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "I won't collapse...\\nbut it does require quite a bit of courage...",
+      "texto_ptbr": "Eu não desmaiaria...\\nmas exige bastante coragem..."
+    },
+    {
+      "id": 59,
+      "personagem": "Yotsuba",
+      "texto_en": "Then let's set these outfits aside\\nuntil the perfect moment.",
+      "texto_ptbr": "Então vamos guardar essas roupas\\naté o momento perfeito."
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "What kind of moment?\\nAnyway, let's change before they find us.",
+      "texto_ptbr": "Que tipo de momento?\\nEnfim, vamos trocar antes que nos encontrem."
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "Whew...",
+      "texto_ptbr": "Ufa..."
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "(...Even if I don't have\\n many opportunities to wear it,\\n I have to treasure it.)",
+      "texto_ptbr": "(...Mesmo que eu não tenha\\n muitas oportunidades de usar,\\n preciso guardar com carinho.)"
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "(Hmm? There's still a bag with clothes in it.\\n These aren't mine...)",
+      "texto_ptbr": "(Hm? Ainda tem uma sacola com roupas aqui.\\n Essas não são minhas...)"
+    },
+    {
+      "id": 64,
+      "personagem": "Yotsuba",
+      "texto_en": "Sorry to keep you waiting!\\nI'm done changing.",
+      "texto_ptbr": "Desculpa a demora!\\nTerminei de me trocar."
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "Hey, Yotsuba, did you buy more clothes?",
+      "texto_ptbr": "Ei, Yotsuba, você comprou mais roupas?"
+    },
+    {
+      "id": 66,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah! That's%p-2;――%p;!",
+      "texto_ptbr": "Ah! Isso é%p-2;――%p;!"
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "An apron?\\nWhen did you buy something like this?",
+      "texto_ptbr": "Um avental?\\nQuando você comprou uma coisa dessas?"
+    },
+    {
+      "id": 68,
+      "personagem": "Yotsuba",
+      "texto_en": "Ooohh, you saw it...\\nI wanted to keep it a secret...",
+      "texto_ptbr": "Ooohh, você viu...\\nEu queria manter em segredo..."
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "A secret, huh?\\nWhat are you scheming?",
+      "texto_ptbr": "Um segredo, é?\\nO que você está tramando?"
+    },
+    {
+      "id": 70,
+      "personagem": "Yotsuba",
+      "texto_en": "Well... On my next day off,\\nI thought I'd come over\\nto your place to hang out, Uesugi-san.",
+      "texto_ptbr": "Bem... No meu próximo dia de folga,\\npensei em ir na sua casa\\npra passar um tempo, Uesugi-san."
+    },
+    {
+      "id": 71,
+      "personagem": "Yotsuba",
+      "texto_en": "And then, I was planning to cook for you.",
+      "texto_ptbr": "E aí eu estava planejando cozinhar pra você."
+    },
+    {
+      "id": 72,
+      "personagem": "Yotsuba",
+      "texto_en": "This apron...is for that occasion.",
+      "texto_ptbr": "Esse avental...é pra essa ocasião."
+    },
+    {
+      "id": 73,
+      "personagem": "Futaro",
+      "texto_en": "...I-is that so?",
+      "texto_ptbr": "...É-é mesmo?"
+    },
+    {
+      "id": 74,
+      "personagem": "Yotsuba",
+      "texto_en": "Did I mess up?",
+      "texto_ptbr": "Será que errei?"
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "Not at all.\\nIf you want to come, I don't mind.\\nI'll be looking forward to it.",
+      "texto_ptbr": "De jeito nenhum.\\nSe você quiser vir, eu não me importo.\\nVou ficar esperando ansioso."
+    },
+    {
+      "id": 76,
+      "personagem": "Yotsuba",
+      "texto_en": "...Alright.\\nPlease wait for me then.",
+      "texto_ptbr": "...Certo.\\nEntão me espere."
+    }
+  ]
+}

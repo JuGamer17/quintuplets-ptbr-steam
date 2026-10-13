@@ -1,0 +1,408 @@
+{
+  "arquivo": "ca01_mv1_03",
+  "total": 67,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "You guys are searching for souvenirs here, huh?",
+      "texto_ptbr": "Vocês estão procurando lembranças aqui, hein?"
+    },
+    {
+      "id": 1,
+      "personagem": "Raiha",
+      "texto_en": "Oh, big bro!\\nDid you find something good?",
+      "texto_ptbr": "Ah, Onii-chan!\\nEncontrou algo bom?"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Hey, hey, slow down, 'kay.\\nI haven't even found any fitting souvenirs yet.",
+      "texto_ptbr": "Ei, ei, calma aí.\\nEu nem achei nenhuma lembrança boa ainda."
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "Raiha-chan is really enthusiastic.\\nIt seems like we might find something good.",
+      "texto_ptbr": "A Raiha-chan está super animada.\\nParece que a gente vai achar algo bom."
+    },
+    {
+      "id": 4,
+      "personagem": "Raiha",
+      "texto_en": "There are a lot of food shops around here, huh.",
+      "texto_ptbr": "Tem muita loja de comida por aqui, né."
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, yes.\\nI was curious, how many different flavors\\nof chinsuko biscuits are there?",
+      "texto_ptbr": "Ah, é verdade.\\nEu estava curiosa, quantos sabores diferentes\\nde biscoito chinsuko existem?"
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "What now, all of a sudden?",
+      "texto_ptbr": "O que foi isso, do nada assim?"
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "Well, the shop we went into earlier\\nhad an astonishing variety.\\nRight, Raiha-chan?",
+      "texto_ptbr": "Bem, a loja em que entramos antes\\ntinha uma variedade impressionante.\\nNé, Raiha-chan?"
+    },
+    {
+      "id": 8,
+      "personagem": "Raiha",
+      "texto_en": "Yeah, there were too many to count.",
+      "texto_ptbr": "É, eram tantos que nem dava pra contar."
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "Plain, salty, vanilla, brown sugar...\\nThere were even some covered with chocolate.",
+      "texto_ptbr": "Original, salgado, baunilha, açúcar mascavo...\\nTinha até uns cobertos de chocolate."
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "There was also a flavor with Okinawan peppers.\\nI wonder how spicy they are.",
+      "texto_ptbr": "Tinha também um sabor com pimentas de Okinawa.\\nSerá que são apimentados?"
+    },
+    {
+      "id": 11,
+      "personagem": "Raiha",
+      "texto_en": "I might not be able to eat that.\\nIf I'm getting it as a souvenir,\\nI prefer something sweet.",
+      "texto_ptbr": "Acho que não consigo comer esse.\\nSe for pegar como lembrança,\\nprefiro algo doce."
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "If you want to get an Okinawan sweet, besides chinsuko,\\nthe sweet potato tarts are also famous.\\nIt seems like there are many varieties of those too.",
+      "texto_ptbr": "Se quer um doce de Okinawa, além do chinsuko,\\nos tartes de batata-doce também são famosos.\\nParece que tem muitas variedades desses também."
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "We're looking for something memorable, right?\\nAre we really going to go with food?",
+      "texto_ptbr": "A gente está procurando algo que dure como lembrança, né?\\nVai ser mesmo comida?"
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "We won't do that.\\nIt'll just disappear after we eat it, you know?",
+      "texto_ptbr": "Claro que não.\\nSomeria depois de comer, né?"
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "Good, at least you're sensible about that.",
+      "texto_ptbr": "Ainda bem, pelo menos nesse ponto você é sensata."
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "What do you take me for, Uesugi-kun?!",
+      "texto_ptbr": "O que você acha que eu sou, Uesugi-kun?!"
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "It's just that every souvenir shop sells food,\\nso it's more noticeable.",
+      "texto_ptbr": "É que toda loja de lembranças vende comida,\\nentão chama mais atenção."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Well, that's true.\\nIt's a classic souvenir, after all.",
+      "texto_ptbr": "Bem, é verdade.\\nAfinal, é uma lembrança clássica."
+    },
+    {
+      "id": 19,
+      "personagem": "Raiha",
+      "texto_en": "A matching memento for all of us%p-2;――\\n%p;I wonder what would work?",
+      "texto_ptbr": "Uma lembrança combinando pra todo mundo%p-2;――\\n%p;Será que tem algo que sirva?"
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Maybe something practical, huh?",
+      "texto_ptbr": "Talvez algo prático, né?"
+    },
+    {
+      "id": 21,
+      "personagem": "Itsuki",
+      "texto_en": "If it's practical,\\nthen we'll use it every day, right?",
+      "texto_ptbr": "Se for prático,\\na gente vai usar todo dia, né?"
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "Then, if we use it too much,\\nit might break.",
+      "texto_ptbr": "Aí, se usar demais,\\npode quebrar."
+    },
+    {
+      "id": 23,
+      "personagem": "Raiha",
+      "texto_en": "Right, that would be sad if it broke.",
+      "texto_ptbr": "É, seria triste se quebrasse."
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Considering that...\\nmaybe some sort of decoration would be better?",
+      "texto_ptbr": "Levando isso em conta...\\ntalvez algum tipo de enfeite seja melhor?"
+    },
+    {
+      "id": 25,
+      "personagem": "Raiha",
+      "texto_en": "Speaking of which, in the shop we went into earlier,\\nthere were small shisa figurines, right?\\nMaybe something like that would be good.",
+      "texto_ptbr": "Por falar nisso, na loja em que entramos antes\\ntinham estatuetinhas de shisa, né?\\nTalvez algo assim seja bom."
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "That might be a good idea.\\nThose shisa had expressive and cute faces.",
+      "texto_ptbr": "Pode ser uma boa ideia.\\nAqueles shisa tinham expressões carismáticas e fofas."
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "The expressions were different?",
+      "texto_ptbr": "As expressões eram diferentes?"
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, they were all unique.\\nEach one might have been handmade.",
+      "texto_ptbr": "Sim, cada um era único.\\nPode ser que fossem todos feitos à mão."
+    },
+    {
+      "id": 29,
+      "personagem": "Raiha",
+      "texto_en": "It would be nice to take home the ones we like.",
+      "texto_ptbr": "Seria legal levar pra casa os que a gente mais gosta."
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "Well, we've talked about a lot of things,\\nbut we don't have to decide on anything right now.\\nWe can just keep it in the back of our mind.",
+      "texto_ptbr": "Bom, falamos sobre muita coisa,\\nmas não precisamos decidir nada agora.\\nPodemos só guardar as ideias na cabeça."
+    },
+    {
+      "id": 31,
+      "personagem": "Itsuki",
+      "texto_en": "We're going to different places\\ntomorrow and the day after.\\nWe might stumble upon something good.",
+      "texto_ptbr": "A gente vai a lugares diferentes\\namanhã e depois.\\nPode ser que a gente tropece em algo bom."
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "It's hard to decide once you start thinking about it.\\nHonestly, I hadn't thought it through\\nwhen I brought it up. Sorry about that...",
+      "texto_ptbr": "Fica difícil decidir quando a gente começa a pensar.\\nPra falar a verdade, não tinha pensado direito\\nquando trouxe o assunto. Desculpa por isso..."
+    },
+    {
+      "id": 33,
+      "personagem": "Itsuki",
+      "texto_en": "There's no need for you to apologize, Uesugi-kun.\\nThe idea of getting souvenirs from our trip\\nis a wonderful suggestion.",
+      "texto_ptbr": "Não precisa pedir desculpa, Uesugi-kun.\\nA ideia de pegar lembranças da nossa viagem\\né uma sugestão maravilhosa."
+    },
+    {
+      "id": 34,
+      "personagem": "Raiha",
+      "texto_en": "Yeah, that's right, big bro!\\nLet's praise ourselves for being able to make thoughtful \\nsuggestions!",
+      "texto_ptbr": "É, é isso mesmo, Onii-chan!\\nVamos nos elogiar por conseguir dar sugestões tão bem pensadas!"
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "O-okay.",
+      "texto_ptbr": "T-tá bom."
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "This is so much fun! It'll become a great memory too.",
+      "texto_ptbr": "Que divertido! Vai virar uma ótima memória também."
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Ah, you're right.",
+      "texto_ptbr": "Ah, é verdade."
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "Well, we've talked about a lot of things,\\nbut we don't have to decide on anything right now.\\nWe can just keep it in the back of our mind.",
+      "texto_ptbr": "Bom, falamos sobre muita coisa,\\nmas não precisamos decidir nada agora.\\nPodemos só guardar as ideias na cabeça."
+    },
+    {
+      "id": 39,
+      "personagem": "Itsuki",
+      "texto_en": "We're going to different places\\ntomorrow and the day after.\\nWe might stumble upon something good.",
+      "texto_ptbr": "A gente vai a lugares diferentes\\namanhã e depois.\\nPode ser que a gente tropece em algo bom."
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "It'll remind us of our trip each time we use it.\\nIsn't that better than just keeping it on display?",
+      "texto_ptbr": "Vai nos lembrar da viagem toda vez que usar.\\nNão é melhor do que só deixar de enfeite?"
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "So, everyday items can trigger your memory, huh?",
+      "texto_ptbr": "Então, itens do cotidiano podem despertar memórias, né?"
+    },
+    {
+      "id": 42,
+      "personagem": "Raiha",
+      "texto_en": "Good point, big bro.",
+      "texto_ptbr": "Bom ponto, Onii-chan."
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "Well, I can't deny the possibility\\nof accidentally breaking the souvenir.\\nWe just have to be careful.",
+      "texto_ptbr": "Bom, não posso negar a possibilidade\\nde quebrar a lembrança sem querer.\\nA gente só precisa ter cuidado."
+    },
+    {
+      "id": 44,
+      "personagem": "Itsuki",
+      "texto_en": "That's right,\\nlet's try to choose things that won't break easily.",
+      "texto_ptbr": "É verdade,\\nvamos tentar escolher coisas que não quebrem fácil."
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "I still can't think of what to get, though.",
+      "texto_ptbr": "Ainda não consigo pensar no que pegar, porém."
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Haha, the bar has been raised, right?",
+      "texto_ptbr": "Haha, o nível de exigência foi lá pra cima, né?"
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "Well, we've talked about a lot of things,\\nbut we don't have to decide on anything right now.\\nWe can just keep it in the back of our mind.",
+      "texto_ptbr": "Bom, falamos sobre muita coisa,\\nmas não precisamos decidir nada agora.\\nPodemos só guardar as ideias na cabeça."
+    },
+    {
+      "id": 48,
+      "personagem": "Itsuki",
+      "texto_en": "We're going to different places\\ntomorrow and the day after.\\nWe might stumble upon something good.",
+      "texto_ptbr": "A gente vai a lugares diferentes\\namanhã e depois.\\nPode ser que a gente tropece em algo bom."
+    },
+    {
+      "id": 49,
+      "personagem": "Raiha",
+      "texto_en": "That's right, our trip is far from over.",
+      "texto_ptbr": "É isso, nossa viagem está longe de terminar."
+    },
+    {
+      "id": 50,
+      "personagem": "Raiha",
+      "texto_en": "It really feels like a dream,\\ndoesn't it? Is it really possible to have this much fun?",
+      "texto_ptbr": "Parece mesmo um sonho,\\nnão é? Será que é possível se divertir tanto assim?"
+    },
+    {
+      "id": 51,
+      "personagem": "Itsuki",
+      "texto_en": "It's all good.\\nAfter all, we invited you because we wanted to see\\nyou happy, Raiha-chan.",
+      "texto_ptbr": "Fica tranquila.\\nAfinal, te convidamos porque queríamos ver\\nvocê feliz, Raiha-chan."
+    },
+    {
+      "id": 52,
+      "personagem": "Raiha",
+      "texto_en": "Ehehe, thank you very much.",
+      "texto_ptbr": "Ehehehe, muito obrigada."
+    },
+    {
+      "id": 53,
+      "personagem": "Itsuki",
+      "texto_en": "Besides, Raiha-chan is like family to us.\\nRight, Uesugi-kun?",
+      "texto_ptbr": "Além disso, a Raiha-chan é como família pra gente.\\nNé, Uesugi-kun?"
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "W-well, um...",
+      "texto_ptbr": "B-bem, é..."
+    },
+    {
+      "id": 55,
+      "personagem": "Raiha",
+      "texto_en": "That's right, when Ichika-san and big bro\\nget married, we'll be family anyway.",
+      "texto_ptbr": "É isso mesmo, quando a Ichika-san e o Onii-chan\\ncasarem, a gente vai ser família mesmo."
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "R-Raiha?!\\nDon't say that so bluntly,\\nit's bad for my heart!",
+      "texto_ptbr": "R-Raiha?!\\nNão fala assim tão na lata,\\nisso é ruim pro meu coração!"
+    },
+    {
+      "id": 57,
+      "personagem": "Raiha",
+      "texto_en": "You know, it would be great if you proposed\\nduring this trip. With the Okinawa sea in the background. \\nSaying to her 'Please marry me!' How lovely that'll sound.",
+      "texto_ptbr": "Sabe, seria incrível se você pedisse em casamento\\ndurante essa viagem. Com o mar de Okinawa ao fundo. \\nFalando pra ela 'Por favor, case comigo!' Que lindo vai soar."
+    },
+    {
+      "id": 58,
+      "personagem": "Itsuki",
+      "texto_en": "I see, that's a good idea.",
+      "texto_ptbr": "Entendo, é uma boa ideia."
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "Even you, Itsuki... Don't tease me...",
+      "texto_ptbr": "Até você, Itsuki... Não fica me zoando..."
+    },
+    {
+      "id": 60,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, I didn't intend to tease you.",
+      "texto_ptbr": "Ah, não era minha intenção te zoar."
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 62,
+      "personagem": "Itsuki",
+      "texto_en": "If you plan on taking away our dear big sister,\\nthen be prepared for the consequences.",
+      "texto_ptbr": "Se você planeja levar embora nossa querida irmã mais velha,\\nentão esteja preparado para as consequências."
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 64,
+      "personagem": "Itsuki",
+      "texto_en": "J-just kidding. I'm sorry for bringing up\\nsuch a strange topic out of nowhere!",
+      "texto_ptbr": "T-tô brincando. Desculpa por trazer\\num assunto tão estranho do nada!"
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "No, it's not strange.\\nI understand your feelings.",
+      "texto_ptbr": "Não, não é estranho.\\nEntendo seus sentimentos."
+    },
+    {
+      "id": 66,
+      "personagem": "Itsuki",
+      "texto_en": "Yes.\\nPlease be strong, Uesugi-kun.",
+      "texto_ptbr": "Sim.\\nSeja forte, Uesugi-kun."
+    }
+  ]
+}

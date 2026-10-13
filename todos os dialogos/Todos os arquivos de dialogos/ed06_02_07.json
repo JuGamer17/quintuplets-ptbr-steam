@@ -1,0 +1,384 @@
+{
+  "arquivo": "ed06_02_07",
+  "total": 63,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(This is the place she specified.\\n Somewhere around here%p-2;――%p;)",
+      "texto_ptbr": "(Este é o lugar que ela indicou.\\n Em algum lugar por aqui%p-2;――%p;)"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(...Found her!)",
+      "texto_ptbr": "(...Achei ela!)"
+    },
+    {
+      "id": 2,
+      "personagem": "???",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Yo-Yotsuba.",
+      "texto_ptbr": "Yo-Yotsuba."
+    },
+    {
+      "id": 4,
+      "personagem": "???",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "You can hear me, right?\\nYotsuba, I came to see you.",
+      "texto_ptbr": "Você está me ouvindo, né?\\nYotsuba, eu vim te ver."
+    },
+    {
+      "id": 6,
+      "personagem": "???",
+      "texto_en": "Too bad, huh, you've got the wrong person.",
+      "texto_ptbr": "Que pena, hein, você pegou a pessoa errada."
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "No, I haven't.",
+      "texto_ptbr": "Não peguei, não."
+    },
+    {
+      "id": 8,
+      "personagem": "???",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "Being silent is useless.\\nI'll say it as many times as it takes.\\nI like%p-2;――",
+      "texto_ptbr": "Ficar em silêncio não adianta.\\nVou dizer quantas vezes for preciso.\\nEu gosto%p-2;――"
+    },
+    {
+      "id": 10,
+      "personagem": "Yotsuba",
+      "texto_en": "Sorry!\\nI need a timeout!",
+      "texto_ptbr": "Desculpa!\\nPreciso de um tempo!"
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Eh...?",
+      "texto_ptbr": "Hã...?"
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "W-wait a minute!\\nWhy are you running away?!",
+      "texto_ptbr": "E-espera um pouco!\\nPor que você está fugindo?!"
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Huff, huff... *wheeze*",
+      "texto_ptbr": "Ufa, ufa... *arf*"
+    },
+    {
+      "id": 14,
+      "personagem": "Yotsuba",
+      "texto_en": "A-are you okay?",
+      "texto_ptbr": "V-você está bem?"
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "Huff... Huff...\\nI finally...cornered you...",
+      "texto_ptbr": "Ufa... Ufa...\\nFinalmente...te encurralei..."
+    },
+    {
+      "id": 16,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*",
+      "texto_ptbr": "*suspiro*"
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "What the...?\\nYou weren't actually running away, were you?",
+      "texto_ptbr": "Que isso...?\\nVocê não estava fugindo de verdade, estava?"
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh...",
+      "texto_ptbr": "Hã..."
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "If you were serious,\\nI would have lost sight of you a long time ago.",
+      "texto_ptbr": "Se você estivesse falando sério,\\neu já teria perdido você de vista faz tempo."
+    },
+    {
+      "id": 21,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahaha...",
+      "texto_ptbr": "Ahaha..."
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Damn it...\\nWhy did you run away?",
+      "texto_ptbr": "Droga...\\nPor que você fugiu?"
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 24,
+      "personagem": "Yotsuba",
+      "texto_en": "Um, I didn't really run away.\\nI got a little confused, that's all.",
+      "texto_ptbr": "Hum, eu não fugi de verdade.\\nÉ que fiquei um pouco confusa, só isso."
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "But still, why run, then...?",
+      "texto_ptbr": "Mas, mesmo assim, por que correr, então...?"
+    },
+    {
+      "id": 26,
+      "personagem": "Yotsuba",
+      "texto_en": "I thought I was mentally prepared.\\nBut...",
+      "texto_ptbr": "Achei que estava preparada mentalmente.\\nMas..."
+    },
+    {
+      "id": 27,
+      "personagem": "Yotsuba",
+      "texto_en": "When you called my name, Uesugi-san,\\nI suddenly couldn't stay still anymore.",
+      "texto_ptbr": "Quando você disse o meu nome, Uesugi-san,\\nde repente eu não consegui mais ficar parada."
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "Put yourself in my shoes, who was left behind.",
+      "texto_ptbr": "Se coloque no lugar de quem ficou pra trás."
+    },
+    {
+      "id": 29,
+      "personagem": "Yotsuba",
+      "texto_en": "I'm really sorry.",
+      "texto_ptbr": "Desculpa mesmo."
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "Well then, let me say it again.",
+      "texto_ptbr": "Bom, então deixa eu falar de novo."
+    },
+    {
+      "id": 31,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Yotsuba.\\nI like you.",
+      "texto_ptbr": "Yotsuba.\\nEu gosto de você."
+    },
+    {
+      "id": 33,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 34,
+      "personagem": "Yotsuba",
+      "texto_en": "Why, me? I mean?",
+      "texto_ptbr": "Por que eu? Quer dizer?"
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 36,
+      "personagem": "Yotsuba",
+      "texto_en": "Because there might be someone more \\nsuitable than me, Uesugi-san.",
+      "texto_ptbr": "Porque pode ser que tenha alguém mais \\nadequada do que eu, Uesugi-san."
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "It's not about being more suitable or anything.",
+      "texto_ptbr": "Não se trata de ser mais adequada nem nada disso."
+    },
+    {
+      "id": 38,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "I feel more at ease when I'm with you.",
+      "texto_ptbr": "Eu me sinto mais à vontade quando estou com você."
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "Even when I struggled as a private tutor,\\nand during challenging school events...\\nI always felt like that.",
+      "texto_ptbr": "Mesmo quando eu tinha dificuldade como tutor particular,\\ne durante eventos escolares difíceis...\\nEu sempre me senti assim."
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Even during this trip,\\nyou've been constantly concerned about me,\\nputting yourself aside.",
+      "texto_ptbr": "Mesmo durante esta viagem,\\nvocê esteve o tempo todo preocupada comigo,\\nse deixando de lado."
+    },
+    {
+      "id": 42,
+      "personagem": "Yotsuba",
+      "texto_en": "That's because...I wanted to support you,\\nand everyone else who was trying their best...",
+      "texto_ptbr": "Isso é porque...eu queria te apoiar,\\ne todo mundo que estava se esforçando ao máximo..."
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "I'm here because you always supported me. ",
+      "texto_ptbr": "Eu estou aqui porque você sempre me apoiou. "
+    },
+    {
+      "id": 44,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "However, this is my personal opinion.\\nSo%p-2;――",
+      "texto_ptbr": "No entanto, essa é a minha opinião pessoal.\\nEntão%p-2;――"
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Yotsuba, tell me how you feel about me.",
+      "texto_ptbr": "Yotsuba, me diga o que você sente por mim."
+    },
+    {
+      "id": 47,
+      "personagem": "Yotsuba",
+      "texto_en": "...Uesugi-san,\\nare you honestly okay with someone like me?",
+      "texto_ptbr": "...Uesugi-san,\\nvocê está mesmo tudo bem com alguém como eu?"
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "Don't answer a question with another question.\\nBesides...you can probably imagine\\nhow I would answer, right?",
+      "texto_ptbr": "Não responda uma pergunta com outra pergunta.\\nAlém disso...você provavelmente imagina\\ncomo eu responderia, né?"
+    },
+    {
+      "id": 49,
+      "personagem": "Yotsuba",
+      "texto_en": "I can more or less guess...",
+      "texto_ptbr": "Mais ou menos consigo adivinhar..."
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "...Well, that's good to hear.",
+      "texto_ptbr": "...Bom, é bom saber disso."
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "But from my perspective,\\nI can't imagine how you would answer.",
+      "texto_ptbr": "Mas, da minha perspectiva,\\nnão consigo imaginar como você responderia."
+    },
+    {
+      "id": 52,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "However, there are words I want to hear from you.",
+      "texto_ptbr": "No entanto, existem palavras que eu quero ouvir de você."
+    },
+    {
+      "id": 54,
+      "personagem": "Yotsuba",
+      "texto_en": "What do you want me to say?",
+      "texto_ptbr": "O que você quer que eu diga?"
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "Well, that's obvious%p-2;――",
+      "texto_ptbr": "Bom, isso é óbvio%p-2;――"
+    },
+    {
+      "id": 56,
+      "personagem": "Yotsuba",
+      "texto_en": "'I also like you,' or something?",
+      "texto_ptbr": "'Eu também gosto de você', ou algo assim?"
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "...Really?!",
+      "texto_ptbr": "...Sério?!"
+    },
+    {
+      "id": 58,
+      "personagem": "Yotsuba",
+      "texto_en": "My feelings are different, though.",
+      "texto_ptbr": "Mas os meus sentimentos são diferentes."
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "Huh...",
+      "texto_ptbr": "Hã..."
+    },
+    {
+      "id": 60,
+      "personagem": "Yotsuba",
+      "texto_en": "I've always liked you.",
+      "texto_ptbr": "Eu sempre gostei de você."
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "!...",
+      "texto_ptbr": "!..."
+    },
+    {
+      "id": 62,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san.\\nI love you.\\nI have always, aaalwaaays...loved you.",
+      "texto_ptbr": "Uesugi-san.\\nEu te amo.\\nEu sempre, seeempre...te amei."
+    }
+  ]
+}

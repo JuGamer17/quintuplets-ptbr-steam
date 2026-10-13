@@ -1,0 +1,75 @@
+{
+  "arquivo": "ca05_mv1_01",
+  "total": 7,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "どうです？\\n食べたくありませんか、私の料理。",
+      "texto_en": "What do you think?\\nWould you like to try my cooking?",
+      "texto_ptbr": "O que você acha?\\nVocê gostaria de experimentar a minha comida?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ちゃんと食える物を作ってくれよ？",
+      "texto_en": "Make sure you cook up something edible, yeah?",
+      "texto_ptbr": "Faz uma comida comestível, hein?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "五月の手料理か、食べてみたいな",
+      "texto_en": "I'd like to try your cooking, Itsuki.",
+      "texto_ptbr": "A comida da Itsuki... quero experimentar.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "だったら俺も作るぞ",
+      "texto_en": "In that case, I'll cook too.",
+      "texto_ptbr": "Então eu também vou cozinhar.",
+      "selidx": 2
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "お土産屋:一花:らいは",
+      "texto_en": "Souvenir Shop: Ichika/Raiha",
+      "texto_ptbr": "Loja de Souvenirs: Ichika/Raiha",
+      "selidx": 0
+    },
+    {
+      "id": 5,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "裏通り:四葉",
+      "texto_en": "Back Street: Yotsuba",
+      "texto_ptbr": "Rua dos Fundos: Yotsuba",
+      "selidx": 1
+    },
+    {
+      "id": 6,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "ショップＢ:二乃:三玖",
+      "texto_en": "Shop B: Nino/Miku",
+      "texto_ptbr": "Loja B: Nino/Miku",
+      "selidx": 2
+    }
+  ]
+}

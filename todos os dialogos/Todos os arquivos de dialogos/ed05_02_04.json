@@ -1,0 +1,510 @@
+{
+  "arquivo": "ed05_02_04",
+  "total": 84,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Ahh... I'm so tired...",
+      "texto_ptbr": "Ahh... Estou tão cansado..."
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "Phew, we managed to finish it without a hitch...\\nI'm much more exhausted than I imagined...",
+      "texto_ptbr": "Fiu, conseguimos terminar sem nenhum contratempo...\\nEstou bem mais exausta do que imaginava..."
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Ahh...\\nI never expected to have been this nervous...\\nFinally, I can take a breather...",
+      "texto_ptbr": "Ahh...\\nNunca imaginei que ficaria tão nervoso...\\nFinalmente posso respirar..."
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "That's right...",
+      "texto_ptbr": "É verdade..."
+    },
+    {
+      "id": 4,
+      "personagem": "Isanari",
+      "texto_en": "Futaro, can I come in?",
+      "texto_ptbr": "Fuutarou, posso entrar?"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, sure.",
+      "texto_ptbr": "Pode, claro."
+    },
+    {
+      "id": 6,
+      "personagem": "Isanari",
+      "texto_en": "Yo! Good work out there.",
+      "texto_ptbr": "E aí! Bom trabalho lá fora."
+    },
+    {
+      "id": 7,
+      "personagem": "Isanari",
+      "texto_en": "Woah, what now?\\nWhy do you look so worn out?",
+      "texto_ptbr": "Uau, o que houve?\\nPor que você está com essa cara de acabado?"
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "It's tiring, you know.\\nI was tense the whole time.",
+      "texto_ptbr": "É cansativo, sabe.\\nFiquei tenso o tempo todo."
+    },
+    {
+      "id": 9,
+      "personagem": "Isanari",
+      "texto_en": "Are you okay with that?\\nFrom now on, it'll be just you and Itsuki-chan,\\nya know.",
+      "texto_ptbr": "Tá tudo bem com isso?\\nDe agora em diante, vai ser só você e a Itsuki-chan,\\nsabe."
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "Father.",
+      "texto_ptbr": "Pai."
+    },
+    {
+      "id": 11,
+      "personagem": "Isanari",
+      "texto_en": "Hey, Itsuki-chan, you don't have to be so formal.\\nIt's not necessary.",
+      "texto_ptbr": "Ei, Itsuki-chan, não precisa ser tão formal.\\nNão é necessário."
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "Well, it's a milestone of a day.\\nPlease allow me to greet you properly.",
+      "texto_ptbr": "Bem, é um dia marcante.\\nPermita-me cumprimentá-lo direito."
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "From now on, as a member of the Uesugi family,\\nI ask for your support.",
+      "texto_ptbr": "De agora em diante, como membro da família Uesugi,\\npeço o seu apoio."
+    },
+    {
+      "id": 14,
+      "personagem": "Isanari",
+      "texto_en": "Sure, same here.\\nTake care of my idiotic son.",
+      "texto_ptbr": "Claro, igualmente.\\nCuide do meu filho idiota."
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "Heheh, you can leave that to me.",
+      "texto_ptbr": "Hehe, pode deixar comigo."
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Hey, who's the idiotic son?",
+      "texto_ptbr": "Ei, quem é o filho idiota?"
+    },
+    {
+      "id": 17,
+      "personagem": "Isanari",
+      "texto_en": "What's the matter?\\nYou don't like it? Should I call you\\nthe idiotic son who's bad at studying?",
+      "texto_ptbr": "Que foi?\\nNão gostou? Devo te chamar\\nde filho idiota que é ruim nos estudos?"
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Ah, forget it.",
+      "texto_ptbr": "Ah, deixa pra lá."
+    },
+    {
+      "id": 19,
+      "personagem": "Isanari",
+      "texto_en": "And also, do your best as a teacher.",
+      "texto_ptbr": "E também, dê o seu melhor como professora."
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, I will.",
+      "texto_ptbr": "Sim, vou dar."
+    },
+    {
+      "id": 21,
+      "personagem": "Isanari",
+      "texto_en": "If anything, you can put Futaro aside for now.\\nBe a good teacher, who prioritizes her students!",
+      "texto_ptbr": "Aliás, pode deixar o Fuutarou de lado por enquanto.\\nSeja uma boa professora, que prioriza os alunos!"
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Wha?!",
+      "texto_ptbr": "Quê?!"
+    },
+    {
+      "id": 23,
+      "personagem": "Isanari",
+      "texto_en": "This guy might get sulky unexpectedly,\\nbut you don't have to worry about it.",
+      "texto_ptbr": "Esse cara pode ficar emburrado do nada,\\nmas você não precisa se preocupar com isso."
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Dad! Stop saying whatever you want!",
+      "texto_ptbr": "Pai! Para de falar o que bem entende!"
+    },
+    {
+      "id": 25,
+      "personagem": "Itsuki",
+      "texto_en": "...Heheh!",
+      "texto_ptbr": "...Hehe!"
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "Hey, Itsuki. You can ignore what Dad is saying.",
+      "texto_ptbr": "Ei, Itsuki. Pode ignorar o que o meu pai está dizendo."
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "But, I can't do that.\\nIt's advice from your father,\\nwho's raised you up to this point, Futaro.",
+      "texto_ptbr": "Mas eu não consigo fazer isso.\\nÉ um conselho do seu pai,\\nque te criou até aqui, Fuutarou."
+    },
+    {
+      "id": 28,
+      "personagem": "Isanari",
+      "texto_en": "That's right! Gahaha!",
+      "texto_ptbr": "Isso mesmo! Gahaha!"
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Ggh...!",
+      "texto_ptbr": "Ggh...!"
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "Well, ya know, even I want you to do your best as a teacher%p-2;――",
+      "texto_ptbr": "Bom, sabe, até eu quero que você dê o seu melhor como professora%p-2;――"
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Oh, speaking of which, Dad.",
+      "texto_ptbr": "Ah, falando nisso, pai."
+    },
+    {
+      "id": 32,
+      "personagem": "Isanari",
+      "texto_en": "What is it?",
+      "texto_ptbr": "O que foi?"
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "She was your mentor, right? Itsuki's mother.",
+      "texto_ptbr": "Ela foi a sua mentora, né? A mãe da Itsuki."
+    },
+    {
+      "id": 34,
+      "personagem": "Isanari",
+      "texto_en": "Well, I guess.",
+      "texto_ptbr": "Bem, acho que sim."
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "In that case%p-2;――",
+      "texto_ptbr": "Nesse caso%p-2;――"
+    },
+    {
+      "id": 37,
+      "personagem": "Raiha",
+      "texto_en": "Big bro, can I come in?",
+      "texto_ptbr": "Onii-chan, posso entrar?"
+    },
+    {
+      "id": 38,
+      "personagem": "Raiha",
+      "texto_en": "Did you finish changing?\\nI'll return your suit.",
+      "texto_ptbr": "Já terminou de trocar de roupa?\\nVou devolver o seu terno."
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Ah, yeah.\\nThanks, Raiha.",
+      "texto_ptbr": "Ah, sim.\\nValeu, Raiha."
+    },
+    {
+      "id": 40,
+      "personagem": "Isanari",
+      "texto_en": "Alright, I'll take off too, then.",
+      "texto_ptbr": "Beleza, eu também vou indo, então."
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Huh?\\nWe still have things to talk about%p-2;――",
+      "texto_ptbr": "Hã?\\nAinda temos coisas para conversar%p-2;――"
+    },
+    {
+      "id": 42,
+      "personagem": "Isanari",
+      "texto_en": "Alrighty, have fun, you two newlyweds.",
+      "texto_ptbr": "Beleza, divirtam-se, vocês dois, recém-casados."
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "...Hey, was it better not to ask?",
+      "texto_ptbr": "...Ei, era melhor não ter perguntado?"
+    },
+    {
+      "id": 44,
+      "personagem": "Itsuki",
+      "texto_en": "About that?",
+      "texto_ptbr": "Sobre aquilo?"
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "About your mother.\\nAbout what kind of teacher she was, for example.",
+      "texto_ptbr": "Sobre a sua mãe.\\nSobre que tipo de professora ela foi, por exemplo."
+    },
+    {
+      "id": 46,
+      "personagem": "Itsuki",
+      "texto_en": "Yeah...it's fine.\\nI probably won't ask about that any time soon.",
+      "texto_ptbr": "É... tudo bem.\\nProvavelmente não vou perguntar sobre isso tão cedo."
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "I don't want to become my mother.\\nThere's no need for it.",
+      "texto_ptbr": "Eu não quero me tornar a minha mãe.\\nNão há necessidade disso."
+    },
+    {
+      "id": 48,
+      "personagem": "Itsuki",
+      "texto_en": "You're the one who taught me that, right?",
+      "texto_ptbr": "Foi você que me ensinou isso, não foi?"
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "...Ah, yeah, that's right.\\nI asked something stupid.",
+      "texto_ptbr": "...Ah, é, é verdade.\\nPerguntei uma bobagem."
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "No, it's fine.",
+      "texto_ptbr": "Não, tudo bem."
+    },
+    {
+      "id": 51,
+      "personagem": "Itsuki",
+      "texto_en": "When I look back...\\ntruly, since I met you, my life has completely changed.",
+      "texto_ptbr": "Olhando para trás...\\nrealmente, desde que te conheci, a minha vida mudou por completo."
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "I've clashed and learned so many things.\\nI can't imagine the version of myself\\nthat didn't meet you.",
+      "texto_ptbr": "Nós batemos de frente e eu aprendi tantas coisas.\\nNão consigo imaginar a versão de mim\\nque não te conheceu."
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "That goes both ways.",
+      "texto_ptbr": "Vale para os dois lados."
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "(Come to think of it, I met Itsuki at the cafeteria,\\n and everything started to change from there.)",
+      "texto_ptbr": "(Pensando bem, conheci a Itsuki no refeitório,\\n e foi dali que tudo começou a mudar.)"
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "Man... That was the worst first encounter.",
+      "texto_ptbr": "Cara... Foi o pior primeiro encontro."
+    },
+    {
+      "id": 56,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, you're horrible.",
+      "texto_ptbr": "Ah, você é horrível."
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "Since I met you, my life has also completely changed.\\nYou're the root of all evil.",
+      "texto_ptbr": "Desde que te conheci, a minha vida também mudou por completo.\\nVocê é a raiz de todo o mal."
+    },
+    {
+      "id": 58,
+      "personagem": "Itsuki",
+      "texto_en": "But isn't that my line?\\nIt was shocking to encounter someone\\nso lacking in delicacy.",
+      "texto_ptbr": "Mas essa não é a minha fala?\\nFoi chocante encontrar alguém\\ntão sem delicadeza."
+    },
+    {
+      "id": 59,
+      "personagem": "Itsuki",
+      "texto_en": "Futaro, you're fine with saying things\\nwithout delicacy, but you were incredibly nervous\\nduring the kiss, right?",
+      "texto_ptbr": "Fuutarou, você não tem problema em falar as coisas\\nsem delicadeza, mas ficou extremamente nervoso\\ndurante o beijo, não foi?"
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 61,
+      "personagem": "Itsuki",
+      "texto_en": "During the vow kiss, you were trembling, remember?\\nI thought it might not work.",
+      "texto_ptbr": "Durante o beijo do juramento, você estava tremendo, lembra?\\nAchei que talvez não fosse dar certo."
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "That was...!",
+      "texto_ptbr": "Aquilo foi...!"
+    },
+    {
+      "id": 63,
+      "personagem": "Itsuki",
+      "texto_en": "Even though it's not the first time.",
+      "texto_ptbr": "Mesmo não sendo a primeira vez."
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "Well, what can you do! Everyone was watching today!",
+      "texto_ptbr": "Bom, o que eu podia fazer! Todo mundo estava olhando hoje!"
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "Actually, speaking of that graduation trip,\\nit was more on your end, right%p-2;――",
+      "texto_ptbr": "Aliás, falando daquela viagem de formatura,\\nfoi mais da sua parte, né%p-2;――"
+    },
+    {
+      "id": 66,
+      "personagem": "Itsuki",
+      "texto_en": "Uwah! I'm sorry, I'm sorry!\\nPlease don't say any more!",
+      "texto_ptbr": "Uau! Desculpa, desculpa!\\nPor favor, não diga mais nada!"
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "If that's the case,\\ndon't bring it up in the first place.",
+      "texto_ptbr": "Se é assim,\\nnem toque no assunto, para começo de conversa."
+    },
+    {
+      "id": 68,
+      "personagem": "Itsuki",
+      "texto_en": "Heheh, sorry, I really am.",
+      "texto_ptbr": "Hehe, desculpa, de verdade."
+    },
+    {
+      "id": 69,
+      "personagem": "Itsuki",
+      "texto_en": "Looking back now, those are also good memories.\\nIncluding that encounter.",
+      "texto_ptbr": "Olhando agora, essas também são boas lembranças.\\nIncluindo aquele encontro."
+    },
+    {
+      "id": 70,
+      "personagem": "Itsuki",
+      "texto_en": "If we hadn't had that encounter,\\nif we hadn't had the events in Okinawa...",
+      "texto_ptbr": "Se não tivéssemos tido aquele encontro,\\nse não tivessem acontecido os eventos em Okinawa..."
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, we might not be here, together as a couple.",
+      "texto_ptbr": "É, talvez não estivéssemos aqui, juntos como casal."
+    },
+    {
+      "id": 72,
+      "personagem": "Itsuki",
+      "texto_en": "That's why, even though it happened in that way,\\nI truly feel fortunate to have met you.\\nFrom the bottom of my heart.",
+      "texto_ptbr": "Por isso, mesmo tendo acontecido daquele jeito,\\neu realmente me sinto afortunada por ter te conhecido.\\nDe todo o coração."
+    },
+    {
+      "id": 73,
+      "personagem": "Futaro",
+      "texto_en": "I feel the same way as you.",
+      "texto_ptbr": "Eu sinto o mesmo que você."
+    },
+    {
+      "id": 74,
+      "personagem": "Itsuki",
+      "texto_en": "Being together with you like this,\\nis the greatest event in my life.",
+      "texto_ptbr": "Estar junto com você assim\\né o maior acontecimento da minha vida."
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "What are you saying, Itsuki?",
+      "texto_ptbr": "O que você está dizendo, Itsuki?"
+    },
+    {
+      "id": 76,
+      "personagem": "Itsuki",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 77,
+      "personagem": "Futaro",
+      "texto_en": "Even now, we're incredibly happy,\\nbut there's still so much more to come, right?",
+      "texto_ptbr": "Mesmo agora, estamos incrivelmente felizes,\\nmas ainda tem muito mais por vir, né?"
+    },
+    {
+      "id": 78,
+      "personagem": "Itsuki",
+      "texto_en": "Ah...",
+      "texto_ptbr": "Ah..."
+    },
+    {
+      "id": 79,
+      "personagem": "Futaro",
+      "texto_en": "Our happiness isn't at its peak here.\\nIf it's the two of us,\\nwe can create an even happier future.",
+      "texto_ptbr": "A nossa felicidade não chegou ao auge aqui.\\nSe formos nós dois,\\npodemos criar um futuro ainda mais feliz."
+    },
+    {
+      "id": 80,
+      "personagem": "Itsuki",
+      "texto_en": "...Yes!",
+      "texto_ptbr": "...Sim!"
+    },
+    {
+      "id": 81,
+      "personagem": "Futaro",
+      "texto_en": "(Even with the worst first encounter, and all those clashes%p-2;――%p;)",
+      "texto_ptbr": "(Mesmo com o pior primeiro encontro e todas aquelas brigas%p-2;――%p;)"
+    },
+    {
+      "id": 82,
+      "personagem": "Itsuki",
+      "texto_en": "Together, always.\\nLet's make our best moments ones to last for eternity.",
+      "texto_ptbr": "Juntos, sempre.\\nVamos fazer dos nossos melhores momentos algo que dure para a eternidade."
+    },
+    {
+      "id": 83,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, of course.\\nThat's what we vowed to do.",
+      "texto_ptbr": "É, claro.\\nFoi isso que prometemos fazer."
+    }
+  ]
+}

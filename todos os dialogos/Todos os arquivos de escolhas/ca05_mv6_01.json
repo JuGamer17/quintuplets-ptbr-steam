@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca05_mv6_01",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "そ、それは……。",
+      "texto_en": "W-well...",
+      "texto_ptbr": "B-bom..."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "い、言う必要ないし！",
+      "texto_en": "I-I don't have to say anything!",
+      "texto_ptbr": "N-não preciso dizer!",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "まだなにもしてないと言うか……",
+      "texto_en": "I hadn't even done anything yet...",
+      "texto_ptbr": "Eu nem tinha feito nada ainda...",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "黙秘させてくれ",
+      "texto_en": "I'm taking an oath of silence.",
+      "texto_ptbr": "Vou exercer meu direito de ficar calado.",
+      "selidx": 2
+    }
+  ]
+}

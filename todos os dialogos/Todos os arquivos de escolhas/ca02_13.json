@@ -1,0 +1,36 @@
+{
+  "arquivo": "ca02_13",
+  "total": 3,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "サンセットビーチＡ:一花:らいは",
+      "texto_en": "Sunset Beach A: Ichika/Raiha",
+      "texto_ptbr": "Sunset Beach A: Ichika/Raiha",
+      "selidx": 0
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "サンセットビーチＢ:三玖:四葉",
+      "texto_en": "Sunset Beach B: Miku/Yotsuba",
+      "texto_ptbr": "Sunset Beach B: Miku/Yotsuba",
+      "selidx": 1
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "サンセットビーチＣ:二乃:五月",
+      "texto_en": "Sunset Beach C: Nino/Itsuki",
+      "texto_ptbr": "Sunset Beach C: Nino/Itsuki",
+      "selidx": 2
+    }
+  ]
+}

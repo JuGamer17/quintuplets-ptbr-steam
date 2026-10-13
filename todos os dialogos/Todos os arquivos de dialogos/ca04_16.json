@@ -1,0 +1,384 @@
+{
+  "arquivo": "ca04_16",
+  "total": 63,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "Alright, I got here early!",
+      "texto_ptbr": "Beleza, cheguei cedo!"
+    },
+    {
+      "id": 1,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh, wait a minute.\\nNobody else has arrived yet?",
+      "texto_ptbr": "Hã, peraí um minuto.\\nNinguém mais chegou ainda?"
+    },
+    {
+      "id": 2,
+      "personagem": "Yotsuba",
+      "texto_en": "(I thought Uesugi-san would come early.\\n I still have some time left,\\n so maybe I should go look for him...)",
+      "texto_ptbr": "(Achei que o Uesugi-san viria cedo.\\n Ainda tenho um tempinho,\\n então talvez eu devesse ir procurar por ele...)"
+    },
+    {
+      "id": 3,
+      "personagem": "Yotsuba",
+      "texto_en": "(No, no, that's not a good idea.\\n If we miss each other, then again%p-2;――%p;)",
+      "texto_ptbr": "(Não, não, não é uma boa ideia.\\n Se a gente se desencontrar, então de novo%p-2;――%p;)"
+    },
+    {
+      "id": 4,
+      "personagem": "Yotsuba",
+      "texto_en": "...Again?",
+      "texto_ptbr": "...De novo?"
+    },
+    {
+      "id": 5,
+      "personagem": "Yotsuba",
+      "texto_en": "(Hmm?\\n Why did I come to the meeting place so early?)",
+      "texto_ptbr": "(Hmm?\\n Por que eu vim tão cedo para o ponto de encontro?)"
+    },
+    {
+      "id": 6,
+      "personagem": "Yotsuba",
+      "texto_en": "(I had a feeling that I needed to come early...\\n Maybe, because Uesugi-san might come here first.)",
+      "texto_ptbr": "(Eu senti que precisava chegar cedo...\\n Talvez porque o Uesugi-san poderia vir pra cá primeiro.)"
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 8,
+      "personagem": "Yotsuba",
+      "texto_en": "Nnnnnhh!",
+      "texto_ptbr": "Nnnnnhh!"
+    },
+    {
+      "id": 9,
+      "personagem": "Yotsuba",
+      "texto_en": "(What's wrong with me?\\n I definitely made everyone worried,\\n and just thinking about it makes me blush!)",
+      "texto_ptbr": "(O que há de errado comigo?\\n Com certeza deixei todo mundo preocupado,\\n e só de pensar nisso eu fico vermelha!)"
+    },
+    {
+      "id": 10,
+      "personagem": "Yotsuba",
+      "texto_en": "(But, just by Nino and Miku talking to Uesugi-san...)",
+      "texto_ptbr": "(Mas, só de a Nino e a Miku conversarem com o Uesugi-san...)"
+    },
+    {
+      "id": 11,
+      "personagem": "Yotsuba",
+      "texto_en": "Hm...",
+      "texto_ptbr": "Hm..."
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "(Nino and Miku are acting weird too.\\n I wonder what's going on with them.)",
+      "texto_ptbr": "(A Nino e a Miku também estão estranhas.\\n Me pergunto o que está rolando com elas.)"
+    },
+    {
+      "id": 13,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, I feel so frustrated.",
+      "texto_ptbr": "Ah, estou tão frustrada."
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "What's frustrating you?",
+      "texto_ptbr": "O que está te frustrando?"
+    },
+    {
+      "id": 15,
+      "personagem": "Yotsuba",
+      "texto_en": "UHYAA?!",
+      "texto_ptbr": "UHYAA?!"
+    },
+    {
+      "id": 16,
+      "personagem": "Yotsuba",
+      "texto_en": "I-I-Ichika?!\\nHow long have you been there?!",
+      "texto_ptbr": "I-I-Ichika?!\\nHá quanto tempo você está aí?!"
+    },
+    {
+      "id": 17,
+      "personagem": "Ichika",
+      "texto_en": "I just got here.",
+      "texto_ptbr": "Acabei de chegar."
+    },
+    {
+      "id": 18,
+      "personagem": "Yotsuba",
+      "texto_en": "I-is that so.\\nYou really surprised me.",
+      "texto_ptbr": "É-é mesmo.\\nVocê me assustou muito."
+    },
+    {
+      "id": 19,
+      "personagem": "Ichika",
+      "texto_en": "No one else is here, huh.\\nMaybe we came too early.",
+      "texto_ptbr": "Ninguém mais chegou, hein.\\nAcho que a gente veio cedo demais."
+    },
+    {
+      "id": 20,
+      "personagem": "Ichika",
+      "texto_en": "But, thanks to that,\\nI might be able to hear about how frustrated\\nyou are, Yotsuba.",
+      "texto_ptbr": "Mas, graças a isso,\\ntalvez eu possa ouvir sobre o quanto\\nvocê está frustrada, Yotsuba."
+    },
+    {
+      "id": 21,
+      "personagem": "Yotsuba",
+      "texto_en": "Aww...",
+      "texto_ptbr": "Aww..."
+    },
+    {
+      "id": 22,
+      "personagem": "Ichika",
+      "texto_en": "Is it about Nino and Miku?",
+      "texto_ptbr": "É por causa da Nino e da Miku?"
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "Eh...?",
+      "texto_ptbr": "Eh...?"
+    },
+    {
+      "id": 24,
+      "personagem": "Yotsuba",
+      "texto_en": "I-it's not.\\nI just got a little too excited, and tired myself out.\\nDon't worry!",
+      "texto_ptbr": "N-não é.\\nEu só me empolguei demais e me cansei.\\nNão se preocupe!"
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "Yotsuba?",
+      "texto_ptbr": "Yotsuba?"
+    },
+    {
+      "id": 26,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 27,
+      "personagem": "Yotsuba",
+      "texto_en": "I guess I can't hide it after all.",
+      "texto_ptbr": "Acho que não consigo esconder mesmo."
+    },
+    {
+      "id": 28,
+      "personagem": "Yotsuba",
+      "texto_en": "Hey, Ichika.\\nDid I make Nino and Miku angry?",
+      "texto_ptbr": "Ei, Ichika.\\nSerá que eu deixei a Nino e a Miku com raiva?"
+    },
+    {
+      "id": 29,
+      "personagem": "Ichika",
+      "texto_en": "Nice, nice, good job.\\nYou've grown up enough to ask that question, Yotsuba.",
+      "texto_ptbr": "Muito bem, muito bem, bom trabalho.\\nVocê já cresceu o bastante pra fazer essa pergunta, Yotsuba."
+    },
+    {
+      "id": 30,
+      "personagem": "Yotsuba",
+      "texto_en": "Do you understand what's going on, Ichika?\\nI don't really get it,\\nand it's making me anxious.",
+      "texto_ptbr": "Você entende o que está acontecendo, Ichika?\\nEu não entendo direito,\\ne isso está me deixando ansiosa."
+    },
+    {
+      "id": 31,
+      "personagem": "Yotsuba",
+      "texto_en": "Was I acting strange?\\nI thought I was just being myself.",
+      "texto_ptbr": "Eu estava agindo de forma estranha?\\nAchei que estava sendo só eu mesma."
+    },
+    {
+      "id": 32,
+      "personagem": "Ichika",
+      "texto_en": "That's probably it, right?",
+      "texto_ptbr": "Provavelmente é isso, né?"
+    },
+    {
+      "id": 33,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 34,
+      "personagem": "Ichika",
+      "texto_en": "Nino and Miku aren't really angry.",
+      "texto_ptbr": "A Nino e a Miku não estão com raiva de verdade."
+    },
+    {
+      "id": 35,
+      "personagem": "Yotsuba",
+      "texto_en": "Is that so?",
+      "texto_ptbr": "É mesmo?"
+    },
+    {
+      "id": 36,
+      "personagem": "Ichika",
+      "texto_en": "Hmm, well, maybe they were a LITTLE angry.",
+      "texto_ptbr": "Hmm, bom, talvez elas estivessem UM POUCO com raiva."
+    },
+    {
+      "id": 37,
+      "personagem": "Yotsuba",
+      "texto_en": "That! That's important to know, isn't it?!",
+      "texto_ptbr": "Isso! Isso é importante saber, não é?!"
+    },
+    {
+      "id": 38,
+      "personagem": "Ichika",
+      "texto_en": "But it's okay.\\nEven if they were angry, it wasn't serious.",
+      "texto_ptbr": "Mas tudo bem.\\nMesmo que estivessem com raiva, não era nada sério."
+    },
+    {
+      "id": 39,
+      "personagem": "Yotsuba",
+      "texto_en": "In the end they're still angry though...",
+      "texto_ptbr": "No fim das contas elas ainda estão com raiva, então..."
+    },
+    {
+      "id": 40,
+      "personagem": "Ichika",
+      "texto_en": "After all, once this trip is over,\\nFutaro-kun will go to Tokyo.",
+      "texto_ptbr": "Afinal, quando essa viagem acabar,\\no Fuutarou-kun vai pra Tóquio."
+    },
+    {
+      "id": 41,
+      "personagem": "Ichika",
+      "texto_en": "It's definitely gonna be lonely.\\nEveryone feels that way.",
+      "texto_ptbr": "Com certeza vai ficar solitário.\\nTodo mundo sente isso."
+    },
+    {
+      "id": 42,
+      "personagem": "Ichika",
+      "texto_en": "Playing with Futaro-kun,\\nlaughing and being shouted at by him, it's almost over.\\nThe days we're all together are coming to an end.",
+      "texto_ptbr": "Brincar com o Fuutarou-kun,\\nrir e levar bronca dele, isso está quase acabando.\\nOs dias em que estamos todos juntos estão chegando ao fim."
+    },
+    {
+      "id": 43,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah...",
+      "texto_ptbr": "É..."
+    },
+    {
+      "id": 44,
+      "personagem": "Ichika",
+      "texto_en": "If you want to change something,\\nyou have to do it quickly.",
+      "texto_ptbr": "Se você quer mudar alguma coisa,\\ntem que fazer isso rápido."
+    },
+    {
+      "id": 45,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 46,
+      "personagem": "Yotsuba",
+      "texto_en": "(Maybe...\\n are they all worried about me?)",
+      "texto_ptbr": "(Será que...\\n todas elas estão preocupadas comigo?)"
+    },
+    {
+      "id": 47,
+      "personagem": "Yotsuba",
+      "texto_en": "(Oh, I see...)",
+      "texto_ptbr": "(Ah, entendi...)"
+    },
+    {
+      "id": 48,
+      "personagem": "Yotsuba",
+      "texto_en": "I understand.\\nThank you, Ichika.",
+      "texto_ptbr": "Eu entendi.\\nObrigada, Ichika."
+    },
+    {
+      "id": 49,
+      "personagem": "Yotsuba",
+      "texto_en": "I'll do my best not to worry everyone.",
+      "texto_ptbr": "Vou me esforçar pra não preocupar ninguém."
+    },
+    {
+      "id": 50,
+      "personagem": "Ichika",
+      "texto_en": "That's not it.\\nIt's totally FINE to worry everyone.",
+      "texto_ptbr": "Não é isso.\\nTudo bem PREOCUPAR todo mundo."
+    },
+    {
+      "id": 51,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?\\nBut that would become a hassle for all of you...",
+      "texto_ptbr": "Hã?\\nMas isso ia dar trabalho pra vocês..."
+    },
+    {
+      "id": 52,
+      "personagem": "Ichika",
+      "texto_en": "It's not a hassle.\\nAfter all, we're sisters.\\nBut, if something happens, of course we'll worry!",
+      "texto_ptbr": "Não dá trabalho nenhum.\\nAfinal, somos irmãs.\\nMas, se acontecer alguma coisa, é claro que a gente vai se preocupar!"
+    },
+    {
+      "id": 53,
+      "personagem": "Ichika",
+      "texto_en": "Or do you perhaps think\\nthat when I worry about myself or everyone else,\\nit's a bother, Yotsuba?",
+      "texto_ptbr": "Ou será que você acha, por acaso,\\nque quando eu me preocupo comigo mesma ou com todo mundo,\\nisso é um incômodo, Yotsuba?"
+    },
+    {
+      "id": 54,
+      "personagem": "Yotsuba",
+      "texto_en": "No! I don't!",
+      "texto_ptbr": "Não! Não acho!"
+    },
+    {
+      "id": 55,
+      "personagem": "Ichika",
+      "texto_en": "That's right.\\nSo you should do whatever you want, Yotsuba.",
+      "texto_ptbr": "Isso mesmo.\\nEntão você deve fazer o que quiser, Yotsuba."
+    },
+    {
+      "id": 56,
+      "personagem": "Yotsuba",
+      "texto_en": "...Is that okay?",
+      "texto_ptbr": "...Tudo bem mesmo?"
+    },
+    {
+      "id": 57,
+      "personagem": "Ichika",
+      "texto_en": "It's okay.\\nSometimes you'll make mistakes,\\nor bump into things%p-2;――",
+      "texto_ptbr": "Tudo bem.\\nÀs vezes você vai errar,\\nou tropeçar em alguma coisa%p-2;――"
+    },
+    {
+      "id": 58,
+      "personagem": "Ichika",
+      "texto_en": "But, that's how everyone has been progressing\\nforward this whole time.",
+      "texto_ptbr": "Mas é assim que todo mundo tem seguido\\nem frente até agora."
+    },
+    {
+      "id": 59,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 60,
+      "personagem": "Yotsuba",
+      "texto_en": "Thank you so much, Ichika.\\nFor always being my big sister.",
+      "texto_ptbr": "Muito obrigada, Ichika.\\nPor sempre ser minha irmã mais velha."
+    },
+    {
+      "id": 61,
+      "personagem": "Ichika",
+      "texto_en": "Of course.\\nI am the big sister, after all.",
+      "texto_ptbr": "Claro.\\nEu sou a irmã mais velha, afinal."
+    },
+    {
+      "id": 62,
+      "personagem": "Ichika",
+      "texto_en": "Now, all we need is for Futaro-kun to do his best.",
+      "texto_ptbr": "Agora, só falta o Fuutarou-kun se esforçar ao máximo."
+    }
+  ]
+}

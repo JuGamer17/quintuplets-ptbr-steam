@@ -1,0 +1,46 @@
+{
+  "arquivo": "ca03_16",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*map",
+      "texto_jp": "dummy",
+      "texto_en": "{UNTRANSLATED}dummy",
+      "texto_ptbr": "",
+      "selidx": 0
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "海洋博公園広場:一花:らいは",
+      "texto_en": "Ocean Expo Park Square: Ichika/Raiha",
+      "texto_ptbr": "Praça do Ocean Expo Park: Ichika/Raiha",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "郷土村:四葉:五月",
+      "texto_en": "Native Okinawan Village: Yotsuba/Itsuki",
+      "texto_ptbr": "Vila Nativa de Okinawa: Yotsuba/Itsuki",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "ドリームセンター:二乃:三玖",
+      "texto_en": "Dream Center: Nino/Miku",
+      "texto_ptbr": "Dream Center: Nino/Miku",
+      "selidx": 2
+    }
+  ]
+}

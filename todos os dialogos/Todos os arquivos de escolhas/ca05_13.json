@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca05_13",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "あの……それは、２人でですか？",
+      "texto_en": "Um... Would it be, just the two of us?",
+      "texto_ptbr": "Hmm... Seríamos só nós dois?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "嫌ならみんなも誘うが……",
+      "texto_en": "I could invite everyone else...",
+      "texto_ptbr": "Se não quiser, posso chamar todo mundo...",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "なんで聞くんだよ",
+      "texto_en": "Why do you ask?",
+      "texto_ptbr": "Por que você tá perguntando?",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ああ、もちろんだ",
+      "texto_en": "Yeah, of course.",
+      "texto_ptbr": "Claro que sim.",
+      "selidx": 2
+    }
+  ]
+}

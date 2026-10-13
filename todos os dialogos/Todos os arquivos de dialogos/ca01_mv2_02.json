@@ -1,0 +1,402 @@
+{
+  "arquivo": "ca01_mv2_02",
+  "total": 66,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Nino",
+      "texto_en": "Ah, Fu-kun!",
+      "texto_ptbr": "Ah, Fu-kun!"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Nino and Itsuki, eh. What are you looking at?",
+      "texto_ptbr": "Nino e Itsuki, hein. O que vocês estão olhando?"
+    },
+    {
+      "id": 2,
+      "personagem": "Nino",
+      "texto_en": "Look, it's a Kariyushi shirt.\\nDoesn't it look like something from Okinawa?",
+      "texto_ptbr": "Olha, é uma camisa Kariyushi.\\nNão parece coisa de Okinawa?"
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "At first glance, I thought it was an Aloha shirt,\\nbut it's something different, right?",
+      "texto_ptbr": "À primeira vista, achei que fosse uma camisa Aloha,\\nmas é algo diferente, né?"
+    },
+    {
+      "id": 4,
+      "personagem": "Nino",
+      "texto_en": "I skimmed through the description here,\\nand it seems like the origin is completely different.",
+      "texto_ptbr": "Dei uma olhada na descrição aqui,\\ne parece que a origem é completamente diferente."
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "There is also other trivia written here.\\nFu-kun, you like this kind of stuff, don't you?",
+      "texto_ptbr": "Tem outras curiosidades escritas aqui também.\\nFu-kun, você gosta desse tipo de coisa, né?"
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "I don't mind learning something new.\\nLet me see.",
+      "texto_ptbr": "Não me importo de aprender algo novo.\\nDeixa eu ver."
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "I see. Kariyushi shirts are formal attire,\\nworn even in weddings in Okinawa.",
+      "texto_ptbr": "Entendo. As camisas Kariyushi são traje formal,\\nusadas até em casamentos em Okinawa."
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "So, they're also worn at official events.",
+      "texto_ptbr": "Então, são usadas em eventos oficiais também."
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "There are designs for men and women,\\nso why not make them matching souvenirs?",
+      "texto_ptbr": "Tem modelos masculinos e femininos,\\nentão por que não fazer lembranças combinando?"
+    },
+    {
+      "id": 11,
+      "personagem": "Itsuki",
+      "texto_en": "But, how should I put it,\\nI wonder if this kind of patterned shirt would suit you,\\nUesugi-kun...",
+      "texto_ptbr": "Mas, como eu diria,\\nserá que esse tipo de camisa estampada combinaria com você,\\nUesugi-kun..."
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "My dad wears these kinds of clothes,\\nand I don't think they look bad on him.",
+      "texto_ptbr": "Meu pai usa esse tipo de roupa,\\ne acho que não fica mal nele."
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "Hmm, I guess you'd look better\\nin simple and neat clothes, Fu-kun.",
+      "texto_ptbr": "Hmm, acho que você ficaria melhor\\ncom roupas simples e arrumadas, Fu-kun."
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Is that so?",
+      "texto_ptbr": "É mesmo?"
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "(I have no idea on what basis they are judging my style.\\n I don't think I can keep up with this conversation...)",
+      "texto_ptbr": "(Não faço ideia com base em quê elas estão julgando meu estilo.\\n Acho que não consigo acompanhar essa conversa...)"
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "So, let's avoid patterned cloth then%p-2;――",
+      "texto_ptbr": "Então, vamos evitar tecido estampado%p-2;――"
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "How about this calm-looking one?\\nHere, Fu-kun, stand up straight.",
+      "texto_ptbr": "Que tal essa aqui de aparência mais discreta?\\nVem cá, Fu-kun, fica em pé direitinho."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Like this?",
+      "texto_ptbr": "Assim?"
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "Yes, just like that.\\nLet me put it on you like this%p-2;――",
+      "texto_ptbr": "Isso, exatamente assim.\\nDeixa eu colocar em você assim%p-2;――"
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "How is it? Does it suit me?",
+      "texto_ptbr": "Como ficou? Combina comigo?"
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "...It's kind of iffy.",
+      "texto_ptbr": "...Mais ou menos."
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "Well, how should I put it,\\nit makes you look quite mature...",
+      "texto_ptbr": "Bem, como eu diria,\\nvocê parece bem mais maduro assim..."
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "(Is she saying I look old?)",
+      "texto_ptbr": "(Ela está dizendo que pareço velho?)"
+    },
+    {
+      "id": 24,
+      "personagem": "Nino",
+      "texto_en": "We should look for something\\nthat's not too flashy\\nbut not too plain either.",
+      "texto_ptbr": "A gente devia procurar algo\\nque não seja muito chamativo\\nmas também não tão sem graça."
+    },
+    {
+      "id": 25,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, how about this one?\\nIt has a realistic goya pattern.",
+      "texto_ptbr": "Ah, que tal essa aqui?\\nTem um estampa realista de goya."
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "That's a bold design...",
+      "texto_ptbr": "É um design bem ousado..."
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "The pattern on this shirt is too lively for Fu-kun.",
+      "texto_ptbr": "O estampa dessa camisa é animado demais pro Fu-kun."
+    },
+    {
+      "id": 28,
+      "personagem": "Nino",
+      "texto_en": "This shop has a lot of Kariyushi shirts.\\nLet's try on more.",
+      "texto_ptbr": "Essa loja tem muitas camisas Kariyushi.\\nVamos experimentar mais."
+    },
+    {
+      "id": 29,
+      "personagem": "Nino",
+      "texto_en": "With this many options,\\nwe'll definitely find the perfect one for Fu-kun!",
+      "texto_ptbr": "Com tantas opções assim,\\ncom certeza vamos achar a perfeita pro Fu-kun!"
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "...Hey, I thought we were looking for souvenirs?",
+      "texto_ptbr": "...Ei, não era pra gente estar procurando lembranças?"
+    },
+    {
+      "id": 31,
+      "personagem": "Nino",
+      "texto_en": "Hmmm, this one is also iffy.\\nBut it's better than the previous one, right?",
+      "texto_ptbr": "Hmmm, essa também está mais ou menos.\\nMas é melhor do que a anterior, né?"
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "Nino, what about this one?",
+      "texto_ptbr": "Nino, e essa aqui?"
+    },
+    {
+      "id": 33,
+      "personagem": "Nino",
+      "texto_en": "Now, really.\\nYou've been focusing too much on impact when choosing.\\nPick something without patterns for once.",
+      "texto_ptbr": "Nossa, sério.\\nVocê fica focando demais no impacto visual na hora de escolher.\\nEscolhe algo sem estampa por uma vez."
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "That's not true!\\nRight, Uesugi-kun?!",
+      "texto_ptbr": "Não é verdade!\\nNé, Uesugi-kun?!"
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Don't look at me for approval.\\nI have no idea what your sense of style is.\\nAnyway%p-2;――",
+      "texto_ptbr": "Não me olha pra eu validar.\\nNão faço ideia de qual é o estilo de vocês.\\nDe qualquer forma%p-2;――"
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Give me a break, would you?\\nYou guys are clearly just playing around with me.",
+      "texto_ptbr": "Me dá uma folga, vai?\\nVocês claramente estão só me usando de brinquedo."
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "Hey, don't play dumb.",
+      "texto_ptbr": "Ei, não fica de cara de pau."
+    },
+    {
+      "id": 39,
+      "personagem": "Nino",
+      "texto_en": "Oooh, come on.\\nIt's not like we're losing anything.",
+      "texto_ptbr": "Oooh, vai logo.\\nA gente não está perdendo nada com isso."
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "I think we're losing time, though.",
+      "texto_ptbr": "Acho que a gente está perdendo tempo, no entanto."
+    },
+    {
+      "id": 41,
+      "personagem": "Nino",
+      "texto_en": "It'll become a fun memory.\\nHey Fu-kun, try this one next!",
+      "texto_ptbr": "Vai virar uma memória divertida.\\nEi Fu-kun, experimenta essa agora!"
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "None of these look good on me.\\nI'm just a guy\\nwho won't look good in Kariyushi shirts.",
+      "texto_ptbr": "Nenhuma fica boa em mim.\\nSou apenas um cara\\nque não vai ficar bem de camisa Kariyushi."
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "Huh? Are you sulking now?",
+      "texto_ptbr": "Hã? Você está emburrado agora?"
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "I'm not sulking!",
+      "texto_ptbr": "Não estou emburrado!"
+    },
+    {
+      "id": 45,
+      "personagem": "Nino",
+      "texto_en": "You're clearly sulking.\\nYou have moments when you suddenly become childish. \\nIt's cute.",
+      "texto_ptbr": "Você está claramente emburrado.\\nVocê tem momentos em que de repente fica criança. \\nÉ fofo."
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "D-don't say a guy is cute.\\nThat's gross.",
+      "texto_ptbr": "N-não fala que um cara é fofo.\\nIsso é estranho."
+    },
+    {
+      "id": 47,
+      "personagem": "Nino",
+      "texto_en": "That's not true.\\nRight now, you're really cute, Fu-kun.",
+      "texto_ptbr": "Não é verdade.\\nAgora mesmo, você está muito fofo, Fu-kun."
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "I said stop it...",
+      "texto_ptbr": "Eu disse para de falar isso..."
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "There are a lot of different Kariyushi shirts, huh.",
+      "texto_ptbr": "Tem muita variedade de camisa Kariyushi, né."
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "I thought there were only short-sleeved shirts,\\nbut I was surprised that there are long-sleeved shirts\\nand polo shirts too.",
+      "texto_ptbr": "Achei que só tivesse de manga curta,\\nmas fiquei surpreso que tem de manga longa\\ne polo também."
+    },
+    {
+      "id": 51,
+      "personagem": "Nino",
+      "texto_en": "I feel the same way.\\nIt's fun to have a wider variety to choose from.",
+      "texto_ptbr": "Eu também acho.\\nÉ divertido ter uma variedade maior pra escolher."
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "I can understand how you guys were having fun\\nplaying with me like a toy.",
+      "texto_ptbr": "Dá pra entender como vocês se divertiram\\nme usando de brinquedo."
+    },
+    {
+      "id": 53,
+      "personagem": "Itsuki",
+      "texto_en": "Nevertheless, it's a little surprising.\\nYou were actually paying attention.",
+      "texto_ptbr": "Mesmo assim, é um pouco surpreendente.\\nVocê estava de fato prestando atenção."
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "What do you mean, 'paying attention'?",
+      "texto_ptbr": "O que você quer dizer com 'prestando atenção'?"
+    },
+    {
+      "id": 55,
+      "personagem": "Itsuki",
+      "texto_en": "Well, I thought you weren't interested in clothes,\\nso I assumed everything looked the same to you.",
+      "texto_ptbr": "Bem, achei que você não tivesse interesse em roupas,\\nentão imaginei que tudo fosse igual pra você."
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "Come on, Itsuki...\\nEven I'M not that indifferent, am I.",
+      "texto_ptbr": "Vai, Itsuki...\\nAté EU não sou tão indiferente assim, né."
+    },
+    {
+      "id": 57,
+      "personagem": "Nino",
+      "texto_en": "Phew, that was fun.\\nFu-kun's Kariyushi shirt fashion show was a blast.",
+      "texto_ptbr": "Ufa, que divertido.\\nO desfile de moda de camisa Kariyushi do Fu-kun foi demais."
+    },
+    {
+      "id": 58,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, thanks to Uesugi-kun,\\nwe were able to see\\nthe hidden potential of Kariyushi shirts.",
+      "texto_ptbr": "Sim, graças ao Uesugi-kun,\\nconseguimos ver\\no potencial escondido das camisas Kariyushi."
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "I was in a tough spot,\\nhaving to try on shirt after shirt... But, well, it was a little fun.",
+      "texto_ptbr": "Foi uma situação difícil,\\nter que experimentar camisa atrás de camisa... Mas, bem, foi um pouco divertido."
+    },
+    {
+      "id": 60,
+      "personagem": "Nino",
+      "texto_en": "That's good then.",
+      "texto_ptbr": "Que bom então."
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "By the way, let's not forget the purpose of\\nus being here. Our souvenir search ain't over, right?",
+      "texto_ptbr": "A propósito, não vamos esquecer o motivo de\\na gente estar aqui. A busca pelas lembranças ainda não acabou, né?"
+    },
+    {
+      "id": 62,
+      "personagem": "Nino",
+      "texto_en": "I know.\\nI was seriously considering getting a shirt as a souvenir.",
+      "texto_ptbr": "Eu sei.\\nEstava considerando sério pegar uma camisa de lembrança."
+    },
+    {
+      "id": 63,
+      "personagem": "Itsuki",
+      "texto_en": "Those shops had a huge variety of patterns,\\nif we search long enough,\\nwe might find something that everyone likes.",
+      "texto_ptbr": "Aquelas lojas tinham uma variedade enorme de estampas,\\nse a gente procurar bastante,\\ntalvez encontre algo que todo mundo goste."
+    },
+    {
+      "id": 64,
+      "personagem": "Nino",
+      "texto_en": "It seems like there's some room for flexibility,\\nlike using the same patterns but with different base colors.",
+      "texto_ptbr": "Parece que há uma certa margem de flexibilidade,\\ncomo usar os mesmos estampas mas com cores de base diferentes."
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, that's right.\\nLet's include Kariyushi shirts\\nin our list of candidates for suitable souvenirs.",
+      "texto_ptbr": "É, é isso.\\nVamos incluir as camisas Kariyushi\\nna nossa lista de candidatas a lembranças adequadas."
+    }
+  ]
+}

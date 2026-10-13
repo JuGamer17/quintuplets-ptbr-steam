@@ -1,0 +1,264 @@
+{
+  "arquivo": "ed02_01_02",
+  "total": 43,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Nino",
+      "texto_en": "Deep-fried chicken, spinach with sesame sauce,\\nsimmered eggplant, boiled tofu, stew, curry...",
+      "texto_ptbr": "Frango frito, espinafre com molho de gergelim,\\nberinjela cozida, tofu cozido, ensopado, curry..."
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "I'd say that's about right.",
+      "texto_ptbr": "Acho que está bom assim."
+    },
+    {
+      "id": 2,
+      "personagem": "Miku",
+      "texto_en": "What are you doing?\\nCooking such a large amount of food at this time.",
+      "texto_ptbr": "O que você está fazendo?\\nCozinhando tanta comida uma hora dessas."
+    },
+    {
+      "id": 3,
+      "personagem": "Nino",
+      "texto_en": "Oh, welcome back, Miku.",
+      "texto_ptbr": "Ah, bem-vinda de volta, Miku."
+    },
+    {
+      "id": 4,
+      "personagem": "Nino",
+      "texto_en": "I'm planning to send some food to Futaro.\\nI'm about to pack it now.",
+      "texto_ptbr": "Vou mandar comida pro Fuutarou.\\nEstou prestes a embalar agora."
+    },
+    {
+      "id": 5,
+      "personagem": "Miku",
+      "texto_en": "Oh, I remember you bought a food sealer.\\nYour intended use for it was sending meals to Futaro, right?",
+      "texto_ptbr": "Ah, lembro que você comprou uma seladora de alimentos.\\nA ideia era usar pra mandar refeições pro Fuutarou, né?"
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "(Futaro's been in Tokyo for a few months.\\n In the beginning,\\n I was also busy with my new life.)",
+      "texto_ptbr": "(O Fuutarou está em Tóquio há alguns meses.\\n No começo,\\n eu também estava ocupada com a minha nova vida.)"
+    },
+    {
+      "id": 7,
+      "personagem": "Nino",
+      "texto_en": "(But now, I've grown accustomed to the\\n vocational school where Miku and I enrolled,\\n and I have more free time at hand.)",
+      "texto_ptbr": "(Mas agora, já me acostumei com a\\n escola técnica onde a Miku e eu nos matriculamos,\\n e tenho mais tempo livre.)"
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "(That's why I can spend my holidays\\n doing things I like%p-2;――%p;)",
+      "texto_ptbr": "(É por isso que posso passar os meus feriados\\n fazendo o que eu gosto%p-2;――%p;)"
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "That's it!\\nThank you for helping me pack, Miku.",
+      "texto_ptbr": "Pronto!\\nObrigada por me ajudar a embalar, Miku."
+    },
+    {
+      "id": 10,
+      "personagem": "Miku",
+      "texto_en": "Sure, but sending him food like this....\\nI mean you're acting like his mother.",
+      "texto_ptbr": "De nada, mas mandar comida assim....\\nQuer dizer, você está agindo como a mãe dele."
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "That's okay.\\nFutaro isn't used to cooking yet,\\nthus he can use its taste as a reference for his own cooking.",
+      "texto_ptbr": "Tudo bem.\\nO Fuutarou ainda não está acostumado a cozinhar,\\nentão ele pode usar o sabor como referência pra própria comida."
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "And by sending him food like this,\\nhe'll remember me, every time he has a meal.",
+      "texto_ptbr": "E mandando comida assim pra ele,\\nele vai se lembrar de mim toda vez que fizer uma refeição."
+    },
+    {
+      "id": 13,
+      "personagem": "Miku",
+      "texto_en": "For me it looks like as if you're taming him, huh?",
+      "texto_ptbr": "Pra mim parece que você está domesticando ele, hein?"
+    },
+    {
+      "id": 14,
+      "personagem": "Nino",
+      "texto_en": "Stop phrasing it like that, would you?\\nI'm supporting Futaro in my own way.",
+      "texto_ptbr": "Para de falar desse jeito, tá?\\nEu estou apoiando o Fuutarou do meu jeito."
+    },
+    {
+      "id": 15,
+      "personagem": "Miku",
+      "texto_en": "But it's really a lot.",
+      "texto_ptbr": "Mas é muita coisa mesmo."
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "Well, even I feel a little overwhelmed...\\nBut that's what you get if you want to balance the nutrients.",
+      "texto_ptbr": "Bom, até eu me sinto um pouco sobrecarregada...\\nMas é o que dá querer equilibrar os nutrientes."
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "Oh, right.\\nI should include a note on food combinations.\\nFutaro might eat without thinking about nutrient balance.",
+      "texto_ptbr": "Ah, é verdade.\\nPreciso incluir um bilhete sobre as combinações de alimentos.\\nO Fuutarou é capaz de comer sem pensar no equilíbrio nutricional."
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "It's possible to arrange things in order from the top.",
+      "texto_ptbr": "Dá pra organizar as coisas em ordem, de cima pra baixo."
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "He may have bad taste and that's why\\nhe doesn't really care about what kind of food he's eating.",
+      "texto_ptbr": "Ele deve ter um paladar ruim, e por isso\\nnão liga muito pro tipo de comida que está comendo."
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "Now, I hope he becomes more aware of his eating habits.",
+      "texto_ptbr": "Agora, espero que ele fique mais consciente dos hábitos alimentares dele."
+    },
+    {
+      "id": 21,
+      "personagem": "Miku",
+      "texto_en": "You seem more lively, Nino.\\nYou're really like a mother.",
+      "texto_ptbr": "Você parece mais animada, Nino.\\nVocê é mesmo igual a uma mãe."
+    },
+    {
+      "id": 22,
+      "personagem": "Nino",
+      "texto_en": "(I'm lively, am I?)",
+      "texto_ptbr": "(Eu estou animada, é?)"
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "(I was worried about myself\\n when I was separated from Futaro%p-2;――%p;)",
+      "texto_ptbr": "(Eu estava preocupada comigo mesma\\n quando fiquei separada do Fuutarou%p-2;――%p;)"
+    },
+    {
+      "id": 24,
+      "personagem": "Nino",
+      "texto_en": "(I'll get less lonely if I'm worrying about his eating \\n habits. I'm doing it out of love too.)",
+      "texto_ptbr": "(Vou me sentir menos sozinha se eu me preocupar com os hábitos \\n alimentares dele. Também faço isso por amor.)"
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "(Should I secretly go to Tokyo to see him\\n and have him tasting it in front of me?)",
+      "texto_ptbr": "(Será que devo ir escondida pra Tóquio\\n e fazer ele provar na minha frente?)"
+    },
+    {
+      "id": 26,
+      "personagem": "Miku",
+      "texto_en": "Nino?\\nWhy are you suddenly grinning like that?",
+      "texto_ptbr": "Nino?\\nPor que você está sorrindo assim de repente?"
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "Huh? Was I grinning?",
+      "texto_ptbr": "Hã? Eu estava sorrindo?"
+    },
+    {
+      "id": 28,
+      "personagem": "Miku",
+      "texto_en": "Yeah, you looked like you were up to something devious.\\nPoor Futaro.",
+      "texto_ptbr": "É, você parecia estar tramando algo.\\nCoitado do Fuutarou."
+    },
+    {
+      "id": 29,
+      "personagem": "Nino",
+      "texto_en": "Wh-why would you think that?",
+      "texto_ptbr": "P-por que você pensaria isso?"
+    },
+    {
+      "id": 30,
+      "personagem": "Miku",
+      "texto_en": "Because, you were probably thinking\\nabout secretly going to see him, right?",
+      "texto_ptbr": "Porque você provavelmente estava pensando\\nem ir escondida vê-lo, né?"
+    },
+    {
+      "id": 31,
+      "personagem": "Nino",
+      "texto_en": "I wasn't thinking about that...",
+      "texto_ptbr": "Eu não estava pensando nisso..."
+    },
+    {
+      "id": 32,
+      "personagem": "Miku",
+      "texto_en": "Nino, you're always easy to read\\nwhen it comes to Futaro.",
+      "texto_ptbr": "Nino, você é sempre fácil de ler\\nquando o assunto é o Fuutarou."
+    },
+    {
+      "id": 33,
+      "personagem": "Nino",
+      "texto_en": "Ooh...",
+      "texto_ptbr": "Ooh..."
+    },
+    {
+      "id": 34,
+      "personagem": "Miku",
+      "texto_en": "But, maybe it's okay.",
+      "texto_ptbr": "Mas talvez tudo bem."
+    },
+    {
+      "id": 35,
+      "personagem": "Miku",
+      "texto_en": "If Futaro receives such delicious food,\\nhe'll definitely want to see you, Nino.",
+      "texto_ptbr": "Se o Fuutarou receber uma comida tão deliciosa,\\nele com certeza vai querer te ver, Nino."
+    },
+    {
+      "id": 36,
+      "personagem": "Nino",
+      "texto_en": "R-really?\\nYeah, that must be it!",
+      "texto_ptbr": "S-sério?\\nÉ, deve ser isso mesmo!"
+    },
+    {
+      "id": 37,
+      "personagem": "Miku",
+      "texto_en": "This is like taming an animal with food.",
+      "texto_ptbr": "Isso é como domesticar um animal com comida."
+    },
+    {
+      "id": 38,
+      "personagem": "Nino",
+      "texto_en": "Ugh!\\nYou always have to put a twist on things!",
+      "texto_ptbr": "Ugh!\\nVocê sempre tem que colocar uma pitada de maldade nas coisas!"
+    },
+    {
+      "id": 39,
+      "personagem": "Nino",
+      "texto_en": "(Finally meeting after a long time of not seeing each \\n other, I wonder how Futaro will react?)",
+      "texto_ptbr": "(Finalmente nos reencontrando depois de muito tempo sem \\n nos vermos, como será que o Fuutarou vai reagir?)"
+    },
+    {
+      "id": 40,
+      "personagem": "Nino",
+      "texto_en": "(Will he be surprised and happy,\\n or scold me for coming without permission?)",
+      "texto_ptbr": "(Será que ele vai ficar surpreso e feliz,\\n ou me repreender por eu ter vindo sem permissão?)"
+    },
+    {
+      "id": 41,
+      "personagem": "Nino",
+      "texto_en": "(Even if he scolds me,\\n I won't give up. After all%p-2;――%p;)",
+      "texto_ptbr": "(Mesmo que ele me repreenda,\\n eu não vou desistir. Afinal%p-2;――%p;)"
+    },
+    {
+      "id": 42,
+      "personagem": "Nino",
+      "texto_en": "(Love shines when one's on the offensive.\\n Right, Futaro?!)",
+      "texto_ptbr": "(O amor brilha quando se está na ofensiva.\\n Não é, Fuutarou?!)"
+    }
+  ]
+}

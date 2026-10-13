@@ -1,0 +1,46 @@
+{
+  "arquivo": "ca02_21",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*map",
+      "texto_jp": "dummy",
+      "texto_en": "{UNTRANSLATED}dummy",
+      "texto_ptbr": "",
+      "selidx": 0
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "大通りＢ:一花",
+      "texto_en": "Main Street B: Ichika",
+      "texto_ptbr": "Rua Principal B: Ichika",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "ショップＢ:三玖:五月",
+      "texto_en": "Shop B: Miku/Itsuki",
+      "texto_ptbr": "Loja B: Miku/Itsuki",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "お土産屋:四葉:らいは",
+      "texto_en": "Souvenir Shop: Yotsuba/Raiha",
+      "texto_ptbr": "Loja de Souvenirs: Yotsuba/Raiha",
+      "selidx": 2
+    }
+  ]
+}

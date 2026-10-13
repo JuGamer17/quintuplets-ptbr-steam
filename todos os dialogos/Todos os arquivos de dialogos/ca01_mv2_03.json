@@ -1,0 +1,426 @@
+{
+  "arquivo": "ca01_mv2_03",
+  "total": 70,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Hiya ladies!\\nHave you found anything good?",
+      "texto_ptbr": "Oi gente!\\nEncontraram algo bom?"
+    },
+    {
+      "id": 1,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, it's Uesugi-san.",
+      "texto_ptbr": "Ah, é o Uesugi-san."
+    },
+    {
+      "id": 2,
+      "personagem": "Raiha",
+      "texto_en": "Not yet.\\nHow about you, big bro?",
+      "texto_ptbr": "Ainda não.\\nE você, Onii-chan?"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Me neither.\\nPicking the perfect souvenir is quite difficult, isn't it?",
+      "texto_ptbr": "Eu também não.\\nEscolher a lembrança perfeita é bem difícil, né?"
+    },
+    {
+      "id": 4,
+      "personagem": "Raiha",
+      "texto_en": "Oh, look over here!\\nThis shop has lots of T-shirts!",
+      "texto_ptbr": "Ah, olha aqui!\\nEssa loja tem um monte de camiseta!"
+    },
+    {
+      "id": 5,
+      "personagem": "Yotsuba",
+      "texto_en": "Wow, you're right.\\nIt's packed with T-shirts right from the storefront.",
+      "texto_ptbr": "Nossa, é verdade.\\nEstá lotado de camiseta já na entrada da loja."
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Amazing...\\nThey seem to have every pattern and color.",
+      "texto_ptbr": "Impressionante...\\nParece que tem todo tipo de estampa e cor."
+    },
+    {
+      "id": 7,
+      "personagem": "Raiha",
+      "texto_en": "Oh, that's cute.\\nIt has a shisa on it.",
+      "texto_ptbr": "Ah, essa é fofa.\\nTem um shisa nela."
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Oh, that one?\\nIt looks like they've altered it quite a bit,\\nmaking it look like a mascot character.",
+      "texto_ptbr": "Ah, essa aí?\\nParece que modificaram bastante,\\nficou parecendo um personagem mascote."
+    },
+    {
+      "id": 9,
+      "personagem": "Yotsuba",
+      "texto_en": "Do you like it, Raiha-chan? Let's buy it, then!",
+      "texto_ptbr": "Você gostou, Raiha-chan? Então vamos comprar!"
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 11,
+      "personagem": "Yotsuba",
+      "texto_en": "Please leave the payment to me!",
+      "texto_ptbr": "Pode deixar o pagamento comigo!"
+    },
+    {
+      "id": 12,
+      "personagem": "Raiha",
+      "texto_en": "Um, it's okay, Yotsuba.\\nIt's cute, but I don't really want it that much.",
+      "texto_ptbr": "Hum, tá bom assim, Yotsuba.\\nÉ fofa, mas não quero tanto assim."
+    },
+    {
+      "id": 13,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, really?\\nThen please tell me if you see something else you like.",
+      "texto_ptbr": "Ah, é?\\nEntão me fala se você ver outra coisa que goste."
+    },
+    {
+      "id": 14,
+      "personagem": "Raiha",
+      "texto_en": "Hmm, let's see...",
+      "texto_ptbr": "Hmm, veja bem..."
+    },
+    {
+      "id": 15,
+      "personagem": "Raiha",
+      "texto_en": "Oh, what's that? It's cute, but is that a snake?",
+      "texto_ptbr": "Ah, o que é isso? É fofo, mas é uma cobra?"
+    },
+    {
+      "id": 16,
+      "personagem": "Yotsuba",
+      "texto_en": "That's definitely a spotted garden eel.\\nIt's a creature that sticks its head out while living in the sand.",
+      "texto_ptbr": "Esse com certeza é uma enguia-jardim.\\nÉ uma criatura que fica com a cabeça pra fora enquanto vive na areia."
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "But they don't grow like vegetables in the ground.",
+      "texto_ptbr": "Mas elas não crescem feito legumes no chão."
+    },
+    {
+      "id": 18,
+      "personagem": "Yotsuba",
+      "texto_en": "They don't, but let's buy it anyway!",
+      "texto_ptbr": "Não crescem, mas vamos comprar mesmo assim!"
+    },
+    {
+      "id": 19,
+      "personagem": "Raiha",
+      "texto_en": "That bird T-shirt looks good too.\\nWhat kind of bird is it?",
+      "texto_ptbr": "Essa camiseta de pássaro também ficou boa.\\nQue tipo de pássaro é esse?"
+    },
+    {
+      "id": 20,
+      "personagem": "Yotsuba",
+      "texto_en": "I don't know, but let's buy it!",
+      "texto_ptbr": "Não sei, mas vamos comprar!"
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "It looks like a Yanbaru rail.",
+      "texto_ptbr": "Parece um saburá-de-Yanbaru."
+    },
+    {
+      "id": 22,
+      "personagem": "Raiha",
+      "texto_en": "They even have a banana T-shirt.\\nI wonder if bananas are famous in Okinawa?",
+      "texto_ptbr": "Tem até camiseta de banana.\\nSerá que banana é famosa em Okinawa?"
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "Okinawan bananas are rare.",
+      "texto_ptbr": "As bananas de Okinawa são raras."
+    },
+    {
+      "id": 24,
+      "personagem": "Yotsuba",
+      "texto_en": "Let's buy it! Guys, come on!",
+      "texto_ptbr": "Vamos comprar! Gente, vai logo!"
+    },
+    {
+      "id": 25,
+      "personagem": "Raiha",
+      "texto_en": "There's even such a thing as a goya T-shirt, huh!\\nIt might be a little strange wearing it outside of Okinawa.",
+      "texto_ptbr": "Até camiseta de goya existe, hein!\\nPode ficar um pouco estranho usar fora de Okinawa."
+    },
+    {
+      "id": 26,
+      "personagem": "Yotsuba",
+      "texto_en": "We've got to buy it!",
+      "texto_ptbr": "Tem que comprar!"
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*\\nI've been ignoring you for a while,\\nbut how many T-shirts do you plan to buy here, Yotsuba?",
+      "texto_ptbr": "*suspiro*\\nFiquei te ignorando por um tempo,\\nmas quantas camisetas você planeja comprar aqui, Yotsuba?"
+    },
+    {
+      "id": 28,
+      "personagem": "Yotsuba",
+      "texto_en": "But if Raiha-chan likes them,\\nI'd like to buy them for her.",
+      "texto_ptbr": "Mas se a Raiha-chan gostar,\\ngostaria de comprar pra ela."
+    },
+    {
+      "id": 29,
+      "personagem": "Raiha",
+      "texto_en": "Well, I'm happy, but that's not necessary.\\nI appreciate the gesture though.",
+      "texto_ptbr": "Bem, fico feliz, mas não precisa.\\nMas agradeço o gesto."
+    },
+    {
+      "id": 30,
+      "personagem": "Yotsuba",
+      "texto_en": "Is that so? You don't have to hold back, you know?\\nI'll buy everything you want!",
+      "texto_ptbr": "É mesmo? Não precisa se segurar, sabia?\\nEu compro tudo que você quiser!"
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Hey...",
+      "texto_ptbr": "Ei..."
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Calm down a bit. Raiha seems to be in trouble.",
+      "texto_ptbr": "Se acalma um pouco. A Raiha está numa saia justa."
+    },
+    {
+      "id": 33,
+      "personagem": "Yotsuba",
+      "texto_en": "Wha!",
+      "texto_ptbr": "Ó!"
+    },
+    {
+      "id": 34,
+      "personagem": "Yotsuba",
+      "texto_en": "Raiha-chan... Did I cause you trouble?",
+      "texto_ptbr": "Raiha-chan... Eu te coloquei numa situação difícil?"
+    },
+    {
+      "id": 35,
+      "personagem": "Raiha",
+      "texto_en": "Well, a little bit, I guess.\\nBut I'm grateful for your compassion.",
+      "texto_ptbr": "Bem, um pouquinho, acho.\\nMas fico grata pela sua gentileza."
+    },
+    {
+      "id": 36,
+      "personagem": "Yotsuba",
+      "texto_en": "Ooohh... I see...\\nI'm sorry for getting carried away without permission.",
+      "texto_ptbr": "Ooooh... Entendo...\\nDesculpa ter me empolgado sem pedir permissão."
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "She doesn't really need clothes that much.",
+      "texto_ptbr": "Ela não precisa tanto de roupas assim."
+    },
+    {
+      "id": 38,
+      "personagem": "Yotsuba",
+      "texto_en": "Well come on, you keep saying that, but that's why\\nyou'll always look very boring, Uesugi-san.",
+      "texto_ptbr": "Anda, você vive falando isso, mas é por isso\\nque você vai sempre parecer um sem-graça, Uesugi-san."
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Wha?!",
+      "texto_ptbr": "Ó?!"
+    },
+    {
+      "id": 40,
+      "personagem": "Raiha",
+      "texto_en": "You tell him, sister!",
+      "texto_ptbr": "Fala pra ele, sim!"
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "R-Raiha...\\nWeren't you on my side?",
+      "texto_ptbr": "R-Raiha...\\nVocê não estava do meu lado?"
+    },
+    {
+      "id": 42,
+      "personagem": "Raiha",
+      "texto_en": "I am on your side, but I think you should\\npay more attention to fashion, big bro. After all,\\nIchika-san is very fashionable.",
+      "texto_ptbr": "Estou sim, mas acho que você deveria\\nprestar mais atenção à moda, Onii-chan. Afinal,\\na Ichika-san é muito estilosa."
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "Ugh...",
+      "texto_ptbr": "Ugh..."
+    },
+    {
+      "id": 44,
+      "personagem": "Yotsuba",
+      "texto_en": "Now listen, Uesugi-san. No matter how many\\nclothes you have, you won't be in trouble for having them.\\nCombining different clothes is the key!",
+      "texto_ptbr": "Olha, Uesugi-san. Por mais roupas\\nque você tenha, nunca vai ser demais tê-las.\\nCombinar peças diferentes é o segredo!"
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "W-well, even if that's true,\\nhow do you wear a goya or an eel T-shirt?",
+      "texto_ptbr": "B-bem, mesmo que seja verdade,\\ncomo você usa uma camiseta de goya ou de enguia?"
+    },
+    {
+      "id": 46,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 47,
+      "personagem": "Yotsuba",
+      "texto_en": "That's difficult!",
+      "texto_ptbr": "Isso é difícil!"
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "Hey! Don't give up there!",
+      "texto_ptbr": "Ei! Não desiste assim!"
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "You can't wear these clothes all year long, ya know.\\nT-shirts with bananas or goya\\nare clearly for people with a refined taste right?",
+      "texto_ptbr": "Você não pode usar essas roupas o ano todo, sabia.\\nCamisetas com banana ou goya\\nsão claramente pra quem tem um gosto refinado, né?"
+    },
+    {
+      "id": 50,
+      "personagem": "Yotsuba",
+      "texto_en": "Ooh...\\nThat's not true, right, Raiha-chan?",
+      "texto_ptbr": "Ooh...\\nNão é verdade, né, Raiha-chan?"
+    },
+    {
+      "id": 51,
+      "personagem": "Raiha",
+      "texto_en": "Ahaha...\\nSorry, Yotsuba-san.\\nIt's true that it might be a little embarrassing.",
+      "texto_ptbr": "Ahaha...\\nDesculpa, Yotsuba-san.\\nÉ verdade que pode ser um pouco constrangedor."
+    },
+    {
+      "id": 52,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh NO!!",
+      "texto_ptbr": "Não PODE!!"
+    },
+    {
+      "id": 53,
+      "personagem": "Raiha",
+      "texto_en": "It's fun looking at them in the store,\\nbut imagining myself wearing them...\\nnot so much.",
+      "texto_ptbr": "É divertido olhar na loja,\\nmas me imaginar usando...\\naí já não tanto."
+    },
+    {
+      "id": 54,
+      "personagem": "Yotsuba",
+      "texto_en": "Now that you mention it, you're right...\\nI might have gotten a little carried away.",
+      "texto_ptbr": "Agora que você falou, é verdade...\\nAcho que me empolguei um pouco."
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "You were totally in tourist mode.",
+      "texto_ptbr": "Você estava completamente no modo turista."
+    },
+    {
+      "id": 56,
+      "personagem": "Yotsuba",
+      "texto_en": "But, Uesugi-san, you were the most hyped up\\nwhen we arrived in Okinawa, weren't you?",
+      "texto_ptbr": "Mas, Uesugi-san, você foi o que mais se animou\\nquando a gente chegou em Okinawa, né?"
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "Th-that was different. This is a whole separate matter!",
+      "texto_ptbr": "I-isso foi diferente. Isso aí é outra história!"
+    },
+    {
+      "id": 58,
+      "personagem": "Raiha",
+      "texto_en": "That was fun!\\nThere were so many interesting T-shirts.",
+      "texto_ptbr": "Foi divertido!\\nTinham tantas camisetas interessantes."
+    },
+    {
+      "id": 59,
+      "personagem": "Yotsuba",
+      "texto_en": "Um, Raiha-chan?\\nCan I at least give you one T-shirt as a gift,\\nplease?",
+      "texto_ptbr": "Hum, Raiha-chan?\\nPosso pelo menos te dar uma camiseta de presente,\\npor favor?"
+    },
+    {
+      "id": 60,
+      "personagem": "Raiha",
+      "texto_en": "Huh?!",
+      "texto_ptbr": "Hã?!"
+    },
+    {
+      "id": 61,
+      "personagem": "Yotsuba",
+      "texto_en": "I can't control myself anymore!\\nI have to buy you something Raiha-chan!",
+      "texto_ptbr": "Não consigo mais me controlar!\\nTenho que te comprar alguma coisa, Raiha-chan!"
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "Well, you'll have to endure that...",
+      "texto_ptbr": "Bem, vai ter que aguentar..."
+    },
+    {
+      "id": 63,
+      "personagem": "Raiha",
+      "texto_en": "Okay, then...",
+      "texto_ptbr": "Tá bom então..."
+    },
+    {
+      "id": 64,
+      "personagem": "Raiha",
+      "texto_en": "I'm still growing, you know. Even if I receive a gift,\\nI'll probably outgrow it soon, and it'll slumber in my wardrobe.",
+      "texto_ptbr": "Ainda estou crescendo, sabe. Mesmo que eu receba um presente,\\nprovavelmente logo não vou mais caber, e vai ficar esquecido no armário."
+    },
+    {
+      "id": 65,
+      "personagem": "Yotsuba",
+      "texto_en": "Th-that's...!\\nIt would be unforgivable\\nif my gift made you sad, Raiha-chan!",
+      "texto_ptbr": "I-isso...!\\nSeria imperdoável\\nse meu presente te deixasse triste, Raiha-chan!"
+    },
+    {
+      "id": 66,
+      "personagem": "Raiha",
+      "texto_en": "I'm really greatful for your effort.\\nThank you, Yotsuba-san.",
+      "texto_ptbr": "Fico muito grata pelo seu esforço.\\nObrigada, Yotsuba-san."
+    },
+    {
+      "id": 67,
+      "personagem": "Yotsuba",
+      "texto_en": "Ha-wa-waah!\\nYou're such a good girl, Raiha-chan,\\ntoo good!",
+      "texto_ptbr": "Ha-ua-uaah!\\nVocê é boa demais, Raiha-chan,\\nboa demais!"
+    },
+    {
+      "id": 68,
+      "personagem": "Yotsuba",
+      "texto_en": "Then, I'll buy you one when you grow up!\\nI promise! I will NEVER forget!",
+      "texto_ptbr": "Então, vou te comprar uma quando você crescer!\\nPrometo! JAMAIS vou esquecer!"
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "What's with that promise...?",
+      "texto_ptbr": "Que promessa é essa...?"
+    }
+  ]
+}

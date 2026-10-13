@@ -1,0 +1,342 @@
+{
+  "arquivo": "ca03_mv4_02",
+  "total": 56,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "Hmm, I wonder if they have canoes here?",
+      "texto_ptbr": "Hmm, será que eles têm canoas aqui?"
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "There's no way they'd have that kind of souvenir.\\nConsider the size, Yotsuba.",
+      "texto_ptbr": "Não tem como eles terem esse tipo de lembrancinha.\nPensa no tamanho, Yotsuba."
+    },
+    {
+      "id": 2,
+      "personagem": "Yotsuba",
+      "texto_en": "If it's a single-seater,\\nmaybe you could take it home with you, right?",
+      "texto_ptbr": "Se for de um lugar só,\ntalvez dê pra levar pra casa, né?"
+    },
+    {
+      "id": 3,
+      "personagem": "Nino",
+      "texto_en": "...There's nowhere to put it. Stop.",
+      "texto_ptbr": "...Não tem onde colocar. Para."
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Hey, what are you guys talking about?",
+      "texto_ptbr": "Ei, do que vocês estão falando?"
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun, can you stop Yotsuba?\\nApparently, she intends to buy a canoe as a souvenir.",
+      "texto_ptbr": "Fu-kun, dá pra você parar a Yotsuba?\nParece que ela pretende comprar uma canoa de lembrancinha."
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "That's impossible...\\nWhy does she want a canoe anyway?",
+      "texto_ptbr": "Isso é impossível...\nPor que ela quer uma canoa, afinal?"
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "At the Oceanic Culture Museum I visited earlier\\nwith Nino, they had a lot of canoes on display\\nthat people used in the past!",
+      "texto_ptbr": "No Museu da Cultura Oceânica que eu visitei mais cedo\ncom a Nino, tinha um monte de canoas expostas\nque as pessoas usavam antigamente!"
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Ah, that's why.",
+      "texto_ptbr": "Ah, então é por isso."
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "It was a really interesting exhibit,\\nand I can kind of understand why she feels that way.",
+      "texto_ptbr": "Foi uma exposição bem interessante,\ne eu meio que entendo por que ela se sente assim."
+    },
+    {
+      "id": 10,
+      "personagem": "Yotsuba",
+      "texto_en": "It seems that the shape and size of canoes vary\\ndepending on the region. There was also a reeeaaally\\nhuge one that was made by combining two canoes together.",
+      "texto_ptbr": "Parece que a forma e o tamanho das canoas variam\nde acordo com a região. Também tinha uma\ngiiigante que era feita juntando duas canoas."
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "I think it was a canoe used for navigation,\\nthey made it bigger to store food and cargo.",
+      "texto_ptbr": "Acho que era uma canoa usada pra navegação,\neles faziam ela maior pra guardar comida e carga."
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "Of course you'd know that, Uesugi-san!\\nThat's correct!",
+      "texto_ptbr": "Claro que você saberia isso, Uesugi-san!\nTá certo!"
+    },
+    {
+      "id": 13,
+      "personagem": "Yotsuba",
+      "texto_en": "People over a millennium ago used canoes\\nto migrate to islands in the Pacific.",
+      "texto_ptbr": "Pessoas de mais de mil anos atrás usavam canoas\npra migrar para ilhas no Pacífico."
+    },
+    {
+      "id": 14,
+      "personagem": "Yotsuba",
+      "texto_en": "It's amazing that they managed to paddle thousands of kilometers,\\nthe people of the past were perserverant!\\nI can't lose to them!",
+      "texto_ptbr": "É incrível que eles conseguiram remar milhares de quilômetros,\nas pessoas do passado eram persistentes!\nEu não posso perder pra eles!"
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "No one's competing.",
+      "texto_ptbr": "Ninguém tá competindo."
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "However, it was thanks to that perserverance\\nthat they were able to find new lands\\nin the middle of the Pacific.",
+      "texto_ptbr": "Mas foi graças a essa persistência\nque eles conseguiram encontrar novas terras\nno meio do Pacífico."
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "I heard that similar cultures\\nsprouted up on distant islands. For example,\\ncultivating taro or weaving clothes from banana fibers.",
+      "texto_ptbr": "Ouvi dizer que culturas parecidas\nsurgiram em ilhas distantes. Por exemplo,\ncultivar taro ou tecer roupas com fibras de banana."
+    },
+    {
+      "id": 18,
+      "personagem": "Nino",
+      "texto_en": "So I hear, the world is connected by the sea...",
+      "texto_ptbr": "Pelo que dizem, o mundo é conectado pelo mar..."
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "There may not be a single place in this world\\nthat is truly isolated.",
+      "texto_ptbr": "Talvez não exista nem um único lugar nesse mundo\nque seja realmente isolado."
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Some ecological systems can get isolated.",
+      "texto_ptbr": "Alguns sistemas ecológicos podem ficar isolados."
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Have you heard of the Galapagos Islands?\\nOrganisms in isolated locations evolve independently.",
+      "texto_ptbr": "Você já ouviu falar das Ilhas Galápagos?\nOrganismos em locais isolados evoluem de forma independente."
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "Oh, yeah. I've heard of it.\\nIt's also used to describe\\na certain phenomenon, right?",
+      "texto_ptbr": "Ah, sim. Já ouvi falar.\nTambém é usado pra descrever\num certo fenômeno, né?"
+    },
+    {
+      "id": 24,
+      "personagem": "Yotsuba",
+      "texto_en": "Humans can travel across the sea in canoes,\\nbut it's not easy for animals\\nto swim to faraway islands. Plants can't move either.",
+      "texto_ptbr": "Humanos conseguem viajar pelo mar em canoas,\nmas não é fácil pros animais\nnadarem até ilhas distantes. Plantas também não conseguem se mover."
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Sometimes seeds can be carried across the sea\\nby the wind, but it's not common.",
+      "texto_ptbr": "Às vezes sementes podem ser levadas pelo mar\npelo vento, mas não é comum."
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "There might have been situations\\nwhere those people had no choice but to leave,\\nand travel across the sea.",
+      "texto_ptbr": "Deve ter havido situações\nem que essas pessoas não tiveram escolha a não ser partir\ne viajar pelo mar."
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "Come to think of it, once you leave,\\nyou might never be able to return.",
+      "texto_ptbr": "Pensando bem, uma vez que você parte,\ntalvez nunca mais consiga voltar."
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "That's a good phrase.",
+      "texto_ptbr": "Essa é uma boa frase."
+    },
+    {
+      "id": 29,
+      "personagem": "Nino",
+      "texto_en": "Huh? What is?",
+      "texto_ptbr": "Hã? O que é?"
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "It's just as you said.\\nMaybe the idea of isolation is just a made up concept by humans.",
+      "texto_ptbr": "É exatamente como você disse.\nTalvez a ideia de isolamento seja só um conceito inventado pelos humanos."
+    },
+    {
+      "id": 31,
+      "personagem": "Nino",
+      "texto_en": "I mean, I didn't mean to be that deep or anything.\\nIt was just a random thought.",
+      "texto_ptbr": "Quer dizer, eu não quis ser tão profunda nem nada.\nFoi só um pensamento aleatório."
+    },
+    {
+      "id": 32,
+      "personagem": "Yotsuba",
+      "texto_en": "Exactly.\\nIt means that the world is united.\\nYou have a creative imagination, Nino.",
+      "texto_ptbr": "Exatamente.\nSignifica que o mundo é unido.\nVocê tem uma imaginação criativa, Nino."
+    },
+    {
+      "id": 33,
+      "personagem": "Nino",
+      "texto_en": "D-don't flatter me too much, c'mon.",
+      "texto_ptbr": "N-não me elogia tanto assim, vai."
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "There might have been situations\\nwhere those people had no choice but to leave,\\nand travel across the sea.",
+      "texto_ptbr": "Deve ter havido situações\nem que essas pessoas não tiveram escolha a não ser partir\ne viajar pelo mar."
+    },
+    {
+      "id": 35,
+      "personagem": "Nino",
+      "texto_en": "Come to think of it, once you leave,\\nyou might never be able to return.",
+      "texto_ptbr": "Pensando bem, uma vez que você parte,\ntalvez nunca mais consiga voltar."
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "That depends on human will, doesn't it?",
+      "texto_ptbr": "Isso depende da vontade humana, não é?"
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Someone had the idea of exploring for a new land.\\nWithout that, nothing would have started.",
+      "texto_ptbr": "Alguém teve a ideia de explorar uma nova terra.\nSem isso, nada teria começado."
+    },
+    {
+      "id": 38,
+      "personagem": "Nino",
+      "texto_en": "You need to exert effort in order to achieve the results you want.\\nIf not you will lose your will to succeed. ",
+      "texto_ptbr": "Você precisa se esforçar pra conseguir os resultados que quer.\nSenão, você perde a vontade de ter sucesso."
+    },
+    {
+      "id": 39,
+      "personagem": "Yotsuba",
+      "texto_en": "I'm sure at first,\\nthere were many things that didn't go well.",
+      "texto_ptbr": "Tenho certeza que no início,\nteve muita coisa que não deu certo."
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, they probably examined the causes\\nof failure each time, thought of new methods,\\nand improved the canoe.",
+      "texto_ptbr": "É, eles provavelmente examinavam as causas\ndo fracasso a cada vez, pensavam em novos métodos,\ne melhoravam a canoa."
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "It may have taken years, or maybe even decades.",
+      "texto_ptbr": "Pode ter levado anos, ou talvez até décadas."
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Even so, they continued to hold onto their willpower\\nuntil the end, and finally arrived\\nat their destination.",
+      "texto_ptbr": "Mesmo assim, eles continuaram segurando firme a vontade\naté o fim, e finalmente chegaram\nao seu destino."
+    },
+    {
+      "id": 43,
+      "personagem": "Nino",
+      "texto_en": "...That sounds like a story.\\nBut it might really have happened.",
+      "texto_ptbr": "...Isso parece uma história.\nMas pode ter acontecido de verdade."
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "There might have been situations\\nwhere those people had no choice but to leave,\\nand travel across the sea.",
+      "texto_ptbr": "Deve ter havido situações\nem que essas pessoas não tiveram escolha a não ser partir\ne viajar pelo mar."
+    },
+    {
+      "id": 45,
+      "personagem": "Nino",
+      "texto_en": "Come to think of it, once you leave,\\nyou might never be able to return.",
+      "texto_ptbr": "Pensando bem, uma vez que você parte,\ntalvez nunca mais consiga voltar."
+    },
+    {
+      "id": 46,
+      "personagem": "Nino",
+      "texto_en": "Even if the one who left was filled with hope,\\nI wonder how the ones left behind felt?",
+      "texto_ptbr": "Mesmo que quem partiu estivesse cheio de esperança,\nserá como os que ficaram se sentiram?"
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "Who knows.",
+      "texto_ptbr": "Quem sabe."
+    },
+    {
+      "id": 48,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, but, actually,\\nthey might have just been absent-minded.",
+      "texto_ptbr": "Ah, mas, na verdade,\ntalvez eles só estivessem distraídos."
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Absent-minded?",
+      "texto_ptbr": "Distraídos?"
+    },
+    {
+      "id": 50,
+      "personagem": "Yotsuba",
+      "texto_en": "Maybe they got lost\\nwhile searching for delicious fish\\nand ended up on a different island!",
+      "texto_ptbr": "Talvez eles tenham se perdido\nprocurando por peixes deliciosos\ne acabaram indo parar em outra ilha!"
+    },
+    {
+      "id": 51,
+      "personagem": "Nino",
+      "texto_en": "...That's possible.",
+      "texto_ptbr": "...É possível."
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Well, if they traveled because of food, then we can say\\nthat their appetite was something fierce.",
+      "texto_ptbr": "Bom, se eles viajaram por causa de comida, então dá pra dizer\nque o apetite deles era algo feroz."
+    },
+    {
+      "id": 53,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun, are you picturing Itsuki in your head right now?",
+      "texto_ptbr": "Fu-kun, você tá imaginando a Itsuki na sua cabeça agora?"
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "...Don't tell her that.",
+      "texto_ptbr": "...Não conta isso pra ela."
+    },
+    {
+      "id": 55,
+      "personagem": "Nino",
+      "texto_en": "Okay, okay.",
+      "texto_ptbr": "Tá, tá."
+    }
+  ]
+}

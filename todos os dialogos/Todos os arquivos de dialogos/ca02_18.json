@@ -1,0 +1,174 @@
+{
+  "arquivo": "ca02_18",
+  "total": 28,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Alright!\\nWe've had breakfast\\nand it's time to start the day's activities!",
+      "texto_ptbr": "Certo!\\nCafé da manhã feito\\ne está na hora de começar as atividades do dia!"
+    },
+    {
+      "id": 1,
+      "personagem": "Ichika",
+      "texto_en": "You're energetic, Futaro-kun.",
+      "texto_ptbr": "Você está cheio de energia, Fuutarou-kun."
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Heheh, that's because we're going to Shurijo Castle,\\na famous tourist spot in Okinawa. I'm excited!",
+      "texto_ptbr": "Heheh, é porque vamos ao Castelo Shurijo,\\num famoso ponto turístico de Okinawa. Estou animado!"
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, we can't miss Shurijo Castle.\\nI'm looking forward to it.",
+      "texto_ptbr": "É, não podemos perder o Castelo Shurijo.\\nEstou ansiosa."
+    },
+    {
+      "id": 4,
+      "personagem": "Yotsuba",
+      "texto_en": "After the castle, we'll go to Kokusai dori. \\nWe have to decide on souvenirs for Dad today.",
+      "texto_ptbr": "Depois do castelo, a gente vai à Kokusai Dori.\\nTemos que decidir as lembranças do Papai hoje."
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Huh? Didn't you go shopping for that yesterday?",
+      "texto_ptbr": "Hã? Vocês não foram fazer compras pra isso ontem?"
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "Well, yes.\\nBut, on the way, the mood kind of changed.",
+      "texto_ptbr": "Bem, fomos.\\nMas no caminho o clima mudou um pouco."
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Huh? Why?",
+      "texto_ptbr": "Hã? Por quê?"
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, it's nothing.\\nIt's our matter.",
+      "texto_ptbr": "Ah, não é nada.\\nÉ coisa nossa."
+    },
+    {
+      "id": 9,
+      "personagem": "Raiha",
+      "texto_en": "I wonder if Shurijo Castle is big since it's a castle?",
+      "texto_ptbr": "Será que o Castelo Shurijo é grande já que é um castelo?"
+    },
+    {
+      "id": 10,
+      "personagem": "Ichika",
+      "texto_en": "I'm not sure.\\nI've only seen pictures of the beautiful buildings.",
+      "texto_ptbr": "Não sei.\\nSó vi fotos dos prédios bonitos."
+    },
+    {
+      "id": 11,
+      "personagem": "Ichika",
+      "texto_en": "Ah, and Shureimon?\\nI've heard about it too.",
+      "texto_ptbr": "Ah, e o Shureimon?\\nTambém ouvi falar dele."
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "What Ichika is referring to is probably the Seiden.\\nIt's a building that's registered\\nas a World Heritage Site.",
+      "texto_ptbr": "O que a Ichika está falando é provavelmente o Seiden.\\nÉ um edifício registrado\\ncomo Patrimônio Mundial."
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Heh, Itsuki.\\nYou're not doing enough research.",
+      "texto_ptbr": "Heh, Itsuki.\\nVocê não pesquisou o suficiente."
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "The registered World Heritage Site\\nis the Shurijo Castle ruins!\\nThe buildings are a separate matter!",
+      "texto_ptbr": "O que está registrado como Patrimônio Mundial\\nsão as ruínas do Castelo Shurijo!\\nOs edifícios são outra história!"
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, really?!",
+      "texto_ptbr": "Nossa, sério?!"
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "The buildings were reconstructed,\\nso they're not part of the World Heritage Site.\\nRemember that.",
+      "texto_ptbr": "Os edifícios foram reconstruídos,\\nentão não fazem parte do Patrimônio Mundial.\\nGrava isso."
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "Oooh... I thought everything had been registered.",
+      "texto_ptbr": "Oooh... Achei que tudo tinha sido registrado."
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Well, it's an easy mistake to make.",
+      "texto_ptbr": "Bem, é um erro fácil de cometer."
+    },
+    {
+      "id": 20,
+      "personagem": "Miku",
+      "texto_en": "So, when were the buildings reconstructed?",
+      "texto_ptbr": "Então, quando os edifícios foram reconstruídos?"
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "I think the current buildings haven't been around for\\nmore than 30 years. By the way, they were reconstructed when \\nthe ruins were registered as a World Heritage Site in 2000.",
+      "texto_ptbr": "Acho que os edifícios atuais têm\\nmenos de 30 anos. A propósito, foram reconstruídos quando\\nas ruínas foram registradas como Patrimônio Mundial em 2000."
+    },
+    {
+      "id": 22,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "Hey, Nino, isn't Uesugi-san\\nacting a little strange today?\\nHe's like a walking encyclopedia or something.",
+      "texto_ptbr": "Ei, Nino, o Uesugi-san não está\\nagindo um pouco estranho hoje?\\nEle parece uma enciclopédia ambulante."
+    },
+    {
+      "id": 24,
+      "personagem": "Nino",
+      "texto_en": "Yeah, maybe.\\nI wonder if he's back to his usual self.",
+      "texto_ptbr": "É, talvez.\\nSerá que ele voltou a ser ele mesmo."
+    },
+    {
+      "id": 25,
+      "personagem": "Yotsuba",
+      "texto_en": "Was it just a coincidence\\nthat he was acting strangely yesterday?",
+      "texto_ptbr": "Será que foi só coincidência\\nele ter agido estranhamente ontem?"
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "I hope so.",
+      "texto_ptbr": "Espero que sim."
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Well, let's get going, then!",
+      "texto_ptbr": "Bom, vamos lá então!"
+    }
+  ]
+}

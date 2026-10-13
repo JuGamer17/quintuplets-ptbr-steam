@@ -1,0 +1,75 @@
+{
+  "arquivo": "ca06_mv3_03",
+  "total": 7,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "そうですね。\\nやはり、自分の部屋でしょうか。",
+      "texto_en": "Let's see.\\nMaybe my own room, perhaps.",
+      "texto_ptbr": "Deixa eu ver.\\nTalvez o meu próprio quarto."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "いろんな場所にお菓子を隠してそうだな",
+      "texto_en": "You'd hide sweets in various places.",
+      "texto_ptbr": "Parece que você esconde doces em vários lugares.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "……想像つかないな",
+      "texto_en": "...I can't imagine it.",
+      "texto_ptbr": "...Não consigo imaginar.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "お前の部屋は整理整頓されてそうだな",
+      "texto_en": "I bet it'd be neat and tidy.",
+      "texto_ptbr": "Seu quarto deve ser bem arrumado.",
+      "selidx": 2
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "ショッピングゾーンＡ:一花:五月",
+      "texto_en": "Shopping Zone A: Ichika/Itsuki",
+      "texto_ptbr": "Zona de Compras A: Ichika/Itsuki",
+      "selidx": 0
+    },
+    {
+      "id": 5,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "ショッピングゾーンＣ:二乃:四葉",
+      "texto_en": "Shopping Zone C: Nino/Yotsuba",
+      "texto_ptbr": "Zona de Compras C: Nino/Yotsuba",
+      "selidx": 1
+    },
+    {
+      "id": 6,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "レストランゾーン:三玖",
+      "texto_en": "Restaurant Zone: Miku",
+      "texto_ptbr": "Zona de Restaurantes: Miku",
+      "selidx": 2
+    }
+  ]
+}

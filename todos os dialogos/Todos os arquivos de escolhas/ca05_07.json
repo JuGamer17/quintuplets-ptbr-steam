@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca05_07",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "私は、特に花ぼうるが気に入りましたね。\\n名前の通り、花を思わせる繊細な作りには驚きました。",
+      "texto_en": "I especially liked the hanabouru.\\nAs the name hinted at,\\nits delicate design reminded me of flowers.",
+      "texto_ptbr": "Eu gostei bastante do hanabouru.\\nComo o nome sugere,\\no desenho delicado dele me lembrou flores."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "花より団子なんじゃなかったのか？",
+      "texto_en": "Aren't you all about substance over style?",
+      "texto_ptbr": "Não era o tipo que prefere comida a flores?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "お茶とも合う味だったな",
+      "texto_en": "It went really well with tea.",
+      "texto_ptbr": "Combinou bem com chá.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "あの繊細さは手作りなんだろうな",
+      "texto_en": "That delicate design was probably handmade.",
+      "texto_ptbr": "Aquela delicadeza deve ser feita à mão.",
+      "selidx": 2
+    }
+  ]
+}

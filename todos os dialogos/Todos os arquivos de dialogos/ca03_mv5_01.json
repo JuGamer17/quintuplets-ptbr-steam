@@ -1,0 +1,210 @@
+{
+  "arquivo": "ca03_mv5_01",
+  "total": 34,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "%p-2;――%p; Ah.",
+      "texto_ptbr": "%p-2;――%p; Ah."
+    },
+    {
+      "id": 1,
+      "personagem": "Ichika",
+      "texto_en": "What's up?\\nFound a good souvenir?",
+      "texto_ptbr": "O que foi?\nAchou uma boa lembrancinha?"
+    },
+    {
+      "id": 2,
+      "personagem": "Yotsuba",
+      "texto_en": "Not a souvenir,\\nbut Uesugi-san is running over here.",
+      "texto_ptbr": "Não é lembrancinha, não,\nmas o Uesugi-san tá vindo correndo pra cá."
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "M-Miku!",
+      "texto_ptbr": "M-Miku!"
+    },
+    {
+      "id": 4,
+      "personagem": "Miku",
+      "texto_en": "Huh, Futaro?!",
+      "texto_ptbr": "Hã, Futaro?!"
+    },
+    {
+      "id": 5,
+      "personagem": "Miku",
+      "texto_en": "I-I-I'm gonna check out another store.",
+      "texto_ptbr": "E-eu vou dar uma olhada em outra loja."
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Wait up, Miku!",
+      "texto_ptbr": "Espera, Miku!"
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san, please, stop!",
+      "texto_ptbr": "Uesugi-san, por favor, para!"
+    },
+    {
+      "id": 8,
+      "personagem": "Ichika",
+      "texto_en": "Futaro-kun, calm down a bit!",
+      "texto_ptbr": "Futaro-kun, se acalma um pouco!"
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "Oh, Yotsuba and Ichika?\\nYou guys were here, huh.",
+      "texto_ptbr": "Ah, Yotsuba e Ichika?\nVocês estavam aqui, hein."
+    },
+    {
+      "id": 10,
+      "personagem": "Yotsuba",
+      "texto_en": "I-I see.\\nYou were so desperate that you didn't even notice us.",
+      "texto_ptbr": "E-entendi.\nVocê tava tão desesperado que nem percebeu a gente."
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Sorry...\\nI just wanted to talk to Miku.",
+      "texto_ptbr": "Desculpa...\nEu só queria falar com a Miku."
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "Well, don't you think you're a bit too eager?\\nIf you charge at someone like that,\\nanyone would run away.",
+      "texto_ptbr": "Bom, você não acha que tá um pouco afobado demais?\nSe você avança assim pra cima de alguém,\nqualquer um sairia correndo."
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "It can't be helped!\\nIf Miku's running away, then\\nI have to chase her!",
+      "texto_ptbr": "Não tem jeito!\nSe a Miku tá fugindo, então\neu tenho que correr atrás dela!"
+    },
+    {
+      "id": 14,
+      "personagem": "Yotsuba",
+      "texto_en": "Being serious is a good thing, but\\nyou might be making Miku nervous right now.",
+      "texto_ptbr": "Ser sério é bom, mas\nvocê pode estar deixando a Miku nervosa agora."
+    },
+    {
+      "id": 15,
+      "personagem": "Yotsuba",
+      "texto_en": "You were so fired up, now,\\nit surprised me, too.",
+      "texto_ptbr": "Você tava tão empolgado agora há pouco\nque até eu me assustei."
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "...Is that so?",
+      "texto_ptbr": "...É mesmo?"
+    },
+    {
+      "id": 17,
+      "personagem": "Yotsuba",
+      "texto_en": "From Miku's point of view,\\nit might seem like\\nyou're closing in...",
+      "texto_ptbr": "Do ponto de vista da Miku,\npode parecer que\nvocê tá encurralando ela..."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "What do you mean by 'closing in'?",
+      "texto_ptbr": "Como assim 'encurralando'?"
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "In that case%p-2;――",
+      "texto_ptbr": "Nesse caso%p-2;――"
+    },
+    {
+      "id": 20,
+      "personagem": "Ichika",
+      "texto_en": "Yotsuba, stop!",
+      "texto_ptbr": "Yotsuba, para!"
+    },
+    {
+      "id": 21,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 22,
+      "personagem": "Ichika",
+      "texto_en": "Futaro-kun doesn't know that we heard everything\\nfrom Itsuki-chan.",
+      "texto_ptbr": "O Futaro-kun não sabe que a gente ouviu tudo\nda Itsuki-chan."
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "...Ah!",
+      "texto_ptbr": "...Ah!"
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Hey, what's wrong?",
+      "texto_ptbr": "Ei, o que foi?"
+    },
+    {
+      "id": 25,
+      "personagem": "Yotsuba",
+      "texto_en": "N-no!\\nIt's nothing.\\nBy closing in, I mean...",
+      "texto_ptbr": "N-não!\nNão é nada.\nCom 'encurralando' eu quis dizer..."
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "When you came charging over earlier,\\nyour face looked super scary!\\nLike a raging bull!",
+      "texto_ptbr": "Quando você veio correndo mais cedo,\nsua cara tava super assustadora!\nParecia um touro enfurecido!"
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "(Really? Was I making that face again?!)",
+      "texto_ptbr": "(Sério? Eu tava fazendo essa cara de novo?!)"
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "(Damn. It's the same as yesterday.\\n I'm just thinking about myself\\n and putting Miku's feelings second again...)",
+      "texto_ptbr": "(Droga. É a mesma coisa de ontem.\n Eu só fico pensando em mim mesmo\n e deixando os sentimentos da Miku em segundo plano de novo...)"
+    },
+    {
+      "id": 29,
+      "personagem": "Ichika",
+      "texto_en": "You have to be gentler.\\nGirls are delicate, like soap bubbles.",
+      "texto_ptbr": "Você precisa ser mais gentil.\nGarotas são delicadas, como bolhas de sabão."
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "...That's true.\\nCome to think of it, I had a hard time\\ngetting through your guys' defenses.",
+      "texto_ptbr": "...É verdade.\nPensando bem, eu tive bastante trabalho\npra passar pelas defesas de vocês."
+    },
+    {
+      "id": 31,
+      "personagem": "Ichika",
+      "texto_en": "But, you were able to do it, weren't you.",
+      "texto_ptbr": "Mas você conseguiu, não conseguiu."
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, thanks.",
+      "texto_ptbr": "É, valeu."
+    },
+    {
+      "id": 33,
+      "personagem": "Yotsuba",
+      "texto_en": "We're cheering for you!",
+      "texto_ptbr": "A gente tá na sua torcida!"
+    }
+  ]
+}

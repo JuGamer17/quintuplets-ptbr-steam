@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca02_mv2_02",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "なんだか必殺技っぽい名前ですね！",
+      "texto_en": "It sounds like a secret technique!",
+      "texto_ptbr": "Parece um jutsu secreto!"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "なんだそりゃ？",
+      "texto_en": "What the?",
+      "texto_ptbr": "Mas o que é isso?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "さすが四葉の発想……",
+      "texto_en": "Your imagination runs wild...",
+      "texto_ptbr": "Que ideia mais típica da Yotsuba...",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ある意味、正解かもな",
+      "texto_en": "You're kinda right.",
+      "texto_ptbr": "De certa forma, pode estar certa.",
+      "selidx": 2
+    }
+  ]
+}

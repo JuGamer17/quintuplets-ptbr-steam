@@ -1,0 +1,60 @@
+{
+  "arquivo": "ed06_01_06",
+  "total": 9,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(The fact is, I made a mistake with\\n my confession target.)",
+      "texto_ptbr": "(A verdade é que eu errei o alvo\\n da minha confissão.)"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(That greatly turned the atmosphere\\n between me and the quintuplets\\n into an incredibly awkward one.)",
+      "texto_ptbr": "(Isso deixou o clima\\n entre mim e as quintuplas\\n incrivelmente constrangedor.)"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(Even after everyone returned to the hotel,\\n not a single person mentioned what happened.\\n It was as if it had never occured.)",
+      "texto_ptbr": "(Mesmo depois que todas voltaram para o hotel,\\n ninguém mencionou o que aconteceu.\\n Foi como se nunca tivesse acontecido.)"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "(After the last night of the graduation trip passed,\\n we boarded the plane home,\\n with a lingering uncomfortable atmosphere.)",
+      "texto_ptbr": "(Passada a última noite da viagem de formatura,\\n embarcamos no avião de volta pra casa,\\n com um clima desconfortável ainda no ar.)"
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "(In this graduation trip, I have\\n betrayed the trust I had built up.)",
+      "texto_ptbr": "(Nesta viagem de formatura, eu\\n traí a confiança que tinha construído.)"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "(What will happen to the relationship\\n between them and I\\n from now on?)",
+      "texto_ptbr": "(O que vai acontecer com a relação\\n entre elas e eu\\n de agora em diante?)"
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "(Is it going to stay like this?\\n Can it still change?\\n Or%p-2;――%p;)",
+      "texto_ptbr": "(Vai continuar assim?\\n Ainda pode mudar?\\n Ou%p-2;――%p;)"
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "(Is this, where it ends?)",
+      "texto_ptbr": "(É aqui que tudo termina?)"
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "(The answer to that is shrouded in mist.)",
+      "texto_ptbr": "(A resposta para isso está envolta em névoa.)"
+    }
+  ]
+}

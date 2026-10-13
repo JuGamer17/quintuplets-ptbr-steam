@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca02_mv5_01",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "風太郎と恋人になってから、\\nそういうこと、してなかったでしょ？",
+      "texto_en": "We haven't done that since we started going out,\\nhave we?",
+      "texto_ptbr": "A gente nunca fez isso desde que começamos a namorar,\nnão é?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "そんなんでいいのか",
+      "texto_en": "That's what you want?",
+      "texto_ptbr": "É isso que você quer?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "言われてみれば……",
+      "texto_en": "Now that you mention it...",
+      "texto_ptbr": "Agora que você falou...",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "これでいいか？",
+      "texto_en": "This alright?",
+      "texto_ptbr": "Assim tá bom?",
+      "selidx": 2
+    }
+  ]
+}

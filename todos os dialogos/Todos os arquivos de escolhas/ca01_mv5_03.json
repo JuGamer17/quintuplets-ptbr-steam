@@ -1,0 +1,75 @@
+{
+  "arquivo": "ca01_mv5_03",
+  "total": 7,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "（いや、そんなに深刻に悩むとこか？）",
+      "texto_en": "(You're having trouble deciding that much?)",
+      "texto_ptbr": "(Estão com tanta dificuldade pra decidir assim?)"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "なんでもいいから早くしろ",
+      "texto_en": "Hurry up and pick something.",
+      "texto_ptbr": "Escolhe qualquer coisa logo.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "迷うよなぁ",
+      "texto_en": "It's hard to choose.",
+      "texto_ptbr": "É difícil escolher, hein.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "別の味が良かったか？",
+      "texto_en": "Should I have gotten other flavors?",
+      "texto_ptbr": "Será que eu devia ter pegado outros sabores?",
+      "selidx": 2
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "アラハビーチＣ:一花:二乃",
+      "texto_en": "Araha Beach C: Ichika/Nino",
+      "texto_ptbr": "Araha Beach C: Ichika/Nino",
+      "selidx": 0
+    },
+    {
+      "id": 5,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "アラハビーチＢ:三玖:四葉",
+      "texto_en": "Araha Beach B: Miku/Yotsuba",
+      "texto_ptbr": "Araha Beach B: Miku/Yotsuba",
+      "selidx": 1
+    },
+    {
+      "id": 6,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "アラハビーチＡ:五月:らいは",
+      "texto_en": "Araha Beach A: Itsuki/Raiha",
+      "texto_ptbr": "Araha Beach A: Itsuki/Raiha",
+      "selidx": 2
+    }
+  ]
+}

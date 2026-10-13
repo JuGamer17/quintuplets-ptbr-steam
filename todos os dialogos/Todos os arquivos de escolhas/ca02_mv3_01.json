@@ -1,0 +1,75 @@
+{
+  "arquivo": "ca02_mv3_01",
+  "total": 7,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "正式な報告はまだだとしても、\\nお父さん、２人が付き合ってることは\\n知ってるのかな？",
+      "texto_en": "Even though it's not official yet,\\ndoes Dad know that you're dating?",
+      "texto_ptbr": "Mesmo não sendo oficial ainda,\no papai sabe que vocês estão namorando?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "どうだろうな",
+      "texto_en": "I'm not sure.",
+      "texto_ptbr": "Será?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "二乃からは言わなくていいからな",
+      "texto_en": "You don't need to say anything, Nino.",
+      "texto_ptbr": "Você não precisa dizer nada, Nino.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "察してはいるだろうな",
+      "texto_en": "He probably senses it.",
+      "texto_ptbr": "Ele provavelmente já desconfia.",
+      "selidx": 2
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "裏通り:一花:三玖",
+      "texto_en": "Back Street: Ichika/Miku",
+      "texto_ptbr": "Rua dos Fundos: Ichika/Miku",
+      "selidx": 0
+    },
+    {
+      "id": 5,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "ショップＡ:五月",
+      "texto_en": "Shop A: Itsuki",
+      "texto_ptbr": "Loja A: Itsuki",
+      "selidx": 1
+    },
+    {
+      "id": 6,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "大通りＢ:四葉:らいは",
+      "texto_en": "Main Street B: Yotsuba/Raiha",
+      "texto_ptbr": "Rua Principal B: Yotsuba/Raiha",
+      "selidx": 2
+    }
+  ]
+}

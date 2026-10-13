@@ -1,0 +1,55 @@
+{
+  "arquivo": "ca04_20",
+  "total": 5,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*map",
+      "texto_jp": "dummy",
+      "texto_en": "{UNTRANSLATED}dummy",
+      "texto_ptbr": "",
+      "selidx": 0
+    },
+    {
+      "id": 1,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "わかりました。\\nよろしくお願いします。",
+      "texto_en": "I understand.\\nI'll leave it to you.",
+      "texto_ptbr": "Entendi.\\nDeixo com você."
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "恐らく反対されるだろうけどな",
+      "texto_en": "He'll probably be opposed to us though.",
+      "texto_ptbr": "Provavelmente ele vai se opor, né.",
+      "selidx": 0
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "任せとけ",
+      "texto_en": "I've got this.",
+      "texto_ptbr": "Deixa comigo.",
+      "selidx": 1
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ただ事実を告げるだけだ",
+      "texto_en": "I just need to state the facts.",
+      "texto_ptbr": "Eu só preciso dizer os fatos.",
+      "selidx": 2
+    }
+  ]
+}

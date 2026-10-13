@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca02_25",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "やっぱり、こうしてちゃんと話すのって大切ね。\\n恋人同士って関係に甘えちゃダメだわ。",
+      "texto_en": "You know,\\nit's important to have conversations like this.\\nWe can't rely on just being in a romantic relationship.",
+      "texto_ptbr": "Sabe,\\né importante ter conversas assim.\\nA gente não pode depender só de estar em um relacionamento."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "まったくだな",
+      "texto_en": "I agree.",
+      "texto_ptbr": "Concordo plenamente.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "勉強になった",
+      "texto_en": "I've learned a lot.",
+      "texto_ptbr": "Aprendi bastante.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "だな、おかげで惚れ直したし",
+      "texto_en": "Yeah. I've fallen in love again because of it.",
+      "texto_ptbr": "É, graças a isso me apaixonei de novo.",
+      "selidx": 2
+    }
+  ]
+}

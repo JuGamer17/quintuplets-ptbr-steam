@@ -1,0 +1,210 @@
+{
+  "arquivo": "ca01_06",
+  "total": 34,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Wow...\\nIt's bustling here.",
+      "texto_ptbr": "Uau...\\nQue movimento."
+    },
+    {
+      "id": 1,
+      "personagem": "Ichika",
+      "texto_en": "This is the main street of Naha.\\nIt's listed as a must-see place in the guidebooks.",
+      "texto_ptbr": "Essa é a rua principal de Naha.\\nEla aparece como ponto obrigatório nos guias turísticos."
+    },
+    {
+      "id": 2,
+      "personagem": "Raiha",
+      "texto_en": "There are so many shops lined up!\\nHow far do they go?",
+      "texto_ptbr": "Tem tantas lojas!\\nAté onde elas vão?"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "It's supposed to be almost a mile long.\\nIf you convert it to kilometers, it's about 1.6 km.",
+      "texto_ptbr": "Dizem que tem quase uma milha de extensão.\\nConvertendo para quilômetros, dá uns 1,6 km."
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "A mile...?",
+      "texto_ptbr": "Uma milha...?"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "It's a unit of length... You don't know that?",
+      "texto_ptbr": "É uma unidade de medida... Não sabia disso?"
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "I-I do!\\nI just didn't get it right away.",
+      "texto_ptbr": "E-Eu sei sim!\\nSó não cai a ficha de imediato."
+    },
+    {
+      "id": 7,
+      "personagem": "Miku",
+      "texto_en": "Why did you say it in miles?",
+      "texto_ptbr": "Por que falou em milhas?"
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Because Kokusai dori is called the 'Miracle Mile.'",
+      "texto_ptbr": "Porque a Kokusai Dori é chamada de 'Miracle Mile'."
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "Wow, you're really knowledgeable.",
+      "texto_ptbr": "Uau, você sabe muito sobre isso."
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "No, I just did some research\\nbefore we came to Okinawa.",
+      "texto_ptbr": "Não, eu só pesquisei um pouco\\nantes de vir para Okinawa."
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Speaking of which, don't you guys do some research\\nbefore going on a trip? You do, right? Anyway, I was too \\nexcited and did an extensive deep-dive on Okinawa!",
+      "texto_ptbr": "Falando nisso, vocês não pesquisam nada\\nantes de viajar? Pesquisam, né? De qualquer forma, eu fiquei tão \\nempolgado que acabei me aprofundando muito em Okinawa!"
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "Well, I researched a little bit, you know?\\nBut whether I can remember everything I looked up\\nis another matter entirely.",
+      "texto_ptbr": "Bom, eu pesquisei um pouquinho, sabe?\\nMas se eu lembro de tudo que vi\\né outra história."
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Ah, I get it.",
+      "texto_ptbr": "Ah, entendo."
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "Don't give me that disappointed look!",
+      "texto_ptbr": "Para de me olhar com essa cara de decepção!"
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "A-anyway, with all these shops lined up,\\nit's hard to decide where to go.",
+      "texto_ptbr": "B-bem, com tantas lojas assim,\\nfica difícil decidir por onde começar."
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "Indeed, if we tried to see them all,\\neven a whole day might not be enough.",
+      "texto_ptbr": "De fato, se tentarmos ver todas,\\naté um dia inteiro pode não ser suficiente."
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "Did you really plan to see them all?\\nIf you don't just focus on what catches your eye,\\nthere'll be no end to it, you know?",
+      "texto_ptbr": "Alguém estava planejando ver todas mesmo?\\nSe não focar no que te chama atenção,\\nnunca vai acabar, sabe?"
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "So, where should we start?",
+      "texto_ptbr": "Então, por onde a gente começa?"
+    },
+    {
+      "id": 19,
+      "personagem": "Ichika",
+      "texto_en": "Well, how about splitting up for now and visit the places we're\\ninterested in?",
+      "texto_ptbr": "Bom, que tal a gente se separar por agora e visitar os lugares\\nque cada um quer ver?"
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "That sounds good. Okay then%p-2;――",
+      "texto_ptbr": "Boa ideia. Então%p-2;――"
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Wait, hold on a moment!",
+      "texto_ptbr": "Espera, peraí um segundo!"
+    },
+    {
+      "id": 22,
+      "personagem": "Ichika",
+      "texto_en": "Hm? What's up?",
+      "texto_ptbr": "Hm? O que foi?"
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "Actually, I have a suggestion%p-2;――",
+      "texto_ptbr": "Na verdade, tenho uma sugestão%p-2;――"
+    },
+    {
+      "id": 24,
+      "personagem": "Nino",
+      "texto_en": "We all get matching souvenirs, huh?\\nFor you Fu-kun it's a real thoughtful idea.",
+      "texto_ptbr": "A gente compra lembranças iguais, né?\\nPra você, Fu-kun, essa é uma ideia bem atenciosa."
+    },
+    {
+      "id": 25,
+      "personagem": "Yotsuba",
+      "texto_en": "I think it's a great idea too!",
+      "texto_ptbr": "Eu também acho uma ideia ótima!"
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "I definitely agree!\\nIt'll definitely be a memory we'll cherish forever.",
+      "texto_ptbr": "Concordo demais!\\nCom certeza vai ser uma lembrança que vamos guardar pra sempre."
+    },
+    {
+      "id": 27,
+      "personagem": "Miku",
+      "texto_en": "What kind of souvenir should we get?",
+      "texto_ptbr": "Que tipo de lembrança a gente devia comprar?"
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "Let's search for things in the shops we're interested in.",
+      "texto_ptbr": "Vamos procurar nas lojas que nos interessam."
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Ah, you're right.",
+      "texto_ptbr": "Ah, é verdade."
+    },
+    {
+      "id": 30,
+      "personagem": "Ichika",
+      "texto_en": "And we're counting on your sense of style, Futaro-kun.",
+      "texto_ptbr": "E estamos contando com o seu gosto, Futaro-kun."
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "I'll do my best to meet your expectations...\\nbut don't get your hopes up too high. Honestly,\\nI don't have much confidence in my sense of style.",
+      "texto_ptbr": "Vou fazer o possível pra não decepcionar...\\nmas não depositem muita esperança em mim. Honestamente,\\nnão tenho muita confiança no meu gosto."
+    },
+    {
+      "id": 32,
+      "personagem": "Ichika",
+      "texto_en": "Bummer. You're being pessimistic before we even start looking.\\nIt's okay, just tell us about anything you think looks good.",
+      "texto_ptbr": "Que pena. Já tá sendo pessimista antes mesmo de a gente começar a olhar.\\nTá bom, é só falar o que achar bonito."
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Okay, got it.",
+      "texto_ptbr": "Tá, entendido."
+    }
+  ]
+}

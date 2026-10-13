@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca04_mv6_01",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "それ、私も知りたい。",
+      "texto_en": "I want to know that too.",
+      "texto_ptbr": "Eu também quero saber."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "特にはないな",
+      "texto_en": "Nothing in particular.",
+      "texto_ptbr": "Nada em particular.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "やっぱりジンベエザメだ",
+      "texto_en": "It's gotta be the whale shark.",
+      "texto_ptbr": "Tem que ser o tubarão-baleia.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "選ぶとしたら深海の展示だな",
+      "texto_en": "I've gotta go with the deep sea exhibit.",
+      "texto_ptbr": "Se for pra escolher, a exposição de águas profundas.",
+      "selidx": 2
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca06_mv6_01",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "むしろ、なかなかの名案だと思いません？",
+      "texto_en": "Actually, it's a pretty good idea, isn't it?",
+      "texto_ptbr": "Na verdade, é uma ideia bem boa, não é?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "いいから離れろって！",
+      "texto_en": "Just back off, will you?!",
+      "texto_ptbr": "Tá, sai de perto logo!",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "これは……余計に目立つだろ",
+      "texto_en": "This is only going to make us stand out more.",
+      "texto_ptbr": "Isso só vai chamar mais atenção, né?",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "まあ、対策にはなりそうだな。",
+      "texto_en": "I guess this could work.",
+      "texto_ptbr": "Bom, parece que pode funcionar.",
+      "selidx": 2
+    }
+  ]
+}

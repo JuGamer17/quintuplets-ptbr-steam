@@ -1,0 +1,504 @@
+{
+  "arquivo": "ca01_08",
+  "total": 83,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Raiha",
+      "texto_en": "Wow...\\nIt doesn't feel like Japan at all.\\nIs this what America is like?",
+      "texto_ptbr": "Uau...\\nNão parece o Japão nem um pouco.\\nA América é assim?"
+    },
+    {
+      "id": 1,
+      "personagem": "Ichika",
+      "texto_en": "Hmm, I'm not sure.\\nAmerica is a big place, after all.",
+      "texto_ptbr": "Hmm, não sei bem.\\nAfinal, a América é um país enorme."
+    },
+    {
+      "id": 2,
+      "personagem": "Nino",
+      "texto_en": "Well, with stuff like this,\\nthe atmosphere is more important\\nthan being accurate, isn't it?",
+      "texto_ptbr": "Bom, em lugares assim,\\na atmosfera importa mais\\ndo que ser fiel ao original, né?"
+    },
+    {
+      "id": 3,
+      "personagem": "Ichika",
+      "texto_en": "Exactly.\\nRather than worrying about the details,\\nthe one who enjoys it wins. Right, Futaro-kun?",
+      "texto_ptbr": "Exatamente.\\nEm vez de ficar se preocupando com os detalhes,\\nquem se diverte mais ganha. Não é, Futaro-kun?"
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Why are you asking me?",
+      "texto_ptbr": "Por que tá me perguntando?"
+    },
+    {
+      "id": 5,
+      "personagem": "Ichika",
+      "texto_en": "You probably know yourself, don't you?",
+      "texto_ptbr": "Você mesmo deve saber, não sabe?"
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, yeah, I won't say anything awkward.",
+      "texto_ptbr": "Tá, tá, não vou dizer nada fora do lugar."
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "What should we do, Raiha-chan?\\nShould we head to the Ferris Wheel right away?",
+      "texto_ptbr": "O que a gente faz, Raiha-chan?\\nVamos direto pra roda-gigante?"
+    },
+    {
+      "id": 8,
+      "personagem": "Raiha",
+      "texto_en": "Hmm, but looking for souvenirs is important too.\\nIf we have time later, maybe we can ride it.",
+      "texto_ptbr": "Hmm, mas procurar lembranças também é importante.\\nSe sobrar tempo depois, a gente anda nela."
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "Then how about we go at sunset?\\nIt's sure to be beautiful.",
+      "texto_ptbr": "Então que tal ir ao pôr do sol?\\nCom certeza vai ser lindo."
+    },
+    {
+      "id": 10,
+      "personagem": "Yotsuba",
+      "texto_en": "That's a great idea! Nice, Itsuki!\\nLet's ride in the evening, Raiha-chan.",
+      "texto_ptbr": "Que ideia ótima! Isso, Itsuki!\\nA gente anda à tardinha, Raiha-chan."
+    },
+    {
+      "id": 11,
+      "personagem": "Raiha",
+      "texto_en": "Okay!",
+      "texto_ptbr": "Ótimo!"
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "Ah, speaking of sunsets%p-2;――",
+      "texto_ptbr": "Ah, falando em pôr do sol%p-2;――"
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "The beach is nearby too. There's a place\\ncalled Sunset Beach. As the name suggests,\\nthe sunset is supposed to be beautiful there.",
+      "texto_ptbr": "A praia também fica pertinho. Tem um lugar\\nchamado Sunset Beach. Como o nome diz,\\no pôr do sol lá deve ser lindo."
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Wow, there's a beach nearby?\\nI feel like we could spend the whole day here\\njust with that.",
+      "texto_ptbr": "Sério, tem praia pertinho?\\nParece que dá pra ficar o dia inteiro aqui\\nsó com isso."
+    },
+    {
+      "id": 15,
+      "personagem": "Miku",
+      "texto_en": "What should we do?\\nIs shopping okay for now?",
+      "texto_ptbr": "O que a gente faz?\\nPor enquanto as compras estão boas?"
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "Well, if we have time,\\nlet's try some other things too.",
+      "texto_ptbr": "Bom, se sobrar tempo,\\na gente aproveita e faz outras coisas também."
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Okay.",
+      "texto_ptbr": "Certo."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "There are more shops than I thought,\\nand the buildings are intricate.\\nWe might get lost if we're not careful.",
+      "texto_ptbr": "Tem muito mais lojas do que eu imaginava,\\ne os prédios são bem labirínticos.\\nA gente pode se perder se não prestar atenção."
+    },
+    {
+      "id": 19,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, if we let our guard down, we might lose Yotsuba.",
+      "texto_ptbr": "É, se a gente baixar a guarda, pode acabar perdendo a Yotsuba."
+    },
+    {
+      "id": 20,
+      "personagem": "Miku",
+      "texto_en": "It's possible.",
+      "texto_ptbr": "É bem capaz."
+    },
+    {
+      "id": 21,
+      "personagem": "Itsuki",
+      "texto_en": "Yotsuba, be careful, okay?",
+      "texto_ptbr": "Yotsuba, vai com cuidado, tá?"
+    },
+    {
+      "id": 22,
+      "personagem": "Yotsuba",
+      "texto_en": "It's okay! I've got my smartphone, just in case!",
+      "texto_ptbr": "Tô bem! Tô com meu smartphone, só por precaução!"
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "You're just assuming you'll get lost.",
+      "texto_ptbr": "Você já tá assumindo que vai se perder."
+    },
+    {
+      "id": 24,
+      "personagem": "Raiha",
+      "texto_en": "Even though we're in the same area,\\nit feels different from Kokusai dori, doesn't it?",
+      "texto_ptbr": "Mesmo sendo na mesma região,\\nsente uma vibe bem diferente da Kokusai Dori, não é?"
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "I wonder if there are more fashion stores here.\\nIf we're looking for something to wear,\\nit might be easier to find it here.",
+      "texto_ptbr": "Será que tem mais lojas de moda aqui.\\nSe a gente tiver procurando roupa,\\ntalvez seja mais fácil achar por aqui."
+    },
+    {
+      "id": 26,
+      "personagem": "Yotsuba",
+      "texto_en": "Alright, let's keep going!",
+      "texto_ptbr": "Então, vamos em frente!"
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "Y-Yotsuba?!",
+      "texto_ptbr": "Y-Yotsuba?!"
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "Oh, there's even a store that sells furniture here.",
+      "texto_ptbr": "Oh, tem até uma loja de móveis aqui."
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Isn't it impossible to have furniture as a souvenir?",
+      "texto_ptbr": "Móvel como lembrança não é meio impossível?"
+    },
+    {
+      "id": 30,
+      "personagem": "Ichika",
+      "texto_en": "I know that. I'm just curious, that's all.",
+      "texto_ptbr": "Sei disso. Só tô curiosa, é tudo."
+    },
+    {
+      "id": 31,
+      "personagem": "Ichika",
+      "texto_en": "Hmm, it mainly sells imported furniture from America.",
+      "texto_ptbr": "Hmm, é principalmente móveis importados da América."
+    },
+    {
+      "id": 32,
+      "personagem": "Ichika",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 33,
+      "personagem": "Ichika",
+      "texto_en": "Hey, Futaro-kun?",
+      "texto_ptbr": "Ei, Futaro-kun?"
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, what's up?",
+      "texto_ptbr": "Oi, o que foi?"
+    },
+    {
+      "id": 35,
+      "personagem": "Ichika",
+      "texto_en": "U-ummm...",
+      "texto_ptbr": "B-bem..."
+    },
+    {
+      "id": 36,
+      "personagem": "Ichika",
+      "texto_en": "Do you think new furniture would be nice? Even though\\nwe share the same room, it would feel like a fresh start!\\nMaybe I should rearrange my room.",
+      "texto_ptbr": "Será que móveis novos seriam legais? Mesmo que\\ncompartilhemos o quarto, daria uma sensação de recomeço!\\nTalvez eu devesse reorganizar meu quarto."
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Clean up your room, first.\\nYou don't even have a place to put new furniture.",
+      "texto_ptbr": "Primeiro arruma o seu quarto.\\nVocê nem tem espaço pra colocar móvel novo."
+    },
+    {
+      "id": 38,
+      "personagem": "Ichika",
+      "texto_en": "Ooh...!\\nYou hit a sore spot.",
+      "texto_ptbr": "Ai...!\\nVocê foi bem na ferida."
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "It's not just that,\\nanyone who knows your room would think the same thing.",
+      "texto_ptbr": "Não é só eu,\\nqualquer um que conhece seu quarto pensaria a mesma coisa."
+    },
+    {
+      "id": 40,
+      "personagem": "Ichika",
+      "texto_en": "You're right.\\nI guess we should start\\nby making space for the furniture.",
+      "texto_ptbr": "É verdade.\\nAcho que preciso começar\\nabrindo espaço pros móveis."
+    },
+    {
+      "id": 41,
+      "personagem": "Ichika",
+      "texto_en": "Oh, um, by the way, Futaro-kun...",
+      "texto_ptbr": "Ah, é, aliás, Futaro-kun..."
+    },
+    {
+      "id": 42,
+      "personagem": "Ichika",
+      "texto_en": "Have you thought about what you'll do after you move?",
+      "texto_ptbr": "Você já pensou no que vai fazer depois que se mudar?"
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "I also need to think about furniture for my room.\\nWhat kind of things should I put in my apartment\\nas a single person living alone?",
+      "texto_ptbr": "Preciso pensar em móveis pro meu quarto também.\\nQue tipo de coisa devo colocar no apartamento\\nmorando sozinho?"
+    },
+    {
+      "id": 44,
+      "personagem": "Ichika",
+      "texto_en": "Even though it can be difficult,\\nit's also fun to spend time\\nthinking about these things.",
+      "texto_ptbr": "Mesmo sendo complicado,\\ntambém é divertido ficar\\npensando nessas coisas."
+    },
+    {
+      "id": 45,
+      "personagem": "Ichika",
+      "texto_en": "If you gradually add furniture and decor,\\nit will start to feel like your own space.",
+      "texto_ptbr": "Se for adicionando móveis e decoração aos poucos,\\nvai começar a parecer um espaço seu de verdade."
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Is that so?",
+      "texto_ptbr": "É mesmo?"
+    },
+    {
+      "id": 47,
+      "personagem": "Ichika",
+      "texto_en": "Hmm? Isn't it?",
+      "texto_ptbr": "Hmm? Não é?"
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "Well, I've never had my own room before,\\nso I'm not quite sure.",
+      "texto_ptbr": "Bom, nunca tive um quarto só meu antes,\\nentão não sei bem dizer."
+    },
+    {
+      "id": 49,
+      "personagem": "Ichika",
+      "texto_en": "Oh, I see.\\nWell, I think it'll be even more fun for you then.\\nYou might even get unexpectedly addicted to it.",
+      "texto_ptbr": "Ah, entendo.\\nBem, então acho que vai ser ainda mais divertido pra você.\\nTalvez você acabe viciando sem esperar."
+    },
+    {
+      "id": 50,
+      "personagem": "Ichika",
+      "texto_en": "Oh, um, by the way, Futaro-kun...",
+      "texto_ptbr": "Ah, é, aliás, Futaro-kun..."
+    },
+    {
+      "id": 51,
+      "personagem": "Ichika",
+      "texto_en": "Have you thought about what you'll do after you move?",
+      "texto_ptbr": "Você já pensou no que vai fazer depois que se mudar?"
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "American furniture, huh?\\nDo you like this sort of thing, Ichika?",
+      "texto_ptbr": "Móveis americanos, hein?\\nVocê gosta desse estilo, Ichika?"
+    },
+    {
+      "id": 53,
+      "personagem": "Ichika",
+      "texto_en": "Oh? What's this? \\nAre you curious about my tastes, Futaro-kun?",
+      "texto_ptbr": "Oh? O que é isso? \\nFicou curioso sobre meu gosto, Futaro-kun?"
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "W-well, um...yeah, I am.",
+      "texto_ptbr": "B-bem, é... sim, fiquei."
+    },
+    {
+      "id": 55,
+      "personagem": "Ichika",
+      "texto_en": "Teehee!\\nI see. You ARE curious, then.",
+      "texto_ptbr": "Hehe!\\nEntendo. Então você ficou curioso mesmo."
+    },
+    {
+      "id": 56,
+      "personagem": "Ichika",
+      "texto_en": "Well, I'll eventually tell you.\\nEverything that I like, that is.",
+      "texto_ptbr": "Bom, um dia eu te conto.\\nTudo que eu gosto, quer dizer."
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "O-okay...",
+      "texto_ptbr": "T-tá..."
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "Wait, are you not going to tell me here and now?",
+      "texto_ptbr": "Espera, você não vai me contar agora?"
+    },
+    {
+      "id": 59,
+      "personagem": "Ichika",
+      "texto_en": "It's a s-e-c-r-e-t for now. ",
+      "texto_ptbr": "Por enquanto é s-e-g-r-e-d-o. "
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "Are you hiding something...?",
+      "texto_ptbr": "Tá escondendo alguma coisa...?"
+    },
+    {
+      "id": 61,
+      "personagem": "Ichika",
+      "texto_en": "Oh, um, by the way, Futaro-kun...",
+      "texto_ptbr": "Ah, é, aliás, Futaro-kun..."
+    },
+    {
+      "id": 62,
+      "personagem": "Ichika",
+      "texto_en": "Have you thought about what you'll do after you move?",
+      "texto_ptbr": "Você já pensou no que vai fazer depois que se mudar?"
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "After I move?",
+      "texto_ptbr": "Depois que eu me mudar?"
+    },
+    {
+      "id": 64,
+      "personagem": "Ichika",
+      "texto_en": "It's not really anything specific!",
+      "texto_ptbr": "Não é nada específico assim!"
+    },
+    {
+      "id": 65,
+      "personagem": "Ichika",
+      "texto_en": "Like, how long you plan on living alone for...?",
+      "texto_ptbr": "Tipo, por quanto tempo você pretende morar sozinho...?"
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, what's up?",
+      "texto_ptbr": "Oi, o que foi?"
+    },
+    {
+      "id": 67,
+      "personagem": "Ichika",
+      "texto_en": "Nothing!\\nEven if I was to furnish my house, I don't think\\nAmerican-style furniture would match very well!",
+      "texto_ptbr": "Nada!\\nMesmo que eu fosse mobiliar minha casa, acho que\\nmóveis no estilo americano não combinariam muito bem!"
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "Well, I'm not planning on buying any.\\nI prefer something simpler.",
+      "texto_ptbr": "Bom, não tô planejando comprar nada disso.\\nPrefiro algo mais simples."
+    },
+    {
+      "id": 69,
+      "personagem": "Ichika",
+      "texto_en": "Something simple and functional?\\nThat's a fitting choice for you.",
+      "texto_ptbr": "Algo simples e funcional?\\nFaz todo sentido pra você."
+    },
+    {
+      "id": 70,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 71,
+      "personagem": "Miku",
+      "texto_en": "Nino? What's wrong?",
+      "texto_ptbr": "Nino? O que foi?"
+    },
+    {
+      "id": 72,
+      "personagem": "Nino",
+      "texto_en": "Isn't Ichika being a little weird?",
+      "texto_ptbr": "A Ichika não tá estranha?"
+    },
+    {
+      "id": 73,
+      "personagem": "Miku",
+      "texto_en": "...I felt like something was off when she was\\ntalking to Futaro.",
+      "texto_ptbr": "...Senti que tinha algo errado enquanto ela\\nfalava com o Futaro."
+    },
+    {
+      "id": 74,
+      "personagem": "Nino",
+      "texto_en": "Yeah, I was thinking the same thing.",
+      "texto_ptbr": "É, eu tava pensando a mesma coisa."
+    },
+    {
+      "id": 75,
+      "personagem": "Nino",
+      "texto_en": "Like, this morning she woke up earlier than me and \\ngot all dressed up even though her smartphone \\nalarm didn't go off. ",
+      "texto_ptbr": "Tipo, hoje de manhã ela acordou antes de mim e \\nficou toda arrumada mesmo sem o alarme do smartphone \\ndela ter tocado. "
+    },
+    {
+      "id": 76,
+      "personagem": "Miku",
+      "texto_en": "...Really? ICHIKA?",
+      "texto_ptbr": "...Sério? A ICHIKA?"
+    },
+    {
+      "id": 77,
+      "personagem": "Nino",
+      "texto_en": "Really. Even though she usually needs a wake-up call\\nfrom Yotsuba for work.",
+      "texto_ptbr": "Sério. Sendo que ela normalmente precisa da Yotsuba\\npara acordar pra trabalhar."
+    },
+    {
+      "id": 78,
+      "personagem": "Nino",
+      "texto_en": "That's not just because she's excited about the trip.\\nEven if she can deceive Fu-kun,\\nshe can't do the same to her sisters, you know?",
+      "texto_ptbr": "Não é só por causa da empolgação com a viagem.\\nMesmo que ela consiga enganar o Fu-kun,\\nnão tem como fazer o mesmo com as irmãs, sabe?"
+    },
+    {
+      "id": 79,
+      "personagem": "Yotsuba",
+      "texto_en": "What's going on? Both of you look serious.\\nDid something happen?",
+      "texto_ptbr": "O que foi? As duas tão com cara séria.\\nAconteceu alguma coisa?"
+    },
+    {
+      "id": 80,
+      "personagem": "Nino",
+      "texto_en": "Perfect timing, help us out too.\\nAnd bring Ichika along.",
+      "texto_ptbr": "Que timing perfeito, nos ajuda aí.\\nE traz a Ichika junto."
+    },
+    {
+      "id": 81,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh? Why?",
+      "texto_ptbr": "Hã? Por quê?"
+    },
+    {
+      "id": 82,
+      "personagem": "Nino",
+      "texto_en": "It's NOTHING.",
+      "texto_ptbr": "Não é NADA."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca01_mv4_01",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "というか心配になってきたんだけど。\\nダメだよ、ご飯はちゃんと食べないと。\\n倒れて病院送りとか嫌だからね？",
+      "texto_en": "I'm getting worried now. You can't skip meals.\\nYou don't want to end up collapsing\\nand being sent to the hospital, do you?",
+      "texto_ptbr": "Tô preocupada agora. Você não pode pular refeições.\\nNão quer acabar desmaiando\\ne sendo levado pro hospital, né?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "集中してるとな……",
+      "texto_en": "But if you're really focused on something... ",
+      "texto_ptbr": "Quando tô muito concentrado...",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "わかってる",
+      "texto_en": "I know.",
+      "texto_ptbr": "Eu sei.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "人間、体が資本だ",
+      "texto_en": "One's body is their asset.",
+      "texto_ptbr": "O corpo é o nosso capital.",
+      "selidx": 2
+    }
+  ]
+}

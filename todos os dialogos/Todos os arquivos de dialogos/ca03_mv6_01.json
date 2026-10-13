@@ -1,0 +1,222 @@
+{
+  "arquivo": "ca03_mv6_01",
+  "total": 36,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Ichika",
+      "texto_en": "There's a sign that says 'bukubuku tea.'\\nMiku, do you know what that is?",
+      "texto_ptbr": "Tem uma placa escrito 'chá bukubuku'.\\nMiku, você sabe o que é isso?"
+    },
+    {
+      "id": 1,
+      "personagem": "Miku",
+      "texto_en": "No.\\nTea that's made in Okinawa, maybe?",
+      "texto_ptbr": "Não.\\nUm chá feito em Okinawa, talvez?"
+    },
+    {
+      "id": 2,
+      "personagem": "Nino",
+      "texto_en": "I think it's a type of tea that bubbles up.\\nIt's named after the drinking method.",
+      "texto_ptbr": "Acho que é um tipo de chá que faz espuma.\\nO nome vem do jeito que se bebe."
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Miku!",
+      "texto_ptbr": "Miku!"
+    },
+    {
+      "id": 4,
+      "personagem": "Miku",
+      "texto_en": "F-Futaro!",
+      "texto_ptbr": "F-Fuutarou!"
+    },
+    {
+      "id": 5,
+      "personagem": "Miku",
+      "texto_en": "Um, I'm...gonna go to a different store!",
+      "texto_ptbr": "Er, eu... vou dar uma olhada em outra loja!"
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "Ah, Miku?!",
+      "texto_ptbr": "Ah, Miku?!"
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Kkh...!",
+      "texto_ptbr": "Kkh...!"
+    },
+    {
+      "id": 8,
+      "personagem": "Ichika",
+      "texto_en": "Futaro-kun...\\nDidn't I tell you that girls are delicate?",
+      "texto_ptbr": "Fuutarou-kun...\\nEu não te falei que garotas são delicadas?"
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "Is Miku still being a little too conscious\\nof Fu-kun?",
+      "texto_ptbr": "A Miku ainda tá se preocupando demais\\ncom o Fu-kun?"
+    },
+    {
+      "id": 10,
+      "personagem": "Ichika",
+      "texto_en": "Seems that way.\\nWhen she met Futaro-kun just now, she ran away.",
+      "texto_ptbr": "Parece que sim.\\nQuando ela encontrou o Fuutarou-kun agora, ela fugiu."
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Kkh...\\nIn this case, there's only one thing to do.",
+      "texto_ptbr": "Kkh...\\nNesse caso, só tem uma coisa a fazer."
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "What's that?",
+      "texto_ptbr": "O quê?"
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun...\\nDidn't I tell you not to make that scary face?",
+      "texto_ptbr": "Fu-kun...\\nEu não te falei pra não fazer essa cara assustadora?"
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "It seems like Miku's still really aware\\nof Futaro-kun.",
+      "texto_ptbr": "Parece que a Miku ainda tá bem consciente\\ndo Fuutarou-kun."
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "Cause he came at her with such a scary face...",
+      "texto_ptbr": "Porque ele veio na direção dela com uma cara assustadora daquelas..."
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Kkh...\\nIn this case, there's only one thing to do.",
+      "texto_ptbr": "Kkh...\\nNesse caso, só tem uma coisa a fazer."
+    },
+    {
+      "id": 17,
+      "personagem": "Ichika",
+      "texto_en": "What's that?",
+      "texto_ptbr": "O quê?"
+    },
+    {
+      "id": 18,
+      "personagem": "Nino",
+      "texto_en": "What are you doing, Fu-kun?",
+      "texto_ptbr": "O que você tá fazendo, Fu-kun?"
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "I wanted to talk to Miku...",
+      "texto_ptbr": "Eu queria falar com a Miku..."
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "...Ahh, that's what's going on.",
+      "texto_ptbr": "...Ahh, então é isso que está acontecendo."
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "You say you want to talk, but anyone would run away\\nif you charge at them with such a scary face.",
+      "texto_ptbr": "Você diz que quer conversar, mas qualquer um fugiria\\nse você viesse correndo com essa cara assustadora."
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Kkh...\\nIn this case, there's only one thing to do.",
+      "texto_ptbr": "Kkh...\\nNesse caso, só tem uma coisa a fazer."
+    },
+    {
+      "id": 23,
+      "personagem": "Ichika",
+      "texto_en": "What's that?",
+      "texto_ptbr": "O quê?"
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "If pushing doesn't work,\\nI'll try pulling her in!",
+      "texto_ptbr": "Se empurrar não funcionar,\\neu vou tentar puxar ela pra mim!"
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "WHAA%p-2;――%p;?!",
+      "texto_ptbr": "QUÊÊ%p-2;――%p;?!"
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "No no no!\\nYou shouldn't do that at all!",
+      "texto_ptbr": "Não, não, não!\\nVocê não deveria fazer isso de jeito nenhum!"
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "That's right!\\nDo you really think you can execute\\nsuch a sophisticated plan?",
+      "texto_ptbr": "Isso mesmo!\\nVocê realmente acha que consegue executar\\num plano tão sofisticado assim?"
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "I-I-I can do it! Don't underestimate me!",
+      "texto_ptbr": "E-e-eu consigo fazer isso! Não me subestima!"
+    },
+    {
+      "id": 29,
+      "personagem": "Ichika",
+      "texto_en": "Futaro-kun, this isn't the time to be stubborn, is it?",
+      "texto_ptbr": "Fuutarou-kun, não é hora de ser teimoso, né?"
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "Ooh...",
+      "texto_ptbr": "Ooh..."
+    },
+    {
+      "id": 31,
+      "personagem": "Nino",
+      "texto_en": "Rather, shouldn't you just keep pushing at this time?",
+      "texto_ptbr": "Aliás, você não devia continuar insistindo dessa vez?"
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Push until I convey how I feel?\\nMeaning, I need to take an offensive approach?",
+      "texto_ptbr": "Insistir até conseguir expressar o que eu sinto?\\nOu seja, preciso adotar uma abordagem mais ofensiva?"
+    },
+    {
+      "id": 33,
+      "personagem": "Nino",
+      "texto_en": "That's right.\\nYou know the effect it has, don't you?",
+      "texto_ptbr": "Isso mesmo.\\nVocê sabe o efeito que isso tem, não sabe?"
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, I certainly do.",
+      "texto_ptbr": "É, com certeza sei."
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Alright then, I'll go after Miku.\\nSee you later!",
+      "texto_ptbr": "Certo então, eu vou atrás da Miku.\\nAté mais!"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "arquivo": "gr_03_01",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "このあと、家族で夕食の予定なんだ。\\n君には話しておきたいこともあるし、\\n一緒にどうかね？",
+      "texto_en": "We have plans for a family dinner later.\\nThere's something I want to talk to you about, too.\\nWould you like to join us?",
+      "texto_ptbr": "Temos um jantar em família planejado para mais tarde.\\nHá algo que também quero conversar com você.\\nGostaria de se juntar a nós?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "喜んで！",
+      "texto_en": "I'd love to!",
+      "texto_ptbr": "Com prazer!",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "実は、父が待ってまして",
+      "texto_en": "Actually, my dad's waiting.",
+      "texto_ptbr": "Na verdade, meu pai está me esperando.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "どうぞ家族団らんの時間を",
+      "texto_en": "Please enjoy your family time.",
+      "texto_ptbr": "Por favor, aproveitem o tempo em família.",
+      "selidx": 2
+    }
+  ]
+}

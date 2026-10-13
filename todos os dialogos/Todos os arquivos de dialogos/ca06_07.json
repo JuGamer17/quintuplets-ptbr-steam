@@ -1,0 +1,222 @@
+{
+  "arquivo": "ca06_07",
+  "total": 36,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Ichika",
+      "texto_en": "Everyone said that we'd all be rivals, right?",
+      "texto_ptbr": "Todo mundo disse que a gente ia ser todas rivais, né?"
+    },
+    {
+      "id": 1,
+      "personagem": "Miku",
+      "texto_en": "Yeah, that's right, Ichika.",
+      "texto_ptbr": "É, isso mesmo, Ichika."
+    },
+    {
+      "id": 2,
+      "personagem": "Miku",
+      "texto_en": "We're neither enemies nor allies.\\nWe're rivals.",
+      "texto_ptbr": "A gente não é inimiga nem aliada.\nA gente é rival."
+    },
+    {
+      "id": 3,
+      "personagem": "Ichika",
+      "texto_en": "Thank you, everyone.",
+      "texto_ptbr": "Obrigada, gente."
+    },
+    {
+      "id": 4,
+      "personagem": "Nino",
+      "texto_en": "*sigh*\\nI can't believe you went to all this trouble of adding \\nmore rivals when you're such a softy, aren't you?",
+      "texto_ptbr": "*suspiro*\nNão acredito que você deu esse trabalho todo de adicionar\nmais rivais sendo uma boazinha desse jeito, hein?"
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "But Ichika.\\nI've sensed your determination.",
+      "texto_ptbr": "Mas, Ichika.\nEu senti a sua determinação."
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "But, you know, I'm going to be the one he picks. ",
+      "texto_ptbr": "Mas, saiba que serei eu quem ele vai escolher. "
+    },
+    {
+      "id": 7,
+      "personagem": "Miku",
+      "texto_en": "No. Me.",
+      "texto_ptbr": "Não. Eu."
+    },
+    {
+      "id": 8,
+      "personagem": "Ichika",
+      "texto_en": "You say that now, but how do you know \\nyou won't regret it later?",
+      "texto_ptbr": "Você fala isso agora, mas como você sabe\nque não vai se arrepender depois?"
+    },
+    {
+      "id": 9,
+      "personagem": "Miku",
+      "texto_en": "I won't lose.",
+      "texto_ptbr": "Eu não vou perder."
+    },
+    {
+      "id": 10,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, yeah!\\nNow it's up to Uesugi-san.",
+      "texto_ptbr": "É, é!\nAgora é com o Uesugi-san."
+    },
+    {
+      "id": 11,
+      "personagem": "Itsuki",
+      "texto_en": "Yes. In the end,\\nit's up to him to decide.",
+      "texto_ptbr": "Sim. No final,\na decisão é dele."
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "But if he chooses someone,\\nhow will Uesugi-san give his answer?",
+      "texto_ptbr": "Mas se ele escolher alguém,\ncomo o Uesugi-san vai dar a resposta dele?"
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "That's obvious.\\nA confession. C-O-N-F-E-S-S-I-O-N!",
+      "texto_ptbr": "Isso é óbvio.\nUma confissão. C-O-N-F-I-S-S-Ã-O!"
+    },
+    {
+      "id": 14,
+      "personagem": "Miku",
+      "texto_en": "A c-confession...!",
+      "texto_ptbr": "Uma c-confissão...!"
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "I think that's his intention.\\nAlthough, he might be hesitating about when to do it.",
+      "texto_ptbr": "Acho que essa é a intenção dele.\nApesar de que ele deve estar hesitando sobre quando fazer isso."
+    },
+    {
+      "id": 16,
+      "personagem": "Miku",
+      "texto_en": "Well... Since we came all the way to Okinawa,\\nmaybe it'll be while we're looking at the ocean?",
+      "texto_ptbr": "Bem... já que viemos até Okinawa,\ntalvez seja enquanto a gente olha pro mar?"
+    },
+    {
+      "id": 17,
+      "personagem": "Miku",
+      "texto_en": "On a white sandy beach, watching the sunset together,\\nwith Futaro gently placing his hand\\non my shoulder...!",
+      "texto_ptbr": "Numa praia de areia branca, olhando o pôr do sol juntos,\ncom o Fuutarou colocando a mão delicadamente\nno meu ombro...!"
+    },
+    {
+      "id": 18,
+      "personagem": "Nino",
+      "texto_en": "Yeah, yeah. Cut it out with the delusions.",
+      "texto_ptbr": "É, é. Para com essas fantasias."
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "Expecting that much from Uesugi-kun might be tough.",
+      "texto_ptbr": "Esperar tanto assim do Uesugi-kun deve ser complicado."
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "Do you think so? If we create the right atmosphere,\\nhe might unexpectedly say it.",
+      "texto_ptbr": "Você acha? Se a gente criar o clima certo,\nele pode acabar falando sem esperar."
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "That's true.\\nWe might have to do something like that\\nto get him to confess.",
+      "texto_ptbr": "É verdade.\nTalvez a gente precise fazer algo assim\npra fazer ele confessar."
+    },
+    {
+      "id": 22,
+      "personagem": "Miku",
+      "texto_en": "Futaro is weak to pressure.\\nOnce we create the right atmosphere, \\nthat'll give him that push he needs.",
+      "texto_ptbr": "O Fuutarou é fraco pra pressão.\nAssim que a gente criar o clima certo,\nisso vai dar o empurrãozinho que ele precisa."
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "Ohhh, Miku's eyes are serious.",
+      "texto_ptbr": "Ohhh, os olhos da Miku tão sérios."
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "...Is that really going to work?",
+      "texto_ptbr": "...Será que isso realmente vai funcionar?"
+    },
+    {
+      "id": 25,
+      "personagem": "Itsuki",
+      "texto_en": "He has once run away from our determination.\\nMaybe we shouldn't have too high of expectations.",
+      "texto_ptbr": "Ele já fugiu uma vez da nossa determinação.\nTalvez a gente não devesse criar expectativas altas demais."
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "You really are strict, Itsuki-chan.",
+      "texto_ptbr": "Você é bem rígida mesmo, Itsuki-chan."
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "Well, it's just that I feel like everyone is being so...",
+      "texto_ptbr": "Bom, é que eu sinto que todo mundo tá meio..."
+    },
+    {
+      "id": 28,
+      "personagem": "Miku",
+      "texto_en": "Don't worry. Futaro should understand that too.",
+      "texto_ptbr": "Não se preocupa. O Fuutarou deve entender isso também."
+    },
+    {
+      "id": 29,
+      "personagem": "Nino",
+      "texto_en": "I trust Fu-kun.",
+      "texto_ptbr": "Eu confio no Fu-kun."
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 31,
+      "personagem": "Yotsuba",
+      "texto_en": "Hmm.\\nI wonder if I should do something for everyone's sake.",
+      "texto_ptbr": "Hmm.\nSerá que eu devia fazer alguma coisa pelo bem de todo mundo."
+    },
+    {
+      "id": 32,
+      "personagem": "Ichika",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 33,
+      "personagem": "Nino",
+      "texto_en": "Anyway, it's up to Fu-kun now.\\nWe'll do what we can do.",
+      "texto_ptbr": "De qualquer forma, agora é com o Fu-kun.\nA gente vai fazer o que puder."
+    },
+    {
+      "id": 34,
+      "personagem": "Miku",
+      "texto_en": "Okay.",
+      "texto_ptbr": "Tá bom."
+    },
+    {
+      "id": 35,
+      "personagem": "Miku",
+      "texto_en": "Well then, let's go back to where Futaro is.\\nHe's probably lonely.",
+      "texto_ptbr": "Bom, então vamos voltar pra onde o Fuutarou tá.\nEle deve estar se sentindo sozinho."
+    }
+  ]
+}

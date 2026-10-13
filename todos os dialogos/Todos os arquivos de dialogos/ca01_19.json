@@ -1,0 +1,162 @@
+{
+  "arquivo": "ca01_19",
+  "total": 26,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Itsuki",
+      "texto_en": "We're all here now.",
+      "texto_ptbr": "Todo mundo chegou."
+    },
+    {
+      "id": 1,
+      "personagem": "Yotsuba",
+      "texto_en": "Ichika, Nino, Miku, myself, Itsuki,\\nRaiha-chan, and Uesugi-san!\\nEveryone's here! No problems!",
+      "texto_ptbr": "Ichika, Nino, Miku, eu, Itsuki,\\nRaiha-chan e Uesugi-san!\\nTodo mundo presente! Sem problemas!"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Alright, thank you for checking attendance.",
+      "texto_ptbr": "Certo, obrigado pela chamada."
+    },
+    {
+      "id": 3,
+      "personagem": "Nino",
+      "texto_en": "It went by pretty quickly, didn't it?",
+      "texto_ptbr": "Passou bem rápido, né?"
+    },
+    {
+      "id": 4,
+      "personagem": "Miku",
+      "texto_en": "We didn't get to see everything,\\nbut we went to the places we wanted to.",
+      "texto_ptbr": "A gente não viu tudo,\\nmas foi nos lugares que queria."
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "I also went to the places I couldn't miss.\\nWhat about you, Ichika?",
+      "texto_ptbr": "Eu também fui nos lugares que não podia perder.\\nE você, Ichika?"
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "Ichika? What's wrong?",
+      "texto_ptbr": "Ichika? O que foi?"
+    },
+    {
+      "id": 8,
+      "personagem": "Ichika",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "Ahh, no, it's nothing.\\nI was just thinking that it's time to move on.",
+      "texto_ptbr": "Ahh, não, não é nada.\\nTava só pensando que já tá na hora de ir."
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "According to the schedule,\\nwe're supposed to go back to the hotel now\\nand get ready before heading to the beach.",
+      "texto_ptbr": "Pelo cronograma,\\na gente tem que voltar pro hotel agora\\ne se arrumar antes de ir pra praia."
+    },
+    {
+      "id": 12,
+      "personagem": "Miku",
+      "texto_en": "Let's get going now.",
+      "texto_ptbr": "Então bora."
+    },
+    {
+      "id": 13,
+      "personagem": "Raiha",
+      "texto_en": "Okay.",
+      "texto_ptbr": "Certo."
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Ichika, wait up a second.",
+      "texto_ptbr": "Ichika, espera um segundo."
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "Hm?",
+      "texto_ptbr": "Hm?"
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Well...are you okay?\\nYou've been spacing out and\\nhaven't really been joining in on the conversation.",
+      "texto_ptbr": "É...tá tudo bem?\\nVocê ficou meio viajando e\\nnão entrou muito na conversa."
+    },
+    {
+      "id": 17,
+      "personagem": "Ichika",
+      "texto_en": "Oh, I'm fine, I'm fine.\\nI was just thinking about something.",
+      "texto_ptbr": "Ah, tô bem, tô bem.\\nTava só pensando em alguma coisa."
+    },
+    {
+      "id": 18,
+      "personagem": "Ichika",
+      "texto_en": "I'm perfectly fine and full of energy.\\nYou're worrying too much, Futaro-kun.",
+      "texto_ptbr": "Tô ótima e cheia de energia.\\nVocê tá preocupado demais, Futaro-kun."
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Well of course I'm gonna worry.\\nEspecially since it's about you.",
+      "texto_ptbr": "Claro que vou me preocupar.\\nEspecialmente quando é com você."
+    },
+    {
+      "id": 20,
+      "personagem": "Ichika",
+      "texto_en": "Teehee, thank you.",
+      "texto_ptbr": "Hehe, obrigada."
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "Futaro-kun, you always play the role of a good boyfriend\\nin situations like this.\\nYou're surprisingly cunning.",
+      "texto_ptbr": "Futaro-kun, você sempre faz o papel de bom namorado\\nnesses momentos.\\nÉ surpreendentemente esperto."
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Don't tease me...",
+      "texto_ptbr": "Para de me zoar..."
+    },
+    {
+      "id": 23,
+      "personagem": "Ichika",
+      "texto_en": "Ahaha, sorry.",
+      "texto_ptbr": "Ahahaha, desculpa."
+    },
+    {
+      "id": 24,
+      "personagem": "Ichika",
+      "texto_en": "Come on, let's go.\\nWe'll be left behind by everyone.",
+      "texto_ptbr": "Vamos logo.\\nA gente vai ficar pra trás."
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Okay.",
+      "texto_ptbr": "Certo."
+    }
+  ]
+}

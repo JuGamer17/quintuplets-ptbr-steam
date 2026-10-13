@@ -1,0 +1,138 @@
+{
+  "arquivo": "ca05_17",
+  "total": 22,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Ahh...",
+      "texto_ptbr": "Ahh..."
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(It's all over... It's all finished...\\n I've had a fall out with Itsuki...)",
+      "texto_ptbr": "(Acabou tudo... Está tudo acabado...\\n Eu brigei com a Itsuki...)"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(Why did this happen...\\n Well, it's not even worth thinking about,\\n I'm definitely the one at fault...)",
+      "texto_ptbr": "(Por que isso aconteceu...\\n Bom, nem vale a pena pensar sobre isso,\\n a culpa é definitivamente minha...)"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "It's me...\\nI'm the one who's at fault...",
+      "texto_ptbr": "Sou eu...\\nA culpa é minha..."
+    },
+    {
+      "id": 4,
+      "personagem": "Raiha",
+      "texto_en": "BIG BRO!\\nAre you awake?",
+      "texto_ptbr": "MANO!\\nVocê está acordado?"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "...More like dead than asleep.",
+      "texto_ptbr": "...Mais para morto do que dormindo."
+    },
+    {
+      "id": 6,
+      "personagem": "Raiha",
+      "texto_en": "You're awake and alive!\\nYou wouldn't be able to answer if you were dead!",
+      "texto_ptbr": "Você está acordado e vivo!\\nVocê não conseguiria responder se estivesse morto!"
+    },
+    {
+      "id": 7,
+      "personagem": "Raiha",
+      "texto_en": "Geez, you're making a face like\\nit's the end of the world or something.",
+      "texto_ptbr": "Nossa, você está com uma cara\\nde que é o fim do mundo ou algo assim."
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Oh, but it is...",
+      "texto_ptbr": "Ah, mas é..."
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "Hm?\\nWait, why are you in my room?",
+      "texto_ptbr": "Hm?\\nEspera, por que você está no meu quarto?"
+    },
+    {
+      "id": 10,
+      "personagem": "Raiha",
+      "texto_en": "Huhhh?\\nYou were standing in a daze in the lobby. \\nDid you forget that I brought you back to your room?",
+      "texto_ptbr": "Hã?\\nVocê estava parado meio zonzo no lobby. \\nVocê esqueceu que eu te trouxe de volta para o quarto?"
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "I think I kinda remember that...\\nAnyway, it has nothing to do with me anymore...",
+      "texto_ptbr": "Acho que meio que lembro disso...\\nDe qualquer forma, isso não tem mais nada a ver comigo..."
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "(At this point, since Itsuki hates me...\\n nothing else matters...)",
+      "texto_ptbr": "(A essa altura, já que a Itsuki me odeia...\\n nada mais importa...)"
+    },
+    {
+      "id": 13,
+      "personagem": "Raiha",
+      "texto_en": "Big bro?",
+      "texto_ptbr": "Mano?"
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 15,
+      "personagem": "Raiha",
+      "texto_en": "Big brooo?",
+      "texto_ptbr": "Manooo?"
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 17,
+      "personagem": "Raiha",
+      "texto_en": "You deeaad?",
+      "texto_ptbr": "Você está mooorto?"
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "...I'm dead.",
+      "texto_ptbr": "...Estou morto."
+    },
+    {
+      "id": 19,
+      "personagem": "Raiha",
+      "texto_en": "...This is serious.\\nWhat should I do...\\nI don't think I can handle this on my own...",
+      "texto_ptbr": "...Isso é sério.\\nO que eu faço...\\nAcho que não consigo lidar com isso sozinha..."
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "It's the end of the world...",
+      "texto_ptbr": "É o fim do mundo..."
+    },
+    {
+      "id": 21,
+      "personagem": "Raiha",
+      "texto_en": "It's not! Come on!",
+      "texto_ptbr": "Não é, não! Vamos lá!"
+    }
+  ]
+}

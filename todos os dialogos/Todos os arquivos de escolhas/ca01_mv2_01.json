@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca01_mv2_01",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "……！",
+      "texto_en": "...!",
+      "texto_ptbr": "...!"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "なんか悪い……",
+      "texto_en": "Hey, my bad...",
+      "texto_ptbr": "Ah, foi mal...",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "こういうのは新鮮だな",
+      "texto_en": "This kind of thing is refreshing.",
+      "texto_ptbr": "Esse tipo de coisa é novidade pra mim.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "お前、小さいな",
+      "texto_en": "You're short, aren't ya?",
+      "texto_ptbr": "Você é baixinha, hein?",
+      "selidx": 2
+    }
+  ]
+}

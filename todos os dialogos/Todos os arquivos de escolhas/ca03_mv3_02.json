@@ -1,0 +1,75 @@
+{
+  "arquivo": "ca03_mv3_02",
+  "total": 7,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "……上杉さん、大丈夫ですか？",
+      "texto_en": "...Uesugi-san, you gonna be alright?",
+      "texto_ptbr": "...Uesugi-san, você vai ficar bem?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "いざとなればお前がいる！",
+      "texto_en": "I always have you, if things go south!",
+      "texto_ptbr": "Se der tudo errado, eu tenho você!",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "どういう意味だ？",
+      "texto_en": "What do you mean?",
+      "texto_ptbr": "O que você quer dizer?",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "三玖が大変かもしれんな",
+      "texto_en": "Miku might have a tough time.",
+      "texto_ptbr": "A Miku pode ter dificuldade.",
+      "selidx": 2
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "ドリームセンター:一花:五月",
+      "texto_en": "Dream Center: Ichika/Itsuki",
+      "texto_ptbr": "Dream Center: Ichika/Itsuki",
+      "selidx": 0
+    },
+    {
+      "id": 5,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "海洋博公園広場:二乃:四葉",
+      "texto_en": "Ocean Expo Park Square: Nino/Yotsuba",
+      "texto_ptbr": "Praça do Ocean Expo Park: Nino/Yotsuba",
+      "selidx": 1
+    },
+    {
+      "id": 6,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "郷土村:三玖:らいは",
+      "texto_en": "Native Okinawan Village: Miku/Raiha",
+      "texto_ptbr": "Vila Nativa de Okinawa: Miku/Raiha",
+      "selidx": 2
+    }
+  ]
+}

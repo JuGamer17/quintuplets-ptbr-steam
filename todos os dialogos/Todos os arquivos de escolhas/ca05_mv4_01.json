@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca05_mv4_01",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "……私たち、今年のクリスマスは\\nどんな風に過ごすのでしょうね。",
+      "texto_en": "...I wonder how we'll spend Christmas this year?",
+      "texto_ptbr": "...Será como vamos passar o Natal esse ano?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "まだ先の話だな",
+      "texto_en": "That's still a long way off.",
+      "texto_ptbr": "Isso ainda tá longe.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "２人で過ごしたいよな",
+      "texto_en": "I want to spend it together.",
+      "texto_ptbr": "Queria passar só nós dois.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "今年は盛大にパーティーするか！",
+      "texto_en": "Maybe we should have a big party this year!",
+      "texto_ptbr": "Que tal fazer uma festa grande esse ano!",
+      "selidx": 2
+    }
+  ]
+}

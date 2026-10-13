@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca04_mv6_02",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "に、二乃！？",
+      "texto_en": "N-Nino?!",
+      "texto_ptbr": "N-Nino?!"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "な、なに言ってんだよ！？",
+      "texto_en": "Wh-what are you saying?!",
+      "texto_ptbr": "O-o que você tá dizendo?!",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "いや、それはちょっと……ダメだろ",
+      "texto_en": "Ah, that's...not really appropriate.",
+      "texto_ptbr": "Hã, isso... não é apropriado.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "お前が買ったものだろ",
+      "texto_en": "That's yours, isn't it?",
+      "texto_ptbr": "Isso aí foi você que comprou, não foi?",
+      "selidx": 2
+    }
+  ]
+}

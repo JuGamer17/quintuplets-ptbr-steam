@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca05_mv3_03",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "孤独な船の上、見上げた星空のキャンバスに\\n自由な夢を描いたのかもしれません。",
+      "texto_en": "Maybe they drew their own dreams\\non the canvas of the starry sky\\nwhile alone on their ships.",
+      "texto_ptbr": "Talvez eles desenhassem seus próprios sonhos\\nna tela do céu estrelado\\nenquanto estavam sozinhos em seus navios."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "どうだろうな",
+      "texto_en": "I wonder.",
+      "texto_ptbr": "Será?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "自分だけの星座か",
+      "texto_en": "A constellation just for them.",
+      "texto_ptbr": "Uma constelação só deles.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "意外に想像力豊かだな",
+      "texto_en": "You have a surprisingly rich imagination.",
+      "texto_ptbr": "Você tem uma imaginação surpreendentemente rica.",
+      "selidx": 2
+    }
+  ]
+}

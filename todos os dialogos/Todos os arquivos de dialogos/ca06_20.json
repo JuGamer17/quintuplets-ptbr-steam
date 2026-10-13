@@ -1,0 +1,294 @@
+{
+  "arquivo": "ca06_20",
+  "total": 48,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "Okaaay! I'm opening the door now!",
+      "texto_ptbr": "Ok! Vou abrir a porta agora!"
+    },
+    {
+      "id": 1,
+      "personagem": "Ichika",
+      "texto_en": "Pardon us.",
+      "texto_ptbr": "Com licença."
+    },
+    {
+      "id": 2,
+      "personagem": "Yotsuba",
+      "texto_en": "Come on in.\\nMiku is already here.",
+      "texto_ptbr": "Entrem.\\nA Miku já está aqui."
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "Sorry for being late.",
+      "texto_ptbr": "Desculpa o atraso."
+    },
+    {
+      "id": 4,
+      "personagem": "Miku",
+      "texto_en": "Did something happen?",
+      "texto_ptbr": "Aconteceu alguma coisa?"
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "I just took a long bath...",
+      "texto_ptbr": "Eu só tomei um banho longo..."
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "And, you got a little dizzy from thinking too much?",
+      "texto_ptbr": "E, ficou meio tonta de tanto pensar?"
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "Yeah...",
+      "texto_ptbr": "É..."
+    },
+    {
+      "id": 8,
+      "personagem": "Yotsuba",
+      "texto_en": "Are you okay?\\nWould you like some water?",
+      "texto_ptbr": "Você está bem?\\nQuer um pouco de água?"
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "I'm fine.\\nLet's continue our conversation.",
+      "texto_ptbr": "Estou bem.\\nVamos continuar nossa conversa."
+    },
+    {
+      "id": 10,
+      "personagem": "Miku",
+      "texto_en": "...Got it.",
+      "texto_ptbr": "...Entendi."
+    },
+    {
+      "id": 11,
+      "personagem": "Ichika",
+      "texto_en": "Hmm...\\nIt seems like Futaro-kun is having a harder time\\nthan we thought.",
+      "texto_ptbr": "Hmm...\\nParece que o Futaro-kun está tendo mais dificuldade\\ndo que a gente pensava."
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "Maybe we went a little too far\\nin pushing him to his limits.",
+      "texto_ptbr": "Talvez a gente tenha exagerado um pouco\\nao empurrá-lo até o limite."
+    },
+    {
+      "id": 13,
+      "personagem": "Miku",
+      "texto_en": "However, we can't go easy on Futaro.\\nWe're testing his resolve.",
+      "texto_ptbr": "Porém, não podemos ser condescendentes com o Futaro.\\nEstamos testando a determinação dele."
+    },
+    {
+      "id": 14,
+      "personagem": "Miku",
+      "texto_en": "If we went easy on him,\\nit would be disrespectful to him.",
+      "texto_ptbr": "Se fôssemos condescendentes com ele,\\nseria uma falta de respeito."
+    },
+    {
+      "id": 15,
+      "personagem": "Yotsuba",
+      "texto_en": "That's true.\\nHowever...Uesugi-san\\nseemed a little confused earlier.",
+      "texto_ptbr": "Isso é verdade.\\nPorém... o Uesugi-san\\nparecia um pouco confuso mais cedo."
+    },
+    {
+      "id": 16,
+      "personagem": "Ichika",
+      "texto_en": "I had high expectations this morning,\\nsince he was so confident.",
+      "texto_ptbr": "Eu tinha grandes expectativas hoje de manhã,\\njá que ele estava tão confiante."
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "Indeed, Fu-kun wasn't doing well today.\\nBut it's too early to jump to conclusions.",
+      "texto_ptbr": "De fato, o Fu-kun não estava indo bem hoje.\\nMas é cedo demais para tirar conclusões."
+    },
+    {
+      "id": 18,
+      "personagem": "Nino",
+      "texto_en": "The deadline is the evening after tomorrow.\\nWe still have two days left.",
+      "texto_ptbr": "O prazo é a noite de depois de amanhã.\\nAinda temos dois dias."
+    },
+    {
+      "id": 19,
+      "personagem": "Miku",
+      "texto_en": "Yes, we've only finished the first day.",
+      "texto_ptbr": "É, só terminamos o primeiro dia."
+    },
+    {
+      "id": 20,
+      "personagem": "Ichika",
+      "texto_en": "In Futaro-kun's case, we never know what will happen\\nuntil the last minute.",
+      "texto_ptbr": "No caso do Futaro-kun, a gente nunca sabe o que vai acontecer\\naté o último minuto."
+    },
+    {
+      "id": 21,
+      "personagem": "Itsuki",
+      "texto_en": "Two more days...",
+      "texto_ptbr": "Mais dois dias..."
+    },
+    {
+      "id": 22,
+      "personagem": "Yotsuba",
+      "texto_en": "...Hey.\\nI'm sure there's someone special\\nin Uesugi-san's heart already.",
+      "texto_ptbr": "...Ei.\\nTenho certeza de que já tem alguém especial\\nno coração do Uesugi-san."
+    },
+    {
+      "id": 23,
+      "personagem": "Itsuki",
+      "texto_en": "That's possible.\\nHe's usually a cautious person.",
+      "texto_ptbr": "É possível.\\nEle geralmente é uma pessoa cautelosa."
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "If not, he wouldn't have said anything\\nabout giving us an answer.",
+      "texto_ptbr": "Se não fosse assim, ele nem teria dito nada\\nsobre nos dar uma resposta."
+    },
+    {
+      "id": 25,
+      "personagem": "Miku",
+      "texto_en": "...Thinking about that,\\nwe were so harsh on Futaro.",
+      "texto_ptbr": "...Pensando bem,\\na gente foi bem dura com o Futaro."
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "That's because we meant it. Ichika said it too,\\nbut we never know what will happen\\nuntil the last minute, with him.",
+      "texto_ptbr": "É porque a gente falou sério. A Ichika disse isso também,\\nmas a gente nunca sabe o que vai acontecer\\naté o último minuto, com ele."
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "I think Fu-kun has already made up his mind.\\nHe was so determined to tell us apart today.",
+      "texto_ptbr": "Acho que o Fu-kun já tomou uma decisão.\\nEle estava tão determinado a nos diferenciar hoje."
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "Well, the quintuplets game was certainly unexpected.",
+      "texto_ptbr": "Bem, o jogo das quintuplas certamente foi inesperado."
+    },
+    {
+      "id": 29,
+      "personagem": "Miku",
+      "texto_en": "If there's love, he can tell us apart.\\nThat's why we can't go easy on him.",
+      "texto_ptbr": "Se existe amor, ele consegue nos diferenciar.\\nÉ por isso que não podemos ser condescendentes com ele."
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "We wouldn't be happy with a confession\\nthat was the result of someone slacking off.",
+      "texto_ptbr": "A gente não ficaria feliz com uma declaração\\nque foi resultado de alguém que relaxou."
+    },
+    {
+      "id": 31,
+      "personagem": "Ichika",
+      "texto_en": "Then, let's go all out from tomorrow on.\\nIs everyone okay with that?",
+      "texto_ptbr": "Então, vamos dar tudo de nós a partir de amanhã.\\nTodo mundo está de acordo com isso?"
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "Of course.\\nIt should be a good opportunity for him\\nto have confidence in his feelings.",
+      "texto_ptbr": "Claro.\\nDeve ser uma boa oportunidade para ele\\nter confiança nos próprios sentimentos."
+    },
+    {
+      "id": 33,
+      "personagem": "Itsuki",
+      "texto_en": "Otherwise, it would be impossible for him to confess\\non the final day.",
+      "texto_ptbr": "Caso contrário, seria impossível para ele se declarar\\nno último dia."
+    },
+    {
+      "id": 34,
+      "personagem": "Miku",
+      "texto_en": "It's possible that his target is you, Itsuki.",
+      "texto_ptbr": "É possível que o alvo dele seja você, Itsuki."
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "...I understand that.",
+      "texto_ptbr": "...Eu entendo isso."
+    },
+    {
+      "id": 36,
+      "personagem": "Miku",
+      "texto_en": "!...",
+      "texto_ptbr": "!..."
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "I said all that stuff to him.\\nI should at least have my own resolve...",
+      "texto_ptbr": "Eu falei tudo aquilo para ele.\\nEu deveria pelo menos ter minha própria determinação..."
+    },
+    {
+      "id": 38,
+      "personagem": "Ichika",
+      "texto_en": "...Wow.",
+      "texto_ptbr": "...Uau."
+    },
+    {
+      "id": 39,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "Wh-what's wrong?\\nDid I say something strange?",
+      "texto_ptbr": "O-o que foi?\\nEu disse algo estranho?"
+    },
+    {
+      "id": 41,
+      "personagem": "Yotsuba",
+      "texto_en": "No, it wasn't strange in the slightest.",
+      "texto_ptbr": "Não, não foi estranho nem um pouco."
+    },
+    {
+      "id": 42,
+      "personagem": "Miku",
+      "texto_en": "It wasn't strange, indeed.",
+      "texto_ptbr": "Não foi estranho, de fato."
+    },
+    {
+      "id": 43,
+      "personagem": "Nino",
+      "texto_en": "Itsuki, you...",
+      "texto_ptbr": "Itsuki, você..."
+    },
+    {
+      "id": 44,
+      "personagem": "Itsuki",
+      "texto_en": "What, Nino?",
+      "texto_ptbr": "O que foi, Nino?"
+    },
+    {
+      "id": 45,
+      "personagem": "Nino",
+      "texto_en": "...No.\\nActually, it's nothing.",
+      "texto_ptbr": "...Não.\\nNa verdade, não é nada."
+    },
+    {
+      "id": 46,
+      "personagem": "Ichika",
+      "texto_en": "Well, then it depends\\non how hard Futaro-kun works from now on.",
+      "texto_ptbr": "Bem, então vai depender\\nde quanto esforço o Futaro-kun vai fazer daqui para frente."
+    },
+    {
+      "id": 47,
+      "personagem": "Miku",
+      "texto_en": "That's what it comes down to.",
+      "texto_ptbr": "É basicamente isso."
+    }
+  ]
+}

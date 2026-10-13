@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca01_mv6_03",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "そんなこと言われてもな……。",
+      "texto_en": "I'd like to help you but I can't...",
+      "texto_ptbr": "Queria te ajudar, mas não consigo..."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "結局、なにが言いたいんだよ",
+      "texto_en": "What are you trying to say, exactly?",
+      "texto_ptbr": "Afinal, o que você quer dizer?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "自分の将来に不安があるのか？",
+      "texto_en": "Are you worried about your own future?",
+      "texto_ptbr": "Você tá preocupada com o seu futuro?",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "まずは大学生活に集中するつもりだ",
+      "texto_en": "I plan to focus on my university life first.",
+      "texto_ptbr": "Pretendo focar primeiro na vida universitária.",
+      "selidx": 2
+    }
+  ]
+}

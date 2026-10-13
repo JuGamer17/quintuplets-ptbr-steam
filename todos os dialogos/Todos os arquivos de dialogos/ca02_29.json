@@ -1,0 +1,252 @@
+{
+  "arquivo": "ca02_29",
+  "total": 41,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Nino, hold on tight!\\nIt's dangerous!",
+      "texto_ptbr": "Nino, segura firme!\\nÉ perigoso!"
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "I know! It's okay,\\nI've ridden many times with you before.",
+      "texto_ptbr": "Eu sei! Tudo bem,\\neu já andei muitas vezes com você antes."
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "But today we're on an unfamiliar road.\\nPlus, we're riding a rental bike,\\nwith different handling.",
+      "texto_ptbr": "Mas hoje estamos numa estrada desconhecida.\\nAlém disso, estamos numa moto alugada,\\ncom uma pilotagem diferente."
+    },
+    {
+      "id": 3,
+      "personagem": "Nino",
+      "texto_en": "Hey, come on, don't say things that'll scare me.\\nPlease drive safely.",
+      "texto_ptbr": "Ei, para com isso, não fala coisas que vão me assustar.\\nPor favor, dirige com cuidado."
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Don't worry, I'll drive as carefully as a white knight \\nrides his steel horse.",
+      "texto_ptbr": "Não se preocupa, vou dirigir com o mesmo cuidado que um cavaleiro branco \\ntem ao montar seu cavalo de aço."
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "Teehee, what's that supposed to mean?",
+      "texto_ptbr": "Hihi, o que isso quer dizer?"
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Ah...\\nThe hell I'm sayin! I'm such a dork!",
+      "texto_ptbr": "Ah...\\nQue diabos eu tô falando! Que idiota que eu sou!"
+    },
+    {
+      "id": 7,
+      "personagem": "Nino",
+      "texto_en": "Don't say weird things,\\nfocus on driving. Don't drop the princess, okay?",
+      "texto_ptbr": "Não fala coisas estranhas,\\nfoca em dirigir. Não deixa a princesa cair, tá?"
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Okay.",
+      "texto_ptbr": "Certo."
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "...I love your scent, Futaro.",
+      "texto_ptbr": "...Eu adoro seu cheiro, Fuutarou."
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Huh? What?",
+      "texto_ptbr": "Hã? O quê?"
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "Nothing.",
+      "texto_ptbr": "Nada."
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "(I never expected him to show up on a bike.\\n It's too unexpected.)",
+      "texto_ptbr": "(Eu nunca esperei que ele apareceria de moto.\\n É surpreendente demais.)"
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "(I've always wanted to ride with him\\n and see the scenery of Okinawa...\\n but I never thought it would happen here.)",
+      "texto_ptbr": "(Eu sempre quis andar com ele\\n e ver a paisagem de Okinawa...\\n mas nunca pensei que aconteceria aqui.)"
+    },
+    {
+      "id": 14,
+      "personagem": "Nino",
+      "texto_en": "Hey, Futaro? Why did you suddenly bring a bike?",
+      "texto_ptbr": "Ei, Fuutarou? Por que você trouxe uma moto do nada?"
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "You said you wanted to take a ride on Kouri Island\\nbefore, right? You really wanted to do this, didn't you?",
+      "texto_ptbr": "Você disse antes que queria dar uma volta\\nna Ilha Kouri, certo? Você realmente queria fazer isso, não é?"
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "Huh...?",
+      "texto_ptbr": "Hã...?"
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Last night, I found a place where I could rent a bike.\\nSorry I didn't realize it before.",
+      "texto_ptbr": "Ontem à noite, eu achei um lugar onde dava pra alugar uma moto.\\nDesculpa por não ter percebido isso antes."
+    },
+    {
+      "id": 18,
+      "personagem": "Nino",
+      "texto_en": "It's too late for apologizing now.",
+      "texto_ptbr": "Agora já é tarde demais pra pedir desculpas."
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "But it's okay.\\nAt least you noticed the place.",
+      "texto_ptbr": "Mas tudo bem.\\nPelo menos você percebeu o lugar."
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "So, are we going to Kouri Island now?",
+      "texto_ptbr": "Então, a gente vai pra Ilha Kouri agora?"
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "No, our destination is different.",
+      "texto_ptbr": "Não, nosso destino é outro."
+    },
+    {
+      "id": 22,
+      "personagem": "Nino",
+      "texto_en": "Huh? Where are we going?\\nThere's hardly any view better than that bridge, right?",
+      "texto_ptbr": "Hã? Pra onde a gente vai?\\nDificilmente tem uma vista melhor que aquela ponte, né?"
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "Who knows?\\nBut now it's my turn to lead the way.\\nBetter look forward to it.",
+      "texto_ptbr": "Quem sabe?\\nMas agora é minha vez de guiar o caminho.\\nÉ melhor você ficar animada."
+    },
+    {
+      "id": 24,
+      "personagem": "Nino",
+      "texto_en": "!...",
+      "texto_ptbr": "!..."
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "Okay, I understand.\\nI'll leave everything to you, Futaro.",
+      "texto_ptbr": "Tá, entendi.\\nVou deixar tudo nas suas mãos, Fuutarou."
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "(Come to think of it,\\n whenever I ride a motorcycle with Futaro,\\n something unexpected always happens.)",
+      "texto_ptbr": "(Pensando bem,\\n toda vez que eu ando de moto com o Fuutarou,\\n alguma coisa inesperada sempre acontece.)"
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "(The first time was in our second year,\\n after final exams, when I confessed my feelings\\n to him.)",
+      "texto_ptbr": "(A primeira vez foi no nosso segundo ano,\\n depois das provas finais, quando eu confessei meus sentimentos\\n pra ele.)"
+    },
+    {
+      "id": 28,
+      "personagem": "Nino",
+      "texto_en": "(I still don't know why I said it all of a sudden,\\n and on top of that,\\n Futaro said he didn't hear it.)",
+      "texto_ptbr": "(Eu ainda não sei por que falei aquilo do nada,\\n e pra piorar,\\n o Fuutarou disse que não ouviu.)"
+    },
+    {
+      "id": 29,
+      "personagem": "Nino",
+      "texto_en": "(But...)",
+      "texto_ptbr": "(Mas...)"
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "I love you.",
+      "texto_ptbr": "Eu te amo."
+    },
+    {
+      "id": 31,
+      "personagem": "Nino",
+      "texto_en": "Hehe!\\nI guess I wanted a bit more of an atmosphere after all.",
+      "texto_ptbr": "Hehe!\\nAcho que eu queria um pouco mais de clima, afinal."
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Hm? What's wrong?",
+      "texto_ptbr": "Hm? O que foi?"
+    },
+    {
+      "id": 33,
+      "personagem": "Nino",
+      "texto_en": "No, nothing.",
+      "texto_ptbr": "Não, nada."
+    },
+    {
+      "id": 34,
+      "personagem": "Nino",
+      "texto_en": "(On the night we kissed at the school festival...)",
+      "texto_ptbr": "(Na noite em que a gente se beijou no festival escolar...)"
+    },
+    {
+      "id": 35,
+      "personagem": "Nino",
+      "texto_en": "(I still believe\\n that love is something you have to go after.)",
+      "texto_ptbr": "(Eu ainda acredito\\n que o amor é algo que você tem que ir atrás.)"
+    },
+    {
+      "id": 36,
+      "personagem": "Nino",
+      "texto_en": "(Even if I don't get any response...\\n I'll keep pushing forward.)",
+      "texto_ptbr": "(Mesmo que eu não tenha nenhuma resposta...\\n eu vou continuar em frente.)"
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "(I can only be together with Futaro like this because\\n I've always done things my way.)",
+      "texto_ptbr": "(Eu só consigo ficar assim com o Fuutarou porque\\n eu sempre fiz as coisas do meu jeito.)"
+    },
+    {
+      "id": 38,
+      "personagem": "Nino",
+      "texto_en": "(Hey, Futaro?\\n You're the one who taught me what true love is.)",
+      "texto_ptbr": "(Ei, Fuutarou?\\n Foi você quem me ensinou o que é o amor verdadeiro.)"
+    },
+    {
+      "id": 39,
+      "personagem": "Nino",
+      "texto_en": "(And you said you'd show me a new world, didn't you?)",
+      "texto_ptbr": "(E você disse que ia me mostrar um novo mundo, não foi?)"
+    },
+    {
+      "id": 40,
+      "personagem": "Nino",
+      "texto_en": "(So, what are you going to teach me today?\\n What are you going to show me...?)",
+      "texto_ptbr": "(Então, o que você vai me ensinar hoje?\\n O que você vai me mostrar...?)"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "arquivo": "ca01_06",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*map",
+      "texto_jp": "dummy",
+      "texto_en": "{UNTRANSLATED}dummy",
+      "texto_ptbr": "",
+      "selidx": 0
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "大通りＡ:一花:二乃",
+      "texto_en": "Main Street A: Ichika/Nino",
+      "texto_ptbr": "Rua Principal A: Ichika/Nino",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "大通りＢ:三玖:四葉",
+      "texto_en": "Main Street B: Miku/Yotsuba",
+      "texto_ptbr": "Rua Principal B: Miku/Yotsuba",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "裏通り:五月:らいは",
+      "texto_en": "Back Street: Itsuki/Raiha",
+      "texto_ptbr": "Rua dos Fundos: Itsuki/Raiha",
+      "selidx": 2
+    }
+  ]
+}

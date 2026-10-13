@@ -1,0 +1,444 @@
+{
+  "arquivo": "ca04_mv1_03",
+  "total": 73,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Hey, both of you are here.",
+      "texto_ptbr": "Ei, vocês duas estão aqui."
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun? You're alone?",
+      "texto_ptbr": "Fu-kun? Você está sozinho?"
+    },
+    {
+      "id": 2,
+      "personagem": "Miku",
+      "texto_en": "You're not with Yotsuba.",
+      "texto_ptbr": "Você não está com a Yotsuba."
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Well, actually, I wanted to ask you guys something.",
+      "texto_ptbr": "Bem, na verdade, eu queria perguntar uma coisa pra vocês."
+    },
+    {
+      "id": 4,
+      "personagem": "Miku",
+      "texto_en": "Huh? Did something happen?",
+      "texto_ptbr": "Hã? Aconteceu alguma coisa?"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "It's not anything like that.\\nDo you two have anything you want to do after this?\\nSightseeing, shopping, anything is cool.",
+      "texto_ptbr": "Não é nada disso.\\nVocês duas querem fazer alguma coisa depois disso?\\nPasseio, compras, qualquer coisa serve."
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "Huh? Even if we told you what we want to do...\\nYotsuba should have made a plan for us, right?",
+      "texto_ptbr": "Hã? Mesmo se a gente disser o que quer fazer...\\nA Yotsuba não deveria ter feito um plano pra gente?"
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Well, that Yotsuba's said\\nshe wanted to hear everyone's thoughts.",
+      "texto_ptbr": "Bem, a Yotsuba disse\\nque queria ouvir a opinião de todo mundo."
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "*sigh*\\nThere she goes again...\\nbut I guess there's no helping it.",
+      "texto_ptbr": "*suspiro*\\nLá vem ela de novo...\\nmas acho que não tem jeito."
+    },
+    {
+      "id": 9,
+      "personagem": "Miku",
+      "texto_en": "People's personalities don't change that easily.\\nBesides, Yotsuba is always enthusiastic\\nabout taking charge in situations like this.",
+      "texto_ptbr": "As pessoas não mudam de personalidade tão fácil.\\nAlém disso, a Yotsuba sempre fica animada\\nem assumir o comando em situações assim."
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Well, that's just how Yotsuba thinks.",
+      "texto_ptbr": "Bem, é assim que a Yotsuba pensa."
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "So, do you guys have any thoughts?",
+      "texto_ptbr": "Então, vocês têm alguma ideia?"
+    },
+    {
+      "id": 12,
+      "personagem": "Miku",
+      "texto_en": "Then, why not do something that Yotsuba likes?",
+      "texto_ptbr": "Então, por que não fazer algo que a Yotsuba goste?"
+    },
+    {
+      "id": 13,
+      "personagem": "Miku",
+      "texto_en": "She was really looking forward to this graduation trip\\nand seemed to have researched a lot about Okinawa.",
+      "texto_ptbr": "Ela estava muito ansiosa por essa viagem de formatura\\ne parece que pesquisou bastante sobre Okinawa."
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "That so?",
+      "texto_ptbr": "É mesmo?"
+    },
+    {
+      "id": 15,
+      "personagem": "Miku",
+      "texto_en": "Yeah, she bought a lot of guidebooks\\nand did some research on the internet.",
+      "texto_ptbr": "Sim, ela comprou vários guias de viagem\\ne pesquisou na internet."
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "The guidebooks were full of sticky notes.\\nThey were so covered in them that they\\nlost all meaning.",
+      "texto_ptbr": "Os guias estavam cheios de post-its.\\nEstavam tão cobertos deles que\\nperderam todo o sentido."
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Oh, so she planned everything thoroughly.",
+      "texto_ptbr": "Ah, então ela planejou tudo direitinho."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "So, pretty much,\\nthe two of you don't have any specific requests?",
+      "texto_ptbr": "Então, basicamente,\\nvocês duas não têm nenhum pedido específico?"
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "I don't mind.\\nI've already entrusted everything to Yotsuba.",
+      "texto_ptbr": "Não me importo.\\nJá deixei tudo nas mãos da Yotsuba."
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "If we decide too hastily and the facilities are closed\\nor we need reservations,\\nit'll just be a waste of time, right?",
+      "texto_ptbr": "Se a gente decidir de forma precipitada e os lugares estiverem fechados\\nou precisarem de reserva,\\nvai ser só perda de tempo, né?"
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Oh, I see. I'll let her know.",
+      "texto_ptbr": "Ah, entendi. Vou avisar a ela."
+    },
+    {
+      "id": 22,
+      "personagem": "Miku",
+      "texto_en": "Ah...",
+      "texto_ptbr": "Ah..."
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "Yotsuba made the plan for this trip?",
+      "texto_ptbr": "A Yotsuba fez o plano dessa viagem?"
+    },
+    {
+      "id": 24,
+      "personagem": "Miku",
+      "texto_en": "Yes, mostly Yotsuba did.\\nWe also gave our thoughts though.",
+      "texto_ptbr": "Sim, foi principalmente a Yotsuba.\\nMas a gente também deu as nossas ideias."
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "She started researching\\nright after we decided to go on this trip.",
+      "texto_ptbr": "Ela começou a pesquisar\\nlogo depois que decidimos fazer essa viagem."
+    },
+    {
+      "id": 26,
+      "personagem": "Miku",
+      "texto_en": "I wanted to help her, but she said\\nto leave it to her and ran about,\\nnotebook in hand.",
+      "texto_ptbr": "Eu queria ajudar, mas ela disse\\npra deixar com ela e saiu correndo,\\ncom o caderninho na mão."
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "I was worried that she might get tired\\nbefore the trip even started.",
+      "texto_ptbr": "Eu fiquei preocupada que ela pudesse se cansar\\nantes mesmo de a viagem começar."
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "She really tried her best, eh.",
+      "texto_ptbr": "Ela se esforçou mesmo, hein."
+    },
+    {
+      "id": 29,
+      "personagem": "Miku",
+      "texto_en": "Yotsuba's normally the type to work really hard,\\nbut this is a special trip for her, because\\nit's her first trip with her new boyfriend.",
+      "texto_ptbr": "A Yotsuba normalmente é do tipo que se esforça muito,\\nmas essa é uma viagem especial pra ela, porque\\né a primeira viagem com o namorado novo."
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "I-I see...",
+      "texto_ptbr": "E-entendi..."
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "S-so, pretty much,\\nthe two of you don't have any specific requests?",
+      "texto_ptbr": "E-então, basicamente,\\nvocês duas não têm nenhum pedido específico?"
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "I don't mind.\\nI've already entrusted everything to Yotsuba.",
+      "texto_ptbr": "Não me importo.\\nJá deixei tudo nas mãos da Yotsuba."
+    },
+    {
+      "id": 33,
+      "personagem": "Nino",
+      "texto_en": "If we decide too hastily and the facilities are closed\\nor we need reservations,\\nit'll just be a waste of time, right?",
+      "texto_ptbr": "Se a gente decidir de forma precipitada e os lugares estiverem fechados\\nou precisarem de reserva,\\nvai ser só perda de tempo, né?"
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Oh, I see. I'll let her know.",
+      "texto_ptbr": "Ah, entendi. Vou avisar a ela."
+    },
+    {
+      "id": 35,
+      "personagem": "Miku",
+      "texto_en": "Ah...",
+      "texto_ptbr": "Ah..."
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "I understand how she feels!\\nMaking a solid plan is so much fun!",
+      "texto_ptbr": "Eu entendo como ela se sente!\\nFazer um plano bem sólido é muito divertido!"
+    },
+    {
+      "id": 37,
+      "personagem": "Miku",
+      "texto_en": "You would feel the same way, wouldn't you, Futaro?",
+      "texto_ptbr": "Você sentiria o mesmo, não é, Fuutarou?"
+    },
+    {
+      "id": 38,
+      "personagem": "Nino",
+      "texto_en": "But if the plan is too rigid,\\nit might be difficult\\nto handle unexpected situations on-site.",
+      "texto_ptbr": "Mas se o plano for rígido demais,\\npode ser difícil\\nlidar com imprevistos no local."
+    },
+    {
+      "id": 39,
+      "personagem": "Miku",
+      "texto_en": "Yotsuba seems to be okay with that.\\nShe's even considered alternative plans\\nin case of bad weather.",
+      "texto_ptbr": "A Yotsuba parece não ligar pra isso.\\nEla até pensou em planos alternativos\\npra caso de mau tempo."
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "Wow, she knows what she's doing.",
+      "texto_ptbr": "Nossa, ela sabe o que está fazendo."
+    },
+    {
+      "id": 41,
+      "personagem": "Nino",
+      "texto_en": "That's just how pumped up she is.\\nThis vacation is really special to her.",
+      "texto_ptbr": "É só o tamanho da empolgação dela.\\nEssas férias são muito especiais pra ela."
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "That's right.\\nIt IS our graduation trip,\\nwe can only have one.",
+      "texto_ptbr": "Isso mesmo.\\nÉ a nossa viagem de formatura,\\nsó dá pra ter uma."
+    },
+    {
+      "id": 43,
+      "personagem": "Miku",
+      "texto_en": "That's true%p-2;――",
+      "texto_ptbr": "É verdade%p-2;――"
+    },
+    {
+      "id": 44,
+      "personagem": "Miku",
+      "texto_en": "But also, it's your first trip together\\nas a couple. It's special for that reason, too.",
+      "texto_ptbr": "Mas também é a primeira viagem de vocês\\ncomo casal. É especial por esse motivo também."
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "Ah...\\nTh-that's right...",
+      "texto_ptbr": "Ah...\\nÉ-é verdade..."
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "S-so, pretty much,\\nthe two of you don't have any specific requests?",
+      "texto_ptbr": "E-então, basicamente,\\nvocês duas não têm nenhum pedido específico?"
+    },
+    {
+      "id": 47,
+      "personagem": "Nino",
+      "texto_en": "I don't mind.\\nI've already entrusted everything to Yotsuba.",
+      "texto_ptbr": "Não me importo.\\nJá deixei tudo nas mãos da Yotsuba."
+    },
+    {
+      "id": 48,
+      "personagem": "Nino",
+      "texto_en": "If we decide too hastily and the facilities are closed\\nor we need reservations,\\nit'll just be a waste of time, right?",
+      "texto_ptbr": "Se a gente decidir de forma precipitada e os lugares estiverem fechados\\nou precisarem de reserva,\\nvai ser só perda de tempo, né?"
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Oh, I see. I'll let her know.",
+      "texto_ptbr": "Ah, entendi. Vou avisar a ela."
+    },
+    {
+      "id": 50,
+      "personagem": "Miku",
+      "texto_en": "Ah...",
+      "texto_ptbr": "Ah..."
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "What's up? Did you remember something you want to do?",
+      "texto_ptbr": "Que foi? Lembrou de alguma coisa que quer fazer?"
+    },
+    {
+      "id": 52,
+      "personagem": "Miku",
+      "texto_en": "No, it's not that. I just thought that if I go along\\nwith whatever Yotsuba wants to do,\\nI might not be able to keep up with her physically.",
+      "texto_ptbr": "Não, não é isso. Só pensei que, se eu for na onda\\ndo que a Yotsuba quiser fazer,\\ntalvez eu não consiga acompanhar o ritmo dela fisicamente."
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "I get your point. Now that you mention it,\\nRaiha is still a middle school student,\\nso intense activities would be dangerous for her.",
+      "texto_ptbr": "Entendi o que você quer dizer. Agora que você falou,\\na Raiha ainda está no ensino fundamental,\\nentão atividades intensas seriam perigosas pra ela."
+    },
+    {
+      "id": 54,
+      "personagem": "Nino",
+      "texto_en": "She's definitely considered that, right?",
+      "texto_ptbr": "Com certeza ela já considerou isso, né?"
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "Well, Miku, if you think it's too much for you,\\nI'll stop Yotsuba.",
+      "texto_ptbr": "Bem, Miku, se você achar que é demais pra você,\\neu seguro a Yotsuba."
+    },
+    {
+      "id": 56,
+      "personagem": "Nino",
+      "texto_en": "Yeah, you SAY that,\\nbut if Miku can't keep up with her,\\nthen you won't be able to keep up either, Fu-kun.",
+      "texto_ptbr": "É, você DIZ isso,\\nmas se a Miku não consegue acompanhá-la,\\nentão você também não vai conseguir, Fu-kun."
+    },
+    {
+      "id": 57,
+      "personagem": "Miku",
+      "texto_en": "That's true.\\nYou're also pretty weak, Futaro.",
+      "texto_ptbr": "É verdade.\\nVocê também é bem fraco, Fuutarou."
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "I can't say anything to that...",
+      "texto_ptbr": "Não tenho o que dizer sobre isso..."
+    },
+    {
+      "id": 59,
+      "personagem": "Nino",
+      "texto_en": "If you keep going like this,\\nyou might disappoint Yotsuba in the future, you know.",
+      "texto_ptbr": "Se você continuar assim,\\npode acabar decepcionando a Yotsuba no futuro, sabia?"
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "Oof...\\nI mean, there's a part of me,\\nthat thinks that as well.",
+      "texto_ptbr": "Uf...\\nQuer dizer, uma parte de mim\\nteme isso também."
+    },
+    {
+      "id": 61,
+      "personagem": "Nino",
+      "texto_en": "That's right. When we were swimming in the sea earlier,\\nyou were having trouble keeping up\\nwith Yotsuba, weren't you?",
+      "texto_ptbr": "Isso mesmo. Quando a gente estava nadando no mar agora há pouco,\\nvocê estava com dificuldade pra acompanhar\\na Yotsuba, não estava?"
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "You saw that?!",
+      "texto_ptbr": "Você viu isso?!"
+    },
+    {
+      "id": 63,
+      "personagem": "Miku",
+      "texto_en": "Also, you're the type to push themselves\\neven though you know you're not as\\nphysically capable.",
+      "texto_ptbr": "Além disso, você é do tipo que se força\\nmesmo sabendo que não tem tanta\\ncapacidade física."
+    },
+    {
+      "id": 64,
+      "personagem": "Miku",
+      "texto_en": "Yotsuba is probably worried about that too.",
+      "texto_ptbr": "A Yotsuba provavelmente também se preocupa com isso."
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "For sure... I can't say that I'm the same as Yotsuba,\\nbut I want to at the very least, I want to train to be\\nas strong as the average person.",
+      "texto_ptbr": "Com certeza... Não digo que eu seja igual à Yotsuba,\\nmas eu quero, pelo menos, treinar pra ficar\\ntão forte quanto uma pessoa comum."
+    },
+    {
+      "id": 66,
+      "personagem": "Nino",
+      "texto_en": "I mean, you could ask Yotsuba for help with that.",
+      "texto_ptbr": "Ué, você poderia pedir ajuda pra Yotsuba com isso."
+    },
+    {
+      "id": 67,
+      "personagem": "Miku",
+      "texto_en": "She'd be really eager to train you.",
+      "texto_ptbr": "Ela ficaria muito empolgada em te treinar."
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "Ahh, well, I have SOME pride, you know?\\nI'd like to do it without the other person noticing.",
+      "texto_ptbr": "Ahh, bem, eu tenho ALGUM orgulho, sabe?\\nEu queria fazer isso sem a outra pessoa perceber."
+    },
+    {
+      "id": 69,
+      "personagem": "Nino",
+      "texto_en": "You're just being proud for no reason.",
+      "texto_ptbr": "Você está com orgulho à toa."
+    },
+    {
+      "id": 70,
+      "personagem": "Miku",
+      "texto_en": "Futaro, I didn't think you cared\\nabout appearances THAT much.",
+      "texto_ptbr": "Fuutarou, não achei que você se importasse\\ncom aparências TANTO assim."
+    },
+    {
+      "id": 71,
+      "personagem": "Nino",
+      "texto_en": "Yeah, just give up and ask Yotsuba for help.\\nShe'll be happy to help, I'm sure.",
+      "texto_ptbr": "É, desista logo e peça ajuda pra Yotsuba.\\nTenho certeza de que ela vai adorar ajudar."
+    },
+    {
+      "id": 72,
+      "personagem": "Futaro",
+      "texto_en": "Right, let me think about it for a bit.\\nThanks, you two.",
+      "texto_ptbr": "Certo, deixa eu pensar um pouco.\\nObrigado, vocês duas."
+    }
+  ]
+}

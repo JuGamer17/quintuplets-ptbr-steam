@@ -1,0 +1,456 @@
+{
+  "arquivo": "ca04_mv4_01",
+  "total": 75,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(Oh?\\n Who's that over there...?)",
+      "texto_ptbr": "(Ué?\\n Quem é aquele ali...?)"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Hey, what are you doing in this little corner?",
+      "texto_ptbr": "Ei, o que vocês estão fazendo nesse cantinho?"
+    },
+    {
+      "id": 2,
+      "personagem": "Both",
+      "texto_en": "HYAA?!",
+      "texto_ptbr": "HIAA?!"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Uwaaa?!",
+      "texto_ptbr": "UAAA?!"
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "U-Uesugi-kun!\\nPlease don't talk to us all of a sudden like that!",
+      "texto_ptbr": "U-Uesugi-kun!\\nPor favor, não fale com a gente de repente assim!"
+    },
+    {
+      "id": 5,
+      "personagem": "Ichika",
+      "texto_en": "That SHOCKED me, wow.",
+      "texto_ptbr": "Isso me DEU um susto, nossa."
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "I'm the one who was shocked...",
+      "texto_ptbr": "Quem levou o susto fui eu..."
+    },
+    {
+      "id": 7,
+      "personagem": "Ichika",
+      "texto_en": "And, hm? You're alone?\\nYou're not with Yotsuba, huh.",
+      "texto_ptbr": "E, hm? Você está sozinho?\\nNão está com a Yotsuba, hein."
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, I guess.\\nGot a problem with that?",
+      "texto_ptbr": "É, acho que sim.\\nTem algum problema com isso?"
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "I can't really tell\\nif that's a good thing or a bad thing.",
+      "texto_ptbr": "Não sei dizer direito\\nse isso é bom ou ruim."
+    },
+    {
+      "id": 10,
+      "personagem": "Ichika",
+      "texto_en": "They're not making any progress at all.\\nThey're just maintaining at this point.\\nThis is enough to say there's a problem.",
+      "texto_ptbr": "Eles não estão progredindo nada.\\nEstão só se mantendo nesse ponto.\\nIsso já basta pra dizer que tem um problema."
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Hey, what are you two talking about?",
+      "texto_ptbr": "Ei, do que vocês duas estão falando?"
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "Oh no, nothing.",
+      "texto_ptbr": "Ah, não, nada."
+    },
+    {
+      "id": 13,
+      "personagem": "Cat",
+      "texto_en": "Meow.",
+      "texto_ptbr": "Miau."
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Oh? A cat?\\nOh, you were playing with it.",
+      "texto_ptbr": "Ué? Um gato?\\nAh, vocês estavam brincando com ele."
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, it's cute, right?",
+      "texto_ptbr": "É, é fofo, né?"
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Cute, more like...round.",
+      "texto_ptbr": "Fofo, mais pra...redondo."
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "W-well, that's cute, too.",
+      "texto_ptbr": "B-bem, isso também é fofo."
+    },
+    {
+      "id": 18,
+      "personagem": "Ichika",
+      "texto_en": "Sorry this man was so rude to you, Maya-chan, meow.\\nPlease forgive him, meow.",
+      "texto_ptbr": "Desculpa por esse homem ter sido tão grosso com você, Maya-chan, miau.\\nPor favor, perdoe ele, miau."
+    },
+    {
+      "id": 19,
+      "personagem": "Cat",
+      "texto_en": "Meow, meow.",
+      "texto_ptbr": "Miau, miau."
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "Teehee, what a clever kitty.",
+      "texto_ptbr": "Hihi, que gatinha esperta."
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Is this cat's name Maya?",
+      "texto_ptbr": "O nome desse gato é Maya?"
+    },
+    {
+      "id": 22,
+      "personagem": "Ichika",
+      "texto_en": "No, I don't know her real name.",
+      "texto_ptbr": "Não, não sei o nome de verdade dela."
+    },
+    {
+      "id": 23,
+      "personagem": "Ichika",
+      "texto_en": "They call cats 'Maya' in the Okinawan language,\\nso we're just calling it Maya-chan (temporarily).",
+      "texto_ptbr": "Chamam gatos de 'Maya' na língua de Okinawa,\\nentão a gente só está chamando de Maya-chan (temporariamente)."
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "That's pretty crude...\\nAlso, including 'meow' at the end of the sentences\\nis pretty crude, too.",
+      "texto_ptbr": "Isso é bem tosco...\\nE colocar 'miau' no final das frases\\ntambém é bem tosco."
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "It's okay, Maya-chan likes it.\\nJust look.",
+      "texto_ptbr": "Tudo bem, a Maya-chan gosta.\\nÉ só olhar."
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "Here's some pets, Maya-chan, you're such a good kitty.",
+      "texto_ptbr": "Toma um carinho, Maya-chan, você é uma gatinha tão boazinha."
+    },
+    {
+      "id": 27,
+      "personagem": "Cat",
+      "texto_en": "Meooow, meeeoww.",
+      "texto_ptbr": "Miaaau, miaaauu."
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "Hey, that's not fair,\\nwhy do you get to pet Maya all the time.\\nLet me have a turn too.",
+      "texto_ptbr": "Ei, isso não é justo,\\npor que só você pode fazer carinho na Maya o tempo todo.\\nDeixa eu ter a minha vez também."
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "What a well-behaved cat.\\nMaybe she's used to being touched by tourists?",
+      "texto_ptbr": "Que gata bem-comportada.\\nTalvez ela esteja acostumada a ser tocada por turistas?"
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "Perhaps she's the mascot for some shop.",
+      "texto_ptbr": "Talvez ela seja a mascote de alguma loja."
+    },
+    {
+      "id": 31,
+      "personagem": "Ichika",
+      "texto_en": "With such a magnificent physique,\\nare you eating delicious Okinawan fish every day?",
+      "texto_ptbr": "Com um físico tão magnífico,\\nvocê come peixes deliciosos de Okinawa todo dia?"
+    },
+    {
+      "id": 32,
+      "personagem": "Cat",
+      "texto_en": "Meow.",
+      "texto_ptbr": "Miau."
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Isn't this cat eating a bit too much?",
+      "texto_ptbr": "Esse gato não está comendo demais?"
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "Yeah, I'm a bit concerned about that.",
+      "texto_ptbr": "É, também estou um pouco preocupada com isso."
+    },
+    {
+      "id": 35,
+      "personagem": "Ichika",
+      "texto_en": "Maya-chan, you might want to go on a diet,\\nmeow?",
+      "texto_ptbr": "Maya-chan, talvez seja melhor você fazer dieta,\\nmiau?"
+    },
+    {
+      "id": 36,
+      "personagem": "Cat",
+      "texto_en": "Meowww...",
+      "texto_ptbr": "Miauuu..."
+    },
+    {
+      "id": 37,
+      "personagem": "Ichika",
+      "texto_en": "Ahaha, guess not.",
+      "texto_ptbr": "Ahaha, acho que não."
+    },
+    {
+      "id": 38,
+      "personagem": "Cat",
+      "texto_en": "Meow, meoww.",
+      "texto_ptbr": "Miau, miauu."
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Well, that's a cat living in luxury, I'd say.\\nIt might even be eating better than me.",
+      "texto_ptbr": "Bem, eu diria que é um gato que vive no luxo.\\nÉ capaz de estar comendo melhor que eu."
+    },
+    {
+      "id": 40,
+      "personagem": "Ichika",
+      "texto_en": "Itsuki-chan,\\nlet's splurge on tonight's dinner for Futaro-kun.",
+      "texto_ptbr": "Itsuki-chan,\\nvamos caprichar no jantar de hoje à noite pro Fuutarou-kun."
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, let's treat him\\nto all the delicious seafood from Okinawa.",
+      "texto_ptbr": "Sim, vamos oferecer a ele\\ntodos os deliciosos frutos do mar de Okinawa."
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Whaaa you're kidding?!",
+      "texto_ptbr": "Quê, tá de brincadeira?!"
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "We won't allow any leftovers, okay?",
+      "texto_ptbr": "Não vamos aceitar sobras, tá?"
+    },
+    {
+      "id": 44,
+      "personagem": "Cat",
+      "texto_en": "Meow, meoww.",
+      "texto_ptbr": "Miau, miauu."
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "Okinawan fish is delicious,\\nso maybe Maya's recommending it to us.",
+      "texto_ptbr": "O peixe de Okinawa é delicioso,\\nentão talvez a Maya esteja recomendando pra gente."
+    },
+    {
+      "id": 46,
+      "personagem": "Itsuki",
+      "texto_en": "So, is Maya the signboard cat\\nfor the market fisherman?",
+      "texto_ptbr": "Então, a Maya é a gata-propaganda\\ndo pescador do mercado?"
+    },
+    {
+      "id": 47,
+      "personagem": "Ichika",
+      "texto_en": "That's how she's promotes business to customers.\\nMaya-chan, you're such a hard worker.",
+      "texto_ptbr": "É assim que ela promove o negócio pros clientes.\\nMaya-chan, você é tão trabalhadora."
+    },
+    {
+      "id": 48,
+      "personagem": "Cat",
+      "texto_en": "Meow.",
+      "texto_ptbr": "Miau."
+    },
+    {
+      "id": 49,
+      "personagem": "Ichika",
+      "texto_en": "Okay, let's have Maya-chan recommend a seafood feast\\nfor tonight's dinner.",
+      "texto_ptbr": "Beleza, vamos deixar a Maya-chan recomendar um banquete de frutos do mar\\npro jantar de hoje à noite."
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "Great idea.\\nWe have this chance, so let's indulge\\nin all the delicious seafood from Okinawa.",
+      "texto_ptbr": "Ótima ideia.\\nJá que temos a oportunidade, vamos nos esbaldar\\nem todos os deliciosos frutos do mar de Okinawa."
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 52,
+      "personagem": "Ichika",
+      "texto_en": "Alright, let's prepare a large boat-shaped platter\\nfor Futaro-kun!",
+      "texto_ptbr": "Certo, vamos preparar uma grande travessa em formato de barco\\npro Fuutarou-kun!"
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "No, that's not what I meant...\\nJust, don't go overboard, okay?",
+      "texto_ptbr": "Não, não foi isso que eu quis dizer...\\nSó não exagerem, tá?"
+    },
+    {
+      "id": 54,
+      "personagem": "Ichika",
+      "texto_en": "You're always so serious.\\nYou've gotta lighten up, huh, Maya-chan?",
+      "texto_ptbr": "Você é sempre tão sério.\\nPrecisa relaxar, né, Maya-chan?"
+    },
+    {
+      "id": 55,
+      "personagem": "Cat",
+      "texto_en": "Meow, meowww.",
+      "texto_ptbr": "Miau, miauuu."
+    },
+    {
+      "id": 56,
+      "personagem": "Ichika",
+      "texto_en": "Ah, kitty left.",
+      "texto_ptbr": "Ah, a gatinha foi embora."
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "It was so friendly until just now,\\nbut it left so easily.",
+      "texto_ptbr": "Ela estava tão amigável até agora,\\nmas foi embora com tanta facilidade."
+    },
+    {
+      "id": 58,
+      "personagem": "Itsuki",
+      "texto_en": "Cats are said to be fickle. It's true, isn't it.",
+      "texto_ptbr": "Dizem que gatos são inconstantes. É verdade, não é."
+    },
+    {
+      "id": 59,
+      "personagem": "Ichika",
+      "texto_en": "I wish it had stayed a bit longer.",
+      "texto_ptbr": "Queria que ela tivesse ficado um pouco mais."
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "Ichika, do you really like cats that much?",
+      "texto_ptbr": "Ichika, você gosta mesmo tanto assim de gatos?"
+    },
+    {
+      "id": 61,
+      "personagem": "Ichika",
+      "texto_en": "Not THAT much, but I like them nonetheless.\\nI think all animals are cute.",
+      "texto_ptbr": "Não TANTO assim, mas eu gosto mesmo assim.\\nAcho que todos os animais são fofos."
+    },
+    {
+      "id": 62,
+      "personagem": "Itsuki",
+      "texto_en": "Come to think of it,\\nI think you said you like hippos before, Ichika.",
+      "texto_ptbr": "Aliás,\\nacho que você já disse que gosta de hipopótamos, Ichika."
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "Hippos? Really? That's kind of surprising.",
+      "texto_ptbr": "Hipopótamos? Sério? Isso é meio surpreendente."
+    },
+    {
+      "id": 64,
+      "personagem": "Ichika",
+      "texto_en": "Huh? Is it?\\nI feel like a hippo and I are similar in some ways.",
+      "texto_ptbr": "Hã? É?\\nSinto que eu e um hipopótamo somos parecidos em alguns pontos."
+    },
+    {
+      "id": 65,
+      "personagem": "Itsuki",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "Similar?",
+      "texto_ptbr": "Parecidos?"
+    },
+    {
+      "id": 67,
+      "personagem": "Itsuki",
+      "texto_en": "At least I don't think you're similar.",
+      "texto_ptbr": "Pelo menos eu não acho que vocês sejam parecidos."
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "Actually, I think you're more like a sloth.\\nThey spend most of their day sleeping.",
+      "texto_ptbr": "Na verdade, acho que você é mais como uma preguiça.\\nElas passam a maior parte do dia dormindo."
+    },
+    {
+      "id": 69,
+      "personagem": "Ichika",
+      "texto_en": "Waaah, that's harsh! How can you say that to me,\\nsuch a hard-working actress?",
+      "texto_ptbr": "Uaaah, que maldade! Como você pode dizer isso pra mim,\\numa atriz tão trabalhadora?"
+    },
+    {
+      "id": 70,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, but he's got a point...",
+      "texto_ptbr": "Ah, mas ele tem razão..."
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "Itsuki?",
+      "texto_ptbr": "Itsuki?"
+    },
+    {
+      "id": 72,
+      "personagem": "Itsuki",
+      "texto_en": "No, I was just thinking hippos,\\nmust have different sides to them as well.",
+      "texto_ptbr": "Não, eu só estava pensando que os hipopótamos\\ndevem ter diferentes lados também."
+    },
+    {
+      "id": 73,
+      "personagem": "Ichika",
+      "texto_en": "Right, well, since Maya rejected me,\\nshall we go visit some shops?",
+      "texto_ptbr": "Certo, bem, já que a Maya me rejeitou,\\nvamos visitar umas lojas?"
+    },
+    {
+      "id": 74,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, let's do that.",
+      "texto_ptbr": "Sim, vamos nessa."
+    }
+  ]
+}

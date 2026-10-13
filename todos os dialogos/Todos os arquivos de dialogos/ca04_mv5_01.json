@@ -1,0 +1,480 @@
+{
+  "arquivo": "ca04_mv5_01",
+  "total": 79,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Ichika",
+      "texto_en": "Huh? Futaro-kun, are you alone?",
+      "texto_ptbr": "Hã? Fuutarou-kun, você está sozinho?"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Oh, it's Ichika.",
+      "texto_ptbr": "Ah, é a Ichika."
+    },
+    {
+      "id": 2,
+      "personagem": "Ichika",
+      "texto_en": "What now?\\nYou seem a bit disappointed.",
+      "texto_ptbr": "O que foi?\\nVocê parece um pouco decepcionado."
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "No, not really.",
+      "texto_ptbr": "Não, nada."
+    },
+    {
+      "id": 4,
+      "personagem": "Ichika",
+      "texto_en": "Hmm. Well, let's just leave it at that.",
+      "texto_ptbr": "Hmm. Bem, vamos deixar assim."
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "This is the Native Okinawan Village, right?\\nIt's surprising to see you taking an interest\\nin a place like this.",
+      "texto_ptbr": "Aqui é a Vila Nativa de Okinawa, né?\\nÉ surpreendente ver você se interessando\\npor um lugar assim."
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "Really?\\nSince I came all the way here, I wanted to see buildings\\nthat truly scream Okinawa!",
+      "texto_ptbr": "É mesmo?\\nJá que eu vim até aqui, queria ver construções\\nque gritam Okinawa de verdade!"
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, Uesugi-san?!",
+      "texto_ptbr": "Ah, Uesugi-san?!"
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Ah!\\nY-Yotsuba, you were here too, huh.",
+      "texto_ptbr": "Ah!\\nY-Yotsuba, você também estava aqui, hein."
+    },
+    {
+      "id": 9,
+      "personagem": "Yotsuba",
+      "texto_en": "What a coincidence to meet here like this.",
+      "texto_ptbr": "Que coincidência a gente se encontrar assim."
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, it is. I just happened to come this way.",
+      "texto_ptbr": "É, é mesmo. Eu só vim parar por aqui por acaso."
+    },
+    {
+      "id": 11,
+      "personagem": "Yotsuba",
+      "texto_en": "R-right.",
+      "texto_ptbr": "C-certo."
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "Hmmm...",
+      "texto_ptbr": "Hmmm..."
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "Yotsuba.",
+      "texto_ptbr": "Yotsuba."
+    },
+    {
+      "id": 14,
+      "personagem": "Yotsuba",
+      "texto_en": "Hm? What?",
+      "texto_ptbr": "Hm? O quê?"
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "If you want to look around with Futaro-kun,\\nwhy don't you invite him instead of hesitating?",
+      "texto_ptbr": "Se você quer passear com o Fuutarou-kun,\\npor que não o convida em vez de ficar hesitando?"
+    },
+    {
+      "id": 16,
+      "personagem": "Yotsuba",
+      "texto_en": "Whaaaat?!",
+      "texto_ptbr": "Quêêê?!"
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Huh? What's the matter?",
+      "texto_ptbr": "Hã? O que foi?"
+    },
+    {
+      "id": 18,
+      "personagem": "Yotsuba",
+      "texto_en": "Nothing!\\nWe're just talking about something else!",
+      "texto_ptbr": "Nada!\\nA gente só está falando de outra coisa!"
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "I-Ichika!\\nThe timing now's a little off...",
+      "texto_ptbr": "I-Ichika!\\nO momento agora não é dos melhores..."
+    },
+    {
+      "id": 20,
+      "personagem": "Ichika",
+      "texto_en": "Hey, Futaro-kun.\\nHow about taking a look around with Yotsuba?",
+      "texto_ptbr": "Ei, Fuutarou-kun.\\nQue tal dar uma volta com a Yotsuba?"
+    },
+    {
+      "id": 21,
+      "personagem": "Yotsuba",
+      "texto_en": "Uwawaa?!\\nB-but I'm looking around at things\\nwith you right now, Ichika!",
+      "texto_ptbr": "Uwawaa?!\\nM-mas eu estou passeando\\ncom você agora, Ichika!"
+    },
+    {
+      "id": 22,
+      "personagem": "Ichika",
+      "texto_en": "Don't worry about me,\\nyou're free to go wherever you want.",
+      "texto_ptbr": "Não se preocupe comigo,\\nvocê pode ir pra onde quiser."
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "Umm, well, uh...",
+      "texto_ptbr": "Hã, bem, é..."
+    },
+    {
+      "id": 24,
+      "personagem": "Yotsuba",
+      "texto_en": "L-look!\\nEven you must want to see something, right?\\nPlease go ahead, don't mind me!",
+      "texto_ptbr": "O-olha!\\nAté você deve querer ver alguma coisa, né?\\nPode ir, não se preocupe comigo!"
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Well, it is free time, isn't it.",
+      "texto_ptbr": "Bem, é tempo livre, não é."
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "That's right.\\nIt's your special free time, isn't it?",
+      "texto_ptbr": "Isso mesmo.\\nÉ o seu tempo livre especial, né?"
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Yeah.\\nI get what you're saying.",
+      "texto_ptbr": "É.\\nEntendo o que você quer dizer."
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "Hmm, this is tough.",
+      "texto_ptbr": "Hmm, isso é difícil."
+    },
+    {
+      "id": 29,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, look at that!\\nThere's a shisa on the roof! See?!",
+      "texto_ptbr": "Ah, olha só!\\nTem um shisa no telhado! Está vendo?!"
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah, you're right!\\nWhy is it placed up there?",
+      "texto_ptbr": "S-sim, tem razão!\\nPor que ele fica colocado lá em cima?"
+    },
+    {
+      "id": 31,
+      "personagem": "Ichika",
+      "texto_en": "Come on...",
+      "texto_ptbr": "Ai, ai, ai..."
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "It's impossible to just ignore Ichika.\\nWe'd just be leaving her all alone.",
+      "texto_ptbr": "É impossível simplesmente ignorar a Ichika.\\nSó estaríamos deixando ela sozinha."
+    },
+    {
+      "id": 33,
+      "personagem": "Yotsuba",
+      "texto_en": "Th-that's right!\\nThat'd be so selfish of us!",
+      "texto_ptbr": "I-isso mesmo!\\nSeria muito egoísmo da nossa parte!"
+    },
+    {
+      "id": 34,
+      "personagem": "Ichika",
+      "texto_en": "Even still it's ok to be a little selfish sometimes.",
+      "texto_ptbr": "Mesmo assim, não tem problema ser um pouco egoísta às vezes."
+    },
+    {
+      "id": 35,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh? Ichika?",
+      "texto_ptbr": "Hã? Ichika?"
+    },
+    {
+      "id": 36,
+      "personagem": "Ichika",
+      "texto_en": "Both of you, Futaro-kun and Yotsuba,\\nare serious, in a good way AND bad way.",
+      "texto_ptbr": "Vocês dois, Fuutarou-kun e Yotsuba,\\nsão sérios, tanto no bom quanto no mau sentido."
+    },
+    {
+      "id": 37,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, look at that!\\nThere's a shisa on the roof! See?!",
+      "texto_ptbr": "Ah, olha só!\\nTem um shisa no telhado! Está vendo?!"
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah, you're right!\\nWhy is it placed up there?",
+      "texto_ptbr": "S-sim, tem razão!\\nPor que ele fica colocado lá em cima?"
+    },
+    {
+      "id": 39,
+      "personagem": "Ichika",
+      "texto_en": "Come on...",
+      "texto_ptbr": "Ai, ai, ai..."
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "It might be nice to go see things together.",
+      "texto_ptbr": "Talvez seja legal ir ver as coisas juntos."
+    },
+    {
+      "id": 41,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "...Ummm.",
+      "texto_ptbr": "...Hum."
+    },
+    {
+      "id": 43,
+      "personagem": "Ichika",
+      "texto_en": "Heh, it seems like your true feelings\\nslipped out accidentally, huh?",
+      "texto_ptbr": "Heh, parece que seus verdadeiros sentimentos\\nescaparam sem querer, hein?"
+    },
+    {
+      "id": 44,
+      "personagem": "Ichika",
+      "texto_en": "So? What are you gonna do?",
+      "texto_ptbr": "E aí? O que você vai fazer?"
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "Well, even Yotsuba must have things she wants to see,\\nand since it's free time, I think we should prioritize\\nwhat each person wants to see, right?",
+      "texto_ptbr": "Bem, até a Yotsuba deve ter coisas que quer ver,\\ne como é tempo livre, acho que a gente deveria priorizar\\no que cada um quer ver, né?"
+    },
+    {
+      "id": 46,
+      "personagem": "Yotsuba",
+      "texto_en": "Th-that's right!\\nIt IS free time, after all.",
+      "texto_ptbr": "I-isso mesmo!\\nÉ tempo livre, afinal."
+    },
+    {
+      "id": 47,
+      "personagem": "Ichika",
+      "texto_en": "I think it's okay for you to decide\\nwhat you want to prioritize.",
+      "texto_ptbr": "Acho que tudo bem vocês decidirem\\no que querem priorizar."
+    },
+    {
+      "id": 48,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, look at that!\\nThere's a shisa on the roof! See?!",
+      "texto_ptbr": "Ah, olha só!\\nTem um shisa no telhado! Está vendo?!"
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah, you're right!\\nWhy is it placed up there?",
+      "texto_ptbr": "S-sim, tem razão!\\nPor que ele fica colocado lá em cima?"
+    },
+    {
+      "id": 50,
+      "personagem": "Ichika",
+      "texto_en": "Come on...",
+      "texto_ptbr": "Ai, ai, ai..."
+    },
+    {
+      "id": 51,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, yeah, it's a shisa.",
+      "texto_ptbr": "Sim, sim, é um shisa."
+    },
+    {
+      "id": 52,
+      "personagem": "Ichika",
+      "texto_en": "They say it's protecting the 'Hinukan,'\\nwhich is the god of the hearth in that house.",
+      "texto_ptbr": "Dizem que ele protege o 'Hinukan',\\nque é o deus do fogão daquela casa."
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "Oh, really.\\nYou're quite knowledgeable.",
+      "texto_ptbr": "Ah, é mesmo.\\nVocê é bem informada."
+    },
+    {
+      "id": 54,
+      "personagem": "Ichika",
+      "texto_en": "Actually, I just heard it earlier.\\nIt's what the guide told me.",
+      "texto_ptbr": "Na verdade, eu acabei de ouvir agora há pouco.\\nFoi o que o guia me contou."
+    },
+    {
+      "id": 55,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh? But, isn't it strange to put it on the roof\\nto protect the god of the hearth?",
+      "texto_ptbr": "Hã? Mas não é estranho colocar no telhado\\npra proteger o deus do fogão?"
+    },
+    {
+      "id": 56,
+      "personagem": "Ichika",
+      "texto_en": "Most old houses used to have thatched roofs,\\nso it's to prevent fires from breaking out.",
+      "texto_ptbr": "A maioria das casas antigas tinha telhado de palha,\\nentão é pra evitar que comecem incêndios."
+    },
+    {
+      "id": 57,
+      "personagem": "Yotsuba",
+      "texto_en": "Wow, I see.",
+      "texto_ptbr": "Nossa, entendi."
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "Makes sense.",
+      "texto_ptbr": "Faz sentido."
+    },
+    {
+      "id": 59,
+      "personagem": "Yotsuba",
+      "texto_en": "Speaking of which, we often see shisa in the city\\nwith their mouths open or closed, right?",
+      "texto_ptbr": "Falando nisso, a gente costuma ver shisas na cidade\\ncom a boca aberta ou fechada, né?"
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "Probably the A-un pair, yeah?",
+      "texto_ptbr": "Provavelmente o par A-un, né?"
+    },
+    {
+      "id": 61,
+      "personagem": "Ichika",
+      "texto_en": "A-un...\\nAre those the komainu at shrines?",
+      "texto_ptbr": "A-un...\\nSão aqueles komainu dos santuários?"
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "Oh, that's right.\\nThe A-un pair of komainu\\nsymbolizes the beginning and the end of all things.",
+      "texto_ptbr": "Ah, isso mesmo.\\nO par A-un de komainu\\nsimboliza o começo e o fim de todas as coisas."
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "Wasn't that explained by the guide?",
+      "texto_ptbr": "Isso não foi explicado pelo guia?"
+    },
+    {
+      "id": 64,
+      "personagem": "Ichika",
+      "texto_en": "Well, I didn't hear it directly from the guide.\\nI just overheard it\\nwhen they were explaining to someone else.",
+      "texto_ptbr": "Bem, eu não ouvi diretamente do guia.\\nSó ouvi por acaso\\nquando ele estava explicando pra outra pessoa."
+    },
+    {
+      "id": 65,
+      "personagem": "Yotsuba",
+      "texto_en": "In that case, it's time to ask for help\\nfrom the amazing smartphone!",
+      "texto_ptbr": "Nesse caso, é hora de pedir ajuda\\npro incrível smartphone!"
+    },
+    {
+      "id": 66,
+      "personagem": "Yotsuba",
+      "texto_en": "Let me see...",
+      "texto_ptbr": "Deixa eu ver..."
+    },
+    {
+      "id": 67,
+      "personagem": "Yotsuba",
+      "texto_en": "Shisa come in male and female pairs,\\nwith one with an open mouth being male,\\nand the one with a closed mouth being female.",
+      "texto_ptbr": "Os shisas vêm em pares de macho e fêmea,\\nsendo o de boca aberta o macho,\\ne o de boca fechada, a fêmea."
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "Oh, I didn't know that they were male and female.",
+      "texto_ptbr": "Ah, eu não sabia que eram macho e fêmea."
+    },
+    {
+      "id": 69,
+      "personagem": "Yotsuba",
+      "texto_en": "The male protects the house from external threats,\\nwhile the female prevents good fortune\\nfrom escaping outside, or so they say.",
+      "texto_ptbr": "O macho protege a casa contra ameaças externas,\\nenquanto a fêmea impede que a boa sorte\\nescape pra fora, ou pelo menos é o que dizem."
+    },
+    {
+      "id": 70,
+      "personagem": "Ichika",
+      "texto_en": "I see.\\nThat's why they're often placed in front of gates.",
+      "texto_ptbr": "Entendi.\\nÉ por isso que costumam ser colocados na frente dos portões."
+    },
+    {
+      "id": 71,
+      "personagem": "Yotsuba",
+      "texto_en": "They always stick together to protect the house,\\ndon't they?",
+      "texto_ptbr": "Eles sempre ficam juntos pra proteger a casa,\\nnão é?"
+    },
+    {
+      "id": 72,
+      "personagem": "Ichika",
+      "texto_en": "In that case,\\nwhy don't you two go be lovey-dovey too?",
+      "texto_ptbr": "Nesse caso,\\npor que vocês dois não vão ficar grudadinhos também?"
+    },
+    {
+      "id": 73,
+      "personagem": "Yotsuba",
+      "texto_en": "HUH?!",
+      "texto_ptbr": "HÃ?!"
+    },
+    {
+      "id": 74,
+      "personagem": "Ichika",
+      "texto_en": "Don't mind me, just go have fun together,\\nyou two lovebirds.",
+      "texto_ptbr": "Não se preocupem comigo, só vão se divertir juntos,\\nseus pombinhos."
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "I said, stop worrying about us like that.",
+      "texto_ptbr": "Eu disse, para de se preocupar com a gente desse jeito."
+    },
+    {
+      "id": 76,
+      "personagem": "Yotsuba",
+      "texto_en": "That's right! Since we're on a trip together,\\nwe should all have fun together!",
+      "texto_ptbr": "Isso mesmo! Já que a gente está viajando junto,\\nvamos todos nos divertir juntos!"
+    },
+    {
+      "id": 77,
+      "personagem": "Yotsuba",
+      "texto_en": "Come on, Ichika! Let's go see the next place!",
+      "texto_ptbr": "Vamos, Ichika! Vamos ver o próximo lugar!"
+    },
+    {
+      "id": 78,
+      "personagem": "Ichika",
+      "texto_en": "Aa-ah, really, now.\\nWell then, see you later, Futaro-kun.",
+      "texto_ptbr": "Aa-ah, sério, hein.\\nBem, então até mais, Fuutarou-kun."
+    }
+  ]
+}

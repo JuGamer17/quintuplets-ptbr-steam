@@ -1,0 +1,414 @@
+{
+  "arquivo": "ca03_23",
+  "total": 68,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Miku",
+      "texto_en": "*sigh*",
+      "texto_ptbr": "*suspiro*"
+    },
+    {
+      "id": 1,
+      "personagem": "Miku",
+      "texto_en": "(At that time, I was really surprised, but\\n it wasn't like I was scared or disgusted\\n or anything like that.)",
+      "texto_ptbr": "(Naquela hora, eu fiquei bem surpresa, mas\\n não foi como se estivesse com medo ou enojada\\n ou algo do tipo.)"
+    },
+    {
+      "id": 2,
+      "personagem": "Miku",
+      "texto_en": "(Really...\\n In my heart, I'm glad that Futaro\\n is becoming more proactive.)",
+      "texto_ptbr": "(Na verdade...\\n no fundo do meu coração, fico feliz que o Fuutarou\\n esteja se tornando mais proativo.)"
+    },
+    {
+      "id": 3,
+      "personagem": "Miku",
+      "texto_en": "(But%p-2;――%p;)",
+      "texto_ptbr": "(Mas%p-2;――%p;)"
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "How about spending some time...just the two of us?",
+      "texto_ptbr": "Que tal passar um tempo... só nós dois?"
+    },
+    {
+      "id": 5,
+      "personagem": "Miku",
+      "texto_en": "~~~~~~!!",
+      "texto_ptbr": "~~~~~~!!"
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "(What should I do?!)",
+      "texto_ptbr": "(O que eu faço?!)"
+    },
+    {
+      "id": 7,
+      "personagem": "Miku",
+      "texto_en": "(I don't hate the idea, but I ran away,\\n I wonder what Futaro thinks?)",
+      "texto_ptbr": "(Eu não odeio a ideia, mas eu fugi,\\n será o que o Fuutarou está pensando?)"
+    },
+    {
+      "id": 8,
+      "personagem": "Miku",
+      "texto_en": "(I hurt him, didn't I?\\n Even during dinner, something felt off.\\n What should I do? I have to apologize!)",
+      "texto_ptbr": "(Eu magoei ele, não foi?\\n Até durante o jantar, alguma coisa parecia estranha.\\n O que eu faço? Eu preciso pedir desculpas!)"
+    },
+    {
+      "id": 9,
+      "personagem": "Miku",
+      "texto_en": "(But, even if I apologize, then what?\\n I don't even know if Futaro really wants\\n to do something spectacular, but, but...!)",
+      "texto_ptbr": "(Mas, mesmo se eu pedir desculpas, e depois?\\n Eu nem sei se o Fuutarou realmente quer\\n fazer algo espetacular, mas, mas...!)"
+    },
+    {
+      "id": 10,
+      "personagem": "Miku",
+      "texto_en": "!!",
+      "texto_ptbr": "!!"
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "I'm home.\\nMiku, are you awake?",
+      "texto_ptbr": "Cheguei.\\nMiku, você está acordada?"
+    },
+    {
+      "id": 12,
+      "personagem": "Miku",
+      "texto_en": "Y-yeah, I am.",
+      "texto_ptbr": "S-sim, estou."
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "I'm coming in.",
+      "texto_ptbr": "Vou entrar."
+    },
+    {
+      "id": 14,
+      "personagem": "Miku",
+      "texto_en": "Huh? Ichika too?",
+      "texto_ptbr": "Hã? A Ichika também?"
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "Miku, can we talk to you a little?",
+      "texto_ptbr": "Miku, a gente pode conversar um pouco com você?"
+    },
+    {
+      "id": 16,
+      "personagem": "Miku",
+      "texto_en": "Talk to me...?",
+      "texto_ptbr": "Conversar comigo...?"
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "You know what it's about.\\nIt's about Fu-kun.",
+      "texto_ptbr": "Você sabe do que se trata.\\nÉ sobre o Fu-kun."
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "!...",
+      "texto_ptbr": "!..."
+    },
+    {
+      "id": 19,
+      "personagem": "Ichika",
+      "texto_en": "Yotsuba and Itsuki-chan\\nare also worried about you, Miku.",
+      "texto_ptbr": "A Yotsuba e a Itsuki-chan\\ntambém estão preocupadas com você, Miku."
+    },
+    {
+      "id": 20,
+      "personagem": "Miku",
+      "texto_en": "...Sorry.",
+      "texto_ptbr": "...Desculpa."
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "No need to apologize.",
+      "texto_ptbr": "Não precisa se desculpar."
+    },
+    {
+      "id": 22,
+      "personagem": "Ichika",
+      "texto_en": "But really now, I think it's time you tell us.\\nWhy are you avoiding Futaro-kun?",
+      "texto_ptbr": "Mas sério, acho que já está na hora de você nos contar.\\nPor que você está evitando o Futaro-kun?"
+    },
+    {
+      "id": 23,
+      "personagem": "Miku",
+      "texto_en": "That's...",
+      "texto_ptbr": "É que..."
+    },
+    {
+      "id": 24,
+      "personagem": "Miku",
+      "texto_en": "(Everyone's worried about me.\\n But I still feel like I can\\n only talk to a certain someone...)",
+      "texto_ptbr": "(Todo mundo está preocupado comigo.\\n Mas ainda sinto que só consigo\\n conversar sobre isso com uma certa pessoa...)"
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "Miku, there are only two more days left on the trip.\\nAt this rate,\\nwe won't be able to make any good memories.",
+      "texto_ptbr": "Miku, só faltam mais dois dias de viagem.\\nDo jeito que está,\\na gente não vai conseguir criar boas lembranças."
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "And once we get back, Fu-kun will go to Tokyo.\\nHe'll be gone from your sight.",
+      "texto_ptbr": "E assim que a gente voltar, o Fu-kun vai pra Tóquio.\\nEle vai sumir da sua vista."
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "Is that okay with you?",
+      "texto_ptbr": "Isso está tudo bem pra você?"
+    },
+    {
+      "id": 28,
+      "personagem": "Miku",
+      "texto_en": "Ah...",
+      "texto_ptbr": "Ah..."
+    },
+    {
+      "id": 29,
+      "personagem": "Miku",
+      "texto_en": "(If Futaro goes to Tokyo like this,\\n he and I will%p-2;――%p;)",
+      "texto_ptbr": "(Se o Fuutarou for pra Tóquio assim,\\n ele e eu vamos%p-2;――%p;)"
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "Well, if you're avoiding Fu-kun,\\nthen it shouldn't be a problem if he's gone, huh.",
+      "texto_ptbr": "Bom, se você está evitando o Fu-kun,\\nnão devia ser um problema ele ir embora, né."
+    },
+    {
+      "id": 31,
+      "personagem": "Miku",
+      "texto_en": "...That's not it.\\nIt is a problem.\\nI don't want that.",
+      "texto_ptbr": "...Não é isso.\\nÉ um problema sim.\\nEu não quero isso."
+    },
+    {
+      "id": 32,
+      "personagem": "Miku",
+      "texto_en": "The truth is, I want to be with Futaro forever!",
+      "texto_ptbr": "A verdade é que eu quero ficar com o Fuutarou pra sempre!"
+    },
+    {
+      "id": 33,
+      "personagem": "Nino",
+      "texto_en": "...I know that.\\nThen, why are you avoiding him?",
+      "texto_ptbr": "...Eu sei disso.\\nEntão, por que você está evitando ele?"
+    },
+    {
+      "id": 34,
+      "personagem": "Ichika",
+      "texto_en": "Talk to us.\\nI'll listen to anything, and support you.\\nI may not be as good as Futaro-kun, but I'll do my best.",
+      "texto_ptbr": "Fala com a gente.\\nEu escuto qualquer coisa, e te apoio.\\nPosso não ser tão boa quanto o Futaro-kun, mas vou dar meu melhor."
+    },
+    {
+      "id": 35,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 36,
+      "personagem": "Miku",
+      "texto_en": "Thank you, Ichika, Nino.",
+      "texto_ptbr": "Obrigada, Ichika, Nino."
+    },
+    {
+      "id": 37,
+      "personagem": "Miku",
+      "texto_en": "But, please don't tell Futaro about this.",
+      "texto_ptbr": "Mas, por favor, não contem isso pro Fuutarou."
+    },
+    {
+      "id": 38,
+      "personagem": "Ichika",
+      "texto_en": "Okay, we promise.",
+      "texto_ptbr": "Certo, prometemos."
+    },
+    {
+      "id": 39,
+      "personagem": "Ichika",
+      "texto_en": "I see.\\nThis was a difficult topic for us to discuss.\\nI'm sorry.",
+      "texto_ptbr": "Entendo.\\nEsse foi um assunto difícil de tocar.\\nDesculpa."
+    },
+    {
+      "id": 40,
+      "personagem": "Miku",
+      "texto_en": "No,\\nit's me who should apologize...\\nI should have discussed this with you all earlier.",
+      "texto_ptbr": "Não,\\nsou eu quem deveria pedir desculpas...\\nEu deveria ter conversado com vocês sobre isso antes."
+    },
+    {
+      "id": 41,
+      "personagem": "Nino",
+      "texto_en": "I understand why you're worried.\\nAfter all, Fu-kun is a boy.\\nA boy you're going out with.",
+      "texto_ptbr": "Eu entendo por que você está preocupada.\\nAfinal, o Fu-kun é um garoto.\\nUm garoto com quem você está namorando."
+    },
+    {
+      "id": 42,
+      "personagem": "Ichika",
+      "texto_en": "Still, it's hard to imagine Futaro-kun\\nturning into a wolf, or something like that%p-2;――",
+      "texto_ptbr": "Ainda assim, é difícil imaginar o Futaro-kun\\nse transformando num lobo, ou algo assim%p-2;――"
+    },
+    {
+      "id": 43,
+      "personagem": "Ichika",
+      "texto_en": "Well, you never know.\\nThere could be a sudden switch in personality.",
+      "texto_ptbr": "Bom, nunca se sabe.\\nPode acontecer uma mudança repentina de personalidade."
+    },
+    {
+      "id": 44,
+      "personagem": "Miku",
+      "texto_en": "There could be, huh...",
+      "texto_ptbr": "Pode ser mesmo, hein..."
+    },
+    {
+      "id": 45,
+      "personagem": "Nino",
+      "texto_en": "But, what about you?\\nHow do you feel about it?",
+      "texto_ptbr": "Mas, e você?\\nComo você se sente sobre isso?"
+    },
+    {
+      "id": 46,
+      "personagem": "Miku",
+      "texto_en": "I don't mind, but...\\nI don't know Futaro's true feelings, so...",
+      "texto_ptbr": "Eu não me importo, mas...\\nEu não sei os verdadeiros sentimentos do Fuutarou, então..."
+    },
+    {
+      "id": 47,
+      "personagem": "Nino",
+      "texto_en": "Miku, really.\\nThat's obvious, isn't it?",
+      "texto_ptbr": "Miku, sério.\\nIsso é óbvio, não é?"
+    },
+    {
+      "id": 48,
+      "personagem": "Ichika",
+      "texto_en": "Obvious...that she doesn't understand his feelings?",
+      "texto_ptbr": "Óbvio... que ela não entende os sentimentos dele?"
+    },
+    {
+      "id": 49,
+      "personagem": "Nino",
+      "texto_en": "Yes.\\nBecause, you haven't asked him or anything, have you?",
+      "texto_ptbr": "Sim.\\nPorque você nem perguntou pra ele nem nada, não é?"
+    },
+    {
+      "id": 50,
+      "personagem": "Miku",
+      "texto_en": "B-but I can't ask him about this.\\nI might make him uncomfortable.",
+      "texto_ptbr": "M-mas eu não posso perguntar isso pra ele.\\nEu posso deixar ele desconfortável."
+    },
+    {
+      "id": 51,
+      "personagem": "Nino",
+      "texto_en": "It's OKAY to make him uncomfortable!\\nYou're his GIRLFRIEND!\\nThat's what you SHOULD be trying to work out with each other!",
+      "texto_ptbr": "TUDO BEM deixar ele desconfortável!\\nVocê é a NAMORADA dele!\\nÉ isso que vocês DEVIAM estar tentando resolver juntos!"
+    },
+    {
+      "id": 52,
+      "personagem": "Miku",
+      "texto_en": "!...",
+      "texto_ptbr": "!..."
+    },
+    {
+      "id": 53,
+      "personagem": "Nino",
+      "texto_en": "But you were the one who was worrying\\nand panicking without any reason,\\nand what's the point of making us worry about you?",
+      "texto_ptbr": "Mas foi você quem ficou se preocupando\\ne surtando sem motivo nenhum,\\ne qual é o sentido de deixar a gente preocupada com você?"
+    },
+    {
+      "id": 54,
+      "personagem": "Ichika",
+      "texto_en": "That's right.\\nI guess feelings don't get across\\nunless you put them into words.",
+      "texto_ptbr": "É verdade.\\nAcho que sentimentos não chegam ao outro\\na menos que a gente coloque em palavras."
+    },
+    {
+      "id": 55,
+      "personagem": "Ichika",
+      "texto_en": "But it's not good to just wait for Futaro-kun's words,\\nright Miku?",
+      "texto_ptbr": "Mas não é bom só ficar esperando as palavras do Futaro-kun,\\nnão é, Miku?"
+    },
+    {
+      "id": 56,
+      "personagem": "Miku",
+      "texto_en": "('It's not good to just wait...')",
+      "texto_ptbr": "('Não é bom só ficar esperando...')"
+    },
+    {
+      "id": 57,
+      "personagem": "Miku",
+      "texto_en": "(That's it...)",
+      "texto_ptbr": "(É isso...)"
+    },
+    {
+      "id": 58,
+      "personagem": "Miku",
+      "texto_en": "(When I confessed to Futaro at the aquarium.\\n When I kissed him on the rooftop.)",
+      "texto_ptbr": "(Quando eu me declarei pro Fuutarou no aquário.\\n Quando eu o beijei no terraço.)"
+    },
+    {
+      "id": 59,
+      "personagem": "Miku",
+      "texto_en": "(I might have forgotten who I was at the time.)",
+      "texto_ptbr": "(Talvez eu tenha esquecido quem eu era naquele momento.)"
+    },
+    {
+      "id": 60,
+      "personagem": "Miku",
+      "texto_en": "...Yeah.\\nWhat's important is to tell him.",
+      "texto_ptbr": "...É.\\nO importante é contar pra ele."
+    },
+    {
+      "id": 61,
+      "personagem": "Miku",
+      "texto_en": "Thank you, both of you.",
+      "texto_ptbr": "Obrigada, vocês duas."
+    },
+    {
+      "id": 62,
+      "personagem": "Ichika",
+      "texto_en": "Great. Hope you're back to your usual self now.",
+      "texto_ptbr": "Ótimo. Espero que você esteja de volta ao normal agora."
+    },
+    {
+      "id": 63,
+      "personagem": "Nino",
+      "texto_en": "Good, then.\\nWell, I'm glad that's what you were worried about.",
+      "texto_ptbr": "Que bom, então.\\nBom, fico feliz que era isso que estava te preocupando."
+    },
+    {
+      "id": 64,
+      "personagem": "Nino",
+      "texto_en": "But if you were\\navoiding Fu-kun because of us or something,\\nI would have floored you.",
+      "texto_ptbr": "Mas se você estivesse\\nevitando o Fu-kun por nossa causa ou algo assim,\\neu teria te derrubado no chão."
+    },
+    {
+      "id": 65,
+      "personagem": "Ichika",
+      "texto_en": "Woah, scary!\\nNino, you really haven't changed.",
+      "texto_ptbr": "Nossa, que medo!\\nNino, você realmente não mudou nada."
+    },
+    {
+      "id": 66,
+      "personagem": "Miku",
+      "texto_en": "(But, that's Nino.)",
+      "texto_ptbr": "(Mas, essa é a Nino.)"
+    },
+    {
+      "id": 67,
+      "personagem": "Miku",
+      "texto_en": "(Ichika, Nino, Yotsuba and Itsuki...\\n Thank you for being by my side.)",
+      "texto_ptbr": "(Ichika, Nino, Yotsuba e Itsuki...\\n Obrigada por estarem ao meu lado.)"
+    }
+  ]
+}

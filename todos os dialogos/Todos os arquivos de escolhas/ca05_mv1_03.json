@@ -1,0 +1,75 @@
+{
+  "arquivo": "ca05_mv1_03",
+  "total": 7,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "それが、いまでは恋人同士だなんてね？",
+      "texto_en": "And now, you two are lovers. Wow.",
+      "texto_ptbr": "E agora, vocês dois são namorados. Uau."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "言うなよ……",
+      "texto_en": "Don't say that...",
+      "texto_ptbr": "Não fala isso...",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "人は変わるよな",
+      "texto_en": "People can change.",
+      "texto_ptbr": "As pessoas mudam, né.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "あの出会いは忘れられない",
+      "texto_en": "I could never forget that encounter.",
+      "texto_ptbr": "Nunca vou esquecer aquele encontro.",
+      "selidx": 2
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "お土産屋:一花:らいは",
+      "texto_en": "Souvenir Shop: Ichika/Raiha",
+      "texto_ptbr": "Loja de Souvenirs: Ichika/Raiha",
+      "selidx": 0
+    },
+    {
+      "id": 5,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "裏通り:四葉",
+      "texto_en": "Back Street: Yotsuba",
+      "texto_ptbr": "Rua dos Fundos: Yotsuba",
+      "selidx": 1
+    },
+    {
+      "id": 6,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "ショップＢ:二乃:三玖",
+      "texto_en": "Shop B: Nino/Miku",
+      "texto_ptbr": "Loja B: Nino/Miku",
+      "selidx": 2
+    }
+  ]
+}

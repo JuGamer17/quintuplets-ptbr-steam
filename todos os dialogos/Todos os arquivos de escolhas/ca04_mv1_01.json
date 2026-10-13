@@ -1,0 +1,75 @@
+{
+  "arquivo": "ca04_mv1_01",
+  "total": 7,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "へぇ～。\\nそれなら安心だし面白そう！",
+      "texto_en": "Wow.\\nIn that case, that sounds safe, and fun!",
+      "texto_ptbr": "Uau.\\nNesse caso, parece seguro, e divertido!"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "しかし、できる場所はあるのか？",
+      "texto_en": "But, is there a place where we can do that?",
+      "texto_ptbr": "Mas existe algum lugar onde dá pra fazer isso?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "きっと絶景が拝めるだろうな",
+      "texto_en": "I'm sure we can see some amazing scenery.",
+      "texto_ptbr": "Com certeza dá pra ver uma paisagem incrível.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "自由に飛べるのはいいな",
+      "texto_en": "Flying high without a care sounds really nice.",
+      "texto_ptbr": "Voar livremente parece bom.",
+      "selidx": 2
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "アラハビーチＢ:一花:三玖",
+      "texto_en": "Araha Beach B: Ichika/Miku",
+      "texto_ptbr": "Araha Beach B: Ichika/Miku",
+      "selidx": 0
+    },
+    {
+      "id": 5,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "アラハビーチＣ:二乃:五月",
+      "texto_en": "Araha Beach C: Nino/Itsuki",
+      "texto_ptbr": "Araha Beach C: Nino/Itsuki",
+      "selidx": 1
+    },
+    {
+      "id": 6,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "アラハビーチＡ:四葉:らいは",
+      "texto_en": "Araha Beach A: Yotsuba/Raiha",
+      "texto_ptbr": "Araha Beach A: Yotsuba/Raiha",
+      "selidx": 2
+    }
+  ]
+}

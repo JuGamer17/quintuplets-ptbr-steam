@@ -1,0 +1,426 @@
+{
+  "arquivo": "ca06_06",
+  "total": 70,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "We're going on our graduation trip\\nright after our graduation ceremony.\\nHave you finished preparing, Itsuki?",
+      "texto_ptbr": "A gente vai pra viagem de formatura\nlogo depois da cerimônia de formatura.\nVocê já terminou de se preparar, Itsuki?"
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "I'll take a little longer.\\nI still have some things I can't decide\\nwhether to bring or not.",
+      "texto_ptbr": "Vou demorar mais um pouco.\nAinda tenho umas coisas que não consigo decidir\nse levo ou não."
+    },
+    {
+      "id": 2,
+      "personagem": "Ichika",
+      "texto_en": "If you have too much luggage,\\nwhy not send it ahead?\\nIt'll be tough to move around with it being heavy.",
+      "texto_ptbr": "Se você tá com bagagem demais,\npor que não manda na frente?\nVai ser difícil se locomover com tanto peso."
+    },
+    {
+      "id": 3,
+      "personagem": "Miku",
+      "texto_en": "I wonder if Futaro is ready.",
+      "texto_ptbr": "Será que o Fuutarou já tá pronto."
+    },
+    {
+      "id": 4,
+      "personagem": "Nino",
+      "texto_en": "Everyone, listen up.",
+      "texto_ptbr": "Gente, escutem aqui."
+    },
+    {
+      "id": 5,
+      "personagem": "Miku",
+      "texto_en": "Nino?",
+      "texto_ptbr": "Nino?"
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "There's something I want to clarify once more\\nbefore we go on the trip.",
+      "texto_ptbr": "Tem uma coisa que eu quero deixar bem clara de novo\nantes da gente ir pra essa viagem."
+    },
+    {
+      "id": 7,
+      "personagem": "Ichika",
+      "texto_en": "...What is it?",
+      "texto_ptbr": "...O que é?"
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "This graduation trip is a stage\\nfor Fu-kun to give us an answer.",
+      "texto_ptbr": "Essa viagem de formatura é um palco\npro Fu-kun nos dar uma resposta."
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "We are all thinking this way, aren't we?",
+      "texto_ptbr": "A gente tá todo mundo pensando assim, né?"
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "...Yes.",
+      "texto_ptbr": "...Sim."
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "Futaro was probably thinking the same thing.\\nHe seemed very agitated when Itsuki asked him about it.",
+      "texto_ptbr": "O Fuutarou provavelmente tava pensando a mesma coisa.\nEle pareceu bem agitado quando a Itsuki perguntou sobre isso."
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "Well, I at least hope so.",
+      "texto_ptbr": "Bom, pelo menos eu espero que sim."
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "He said that he'd choose no one at the school festival,\\nbut he might have felt irresponsible for saying that\\nin the past six months.",
+      "texto_ptbr": "Ele disse que não ia escolher ninguém no festival da escola,\nmas talvez tenha se sentido irresponsável por dizer isso\nnesses últimos seis meses."
+    },
+    {
+      "id": 14,
+      "personagem": "Yotsuba",
+      "texto_en": "So, Uesugi-san might've changed his mind?",
+      "texto_ptbr": "Então, será que o Uesugi-san mudou de ideia?"
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "It doesn't really look like he has,\\nbut it does look like he's pondering something.",
+      "texto_ptbr": "Não parece muito que sim,\nmas parece que ele tá refletindo sobre alguma coisa."
+    },
+    {
+      "id": 16,
+      "personagem": "Miku",
+      "texto_en": "After the school festival,\\nthings got busy with the exams intensifying.",
+      "texto_ptbr": "Depois do festival da escola,\nas coisas ficaram corridas com as provas apertando."
+    },
+    {
+      "id": 17,
+      "personagem": "Yotsuba",
+      "texto_en": "Yet we managed to get through the exams somehow!\\nI'm sure Uesugi-san also had some time to think.",
+      "texto_ptbr": "Mesmo assim, conseguimos passar pelas provas de alguma forma!\nTenho certeza que o Uesugi-san também teve tempo pra pensar."
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "Even so, we have hardly any time left.",
+      "texto_ptbr": "Mesmo assim, mal sobrou tempo pra gente."
+    },
+    {
+      "id": 19,
+      "personagem": "Miku",
+      "texto_en": "Once the trip is over, Futaro will go to Tokyo.",
+      "texto_ptbr": "Assim que a viagem acabar, o Fuutarou vai pra Tóquio."
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "That's right.\\nAnd yet%p-2;――",
+      "texto_ptbr": "Isso mesmo.\nE mesmo assim%p-2;――"
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "I absolutely hate being in this lukewarm relationship.",
+      "texto_ptbr": "Eu odeio profundamente ficar nessa relação morna."
+    },
+    {
+      "id": 22,
+      "personagem": "Nino",
+      "texto_en": "Since the night of the festival,\\nmy feelings haven't changed even once.",
+      "texto_ptbr": "Desde a noite do festival,\nmeus sentimentos não mudaram nem uma vez."
+    },
+    {
+      "id": 23,
+      "personagem": "Miku",
+      "texto_en": "I feel the same.\\nI want Futaro to give us an answer.",
+      "texto_ptbr": "Eu sinto o mesmo.\nEu quero que o Fuutarou nos dê uma resposta."
+    },
+    {
+      "id": 24,
+      "personagem": "Miku",
+      "texto_en": "Even if it's not the result I want,\\nI'm ready to accept it.",
+      "texto_ptbr": "Mesmo que não seja o resultado que eu quero,\nestou pronta pra aceitar."
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "This graduation trip is our last chance.",
+      "texto_ptbr": "Essa viagem de formatura é nossa última chance."
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "Miku and I have already made up our minds.",
+      "texto_ptbr": "Eu e a Miku já nos decidimos."
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "So, let me ask again.\\nWhat about you guys?",
+      "texto_ptbr": "Então, deixa eu perguntar de novo.\nE vocês, hein?"
+    },
+    {
+      "id": 28,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 29,
+      "personagem": "Miku",
+      "texto_en": "Yotsuba?",
+      "texto_ptbr": "Yotsuba?"
+    },
+    {
+      "id": 30,
+      "personagem": "Yotsuba",
+      "texto_en": "I hope that the time will come when \\neveryone's feelings will be fulfilled.",
+      "texto_ptbr": "Eu espero que chegue o momento em que\nos sentimentos de todo mundo sejam realizados."
+    },
+    {
+      "id": 31,
+      "personagem": "Itsuki",
+      "texto_en": "Everyone's, huh?",
+      "texto_ptbr": "De todo mundo, hein?"
+    },
+    {
+      "id": 32,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah.\\nIt's not just about who Uesugi-san chooses.",
+      "texto_ptbr": "É.\nNão é só sobre quem o Uesugi-san vai escolher."
+    },
+    {
+      "id": 33,
+      "personagem": "Yotsuba",
+      "texto_en": "We want him to accept everyone's feelings,\\nand then give us an answer.",
+      "texto_ptbr": "A gente quer que ele aceite os sentimentos de todo mundo,\ne depois nos dê uma resposta."
+    },
+    {
+      "id": 34,
+      "personagem": "Yotsuba",
+      "texto_en": "I think that's the best thing for Uesugi-san, as well.",
+      "texto_ptbr": "Acho que isso é o melhor pro Uesugi-san também."
+    },
+    {
+      "id": 35,
+      "personagem": "Ichika",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "I, too, agree with getting an answer from Uesugi-kun.",
+      "texto_ptbr": "Eu também concordo em conseguir uma resposta do Uesugi-kun."
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "Despite this obviously tanglesome plan,\\nI thought you would be the first to oppose it.",
+      "texto_ptbr": "Apesar desse plano claramente complicado,\neu achei que você seria a primeira a se opor."
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 39,
+      "personagem": "Itsuki",
+      "texto_en": "Whatever our thoughts or feelings,\\nwe are all waiting for him to give an answer.",
+      "texto_ptbr": "Sejam quais forem nossos pensamentos ou sentimentos,\ntodas nós estamos esperando que ele dê uma resposta."
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "Ever since that night...\\nwe've been at a standstill.",
+      "texto_ptbr": "Desde aquela noite...\na gente tá estagnado."
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "Besides, this could be a good opportunity...",
+      "texto_ptbr": "Além disso, isso pode ser uma boa oportunidade..."
+    },
+    {
+      "id": 42,
+      "personagem": "Miku",
+      "texto_en": "What is?",
+      "texto_ptbr": "Do quê?"
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 44,
+      "personagem": "Miku",
+      "texto_en": "You said this could be a good opportunity, didn't you?",
+      "texto_ptbr": "Você disse que isso podia ser uma boa oportunidade, não foi?"
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "Ah...",
+      "texto_ptbr": "Ah..."
+    },
+    {
+      "id": 46,
+      "personagem": "Itsuki",
+      "texto_en": "Ahh, um, you know!\\nA good opportunity for Uesugi-kun\\nto reflect on his indecisiveness.",
+      "texto_ptbr": "Ahh, é que, sabe!\nUma boa oportunidade pro Uesugi-kun\nrefletir sobre a indecisão dele."
+    },
+    {
+      "id": 47,
+      "personagem": "Yotsuba",
+      "texto_en": "Itsuki, you're so harsh.\\nOur Uesugi-san is definitely reflecting on it.",
+      "texto_ptbr": "Itsuki, você é tão dura.\nO nosso Uesugi-san com certeza já tá refletindo sobre isso."
+    },
+    {
+      "id": 48,
+      "personagem": "Miku",
+      "texto_en": "I don't know if he IS reflecting.",
+      "texto_ptbr": "Eu não sei se ele TÁ refletindo mesmo."
+    },
+    {
+      "id": 49,
+      "personagem": "Ichika",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 50,
+      "personagem": "Nino",
+      "texto_en": "Ichika.\\nYou like him too, don't you?",
+      "texto_ptbr": "Ichika.\nVocê também gosta dele, né?"
+    },
+    {
+      "id": 51,
+      "personagem": "Ichika",
+      "texto_en": "Whoa, that came out of nowhere.",
+      "texto_ptbr": "Nossa, isso veio do nada."
+    },
+    {
+      "id": 52,
+      "personagem": "Miku",
+      "texto_en": "What do you want to do, Ichika?",
+      "texto_ptbr": "O que você quer fazer, Ichika?"
+    },
+    {
+      "id": 53,
+      "personagem": "Ichika",
+      "texto_en": "Hmm, I didn't think Futaro-kun\\nwould be so indecisive up to this point.\\nIt's really quite troubling.",
+      "texto_ptbr": "Hmm, eu não imaginava que o Fuutarou-kun\nseria tão indeciso até esse ponto.\nÉ realmente bem incômodo."
+    },
+    {
+      "id": 54,
+      "personagem": "Nino",
+      "texto_en": "Even if you try to deceive us, it's useless.\\nYou haven't given up yet.",
+      "texto_ptbr": "Mesmo se você tentar nos enganar, não adianta.\nVocê ainda não desistiu."
+    },
+    {
+      "id": 55,
+      "personagem": "Nino",
+      "texto_en": "I know that much.",
+      "texto_ptbr": "Eu sei bem disso."
+    },
+    {
+      "id": 56,
+      "personagem": "Ichika",
+      "texto_en": "...This really is so troublesome.",
+      "texto_ptbr": "...Isso realmente é muito complicado."
+    },
+    {
+      "id": 57,
+      "personagem": "Miku",
+      "texto_en": "But, you don't have to give up?",
+      "texto_ptbr": "Mas, você não precisa desistir, né?"
+    },
+    {
+      "id": 58,
+      "personagem": "Ichika",
+      "texto_en": "Miku...",
+      "texto_ptbr": "Miku..."
+    },
+    {
+      "id": 59,
+      "personagem": "Miku",
+      "texto_en": "And, you don't need to hold back.",
+      "texto_ptbr": "E, você não precisa se conter."
+    },
+    {
+      "id": 60,
+      "personagem": "Ichika",
+      "texto_en": "Huh...?",
+      "texto_ptbr": "Hã...?"
+    },
+    {
+      "id": 61,
+      "personagem": "Miku",
+      "texto_en": "When Futaro decided that he wouldn't choose anyone\\nat that time, it was his own decision.",
+      "texto_ptbr": "Quando o Fuutarou decidiu que não ia escolher ninguém\nnaquela época, foi decisão dele."
+    },
+    {
+      "id": 62,
+      "personagem": "Ichika",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 63,
+      "personagem": "Miku",
+      "texto_en": "The fact is that he is trying again to give us an answer\\nbut that's his own decision.",
+      "texto_ptbr": "O fato é que ele tá tentando de novo nos dar uma resposta,\nmas isso também é decisão dele."
+    },
+    {
+      "id": 64,
+      "personagem": "Miku",
+      "texto_en": "We're all rivals,\\nand it's Futaro who will choose.",
+      "texto_ptbr": "Nós todas somos rivais,\ne é o Fuutarou quem vai escolher."
+    },
+    {
+      "id": 65,
+      "personagem": "Miku",
+      "texto_en": "Ichika, we won't blame you if you want him to choose you. ",
+      "texto_ptbr": "Ichika, a gente não vai te culpar se você quiser que ele te escolha. "
+    },
+    {
+      "id": 66,
+      "personagem": "Nino",
+      "texto_en": "What you want to do, is up to you.",
+      "texto_ptbr": "O que você quer fazer é problema seu."
+    },
+    {
+      "id": 67,
+      "personagem": "Ichika",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 68,
+      "personagem": "Yotsuba",
+      "texto_en": "Ichika...",
+      "texto_ptbr": "Ichika..."
+    },
+    {
+      "id": 69,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    }
+  ]
+}

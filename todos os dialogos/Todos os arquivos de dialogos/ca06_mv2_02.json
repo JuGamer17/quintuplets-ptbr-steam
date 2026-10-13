@@ -1,0 +1,540 @@
+{
+  "arquivo": "ca06_mv2_02",
+  "total": 89,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Itsuki",
+      "texto_en": "This is a serious problem.",
+      "texto_ptbr": "Isso é um problema sério."
+    },
+    {
+      "id": 1,
+      "personagem": "Yotsuba",
+      "texto_en": "Hmm, I'm not sure. They look the same to me.",
+      "texto_ptbr": "Hmm, não sei. Pra mim são iguais."
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(Is that Itsuki and Yotsuba?\\n What are they worrying about\\n in front of that signboard?)",
+      "texto_ptbr": "(Aquelas são a Itsuki e a Yotsuba?\\n Com o que elas estão preocupadas\\n na frente daquela placa?)"
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "Ah...",
+      "texto_ptbr": "Ah..."
+    },
+    {
+      "id": 4,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh? Uesugi-san?",
+      "texto_ptbr": "Oh? Uesugi-san?"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Yo. What a coincidence.",
+      "texto_ptbr": "Ei. Que coincidência."
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "Why did you come here?",
+      "texto_ptbr": "Por que você veio aqui?"
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Just taking a stroll.\\nWhat? Was it wrong of me to come say hi?",
+      "texto_ptbr": "Só dando uma volta.\\nO quê? Foi errado eu vir dizer oi?"
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "...Seems like you didn't plan on\\nspending time alone.",
+      "texto_ptbr": "...Parece que você não pretendia\\npassar o tempo sozinho."
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "So, you played that hand, huh?",
+      "texto_ptbr": "Então você jogou essa carta, hein?"
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "Did you say something just now?",
+      "texto_ptbr": "Você disse alguma coisa agora?"
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "No, nothing!",
+      "texto_ptbr": "Não, nada!"
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "Please watch what you say, alright?",
+      "texto_ptbr": "Cuidado com o que diz, tá bem?"
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "(...That Itsuki, she's still in a bad mood.)",
+      "texto_ptbr": "(...Essa Itsuki, ainda está de mau humor.)"
+    },
+    {
+      "id": 14,
+      "personagem": "Yotsuba",
+      "texto_en": "Uh, um!\\nMore importantly, I have something to ask you,\\nUesugi-san.",
+      "texto_ptbr": "E-então!\\nMais importante, tenho uma coisa pra te perguntar,\\nUesugi-san."
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "Wha?\\n...Yeah, what is it?",
+      "texto_ptbr": "Hã?\\n...Sim, o que é?"
+    },
+    {
+      "id": 16,
+      "personagem": "Yotsuba",
+      "texto_en": "Tah-dah! The Okinawa soba problem!",
+      "texto_ptbr": "Tcharam! O problema do Okinawa soba!"
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Okinawa soba?",
+      "texto_ptbr": "Okinawa soba?"
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "I'm not being forced to do anything.\\nWhat I do is my own business, right?",
+      "texto_ptbr": "Ninguém está me obrigando a nada.\\nO que eu faço é problema meu, não é?"
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "Well... That is true.",
+      "texto_ptbr": "Bem... Isso é verdade."
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "You know, since we're on a trip,\\nI just thought it would be a waste\\nto go around by myself.",
+      "texto_ptbr": "Sabe, já que estamos em viagem,\\nachei que seria um desperdício\\nficar passeando sozinho."
+    },
+    {
+      "id": 21,
+      "personagem": "Itsuki",
+      "texto_en": "That's your decision, though.",
+      "texto_ptbr": "Mas essa é uma decisão sua."
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Gimme a break.\\nIt's all because you made a troublesome suggestion.",
+      "texto_ptbr": "Dá um tempo.\\nÉ tudo porque você fez uma sugestão trabalhosa."
+    },
+    {
+      "id": 23,
+      "personagem": "Itsuki",
+      "texto_en": "Still, you gave it some thought.",
+      "texto_ptbr": "Ainda assim, você pensou no assunto."
+    },
+    {
+      "id": 24,
+      "personagem": "Yotsuba",
+      "texto_en": "Uh, um!\\nMore importantly, I have something to ask you,\\nUesugi-san.",
+      "texto_ptbr": "E-então!\\nMais importante, tenho uma coisa pra te perguntar,\\nUesugi-san."
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Wha?\\n...Yeah, what is it?",
+      "texto_ptbr": "Hã?\\n...Sim, o que é?"
+    },
+    {
+      "id": 26,
+      "personagem": "Yotsuba",
+      "texto_en": "Tah-dah! The Okinawa soba problem!",
+      "texto_ptbr": "Tcharam! O problema do Okinawa soba!"
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Okinawa soba?",
+      "texto_ptbr": "Okinawa soba?"
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "That's going a bit too far, don't you think?",
+      "texto_ptbr": "Isso já é ir longe demais, não acha?"
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "I don't think so?\\nYou're surprisingly insensitive,\\nso I was a little worried.",
+      "texto_ptbr": "Acho que não?\\nVocê é surpreendentemente insensível,\\nentão fiquei um pouco preocupada."
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "Even I can read the atmosphere to some extent.\\nBesides, this is a graduation trip \\nand I'm here with you guys.",
+      "texto_ptbr": "Até eu consigo ler o clima até certo ponto.\\nAlém disso, é uma viagem de formatura \\ne estou aqui com vocês."
+    },
+    {
+      "id": 31,
+      "personagem": "Itsuki",
+      "texto_en": "...You're right.\\nI'm sorry, I was a little too harsh.",
+      "texto_ptbr": "...Você tem razão.\\nDesculpe, fui um pouco dura demais."
+    },
+    {
+      "id": 32,
+      "personagem": "Yotsuba",
+      "texto_en": "Uh, um!\\nMore importantly, I have something to ask you,\\nUesugi-san.",
+      "texto_ptbr": "E-então!\\nMais importante, tenho uma coisa pra te perguntar,\\nUesugi-san."
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Wha?\\n...Yeah, what is it?",
+      "texto_ptbr": "Hã?\\n...Sim, o que é?"
+    },
+    {
+      "id": 34,
+      "personagem": "Yotsuba",
+      "texto_en": "Tah-dah! The Okinawa soba problem!",
+      "texto_ptbr": "Tcharam! O problema do Okinawa soba!"
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Okinawa soba?",
+      "texto_ptbr": "Okinawa soba?"
+    },
+    {
+      "id": 36,
+      "personagem": "Yotsuba",
+      "texto_en": "I was having trouble figuring out\\nwhat the difference is between 'Okinawa soba'\\nand 'soki soba.' Right, Itsuki?",
+      "texto_ptbr": "Eu estava com dificuldade de entender\\nqual é a diferença entre 'Okinawa soba'\\ne 'soki soba'. Né, Itsuki?"
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "Yeah. There were so many kinds\\nI heard of for the first time,\\nlike 'tebichi soba' and 'asa soba.'",
+      "texto_ptbr": "É. Tinha tantos tipos\\nque eu ouvi falar pela primeira vez,\\ncomo 'tebichi soba' e 'asa soba'."
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "Hold on.\\nStart from the beginning, would you?",
+      "texto_ptbr": "Peraí.\\nComeça do início, pode ser?"
+    },
+    {
+      "id": 39,
+      "personagem": "Yotsuba",
+      "texto_en": "Here.\\nTake a look, Uesugi-san.",
+      "texto_ptbr": "Toma.\\nDá uma olhada, Uesugi-san."
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "What, is it a flyer for a store?",
+      "texto_ptbr": "O quê, é um panfleto de uma loja?"
+    },
+    {
+      "id": 41,
+      "personagem": "Yotsuba",
+      "texto_en": "I got one when they were handing them out,\\nbut I already don't know what's what.",
+      "texto_ptbr": "Peguei um quando estavam distribuindo,\\nmas já não sei o que é o quê."
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Only 'Okinawa soba' and 'soki soba'\\nhave photos of the dishes.",
+      "texto_ptbr": "Só o 'Okinawa soba' e o 'soki soba'\\ntêm fotos dos pratos."
+    },
+    {
+      "id": 43,
+      "personagem": "Yotsuba",
+      "texto_en": "Both have delicious looking meats,\\nbut I can't tell the difference\\njust by looking at them.",
+      "texto_ptbr": "Os dois têm carnes com aparência deliciosa,\\nmas não consigo ver a diferença\\nsó olhando."
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "I'm not good at food-related stuff either.\\nShouldn't we just search on our smartphones?",
+      "texto_ptbr": "Eu também não sou bom com coisas de comida.\\nNão seria melhor pesquisar no celular?"
+    },
+    {
+      "id": 45,
+      "personagem": "Yotsuba",
+      "texto_en": "That's true,\\nbut we were just talking about thinking about it\\non our own a little bit first, Itsuki and I.",
+      "texto_ptbr": "É verdade,\\nmas a Itsuki e eu estávamos justamente falando\\nem pensar um pouquinho por conta própria primeiro."
+    },
+    {
+      "id": 46,
+      "personagem": "Itsuki",
+      "texto_en": "At first, I thought it was like ramen and chashu-men \\nnoodles, since both have meat in them.",
+      "texto_ptbr": "No começo, achei que era como ramen e macarrão \\nchashu-men, já que os dois têm carne."
+    },
+    {
+      "id": 47,
+      "personagem": "Yotsuba",
+      "texto_en": "But, these 'tebichi soba' and 'asa soba' dishes\\nremain mysteries!",
+      "texto_ptbr": "Mas esses pratos 'tebichi soba' e 'asa soba'\\ncontinuam sendo mistérios!"
+    },
+    {
+      "id": 48,
+      "personagem": "Itsuki",
+      "texto_en": "At least if there were a few more photos,\\nI could imagine it.",
+      "texto_ptbr": "Se pelo menos tivesse mais algumas fotos,\\neu conseguiria imaginar."
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "No, there might be hints in the names.",
+      "texto_ptbr": "Não, pode haver pistas nos nomes."
+    },
+    {
+      "id": 50,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, it's time for some Uesugi-san deduction!",
+      "texto_ptbr": "Oba, hora da dedução do Uesugi-san!"
+    },
+    {
+      "id": 51,
+      "personagem": "Itsuki",
+      "texto_en": "Hints? Like what?",
+      "texto_ptbr": "Pistas? Tipo o quê?"
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "It's like the comparison you just made with ramen.",
+      "texto_ptbr": "É como a comparação que você acabou de fazer com ramen."
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "If you think of it in terms of miso or soy sauce\\ninstead of chashu, it's easier to understand, right?",
+      "texto_ptbr": "Se você pensar em termos de missô ou shoyu\\nem vez de chashu, fica mais fácil de entender, né?"
+    },
+    {
+      "id": 54,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh? Are you saying the seasoning is different?",
+      "texto_ptbr": "Hã? Você quer dizer que o tempero é diferente?"
+    },
+    {
+      "id": 55,
+      "personagem": "Itsuki",
+      "texto_en": "I see. In this case,\\nwhat they all have in common\\nis that they are all 'soba,' right?",
+      "texto_ptbr": "Entendi. Nesse caso,\\no que todos têm em comum\\né que todos são 'soba', né?"
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "If you remove that, what's left is 'Okinawa,'\\n'soki,' 'tebichi,' and 'asa.'",
+      "texto_ptbr": "Se tirarmos isso, o que sobra é 'Okinawa',\\n'soki', 'tebichi' e 'asa'."
+    },
+    {
+      "id": 57,
+      "personagem": "Yotsuba",
+      "texto_en": "Hm, hm...",
+      "texto_ptbr": "Hm, hm..."
+    },
+    {
+      "id": 58,
+      "personagem": "Itsuki",
+      "texto_en": "Then, 'tebichi' is probably a pig's feet type dish.",
+      "texto_ptbr": "Então 'tebichi' provavelmente é um prato de pé de porco."
+    },
+    {
+      "id": 59,
+      "personagem": "Yotsuba",
+      "texto_en": "Pig...",
+      "texto_ptbr": "Porco..."
+    },
+    {
+      "id": 60,
+      "personagem": "Yotsuba",
+      "texto_en": "Wow, feet of a pig?",
+      "texto_ptbr": "Nossa, pé de porco?"
+    },
+    {
+      "id": 61,
+      "personagem": "Itsuki",
+      "texto_en": "It seems like it could be boiled or fried and then eaten.",
+      "texto_ptbr": "Parece que pode ser fervido ou frito e depois comido."
+    },
+    {
+      "id": 62,
+      "personagem": "Itsuki",
+      "texto_en": "It's very delicious and full of collagen.\\nIt's also said to have an effect on your beauty!",
+      "texto_ptbr": "É muito gostoso e cheio de colágeno.\\nDizem que também faz efeito na beleza!"
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "O-okay...",
+      "texto_ptbr": "T-tá bom..."
+    },
+    {
+      "id": 64,
+      "personagem": "Yotsuba",
+      "texto_en": "Then, is 'tebichi soba'\\na soba topped with pig's feet?",
+      "texto_ptbr": "Então, 'tebichi soba'\\né um soba com pé de porco por cima?"
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "If that's the case, 'soki' and 'asa'\\nmust also be toppings.",
+      "texto_ptbr": "Se for esse o caso, 'soki' e 'asa'\\ndevem ser coberturas também."
+    },
+    {
+      "id": 66,
+      "personagem": "Yotsuba",
+      "texto_en": "Hmm? In the photo of this flyer,\\n'Okinawa soba' also has something\\nthat looks like braised pork on it.",
+      "texto_ptbr": "Hmm? Na foto deste panfleto,\\no 'Okinawa soba' também tem algo\\nque parece carne de porco cozida em cima."
+    },
+    {
+      "id": 67,
+      "personagem": "Yotsuba",
+      "texto_en": "In that case, does 'Okinawa' mean 'braised pork'?",
+      "texto_ptbr": "Nesse caso, 'Okinawa' significa 'porco cozido'?"
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "No, that's just the name of where we're at, Yotsuba.",
+      "texto_ptbr": "Não, esse é só o nome do lugar onde estamos, Yotsuba."
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "'Okinawa soba' is the base, and the name changes\\ndepending on the toppings. I think that much is correct.",
+      "texto_ptbr": "'Okinawa soba' é a base, e o nome muda\\nconforme a cobertura. Acho que pelo menos isso está certo."
+    },
+    {
+      "id": 70,
+      "personagem": "Itsuki",
+      "texto_en": "I don't know about 'soki' and 'asa,' though.",
+      "texto_ptbr": "Mas não sei o que são 'soki' e 'asa'."
+    },
+    {
+      "id": 71,
+      "personagem": "Yotsuba",
+      "texto_en": "The Okinawan language has many unique words.",
+      "texto_ptbr": "O idioma de Okinawa tem muitas palavras únicas."
+    },
+    {
+      "id": 72,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, I'm definitely giving up.",
+      "texto_ptbr": "É, eu desisto de vez."
+    },
+    {
+      "id": 73,
+      "personagem": "Yotsuba",
+      "texto_en": "It can't be helped.\\nShall we look it up then?",
+      "texto_ptbr": "Não tem jeito.\\nEntão vamos pesquisar?"
+    },
+    {
+      "id": 74,
+      "personagem": "Yotsuba",
+      "texto_en": "What... I can't believe\\nthere's such a difference!",
+      "texto_ptbr": "Quê... Não acredito\\nque existe uma diferença dessas!"
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "What's up?\\nJust tell me without putting on airs.",
+      "texto_ptbr": "Que foi?\\nSó me fala sem fazer suspense."
+    },
+    {
+      "id": 76,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, you see, the meat on the 'soki soba'\\nis not just any meat...",
+      "texto_ptbr": "Bem, é que a carne do 'soki soba'\\nnão é uma carne qualquer..."
+    },
+    {
+      "id": 77,
+      "personagem": "Itsuki",
+      "texto_en": "Gulp...",
+      "texto_ptbr": "Glup..."
+    },
+    {
+      "id": 78,
+      "personagem": "Yotsuba",
+      "texto_en": "It seems to be spare ribs!",
+      "texto_ptbr": "Parece que são costelinhas!"
+    },
+    {
+      "id": 79,
+      "personagem": "Futaro",
+      "texto_en": "Oh, really?",
+      "texto_ptbr": "Ah, é?"
+    },
+    {
+      "id": 80,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?\\nYou don't seem too surprised. By the way,\\nthe meat in 'Okinawa soba' is said to be pork belly.",
+      "texto_ptbr": "Hã?\\nVocê não parece muito surpreso. Aliás,\\na carne do 'Okinawa soba' dizem que é barriga de porco."
+    },
+    {
+      "id": 81,
+      "personagem": "Futaro",
+      "texto_en": "Even if I wanted to be surprised,\\nI'm not sure what type of meat that is.",
+      "texto_ptbr": "Mesmo que eu quisesse me surpreender,\\nnão sei que tipo de carne é essa."
+    },
+    {
+      "id": 82,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, that's what's going on here.",
+      "texto_ptbr": "Ah, então é isso que está acontecendo."
+    },
+    {
+      "id": 83,
+      "personagem": "Itsuki",
+      "texto_en": "Spare ribs are a dish made with bone-in meat.\\nCertainly, if you look closely,\\nyou can tell the difference.",
+      "texto_ptbr": "Costelinha é um prato feito com carne com osso.\\nRealmente, se olhar de perto,\\ndá pra ver a diferença."
+    },
+    {
+      "id": 84,
+      "personagem": "Futaro",
+      "texto_en": "So, 'soki' is the Okinawan way of saying\\n'spare ribs.'\\nThen, is 'asa' also some kind of meat?",
+      "texto_ptbr": "Então 'soki' é o jeito de Okinawa dizer\\n'costelinha'.\\nE 'asa', também é algum tipo de carne?"
+    },
+    {
+      "id": 85,
+      "personagem": "Yotsuba",
+      "texto_en": "No, 'asa' comes from the seaweed 'aosa.'",
+      "texto_ptbr": "Não, 'asa' vem da alga 'aosa'."
+    },
+    {
+      "id": 86,
+      "personagem": "Itsuki",
+      "texto_en": "That's...unfortunate.",
+      "texto_ptbr": "Que...pena."
+    },
+    {
+      "id": 87,
+      "personagem": "Yotsuba",
+      "texto_en": "Interesting, riiight?\\nI got some Okinawan trivia\\nthat I get to use from tomorrow!",
+      "texto_ptbr": "Interessante, néééé?\\nGanhei umas curiosidades de Okinawa\\nque posso usar a partir de amanhã!"
+    },
+    {
+      "id": 88,
+      "personagem": "Itsuki",
+      "texto_en": "...In what occasion would you use it?",
+      "texto_ptbr": "...Em que ocasião você vai usar isso?"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca01_mv4_03",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "あっ！　いい！\\nそれ素敵だと思う！",
+      "texto_en": "Ah! That's a great idea!\\nI think that would be lovely!",
+      "texto_ptbr": "Ah! Que ideia ótima!\\nAcho que seria lindo!"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "そういや貝殻も売ってたな",
+      "texto_en": "By the way, they were selling seashells too.",
+      "texto_ptbr": "Falando nisso, também vendiam conchas.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "お揃いじゃなくていいのか？",
+      "texto_en": "Don't they have to match?",
+      "texto_ptbr": "Não precisa ser combinando?",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "悪くないな",
+      "texto_en": "Not a bad idea.",
+      "texto_ptbr": "Não é má ideia.",
+      "selidx": 2
+    }
+  ]
+}

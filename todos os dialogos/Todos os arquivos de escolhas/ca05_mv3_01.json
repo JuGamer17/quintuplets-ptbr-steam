@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca05_mv3_01",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "そう考えると、\\n優雅なんて言っている場合ではないような……。",
+      "texto_en": "If you think about it in that way, \\nsea turtles may not exactly be the most graceful...",
+      "texto_ptbr": "Se pensar desse jeito, \\ntalvez as tartarugas marinhas não sejam exatamente as mais graciosas..."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "幻想だったな",
+      "texto_en": "It was just a fantasy.",
+      "texto_ptbr": "Era só uma fantasia.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "海の生き物だしな",
+      "texto_en": "They ARE creatures of the sea.",
+      "texto_ptbr": "Afinal são criaturas do mar.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "常に早いわけじゃないだろ",
+      "texto_en": "They don't always swim fast.",
+      "texto_ptbr": "Eles não são sempre rápidos.",
+      "selidx": 2
+    }
+  ]
+}

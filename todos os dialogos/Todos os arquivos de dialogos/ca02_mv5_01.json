@@ -1,0 +1,324 @@
+{
+  "arquivo": "ca02_mv5_01",
+  "total": 53,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Nino",
+      "texto_en": "Oh, do you hear something?\\nIs there an event going on?",
+      "texto_ptbr": "Ah, você ouviu alguma coisa?\nTem algum evento rolando?"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, that building over there\\nis the facility for the dolphin show.\\nIt looks like they're doing it now.",
+      "texto_ptbr": "É, aquele prédio ali\né o local do show de golfinhos.\nParece que tá rolando agora."
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "What should we do? Do you want to go see it?",
+      "texto_ptbr": "O que a gente faz? Quer ir ver?"
+    },
+    {
+      "id": 3,
+      "personagem": "Nino",
+      "texto_en": "No, it seems like we'll just catch the end of it\\nif we go now, so let's skip it.",
+      "texto_ptbr": "Não, parece que a gente só vai pegar o finalzinho\nse formos agora, então vamos deixar pra lá."
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "I see.\\nThen%p-2;――",
+      "texto_ptbr": "Entendi.\nEntão%p-2;――"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "There should be a place nearby where sea turtles\\nand manatees are on display.\\nAlso, there's an esplanade along the coast.",
+      "texto_ptbr": "Deve ter um lugar perto daqui com tartarugas marinhas\ne peixes-boi em exibição.\nAlém disso, tem uma orla pela costa."
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "Hmm, I see. Actually, I don't really feel like\\ndoing anything in particular right now.\\nJust being with you like this makes me happy.",
+      "texto_ptbr": "Hmm, entendi. Na verdade, eu não tô com muita vontade\nde fazer nada em especial agora.\nSó de estar com você assim já me deixa feliz."
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "But it's a waste if we don't do anything, right?\\nNow that we are here, just tell me\\nif you want to do something.",
+      "texto_ptbr": "Mas é um desperdício se a gente não fizer nada, né?\nJá que estamos aqui, é só me falar\nse você quiser fazer alguma coisa."
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "Is anything okay, really?",
+      "texto_ptbr": "Qualquer coisa mesmo tá bom?"
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "If it's something we can do.\\nDon't come up with anything too fancy, okay?",
+      "texto_ptbr": "Se for algo que a gente possa fazer.\nNão inventa nada muito extravagante, tá?"
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "You don't have to be so cautious.\\nI just want to walk with our arms linked, that's all.",
+      "texto_ptbr": "Não precisa ser tão cauteloso.\nEu só quero andar de braços dados, só isso."
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "We haven't done that since we started going out,\\nhave we?",
+      "texto_ptbr": "A gente nunca fez isso desde que começamos a namorar,\nnão é?"
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "That's what you want?",
+      "texto_ptbr": "É isso que você quer?"
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "Yeah.\\nFor you, Futaro, it might not be a big deal,\\nbut for me, it's important.",
+      "texto_ptbr": "É.\nPra você, Futaro, talvez não seja grande coisa,\nmas pra mim, é importante."
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "(However, now that Nino mentioned it,\\n we never have walked arm in arm as lovers, have we.)",
+      "texto_ptbr": "(Mas, agora que a Nino falou isso,\n a gente nunca andou de braços dados como namorados, né.)"
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "Got it.\\nIt's not like I owe you anything,\\nbut today feel free to tell me what you want to do.",
+      "texto_ptbr": "Entendi.\nNão é como se eu te devesse alguma coisa,\nmas hoje pode falar à vontade o que você quer fazer."
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "Okay!\\nThanks, Futaro.",
+      "texto_ptbr": "Tá bom!\nValeu, Futaro."
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "There's an esplanade up ahead, right?\\nLet's go check it out.",
+      "texto_ptbr": "Tem uma orla lá na frente, né?\nVamos dar uma olhada."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Okay.",
+      "texto_ptbr": "Beleza."
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Now that you mention it...\\nWe haven't really done that, have we?",
+      "texto_ptbr": "Agora que você falou...\nA gente realmente nunca fez isso, né?"
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "Even though we're dating,\\nwe were busy with exams\\nand didn't go out on many dates.",
+      "texto_ptbr": "Mesmo namorando,\na gente ficou ocupado com as provas\ne não saiu em muitos encontros."
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Ahh...\\nBut, trying to do it now...",
+      "texto_ptbr": "Ahh...\nMas, tentar fazer isso agora..."
+    },
+    {
+      "id": 22,
+      "personagem": "Nino",
+      "texto_en": "Is it embarrassing?",
+      "texto_ptbr": "Tá com vergonha?"
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, but if you want to do it,\\nthere's no reason for me to refuse.",
+      "texto_ptbr": "É, mas se é isso que você quer,\nnão tenho motivo pra recusar."
+    },
+    {
+      "id": 24,
+      "personagem": "Nino",
+      "texto_en": "Thanks, Futaro.",
+      "texto_ptbr": "Valeu, Futaro."
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "There's an esplanade up ahead, right?\\nLet's go check it out.",
+      "texto_ptbr": "Tem uma orla lá na frente, né?\nVamos dar uma olhada."
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "Okay.",
+      "texto_ptbr": "Beleza."
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "This alright?",
+      "texto_ptbr": "Assim tá bom?"
+    },
+    {
+      "id": 28,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "What's wrong, Nino?",
+      "texto_ptbr": "O que foi, Nino?"
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "W-well, I was just surprised\\nthat you didn't hesitate, Futaro.",
+      "texto_ptbr": "B-bom, eu só fiquei surpresa\nque você não hesitou, Futaro."
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "You're the one who made the request...",
+      "texto_ptbr": "Foi você quem pediu isso..."
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "I mean...",
+      "texto_ptbr": "Quer dizer..."
+    },
+    {
+      "id": 33,
+      "personagem": "Nino",
+      "texto_en": "But I'm happy about it.\\nThanks, Futaro.",
+      "texto_ptbr": "Mas eu tô feliz com isso.\nValeu, Futaro."
+    },
+    {
+      "id": 34,
+      "personagem": "Nino",
+      "texto_en": "There's an esplanade up ahead, right?\\nLet's go check it out.",
+      "texto_ptbr": "Tem uma orla lá na frente, né?\nVamos dar uma olhada."
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Okay.",
+      "texto_ptbr": "Beleza."
+    },
+    {
+      "id": 36,
+      "personagem": "Nino",
+      "texto_en": "The scenery is just like a painting...",
+      "texto_ptbr": "A paisagem parece uma pintura..."
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah.",
+      "texto_ptbr": "É-é."
+    },
+    {
+      "id": 38,
+      "personagem": "Nino",
+      "texto_en": "The sea looks beautiful even from here.",
+      "texto_ptbr": "O mar fica lindo até daqui."
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "For sure.",
+      "texto_ptbr": "Com certeza."
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "(No good, I'm thinking too hard about Nino.\\n I want to naturally link arms with her...)",
+      "texto_ptbr": "(Não dá, tô pensando demais na Nino.\n Eu quero dar o braço pra ela de um jeito natural...)"
+    },
+    {
+      "id": 41,
+      "personagem": "Nino",
+      "texto_en": "Futaro?",
+      "texto_ptbr": "Futaro?"
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Wh-what's up?",
+      "texto_ptbr": "O-o que foi?"
+    },
+    {
+      "id": 43,
+      "personagem": "Nino",
+      "texto_en": "Um... Are you nervous?",
+      "texto_ptbr": "Hm... Você tá nervoso?"
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "Straight up? Yeah.\\nEven though we're just arm-in-arm.",
+      "texto_ptbr": "Pra ser sincero? Tô.\nMesmo só de braços dados."
+    },
+    {
+      "id": 45,
+      "personagem": "Nino",
+      "texto_en": "Teehee, actually, me too.\\nI'm more interested in you than the scenery.",
+      "texto_ptbr": "Hihi, na verdade, eu também.\nTô mais interessada em você do que na paisagem."
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, same here.\\nDespite it being a rare view we don't see often.",
+      "texto_ptbr": "É, mesma coisa aqui.\nMesmo sendo uma vista rara que a gente não vê sempre."
+    },
+    {
+      "id": 47,
+      "personagem": "Nino",
+      "texto_en": "Someday, I wonder if we'll be able to walk\\nwithout being nervous.",
+      "texto_ptbr": "Será que um dia a gente vai conseguir andar\nsem ficar nervoso."
+    },
+    {
+      "id": 48,
+      "personagem": "Nino",
+      "texto_en": "I'll probably keep staring at you like this forever.",
+      "texto_ptbr": "Acho que vou ficar te olhando assim pra sempre."
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "At least face forward, or you'll trip.",
+      "texto_ptbr": "Pelo menos olha pra frente, ou você vai tropeçar."
+    },
+    {
+      "id": 50,
+      "personagem": "Nino",
+      "texto_en": "Oh, but then you'll be there to support me, right?",
+      "texto_ptbr": "Ah, mas aí você vai estar lá pra me segurar, né?"
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "Got it.\\nGeez, you act like it's normal.",
+      "texto_ptbr": "Entendido.\nNossa, você fala como se fosse normal."
+    },
+    {
+      "id": 52,
+      "personagem": "Nino",
+      "texto_en": "Teehee!\\nWell, I know that you're a kind person, Futaro.",
+      "texto_ptbr": "Hihi!\nBom, eu sei que você é uma pessoa gentil, Futaro."
+    }
+  ]
+}

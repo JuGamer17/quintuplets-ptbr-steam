@@ -1,0 +1,258 @@
+{
+  "arquivo": "ca03_mv6_02",
+  "total": 42,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Miku",
+      "texto_en": "Have you decided on a souvenir for Dad?",
+      "texto_ptbr": "Você já decidiu o presente pro Papai?"
+    },
+    {
+      "id": 1,
+      "personagem": "Yotsuba",
+      "texto_en": "No, not yet.\\nIt's hard to find something suitable.",
+      "texto_ptbr": "Não, ainda não.\\nTá difícil achar algo adequado."
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Miku!",
+      "texto_ptbr": "Miku!"
+    },
+    {
+      "id": 3,
+      "personagem": "Miku",
+      "texto_en": "Ah... Futaro...",
+      "texto_ptbr": "Ah... Fuutarou..."
+    },
+    {
+      "id": 4,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san!",
+      "texto_ptbr": "Uesugi-san!"
+    },
+    {
+      "id": 5,
+      "personagem": "Yotsuba",
+      "texto_en": "P-perfect timing!\\nI'm picking out a souvenir for Dad.\\nCan you help me choose?",
+      "texto_ptbr": "T-timing perfeito!\\nEu tô escolhendo um presente pro Papai.\\nVocê pode me ajudar a escolher?"
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "Th-then I can go, right?",
+      "texto_ptbr": "E-então eu posso ir, né?"
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "W-wait, wait!",
+      "texto_ptbr": "E-espera, espera!"
+    },
+    {
+      "id": 8,
+      "personagem": "Yotsuba",
+      "texto_en": "Help us, Miku!\\nLet's all decide together!",
+      "texto_ptbr": "Nos ajuda, Miku!\\nVamos decidir todo mundo junto!"
+    },
+    {
+      "id": 9,
+      "personagem": "Miku",
+      "texto_en": "Yotsuba is saying the same thing as Itsuki...",
+      "texto_ptbr": "A Yotsuba tá falando a mesma coisa que a Itsuki..."
+    },
+    {
+      "id": 10,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san, I'll try to keep the conversation going.\\nTalk to Miku when you have the chance, okay?",
+      "texto_ptbr": "Uesugi-san, eu vou tentar manter a conversa rolando.\\nFala com a Miku quando tiver a chance, tá bom?"
+    },
+    {
+      "id": 11,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san, do you want to talk to Miku?\\nI'll keep the conversation going.",
+      "texto_ptbr": "Uesugi-san, você quer falar com a Miku?\\nEu mantenho a conversa rolando."
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, that's a big help.",
+      "texto_ptbr": "É, isso ajuda muito."
+    },
+    {
+      "id": 13,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, look, Miku!\\nThere's a set of rare canned juices.\\nWhat about this?",
+      "texto_ptbr": "Ah, olha, Miku!\\nTem um conjunto de sucos enlatados raros.\\nQue tal esse?"
+    },
+    {
+      "id": 14,
+      "personagem": "Miku",
+      "texto_en": "No, that's beer.",
+      "texto_ptbr": "Não, isso é cerveja."
+    },
+    {
+      "id": 15,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, I see!\\nI don't know what kind of alcohol Dad likes,\\nso let's skip that.",
+      "texto_ptbr": "Ah, entendi!\\nEu não sei que tipo de álcool o Papai gosta,\\nentão vamos deixar isso de lado."
+    },
+    {
+      "id": 16,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 17,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah! M-Miku!\\nWhat about this three-stringed instrument?",
+      "texto_ptbr": "Ah! M-Miku!\\nQue tal esse instrumento de três cordas?"
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "That's a sanshin, an Okinawan instrument.",
+      "texto_ptbr": "Isso é um sanshin, um instrumento de Okinawa."
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "I don't think Dad\\nis the type to enjoy playing a musical instrument,\\nso that's not quite the right choice, is it, Miku?",
+      "texto_ptbr": "Eu acho que o Papai\\nnão é do tipo que curte tocar instrumento musical,\\nentão não é bem a escolha certa, né, Miku?"
+    },
+    {
+      "id": 20,
+      "personagem": "Miku",
+      "texto_en": "Yeah.",
+      "texto_ptbr": "É."
+    },
+    {
+      "id": 21,
+      "personagem": "Yotsuba",
+      "texto_en": "O-okay, then what about this...",
+      "texto_ptbr": "C-certo, então que tal isso..."
+    },
+    {
+      "id": 22,
+      "personagem": "Yotsuba",
+      "texto_en": "Th-this!\\nHow's this?!",
+      "texto_ptbr": "I-isso!\\nQue tal isso?!"
+    },
+    {
+      "id": 23,
+      "personagem": "Miku",
+      "texto_en": "...I don't think Dad likes stuffed animals.",
+      "texto_ptbr": "...Eu acho que o Papai não gosta de bichos de pelúcia."
+    },
+    {
+      "id": 24,
+      "personagem": "Yotsuba",
+      "texto_en": "Y-yeah, you're right!\\nIt'd be surprising if he hugged\\na shisa stuffed animal! Ahahahahaha!",
+      "texto_ptbr": "É-é, você tem razão!\\nSeria surpreendente se ele abraçasse\\num shisa de pelúcia! Ahahahahaha!"
+    },
+    {
+      "id": 25,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "(Oh no, Yotsuba is getting nervous and flustered.\\n If this keeps up...)",
+      "texto_ptbr": "(Ah não, a Yotsuba tá ficando nervosa e desesperada.\\n Se isso continuar...)"
+    },
+    {
+      "id": 27,
+      "personagem": "Miku",
+      "texto_en": "Hey, Yotsuba.\\nAre you really looking for a souvenir for Dad?",
+      "texto_ptbr": "Ei, Yotsuba.\\nVocê realmente tá procurando um presente pro Papai?"
+    },
+    {
+      "id": 28,
+      "personagem": "Yotsuba",
+      "texto_en": "Th-that's...",
+      "texto_ptbr": "É-é que..."
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Searching blindly is not very efficient.\\nFirst, you need to decide on a direction.",
+      "texto_ptbr": "Procurar às cegas não é muito eficiente.\\nPrimeiro, você precisa decidir uma direção."
+    },
+    {
+      "id": 30,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh? A direction?",
+      "texto_ptbr": "Hã? Uma direção?"
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Like food or something else,\\na broad category is fine.\\nIt's better to start from there.",
+      "texto_ptbr": "Tipo comida ou outra coisa,\\numa categoria ampla já serve.\\nÉ melhor começar por aí."
+    },
+    {
+      "id": 32,
+      "personagem": "Miku",
+      "texto_en": "Yeah, that's a good idea.",
+      "texto_ptbr": "É, essa é uma boa ideia."
+    },
+    {
+      "id": 33,
+      "personagem": "Yotsuba",
+      "texto_en": "Okay! Let's decide from there!",
+      "texto_ptbr": "Certo! Vamos decidir a partir daí!"
+    },
+    {
+      "id": 34,
+      "personagem": "Yotsuba",
+      "texto_en": "Sorry...\\nI wasn't able to help at all.",
+      "texto_ptbr": "Desculpa...\\nEu não consegui ajudar em nada."
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Nah, don't worry about it.",
+      "texto_ptbr": "Não, não esquenta com isso."
+    },
+    {
+      "id": 36,
+      "personagem": "Yotsuba",
+      "texto_en": "Alright, I've decided on this.\\nI'll go buy it.",
+      "texto_ptbr": "Certo, eu decidi isso.\\nVou comprar."
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Right, go on.",
+      "texto_ptbr": "Certo, vai lá."
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "(Okay, I'll talk to Miku here%p-2;――%p;)",
+      "texto_ptbr": "(Certo, vou falar com a Miku aqui%p-2;――%p;)"
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Hey, Miku%p-2;――",
+      "texto_ptbr": "Ei, Miku%p-2;――"
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "(Wha%p-2;――%p;? She's not here?! When did she go?!)",
+      "texto_ptbr": "(Quê%p-2;――%p;? Ela não tá aqui?! Quando ela foi embora?!)"
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "(A-anyway, gotta go look!)",
+      "texto_ptbr": "(E-enfim, preciso ir procurar!)"
+    }
+  ]
+}

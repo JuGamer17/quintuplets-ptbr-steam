@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca03_mv4_03",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "うちなーぐちで『あきさみよー』は\\nどんな意味でしょうか？",
+      "texto_en": "What does the phrase\\n'akisamiyo' mean in Uchinaaguchi?",
+      "texto_ptbr": "O que significa a expressão\n'akisamiyo' em Uchinaaguchi?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "知らん",
+      "texto_en": "No idea.",
+      "texto_ptbr": "Sei lá.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "なにかを命令する言葉か？",
+      "texto_en": "Some sort of word to make a command?",
+      "texto_ptbr": "É alguma palavra de comando?",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "……嫌な予感がする",
+      "texto_en": "...I have a bad feeling about this.",
+      "texto_ptbr": "...Tô com um mau pressentimento.",
+      "selidx": 2
+    }
+  ]
+}

@@ -1,0 +1,444 @@
+{
+  "arquivo": "ca05_mv1_03",
+  "total": 73,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Miku",
+      "texto_en": "Uwaaa...",
+      "texto_ptbr": "Uwaaa..."
+    },
+    {
+      "id": 1,
+      "personagem": "Raiha",
+      "texto_en": "This is...kind of unbelievable...",
+      "texto_ptbr": "Isso é... meio inacreditável..."
+    },
+    {
+      "id": 2,
+      "personagem": "Miku",
+      "texto_en": "Yeah, it's completely immersed in there.",
+      "texto_ptbr": "É, está completamente submerso aí dentro."
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Oh, if it isn't Miku and Raiha?\\nWhat are you looking at?",
+      "texto_ptbr": "Ah, não é a Miku e a Raiha?\\nO que vocês estão olhando?"
+    },
+    {
+      "id": 4,
+      "personagem": "Miku",
+      "texto_en": "Ah, Futaro and Itsuki.\\nThis.",
+      "texto_ptbr": "Ah, o Futaro e a Itsuki.\\nIsso aqui."
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "Eh? A snake in a bottle?\\nWhat is this?",
+      "texto_ptbr": "Hã? Uma cobra dentro de uma garrafa?\\nO que é isso?"
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Could this be habu sake?",
+      "texto_ptbr": "Será que isso é saquê de habu?"
+    },
+    {
+      "id": 7,
+      "personagem": "Miku",
+      "texto_en": "Yes, it's habu sake.",
+      "texto_ptbr": "Sim, é saquê de habu."
+    },
+    {
+      "id": 8,
+      "personagem": "Raiha",
+      "texto_en": "It's entirely submerged in the sake.\\nIt might be scary for those \\nwho are afraid of snakes.",
+      "texto_ptbr": "Está totalmente submersa no saquê.\\nDeve ser assustador pra quem \\ntem medo de cobra."
+    },
+    {
+      "id": 9,
+      "personagem": "Miku",
+      "texto_en": "Even if you're not afraid,\\nthe impact is incredible.\\nIt feels like it's still alive.",
+      "texto_ptbr": "Mesmo quem não tem medo,\\no impacto é incrível.\\nParece que ainda está viva."
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, it'd take a lot of courage to drink this.\\nI wonder what it tastes like.",
+      "texto_ptbr": "É, ia precisar de muita coragem pra beber isso.\\nEu me pergunto qual é o gosto."
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "You're underage, so don't drink it.",
+      "texto_ptbr": "Você é menor de idade, então nem pensar em beber."
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "I-I know that without you telling me!",
+      "texto_ptbr": "E-eu sei disso mesmo sem você falar!"
+    },
+    {
+      "id": 13,
+      "personagem": "Raiha",
+      "texto_en": "The first person who put a poisonous snake in alcohol\\nmust have been courageous.",
+      "texto_ptbr": "A primeira pessoa que colocou uma cobra venenosa numa bebida\\ndeve ter sido muito corajosa."
+    },
+    {
+      "id": 14,
+      "personagem": "Miku",
+      "texto_en": "Even so, there are surprisingly many foods like that.",
+      "texto_ptbr": "Mesmo assim, tem surpreendentemente muitas comidas assim."
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "Like fugu liver?\\nThere are also some foods that take years\\nto remove the toxins to even become edible. ",
+      "texto_ptbr": "Tipo o fígado de fugu?\\nTambém tem comidas que levam anos\\npra remover as toxinas até ficarem comestíveis. "
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Do you know?\\nThey still don't know the reason why the poison disappears. ",
+      "texto_ptbr": "Sabia?\\nAté hoje não sabem o motivo do veneno desaparecer. "
+    },
+    {
+      "id": 17,
+      "personagem": "Miku",
+      "texto_en": "Oh, really?\\nSo you eat it because it's delicious\\neven though you don't know why?",
+      "texto_ptbr": "Ah, sério?\\nEntão as pessoas comem porque é gostoso\\nmesmo sem saber o porquê?"
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "That's right.",
+      "texto_ptbr": "Isso mesmo."
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "I bow my head to the human desire for\\nunending culinary exploration!",
+      "texto_ptbr": "Eu me curvo diante do desejo humano\\nde explorar a culinária sem limites!"
+    },
+    {
+      "id": 20,
+      "personagem": "Miku",
+      "texto_en": "I wonder if this habu sake is actually tasty?",
+      "texto_ptbr": "Será que esse saquê de habu é realmente gostoso?"
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "I don't know.\\nWe'll have to wait a while to know the taste.",
+      "texto_ptbr": "Não sei.\\nVamos ter que esperar um tempo pra saber o sabor."
+    },
+    {
+      "id": 22,
+      "personagem": "Raiha",
+      "texto_en": "Habu...\\nCome to think of it, mongooses and\\nhabu snakes are enemies, right?",
+      "texto_ptbr": "Habu...\\nPensando bem, o mangusto e a cobra\\nhabu são inimigos, né?"
+    },
+    {
+      "id": 23,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, yes, I've heard that.\\nThey're supposed to be natural enemies.",
+      "texto_ptbr": "Ah, é, já ouvi falar disso.\\nEles seriam inimigos naturais."
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "No, that perception is wrong.",
+      "texto_ptbr": "Não, essa ideia está errada."
+    },
+    {
+      "id": 25,
+      "personagem": "Raiha",
+      "texto_en": "Really?",
+      "texto_ptbr": "Sério?"
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "Originally, the mongoose was brought to Okinawa\\nas an animal to eradicate the habu%p-2;――",
+      "texto_ptbr": "Originalmente, o mangusto foi trazido pra Okinawa\\ncomo um animal pra erradicar a habu%p-2;――"
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "But it didn't seem to be of much help.",
+      "texto_ptbr": "Mas parece que não ajudou muito."
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "Why is that?\\nDidn't they fight?",
+      "texto_ptbr": "Por que isso?\\nEles não brigavam?"
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "There were plenty of other animals to feed on\\nwithout having to risk dangerous battles\\nwith habu snakes.",
+      "texto_ptbr": "Tinha um monte de outros animais pra comer\\nsem precisar arriscar batalhas perigosas\\ncom as cobras habu."
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "So the mongooses ended up eating a lot of\\nother animals without attacking the habu,\\nwhich resulted in the destruction of the ecosystem.",
+      "texto_ptbr": "Então os mangustos acabaram comendo um monte de\\noutros animais sem atacar a habu,\\no que resultou na destruição do ecossistema."
+    },
+    {
+      "id": 31,
+      "personagem": "Raiha",
+      "texto_en": "I see...",
+      "texto_ptbr": "Entendi..."
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Actually, the number of indigenous creatures\\nin Okinawa has decreased due to the impact\\nof the mongoose. Have you heard of the Yanbaru rail?",
+      "texto_ptbr": "Na verdade, o número de criaturas nativas\\nde Okinawa diminuiu por causa do impacto\\ndo mangusto. Já ouviram falar do frango-d'água de Yanbaru?"
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Basically, the desire for them to be natural enemies\\nis just a human wish.\\nThey're not really enemies.",
+      "texto_ptbr": "Basicamente, a vontade de que eles sejam inimigos naturais\\né só um desejo humano.\\nEles não são realmente inimigos."
+    },
+    {
+      "id": 34,
+      "personagem": "Miku",
+      "texto_en": "These animals were just tossed around by human desires.",
+      "texto_ptbr": "Esses animais só foram jogados de um lado pro outro pelos desejos humanos."
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "I didn't know that.\\nI always thought they were like dogs and cats.",
+      "texto_ptbr": "Eu não sabia disso.\\nSempre achei que eram tipo cachorro e gato."
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Proverbs are overused\\nand turn into a fixed way of thinking.",
+      "texto_ptbr": "Provérbios são usados demais\\ne acabam virando um jeito fixo de pensar."
+    },
+    {
+      "id": 37,
+      "personagem": "Miku",
+      "texto_en": "...Heheh.",
+      "texto_ptbr": "...Hehe."
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "What's wrong?",
+      "texto_ptbr": "O que foi?"
+    },
+    {
+      "id": 39,
+      "personagem": "Miku",
+      "texto_en": "Oh, nothing.\\nIt just reminded me of something from the past.",
+      "texto_ptbr": "Ah, nada.\\nSó me lembrou de uma coisa do passado."
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "From the past?",
+      "texto_ptbr": "Do passado?"
+    },
+    {
+      "id": 41,
+      "personagem": "Miku",
+      "texto_en": "The time when I first saw you two interact,\\nFutaro, Itsuki.\\nYou two were like cats and dogs back then.",
+      "texto_ptbr": "Da primeira vez que eu vi vocês dois interagindo,\\nFutaro, Itsuki.\\nVocês dois eram tipo cachorro e gato naquela época."
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "Ah...",
+      "texto_ptbr": "Ah..."
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "...Well, there was a time like that, huh.",
+      "texto_ptbr": "...Bom, teve uma época assim mesmo, né."
+    },
+    {
+      "id": 44,
+      "personagem": "Miku",
+      "texto_en": "And now, you two are lovers. Wow.",
+      "texto_ptbr": "E agora, vocês dois são namorados. Uau."
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "Don't say that...\\nIt's embarrassing.",
+      "texto_ptbr": "Não fala assim...\\nÉ constrangedor."
+    },
+    {
+      "id": 46,
+      "personagem": "Miku",
+      "texto_en": "Itsuki, you were so cold and distant before.",
+      "texto_ptbr": "Itsuki, você era tão fria e distante antes."
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "But I couldn't help it back then!\\nI still didn't understand much about Uesugi-kun.",
+      "texto_ptbr": "Mas eu não tinha jeito naquela época!\\nEu ainda não entendia muito bem o Uesugi-kun."
+    },
+    {
+      "id": 48,
+      "personagem": "Itsuki",
+      "texto_en": "Plus, the past is the past, right, Uesugi-ku...\\nFutaro?!",
+      "texto_ptbr": "Além disso, o passado é passado, né, Uesugi-ku...\\nFutaro?!"
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "That's right. Regardless of the past,\\nit's already something that's already happened.",
+      "texto_ptbr": "Isso mesmo. Independente do passado,\\né uma coisa que já aconteceu."
+    },
+    {
+      "id": 50,
+      "personagem": "Miku",
+      "texto_en": "Well then, we'll leave it at that.\\nYou two lovebirds can spend time together.",
+      "texto_ptbr": "Bom então, vamos deixar por aqui.\\nVocês dois pombinhos podem ficar à vontade."
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "People can change.\\nI've really felt that since I met you guys.",
+      "texto_ptbr": "As pessoas podem mudar.\\nEu realmente senti isso desde que conheci vocês."
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "We feel the same way.\\nWe've changed too, since we met you.",
+      "texto_ptbr": "A gente sente o mesmo.\\nA gente também mudou, desde que te conheceu."
+    },
+    {
+      "id": 53,
+      "personagem": "Miku",
+      "texto_en": "That's right. Especially Itsuki.",
+      "texto_ptbr": "Isso mesmo. Principalmente a Itsuki."
+    },
+    {
+      "id": 54,
+      "personagem": "Itsuki",
+      "texto_en": "For sure, if I were to tell my old self\\nabout the present, she wouldn't believe me.",
+      "texto_ptbr": "Com certeza, se eu contasse pra minha eu do passado\\nsobre o presente, ela não acreditaria em mim."
+    },
+    {
+      "id": 55,
+      "personagem": "Itsuki",
+      "texto_en": "That, well...\\nI'm dating Futaro.",
+      "texto_ptbr": "Tipo... eu, bem...\\nEstou namorando o Futaro."
+    },
+    {
+      "id": 56,
+      "personagem": "Miku",
+      "texto_en": "I'm sure me, nor anyone else, would have believed it.",
+      "texto_ptbr": "Tenho certeza que nem eu, nem ninguém, teria acreditado."
+    },
+    {
+      "id": 57,
+      "personagem": "Miku",
+      "texto_en": "Well then, we'll leave it at that.\\nYou two lovebirds can spend time together.",
+      "texto_ptbr": "Bom então, vamos deixar por aqui.\\nVocês dois pombinhos podem ficar à vontade."
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "I could never forget that encounter.\\nIt was THAT impactful.",
+      "texto_ptbr": "Eu nunca vou conseguir esquecer aquele encontro.\\nFoi TÃO impactante assim."
+    },
+    {
+      "id": 59,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, definitely.\\nHow you could say something like that to a complete stranger.",
+      "texto_ptbr": "É, com certeza.\\nComo você conseguiu dizer uma coisa daquelas pra uma completa desconhecida."
+    },
+    {
+      "id": 60,
+      "personagem": "Raiha",
+      "texto_en": "Big bro, what did you say?",
+      "texto_ptbr": "Onii-chan, o que você disse?"
+    },
+    {
+      "id": 61,
+      "personagem": "Miku",
+      "texto_en": "I can kind of imagine it though.",
+      "texto_ptbr": "Mas eu meio que consigo imaginar."
+    },
+    {
+      "id": 62,
+      "personagem": "Itsuki",
+      "texto_en": "You don't need to picture that!",
+      "texto_ptbr": "Você não precisa imaginar isso!"
+    },
+    {
+      "id": 63,
+      "personagem": "Itsuki",
+      "texto_en": "However, looking back on it now,\\nthat meeting was also a good memory.",
+      "texto_ptbr": "Mas, olhando pra trás agora,\\naquele encontro também é uma boa lembrança."
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "Absolutely.",
+      "texto_ptbr": "Com certeza."
+    },
+    {
+      "id": 65,
+      "personagem": "Itsuki",
+      "texto_en": "Uesu...\\nFutaro, you think so too, right?",
+      "texto_ptbr": "Uesu...\\nFutaro, você também acha isso, né?"
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "I mean, if it wasn't for that encounter,\\nwe wouldn't be where we are now.",
+      "texto_ptbr": "Quer dizer, se não fosse por aquele encontro,\\na gente não estaria onde está agora."
+    },
+    {
+      "id": 67,
+      "personagem": "Miku",
+      "texto_en": "Well then, we'll leave it at that.\\nYou two lovebirds can spend time together.",
+      "texto_ptbr": "Bom então, vamos deixar por aqui.\\nVocês dois pombinhos podem ficar à vontade."
+    },
+    {
+      "id": 68,
+      "personagem": "Raiha",
+      "texto_en": "For sure.\\nMake sure to escort Itsuki-san properly, big bro.",
+      "texto_ptbr": "Com certeza.\\nCertifique-se de acompanhar a Itsuki-san direitinho, Onii-chan."
+    },
+    {
+      "id": 69,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, Miku?!\\nYou don't have to worry so much%p-2;――",
+      "texto_ptbr": "Ah, Miku?!\\nVocê não precisa se preocupar tanto assim%p-2;――"
+    },
+    {
+      "id": 70,
+      "personagem": "Itsuki",
+      "texto_en": "Ah...... They left...",
+      "texto_ptbr": "Ah...... Elas foram embora..."
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "Well, I guess we'll just have to take their word for it. ",
+      "texto_ptbr": "Bom, acho que vamos ter que confiar na palavra delas. "
+    },
+    {
+      "id": 72,
+      "personagem": "Itsuki",
+      "texto_en": "Y-yeah.",
+      "texto_ptbr": "É-é."
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "arquivo": "ca02_mv1_02",
+  "total": 67,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, Uesugi-san!\\nGood timing!",
+      "texto_ptbr": "Ah, Uesugi-san!\nQue bom timing!"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "What's up Yotsuba, you need something from me?",
+      "texto_ptbr": "E aí, Yotsuba, precisa de alguma coisa?"
+    },
+    {
+      "id": 2,
+      "personagem": "Yotsuba",
+      "texto_en": "How about going swimming now?\\nWe've come all the way to Okinawa,\\nlet's enjoy the ocean!",
+      "texto_ptbr": "Que tal irmos nadar agora?\nA gente veio até Okinawa,\nvamos aproveitar o oceano!"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "...Didn't you just swim with Raiha\\na little while ago?",
+      "texto_ptbr": "...Você não acabou de nadar com a Raiha\nhá pouco tempo?"
+    },
+    {
+      "id": 4,
+      "personagem": "Yotsuba",
+      "texto_en": "I was just warming up!\\nThe sea is beckoning me to come back!",
+      "texto_ptbr": "Aquilo foi só um aquecimento!\nO mar está me chamando de volta!"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "That's a scary way to put it.",
+      "texto_ptbr": "Que jeito assustador de falar isso."
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "(It's nice of her to invite me,\\n but I don't think I can keep up\\n with Yotsuba's stamina.)",
+      "texto_ptbr": "(É legal da parte dela me chamar,\n mas eu não acho que consigo acompanhar\n o fôlego da Yotsuba.)"
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "(When it comes to endurance,\\n Yotsuba is in a league of her own...)",
+      "texto_ptbr": "(Quando o assunto é resistência,\n a Yotsuba está em outro nível...)"
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Thanks for the invite, but I'll pass.",
+      "texto_ptbr": "Valeu pelo convite, mas vou passar dessa."
+    },
+    {
+      "id": 9,
+      "personagem": "Yotsuba",
+      "texto_en": "Aww, Uesugi-san too?\\nMiku also said she doesn't want to join me.",
+      "texto_ptbr": "Aaah, você também, Uesugi-san?\nA Miku também disse que não quer ir comigo."
+    },
+    {
+      "id": 10,
+      "personagem": "Miku",
+      "texto_en": "It's not that we hate swimming,\\nit's just that we can't keep up with your stamina, Yotsuba.",
+      "texto_ptbr": "Não é que a gente odeie nadar,\né que a gente não consegue acompanhar seu fôlego, Yotsuba."
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, Miku's right.",
+      "texto_ptbr": "É, a Miku tem razão."
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "Come on guys!\\nTry to enjoy the ocean as long as we're in Okinawa.\\nIt's such a waste not to.",
+      "texto_ptbr": "Ah, vamos lá, gente!\nTentem aproveitar o oceano já que estamos em Okinawa.\nSeria um desperdício não fazer isso."
+    },
+    {
+      "id": 13,
+      "personagem": "Miku",
+      "texto_en": "You're on a different level, Yotsuba.\\nItsuki was swimming with you earlier\\nand she was exhausted.",
+      "texto_ptbr": "Você está em outro nível, Yotsuba.\nA Itsuki estava nadando com você mais cedo\ne ficou exausta."
+    },
+    {
+      "id": 14,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "Did you overdo it again...?",
+      "texto_ptbr": "Você exagerou de novo...?"
+    },
+    {
+      "id": 16,
+      "personagem": "Yotsuba",
+      "texto_en": "B-but, I did slow down my pace\\nsince Raiha-chan accompanied us.",
+      "texto_ptbr": "M-mas eu diminuí o ritmo\nporque a Raiha-chan estava com a gente."
+    },
+    {
+      "id": 17,
+      "personagem": "Yotsuba",
+      "texto_en": "I thought that Itsuki and Raiha-chan\\nwere doing just fine...",
+      "texto_ptbr": "Eu achei que a Itsuki e a Raiha-chan\nestavam bem..."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Listen, you're like a dolphin and your stamina level is off the \\ncharts. What's slow for you might be way too fast for others.",
+      "texto_ptbr": "Olha, você é tipo um golfinho e seu fôlego é fora de série. \nO que é devagar pra você pode ser rápido demais pros outros."
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "Ooohh, I'm sorry, I got carried away.\\nBut the ocean was just too beautiful.",
+      "texto_ptbr": "Oohh, desculpa, eu me empolguei.\nMas o oceano estava lindo demais."
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "I understand why you got so excited swimming through the \\nOkinawan ocean. We don't come here very often. ",
+      "texto_ptbr": "Eu entendo por que você ficou tão animada nadando no \noceano de Okinawa. A gente não vem aqui com frequência."
+    },
+    {
+      "id": 21,
+      "personagem": "Miku",
+      "texto_en": "Indeed. I remember how excited you were\\nwhen we first arrived in Okinawa, Futaro.",
+      "texto_ptbr": "É verdade. Eu me lembro de como você ficou animado\nquando a gente chegou em Okinawa, Fuutarou."
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Oooh...",
+      "texto_ptbr": "Oooh..."
+    },
+    {
+      "id": 23,
+      "personagem": "Miku",
+      "texto_en": "But, personally,\\nI prefer admiring the beauty of the ocean\\ninstead of swimming in it.",
+      "texto_ptbr": "Mas, pessoalmente,\neu prefiro admirar a beleza do oceano\nem vez de nadar nele."
+    },
+    {
+      "id": 24,
+      "personagem": "Yotsuba",
+      "texto_en": "Just looking is a waste.\\nWe came all the way to Okinawa, so let's swim!",
+      "texto_ptbr": "Só olhar é um desperdício.\nA gente veio até Okinawa, então vamos nadar!"
+    },
+    {
+      "id": 25,
+      "personagem": "Miku",
+      "texto_en": "Enjoy yourself. I'll be admiring the ocean.",
+      "texto_ptbr": "Se divirta. Eu vou ficar admirando o oceano."
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "But, is admiring the view really good enough?\\nWe've come all the way to Okinawa,\\nwe should at least swim a little.",
+      "texto_ptbr": "Mas será que só admirar a vista é o bastante?\nA gente veio até Okinawa,\ndeveria pelo menos nadar um pouco."
+    },
+    {
+      "id": 27,
+      "personagem": "Miku",
+      "texto_en": "Everyone has their own way of enjoying themselves.\\nI don't want you to deny my way of having fun.",
+      "texto_ptbr": "Cada um tem seu próprio jeito de se divertir.\nEu não quero que você negue o meu jeito de me divertir."
+    },
+    {
+      "id": 28,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, uh, it's also nice to just admire the ocean!\\nThe view from here is as beautiful as a painting!",
+      "texto_ptbr": "Ah, é, também é legal só admirar o oceano!\nA vista daqui é linda como uma pintura!"
+    },
+    {
+      "id": 29,
+      "personagem": "Yotsuba",
+      "texto_en": "So there are various ways to enjoy the ocean, huh.",
+      "texto_ptbr": "Então existem várias formas de aproveitar o oceano, né."
+    },
+    {
+      "id": 30,
+      "personagem": "Miku",
+      "texto_en": "You bet!",
+      "texto_ptbr": "Com certeza!"
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Well, we're here until the sun goes down. Which means\\nwe have plenty of time to enjoy the ocean.",
+      "texto_ptbr": "Bom, a gente vai ficar aqui até o sol se pôr. Ou seja,\ntemos bastante tempo pra aproveitar o oceano."
+    },
+    {
+      "id": 32,
+      "personagem": "Yotsuba",
+      "texto_en": "In that case, I'll go swimming now!",
+      "texto_ptbr": "Nesse caso, eu vou nadar agora!"
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Just don't overdo it.\\nYou're the type to end up\\nin the no-swim zone before you know it.",
+      "texto_ptbr": "Só não exagera.\nVocê é do tipo que acaba\nna zona proibida pra nadar sem nem perceber."
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "How about doing both activities together?\\nWe can swim to our heart's content, and afterwards relax\\non the floater and gaze out at the sea. ",
+      "texto_ptbr": "Que tal fazer as duas coisas juntas?\nA gente pode nadar à vontade e depois relaxar\nna boia olhando o mar."
+    },
+    {
+      "id": 35,
+      "personagem": "Yotsuba",
+      "texto_en": "Good idea!",
+      "texto_ptbr": "Boa ideia!"
+    },
+    {
+      "id": 36,
+      "personagem": "Miku",
+      "texto_en": "But, I'm not sure I can keep up with you, Yotsuba.",
+      "texto_ptbr": "Mas eu não tenho certeza se consigo te acompanhar, Yotsuba."
+    },
+    {
+      "id": 37,
+      "personagem": "Yotsuba",
+      "texto_en": "Don't worry, I won't swim too fast!\\nI'll pace myself.",
+      "texto_ptbr": "Não se preocupa, eu não vou nadar rápido demais!\nEu vou controlar meu ritmo."
+    },
+    {
+      "id": 38,
+      "personagem": "Miku",
+      "texto_en": "But, Itsuki got annihilated.",
+      "texto_ptbr": "Mas a Itsuki ficou arrasada."
+    },
+    {
+      "id": 39,
+      "personagem": "Yotsuba",
+      "texto_en": "I-I'll behave myself better this time!",
+      "texto_ptbr": "D-dessa vez eu vou me comportar melhor!"
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "Well, we're here until the sun goes down. Which means\\nwe have plenty of time to enjoy the ocean.",
+      "texto_ptbr": "Bom, a gente vai ficar aqui até o sol se pôr. Ou seja,\ntemos bastante tempo pra aproveitar o oceano."
+    },
+    {
+      "id": 41,
+      "personagem": "Yotsuba",
+      "texto_en": "In that case, I'll go swimming now!",
+      "texto_ptbr": "Nesse caso, eu vou nadar agora!"
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Just don't overdo it.\\nYou're the type to end up\\nin the no-swim zone before you know it.",
+      "texto_ptbr": "Só não exagera.\nVocê é do tipo que acaba\nna zona proibida pra nadar sem nem perceber."
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "There are several ways to enjoy the ocean.\\nSwimming and gazing out at the sea\\nboth have their merits.",
+      "texto_ptbr": "Existem várias formas de aproveitar o oceano.\nNadar e admirar o mar\ntêm seus próprios méritos."
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "I appreciate that they provided us with\\nthe floater earlier. It was so relaxing.",
+      "texto_ptbr": "Eu agradeço por terem nos dado\naquela boia mais cedo. Foi bem relaxante."
+    },
+    {
+      "id": 45,
+      "personagem": "Miku",
+      "texto_en": "I don't really feel like doing anything too strenuous.\\nRight now relaxing on the floater sounds good to me.",
+      "texto_ptbr": "Eu não estou com muita vontade de fazer nada muito cansativo.\nAgora relaxar na boia parece ótimo pra mim."
+    },
+    {
+      "id": 46,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, it did look very relaxing.\\nIf we get tired of swimming,\\nwe should try to rest on the floater.",
+      "texto_ptbr": "Ah, aquilo parecia bem relaxante mesmo.\nSe a gente se cansar de nadar,\ndevíamos tentar descansar na boia."
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, it was really enjoyable. I guess you could say\\nthat you become one with nature...\\nIt's an experience worth having.",
+      "texto_ptbr": "É, foi bem agradável. Acho que dá pra dizer\nque a gente se torna um só com a natureza...\nÉ uma experiência que vale a pena ter."
+    },
+    {
+      "id": 48,
+      "personagem": "Yotsuba",
+      "texto_en": "People have their own ways of getting close to nature,\\ndon't they.",
+      "texto_ptbr": "Cada um tem seu próprio jeito de se aproximar da natureza,\nnão é?"
+    },
+    {
+      "id": 49,
+      "personagem": "Miku",
+      "texto_en": "That's diversity, right?",
+      "texto_ptbr": "Isso é diversidade, né?"
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "Do you know what you're talking about?",
+      "texto_ptbr": "Você sabe do que está falando?"
+    },
+    {
+      "id": 51,
+      "personagem": "Miku",
+      "texto_en": "You can have different perspectives on the same subject, right?",
+      "texto_ptbr": "A gente pode ter perspectivas diferentes sobre o mesmo assunto, né?"
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Well, actually, it means\\nthat there are many things that are similar in nature,\\nbut have a wide range.",
+      "texto_ptbr": "Bom, na verdade, significa\nque existem muitas coisas parecidas por natureza,\nmas com uma grande variedade."
+    },
+    {
+      "id": 53,
+      "personagem": "Miku",
+      "texto_en": "...?",
+      "texto_ptbr": "...?"
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "Nah, it's okay.\\nIt's not really necessary to explain it here, is it?",
+      "texto_ptbr": "Ah, deixa quieto.\nNão é realmente necessário explicar isso aqui, né?"
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "Well, we're here until the sun goes down. Which means\\nwe have plenty of time to enjoy the ocean.",
+      "texto_ptbr": "Bom, a gente vai ficar aqui até o sol se pôr. Ou seja,\ntemos bastante tempo pra aproveitar o oceano."
+    },
+    {
+      "id": 56,
+      "personagem": "Yotsuba",
+      "texto_en": "In that case, I'll go swimming now!",
+      "texto_ptbr": "Nesse caso, eu vou nadar agora!"
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "Just don't overdo it.\\nYou're the type to end up\\nin the no-swim zone before you know it.",
+      "texto_ptbr": "Só não exagera.\nVocê é do tipo que acaba\nna zona proibida pra nadar sem nem perceber."
+    },
+    {
+      "id": 58,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahaha, c'mon, I wouldn't do that.",
+      "texto_ptbr": "Ahaha, ah, para, eu não faria isso."
+    },
+    {
+      "id": 59,
+      "personagem": "Yotsuba",
+      "texto_en": "If you change your mind, let me know.\\nLet's go swimming!",
+      "texto_ptbr": "Se você mudar de ideia, me avisa.\nVamos nadar!"
+    },
+    {
+      "id": 60,
+      "personagem": "Miku",
+      "texto_en": "Come to think of it,\\nyou aren't here with Nino, huh?",
+      "texto_ptbr": "Pensando bem,\nvocê não está aqui com a Nino, né?"
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "W-well, I guess.",
+      "texto_ptbr": "B-bom, acho que sim."
+    },
+    {
+      "id": 62,
+      "personagem": "Miku",
+      "texto_en": "Futaro, you should focus a little more on Nino...",
+      "texto_ptbr": "Fuutarou, você devia dar mais atenção pra Nino..."
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "Huh? What do you mean?",
+      "texto_ptbr": "Hã? Como assim?"
+    },
+    {
+      "id": 64,
+      "personagem": "Miku",
+      "texto_en": "Uh, nothing. Nevermind.",
+      "texto_ptbr": "Uh, nada não. Deixa pra lá."
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 66,
+      "personagem": "Miku",
+      "texto_en": "Cause we're rivals, me and Nino.",
+      "texto_ptbr": "Porque a gente é rival, eu e a Nino."
+    }
+  ]
+}

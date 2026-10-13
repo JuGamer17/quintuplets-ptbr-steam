@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca02_mv2_01",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "うううっ！\\nそ、それはぁ……。",
+      "texto_en": "Ooooh!\\nTh-that's...",
+      "texto_ptbr": "Ooohh!\nI-isso é..."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "（ここは黙ってるか……）",
+      "texto_en": "(I should keep quiet here...)",
+      "texto_ptbr": "(É melhor eu ficar quieto aqui...)",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "なにを想像したかは関係ないぞ",
+      "texto_en": "It doesn't matter what you imagined.",
+      "texto_ptbr": "Não importa o que você imaginou.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "そんなに五月をからかうなよ",
+      "texto_en": "Stop teasing Itsuki.",
+      "texto_ptbr": "Para de provocar a Itsuki.",
+      "selidx": 2
+    }
+  ]
+}

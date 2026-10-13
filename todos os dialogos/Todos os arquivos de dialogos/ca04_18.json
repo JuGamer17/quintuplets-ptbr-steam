@@ -1,0 +1,282 @@
+{
+  "arquivo": "ca04_18",
+  "total": 46,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Ichika",
+      "texto_en": "Oh, is this the museum shop?\\nDo you want to look for souvenirs?",
+      "texto_ptbr": "Ah, aqui é a loja do museu?\\nQuerem procurar lembrancinhas?"
+    },
+    {
+      "id": 1,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, let's do that.\\nIs it okay with you, Uesugi-san?",
+      "texto_ptbr": "Vamos sim!\\nTudo bem pra você, Uesugi-san?"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Uh, yeah, sure.\\nWe still have plenty of time, after all.",
+      "texto_ptbr": "Ah, claro.\\nAinda temos bastante tempo, afinal."
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "(When everyone gathered, Yotsuba was back to her usual\\n self. Although she seemed disappointed earlier,\\n I won't rush her here, and follow her pace...)",
+      "texto_ptbr": "(Quando todo mundo se juntou, a Yotsuba já era a\\n mesma de sempre. Apesar de ter parecido decepcionada antes,\\n não vou apressá-la aqui e vou seguir o ritmo dela...)"
+    },
+    {
+      "id": 4,
+      "personagem": "Raiha",
+      "texto_en": "Look, big bro, look!\\nThere are lots of stuffed animals!",
+      "texto_ptbr": "Olha, Onii-chan, olha!\\nTem um monte de bichinhos de pelúcia!"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Wowww...\\nThis is incredible. So many different ones.",
+      "texto_ptbr": "Nossaaa...\\nIsso é incrível. Tem tantos tipos diferentes."
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "Ah! There's a manatee stuffed animal!\\nAnd it's holding a carrot!",
+      "texto_ptbr": "Ah! Tem uma pelúcia de peixe-boi!\\nE ele está segurando uma cenoura!"
+    },
+    {
+      "id": 7,
+      "personagem": "Miku",
+      "texto_en": "That's so playful!",
+      "texto_ptbr": "Que brincalhão!"
+    },
+    {
+      "id": 8,
+      "personagem": "Yotsuba",
+      "texto_en": "Do you both really like manatees that much?",
+      "texto_ptbr": "Vocês duas gostam tanto assim de peixe-boi?"
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "Is this a juvenile whale shark? It's quite small.",
+      "texto_ptbr": "Esse é um filhote de tubarão-baleia? É bem pequeno."
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Well, it's impossible\\nto make a life-sized whale shark stuffed animal.",
+      "texto_ptbr": "Bom, é impossível\\nfazer um tubarão-baleia de pelúcia em tamanho real."
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "Oh, this is a clownfish.\\nThey're just so colorful and cute.",
+      "texto_ptbr": "Ah, esse é um peixe-palhaço.\\nEles são tão coloridos e fofos."
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "What's this white, long thing?",
+      "texto_ptbr": "O que é essa coisa branca e comprida?"
+    },
+    {
+      "id": 13,
+      "personagem": "Miku",
+      "texto_en": "It's a stuffed animal of a spotted garden eel, it says.",
+      "texto_ptbr": "Diz aqui que é uma pelúcia de enguia-de-jardim-pintada."
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "Oh, this size would be perfect as a body pillow.",
+      "texto_ptbr": "Ah, esse tamanho seria perfeito como travesseiro de corpo."
+    },
+    {
+      "id": 15,
+      "personagem": "Miku",
+      "texto_en": "...Now that you say that,\\nI can only see it as a pillow.",
+      "texto_ptbr": "...Agora que você falou,\\nsó consigo ver como um travesseiro."
+    },
+    {
+      "id": 16,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah! This one is cute.\\nLook, it's a fluffy dolphin!",
+      "texto_ptbr": "Ah! Esse aqui é fofo.\\nOlha, é um golfinho fofinho!"
+    },
+    {
+      "id": 17,
+      "personagem": "Raiha",
+      "texto_en": "Dolphins are great too.\\nI'm not sure which one to get, though.\\nMaybe this one.",
+      "texto_ptbr": "Golfinhos também são demais.\\nMas ainda não sei qual escolher.\\nTalvez esse aqui."
+    },
+    {
+      "id": 18,
+      "personagem": "Yotsuba",
+      "texto_en": "Raiha-chan, have you decided what to get?",
+      "texto_ptbr": "Raiha-chan, já decidiu o que vai levar?"
+    },
+    {
+      "id": 19,
+      "personagem": "Raiha",
+      "texto_en": "I'm getting this.\\nIt's a stuffed whale shark named 'Jinbei-chan!'",
+      "texto_ptbr": "Vou levar esse.\\nÉ um tubarão-baleia de pelúcia chamado 'Jinbei-chan!'"
+    },
+    {
+      "id": 20,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahaha, did you already give it a name?",
+      "texto_ptbr": "Ahaha, você já deu um nome pra ele?"
+    },
+    {
+      "id": 21,
+      "personagem": "Miku",
+      "texto_en": "I'm going to get that spotted garden eel and name it 'Futaro.'",
+      "texto_ptbr": "Vou levar aquela enguia-de-jardim-pintada e chamar de 'Fuutarou.'"
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Hey, wait a sec.",
+      "texto_ptbr": "Ei, peraí."
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "Then, my clownfish will be named 'Fu-kun.'",
+      "texto_ptbr": "Então o meu peixe-palhaço vai se chamar 'Fu-kun.'"
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Why are these things getting my name?",
+      "texto_ptbr": "Por que essas coisas estão ficando com o meu nome?"
+    },
+    {
+      "id": 25,
+      "personagem": "Miku",
+      "texto_en": "Look closely.\\nThe eyes of this eel\\nlook just like yours, Futaro.",
+      "texto_ptbr": "Olha bem.\\nOs olhos dessa enguia\\nsão iguaizinhos aos seus, Fuutarou."
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "It doesn't look like me at all!\\nHumans don't have eyes like that!",
+      "texto_ptbr": "Não parece nada comigo!\\nHumanos não têm olhos assim!"
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "It doesn't matter what you name a stuffed animal,\\nas long as you have an attachment to it. Right, Fu-kun?",
+      "texto_ptbr": "Não importa o nome que você dá pra uma pelúcia,\\ndesde que você tenha apego a ela. Né, Fu-kun?"
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "Don't make stuffed animals agree with you.",
+      "texto_ptbr": "Não faz as pelúcias concordarem com você."
+    },
+    {
+      "id": 29,
+      "personagem": "Raiha",
+      "texto_en": "Hey, what are you going to name your dolphin,\\nYotsuba-san?",
+      "texto_ptbr": "Ei, que nome você vai dar pro seu golfinho,\\nYotsuba-san?"
+    },
+    {
+      "id": 30,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh? The name for this dolphin?!",
+      "texto_ptbr": "Hã? O nome desse golfinho?!"
+    },
+    {
+      "id": 31,
+      "personagem": "Raiha",
+      "texto_en": "Yeah, you give yours a name, Yotsuba-san.",
+      "texto_ptbr": "Isso, dá um nome pro seu também, Yotsuba-san."
+    },
+    {
+      "id": 32,
+      "personagem": "Yotsuba",
+      "texto_en": "S-so, this'll be...F%p-2;――",
+      "texto_ptbr": "E-então, esse vai se chamar...F%p-2;――"
+    },
+    {
+      "id": 33,
+      "personagem": "Yotsuba",
+      "texto_en": "F-...F-F-...\\nF-Fluffy Raiha-chan!!",
+      "texto_ptbr": "F-...F-F-...\\nF-Fofinha Raiha-chan!!"
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "...Fluffy Raiha-chan?",
+      "texto_ptbr": "...Fofinha Raiha-chan?"
+    },
+    {
+      "id": 35,
+      "personagem": "Yotsuba",
+      "texto_en": "That's the name for the dolphin!\\n'Fluffy Raiha-chan!'",
+      "texto_ptbr": "É o nome do golfinho!\\n'Fofinha Raiha-chan!'"
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Hmm, I see. After all,\\ndolphins are the most popular idols in aquariums.\\nYou really get that, right, Yotsuba?!",
+      "texto_ptbr": "Hmm, entendo. Afinal,\\ngolfinhos são os ídolos mais populares dos aquários.\\nVocê entende bem isso, né, Yotsuba?!"
+    },
+    {
+      "id": 37,
+      "personagem": "Yotsuba",
+      "texto_en": "Yes, that's right!\\nI thought you would understand, Uesugi-san!",
+      "texto_ptbr": "Sim, é isso mesmo!\\nAchei que você ia entender, Uesugi-san!"
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "Of course.\\nI'm her big brother, after all!",
+      "texto_ptbr": "Claro.\\nSou o irmão mais velho dela, afinal!"
+    },
+    {
+      "id": 39,
+      "personagem": "Yotsuba",
+      "texto_en": "That's right!\\nAhaha... *sigh*",
+      "texto_ptbr": "Isso mesmo!\\nAhaha... *sigh*"
+    },
+    {
+      "id": 40,
+      "personagem": "Raiha",
+      "texto_en": "The strategy has failed...",
+      "texto_ptbr": "A estratégia falhou..."
+    },
+    {
+      "id": 41,
+      "personagem": "Ichika",
+      "texto_en": "We worked hard for this, but it didn't work out.",
+      "texto_ptbr": "A gente se esforçou tanto, mas não deu certo."
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "W-well, I think Yotsuba did her best in her own way.",
+      "texto_ptbr": "B-bem, acho que a Yotsuba fez o melhor que podia do jeito dela."
+    },
+    {
+      "id": 43,
+      "personagem": "Nino",
+      "texto_en": "Even Fu-kun didn't notice.",
+      "texto_ptbr": "Nem o Fu-kun percebeu."
+    },
+    {
+      "id": 44,
+      "personagem": "Miku",
+      "texto_en": "Yotsuba tends to get carried away\\nwhen it comes to Raiha-chan.",
+      "texto_ptbr": "A Yotsuba costuma se empolgar demais\\nquando o assunto é a Raiha-chan."
+    },
+    {
+      "id": 45,
+      "personagem": "Ichika",
+      "texto_en": "This might be harder than I thought...",
+      "texto_ptbr": "Isso pode ser mais difícil do que eu pensava..."
+    }
+  ]
+}

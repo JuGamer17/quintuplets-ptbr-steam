@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca04_mv2_03",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "挨拶、でしょうか？\\nこんにちはーって。",
+      "texto_en": "Is it a greeting?\\nLike saying hello?",
+      "texto_ptbr": "Será que é um cumprimento?\\nTipo dizer oi?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "見てる俺たちに向かってか？",
+      "texto_en": "So, you're saying it's directed towards us?",
+      "texto_ptbr": "Tá querendo dizer que é pra gente, que tá olhando?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "らいははどうだ？　わかるか？",
+      "texto_en": "Raiha, what about you? Do you know?",
+      "texto_ptbr": "E a Raiha? Você sabe?",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "なかなか面白い発想だな",
+      "texto_en": "Well, that's an interesting idea.",
+      "texto_ptbr": "Que ideia interessante.",
+      "selidx": 2
+    }
+  ]
+}

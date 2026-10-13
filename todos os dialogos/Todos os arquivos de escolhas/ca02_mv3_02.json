@@ -1,0 +1,75 @@
+{
+  "arquivo": "ca02_mv3_02",
+  "total": 7,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ねえ、風太郎もこれ買わない？",
+      "texto_en": "Hey, don't you want to get this one, Futaro?",
+      "texto_ptbr": "Ei, você não quer pegar essa aqui, Futaro?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "買ってもな……",
+      "texto_en": "Even if I did, beats me how to use it...",
+      "texto_ptbr": "Mesmo que eu comprasse, não ia saber usar...",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "火を見てると落ち着くよな",
+      "texto_en": "Looking at the flame calms me down.",
+      "texto_ptbr": "Olhar pro fogo acalma, né?",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "いいぞ、お前が選んでくれ",
+      "texto_en": "Sure, you pick one out for me.",
+      "texto_ptbr": "Pode ser, escolhe um pra mim.",
+      "selidx": 2
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "裏通り:一花:三玖",
+      "texto_en": "Back Street: Ichika/Miku",
+      "texto_ptbr": "Rua dos Fundos: Ichika/Miku",
+      "selidx": 0
+    },
+    {
+      "id": 5,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "ショップＡ:五月",
+      "texto_en": "Shop A: Itsuki",
+      "texto_ptbr": "Loja A: Itsuki",
+      "selidx": 1
+    },
+    {
+      "id": 6,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "大通りＢ:四葉:らいは",
+      "texto_en": "Main Street B: Yotsuba/Raiha",
+      "texto_ptbr": "Rua Principal B: Yotsuba/Raiha",
+      "selidx": 2
+    }
+  ]
+}

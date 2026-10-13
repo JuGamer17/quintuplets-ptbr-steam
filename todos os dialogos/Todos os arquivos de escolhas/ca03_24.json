@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca03_24",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "それまでに１人で解決できる問題なんですか？",
+      "texto_en": "Can this problem be solved on your own before then?",
+      "texto_ptbr": "Esse problema pode ser resolvido sozinho até lá?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "……言えない",
+      "texto_en": "...I can't say.",
+      "texto_ptbr": "...Não posso dizer.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "心配かけてすまん",
+      "texto_en": "I'm sorry for worrying you.",
+      "texto_ptbr": "Desculpa por te preocupar.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "笑わないか？",
+      "texto_en": "Can you not laugh?",
+      "texto_ptbr": "Promete que não vai rir?",
+      "selidx": 2
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca04_mv4_01",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ニャン。",
+      "texto_en": "Meow.",
+      "texto_ptbr": "Miau."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "この体格、食べすぎじゃないか？",
+      "texto_en": "Isn't this cat eating a bit too much?",
+      "texto_ptbr": "Com esse corpo, esse gato não tá comendo demais?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "それはなかなか、いいご身分だな",
+      "texto_en": "Well, that's a pretty lucky cat, I'd say.",
+      "texto_ptbr": "Que vidão, hein.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "お勧めだって言ってるのかもな",
+      "texto_en": "Maybe Maya's recommending it to us.",
+      "texto_ptbr": "Talvez esteja dizendo que recomenda.",
+      "selidx": 2
+    }
+  ]
+}

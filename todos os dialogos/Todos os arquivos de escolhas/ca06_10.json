@@ -1,0 +1,55 @@
+{
+  "arquivo": "ca06_10",
+  "total": 5,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*map",
+      "texto_jp": "dummy",
+      "texto_en": "{UNTRANSLATED}dummy",
+      "texto_ptbr": "",
+      "selidx": 0
+    },
+    {
+      "id": 1,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*dummyselect1",
+      "texto_jp": "（空気が変わったな。\\n　さて、どう伝えたものか……）",
+      "texto_en": "(The atmosphere has changed.\\n Now, how do I convey what I want to say...)",
+      "texto_ptbr": "(O clima mudou.\n Agora, como eu transmito o que eu quero dizer...)"
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*dummyselect1",
+      "texto_jp": "なんか言いにくいんだが……",
+      "texto_en": "It's a bit hard to say...",
+      "texto_ptbr": "É meio difícil de dizer...",
+      "selidx": 0
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*dummyselect1",
+      "texto_jp": "うまく言えるか、わからないが……",
+      "texto_en": "I'm not sure if I can say it well...",
+      "texto_ptbr": "Não sei se consigo dizer direito...",
+      "selidx": 1
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*dummyselect1",
+      "texto_jp": "余計な言葉はいらないよな",
+      "texto_en": "No need to mince words.",
+      "texto_ptbr": "Não precisa de palavras a mais, né.",
+      "selidx": 2
+    }
+  ]
+}

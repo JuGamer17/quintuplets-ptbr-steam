@@ -1,0 +1,612 @@
+{
+  "arquivo": "ca01_17",
+  "total": 101,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(While being questioned by the four sisters,\\n we made our way to Ocean Expo Park%p-2;――%p;)",
+      "texto_ptbr": "(Enquanto éramos interrogados pelas quatro irmãs,\\n a gente foi caminhando até o Ocean Expo Park%p-2;――%p;)"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(Immediately after entering Churaumi Aquarium,\\n we came upon a large tank at the front.)",
+      "texto_ptbr": "(Logo após entrar no Aquário Churaumi,\\n a gente se deparou com um imenso tanque na entrada.)"
+    },
+    {
+      "id": 2,
+      "personagem": "Raiha",
+      "texto_en": "Waahh...!",
+      "texto_ptbr": "Uaaah...!"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Amaaazing...",
+      "texto_ptbr": "Incríveeeel..."
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, it's breathtaking...",
+      "texto_ptbr": "É, impressiona demais..."
+    },
+    {
+      "id": 5,
+      "personagem": "Miku",
+      "texto_en": "Oh, a whale shark is coming this way.",
+      "texto_ptbr": "Oh, um tubarão-baleia vindo pra cá."
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "Wow, so impactful!",
+      "texto_ptbr": "Uau, que impacto!"
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "At this size, it's not just a tank, it's like the ocean!",
+      "texto_ptbr": "Desse tamanho, não parece um aquário, parece o oceano de verdade!"
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "It certainly is big, but calling it an ocean is \\na little bit of an overstatement.",
+      "texto_ptbr": "É enorme sim, mas chamar de oceano é \\num exagero e tanto."
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "I've heard about it,\\nbut it's hard to believe there's a tank this big.",
+      "texto_ptbr": "Já tinha ouvido falar,\\nmas é difícil acreditar que existe um tanque tão grande assim."
+    },
+    {
+      "id": 10,
+      "personagem": "Ichika",
+      "texto_en": "It's really surprising.\\nI've seen photos, but it's beyond my imagination.",
+      "texto_ptbr": "É de surpreender mesmo.\\nJá vi fotos, mas está além do que eu imaginava."
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Ah, just seeing this\\nmakes me feel like it was worth coming.",
+      "texto_ptbr": "Ah, só de ver isso\\njá valeu a viagem."
+    },
+    {
+      "id": 12,
+      "personagem": "Raiha",
+      "texto_en": "I wonder how many fish are in here?",
+      "texto_ptbr": "Será que tem quantos peixinhos aqui dentro?"
+    },
+    {
+      "id": 13,
+      "personagem": "Yotsuba",
+      "texto_en": "Alrighty, let's count them!",
+      "texto_ptbr": "Então bora contar!"
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "Um, isn't that a bit reckless?",
+      "texto_ptbr": "Hm, não é um pouco ambicioso demais?"
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "Even just looking at this tank\\ncould take up all our time,\\nbut there are so many other things to see.",
+      "texto_ptbr": "Só de ficar olhando pra esse tanque\\npoderia tomar todo o nosso tempo,\\nmas tem tanta coisa pra ver aqui."
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, and as for the attractions,\\nwe can view this large tank from above.",
+      "texto_ptbr": "Sim, e uma das atrações daqui\\né ver esse tanque imenso lá de cima."
+    },
+    {
+      "id": 17,
+      "personagem": "Miku",
+      "texto_en": "From above? That sounds interesting.",
+      "texto_ptbr": "De cima? Deve ser interessante."
+    },
+    {
+      "id": 18,
+      "personagem": "Yotsuba",
+      "texto_en": "I heard there's also\\nan exhibit of deep-sea fish over there.",
+      "texto_ptbr": "Ouvi dizer que também tem\\numa exposição de peixes das profundezas ali."
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "I want to take a closer look\\nat the tropical fish tank we saw earlier.",
+      "texto_ptbr": "Quero ver de pertinho\\no aquário de peixes tropicais que a gente viu antes."
+    },
+    {
+      "id": 20,
+      "personagem": "Ichika",
+      "texto_en": "Oh dear, it seems like\\nwe all want to see different things again.",
+      "texto_ptbr": "Aí, aí, parece que\\nde novo cada uma quer ver uma coisa diferente."
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Then let's just wander around the aquarium on our own.",
+      "texto_ptbr": "Então cada um vai por conta pelo aquário."
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "Alright.\\nThen let's meet up here afterwards.",
+      "texto_ptbr": "Combinado.\\nEntão a gente se encontra aqui depois."
+    },
+    {
+      "id": 23,
+      "personagem": "Raiha",
+      "texto_en": "Okaaay!",
+      "texto_ptbr": "Combinaado!"
+    },
+    {
+      "id": 24,
+      "personagem": "Ichika",
+      "texto_en": "What about you, Futaro-kun?\\nIs there anywhere you want to go?",
+      "texto_ptbr": "E você, Futaro-kun?\\nTem algum lugar que quer ir?"
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Honestly, I'm still feeling tired from this morning.\\nI don't really feel like moving around much, so I was\\nthinking of chilling here and watching the large tank.",
+      "texto_ptbr": "Honestamente, ainda tô destruído de hoje de manhã.\\nNão tô com vontade de ficar andando muito, então tava\\npensando em ficar aqui sossegado assistindo o tanque."
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "Well, in that case,\\nI researched a special spot beforehand.\\nWhy don't we go there?",
+      "texto_ptbr": "Bom, nesse caso,\\neu pesquisei um lugar especial antes de vir.\\nQue tal a gente ir lá?"
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "A special spot?",
+      "texto_ptbr": "Um lugar especial?"
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "Hooray, we got such a great spot to sit at.\\nWe hit the jackpot, didn't we?",
+      "texto_ptbr": "Eba, a gente conseguiu um lugar incrível pra sentar.\\nTivemos sorte, né?"
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Right in front of the large tank.\\nIt really feels like we're underwater here.\\nI can understand why you call it a special spot.",
+      "texto_ptbr": "Bem na frente do tanque imenso.\\nParece mesmo que a gente tá embaixo d'água aqui.\\nEntendo por que você chama de lugar especial."
+    },
+    {
+      "id": 30,
+      "personagem": "Ichika",
+      "texto_en": "I know, riiight? I thought it would be amazing\\nto sit here when I was doing my research.\\nWe're really lucky to have found it.",
+      "texto_ptbr": "Né, né? Pensei que ia ser incrível\\nsentar aqui quando tava pesquisando.\\nA gente teve muita sorte de conseguir."
+    },
+    {
+      "id": 31,
+      "personagem": "Ichika",
+      "texto_en": "Well, let's order some food for now.",
+      "texto_ptbr": "Bom, vamos pedir alguma coisa pra comer."
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "It feels like...I could lose track of time here.",
+      "texto_ptbr": "Parece que...dá pra ficar aqui esquecendo o tempo."
+    },
+    {
+      "id": 33,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, I could watch this foreeever.",
+      "texto_ptbr": "É, dá pra ficar olhando pra isso pra sempre."
+    },
+    {
+      "id": 34,
+      "personagem": "Ichika",
+      "texto_en": "Oh? What kind of fish\\nwas that school that just swam by?",
+      "texto_ptbr": "Oh? Que tipo de peixe\\nera aquele cardume que passou agora?"
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "That was probably the giant trevally,\\npopular among anglers.",
+      "texto_ptbr": "Provavelmente era o xaréu-gigante,\\nmuito popular entre os pescadores."
+    },
+    {
+      "id": 36,
+      "personagem": "Ichika",
+      "texto_en": "Oh, it's a type of jackfish.\\nIt looks so different from the ones you see in the markets.\\nBut maybe it's delicious, since it's a jackfish?",
+      "texto_ptbr": "Ah, é um tipo de xaréu.\\nParece tão diferente dos que a gente vê nas peixarias.\\nMas será que é gostoso, já que é xaréu?"
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "I wonder.\\nI've never tasted it before.",
+      "texto_ptbr": "Não sei.\\nNunca provei."
+    },
+    {
+      "id": 38,
+      "personagem": "Ichika",
+      "texto_en": "Well, even if you had,\\nyour assessment of the flavor would be questionable.",
+      "texto_ptbr": "Bom, mesmo que tivesse provado,\\nsua avaliação do sabor seria duvidosa."
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Leave me alone.",
+      "texto_ptbr": "Me deixa em paz."
+    },
+    {
+      "id": 40,
+      "personagem": "Ichika",
+      "texto_en": "Do you know any other types of fish?",
+      "texto_ptbr": "Você conhece outros tipos de peixe?"
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Well, there are a few, but...\\nI don't know most kinds, to be honest.",
+      "texto_ptbr": "Bem, conheço alguns, mas...\\nA maioria eu não conheço, pra ser honesto."
+    },
+    {
+      "id": 42,
+      "personagem": "Ichika",
+      "texto_en": "Wow, even you don't know some of them, Futaro-kun?\\nIs it because there are so many different types?",
+      "texto_ptbr": "Nossa, até você não conhece alguns, Futaro-kun?\\nSeria porque existem tipos demais?"
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "No, I just don't really know much about fish species.\\nIt's not like it's going to be on a test or anything.",
+      "texto_ptbr": "Não, é que não sei muito sobre espécies de peixe mesmo.\\nNão é como se fosse cair numa prova."
+    },
+    {
+      "id": 44,
+      "personagem": "Ichika",
+      "texto_en": "Haha, yeah, I guess you're right.\\nNino and Raiha-chan\\nprobably know more about fish than we do.",
+      "texto_ptbr": "Haha, é, acho que é verdade.\\nNino e Raiha-chan\\nprovavelmente sabem mais de peixe do que a gente."
+    },
+    {
+      "id": 45,
+      "personagem": "Ichika",
+      "texto_en": "So, what other kinds of fish%p-2;――%p; wow!",
+      "texto_ptbr": "Então, que outros tipos de peixe%p-2;――%p; nossa!"
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "You're a bit too surprised,\\njust because a manta ray swam by.",
+      "texto_ptbr": "Você se assustou demais\\nsó porque uma raia manta passou."
+    },
+    {
+      "id": 47,
+      "personagem": "Ichika",
+      "texto_en": "Of course I'd be surprised!\\nIt came out of nowhere!",
+      "texto_ptbr": "Claro que ia me assustar!\\nVeio do nada!"
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "If you look closely at this tank,\\nthere are a few creatures that look like manta rays,\\nbut they all seem slightly different.",
+      "texto_ptbr": "Se você olhar com atenção pra esse tanque,\\ntem umas criaturas que parecem raia manta,\\nmas todas parecem um pouquinho diferentes."
+    },
+    {
+      "id": 49,
+      "personagem": "Ichika",
+      "texto_en": "Hmm? Now that you mention it, you're right.\\nLet me look it up on my phone real quick.",
+      "texto_ptbr": "Hmm? Agora que você falou, é verdade.\\nDeixa eu pesquisar rápido no celular."
+    },
+    {
+      "id": 50,
+      "personagem": "Ichika",
+      "texto_en": "Let's see, apparently, mantas swim near the surface of\\nthe ocean and eat plankton. On the other hand,\\nstingrays eat things like clams near the ocean floor.",
+      "texto_ptbr": "Vamos ver, aparentemente, as raias manta nadam perto da superfície\\ndo oceano e comem plâncton. Já as arraias\\ncomem coisas como mariscos no fundo do mar."
+    },
+    {
+      "id": 51,
+      "personagem": "Ichika",
+      "texto_en": "Oh, you can tell them apart just by their appearance.\\nLook, a picture comparison came up.",
+      "texto_ptbr": "Ah, dá pra diferenciar só pela aparência.\\nOlha, apareceu uma comparação com fotos."
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Hmm? Let me see, now?",
+      "texto_ptbr": "Hmm? Deixa eu ver?"
+    },
+    {
+      "id": 53,
+      "personagem": "Ichika",
+      "texto_en": "!",
+      "texto_ptbr": "!"
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "Oh, I see.\\nTheir facial features are different\\nbecause they have different diets.",
+      "texto_ptbr": "Ah, entendo.\\nAs feições delas são diferentes\\nporque têm dietas diferentes."
+    },
+    {
+      "id": 55,
+      "personagem": "Ichika",
+      "texto_en": "I-I see.",
+      "texto_ptbr": "E-entendo."
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "Huh?\\nWhat's wrong%p-2;――",
+      "texto_ptbr": "Hã?\\nO que foi%p-2;――"
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "S-sorry! You got too close!",
+      "texto_ptbr": "D-desculpa! Você chegou perto demais!"
+    },
+    {
+      "id": 58,
+      "personagem": "Ichika",
+      "texto_en": "No, it's okay.",
+      "texto_ptbr": "Não, tudo bem."
+    },
+    {
+      "id": 59,
+      "personagem": "Ichika",
+      "texto_en": "...I was just thinking.\\nThis sort of thing...\\nIt's like we're together, you know?",
+      "texto_ptbr": "...Tava só pensando.\\nEsse tipo de coisa...\\nÉ como se a gente estivesse junto, sabe?"
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "W-well, I guess.\\nIt just feels like\\nI can't get used to it...or something...",
+      "texto_ptbr": "B-bem, acho que sim.\\nÉ que parece que\\nnão consigo me acostumar...não sei..."
+    },
+    {
+      "id": 61,
+      "personagem": "Ichika",
+      "texto_en": "I have a feeling I'll never really get used to this.\\nMy feelings for you, I mean...",
+      "texto_ptbr": "Tenho a sensação de que nunca vou me acostumar com isso.\\nOs meus sentimentos por você, quero dizer..."
+    },
+    {
+      "id": 62,
+      "personagem": "Ichika",
+      "texto_en": "Gosh, look at me.\\nSorry, I didn't mean to get all embarrassing like that.",
+      "texto_ptbr": "Nossa, olha eu.\\nDesculpa, não era pra ter ficado assim, toda sem graça."
+    },
+    {
+      "id": 63,
+      "personagem": "Ichika",
+      "texto_en": "Alrighty! Let's have a contest to see\\nwho can tell the difference between\\nmanta rays and stingrays better!",
+      "texto_ptbr": "Tá bom! Vamos fazer uma competição pra ver\\nquem consegue distinguir melhor\\nas raias manta das arraias!"
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah! Bring it on!",
+      "texto_ptbr": "P-pode vir!"
+    },
+    {
+      "id": 65,
+      "personagem": "Employee",
+      "texto_en": "That's all for your order.\\nPlease take your time and enjoy.",
+      "texto_ptbr": "Aqui está seu pedido.\\nFique à vontade e aproveite."
+    },
+    {
+      "id": 66,
+      "personagem": "Ichika",
+      "texto_en": "Thaaank you very much.",
+      "texto_ptbr": "Muiiiito obrigada."
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "Ichika, is that latte art or somethin' on your drink?",
+      "texto_ptbr": "Ichika, isso na sua bebida é latte art ou o quê?"
+    },
+    {
+      "id": 68,
+      "personagem": "Ichika",
+      "texto_en": "I'm not sure what kinda fish,\\nbut there are so many cute little fishies here.\\nIt's so nice to receive this kind of hospitality.",
+      "texto_ptbr": "Não sei bem que tipo de peixe é,\\nmas tem vários peixinhos fofos aqui.\\nQue atencioso da parte deles."
+    },
+    {
+      "id": 69,
+      "personagem": "Ichika",
+      "texto_en": "Oh, I'll take a picture.",
+      "texto_ptbr": "Ah, vou tirar uma foto."
+    },
+    {
+      "id": 70,
+      "personagem": "Ichika",
+      "texto_en": "And, upload it...",
+      "texto_ptbr": "E, postar..."
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "Upload?",
+      "texto_ptbr": "Postar?"
+    },
+    {
+      "id": 72,
+      "personagem": "Ichika",
+      "texto_en": "Upload it onto social media.\\nHave you never used it before, Futaro-kun?",
+      "texto_ptbr": "Postar nas redes sociais.\\nVocê nunca usou, Futaro-kun?"
+    },
+    {
+      "id": 73,
+      "personagem": "Futaro",
+      "texto_en": "I don't know how to use it.",
+      "texto_ptbr": "Não sei usar."
+    },
+    {
+      "id": 74,
+      "personagem": "Ichika",
+      "texto_en": "Whaaat?\\nIt's convenient for us to keep in touch, \\nso hurry up and learn it already.",
+      "texto_ptbr": "Sério?!\\nFacilita muito pra gente se falar, \\nentão aprende logo."
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "I just find it bothersome.\\nBesides, if amateurs meddle with it,\\nthey might fall for scams, right?",
+      "texto_ptbr": "Acho muito chato.\\nAlém disso, se amadores ficarem mexendo nisso,\\npodem cair em golpe, né?"
+    },
+    {
+      "id": 76,
+      "personagem": "Ichika",
+      "texto_en": "Pff! Ahaha!\\nAre you serious, Futaro-kun?",
+      "texto_ptbr": "Pfff! Ahahaha!\\nTá falando sério, Futaro-kun?"
+    },
+    {
+      "id": 77,
+      "personagem": "Futaro",
+      "texto_en": "Obviously?",
+      "texto_ptbr": "Obviamente?"
+    },
+    {
+      "id": 78,
+      "personagem": "Ichika",
+      "texto_en": "Oh, I see.\\nYou're sometimes overly cautious,\\neven though you can be incredibly bold too.",
+      "texto_ptbr": "Ah, entendo.\\nÀs vezes você é excessivamente cauteloso,\\nmesmo sendo capaz de ser incrivelmente ousado também."
+    },
+    {
+      "id": 79,
+      "personagem": "Ichika",
+      "texto_en": "If you're careful, you'll be safe from scams.\\nSo why not give it a try? No pressure.",
+      "texto_ptbr": "Se tiver cuidado, não vai cair em golpe.\\nEntão por que não tentar? Sem pressão."
+    },
+    {
+      "id": 80,
+      "personagem": "Futaro",
+      "texto_en": "You think so?",
+      "texto_ptbr": "Acha mesmo?"
+    },
+    {
+      "id": 81,
+      "personagem": "Futaro",
+      "texto_en": "(Maybe I should give social media a shot.)",
+      "texto_ptbr": "(Talvez eu deva tentar as redes sociais.)"
+    },
+    {
+      "id": 82,
+      "personagem": "Futaro",
+      "texto_en": "Can't we just text?\\nThat should be enough for communication.",
+      "texto_ptbr": "Não dá pra usar mensagem mesmo?\\nJá basta pra se comunicar."
+    },
+    {
+      "id": 83,
+      "personagem": "Ichika",
+      "texto_en": "That's so like you, Futaro-kun.\\nOf course, we can use email to stay in touch, but%p-2;――",
+      "texto_ptbr": "Isso é tão você, Futaro-kun.\\nClaro que dá pra usar mensagem pra se falar, mas%p-2;――"
+    },
+    {
+      "id": 84,
+      "personagem": "Ichika",
+      "texto_en": "Social media is easier,\\nso you might feel like contacting me\\njust for trivial things.",
+      "texto_ptbr": "As redes sociais são mais fáceis,\\naí você pode ter vontade de me mandar mensagem\\npor qualquer coisinha."
+    },
+    {
+      "id": 85,
+      "personagem": "Ichika",
+      "texto_en": "I'd be happy if I could have a casual chat with you,\\neven when we're far apart.",
+      "texto_ptbr": "Ia ser ótimo poder bater um papo descontraído com você,\\nmesmo quando a gente estiver longe."
+    },
+    {
+      "id": 86,
+      "personagem": "Futaro",
+      "texto_en": "If you put it that way... Sounds good.",
+      "texto_ptbr": "Se você colocar assim... Parece bom."
+    },
+    {
+      "id": 87,
+      "personagem": "Futaro",
+      "texto_en": "(Maybe I should give social media a shot.)",
+      "texto_ptbr": "(Talvez eu deva tentar as redes sociais.)"
+    },
+    {
+      "id": 88,
+      "personagem": "Futaro",
+      "texto_en": "Well, that's the plan.\\nIt seems convenient in some way.",
+      "texto_ptbr": "Bom, então é isso.\\nParece conveniente de algum jeito."
+    },
+    {
+      "id": 89,
+      "personagem": "Ichika",
+      "texto_en": "Oh my, impressive, impressive.\\nIt makes me happy\\nto see you taking initiative, Futaro-kun.",
+      "texto_ptbr": "Nossa, que surpresa.\\nFica me deixando feliz\\nver você tomando iniciativa assim, Futaro-kun."
+    },
+    {
+      "id": 90,
+      "personagem": "Futaro",
+      "texto_en": "There's nothing wrong\\nwith making it easier to stay in touch.",
+      "texto_ptbr": "Não tem nada de errado\\nem facilitar pra se falar."
+    },
+    {
+      "id": 91,
+      "personagem": "Ichika",
+      "texto_en": "Then, when you start using it,\\nlet's create a group chat just for the two of us.",
+      "texto_ptbr": "Então, quando você começar a usar,\\na gente cria um grupo só pra nós dois."
+    },
+    {
+      "id": 92,
+      "personagem": "Futaro",
+      "texto_en": "A group ch—? What?",
+      "texto_ptbr": "Um grup—? O quê?"
+    },
+    {
+      "id": 93,
+      "personagem": "Ichika",
+      "texto_en": "I'll explain all of that to you,\\nstep by step.",
+      "texto_ptbr": "Vou te explicar tudo isso\\nnum passo de cada vez."
+    },
+    {
+      "id": 94,
+      "personagem": "Futaro",
+      "texto_en": "Okay, that's a relief.",
+      "texto_ptbr": "Tá bom, que bom."
+    },
+    {
+      "id": 95,
+      "personagem": "Futaro",
+      "texto_en": "(Maybe I should give social media a shot.)",
+      "texto_ptbr": "(Talvez eu deva tentar as redes sociais.)"
+    },
+    {
+      "id": 96,
+      "personagem": "Futaro",
+      "texto_en": "...Phew.",
+      "texto_ptbr": "...Ufa."
+    },
+    {
+      "id": 97,
+      "personagem": "Futaro",
+      "texto_en": "(Giving more effort just to communicate \\n with other people, huh?\\n I never thought I'd see the day%p-2;――%p;)",
+      "texto_ptbr": "(Fazer mais esforço só pra me comunicar\\n com outras pessoas, hein?\\n Nunca pensei que ia chegar esse dia%p-2;――%p;)"
+    },
+    {
+      "id": 98,
+      "personagem": "Futaro",
+      "texto_en": "(I've changed a lot, surprisingly.\\n But this is good. No, this is great.)",
+      "texto_ptbr": "(Mudei bastante, surpreendentemente.\\n Mas isso é bom. Não, isso é ótimo.)"
+    },
+    {
+      "id": 99,
+      "personagem": "Futaro",
+      "texto_en": "All right, I'll take some photos too!\\nThey'll come in handy when I start social media!",
+      "texto_ptbr": "Tá bom, vou tirar umas fotos também!\\nVão ser úteis quando eu começar nas redes sociais!"
+    },
+    {
+      "id": 100,
+      "personagem": "Ichika",
+      "texto_en": "Oh? You're motivated.\\nI'm looking forward to the messages you'll send me.",
+      "texto_ptbr": "Oh? Ficou animado.\\nTô curiosa pras mensagens que você vai me mandar."
+    }
+  ]
+}

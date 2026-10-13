@@ -1,0 +1,75 @@
+{
+  "arquivo": "ca01_mv5_02",
+  "total": 7,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "それは残念です。\\n行ってみたかったですね。",
+      "texto_en": "That's a shame.\\nI really wanted to go.",
+      "texto_ptbr": "Que pena.\\nTinha vontade mesmo de ir."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "まあ、仕方ないだろ",
+      "texto_en": "Well, it can't be helped.",
+      "texto_ptbr": "Bom, não dá pra evitar.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "夏のことを思い出すな……",
+      "texto_en": "It reminds me of last summer...",
+      "texto_ptbr": "Isso me lembra o verão...",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "次の楽しみだな",
+      "texto_en": "It's something to look forward to next time.",
+      "texto_ptbr": "Fica como algo pra esperar da próxima vez.",
+      "selidx": 2
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "アラハビーチＣ:一花:二乃",
+      "texto_en": "Araha Beach C: Ichika/Nino",
+      "texto_ptbr": "Araha Beach C: Ichika/Nino",
+      "selidx": 0
+    },
+    {
+      "id": 5,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "アラハビーチＢ:三玖:四葉",
+      "texto_en": "Araha Beach B: Miku/Yotsuba",
+      "texto_ptbr": "Araha Beach B: Miku/Yotsuba",
+      "selidx": 1
+    },
+    {
+      "id": 6,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "アラハビーチＡ:五月:らいは",
+      "texto_en": "Araha Beach A: Itsuki/Raiha",
+      "texto_ptbr": "Araha Beach A: Itsuki/Raiha",
+      "selidx": 2
+    }
+  ]
+}

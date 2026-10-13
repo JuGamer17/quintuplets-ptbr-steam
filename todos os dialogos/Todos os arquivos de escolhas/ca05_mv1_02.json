@@ -1,0 +1,75 @@
+{
+  "arquivo": "ca05_mv1_02",
+  "total": 7,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ほらほら上杉さん！\\n彼女が答えて欲しそうですよ？　どうぞ！",
+      "texto_en": "Come on, Uesugi-san!\\nShe wants your opinion! Do tell!",
+      "texto_ptbr": "Vamos lá, Uesugi-san!\\nEla quer a sua opinião! Fala logo!"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "……悪くないと思う",
+      "texto_en": "...It's not bad.",
+      "texto_ptbr": "...Acho que não tá ruim.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "なんか新鮮だ",
+      "texto_en": "It's kind of a fresh look.",
+      "texto_ptbr": "É meio diferente, uma novidade.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "すごく似合うぞ",
+      "texto_en": "It looks really good on you.",
+      "texto_ptbr": "Combina muito com você.",
+      "selidx": 2
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "お土産屋:一花:らいは",
+      "texto_en": "Souvenir Shop: Ichika/Raiha",
+      "texto_ptbr": "Loja de Souvenirs: Ichika/Raiha",
+      "selidx": 0
+    },
+    {
+      "id": 5,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "裏通り:四葉",
+      "texto_en": "Back Street: Yotsuba",
+      "texto_ptbr": "Rua dos Fundos: Yotsuba",
+      "selidx": 1
+    },
+    {
+      "id": 6,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "ショップＢ:二乃:三玖",
+      "texto_en": "Shop B: Nino/Miku",
+      "texto_ptbr": "Loja B: Nino/Miku",
+      "selidx": 2
+    }
+  ]
+}

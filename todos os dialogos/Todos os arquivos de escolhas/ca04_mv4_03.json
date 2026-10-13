@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca04_mv4_03",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ってことは、これも緑茶なんだ。",
+      "texto_en": "So, this is also green tea.",
+      "texto_ptbr": "Então, esse também é chá verde."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "なかなかにややこしいな",
+      "texto_en": "That's pretty complicated.",
+      "texto_ptbr": "É bem complicado.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "香りを付けるとなにか効果があるのか？",
+      "texto_en": "Does adding a fragrance have an effect?",
+      "texto_ptbr": "Colocar fragrância tem algum efeito?",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "緑茶のポテンシャルには驚くな",
+      "texto_en": "I'm impressed by the potential of green tea.",
+      "texto_ptbr": "O potencial do chá verde é impressionante.",
+      "selidx": 2
+    }
+  ]
+}

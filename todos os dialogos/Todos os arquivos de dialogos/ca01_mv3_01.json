@@ -1,0 +1,438 @@
+{
+  "arquivo": "ca01_mv3_01",
+  "total": 72,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Ichika",
+      "texto_en": "Yesterday, we went shopping,\\nbut taking a slow walk like this is nice too.",
+      "texto_ptbr": "Ontem a gente foi fazer compras,\\nmas passear devagar assim também é bom."
+    },
+    {
+      "id": 1,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, the wind feels great.",
+      "texto_ptbr": "É, o vento tá uma delícia."
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Yo, what have you two been up to?",
+      "texto_ptbr": "E aí, o que vocês duas tavam fazendo?"
+    },
+    {
+      "id": 3,
+      "personagem": "Ichika",
+      "texto_en": "Oh, Futaro-kun.\\nAs you can see, we're just taking a leisurely walk.\\nWe also hit a dead end with our souvenir search.",
+      "texto_ptbr": "Ah, Futaro-kun.\\nComo você pode ver, a gente tá só dando uma caminhada tranquila.\\nTambém chegamos num beco sem saída na busca pelo souvenir."
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "It seems so...",
+      "texto_ptbr": "Parece que sim..."
+    },
+    {
+      "id": 5,
+      "personagem": "Yotsuba",
+      "texto_en": "What kind of thing would be good I wonder?\\nI've been thinking so much\\nthat I don't even know anymore.",
+      "texto_ptbr": "Que tipo de coisa seria boa, será?\\nFiquei pensando tanto\\nque já nem sei mais."
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "I thought it would be easier to decide\\nif I suggested it.",
+      "texto_ptbr": "Achei que ficaria mais fácil decidir\\nse eu desse uma sugestão."
+    },
+    {
+      "id": 7,
+      "personagem": "Ichika",
+      "texto_en": "Maybe we're being too cautious? Maybe it's better\\nto just choose something casually.",
+      "texto_ptbr": "Talvez a gente esteja sendo cautelosa demais? Talvez seja melhor\\nsó escolher algo sem pensar tanto."
+    },
+    {
+      "id": 8,
+      "personagem": "Yotsuba",
+      "texto_en": "Hmmm, there are times\\nwhen momentum is surprisingly important.",
+      "texto_ptbr": "Hmmm, tem horas\\nem que o impulso é surpreendentemente importante."
+    },
+    {
+      "id": 9,
+      "personagem": "Yotsuba",
+      "texto_en": "If I had to impulsively decide on something,\\nit would be on one of the stuffed animals at the\\naquarium shop!",
+      "texto_ptbr": "Se eu tivesse que decidir por impulso,\\nseriam um dos pelúcias da loja\\ndo aquário!"
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Oh yeah, there were a lot of them.\\nThey ranged in size from palm-sized to large ones.",
+      "texto_ptbr": "Ah é, tinha bastante mesmo.\\nIam desde os tamanho da palma da mão até os grandões."
+    },
+    {
+      "id": 11,
+      "personagem": "Yotsuba",
+      "texto_en": "It was like heaven.\\nSo many soft and fluffy stuffed animals.",
+      "texto_ptbr": "Era o paraíso.\\nTantos pelúcias macios e fofos."
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "The manta ray stuffed animal was so cute.\\nI might want that one.",
+      "texto_ptbr": "O pelúcia de arraia era tão fofo.\\nAcho que eu quero aquele."
+    },
+    {
+      "id": 13,
+      "personagem": "Yotsuba",
+      "texto_en": "Definitely! I'm going for the WHALE SHARK!",
+      "texto_ptbr": "Com certeza! Eu vou de TUBARÃO-BALEIA!"
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "The whale shark, huh?\\nThe biggest one was about the size of Raiha-chan.",
+      "texto_ptbr": "O tubarão-baleia, hein?\\nO maior tinha o tamanho da Raiha-chan."
+    },
+    {
+      "id": 15,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, yeah! That one is my favorite!",
+      "texto_ptbr": "Isso, esse! Esse é o meu favorito!"
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Well, buying such a big stuffed animal\\nwill just make your room smaller.",
+      "texto_ptbr": "Bom, comprar um pelúcia tão grande\\nvai só deixar seu quarto mais apertado."
+    },
+    {
+      "id": 17,
+      "personagem": "Yotsuba",
+      "texto_en": "Is that so? Isn't it like having\\none more family member to greet you?",
+      "texto_ptbr": "Acha mesmo? Não é como ter\\nmais um membro da família te recebendo?"
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "It depends on how you look at it...",
+      "texto_ptbr": "Depende do ponto de vista..."
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "Well then, Uesugi-san. Imagine yourself living alone.",
+      "texto_ptbr": "Então, Uesugi-san. Imagine você morando sozinho."
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*",
+      "texto_ptbr": "*suspiro*"
+    },
+    {
+      "id": 21,
+      "personagem": "Yotsuba",
+      "texto_en": "You come home tired, but there's no one there\\nwaiting for you in the dark room...",
+      "texto_ptbr": "Você chega em casa cansado, mas não tem ninguém\\nte esperando no quarto escuro..."
+    },
+    {
+      "id": 22,
+      "personagem": "Yotsuba",
+      "texto_en": "However, if there's a big stuffed animal there\\nto greet you, wouldn't that make you feel better?",
+      "texto_ptbr": "Mas, se tivesse um pelúcia grandão lá\\npra te receber, não ficaria melhor?"
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*",
+      "texto_ptbr": "*suspiro*"
+    },
+    {
+      "id": 24,
+      "personagem": "Yotsuba",
+      "texto_en": "How about it, Uesugi-san?\\nDo you want one now?\\nWouldn't it be nice to be greeted by it?",
+      "texto_ptbr": "E aí, Uesugi-san?\\nAgora você quer um?\\nNão seria bom ser recebido por ele?"
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "I'm also curious about that.\\nFutaro-kun, would you be happy to be greeted by one?",
+      "texto_ptbr": "Eu também tô curiosa.\\nFutaro-kun, você ficaria feliz sendo recebido por um?"
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "I don't really need anything to greet me.",
+      "texto_ptbr": "Não preciso de nada pra me receber."
+    },
+    {
+      "id": 27,
+      "personagem": "Yotsuba",
+      "texto_en": "Whaaa?",
+      "texto_ptbr": "Queee?"
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "Don't make that face.\\nThat's just how living alone is.",
+      "texto_ptbr": "Não faz essa cara.\\nÉ assim mesmo quando você mora sozinho."
+    },
+    {
+      "id": 29,
+      "personagem": "Yotsuba",
+      "texto_en": "But if you keep saying that,\\nyou'll definitely feel lonely\\nonce you start living alone.",
+      "texto_ptbr": "Mas se você continuar falando assim,\\nvai se sentir sozinho com certeza\\nquando começar a morar sozinho."
+    },
+    {
+      "id": 30,
+      "personagem": "Yotsuba",
+      "texto_en": "And then you'll regret it.",
+      "texto_ptbr": "E aí vai se arrepender."
+    },
+    {
+      "id": 31,
+      "personagem": "Yotsuba",
+      "texto_en": "Aah, if only I had bought\\nthat big whale shark!\\nWhat a fool I was!",
+      "texto_ptbr": "Aah, se eu tivesse comprado\\naquele tubarão-baleia grandão!\\nQue idiota que eu fui!"
+    },
+    {
+      "id": 32,
+      "personagem": "Yotsuba",
+      "texto_en": "That's what you'll say.",
+      "texto_ptbr": "É isso que você vai falar."
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "There's no need for that.\\nDon't act so weird.",
+      "texto_ptbr": "Não precisa disso.\\nPara de ser esquisita."
+    },
+    {
+      "id": 34,
+      "personagem": "Ichika",
+      "texto_en": "Ahaha, I can tell\\nthat you're suited for living alone, Futaro-kun.",
+      "texto_ptbr": "Ahahaha, dá pra ver\\nque você tem jeito pra morar sozinho, Futaro-kun."
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Well, let's forget about that for now%p-2;――",
+      "texto_ptbr": "Bom, vamos esquecer isso por agora%p-2;――"
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Just having a stuffed animal\\nas a souvenir is good too.",
+      "texto_ptbr": "Um pelúcia como souvenir\\ntambém é uma boa."
+    },
+    {
+      "id": 37,
+      "personagem": "Yotsuba",
+      "texto_en": "Yay! My idea is being used!\\nShould we go see the shop again?",
+      "texto_ptbr": "Eba! Minha ideia foi usada!\\nA gente vai ver a loja de novo?"
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "I'd be more surprised than anything.",
+      "texto_ptbr": "Eu ficaria surpreso, mais do que qualquer coisa."
+    },
+    {
+      "id": 39,
+      "personagem": "Ichika",
+      "texto_en": "Why?",
+      "texto_ptbr": "Por quê?"
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "I might think someone entered my room.\\nIf I were to see it in a dark room,\\nit might really look like a human.",
+      "texto_ptbr": "Eu poderia achar que alguém entrou no meu quarto.\\nSe eu visse aquilo num quarto escuro,\\npoderia parecer muito com uma pessoa."
+    },
+    {
+      "id": 41,
+      "personagem": "Ichika",
+      "texto_en": "Right, it might happen when you least expect it.",
+      "texto_ptbr": "É, pode acontecer quando você menos espera."
+    },
+    {
+      "id": 42,
+      "personagem": "Ichika",
+      "texto_en": "Ah, but on the other hand,\\nit could also be a security measure, you know?",
+      "texto_ptbr": "Ah, mas por outro lado,\\ntambém pode funcionar como medida de segurança, sabe?"
+    },
+    {
+      "id": 43,
+      "personagem": "Ichika",
+      "texto_en": "A giant mysterious shadow in a room\\nthat someone thought was empty! A thief panicking\\nand running away! Just kidding.",
+      "texto_ptbr": "Uma sombra misteriosa gigante num quarto\\nque alguém achou que estava vazio! Um ladrão em pânico\\ncorrendo pra fora! Brincadeira."
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "But, I don't even want anyone breaking in in\\nthe first place.",
+      "texto_ptbr": "Mas, nem quero que ninguém invada minha casa\\npara começo de conversa."
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "Well, let's forget about that for now%p-2;――",
+      "texto_ptbr": "Bom, vamos esquecer isso por agora%p-2;――"
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Just having a stuffed animal\\nas a souvenir is good too.",
+      "texto_ptbr": "Um pelúcia como souvenir\\ntambém é uma boa."
+    },
+    {
+      "id": 47,
+      "personagem": "Yotsuba",
+      "texto_en": "Yay! My idea is being used!\\nShould we go see the shop again?",
+      "texto_ptbr": "Eba! Minha ideia foi usada!\\nA gente vai ver a loja de novo?"
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "I guess a greeting would be nice.",
+      "texto_ptbr": "Acho que seria bom ter algo pra me receber."
+    },
+    {
+      "id": 49,
+      "personagem": "Ichika",
+      "texto_en": "I thought so.\\nSo, what kind of welcome\\nwould make you happy, Futaro-kun?",
+      "texto_ptbr": "Achei que sim.\\nEntão, que tipo de recepção\\nte deixaria feliz, Futaro-kun?"
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "What do you mean...? Isn't it obvious?",
+      "texto_ptbr": "O que você quer dizer...? Não é óbvio?"
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "I'm happy as long as Raiha welcomes me.\\nI don't really care about what form it takes.",
+      "texto_ptbr": "Fico feliz desde que a Raiha me receba.\\nNão ligo muito pra forma como isso acontece."
+    },
+    {
+      "id": 52,
+      "personagem": "Ichika",
+      "texto_en": "O-oh, that's what you're talking about?",
+      "texto_ptbr": "A-ah, é isso que você tá falando?"
+    },
+    {
+      "id": 53,
+      "personagem": "Ichika",
+      "texto_en": "Weeell, I can't be Raiha-chan.\\nSo, maybe I'll go with a little sister character...\\nNo, that's not quite it.",
+      "texto_ptbr": "Beeom, eu não posso ser a Raiha-chan.\\nEntão, talvez eu tentasse o papel de irmã mais nova...\\nNão, não é bem isso."
+    },
+    {
+      "id": 54,
+      "personagem": "Yotsuba",
+      "texto_en": "Ichika?",
+      "texto_ptbr": "Ichika?"
+    },
+    {
+      "id": 55,
+      "personagem": "Ichika",
+      "texto_en": "Ah, it's nothing!",
+      "texto_ptbr": "Ah, não é nada!"
+    },
+    {
+      "id": 56,
+      "personagem": "Ichika",
+      "texto_en": "We've got to wean you off of Raiha-chan soon,\\ndon't we?",
+      "texto_ptbr": "A gente precisa te desapegar da Raiha-chan logo,\\nnão é?"
+    },
+    {
+      "id": 57,
+      "personagem": "Yotsuba",
+      "texto_en": "That's right!\\nLeave Raiha-chan to me.",
+      "texto_ptbr": "É mesmo!\\nDeixa a Raiha-chan comigo."
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "Why?",
+      "texto_ptbr": "Por quê?"
+    },
+    {
+      "id": 59,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, if you and Ichika get married, Uesugi-san,\\nthen Raiha-chan would be Ichika's sister,\\nso my sister as well.",
+      "texto_ptbr": "Bom, se você e a Ichika se casarem, Uesugi-san,\\naí a Raiha-chan seria irmã da Ichika,\\ne minha irmã também."
+    },
+    {
+      "id": 60,
+      "personagem": "Ichika",
+      "texto_en": "Y-Yotsuba,\\naren't you getting ahead of yourself a bit?!",
+      "texto_ptbr": "Y-Yotsuba,\\nvocê não tá pulando etapas demais?!"
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "Well, let's forget about that for now%p-2;――",
+      "texto_ptbr": "Bom, vamos esquecer isso por agora%p-2;――"
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "Just having a stuffed animal\\nas a souvenir is good too.",
+      "texto_ptbr": "Um pelúcia como souvenir\\ntambém é uma boa."
+    },
+    {
+      "id": 63,
+      "personagem": "Yotsuba",
+      "texto_en": "Yay! My idea is being used!\\nShould we go see the shop again?",
+      "texto_ptbr": "Eba! Minha ideia foi usada!\\nA gente vai ver a loja de novo?"
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "Wait a minute Yotsuba, \\nwe're just talking it about being\\na potential option at the moment.",
+      "texto_ptbr": "Espera, Yotsuba, \\nestamos apenas discutindo isso como\\numa possível opção por enquanto."
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "I feel like the number of options\\nhas increased since yesterday...",
+      "texto_ptbr": "Parece que o número de opções\\naumentou desde ontem..."
+    },
+    {
+      "id": 66,
+      "personagem": "Ichika",
+      "texto_en": "Having a wide range of choices\\nis good, isn't it?",
+      "texto_ptbr": "Ter uma variedade grande de opções\\né bom, não é?"
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "Indeed, if we've come this far so, we might as well\\nthink hard about it until the very end. If we choose\\nsomething like that, anything should be fine.",
+      "texto_ptbr": "De fato, se chegamos até aqui, bem que podemos\\npensar bastante até o final. Se escolhermos\\nalgo assim, qualquer coisa deve servir."
+    },
+    {
+      "id": 68,
+      "personagem": "Yotsuba",
+      "texto_en": "You're right, Uesugi-san.",
+      "texto_ptbr": "Você tem razão, Uesugi-san."
+    },
+    {
+      "id": 69,
+      "personagem": "Ichika",
+      "texto_en": "That's right.\\nIt'd be a waste to narrow down the possibilities\\nuntil something has been completely decided.",
+      "texto_ptbr": "Isso mesmo.\\nSeria um desperdício ir eliminando as opções\\nantes de ter decidido de vez."
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "So let's just keep it in the back of our minds\\nand continue our walk.",
+      "texto_ptbr": "Então vamos só guardar isso no fundo da cabeça\\ne continuar o passeio."
+    },
+    {
+      "id": 71,
+      "personagem": "Ichika",
+      "texto_en": "Yes.",
+      "texto_ptbr": "Certo."
+    }
+  ]
+}

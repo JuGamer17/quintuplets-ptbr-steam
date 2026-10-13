@@ -1,0 +1,55 @@
+{
+  "arquivo": "ca01_08",
+  "total": 5,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*map",
+      "texto_jp": "dummy",
+      "texto_en": "{UNTRANSLATED}dummy",
+      "texto_ptbr": "",
+      "selidx": 0
+    },
+    {
+      "id": 1,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "新しい家具ってよくない？\\n部屋は一緒なのに新生活！　って感じがしてさ。\\n模様替えでもしちゃおっかな。",
+      "texto_en": "Do you think new furniture would be nice? Even though\\nwe share the same room, it would feel like a fresh start!\\nMaybe I should rearrange my room.",
+      "texto_ptbr": "Será que móveis novos seriam legais? Mesmo que\\ncompartilhemos o quarto, daria uma sensação de recomeço!\\nTalvez eu devesse reorganizar meu quarto."
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "その前に部屋を片付けろ",
+      "texto_en": "Clean up your room, first.",
+      "texto_ptbr": "Arruma seu quarto primeiro.",
+      "selidx": 0
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "俺も部屋の家具を考えないとな",
+      "texto_en": "I've gotta think about my room furniture too.",
+      "texto_ptbr": "Eu também preciso pensar nos móveis do meu quarto.",
+      "selidx": 1
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "こういうのが好きなのか？",
+      "texto_en": "Do you like this kind of thing?",
+      "texto_ptbr": "Você gosta desse tipo de coisa?",
+      "selidx": 2
+    }
+  ]
+}

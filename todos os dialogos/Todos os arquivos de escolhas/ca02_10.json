@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca02_10",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ねえ、風太郎は\\n私と一緒にいるのがそんなに嫌なの？",
+      "texto_en": "Hey, Futaro,\\ndo you hate being with me that much?",
+      "texto_ptbr": "Ei, Futaro,\\nvocê odeia tanto assim ficar comigo?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "嫌とかそういう問題じゃない！",
+      "texto_en": "It's not about whether I like you or not!",
+      "texto_ptbr": "Não é questão de gostar ou não!",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "自分がなにしてるか、わかってるのか？",
+      "texto_en": "Do you understand what you're doing?",
+      "texto_ptbr": "Você sabe o que está fazendo?",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "嫌なわけないだろ",
+      "texto_en": "I have no reason to hate being with you.",
+      "texto_ptbr": "Como eu ia odiar ficar com você?",
+      "selidx": 2
+    }
+  ]
+}

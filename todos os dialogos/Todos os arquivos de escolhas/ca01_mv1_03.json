@@ -1,0 +1,75 @@
+{
+  "arquivo": "ca01_mv1_03",
+  "total": 7,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "そっか、壊れちゃったら悲しいね。",
+      "texto_en": "Right, that would be sad if it broke.",
+      "texto_ptbr": "É, seria triste se quebrasse."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "飾っておける物がいいか？",
+      "texto_en": "Maybe some sort of decoration would be better?",
+      "texto_ptbr": "Será que algo pra decorar seria melhor?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "考え始めると難しいな",
+      "texto_en": "Hard to decide.",
+      "texto_ptbr": "Quando a gente começa a pensar, fica difícil.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "使うたびに思い出せるぞ",
+      "texto_en": "It'll remind us of our trip each time we use it.",
+      "texto_ptbr": "Vai lembrar a gente da viagem toda vez que usar.",
+      "selidx": 2
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "ショップＢ:一花:三玖",
+      "texto_en": "Shop B: Ichika/Miku",
+      "texto_ptbr": "Loja B: Ichika/Miku",
+      "selidx": 0
+    },
+    {
+      "id": 5,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "大通りＢ:二乃:五月",
+      "texto_en": "Main Street B: Nino/Itsuki",
+      "texto_ptbr": "Rua Principal B: Nino/Itsuki",
+      "selidx": 1
+    },
+    {
+      "id": 6,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "お土産屋:四葉:らいは",
+      "texto_en": "Souvenir Shop: Yotsuba/Raiha",
+      "texto_ptbr": "Loja de Souvenirs: Yotsuba/Raiha",
+      "selidx": 2
+    }
+  ]
+}

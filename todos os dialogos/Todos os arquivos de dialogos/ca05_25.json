@@ -1,0 +1,186 @@
+{
+  "arquivo": "ca05_25",
+  "total": 30,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?! They're not here!",
+      "texto_ptbr": "Hã?! Eles não estão aqui!"
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "How's it look, Yotsuba?",
+      "texto_ptbr": "Como tá aí, Yotsuba?"
+    },
+    {
+      "id": 2,
+      "personagem": "Yotsuba",
+      "texto_en": "Not good. I completely lost sight of them!",
+      "texto_ptbr": "Nada bom. Eu perdi eles de vista completamente!"
+    },
+    {
+      "id": 3,
+      "personagem": "Ichika",
+      "texto_en": "Uwaa, we let our guard down.",
+      "texto_ptbr": "Uwaa, a gente baixou a guarda."
+    },
+    {
+      "id": 4,
+      "personagem": "Raiha",
+      "texto_en": "We didn't even notice when they disappeared.",
+      "texto_ptbr": "A gente nem percebeu quando eles sumiram."
+    },
+    {
+      "id": 5,
+      "personagem": "Miku",
+      "texto_en": "Huff... Huff...\\nWh-where could they have gone...",
+      "texto_ptbr": "Haa... Haa...\\nO-onde eles podem ter ido..."
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "We were supposed to go from Ocean Expo Park\\nto American Village tomorrow, right?",
+      "texto_ptbr": "A gente ia do Ocean Expo Park\\npro American Village amanhã, né?"
+    },
+    {
+      "id": 7,
+      "personagem": "Nino",
+      "texto_en": "Yeah.\\nYou'd think those two would stick to the plan.",
+      "texto_ptbr": "É.\\nA gente pensaria que os dois iam seguir o plano."
+    },
+    {
+      "id": 8,
+      "personagem": "Miku",
+      "texto_en": "Where to next?",
+      "texto_ptbr": "Pra onde agora?"
+    },
+    {
+      "id": 9,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, they were supposed to be here until evening...\\nSo, I let my guard down.",
+      "texto_ptbr": "Bem, era pra eles ficarem aqui até de noite...\\nEntão, eu baixei a guarda."
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "That means they got ahead of us, huh.",
+      "texto_ptbr": "Isso quer dizer que eles saíram na nossa frente, né."
+    },
+    {
+      "id": 11,
+      "personagem": "Yotsuba",
+      "texto_en": "Itsuki must have seen my ribbon\\nat Churaumi Aquarium, after all?!\\nSooorry!",
+      "texto_ptbr": "A Itsuki deve ter visto minha fita\\nno Aquário Churaumi, afinal?!\\nDeeesculpa!"
+    },
+    {
+      "id": 12,
+      "personagem": "Miku",
+      "texto_en": "If she had noticed it then,\\nshe would've called us out sooner.",
+      "texto_ptbr": "Se ela tivesse percebido na hora,\\nteria nos chamado antes."
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "Should we keep looking for her a bit more?\\nMaybe she went into a shop somewhere.",
+      "texto_ptbr": "A gente continua procurando ela um pouco mais?\\nTalvez ela tenha entrado numa loja em algum lugar."
+    },
+    {
+      "id": 14,
+      "personagem": "Nino",
+      "texto_en": "...I think that's enough for now.",
+      "texto_ptbr": "...Acho que já chega por agora."
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "You think?",
+      "texto_ptbr": "Você acha?"
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun and Itsuki seemed like their usual selves,\\nso I don't think she'll be crying anymore.",
+      "texto_ptbr": "O Fu-kun e a Itsuki pareciam do jeito de sempre,\\nentão acho que ela não vai mais chorar."
+    },
+    {
+      "id": 17,
+      "personagem": "Miku",
+      "texto_en": "Yeah.\\nFutaro and Itsuki are both okay now.",
+      "texto_ptbr": "É.\\nO Futaro e a Itsuki estão bem agora."
+    },
+    {
+      "id": 18,
+      "personagem": "Ichika",
+      "texto_en": "Well, let's call off the stakeout here.\\nFrom now on, let's all do our own thing.",
+      "texto_ptbr": "Bem, vamos encerrar a vigilância por aqui.\\nDaqui pra frente, vamos cada um fazer o seu."
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, we don't want to be a bother.",
+      "texto_ptbr": "É, a gente não quer atrapalhar."
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "*sigh* Come to think of it,\\nfollowing her all the way here, aren't we being\\ntoo overprotective of our little sister?",
+      "texto_ptbr": "*suspiro* Pensando bem,\\nseguindo ela até aqui, a gente não tá sendo\\nprotetor demais com a nossa irmã caçula?"
+    },
+    {
+      "id": 21,
+      "personagem": "Miku",
+      "texto_en": "YOU'RE saying that, Nino?\\nYou were the one who seemed most worried.",
+      "texto_ptbr": "VOCÊ tá dizendo isso, Nino?\\nVocê foi quem pareceu mais preocupada."
+    },
+    {
+      "id": 22,
+      "personagem": "Nino",
+      "texto_en": "No, I wasn't!",
+      "texto_ptbr": "Não, não tava!"
+    },
+    {
+      "id": 23,
+      "personagem": "Yotsuba",
+      "texto_en": "I'm sorry, Raiha-chan.\\nWe made you come along with us.",
+      "texto_ptbr": "Desculpa, Raiha-chan.\\nA gente te fez vir junto com a gente."
+    },
+    {
+      "id": 24,
+      "personagem": "Raiha",
+      "texto_en": "No, I was curious too.\\nAnd besides%p-2;――",
+      "texto_ptbr": "Não, eu também tava curiosa.\\nE além disso%p-2;――"
+    },
+    {
+      "id": 25,
+      "personagem": "Raiha",
+      "texto_en": "Everyone is so sweet to their little sister,\\njust like how my big bro is!",
+      "texto_ptbr": "Todo mundo é tão gentil com a irmã caçula,\\nigualzinho ao meu Onii-chan!"
+    },
+    {
+      "id": 26,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahaha...\\nSo clearly spoken.",
+      "texto_ptbr": "Ahaha...\\nQue clareza pra falar."
+    },
+    {
+      "id": 27,
+      "personagem": "Ichika",
+      "texto_en": "We are pretty sweet to her, but%p-2;――",
+      "texto_ptbr": "A gente é bem gentil com ela, mas%p-2;――"
+    },
+    {
+      "id": 28,
+      "personagem": "Miku",
+      "texto_en": "We can't deny that.",
+      "texto_ptbr": "Não dá pra negar isso."
+    },
+    {
+      "id": 29,
+      "personagem": "Nino",
+      "texto_en": "Nope.",
+      "texto_ptbr": "Não mesmo."
+    }
+  ]
+}

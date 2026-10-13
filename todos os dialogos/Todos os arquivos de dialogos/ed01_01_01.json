@@ -1,0 +1,312 @@
+{
+  "arquivo": "ed01_01_01",
+  "total": 51,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(A few days have passed\\n since returning from the graduation trip.\\n The day to finally head to Tokyo has arrived.)",
+      "texto_ptbr": "(Alguns dias se passaram\\n desde que voltamos da viagem de formatura.\\n Finalmente chegou o dia de ir para Tóquio.)"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Thanks for coming to see me off.",
+      "texto_ptbr": "Obrigado por vir me despedir."
+    },
+    {
+      "id": 2,
+      "personagem": "Ichika",
+      "texto_en": "Well, of course I would come. It's the day my boyfriend\\nis heading to Tokyo. You're my priority over any job.",
+      "texto_ptbr": "Ora, claro que eu viria. É o dia em que meu namorado\\nvai para Tóquio. Você é minha prioridade, mais que qualquer trabalho."
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "N-no, work is important, right?",
+      "texto_ptbr": "N-não, o trabalho é importante, né?"
+    },
+    {
+      "id": 4,
+      "personagem": "Ichika",
+      "texto_en": "Don't worry.\\nI haven't played hooky or forced a vacation,\\nso you can rest assured.",
+      "texto_ptbr": "Não se preocupa.\\nEu não matei aula nem forcei uma folga,\\nentão pode ficar tranquilo."
+    },
+    {
+      "id": 5,
+      "personagem": "Ichika",
+      "texto_en": "Futaro-kun,\\nyou're really going to Tokyo.\\nI'm starting to feel it now.",
+      "texto_ptbr": "Fuutarou-kun,\\nvocê realmente vai para Tóquio.\\nAgora estou começando a sentir isso de verdade."
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "I still don't feel it.\\nIt's weird to think\\nthat I won't be standing here for a while.",
+      "texto_ptbr": "Eu ainda não sinto isso.\\nÉ estranho pensar\\nque não vou estar aqui por um tempo."
+    },
+    {
+      "id": 7,
+      "personagem": "Ichika",
+      "texto_en": "By the way, is this all your luggage?\\nThere's so little of it?",
+      "texto_ptbr": "Aliás, essa é toda a sua bagagem?\\nÉ tão pouca coisa?"
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Well, it's not like that's all there is.\\nI sent the rest to my room.",
+      "texto_ptbr": "Bem, não é como se fosse só isso.\\nEu já mandei o resto para o meu quarto."
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "Ahaha, I knew it. That's just like you.",
+      "texto_ptbr": "Ahaha, eu sabia. Isso é bem a sua cara."
+    },
+    {
+      "id": 10,
+      "personagem": "Ichika",
+      "texto_en": "Hey, I'm curious about\\nwhat kind of place you're going to live in.\\nSend me a photo once you're settled in.",
+      "texto_ptbr": "Ei, estou curiosa sobre\\nque tipo de lugar você vai morar.\\nManda uma foto assim que você se instalar."
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Yeah.",
+      "texto_ptbr": "Tá."
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "Even though we won't be able\\nto see each other for a while,\\ndon't cry just because I'm not there for you.",
+      "texto_ptbr": "Mesmo que a gente não consiga\\nse ver por um tempo,\\nnão vá chorar só porque eu não estou aí com você."
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "I won't cry. Come on.",
+      "texto_ptbr": "Eu não vou chorar. Qual é."
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "Ah, but, if you really want to cry,\\nfeel free to call me anytime.",
+      "texto_ptbr": "Ah, mas, se você realmente quiser chorar,\\npode me ligar a qualquer hora."
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "I said I won't cry.\\nIt's not like it's a final goodbye or anything.",
+      "texto_ptbr": "Eu disse que não vou chorar.\\nNão é como se fosse uma despedida final nem nada."
+    },
+    {
+      "id": 16,
+      "personagem": "Ichika",
+      "texto_en": "Are you sure?",
+      "texto_ptbr": "Tem certeza?"
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "You're being persistent.",
+      "texto_ptbr": "Você está sendo insistente."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "(Even on a day like this,\\n Ichika is acting the same way she always does.)",
+      "texto_ptbr": "(Mesmo em um dia como esse,\\n a Ichika está agindo do mesmo jeito de sempre.)"
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "(Ah, but maybe,\\n she's trying to reassure me in her own way.)",
+      "texto_ptbr": "(Ah, mas talvez,\\n ela esteja tentando me tranquilizar do jeito dela.)"
+    },
+    {
+      "id": 20,
+      "personagem": "Ichika",
+      "texto_en": "Well, we can still keep in touch even if we're apart,\\nso it won't be too lonely.",
+      "texto_ptbr": "Bem, ainda podemos manter contato mesmo estando longe,\\nentão não vai ser tão solitário assim."
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Yeah.\\nAnd%p-2;――",
+      "texto_ptbr": "É.\\nE%p-2;――"
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "With this, I can remember you guys.\\nI won't feel lonely.",
+      "texto_ptbr": "Com isso, posso me lembrar de vocês.\\nNão vou me sentir sozinho."
+    },
+    {
+      "id": 23,
+      "personagem": "Ichika",
+      "texto_en": "Ah! The coaster made from minsa fabric.\\nAre you carrying it with you?",
+      "texto_ptbr": "Ah! O porta-copos feito de tecido minsa.\\nVocê está levando com você?"
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Well, I don't always carry it with me, but%p-2;――",
+      "texto_ptbr": "Bem, eu não levo sempre comigo, mas%p-2;――"
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "It's an important thing.\\nI wanted to give it to you with my\\nown two hands.",
+      "texto_ptbr": "É uma coisa importante.\\nEu queria te dar isso com\\nas minhas próprias mãos."
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "You're taking good care of it, aren't you.",
+      "texto_ptbr": "Você está cuidando bem dele, não está."
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "It's a souvenir we bought together, right?\\nI have to take care of it.",
+      "texto_ptbr": "É uma lembrança que compramos juntos, né?\\nTenho que cuidar bem dele."
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "Me too. I want to put mine in a frame and display it.",
+      "texto_ptbr": "Eu também. Quero colocar o meu numa moldura e exibir."
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Hey, what? Display it?\\nWe made it into a coaster because \\nwe wanted it to be used everyday, right?",
+      "texto_ptbr": "Ei, o quê? Exibir?\\nA gente transformou em porta-copos porque \\nqueríamos usar no dia a dia, né?"
+    },
+    {
+      "id": 30,
+      "personagem": "Ichika",
+      "texto_en": "I know, I know. Just making sure you're\\ntaking good care of it.",
+      "texto_ptbr": "Eu sei, eu sei. Só estou confirmando que você\\nestá cuidando bem dele."
+    },
+    {
+      "id": 31,
+      "personagem": "Ichika",
+      "texto_en": "Not just me, but everyone.",
+      "texto_ptbr": "Não só eu, mas todo mundo."
+    },
+    {
+      "id": 32,
+      "personagem": "Ichika",
+      "texto_en": "We struggled to choose a souvenir,\\nbut it was worth it to get something nice.",
+      "texto_ptbr": "A gente teve dificuldade para escolher uma lembrança,\\nmas valeu a pena conseguir algo tão bacana."
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, it was worth all the effort we put in.",
+      "texto_ptbr": "É, valeu todo o esforço que colocamos nisso."
+    },
+    {
+      "id": 34,
+      "personagem": "Ichika",
+      "texto_en": "It was a clever idea to choose Okinawan dyed fabric\\ncoasters and let everyone choose their own\\npatterns... It was a stroke of genius, don't you think?",
+      "texto_ptbr": "Foi uma ideia esperta escolher porta-copos\\nde tecido tingido de Okinawa e deixar cada um escolher\\nseu próprio padrão... Foi um golpe de gênio, não acha?"
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Hmm, it was a good idea,\\neven if I do say so myself!",
+      "texto_ptbr": "Hmm, foi uma boa ideia,\\nmesmo que eu mesmo tenha que dizer isso!"
+    },
+    {
+      "id": 36,
+      "personagem": "Ichika",
+      "texto_en": "Ultimately, you and I ended up with matching patterns,\\nthough.",
+      "texto_ptbr": "No final, eu e você acabamos ficando com padrões iguais,\\nné mesmo."
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "W-well, the pattern that you and I chose\\nhas a special meaning...",
+      "texto_ptbr": "B-bem, o padrão que eu e você escolhemos\\ntem um significado especial..."
+    },
+    {
+      "id": 38,
+      "personagem": "Ichika",
+      "texto_en": "That we'll be together forever.",
+      "texto_ptbr": "Que vamos ficar juntos para sempre."
+    },
+    {
+      "id": 39,
+      "personagem": "Ichika",
+      "texto_en": "That's the meaning behind it.\\nWhen I found it, I thought there was no other choice.",
+      "texto_ptbr": "É esse o significado por trás disso.\\nQuando eu achei, pensei que não havia outra escolha."
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "I feel the same way.",
+      "texto_ptbr": "Sinto o mesmo."
+    },
+    {
+      "id": 41,
+      "personagem": "Ichika",
+      "texto_en": "You and I, we'll always be connected.\\nUntil for ever and ever.",
+      "texto_ptbr": "Eu e você, estaremos sempre conectados.\\nPara todo o sempre."
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Yeah. No matter how far apart we are.",
+      "texto_ptbr": "É. Não importa o quão longe estejamos."
+    },
+    {
+      "id": 43,
+      "personagem": "Ichika",
+      "texto_en": "But, the day when we'll use these together\\nisn't too far away.",
+      "texto_ptbr": "Mas, o dia em que vamos usar isso juntos\\nnão está tão longe assim."
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "...I'll be waiting for you in Tokyo.",
+      "texto_ptbr": "...Vou estar te esperando em Tóquio."
+    },
+    {
+      "id": 45,
+      "personagem": "Ichika",
+      "texto_en": "Okay.",
+      "texto_ptbr": "Certo."
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "(When I'm with Ichika like this,\\n I always want to keep talking.\\n But, I can't just keep saying that.)",
+      "texto_ptbr": "(Quando estou com a Ichika assim,\\n sempre quero continuar conversando.\\n Mas, não posso ficar só dizendo isso.)"
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "(We may be apart, but we're still connected\\n by a strong bond. That's why%p-2;――%p;)",
+      "texto_ptbr": "(Podemos estar separados, mas ainda estamos conectados\\n por um laço forte. Por isso%p-2;――%p;)"
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "Alright, Ichika.",
+      "texto_ptbr": "Certo, Ichika."
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "See ya.",
+      "texto_ptbr": "Até mais."
+    },
+    {
+      "id": 50,
+      "personagem": "Ichika",
+      "texto_en": "Okay. See you, Futaro-kun.",
+      "texto_ptbr": "Certo. Até mais, Fuutarou-kun."
+    }
+  ]
+}

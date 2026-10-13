@@ -1,0 +1,46 @@
+{
+  "arquivo": "ca05_20",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*map",
+      "texto_jp": "dummy",
+      "texto_en": "{UNTRANSLATED}dummy",
+      "texto_ptbr": "",
+      "selidx": 0
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "イルカショー施設",
+      "texto_en": "Dolphin Show Area",
+      "texto_ptbr": "Área do Show de Golfinhos",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "エメラルドビーチ",
+      "texto_en": "Emerald Beach",
+      "texto_ptbr": "Emerald Beach",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "噴水",
+      "texto_en": "Fountain Plaza",
+      "texto_ptbr": "Praça da Fonte",
+      "selidx": 2
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "arquivo": "ca06_mv3_02",
+  "total": 7,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ええ、それを忘れてしまうと\\n知らないうちに迷惑をかけてしまうかもしれません。",
+      "texto_en": "Yes, if we forget that,\\nwe might unintentionally cause trouble.",
+      "texto_ptbr": "Sim, se esquecermos disso,\\npodemos acabar causando problemas sem querer."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "なんだ、急に真面目だな",
+      "texto_en": "What? You're suddenly serious?",
+      "texto_ptbr": "Que foi, de repente tá séria?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "そういうのって、つい忘れがちだよな",
+      "texto_en": "That's the kind of thing you tend to forget.",
+      "texto_ptbr": "Esse tipo de coisa a gente acaba esquecendo.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "そういう意識を持つことは大事だよな",
+      "texto_en": "It's important to have that kind of awareness.",
+      "texto_ptbr": "É importante ter esse tipo de consciência.",
+      "selidx": 2
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "ショッピングゾーンＡ:一花:五月",
+      "texto_en": "Shopping Zone A: Ichika/Itsuki",
+      "texto_ptbr": "Zona de Compras A: Ichika/Itsuki",
+      "selidx": 0
+    },
+    {
+      "id": 5,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "ショッピングゾーンＣ:二乃:四葉",
+      "texto_en": "Shopping Zone C: Nino/Yotsuba",
+      "texto_ptbr": "Zona de Compras C: Nino/Yotsuba",
+      "selidx": 1
+    },
+    {
+      "id": 6,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "レストランゾーン:三玖",
+      "texto_en": "Restaurant Zone: Miku",
+      "texto_ptbr": "Zona de Restaurantes: Miku",
+      "selidx": 2
+    }
+  ]
+}

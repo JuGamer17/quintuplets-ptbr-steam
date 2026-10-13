@@ -1,0 +1,408 @@
+{
+  "arquivo": "ed06_02_09",
+  "total": 67,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(This is the place she specified.\\n Somewhere around here%p-2;――%p;)",
+      "texto_ptbr": "(Este é o lugar que ela indicou.\\n Em algum lugar por aqui%p-2;――%p;)"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(...Found her!)",
+      "texto_ptbr": "(...Achei ela!)"
+    },
+    {
+      "id": 2,
+      "personagem": "???",
+      "texto_en": "...Who am I?",
+      "texto_ptbr": "...Quem sou eu?"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "It's Itsuki.",
+      "texto_ptbr": "É a Itsuki."
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "...Correct.",
+      "texto_ptbr": "...Correto."
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Ah, I see.\\nSo that's what it is...",
+      "texto_ptbr": "Ah, entendi.\\nEntão é isso..."
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "What do you think of me, Itsuki?",
+      "texto_ptbr": "O que você acha de mim, Itsuki?"
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "And what exactly does that mean?",
+      "texto_ptbr": "E o que exatamente isso quer dizer?"
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "...You should understand something\\nlike that too, right?",
+      "texto_ptbr": "...Você deveria entender uma coisa\\ndessas também, não?"
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "Um, no?\\nI can't answer such a vague question.",
+      "texto_ptbr": "Hum, não?\\nNão posso responder uma pergunta tão vaga."
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Oh, I see.\\nThen I'll have to say it clearly.",
+      "texto_ptbr": "Ah, entendi.\\nEntão vou ter que dizer claramente."
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "I like you, Itsuki.",
+      "texto_ptbr": "Eu gosto de você, Itsuki."
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "...I wonder, why me?",
+      "texto_ptbr": "...Me pergunto, por que eu?"
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Exactly.\\nI wonder why.",
+      "texto_ptbr": "Exatamente.\\nEu também me pergunto por quê."
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "But what I DO know is that\\nI need you.",
+      "texto_ptbr": "Mas o que eu SEI é que\\neu preciso de você."
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Whenever I was lost,\\nyou always helped me find my way.",
+      "texto_ptbr": "Sempre que eu me perdia,\\nvocê sempre me ajudou a encontrar o meu caminho."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Even during this trip.\\nwhen you asked me this question...\\nI was able to make up my mind.",
+      "texto_ptbr": "Até durante esta viagem,\\nquando você me fez essa pergunta...\\nconsegui tomar a minha decisão."
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "Ah...\\nSo you did say it,\\nback then...",
+      "texto_ptbr": "Ah...\\nEntão você disse mesmo,\\nnaquela hora..."
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Well, I struggled with the quintuplets game,\\nbut I was able to remember the most important thing\\nat the last moment.",
+      "texto_ptbr": "Bom, eu tive dificuldade com o jogo das quintuplas,\\nmas consegui me lembrar da coisa mais importante\\nno último momento."
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "And, I found my answer.\\nThe special someone to me%p-2;――",
+      "texto_ptbr": "E encontrei a minha resposta.\\nA pessoa especial para mim%p-2;――"
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "It's you, Itsuki.",
+      "texto_ptbr": "É você, Itsuki."
+    },
+    {
+      "id": 23,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "I don't know how you felt or what your intentions were,\\nbut thanks to you,\\nI was able to find my way. ",
+      "texto_ptbr": "Não sei como você se sentiu nem quais eram as suas intenções,\\nmas graças a você,\\nconsegui encontrar o meu caminho. "
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "That's why...\\nI want to be someone\\nwho can show you the way when you're lost.",
+      "texto_ptbr": "Por isso...\\nquero ser alguém\\nque possa te mostrar o caminho quando você estiver perdida."
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "...Itsuki?",
+      "texto_ptbr": "...Itsuki?"
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "...I never expected this day would come.",
+      "texto_ptbr": "...Nunca imaginei que esse dia chegaria."
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "To be honest, I had completely different intentions\\nuntil before the trip.",
+      "texto_ptbr": "Pra ser sincera, eu tinha intenções completamente diferentes\\naté antes da viagem."
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Is that so?",
+      "texto_ptbr": "É mesmo?"
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "Regarding the quintuplets game and the other stuff,\\nI feel like I've done a lot of things\\nthat I should apologize for.",
+      "texto_ptbr": "Sobre o jogo das quintuplas e as outras coisas,\\nsinto que fiz muitas coisas\\npelas quais devo pedir desculpas."
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Don't worry about any of that.\\nLike I said before, thanks to that,\\nI was able to move forward.",
+      "texto_ptbr": "Não se preocupe com nada disso.\\nComo eu disse antes, graças a isso,\\nconsegui seguir em frente."
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "...It's really strange, isn't it?\\nI have no idea what will happen,\\nor why...things turned out this way.",
+      "texto_ptbr": "...É muito estranho, não é?\\nEu não faço ideia do que vai acontecer,\\nnem por que...as coisas acabaram assim."
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "You may not know, but%p-2;――",
+      "texto_ptbr": "Você talvez não saiba, mas%p-2;――"
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "During these past few days,\\nI've been organizing and reflecting\\non my own feelings, just like you.",
+      "texto_ptbr": "Nesses últimos dias,\\neu estive organizando e refletindo\\nsobre os meus próprios sentimentos, assim como você."
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "The things you and everyone else were feeling.\\nI came to know many emotions that I couldn't grasp,\\nand it troubled me, confused me.",
+      "texto_ptbr": "As coisas que você e todos os outros estavam sentindo.\\nPassei a conhecer muitas emoções que eu não conseguia compreender,\\ne isso me atormentou, me confundiu."
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "I can't believe that the conclusion I reached\\nis the same as yours.",
+      "texto_ptbr": "Não acredito que a conclusão a que cheguei\\nseja a mesma que a sua."
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Huh...\\nSo, that means...",
+      "texto_ptbr": "Hã...\\nEntão, isso significa..."
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "Yes.\\nI also think of you as a special person.",
+      "texto_ptbr": "Sim.\\nEu também considero você uma pessoa especial."
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Really...",
+      "texto_ptbr": "Sério..."
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "I wouldn't joke at a time like this.",
+      "texto_ptbr": "Eu não brincaria numa hora dessas."
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "Haha, I see...\\nYeah, that's right...",
+      "texto_ptbr": "Haha, entendi...\\nÉ, é verdade..."
+    },
+    {
+      "id": 44,
+      "personagem": "Itsuki",
+      "texto_en": "My goodness...\\nI really do wonder why.",
+      "texto_ptbr": "Meu Deus...\\nEu realmente me pergunto por quê."
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "But, what I've realized is\\nthat I also need you.",
+      "texto_ptbr": "Mas o que percebi é\\nque eu também preciso de você."
+    },
+    {
+      "id": 46,
+      "personagem": "Itsuki",
+      "texto_en": "You've pushed me forward countless times too,\\nhaven't you?",
+      "texto_ptbr": "Você também me empurrou para a frente inúmeras vezes,\\nnão foi?"
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "Even when we were struggling to study for the exams,\\nand when the bond between sisters\\nwas about to break...",
+      "texto_ptbr": "Mesmo quando estávamos com dificuldade para estudar para as provas,\\ne quando o laço entre irmãs\\nestava prestes a se romper..."
+    },
+    {
+      "id": 48,
+      "personagem": "Itsuki",
+      "texto_en": "Even when I was lost\\nin choosing my path after graduation,\\nyou showed me the way.",
+      "texto_ptbr": "Mesmo quando eu estava perdida\\nna escolha do meu caminho depois da formatura,\\nvocê me mostrou o rumo."
+    },
+    {
+      "id": 49,
+      "personagem": "Itsuki",
+      "texto_en": "During that time,\\na feeling was born within my heart.\\nAnd through this trip, I finally realized this.",
+      "texto_ptbr": "Durante esse tempo,\\num sentimento nasceu dentro do meu coração.\\nE, através desta viagem, finalmente percebi isso."
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "To me, Uesugi-kun, your existence is special.",
+      "texto_ptbr": "Para mim, Uesugi-kun, a sua existência é especial."
+    },
+    {
+      "id": 51,
+      "personagem": "Itsuki",
+      "texto_en": "You're the ideal teacher, a dear friend I respect,\\nand a man that I love%p-2;――",
+      "texto_ptbr": "Você é o professor ideal, um querido amigo que eu respeito,\\ne um homem que eu amo%p-2;――"
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "Before I knew it, you took hold of all of my feelings.\\nYou...are truly a troublesome person.",
+      "texto_ptbr": "Sem eu perceber, você tomou conta de todos os meus sentimentos.\\nVocê...é realmente uma pessoa problemática."
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "...W-well, if you put it like that,\\nyou've given me a lot of trouble, too.",
+      "texto_ptbr": "...B-bom, se você coloca assim,\\nvocê também me deu muito trabalho."
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "Well, whatever.\\nYou're...quite similar, aren't you?",
+      "texto_ptbr": "Bom, deixa pra lá.\\nNós...somos bem parecidos, não somos?"
+    },
+    {
+      "id": 55,
+      "personagem": "Itsuki",
+      "texto_en": "Teehee!\\nIt took us this long to realize it, didn't it?",
+      "texto_ptbr": "Hihi!\\nDemoramos tanto para perceber isso, não foi?"
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "Yeah.\\nBoth of us took quite a while\\nto solve this difficult problem.",
+      "texto_ptbr": "É.\\nOs dois demoramos bastante\\npara resolver esse problema difícil."
+    },
+    {
+      "id": 57,
+      "personagem": "Itsuki",
+      "texto_en": "Well, who knows?",
+      "texto_ptbr": "Bom, quem sabe?"
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 59,
+      "personagem": "Itsuki",
+      "texto_en": "I think in this matter,\\nthere may not be a right answer.\\nAfter all, love isn't an exam question.",
+      "texto_ptbr": "Acho que, nesse assunto,\\npode ser que não exista resposta certa.\\nAfinal, amor não é questão de prova."
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "Well, that may be true,\\nbut even you asked me to give an answer,\\ndidn't you?",
+      "texto_ptbr": "Bom, pode ser verdade,\\nmas até você me pediu para dar uma resposta,\\nnão foi?"
+    },
+    {
+      "id": 61,
+      "personagem": "Itsuki",
+      "texto_en": "Even if you had come to a different solution, \\nthat still would have been the correct one, right?",
+      "texto_ptbr": "Mesmo que você tivesse chegado a uma solução diferente, \\nainda assim ela seria a correta, não é?"
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "What's that supposed to mean?\\nAre you saying that what we're doing here is wrong?",
+      "texto_ptbr": "O que isso quer dizer?\\nVocê está dizendo que o que estamos fazendo aqui está errado?"
+    },
+    {
+      "id": 63,
+      "personagem": "Itsuki",
+      "texto_en": "That...\\nwill be decided by us from now on.",
+      "texto_ptbr": "Isso...\\nvai ser decidido por nós daqui pra frente."
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "...In that case,\\nwe still have a lot of struggles ahead, don't we?",
+      "texto_ptbr": "...Nesse caso,\\nainda temos muitas dificuldades pela frente, não é?"
+    },
+    {
+      "id": 65,
+      "personagem": "Itsuki",
+      "texto_en": "Teehee.\\nI want to be able to say, in the future,\\n'I'm glad he confessed back then.'",
+      "texto_ptbr": "Hihi.\\nQuero poder dizer, no futuro,\\n'Ainda bem que ele se declarou naquela hora.'"
+    },
+    {
+      "id": 66,
+      "personagem": "Itsuki",
+      "texto_en": "That's how I want it to be. ",
+      "texto_ptbr": "É assim que eu quero que seja. "
+    }
+  ]
+}

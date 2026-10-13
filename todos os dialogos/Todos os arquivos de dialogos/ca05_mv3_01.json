@@ -1,0 +1,336 @@
+{
+  "arquivo": "ca05_mv3_01",
+  "total": 55,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, look.\\nSeems there's a facility called the 'Sea Turtle House.'",
+      "texto_ptbr": "Ah, olha.\\nParece que tem uma instalação chamada 'Casa das Tartarugas Marinhas.'"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Wow, so there's a separate building\\nfrom Churaumi Aquarium?",
+      "texto_ptbr": "Uau, então tem um prédio separado\\ndo Aquário Churaumi?"
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "I also associate sea turtles with Okinawa.\\nWhat about you, Uesugi-kun?",
+      "texto_ptbr": "Eu também associo tartarugas marinhas com Okinawa.\\nE você, Uesugi-kun?"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Sea turtles, huh...\\nI suppose?",
+      "texto_ptbr": "Tartarugas marinhas, é...\\nAcho que sim?"
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "By the way, there are places\\non the main island of Okinawa\\nwhere you can swim with sea turtles.",
+      "texto_ptbr": "Aliás, tem lugares\\nna ilha principal de Okinawa\\nonde dá pra nadar com tartarugas marinhas."
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "I've seen sea turtles swimming on TV and the Internet,\\nand they look very graceful.\\nIt's like they're flying in the air.",
+      "texto_ptbr": "Eu já vi tartarugas marinhas nadando na TV e na internet,\\ne elas parecem bem graciosas.\\nÉ como se estivessem voando no ar."
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Although their movements may look relaxed,\\ntheir swimming speed is surprisingly fast.",
+      "texto_ptbr": "Mesmo que os movimentos pareçam relaxados,\\na velocidade de natação delas é surpreendentemente rápida."
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "Huh? How fast are they?",
+      "texto_ptbr": "Hã? Quão rápido elas são?"
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Like, around ten kilometers per hour...",
+      "texto_ptbr": "Tipo, uns dez quilômetros por hora..."
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "...Is that like how fast jogging is?",
+      "texto_ptbr": "...Isso é tipo a velocidade de um trote?"
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Nah, that's like running, more than jogging.",
+      "texto_ptbr": "Não, isso é mais tipo correr, mais que um trote."
+    },
+    {
+      "id": 11,
+      "personagem": "Itsuki",
+      "texto_en": "That's quite fast. To keep up with a sea turtle,\\nyou would need to swim at that speed, huh?",
+      "texto_ptbr": "Isso é bem rápido. Pra acompanhar uma tartaruga marinha,\\na gente precisaria nadar nessa velocidade, né?"
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Well, if you think about it in basic terms,\\nthat would be the case.",
+      "texto_ptbr": "Bom, se você pensar de forma básica,\\nseria isso mesmo."
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "If you think about it in that way, \\nsea turtles may not exactly be the most graceful...",
+      "texto_ptbr": "Se pensar desse jeito, \\ntalvez as tartarugas marinhas não sejam exatamente as mais graciosas..."
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "It was just a fantasy.\\nWell, the sea turtles would probably be troubled\\nif we imposed our human image on them.",
+      "texto_ptbr": "Era só uma fantasia mesmo.\\nBom, as tartarugas marinhas provavelmente ficariam incomodadas\\nse a gente impusesse nossa imagem humana nelas."
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "For sure...\\nIt was only just a thought.",
+      "texto_ptbr": "Com certeza...\\nFoi só um pensamento mesmo."
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "...Hm?",
+      "texto_ptbr": "...Hm?"
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "What's up?",
+      "texto_ptbr": "O que foi?"
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "They ARE creatures of the sea.\\nComparing them to humans\\nis a strange thing to do in the first place.",
+      "texto_ptbr": "Elas SÃO criaturas do mar.\\nComparar elas com humanos\\njá é uma coisa estranha de se fazer, pra começar."
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "That's right.\\nThe environments where we live are different after all.",
+      "texto_ptbr": "Isso mesmo.\\nOs ambientes onde a gente vive são diferentes, afinal."
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "The sea turtles may be thinking\\nabout just how slow and clumsy humans are.",
+      "texto_ptbr": "As tartarugas marinhas devem estar pensando\\nsobre como os humanos são lentos e desajeitados."
+    },
+    {
+      "id": 21,
+      "personagem": "Itsuki",
+      "texto_en": "...Hm?",
+      "texto_ptbr": "...Hm?"
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "What's up?",
+      "texto_ptbr": "O que foi?"
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "They don't always swim fast.\\nThere must be moments of elegance.",
+      "texto_ptbr": "Elas não nadam rápido o tempo todo.\\nDeve ter momentos de elegância."
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Their swimming style would surely vary\\ndepending on whether they're in a dangerous situation,\\nlike being chased by an enemy, or in a safe environment.",
+      "texto_ptbr": "O jeito delas nadarem com certeza varia\\nse elas estão numa situação perigosa,\\ncomo sendo perseguidas por um inimigo, ou num ambiente seguro."
+    },
+    {
+      "id": 25,
+      "personagem": "Itsuki",
+      "texto_en": "Now that you mention it, that's true.\\nIt would be exhausting to always swim at full speed.",
+      "texto_ptbr": "Agora que você falou, é verdade.\\nSeria cansativo nadar na velocidade máxima o tempo todo."
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "When we swim with sea turtles,\\nwe need to approach them gently\\nso as not to be perceived as a threat.",
+      "texto_ptbr": "Quando a gente nada com tartarugas marinhas,\\nprecisa se aproximar com cuidado\\npra não ser vista como uma ameaça."
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "...Hm?",
+      "texto_ptbr": "...Hm?"
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "What's up?",
+      "texto_ptbr": "O que foi?"
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "If we imagine the scenario where the fisherman \\nfrom that one fairy tale, Urashima Taro,\\nis riding on a turtle%p-2;――",
+      "texto_ptbr": "Se a gente imaginar o cenário onde o pescador \\ndaquele conto de fadas, Urashima Taro,\\nestá montado numa tartaruga%p-2;――"
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "If the turtle is swimming at a speed of ten\\nkilometers per hour, he would be thrown off\\ndue to the resistance of the water, right?",
+      "texto_ptbr": "Se a tartaruga estiver nadando numa velocidade de dez\\nquilômetros por hora, ele seria jogado pra fora\\npor causa da resistência da água, né?"
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "That's a fairy tale for a reason.",
+      "texto_ptbr": "É um conto de fadas por um motivo."
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "That's why I said,\\nit's just a hypothetical scenario, right?",
+      "texto_ptbr": "Foi por isso que eu falei,\\né só um cenário hipotético, né?"
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "It's too hypothetical.\\nIf we're going to talk about it, we should first ask\\nwhether it's even possible to breathe underwater.",
+      "texto_ptbr": "É hipotético demais.\\nSe a gente vai falar sobre isso, primeiro devia perguntar\\nse é até possível respirar debaixo d'água."
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "...Yeah, you're right.",
+      "texto_ptbr": "...É, você tem razão."
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Well, if we had to come up with a reason...\\nMaybe the turtle was considerate of its fisherman rescuer?",
+      "texto_ptbr": "Bom, se a gente tivesse que dar uma razão...\\nTalvez a tartaruga fosse considerada com o pescador que ela salvou?"
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "Or, perhaps it was just a naturally relaxed turtle\\nthat always swam leisurely.",
+      "texto_ptbr": "Ou, talvez fosse só uma tartaruga naturalmente relaxada\\nque sempre nadava tranquilamente."
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "However, it would've taken too long\\nto get to their destination, Ryugu Castle.",
+      "texto_ptbr": "Mas teria demorado demais\\npra chegar ao destino deles, o Castelo Ryugu."
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, he would have turned into an old man\\nbefore he arrived, without the magic box that kept him young.",
+      "texto_ptbr": "É, ele teria virado um velho\\nantes de chegar, sem a caixa mágica que o mantinha jovem."
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Ah! Maybe there was a warp pad?\\nA mechanism, perhaps,\\nthat shortened the distance to Ryugu Castle.",
+      "texto_ptbr": "Ah! Talvez tivesse um teleporte?\\nUm mecanismo, talvez,\\nque encurtasse a distância até o Castelo Ryugu."
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "If we could create a mechanism like the magic box\\nthat speeds up time,\\nmaybe we could do that%p-2;――",
+      "texto_ptbr": "Se a gente pudesse criar um mecanismo tipo a caixa mágica\\nque acelera o tempo,\\ntalvez a gente pudesse fazer isso%p-2;――"
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Wait, why am I even considering this all so seriously...",
+      "texto_ptbr": "Espera, por que eu estou levando isso tão a sério..."
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "Teehee!",
+      "texto_ptbr": "Hehe!"
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "Kkh! Don't laugh!",
+      "texto_ptbr": "Ergh! Não ri!"
+    },
+    {
+      "id": 44,
+      "personagem": "Itsuki",
+      "texto_en": "No, but%p-2;――",
+      "texto_ptbr": "Não, mas%p-2;――"
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "For some reason,\\nI thought you were cute just now, Uesugi-kun.",
+      "texto_ptbr": "Por algum motivo,\\neu achei você fofo agora, Uesugi-kun."
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Cute...\\nThat's not something you should say to a guy.",
+      "texto_ptbr": "Fofo...\\nIsso não é uma coisa que você deveria dizer pra um cara."
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "R-right!",
+      "texto_ptbr": "É-é verdade!"
+    },
+    {
+      "id": 48,
+      "personagem": "Itsuki",
+      "texto_en": "W-well, if I were to swim with the turtles,\\nI'd like to meet a relaxed one too!",
+      "texto_ptbr": "B-bom, se eu fosse nadar com as tartarugas,\\neu também gostaria de encontrar uma bem relaxada!"
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Do you really want to swim with the turtles that badly?",
+      "texto_ptbr": "Você quer nadar com as tartarugas tanto assim?"
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, if possible.",
+      "texto_ptbr": "Sim, se for possível."
+    },
+    {
+      "id": 51,
+      "personagem": "Itsuki",
+      "texto_en": "I considered it as an option for this trip,\\nbut the timing of the tour reservation didn't work out.",
+      "texto_ptbr": "Eu considerei isso como uma opção pra essa viagem,\\nmas o horário da reserva do passeio não deu certo."
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "That's too bad.",
+      "texto_ptbr": "Que pena."
+    },
+    {
+      "id": 53,
+      "personagem": "Itsuki",
+      "texto_en": "But, I haven't given up.\\nEven if it's impossible this time, someday...\\nfor sure.",
+      "texto_ptbr": "Mas eu não desisti.\\nMesmo que seja impossível dessa vez, algum dia...\\ncom certeza."
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, I hope that comes true.",
+      "texto_ptbr": "É, espero que isso se realize."
+    }
+  ]
+}

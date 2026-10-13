@@ -1,0 +1,282 @@
+{
+  "arquivo": "ca06_04",
+  "total": 46,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(I think the meeting place was around here.)",
+      "texto_ptbr": "(Acho que o ponto de encontro era por aqui.)"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(It's still a bit early...\\n but there's not enough time to look around\\n other places. I'll just wait for them.)",
+      "texto_ptbr": "(Ainda tá meio cedo...\n mas não dá tempo de olhar\n outros lugares. Vou só esperar por elas.)"
+    },
+    {
+      "id": 2,
+      "personagem": "???",
+      "texto_en": "Futaro-kun? Why are you looking around so much?\\nIt's dangerous if you don't watch where you're going,\\nyou know?",
+      "texto_ptbr": "Fuutarou-kun? Por que você tá olhando tanto ao redor?\nÉ perigoso se você não prestar atenção por onde anda,\nsabia?"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "...Eh?",
+      "texto_ptbr": "...Ehn?"
+    },
+    {
+      "id": 4,
+      "personagem": "Ichika",
+      "texto_en": "Hi, there!",
+      "texto_ptbr": "Oi!"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Oh, it's Ichika.\\nYou're already here.",
+      "texto_ptbr": "Ah, é a Ichika.\nVocê já chegou."
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, I wanted to take a break and rest here.\\nI walked around so much that I got thirsty.",
+      "texto_ptbr": "É, eu quis parar e descansar aqui um pouco.\nAndei tanto que fiquei com sede."
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "What's that?",
+      "texto_ptbr": "O que é isso?"
+    },
+    {
+      "id": 8,
+      "personagem": "Ichika",
+      "texto_en": "It's a frozen drink made with 'shikuwasa' citrus fruit.\\nIt's exclusive to Okinawa, so I was curious about it.",
+      "texto_ptbr": "É uma bebida gelada feita com a fruta cítrica 'shikuwasa'.\nÉ exclusiva de Okinawa, então fiquei curiosa."
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "You're dressed up in glasses and everything\\njust for juice on the go.",
+      "texto_ptbr": "Você tá toda arrumada de óculos e tudo\nsó pra tomar um suco no meio do passeio."
+    },
+    {
+      "id": 10,
+      "personagem": "Ichika",
+      "texto_en": "Well, I AM an actress, after all.",
+      "texto_ptbr": "Bom, afinal, eu SOU atriz."
+    },
+    {
+      "id": 11,
+      "personagem": "Ichika",
+      "texto_en": "But, I guess I can take them off.\\n...Since I'm glad you came, Futaro-kun.",
+      "texto_ptbr": "Mas, acho que posso tirar.\n...Já que fico feliz que você tenha vindo, Fuutarou-kun."
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "I didn't come just for you.\\nThis is the meeting place.",
+      "texto_ptbr": "Eu não vim só por você.\nEsse é o ponto de encontro."
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "I know that much.",
+      "texto_ptbr": "Eu sei bem disso."
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Are you alone?\\nThe others aren't with you?",
+      "texto_ptbr": "Você tá sozinha?\nAs outras não estão com você?"
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, I wanted to be with just you.",
+      "texto_ptbr": "É, eu quis ficar só com você."
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "!...",
+      "texto_ptbr": "!..."
+    },
+    {
+      "id": 17,
+      "personagem": "Ichika",
+      "texto_en": "So, it wasn't a coincidence.\\nI was waiting for you.",
+      "texto_ptbr": "Então, não foi coincidência.\nEu tava esperando por você."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Wha?",
+      "texto_ptbr": "Quê?"
+    },
+    {
+      "id": 19,
+      "personagem": "Ichika",
+      "texto_en": "By the way, Futaro-kun,\\nyou're still unable to drink coffee, right?",
+      "texto_ptbr": "Aliás, Fuutarou-kun,\nvocê ainda não consegue tomar café, né?"
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Huh? Ahh, well, no.\\nIt's all bitter.",
+      "texto_ptbr": "Hã? Ah, bom, não.\nÉ tudo amargo demais."
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "Ahaha, you still haven't grown.",
+      "texto_ptbr": "Ahaha, você ainda não cresceu."
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "But, more importantly, what are you planning?",
+      "texto_ptbr": "Mas, mais importante, o que você tá planejando?"
+    },
+    {
+      "id": 23,
+      "personagem": "Ichika",
+      "texto_en": "What do you mean?",
+      "texto_ptbr": "Como assim?"
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Well... Wanting to see places together with me,\\nwaiting for me here.",
+      "texto_ptbr": "Bom... Querer ver lugares junto comigo,\nficar me esperando aqui."
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "You know. You don't have to ask. Right?",
+      "texto_ptbr": "Você já sabe. Não precisa perguntar. Né?"
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "I mean, I don't...",
+      "texto_ptbr": "Quer dizer, eu não..."
+    },
+    {
+      "id": 27,
+      "personagem": "Ichika",
+      "texto_en": "Even though you're still unable to drink coffee%p-2;――",
+      "texto_ptbr": "Mesmo você ainda não conseguindo tomar café%p-2;――"
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "This is what I'm thinking you should do.",
+      "texto_ptbr": "É isso que eu acho que você deveria fazer."
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Huh?!",
+      "texto_ptbr": "Hã?!"
+    },
+    {
+      "id": 30,
+      "personagem": "Ichika",
+      "texto_en": "Here, why don't you try drinking this, Futaro-kun?\\nIt's sweet and sour, so it might be refreshing.",
+      "texto_ptbr": "Toma, por que você não experimenta isso, Fuutarou-kun?\nÉ agridoce, deve ser refrescante."
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "No, wait a minute.\\nThat sounds gross.",
+      "texto_ptbr": "Não, espera aí.\nIsso parece nojento."
+    },
+    {
+      "id": 32,
+      "personagem": "Ichika",
+      "texto_en": "It's not bad at all. It's quite delicious,\\nand livens you up.",
+      "texto_ptbr": "Não é ruim, não. É bem gostoso,\ne te dá uma animada."
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "That's not what I meant...",
+      "texto_ptbr": "Não era isso que eu quis dizer..."
+    },
+    {
+      "id": 34,
+      "personagem": "Ichika",
+      "texto_en": "So, what did you mean?",
+      "texto_ptbr": "Então, o que você quis dizer?"
+    },
+    {
+      "id": 35,
+      "personagem": "???",
+      "texto_en": "Ichika?",
+      "texto_ptbr": "Ichika?"
+    },
+    {
+      "id": 36,
+      "personagem": "Ichika",
+      "texto_en": "Oh no, too bad.\\nTime's up.",
+      "texto_ptbr": "Ah não, que pena.\nAcabou o tempo."
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "Hmm, that's what's going on.",
+      "texto_ptbr": "Hmm, então é isso que tá rolando."
+    },
+    {
+      "id": 38,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 39,
+      "personagem": "Yotsuba",
+      "texto_en": "E-excuse us.\\nIt seems we had bad timing...didn't we?",
+      "texto_ptbr": "C-com licença.\nParece que chegamos na hora errada... né?"
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "Yotsuba.\\nYou don't have to worry about it.",
+      "texto_ptbr": "Yotsuba.\nVocê não precisa se preocupar com isso."
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "No, it's not like that%p-2;――",
+      "texto_ptbr": "Não, não é assim%p-2;――"
+    },
+    {
+      "id": 42,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun, we want to do some secret shopping,\\njust the two of us, so please wait here.",
+      "texto_ptbr": "Fu-kun, a gente quer fazer umas compras secretas,\nsó nós duas, então por favor espera aqui."
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "...Right.",
+      "texto_ptbr": "...Certo."
+    },
+    {
+      "id": 44,
+      "personagem": "Ichika",
+      "texto_en": "Okay, see you sooon.",
+      "texto_ptbr": "Tá bom, até jáaa."
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "(I hope nothing weird happens.)",
+      "texto_ptbr": "(Espero que nada estranho aconteça.)"
+    }
+  ]
+}

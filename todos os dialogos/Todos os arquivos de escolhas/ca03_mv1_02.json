@@ -1,0 +1,75 @@
+{
+  "arquivo": "ca03_mv1_02",
+  "total": 7,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "あのねぇ？\\n普通に考えて、あんた以外にないわよ？",
+      "texto_en": "Listen, okay?\\nIt's probably just you,\\nI mean, who else could it be but you, right?",
+      "texto_ptbr": "Escuta aqui, tá?\\nProvavelmente é só você mesmo,\\nquer dizer, quem mais poderia ser senão você, né?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "だから心当たりがないんだって",
+      "texto_en": "I'm telling you, I have no idea.",
+      "texto_ptbr": "Já falei, não faço ideia.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "他にもあるだろ",
+      "texto_en": "There's gotta be something else.",
+      "texto_ptbr": "Deve ter outras explicações.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "そうかもしれないが",
+      "texto_en": "Maybe.",
+      "texto_ptbr": "Talvez sim, mas...",
+      "selidx": 2
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "文芸展示:一花:二乃",
+      "texto_en": "Arts and Literature Exhibit: Ichika/Nino",
+      "texto_ptbr": "Exposição de Artes e Literatura: Ichika/Nino",
+      "selidx": 0
+    },
+    {
+      "id": 5,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "ホール:三玖:四葉",
+      "texto_en": "Hall: Miku/Yotsuba",
+      "texto_ptbr": "Salão: Miku/Yotsuba",
+      "selidx": 1
+    },
+    {
+      "id": 6,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "生物展示:五月:らいは",
+      "texto_en": "Biology Exhibit: Itsuki/Raiha",
+      "texto_ptbr": "Exposição de Biologia: Itsuki/Raiha",
+      "selidx": 2
+    }
+  ]
+}

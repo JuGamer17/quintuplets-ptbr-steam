@@ -1,0 +1,234 @@
+{
+  "arquivo": "ca06_mv5_01",
+  "total": 38,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Oh?\\nWhat are you doing over here?",
+      "texto_ptbr": "Ah?\\nO que você está fazendo por aqui?"
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, it's Uesugi-kun.\\nAre you here to see the flowers too?",
+      "texto_ptbr": "Ah, é o Uesugi-kun.\\nVocê veio ver as flores também?"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "No, I just happened to come this way.\\nBut, flowers...",
+      "texto_ptbr": "Não, eu só acabei vindo por aqui.\\nMas, flores..."
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "This is the Tropical Dream Center?\\nSo, it's a botanical garden?",
+      "texto_ptbr": "Isso aqui é o Tropical Dream Center?\\nEntão é um jardim botânico?"
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, there's a large greenhouse here.\\nYou can see not only rare tropical plants\\nbut also flowers all year round.",
+      "texto_ptbr": "Sim, tem uma estufa enorme aqui.\\nDá pra ver não só plantas tropicais raras\\nmas também flores o ano inteiro."
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "There are orchids and hibiscus\\nin full bloom, and it smells so good.",
+      "texto_ptbr": "Tem orquídeas e hibiscos\\ntotalmente florescidos, e o cheiro é maravilhoso."
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Oh, I see. So you've already seen it all.",
+      "texto_ptbr": "Ah, entendi. Então você já viu tudo."
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "Heheh, seems like bad timing.\\nI just finished seeing it.",
+      "texto_ptbr": "Heheh, parece que foi mau timing.\\nAcabei de terminar de ver."
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "It was perfect for taking a leisurely walk,\\nsurrounded by all the flowers and greenery.",
+      "texto_ptbr": "Foi perfeito pra dar uma caminhada tranquila,\\ncercada de flores e verde por todo lado."
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "That's right, Uesugi-kun. When you think of Okinawa,\\ndon't you imagine a hibiscus to represent it?",
+      "texto_ptbr": "Ah, é isso, Uesugi-kun. Quando você pensa em Okinawa,\\nnão imagina um hibisco pra representar?"
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Oh, yeah.\\nIt's often used in designs too, isn't it?",
+      "texto_ptbr": "Ah, é.\\nUsam bastante em estampas e designs também, não é?"
+    },
+    {
+      "id": 11,
+      "personagem": "Itsuki",
+      "texto_en": "Well then, here's a question.\\nWhat is the 'Prefectural flower' of Okinawa?",
+      "texto_ptbr": "Bom, então aqui vai uma pergunta.\\nQual é a 'flor da província' de Okinawa?"
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "No idea.",
+      "texto_ptbr": "Nem ideia."
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "Aren't you giving up too soon?\\nOr rather, you haven't even thought about it,\\nhave you?",
+      "texto_ptbr": "Você não está desistindo cedo demais?\\nOu melhor, você nem chegou a pensar,\\npensou?"
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "So, what's the answer?",
+      "texto_ptbr": "Então, qual é a resposta?"
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "Come on...\\nCouldn't you at least stick it out a little longer?",
+      "texto_ptbr": "Ah, qual é...\\nVocê não consegue aguentar mais um pouquinho?"
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "The correct answer is the deigo flower.",
+      "texto_ptbr": "A resposta certa é a flor deigo."
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Deigo...\\nI feel like I've heard of it before, but I'm not sure.",
+      "texto_ptbr": "Deigo...\\nSinto que já ouvi falar antes, mas não tenho certeza."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Wild guess, hibiscus?",
+      "texto_ptbr": "Chute: hibisco?"
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "That's what you would normally think, right?",
+      "texto_ptbr": "É isso que normalmente se pensa, né?"
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "...The way you're saying it\\nmakes me think it's not, though.",
+      "texto_ptbr": "...Do jeito que você está falando\\ndá pra perceber que não é, né?"
+    },
+    {
+      "id": 21,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, that's incorrect.",
+      "texto_ptbr": "Sim, está incorreto."
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "The correct answer is the deigo flower.",
+      "texto_ptbr": "A resposta certa é a flor deigo."
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "Deigo...\\nI feel like I've heard of it before, but I'm not sure.",
+      "texto_ptbr": "Deigo...\\nSinto que já ouvi falar antes, mas não tenho certeza."
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Is this a trick question?\\nIt can't be hibiscus, then.",
+      "texto_ptbr": "Isso é uma pegadinha?\\nEntão não pode ser hibisco."
+    },
+    {
+      "id": 25,
+      "personagem": "Itsuki",
+      "texto_en": "Of course you wouldn't fall for it.\\nThen what flower is the correct answer?",
+      "texto_ptbr": "Claro que você não ia cair nessa.\\nEntão qual flor é a resposta certa?"
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "I...don't know.",
+      "texto_ptbr": "Eu...não sei."
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "The correct answer is the deigo flower.",
+      "texto_ptbr": "A resposta certa é a flor deigo."
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "Deigo...\\nI feel like I've heard of it before, but I'm not sure.",
+      "texto_ptbr": "Deigo...\\nSinto que já ouvi falar antes, mas não tenho certeza."
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "I also learned about it for the first time\\nwhile reading the descriptions during the tour.",
+      "texto_ptbr": "Eu também aprendi isso pela primeira vez\\nlendo as descrições durante o passeio."
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "In Okinawa, it is said that in years\\nwith particularly strong typhoons,\\ndeigo flowers bloom in droves.",
+      "texto_ptbr": "Em Okinawa, dizem que nos anos\\ncom tufões particularmente fortes,\\nas flores deigo florescem em abundância."
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Oh, I see.\\nHearing something like that makes me feel \\nlike those flowers are deeply rooted in this land. ",
+      "texto_ptbr": "Ah, entendi.\\nOuvir isso me faz sentir \\nque essas flores estão profundamente enraizadas nessa terra. "
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "I wonder how it will be this year.",
+      "texto_ptbr": "Fico imaginando como vai ser esse ano."
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Typhoons, eh...\\nI hope they won't be too rough.",
+      "texto_ptbr": "Tufões, hein...\\nEspero que não sejam muito fortes."
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "Our storm is about to come, though.",
+      "texto_ptbr": "Mas a nossa tempestade está prestes a chegar."
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "But once it passes, sunny days will return.",
+      "texto_ptbr": "Mas assim que ela passar, dias ensolarados vão voltar."
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Ah, I see, it's like the calm after the storm.",
+      "texto_ptbr": "Ah, entendi, é tipo a calmaria depois da tempestade."
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "Yes...\\nI'm sure a refreshing blue sky\\nis waiting for us.",
+      "texto_ptbr": "Sim...\\nTenho certeza que um céu azul revigorante\\nestá nos esperando."
+    }
+  ]
+}

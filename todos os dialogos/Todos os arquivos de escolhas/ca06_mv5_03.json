@@ -1,0 +1,75 @@
+{
+  "arquivo": "ca06_mv5_03",
+  "total": 7,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "もし、知らぬ間に\\nキジムナーを怒らせてしまっていたら……！",
+      "texto_en": "What if we've unwittingly\\nangered Kijimuna without realizing it...!",
+      "texto_ptbr": "E se a gente irritou o Kijimuna sem querer,\\nsem nem perceber...!"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "妖怪なんて作り話だ",
+      "texto_en": "Yokai are just made up stories.",
+      "texto_ptbr": "Yokai é só história inventada.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "触らぬ神に祟りなし、だな",
+      "texto_en": "It's the gods you don't want to anger.",
+      "texto_ptbr": "Melhor não mexer com o sobrenatural, né.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "価値観が違うって、なんでわかるんだ？",
+      "texto_en": "We have different values?",
+      "texto_ptbr": "Como você sabe que os valores são diferentes?",
+      "selidx": 2
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "エメラルドビーチ:一花:三玖",
+      "texto_en": "Emerald Beach: Ichika/Miku",
+      "texto_ptbr": "Emerald Beach: Ichika/Miku",
+      "selidx": 0
+    },
+    {
+      "id": 5,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "イルカショー施設:二乃:五月",
+      "texto_en": "Dolphin Show Area: Nino/Itsuki",
+      "texto_ptbr": "Área do Show de Golfinhos: Nino/Itsuki",
+      "selidx": 1
+    },
+    {
+      "id": 6,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "海洋博公園広場:四葉",
+      "texto_en": "Ocean Expo Park Square: Yotsuba",
+      "texto_ptbr": "Praça do Ocean Expo Park: Yotsuba",
+      "selidx": 2
+    }
+  ]
+}

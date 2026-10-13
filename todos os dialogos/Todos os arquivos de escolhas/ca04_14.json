@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca04_14",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "……あれ？\\nあ、あの、ええっと……これは……。",
+      "texto_en": "Huh?\\nU-um, well...this is...",
+      "texto_ptbr": "Hã?\nH-hmm, bem... isso é..."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "急になんだよ！？",
+      "texto_en": "What's this all the sudden?!",
+      "texto_ptbr": "Que foi, de repente?!",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "どうした、なにかあったのか？",
+      "texto_en": "What's wrong? Did something happen?",
+      "texto_ptbr": "O que foi? Aconteceu alguma coisa?",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "別にそのままでいいぞ",
+      "texto_en": "You can stay like that, you know.",
+      "texto_ptbr": "Pode ficar assim mesmo.",
+      "selidx": 2
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "arquivo": "ca03_mv1_01",
+  "total": 67,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(Who's over there%p-2;――%p;)",
+      "texto_ptbr": "(Quem está ali%p-2;――%p;)"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Ichika, Miku.",
+      "texto_ptbr": "Ichika, Miku."
+    },
+    {
+      "id": 2,
+      "personagem": "Ichika",
+      "texto_en": "Hey, Futaro-kun.",
+      "texto_ptbr": "Oi, Futaro-kun."
+    },
+    {
+      "id": 3,
+      "personagem": "Miku",
+      "texto_en": "F-Futaro...",
+      "texto_ptbr": "F-Fuutarou..."
+    },
+    {
+      "id": 4,
+      "personagem": "Miku",
+      "texto_en": "Did you find anything interesting?",
+      "texto_ptbr": "Você achou alguma coisa interessante?"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "No, I was just thinking about where to go next.\\nDid you guys find any interesting exhibits?",
+      "texto_ptbr": "Não, eu só estava pensando pra onde ir agora.\\nVocês encontraram alguma exposição interessante?"
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "I'm not sure if it was anything interesting,\\nbut I enjoyed looking at the model ships earlier.",
+      "texto_ptbr": "Não sei se era algo interessante,\\nmas eu gostei de ver as miniaturas de navios mais cedo."
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Model ships?",
+      "texto_ptbr": "Miniaturas de navios?"
+    },
+    {
+      "id": 8,
+      "personagem": "Ichika",
+      "texto_en": "We were checking out the area\\nwith the history on the Ryukyu Kingdom.",
+      "texto_ptbr": "A gente estava conferindo a área\\ncom a história do Reino de Ryukyu."
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "In old times, they sailed across the sea to China\\nto deliver tribute to the Emperor.",
+      "texto_ptbr": "Antigamente, eles navegavam pelo mar até a China\\npara entregar tributos ao Imperador."
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "You're acting like you just learned that,\\nbut didn't we study it in class?",
+      "texto_ptbr": "Você está agindo como se tivesse acabado de aprender isso,\\nmas a gente não estudou isso em aula?"
+    },
+    {
+      "id": 11,
+      "personagem": "Ichika",
+      "texto_en": "Well, c'mon, let's just forget that we did for a second.",
+      "texto_ptbr": "Ah, vamos lá, esquece por um segundo que a gente já estudou."
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*",
+      "texto_ptbr": "*suspiro*"
+    },
+    {
+      "id": 13,
+      "personagem": "Miku",
+      "texto_en": "There was a model of the ship that carried the tribute.\\nIt was a shrunken version of the real thing,\\nand it looked kinda cute.",
+      "texto_ptbr": "Tinha uma miniatura do navio que carregava os tributos.\\nEra uma versão reduzida do original,\\ne era meio fofinha."
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Oh, you mean the 'shinkousen.'",
+      "texto_ptbr": "Ah, você quer dizer o 'shinkousen'."
+    },
+    {
+      "id": 15,
+      "personagem": "Miku",
+      "texto_en": "There were different colored and shaped flags\\nhanging all over the ship.\\nThey were said to bring luck.",
+      "texto_ptbr": "Tinha bandeiras de cores e formatos diferentes\\npenduradas pelo navio todo.\\nDiziam que traziam sorte."
+    },
+    {
+      "id": 16,
+      "personagem": "Ichika",
+      "texto_en": "Apparently, it was used to ensure one's safe journey.",
+      "texto_ptbr": "Aparentemente, era usado pra garantir uma viagem segura."
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Superstition, I guess.\\nBack then, sailing across the sea\\nwas dependent on the gods too.",
+      "texto_ptbr": "Superstição, eu acho.\\nNaquela época, navegar pelo mar\\ntambém dependia dos deuses."
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "But the flag with the centipede looked a bit scary.\\nIt was long, and dangly.",
+      "texto_ptbr": "Mas a bandeira com a centopeia parecia meio assustadora.\\nEra longa, e ficava balançando."
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "A centipede? Is that also a good luck charm?",
+      "texto_ptbr": "Uma centopeia? Isso também é um amuleto da sorte?"
+    },
+    {
+      "id": 20,
+      "personagem": "Ichika",
+      "texto_en": "Weeell I think there was an explanation\\nabout how there was a god who caused storms...",
+      "texto_ptbr": "Booom, acho que tinha uma explicação\\nsobre um deus que causava tempestades..."
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "and centipedes were something the gods didn't like.",
+      "texto_ptbr": "e centopeias eram algo que os deuses não gostavam."
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "I see. That's why they hung the centipede flag.",
+      "texto_ptbr": "Entendo. Por isso penduravam a bandeira da centopeia."
+    },
+    {
+      "id": 23,
+      "personagem": "Ichika",
+      "texto_en": "It's guess it's like a charm, huh. Solely relying on the gods\\nto cross the sea, not knowing whether you can make it or not.\\nPeople in the past must have had a hard time.",
+      "texto_ptbr": "Acho que é tipo um amuleto, né. Depender só dos deuses\\npra cruzar o mar, sem saber se ia conseguir ou não.\\nAs pessoas antigamente devem ter passado por muita dificuldade."
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "I wouldn't want to ride on that ship.\\nIt would mean that everyday, I would have to spend my days\\npraying for a storm not to come.",
+      "texto_ptbr": "Eu não ia querer embarcar naquele navio.\\nSignificaria que todo dia, eu teria que passar o dia\\nrezando pra nenhuma tempestade vir."
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "I wouldn't have liked that either.\\nI feel like I wouldn't be able to handle it mentally.",
+      "texto_ptbr": "Eu também não ia gostar disso.\\nAcho que não ia aguentar mentalmente."
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "If I could handle it on my own,\\nit would be a different story,\\nbut I don't want to leave it to luck.",
+      "texto_ptbr": "Se eu conseguisse lidar com isso sozinho,\\nseria uma história diferente,\\nmas eu não quero deixar por conta da sorte."
+    },
+    {
+      "id": 27,
+      "personagem": "Miku",
+      "texto_en": "...That's so you, Futaro.",
+      "texto_ptbr": "...Isso é muito a sua cara, Fuutarou."
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "You think so?",
+      "texto_ptbr": "Você acha?"
+    },
+    {
+      "id": 29,
+      "personagem": "Miku",
+      "texto_en": "Yeah.",
+      "texto_ptbr": "É."
+    },
+    {
+      "id": 30,
+      "personagem": "Miku",
+      "texto_en": "The history of the Ryukyu Kingdom\\nwas full of things I didn't know,\\nand it was really interesting.",
+      "texto_ptbr": "A história do Reino de Ryukyu\\nestava cheia de coisas que eu não sabia,\\ne foi bem interessante."
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Ohh! So you're interested in history as well as\\nJapanese military commanders now? That's great!",
+      "texto_ptbr": "Ohh! Então você está interessada em história além dos\\ncomandantes militares japoneses agora? Que ótimo!"
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "There were pirates and stuff as well.\\nWeather wasn't the only obstacle in their way.",
+      "texto_ptbr": "Também tinha piratas e outras coisas.\\nO clima não era o único obstáculo no caminho deles."
+    },
+    {
+      "id": 33,
+      "personagem": "Ichika",
+      "texto_en": "You mean they'll attack you?",
+      "texto_ptbr": "Quer dizer que eles atacavam vocês?"
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Ships were full of tribute and trade goods,\\nwhich were a treasure trove for pirates.",
+      "texto_ptbr": "Os navios estavam cheios de tributos e mercadorias,\\nque eram um tesouro pros piratas."
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Rather, humans were probably the most troublesome.",
+      "texto_ptbr": "Na verdade, os humanos provavelmente eram o maior problema."
+    },
+    {
+      "id": 36,
+      "personagem": "Miku",
+      "texto_en": "Yeah, there was also an explanation for that.\\nThey even carried weapons\\nin case they were attacked by pirates.",
+      "texto_ptbr": "É, tinha uma explicação sobre isso também.\\nEles até carregavam armas\\ncaso fossem atacados por piratas."
+    },
+    {
+      "id": 37,
+      "personagem": "Ichika",
+      "texto_en": "As expected of Futaro-kun.",
+      "texto_ptbr": "Como esperado do Futaro-kun."
+    },
+    {
+      "id": 38,
+      "personagem": "Miku",
+      "texto_en": "The history of the Ryukyu Kingdom\\nwas full of things I didn't know,\\nand it was really interesting.",
+      "texto_ptbr": "A história do Reino de Ryukyu\\nestava cheia de coisas que eu não sabia,\\ne foi bem interessante."
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Ohh! So you're interested in history as well as\\nJapanese military commanders now? That's great!",
+      "texto_ptbr": "Ohh! Então você está interessada em história além dos\\ncomandantes militares japoneses agora? Que ótimo!"
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "What they got in return was that good, huh.",
+      "texto_ptbr": "O que eles ganhavam em troca era bom assim, hein."
+    },
+    {
+      "id": 41,
+      "personagem": "Ichika",
+      "texto_en": "What they got in return?",
+      "texto_ptbr": "O que eles ganhavam em troca?"
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "By sending tributes to China,\\nthey could show their goodwill\\nand avoid being invaded from the mainland, right?",
+      "texto_ptbr": "Ao enviar tributos pra China,\\neles podiam mostrar boa vontade\\ne evitar ser invadidos pelo continente, né?"
+    },
+    {
+      "id": 43,
+      "personagem": "Ichika",
+      "texto_en": "I see, making dangerous voyages\\nis for the sake of you and everyone else's safety.",
+      "texto_ptbr": "Entendo, fazer viagens perigosas\\né pelo bem da segurança de todo mundo."
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "Also, going to another country\\nmeans you can trade with them.",
+      "texto_ptbr": "Além disso, ir pra outro país\\nsignifica que você pode comerciar com eles."
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "After all, it was an era where we had to\\nrely on divine intervention just to cross the sea.\\nCountries that had resources to trade naturally made a profit.",
+      "texto_ptbr": "Afinal, era uma era em que se tinha\\nque depender de intervenção divina só pra atravessar o mar.\\nPaíses que tinham recursos pra comerciar naturalmente lucravam."
+    },
+    {
+      "id": 46,
+      "personagem": "Miku",
+      "texto_en": "That's right, trade.\\nIn Japan, the Shimazu clan in Kyushu\\nacted as the window for trade.",
+      "texto_ptbr": "Isso mesmo, comércio.\\nNo Japão, o clã Shimazu em Kyushu\\natuava como a janela pro comércio."
+    },
+    {
+      "id": 47,
+      "personagem": "Ichika",
+      "texto_en": "Ohhh, your engine's up and running, Miku.",
+      "texto_ptbr": "Ohhh, seu motor está a todo vapor, Miku."
+    },
+    {
+      "id": 48,
+      "personagem": "Miku",
+      "texto_en": "During that time in Japan, Chinese silk was a luxury item.\\nThe Shimazu clan was able to make a huge profit\\nby buying Chinese silk through the Ryukyu Kingdom.",
+      "texto_ptbr": "Naquela época no Japão, a seda chinesa era um item de luxo.\\nO clã Shimazu conseguiu ter um lucro enorme\\ncomprando seda chinesa através do Reino de Ryukyu."
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Oh, silk? I didn't even know that.",
+      "texto_ptbr": "Ah, seda? Eu nem sabia disso."
+    },
+    {
+      "id": 50,
+      "personagem": "Ichika",
+      "texto_en": "To even be able to impress Futaro-kun.\\nMiku, you know your stuff.",
+      "texto_ptbr": "Até conseguir impressionar o Futaro-kun.\\nMiku, você manja mesmo do assunto."
+    },
+    {
+      "id": 51,
+      "personagem": "Miku",
+      "texto_en": "Teehee...",
+      "texto_ptbr": "Teehee..."
+    },
+    {
+      "id": 52,
+      "personagem": "Miku",
+      "texto_en": "The history of the Ryukyu Kingdom\\nwas full of things I didn't know,\\nand it was really interesting.",
+      "texto_ptbr": "A história do Reino de Ryukyu\\nestava cheia de coisas que eu não sabia,\\ne foi bem interessante."
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "Ohh! So you're interested in history as well as\\nJapanese military commanders now? That's great!",
+      "texto_ptbr": "Ohh! Então você está interessada em história além dos\\ncomandantes militares japoneses agora? Que ótimo!"
+    },
+    {
+      "id": 54,
+      "personagem": "Miku",
+      "texto_en": "That's a different story.",
+      "texto_ptbr": "Isso é uma história diferente."
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "(Why's that?!?!)",
+      "texto_ptbr": "(Por que isso?!?!)"
+    },
+    {
+      "id": 56,
+      "personagem": "Ichika",
+      "texto_en": "Hey, since we've joined up,\\nwhy don't we all look around together,\\nincluding Futaro-kun?",
+      "texto_ptbr": "Ei, já que a gente se encontrou,\\nque tal explorarmos juntos,\\nincluindo o Futaro-kun?"
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "S-sure, I don't mind, but...",
+      "texto_ptbr": "C-claro, eu não me importo, mas..."
+    },
+    {
+      "id": 58,
+      "personagem": "Ichika",
+      "texto_en": "Is that okay with you too, Miku?\\nOr maybe you prefer to be alone with him?",
+      "texto_ptbr": "Isso está tudo bem pra você também, Miku?\\nOu talvez você prefira ficar sozinha com ele?"
+    },
+    {
+      "id": 59,
+      "personagem": "Miku",
+      "texto_en": "Huh?!\\nWh-what do you mean, alone with Futaro...?",
+      "texto_ptbr": "Hã?!\\nC-como assim, sozinha com o Fuutarou...?"
+    },
+    {
+      "id": 60,
+      "personagem": "Miku",
+      "texto_en": "I-I have something I want to see,\\nso I'll go on ahead.",
+      "texto_ptbr": "E-eu tenho uma coisa que quero ver,\\nentão vou na frente."
+    },
+    {
+      "id": 61,
+      "personagem": "Ichika",
+      "texto_en": "Huh, Miku?!",
+      "texto_ptbr": "Hã, Miku?!"
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 63,
+      "personagem": "Ichika",
+      "texto_en": "Yup, she's avoiding you, that's for sure.",
+      "texto_ptbr": "Pois é, ela está te evitando, com certeza."
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, there's actually something\\nI wanted to ask you about that...",
+      "texto_ptbr": "É, na verdade tem uma coisa\\nque eu queria te perguntar sobre isso..."
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "For now, go after Miku.\\nIt would be counterproductive for me to go as well, right?",
+      "texto_ptbr": "Por enquanto, vai atrás da Miku.\\nNão ia adiantar nada se eu também fosse, né?"
+    },
+    {
+      "id": 66,
+      "personagem": "Ichika",
+      "texto_en": "Got it.\\nSee you later, Futaro-kun.",
+      "texto_ptbr": "Entendido.\\nAté mais, Futaro-kun."
+    }
+  ]
+}

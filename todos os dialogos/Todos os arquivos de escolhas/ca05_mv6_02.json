@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca05_mv6_02",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "それって、なんだか不気味ですね。\\nツブツブの海藻が波に揺られてワサワサ……。",
+      "texto_en": "That's kind of creepy.\\nBumpy seaweed, swaying in the waves...",
+      "texto_ptbr": "Isso é meio assustador.\\nAlga cheia de bolinhas, balançando nas ondas..."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "別に不気味じゃないぞ",
+      "texto_en": "Um, it's not that creepy.",
+      "texto_ptbr": "Não é nada assustador.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "まあ、ちょっと不気味かもな",
+      "texto_en": "Well, I guess it's a little creepy.",
+      "texto_ptbr": "Bom, talvez seja um pouco assustador.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "楽しんで食べておいてよく言うぜ",
+      "texto_en": "You're one to talk.",
+      "texto_ptbr": "Fala isso depois de comer tão animada.",
+      "selidx": 2
+    }
+  ]
+}

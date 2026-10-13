@@ -1,0 +1,696 @@
+{
+  "arquivo": "ca02_25",
+  "total": 115,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(When we got on the Ferris wheel,\\n the sun had already started to set.)",
+      "texto_ptbr": "(Quando entramos na roda-gigante,\\n o sol já havia começado a se pôr.)"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(As we were waved off by the attendant,\\n the gondola slowly began to rise up.)",
+      "texto_ptbr": "(Enquanto o atendente nos acenava,\\n a gôndola começou a subir devagar.)"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(Outside the window, beyond the cityscape,\\n the golden sea sparkled, reflecting the sunlight.)",
+      "texto_ptbr": "(Do lado de fora, além da paisagem urbana,\\n o mar dourado brilhava refletindo a luz do sol.)"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "(But neither I nor Nino\\n had the luxury of enjoying such a breathtaking view.)",
+      "texto_ptbr": "(Mas nem eu nem Nino\\n tínhamos condições de aproveitar uma vista tão linda.)"
+    },
+    {
+      "id": 4,
+      "personagem": "Nino",
+      "texto_en": "Okay, let me go first.\\nIt's better that way, right?",
+      "texto_ptbr": "Tudo bem, deixa eu falar primeiro.\\nÉ melhor assim, né?"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "I understand.",
+      "texto_ptbr": "Entendido."
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "I'll just ask you directly.\\nSince today... No, wait... Yesterday afternoon, right?\\nYour behavior has been strange, Futaro, but%p-2;――",
+      "texto_ptbr": "Vou perguntar direto mesmo.\\nDesde hoje... Não, espera... Foi ontem à tarde, né?\\nSeu comportamento tá estranho, Fuutarou, mas%p-2;――"
+    },
+    {
+      "id": 7,
+      "personagem": "Nino",
+      "texto_en": "Is that because of me?",
+      "texto_ptbr": "Isso é por causa de mim?"
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "WHA%p-2;――%p;?!\\nNo, why would it be because of you?",
+      "texto_ptbr": "QUÊ%p-2;――%p;?!\\nNão, por que seria por causa de você?"
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "Why, you say%p-2;――",
+      "texto_ptbr": "Por que, você diz%p-2;――"
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "Why's what I want to ask you!\\nI mean, if your behavior is weird, Futaro,\\nthen it's definitely because of me!",
+      "texto_ptbr": "É exatamente isso que eu quero te perguntar!\\nOlha, se você tá agindo estranhamente, Fuutarou,\\ncom certeza é por causa de mim!"
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "That's totally\\nwhy you would become like that!\\nThere's no other reason!",
+      "texto_ptbr": "Óbvio que\\né por isso que você ficou assim!\\nNão tem outro motivo!"
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "W-wait...",
+      "texto_ptbr": "E-espera..."
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "And, there's something I realized too.",
+      "texto_ptbr": "E tem uma coisa que eu percebi também."
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Huh? Something you realized%p-2;――",
+      "texto_ptbr": "Hã? Algo que você percebeu%p-2;――"
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "We're gonna finish my part of the talk first, okay?\\nCome on, answer me.\\nWhy were you acting weird?",
+      "texto_ptbr": "A gente vai terminar a minha parte primeiro, tá?\\nVamos, me responde.\\nPor que você tava agindo assim?"
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Oh, that...",
+      "texto_ptbr": "Ah, isso..."
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "(It's so pathetic to speak honestly here. \\n But I can't hide it from Nino%p-2;――%p;)",
+      "texto_ptbr": "(É tão patético ter que falar a verdade aqui. \\n Mas não dá pra esconder nada de Nino%p-2;――%p;)"
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "(More than anything, I can't deceive her here.\\n For the sake of our future.)",
+      "texto_ptbr": "(Mais do que tudo, não posso enganá-la agora.\\n Pelo bem do nosso futuro.)"
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "(In the end, I find myself relying on Nino once again,\\n but compared to our future together,\\n my pride doesn't matter at all!)",
+      "texto_ptbr": "(No fim das contas, me pego dependendo de Nino mais uma vez,\\n mas comparado ao nosso futuro juntos,\\n meu orgulho não tem o menor valor!)"
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Am I suitable for you?",
+      "texto_ptbr": "Será que eu sou digno de você?"
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "I think you're incredibly...attractive,\\nto the point where I feel...unworthy of you.\\nI realized that during this trip.",
+      "texto_ptbr": "Acho que você é incrivelmente...incrível,\\na ponto de eu me sentir...indigno de você.\\nPercebi isso durante essa viagem."
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "I don't understand why someone like you\\nwould confess to someone like me...who\\ncan't even handle romantic relationships properly.",
+      "texto_ptbr": "Não consigo entender por que alguém como você\\nconfessaria para alguém como eu...que\\nnem sabe lidar direito com relacionamentos."
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "So, to be pathetically honest,\\nI was worried that one day\\nyou'd get tired of me...",
+      "texto_ptbr": "Então, sendo pateticamente honesto,\\ntava com medo de que um dia\\nvocê fosse se cansar de mim..."
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "I wanted you to see me\\nin a new light,\\nto show you the kind of man I am.",
+      "texto_ptbr": "Queria que você me visse\\nde um jeito diferente,\\npra te mostrar o tipo de cara que sou."
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "But, everything I tried ended in failure...",
+      "texto_ptbr": "Mas tudo que tentei acabou em fracasso..."
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 29,
+      "personagem": "Nino",
+      "texto_en": "*sigh*",
+      "texto_ptbr": "*suspiro*"
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "You're ridiculous!\\nYou were worrying about something like that?",
+      "texto_ptbr": "Que ridículo!\\nVocê tava preocupado com isso?"
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "H-hey, Nino?!\\nYou're so close...!",
+      "texto_ptbr": "E-ei, Nino?!\\nVocê tá tão perto...!"
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "Listen, Futaro.\\nFeelings are something that can change.",
+      "texto_ptbr": "Me escuta, Fuutarou.\\nSentimentos são algo que pode mudar."
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Huh?\\nWh-what do you mean?",
+      "texto_ptbr": "Hã?\\nO-o que você quer dizer com isso?"
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "(Is she already tired of me?\\n Did she invite me here to break up with me?!)",
+      "texto_ptbr": "(Será que ela já se cansou de mim?\\n Me chamou aqui pra terminar comigo?!)"
+    },
+    {
+      "id": 35,
+      "personagem": "Nino",
+      "texto_en": "Think back\\nto when we first met.",
+      "texto_ptbr": "Pensa bem\\nna época em que a gente se conheceu."
+    },
+    {
+      "id": 36,
+      "personagem": "Nino",
+      "texto_en": "I've given you a hard time since then, haven't I?",
+      "texto_ptbr": "Eu te dei muito trabalho desde então, né?"
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "I can't forget that, even if I wanted to.\\nYou were quite something.",
+      "texto_ptbr": "Não tem como esquecer, mesmo que eu quisesse.\\nVocê era de outro nível."
+    },
+    {
+      "id": 38,
+      "personagem": "Nino",
+      "texto_en": "My feelings have changed enough to confess\\nto someone I used to hate so much.",
+      "texto_ptbr": "Meus sentimentos mudaram tanto que cheguei a me declarar\\npra alguém que eu odiava tanto assim."
+    },
+    {
+      "id": 39,
+      "personagem": "Nino",
+      "texto_en": "It's better to think that people's feelings can change. \\nIn fact, there's nothing that doesn't change.",
+      "texto_ptbr": "É melhor aceitar que os sentimentos das pessoas podem mudar. \\nAfinal, não existe nada que não mude."
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "!",
+      "texto_ptbr": "!"
+    },
+    {
+      "id": 41,
+      "personagem": "Nino",
+      "texto_en": "Well, there's an exception.\\nMy feelings towards you, Futaro, will never change.",
+      "texto_ptbr": "Bom, tem uma exceção.\\nMeus sentimentos por você, Fuutarou, nunca vão mudar."
+    },
+    {
+      "id": 42,
+      "personagem": "Nino",
+      "texto_en": "My feelings for you are the result of the changes\\nand guidance that you have brought to my life.",
+      "texto_ptbr": "O que sinto por você é o resultado das mudanças\\ne das direções que você trouxe pra minha vida."
+    },
+    {
+      "id": 43,
+      "personagem": "Nino",
+      "texto_en": "On the other hand,\\nthere might be other feelings that could change.",
+      "texto_ptbr": "Por outro lado,\\noutros sentimentos talvez possam mudar."
+    },
+    {
+      "id": 44,
+      "personagem": "Nino",
+      "texto_en": "That's why I'm also anxious.\\nIt's not just you, Futaro.",
+      "texto_ptbr": "Por isso eu também fico ansiosa.\\nNão é só você, Fuutarou."
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "Did I make you anxious after all?",
+      "texto_ptbr": "Então eu acabo te deixando ansiosa também?"
+    },
+    {
+      "id": 46,
+      "personagem": "Nino",
+      "texto_en": "I wouldn't say anxious, but more like emotions\\nthat would come with being your girlfriend.",
+      "texto_ptbr": "Não diria ansiosa, mas são as emoções\\nque vêm junto de ser sua namorada."
+    },
+    {
+      "id": 47,
+      "personagem": "Nino",
+      "texto_en": "Hey, you know what, Futaro?\\nYou're a really attractive person for me,\\nyou know? Just hard to read.",
+      "texto_ptbr": "Sabe de uma coisa, Fuutarou?\\nVocê é uma pessoa muito atraente pra mim,\\nsabia? Só que difícil de entender."
+    },
+    {
+      "id": 48,
+      "personagem": "Nino",
+      "texto_en": "Once I understood you,\\nI fell in love with you in no time.",
+      "texto_ptbr": "Quando finalmente te entendi,\\nme apaixonei por você num instante."
+    },
+    {
+      "id": 49,
+      "personagem": "Nino",
+      "texto_en": "Even though Miku and Ichika are still around,\\nI don't know how many more rivals there'll be\\nif you go to Tokyo.",
+      "texto_ptbr": "Mesmo com Miku e Ichika ainda por aí,\\nnão sei quantas rivais vão aparecer\\nse você for pra Tóquio."
+    },
+    {
+      "id": 50,
+      "personagem": "Nino",
+      "texto_en": "That's why I'm always worried, you know?\\nThat someone might take you away from me, Futaro.",
+      "texto_ptbr": "Por isso fico sempre preocupada, sabe?\\nQue alguém possa te tirar de mim, Fuutarou."
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "N-no way, isn't that a bit of a stretch?\\nI'm not that kind of person.",
+      "texto_ptbr": "N-não tem como, isso não é um exagero?\\nNão sou esse tipo de pessoa."
+    },
+    {
+      "id": 52,
+      "personagem": "Nino",
+      "texto_en": "It's an issue that you don't even realize.",
+      "texto_ptbr": "É justamente esse o problema, você nem percebe."
+    },
+    {
+      "id": 53,
+      "personagem": "Nino",
+      "texto_en": "Thinking I was the only one on this earth\\nwho would fall in love with a guy like you\\nwas a big mistake.",
+      "texto_ptbr": "Achar que eu era a única no mundo\\nque se apaixonaria por um cara como você\\nfoi um grande erro da minha parte."
+    },
+    {
+      "id": 54,
+      "personagem": "Nino",
+      "texto_en": "But that's why I can't be at ease even\\nif you confess to me or I confess to you.",
+      "texto_ptbr": "Mas é por isso que não consigo ficar tranquila\\nmesmo que você se declare pra mim ou eu pra você."
+    },
+    {
+      "id": 55,
+      "personagem": "Nino",
+      "texto_en": "I'll always be the one making the moves,\\nso you should keep making moves on me too.\\nThere's no time to be anxious, you know?",
+      "texto_ptbr": "Eu sempre vou tomar a iniciativa,\\nentão você também não para de se aproximar de mim.\\nNão tem tempo pra ficar ansioso, sabe?"
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "Nino...",
+      "texto_ptbr": "Nino..."
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "(That's right.\\n This is Nino.)",
+      "texto_ptbr": "(É isso mesmo.\\n Essa é a Nino.)"
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "(She always shows me new ideas and\\n shows me a new world.)",
+      "texto_ptbr": "(Ela sempre me mostra novas ideias e\\n me apresenta um mundo novo.)"
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "(And it's not just that.\\n Even for things that seem obvious,\\n she makes me pay attention to them.)",
+      "texto_ptbr": "(E não é só isso.\\n Mesmo com coisas que parecem óbvias,\\n ela me faz prestar atenção nelas.)"
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "(Because Nino is like that, I...)",
+      "texto_ptbr": "(Por Nino ser assim, eu...)"
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "Hey, Nino.",
+      "texto_ptbr": "Ei, Nino."
+    },
+    {
+      "id": 62,
+      "personagem": "Nino",
+      "texto_en": "What?",
+      "texto_ptbr": "O quê?"
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "Thanks for fulfilling my wish back then.",
+      "texto_ptbr": "Obrigado por ter realizado meu desejo naquela época."
+    },
+    {
+      "id": 64,
+      "personagem": "Nino",
+      "texto_en": "Your wish...",
+      "texto_ptbr": "Seu desejo..."
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "That...I want to discover a new world with you.",
+      "texto_ptbr": "Que...eu quero descobrir um mundo novo com você."
+    },
+    {
+      "id": 66,
+      "personagem": "Nino",
+      "texto_en": "You've also done your best to stay with me\\nfor as long as possible.\\nThank you.",
+      "texto_ptbr": "Você também fez tudo pra ficar comigo\\npelo maior tempo possível.\\nObrigada."
+    },
+    {
+      "id": 67,
+      "personagem": "Nino",
+      "texto_en": "And, I'm excited for our relationship\\nfrom here on out.",
+      "texto_ptbr": "E estou animada com o nosso relacionamento\\ndaqui pra frente."
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "Me too.",
+      "texto_ptbr": "Eu também."
+    },
+    {
+      "id": 69,
+      "personagem": "Nino",
+      "texto_en": "You know,\\nit's important to have conversations like this.\\nWe can't rely on just being in a romantic relationship.",
+      "texto_ptbr": "Sabe,\\né importante ter conversas assim.\\nA gente não pode depender só de estar em um relacionamento."
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "I agree.\\nWe need to be aware that we are separate individuals.",
+      "texto_ptbr": "Concordo.\\nA gente precisa ter em mente que somos pessoas diferentes."
+    },
+    {
+      "id": 71,
+      "personagem": "Nino",
+      "texto_en": "But we can get to the point where we can communicate\\nwithout words, right?",
+      "texto_ptbr": "Mas a gente pode chegar num ponto em que se comunica\\nsem precisar de palavras, né?"
+    },
+    {
+      "id": 72,
+      "personagem": "Nino",
+      "texto_en": "Even though we are different individuals,\\ncompromising with each other,\\nwe can understand each other's feelings.",
+      "texto_ptbr": "Mesmo sendo pessoas diferentes,\\ncedendo um pro outro,\\na gente consegue entender os sentimentos um do outro."
+    },
+    {
+      "id": 73,
+      "personagem": "Nino",
+      "texto_en": "Do you understand how I feel right now?\\nIf you don't, please ask me.\\nI will answer if you ask.",
+      "texto_ptbr": "Você entende como eu tô me sentindo agora?\\nSe não entender, me pergunta.\\nVou responder se você perguntar."
+    },
+    {
+      "id": 74,
+      "personagem": "Futaro",
+      "texto_en": "Nino...",
+      "texto_ptbr": "Nino..."
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "I've learned a lot.\\nThere's still so much I've got to pick up\\nwhen it comes to love.",
+      "texto_ptbr": "Aprendi muito.\\nAinda tem tanto que preciso aprender\\nquando se trata de amor."
+    },
+    {
+      "id": 76,
+      "personagem": "Nino",
+      "texto_en": "I'm in the same boat as you.\\nLet's take the next step together,\\njust the two of us, forever.",
+      "texto_ptbr": "Eu também tô no mesmo barco que você.\\nVamos dar o próximo passo juntos,\\nsó nós dois, pra sempre."
+    },
+    {
+      "id": 77,
+      "personagem": "Nino",
+      "texto_en": "Even if there are things I can't understand alone,\\nif we tackle them together,\\nwe'll surely find the answer.",
+      "texto_ptbr": "Mesmo que tenha coisas que eu não consiga entender sozinha,\\nse a gente encarar junto,\\ncom certeza vai achar a resposta."
+    },
+    {
+      "id": 78,
+      "personagem": "Futaro",
+      "texto_en": "Ah, you're right.",
+      "texto_ptbr": "Ah, é verdade."
+    },
+    {
+      "id": 79,
+      "personagem": "Futaro",
+      "texto_en": "Yeah. I've fallen in love again because of it.",
+      "texto_ptbr": "É. Me apaixonei de novo por causa disso."
+    },
+    {
+      "id": 80,
+      "personagem": "Nino",
+      "texto_en": "Um.",
+      "texto_ptbr": "Hm."
+    },
+    {
+      "id": 81,
+      "personagem": "Futaro",
+      "texto_en": "Aah, no, um, just now was...",
+      "texto_ptbr": "Aah, não, é, o que eu disse agora foi..."
+    },
+    {
+      "id": 82,
+      "personagem": "Nino",
+      "texto_en": "That's how you were thinking?",
+      "texto_ptbr": "Era isso que você estava pensando?"
+    },
+    {
+      "id": 83,
+      "personagem": "Futaro",
+      "texto_en": "Th-that's right!",
+      "texto_ptbr": "É-é isso!"
+    },
+    {
+      "id": 84,
+      "personagem": "Futaro",
+      "texto_en": "You always lead me, show me the way,\\nsomething like that...",
+      "texto_ptbr": "Você sempre me guia, me mostra o caminho,\\ntipo isso..."
+    },
+    {
+      "id": 85,
+      "personagem": "Futaro",
+      "texto_en": "That's why I cling on so desperately to you, Nino,\\nso that I won't lose you.\\nEven if I can't handle it...and it's uncool.",
+      "texto_ptbr": "Por isso me apego tanto a você, Nino,\\npra não te perder.\\nMesmo que não saiba lidar... e seja sem estilo."
+    },
+    {
+      "id": 86,
+      "personagem": "Nino",
+      "texto_en": "Futaro...",
+      "texto_ptbr": "Fuutarou..."
+    },
+    {
+      "id": 87,
+      "personagem": "Nino",
+      "texto_en": "Hey, Futaro.\\nWhat do we do from now on?\\nEveryone might be here already.",
+      "texto_ptbr": "Ei, Fuutarou.\\nO que a gente faz agora?\\nOs outros podem já ter chegado."
+    },
+    {
+      "id": 88,
+      "personagem": "Nino",
+      "texto_en": "Can't we...be alone a little longer?",
+      "texto_ptbr": "Não dá pra...ficar sozinhos um pouco mais?"
+    },
+    {
+      "id": 89,
+      "personagem": "Futaro",
+      "texto_en": "Yeah.\\nI guess it's okay for a little.",
+      "texto_ptbr": "Dá.\\nAcho que tá tranquilo por um tempinho."
+    },
+    {
+      "id": 90,
+      "personagem": "Nino",
+      "texto_en": "Teehee!\\nHow about we go somewhere, just the two of us?",
+      "texto_ptbr": "Hehehe!\\nQue tal a gente ir a algum lugar, só nós dois?"
+    },
+    {
+      "id": 91,
+      "personagem": "Futaro",
+      "texto_en": "That's not a good idea.\\nWe would worry everyone.",
+      "texto_ptbr": "Não é uma boa ideia.\\nA gente ia preocupar todo mundo."
+    },
+    {
+      "id": 92,
+      "personagem": "Nino",
+      "texto_en": "Yeah, that's true.\\nIt's a shame though.",
+      "texto_ptbr": "É, verdade.\\nQue pena, mesmo."
+    },
+    {
+      "id": 93,
+      "personagem": "Nino",
+      "texto_en": "But...",
+      "texto_ptbr": "Mas..."
+    },
+    {
+      "id": 94,
+      "personagem": "Nino",
+      "texto_en": "Hey, Futaro. I said it earlier, right?\\nThat I realized something.",
+      "texto_ptbr": "Ei, Fuutarou. Eu falei antes, né?\\nQue eu percebi uma coisa."
+    },
+    {
+      "id": 95,
+      "personagem": "Futaro",
+      "texto_en": "Oh, that.\\nI wanted to hear about that, too.\\nWhat is it that you realized?",
+      "texto_ptbr": "Ah, isso.\\nEu também queria saber sobre isso.\\nO que foi que você percebeu?"
+    },
+    {
+      "id": 96,
+      "personagem": "Nino",
+      "texto_en": "Didn't I bother you, Futaro?",
+      "texto_ptbr": "Será que eu não te incomodei, Fuutarou?"
+    },
+    {
+      "id": 97,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 98,
+      "personagem": "Nino",
+      "texto_en": "I went to your room at night, right, Futaro?\\nI wondered if that caused you some trouble.",
+      "texto_ptbr": "Eu fui ao seu quarto à noite, né, Fuutarou?\\nFiquei pensando se isso te causou algum problema."
+    },
+    {
+      "id": 99,
+      "personagem": "Nino",
+      "texto_en": "But, I wanted to make some memories.",
+      "texto_ptbr": "Mas eu queria criar memórias."
+    },
+    {
+      "id": 100,
+      "personagem": "Nino",
+      "texto_en": "You're going to Tokyo, Futaro.\\nWe won't be able to be together all the time anymore.\\nSo...in my own way, I decided to make a move on you.",
+      "texto_ptbr": "Você vai pra Tóquio, Fuutarou.\\nA gente não vai poder ficar junto o tempo todo mais.\\nEntão...do meu jeito, decidi me aproximar de você."
+    },
+    {
+      "id": 101,
+      "personagem": "Nino",
+      "texto_en": "But if you didn't feel that way,\\nI might have just bothered you.",
+      "texto_ptbr": "Mas se você não sentisse o mesmo,\\nteria sido só incômodo da minha parte."
+    },
+    {
+      "id": 102,
+      "personagem": "Futaro",
+      "texto_en": "No, you didn't cause me any trouble.\\nIt was a bit difficult, well, in a sense it was\\na bit troubling, but not really... I guess.",
+      "texto_ptbr": "Não, não me causou problema nenhum.\\nFoi meio difícil, bom, num certo sentido foi\\num pouco complicado, mas não exatamente... acho."
+    },
+    {
+      "id": 103,
+      "personagem": "Futaro",
+      "texto_en": "I also want to have memories with you.",
+      "texto_ptbr": "Eu também quero criar memórias com você."
+    },
+    {
+      "id": 104,
+      "personagem": "Nino",
+      "texto_en": "Is that so? How nice.",
+      "texto_ptbr": "É mesmo? Que bom."
+    },
+    {
+      "id": 105,
+      "personagem": "Nino",
+      "texto_en": "Then...right here...",
+      "texto_ptbr": "Então...aqui mesmo..."
+    },
+    {
+      "id": 106,
+      "personagem": "Futaro",
+      "texto_en": "...!",
+      "texto_ptbr": "...!"
+    },
+    {
+      "id": 107,
+      "personagem": "Futaro",
+      "texto_en": "(Does Nino...maybe want to do it too?)",
+      "texto_ptbr": "(Será que Nino...também quer fazer isso?)"
+    },
+    {
+      "id": 108,
+      "personagem": "Nino",
+      "texto_en": "Futaro...",
+      "texto_ptbr": "Fuutarou..."
+    },
+    {
+      "id": 109,
+      "personagem": "Futaro",
+      "texto_en": "(Here, no one is watching, no one is bothering us.\\n I can kiss Nino...!)",
+      "texto_ptbr": "(Aqui, ninguém tá olhando, ninguém vai nos atrapalhar.\\n Posso beijar a Nino...!)"
+    },
+    {
+      "id": 110,
+      "personagem": "Nino",
+      "texto_en": "EEEEP!",
+      "texto_ptbr": "AAAH!"
+    },
+    {
+      "id": 111,
+      "personagem": "Futaro",
+      "texto_en": "UWAA!",
+      "texto_ptbr": "UAA!"
+    },
+    {
+      "id": 112,
+      "personagem": "Nino",
+      "texto_en": "O-oh my?\\nIt looks like we've already completed one round,\\nwe need to get off.",
+      "texto_ptbr": "A-ah é?\\nParece que já demos uma volta completa,\\nprecisamos descer."
+    },
+    {
+      "id": 113,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah.\\nIt went by in a flash, hahaha...",
+      "texto_ptbr": "É-é.\\nPassou voando, hahahaha..."
+    },
+    {
+      "id": 114,
+      "personagem": "Futaro",
+      "texto_en": "(Oh come ON, the mood was just getting good!\\n Can't this Ferris wheel go a little slower?!?!)",
+      "texto_ptbr": "(Vamos LÁ, o clima tava ficando bom!\\n Será que essa roda-gigante não dá pra ir um pouco mais devagar?!?!)"
+    }
+  ]
+}

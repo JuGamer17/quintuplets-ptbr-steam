@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca03_mv2_02",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "なっ！？\\nえっ！？",
+      "texto_en": "WHA%p-2;――%p;?!\\nEH?!",
+      "texto_ptbr": "QU%p-2;――%p;Ê?!\\nHÃ?!"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "うまいこと言ったつもりか！",
+      "texto_en": "Are you trying to be clever?!",
+      "texto_ptbr": "Acha que disse algo esperto?!",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "恥ずかしい言い方するなよ……",
+      "texto_en": "Don't say embarassing things like that...",
+      "texto_ptbr": "Não fala coisas constrangedoras assim...",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "まあ、結果としてはそうなるかな",
+      "texto_en": "Well, hopefully that's the outcome.",
+      "texto_ptbr": "Bom, como resultado, acho que vai ser isso.",
+      "selidx": 2
+    }
+  ]
+}

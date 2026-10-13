@@ -1,0 +1,46 @@
+{
+  "arquivo": "ca04_15",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*map",
+      "texto_jp": "dummy",
+      "texto_en": "{UNTRANSLATED}dummy",
+      "texto_ptbr": "",
+      "selidx": 0
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "郷土村:一花:四葉",
+      "texto_en": "Native Okinawan Village: Ichika/Yotsuba",
+      "texto_ptbr": "Vila Nativa de Okinawa: Ichika/Yotsuba",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "イルカショー施設:三玖:五月",
+      "texto_en": "Dolphin Show Area: Miku/Itsuki",
+      "texto_ptbr": "Área do Show de Golfinhos: Miku/Itsuki",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "噴水:二乃:らいは",
+      "texto_en": "Fountain Plaza: Nino/Raiha",
+      "texto_ptbr": "Praça da Fonte: Nino/Raiha",
+      "selidx": 2
+    }
+  ]
+}

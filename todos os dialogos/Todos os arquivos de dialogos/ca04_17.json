@@ -1,0 +1,396 @@
+{
+  "arquivo": "ca04_17",
+  "total": 65,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Look, Raiha!\\nHere's the big tank you've been waiting for!",
+      "texto_ptbr": "Olha, Raiha!\\nAqui está o tanque enorme que você estava esperando!"
+    },
+    {
+      "id": 1,
+      "personagem": "Raiha",
+      "texto_en": "Wowww...\\nThere's really a tank this big...",
+      "texto_ptbr": "Uaaau...\\nExiste mesmo um tanque tão grande assim..."
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "I can't believe it myself...",
+      "texto_ptbr": "Eu mesma mal posso acreditar..."
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Oh! There's a big one!\\nIs that the whale shark?!",
+      "texto_ptbr": "Oh! Tem um enorme ali!\\nAquele é o tubarão-baleia?!"
+    },
+    {
+      "id": 4,
+      "personagem": "Ichika",
+      "texto_en": "Oh wow!\\nThere it is! It's so big!",
+      "texto_ptbr": "Nossa!\\nAli está ele! É enorme!"
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "But it's a bit far away, isn't it?",
+      "texto_ptbr": "Mas está meio longe, não está?"
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "I hope it comes closer.",
+      "texto_ptbr": "Espero que ele venha mais para perto."
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "It seems to be swimming around in circles,\\nso if we wait, it might come closer.",
+      "texto_ptbr": "Parece que ele está nadando em círculos,\\nentão, se esperarmos, ele pode chegar mais perto."
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "There are many other rare fish here too.\\nLet's watch them and wait.",
+      "texto_ptbr": "Tem muitos outros peixes raros aqui também.\\nVamos observá-los e esperar."
+    },
+    {
+      "id": 9,
+      "personagem": "Raiha",
+      "texto_en": "Oh! That one's a stingray, right?\\nIt's big too!",
+      "texto_ptbr": "Oh! Aquela é uma arraia, né?\\nTambém é grande!"
+    },
+    {
+      "id": 10,
+      "personagem": "Yotsuba",
+      "texto_en": "It looks like a cushion.\\nIt would be fun to sit on it\\nand take a walk in the ocean.",
+      "texto_ptbr": "Parece uma almofada.\\nSeria divertido sentar nela\\ne passear pelo oceano."
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "That's a manta ray, right?\\nOr, it might be easier to just call it a 'manta.'",
+      "texto_ptbr": "Aquilo é uma raia-manta, né?\\nOu, talvez seja mais fácil chamar só de 'manta'."
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah...",
+      "texto_ptbr": "Ah..."
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "What?\\nYou've heard of a manta before, right?",
+      "texto_ptbr": "O que foi?\\nVocê já ouviu falar de manta antes, né?"
+    },
+    {
+      "id": 14,
+      "personagem": "Yotsuba",
+      "texto_en": "Hee-hee.\\nUesugi-san, you know so much!",
+      "texto_ptbr": "Hi-hi.\\nUesugi-san, você sabe tanta coisa!"
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "(...Hm?)",
+      "texto_ptbr": "(...Hm?)"
+    },
+    {
+      "id": 16,
+      "personagem": "Ichika",
+      "texto_en": "Hey, Futaro-kun.\\nYou're still going to be\\nin the aquarium for a while, right?",
+      "texto_ptbr": "Ei, Fuutarou-kun.\\nVocê ainda vai ficar\\nno aquário por um tempo, né?"
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, that's the plan. Is there something wrong?",
+      "texto_ptbr": "É, esse é o plano. Aconteceu alguma coisa?"
+    },
+    {
+      "id": 18,
+      "personagem": "Ichika",
+      "texto_en": "I'm tired, so I'm going to take a break.\\nThere seems to be a place where we can sit down\\nand watch the tanks, so I'll rest there for a bit.",
+      "texto_ptbr": "Estou cansada, então vou fazer uma pausa.\\nParece que tem um lugar onde dá pra sentar\\ne ver os tanques, então vou descansar lá um pouquinho."
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Don't take a nap while you're resting, okay?",
+      "texto_ptbr": "Não vá tirar um cochilo enquanto descansa, hein?"
+    },
+    {
+      "id": 20,
+      "personagem": "Ichika",
+      "texto_en": "I'd be happy if you could come get me\\nwhen it's time to move.",
+      "texto_ptbr": "Eu ficaria feliz se você pudesse ir me buscar\\nquando for a hora de ir."
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "I can't just leave you behind.\\nIt'll be a hassle, but I'll come get you.",
+      "texto_ptbr": "Não posso simplesmente te deixar pra trás.\\nVai dar trabalho, mas eu vou te buscar."
+    },
+    {
+      "id": 22,
+      "personagem": "Ichika",
+      "texto_en": "Thank you.\\nWell then, Futaro-kun, be strong.",
+      "texto_ptbr": "Obrigada.\\nBom, então, Fuutarou-kun, seja forte."
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "Wha...?",
+      "texto_ptbr": "Hã...?"
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "(Be strong? Regarding what?)",
+      "texto_ptbr": "(Seja forte? Em relação a quê?)"
+    },
+    {
+      "id": 25,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah! Uesugi-san!\\nThe whale shark is coming this way!",
+      "texto_ptbr": "Ah! Uesugi-san!\\nO tubarão-baleia está vindo pra cá!"
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "Ohhh, when did it get here?!\\nIt's even bigger up close.",
+      "texto_ptbr": "Ohhh, quando ele chegou aqui?!\\nÉ ainda maior de perto."
+    },
+    {
+      "id": 27,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah. It really has such a big impact.",
+      "texto_ptbr": "É. Ele realmente causa um grande impacto."
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "Look at that mouth.\\nIt would be so scary\\nto meet something like that in the ocean.",
+      "texto_ptbr": "Olha essa boca.\\nSeria muito assustador\\nencontrar algo assim no oceano."
+    },
+    {
+      "id": 29,
+      "personagem": "Yotsuba",
+      "texto_en": "Waaah?!\\nIt might swallow you up.",
+      "texto_ptbr": "Waaah?!\\nEle poderia engolir você."
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "Hey, Fu%p-2;――",
+      "texto_ptbr": "Ei, Fu%p-2;――"
+    },
+    {
+      "id": 31,
+      "personagem": "Ichika",
+      "texto_en": "Nino?\\nCan I talk to you?",
+      "texto_ptbr": "Nino?\\nPosso falar com você?"
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "Eh, Ichika?\\nWhat the, where are you taking me%p-2;――",
+      "texto_ptbr": "Eh, Ichika?\\nO quê, pra onde você está me levando%p-2;――"
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "...Hm?",
+      "texto_ptbr": "...Hm?"
+    },
+    {
+      "id": 34,
+      "personagem": "Yotsuba",
+      "texto_en": "What's up?",
+      "texto_ptbr": "O que foi?"
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "I feel like I just heard someone call my name...",
+      "texto_ptbr": "Tenho a impressão de que acabei de ouvir alguém chamar meu nome..."
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Huh, where did Raiha go?\\nThe whale shark is swimming in front of us!",
+      "texto_ptbr": "Ué, pra onde a Raiha foi?\\nO tubarão-baleia está nadando bem na nossa frente!"
+    },
+    {
+      "id": 37,
+      "personagem": "Yotsuba",
+      "texto_en": "She went to see the large tank from the upper deck\\nwith Itsuki.",
+      "texto_ptbr": "Ela foi ver o tanque grande do deque superior\\ncom a Itsuki."
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "Oh, I see.\\nSo it's just you and me, Yotsuba.",
+      "texto_ptbr": "Ah, entendi.\\nEntão somos só você e eu, Yotsuba."
+    },
+    {
+      "id": 39,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah...\\nIt does seem that way, doesn't it.",
+      "texto_ptbr": "Ah...\\nParece que sim, não é."
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah.\\nThose guys are all so selfish.",
+      "texto_ptbr": "É-é.\\nEssas garotas são todas muito egoístas."
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "(I was so focused on the whale shark\\n that I didn't notice,\\n but Yotsuba is surprisingly close by...)",
+      "texto_ptbr": "(Eu estava tão focado no tubarão-baleia\\n que nem percebi,\\n mas a Yotsuba está surpreendentemente perto...)"
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Wh-what do you wanna do?\\nYou and I%p-2;――",
+      "texto_ptbr": "O-o que você quer fazer?\\nVocê e eu%p-2;――"
+    },
+    {
+      "id": 43,
+      "personagem": "Yotsuba",
+      "texto_en": "Eh...?",
+      "texto_ptbr": "Eh...?"
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "Nah, it's nothing.\\nLet's watch a little longer from here.",
+      "texto_ptbr": "Não, nada.\\nVamos olhar mais um pouco daqui."
+    },
+    {
+      "id": 45,
+      "personagem": "Yotsuba",
+      "texto_en": "...Okay.",
+      "texto_ptbr": "...Tá bom."
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "(Things...feel nice here, don't they? Just now,\\n it looked like we just linked arms by chance.\\n Unfortunately, the awkwardness hasn't gone away...)",
+      "texto_ptbr": "(As coisas...estão boas aqui, não estão? Agora há pouco,\\n parecia que a gente tinha acabado de ficar de braços dados por acaso.\\n Infelizmente, o constrangimento não passou...)"
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "(Ichika said she's resting somewhere else,\\n and Raiha and Itsuki went to another place.\\n I don't see Nino or Miku nearby.)",
+      "texto_ptbr": "(A Ichika disse que está descansando em outro lugar,\\n e a Raiha e a Itsuki foram pra outro canto.\\n Não vejo a Nino nem a Miku por perto.)"
+    },
+    {
+      "id": 48,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "(Could this be my chance?\\n If I properly link arms with Yotsuba this time!)",
+      "texto_ptbr": "(Será que essa é a minha chance?\\n Se eu ficar de braços dados com a Yotsuba direito desta vez!)"
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "Y-Yotsuba.",
+      "texto_ptbr": "Y-Yotsuba."
+    },
+    {
+      "id": 51,
+      "personagem": "Yotsuba",
+      "texto_en": "Yes?",
+      "texto_ptbr": "Sim?"
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "(Yotsuba must be waiting, hoping for this.\\n I can't disappoint her.)",
+      "texto_ptbr": "(A Yotsuba deve estar esperando, torcendo por isso.\\n Não posso decepcioná-la.)"
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "(Casually linking arms...)",
+      "texto_ptbr": "(Entrelaçando os braços casualmente...)"
+    },
+    {
+      "id": 54,
+      "personagem": "Yotsuba",
+      "texto_en": "...Um, Uesugi-san?",
+      "texto_ptbr": "...Hã, Uesugi-san?"
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "H-hey, over there...um...",
+      "texto_ptbr": "E-ei, ali...hã..."
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "Look, over there!\\nIt's a school of giant trevallies!\\nWow, they're amazing!",
+      "texto_ptbr": "Olha, ali!\\nÉ um cardume de xaréus-gigantes!\\nUau, que incrível!"
+    },
+    {
+      "id": 57,
+      "personagem": "Nino",
+      "texto_en": "Out of everything here,\\nwhy talk about the TREVALLIES?!",
+      "texto_ptbr": "De tudo que tem aqui,\\npor que falar dos XARÉUS?!"
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "UWAAH?! N-Nino?",
+      "texto_ptbr": "UWAAH?! N-Nino?"
+    },
+    {
+      "id": 59,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 60,
+      "personagem": "Nino",
+      "texto_en": "Ah...",
+      "texto_ptbr": "Ah..."
+    },
+    {
+      "id": 61,
+      "personagem": "Itsuki",
+      "texto_en": "I'm sorry!\\nPlease don't mind us, you guys can continue as is,\\nUesugi-kun.",
+      "texto_ptbr": "Desculpem!\\nPor favor, não liguem pra gente, vocês podem continuar como estavam,\\nUesugi-kun."
+    },
+    {
+      "id": 62,
+      "personagem": "Itsuki",
+      "texto_en": "Come on, Nino, let's go quickly!",
+      "texto_ptbr": "Vamos, Nino, vamos logo!"
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "(...They were definitely watching us, huh.)",
+      "texto_ptbr": "(...Elas com certeza estavam nos observando, hein.)"
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "(In the end, I missed my chance\\n to link arms with Yotsuba,\\n and our aquarium visit came to an end...)",
+      "texto_ptbr": "(No fim das contas, perdi minha chance\\n de ficar de braços dados com a Yotsuba,\\n e nossa visita ao aquário chegou ao fim...)"
+    }
+  ]
+}

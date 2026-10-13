@@ -1,0 +1,222 @@
+{
+  "arquivo": "gr_02_04",
+  "total": 36,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "That's right, Uesugi-san.\\nWhy don't we invite Raiha-chan to come along too?",
+      "texto_ptbr": "Verdade, Uesugi-san.\\nQue tal a gente chamar a Raiha-chan pra ir junto também?"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Raiha too?\\nIs that okay?",
+      "texto_ptbr": "A Raiha também?\\nTudo bem?"
+    },
+    {
+      "id": 2,
+      "personagem": "Yotsuba",
+      "texto_en": "Of course!",
+      "texto_ptbr": "Claro que sim!"
+    },
+    {
+      "id": 3,
+      "personagem": "Ichika",
+      "texto_en": "We will be a family soon, after all.",
+      "texto_ptbr": "Afinal, logo vamos ser uma família."
+    },
+    {
+      "id": 4,
+      "personagem": "Yotsuba",
+      "texto_en": "What?",
+      "texto_ptbr": "O quê?"
+    },
+    {
+      "id": 5,
+      "personagem": "Miku",
+      "texto_en": "It'll be a good opportunity to deepen our friendship.",
+      "texto_ptbr": "Vai ser uma boa oportunidade pra aprofundar nossa amizade."
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "Yeah, why not, let's all go together.",
+      "texto_ptbr": "É, por que não? Vamos todos juntos."
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "A f-f-f-f-family?!",
+      "texto_ptbr": "F-f-f-f-família?!"
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "Hey, Yotsuba? What's wrong?\\nWhy is your face all red?",
+      "texto_ptbr": "Ei, Yotsuba? O que foi?\\nPor que seu rosto está todo vermelho?"
+    },
+    {
+      "id": 9,
+      "personagem": "Yotsuba",
+      "texto_en": "U-u-u-Uesugi-san!!",
+      "texto_ptbr": "U-u-u-Uesugi-san!!"
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "What?",
+      "texto_ptbr": "O quê?"
+    },
+    {
+      "id": 11,
+      "personagem": "Yotsuba",
+      "texto_en": "A-a-about being family, that's not what I meant\\nearlier! I just thought it would be fun\\nif Raiha-chan came along!",
+      "texto_ptbr": "S-s-sobre ser família, não foi isso que eu quis\\ndizer antes! Eu só achei que seria divertido\\nse a Raiha-chan viesse junto!"
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Ah... There's no need to panic.\\nI know it's just in your nature to say impulsive\\nthings like that.",
+      "texto_ptbr": "Ah... Não precisa entrar em pânico.\\nEu sei que é do seu feitio falar essas coisas\\nimpulsivas."
+    },
+    {
+      "id": 13,
+      "personagem": "Miku",
+      "texto_en": "That's so Yotsuba.",
+      "texto_ptbr": "Isso é a cara da Yotsuba."
+    },
+    {
+      "id": 14,
+      "personagem": "Nino",
+      "texto_en": "You're not completely \\nagainst the idea, are you?",
+      "texto_ptbr": "Você não é totalmente\\ncontra a ideia, né?"
+    },
+    {
+      "id": 15,
+      "personagem": "Yotsuba",
+      "texto_en": "B-but...",
+      "texto_ptbr": "M-mas..."
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "Ahem.",
+      "texto_ptbr": "Ahem."
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "What, Itsuki?",
+      "texto_ptbr": "Que foi, Itsuki?"
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "I'll make sure not to get in your way on this trip,\\nso don't worry.",
+      "texto_ptbr": "Vou tomar cuidado pra não atrapalhar vocês nessa viagem,\\nentão fiquem tranquilos."
+    },
+    {
+      "id": 19,
+      "personagem": "Both",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "Wh-what are YOU so concerned about?\\nYou should worry about yourself.",
+      "texto_ptbr": "C-com o que VOCÊ está tão preocupada?\\nDevia se preocupar consigo mesma."
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "Well, it's natural to want to be helpful.\\nYotsuba still speaks to you so politely, Fu-kun, and it\\ndoesn't seem like anything has changed, am I right?",
+      "texto_ptbr": "Bom, é natural querer ajudar.\\nA Yotsuba ainda fala com você de um jeito tão educado, Fu-kun, e\\nparece que nada mudou, não é?"
+    },
+    {
+      "id": 22,
+      "personagem": "Yotsuba",
+      "texto_en": "Oooohh...",
+      "texto_ptbr": "Ooooh..."
+    },
+    {
+      "id": 23,
+      "personagem": "Ichika",
+      "texto_en": "Now, now. This is Yotsuba and Futaro-kun\\nwe're talking about.\\nI don't think anyone expects them to move very fast.",
+      "texto_ptbr": "Calma, calma. Estamos falando da Yotsuba\\ne do Fuutarou-kun.\\nAcho que ninguém espera que eles andem muito rápido."
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Ugh...",
+      "texto_ptbr": "Ugh..."
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "(Hopefully I'm not just imagining it, but\\n Ichika's support doesn't sound very supportive...)",
+      "texto_ptbr": "(Espero que seja só impressão minha, mas\\n o apoio da Ichika não parece muito de apoio...)"
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "(I know! \\n I know that since I confessed, nothing has\\n really changed between Yotsuba and I!)",
+      "texto_ptbr": "(Eu sei! \\n Eu sei que desde que me declarei, nada mudou\\n de verdade entre a Yotsuba e eu!)"
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "(I had my own exams, and Yotsuba needed\\n to study a wide range of subjects to be able\\n to pass her entrance exam. We had no time!)",
+      "texto_ptbr": "(Eu tinha minhas próprias provas, e a Yotsuba precisava\\n estudar várias matérias pra conseguir\\n passar no vestibular. Não tivemos tempo!)"
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "(...However, now that entrance exams are over\\n and I am going to Tokyo, from here on out\\n we'll be forced into a long-distance relationship.)",
+      "texto_ptbr": "(...Só que agora que os vestibulares acabaram\\n e eu vou pra Tóquio, a partir de agora\\n seremos obrigados a ter um relacionamento à distância.)"
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "(I have no intention of doubting Yotsuba's feelings.\\n However, as two first-time lovers in a long-distance\\n relationship...to be honest, I'm pretty anxious.)",
+      "texto_ptbr": "(Não tenho intenção nenhuma de duvidar dos sentimentos da Yotsuba.\\n Mas, sendo dois namorados de primeira viagem num relacionamento\\n à distância...pra ser sincero, estou bem ansioso.)"
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "(That's why, on this trip, I want to deepen my bond\\n with Yotsuba even more.\\n That's why...!)",
+      "texto_ptbr": "(Por isso, nessa viagem, quero aprofundar ainda mais\\n meu laço com a Yotsuba.\\n Por isso...!)"
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "(I will kiss her! On THIS TRIP!!)",
+      "texto_ptbr": "(Eu vou beijá-la! NESSA VIAGEM!!)"
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "(Well, saying it like that,\\n I haven't even kissed her yet...)",
+      "texto_ptbr": "(Bom, falando assim,\\n eu nem beijei ela ainda...)"
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "(You will show her what kind of man you are,\\n Uesugi Futaro!!)",
+      "texto_ptbr": "(Você vai mostrar a ela que tipo de homem você é,\\n Uesugi Fuutarou!!)"
+    },
+    {
+      "id": 34,
+      "personagem": "Ichika",
+      "texto_en": "Oh, by the way.\\nDon't worry about Raiha-chan's travel expenses.\\nSince we're inviting her, we'll take care of it.",
+      "texto_ptbr": "Ah, aliás.\\nNão se preocupe com as despesas de viagem da Raiha-chan.\\nJá que estamos convidando ela, nós cuidamos disso."
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "O-okay.\\nI feel kinda bad. Thanks for the help.",
+      "texto_ptbr": "T-tá bom.\\nMe sinto meio mal. Obrigado pela ajuda."
+    }
+  ]
+}

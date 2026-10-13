@@ -1,0 +1,75 @@
+{
+  "arquivo": "ca06_mv1_03",
+  "total": 7,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "あ……。\\nこの手ぬぐいで沖縄のお菓子を包めば、\\nらいはちゃんへのお土産にちょうどよさそうです。",
+      "texto_en": "Ah... If I wrap Okinawan sweets\\nwith this hand towel, it would make\\na perfect souvenir for Raiha-chan, wouldn't it.",
+      "texto_ptbr": "Ah... Se eu embrulhar doces de Okinawa\\ncom essa toalhinha, ficaria\\num souvenir perfeito pra Raiha-chan, não é?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "それは良いアイディアだな",
+      "texto_en": "That's a great idea.",
+      "texto_ptbr": "Essa é uma ótima ideia.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "良いセンスじゃないか",
+      "texto_en": "You have good sense.",
+      "texto_ptbr": "Você tem bom gosto.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ありがとな",
+      "texto_en": "Thanks.",
+      "texto_ptbr": "Valeu.",
+      "selidx": 2
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "お土産屋:一花:三玖",
+      "texto_en": "Souvenir Shop: Ichika/Miku",
+      "texto_ptbr": "Loja de Souvenirs: Ichika/Miku",
+      "selidx": 0
+    },
+    {
+      "id": 5,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "ショップＢ:四葉:五月",
+      "texto_en": "Shop B: Yotsuba/Itsuki",
+      "texto_ptbr": "Loja B: Yotsuba/Itsuki",
+      "selidx": 1
+    },
+    {
+      "id": 6,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "大通りＢ:二乃",
+      "texto_en": "Main Street B: Nino",
+      "texto_ptbr": "Rua Principal B: Nino",
+      "selidx": 2
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca02_01",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ねえ、風太郎！\\n私、風太郎と一緒にいたいわ。",
+      "texto_en": "Hey, Futaro!\\nI want to spend some time with you.",
+      "texto_ptbr": "Ei, Futaro!\\nQuero passar um tempo com você."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "なら、みんなで近場を散歩するか？",
+      "texto_en": "How about we all take a walk?",
+      "texto_ptbr": "Então que tal todo mundo dar uma volta por perto?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "じゃあ、俺の部屋へ来るか？",
+      "texto_en": "Okay, want to come to my room then?",
+      "texto_ptbr": "Então, quer ir ao meu quarto?",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ラウンジに行くか",
+      "texto_en": "Let's head for the lounge.",
+      "texto_ptbr": "Vamos pro lounge.",
+      "selidx": 2
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "arquivo": "gr_01_01",
+  "total": 9,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Five months have passed since that night.",
+      "texto_ptbr": "Cinco meses se passaram desde aquela noite."
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "After I confessed, it goes without saying\\nthat there were some changes, big and small,\\nin the relationships among the six of us.",
+      "texto_ptbr": "Depois da minha confissão, nem preciso dizer\\nque houve algumas mudanças, grandes e pequenas,\\nna relação entre nós seis."
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "We debated and sometimes clashed with each other\\nfor the future each of us desired.",
+      "texto_ptbr": "Debatemos e, às vezes, batemos de frente\\npelo futuro que cada um de nós desejava."
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "That way, we walked down what we thought was the best path.",
+      "texto_ptbr": "Assim, seguimos pelo caminho que achávamos ser o melhor."
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "In the end, Itsuki accepted my feelings\\nafter much deliberation.",
+      "texto_ptbr": "No fim, a Itsuki aceitou os meus sentimentos\\ndepois de muita reflexão."
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "I don't know the details, but apparently she'd had\\nthe advice and encouragement from her four sisters\\nbehind her decision.",
+      "texto_ptbr": "Não sei os detalhes, mas parece que ela teve\\no conselho e o incentivo das quatro irmãs\\npor trás da sua decisão."
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Jeez, even now, I'm still not on their level.",
+      "texto_ptbr": "Nossa, até agora, ainda não estou no nível delas."
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Of course, there have been changes in my relationship with the quintuplets, and their relationships with each other, but I feel like everything has finally fallen into place. ",
+      "texto_ptbr": "É claro que houve mudanças na minha relação com as quintuplas e na relação delas entre si, mas sinto que tudo finalmente se encaixou."
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "And then, graduation had approached,\\nbefore we knew it%p-2;――",
+      "texto_ptbr": "E então, a formatura se aproximou,\\nantes mesmo de percebermos%p-2;――"
+    }
+  ]
+}

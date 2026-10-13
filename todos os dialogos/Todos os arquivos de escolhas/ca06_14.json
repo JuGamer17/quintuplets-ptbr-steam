@@ -1,0 +1,46 @@
+{
+  "arquivo": "ca06_14",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*map",
+      "texto_jp": "dummy",
+      "texto_en": "{UNTRANSLATED}dummy",
+      "texto_ptbr": "",
+      "selidx": 0
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "レストランゾーン:一花:四葉",
+      "texto_en": "Restaurant Zone: Ichika/Yotsuba",
+      "texto_ptbr": "Zona de Restaurantes: Ichika/Yotsuba",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "アメリカンビレッジ広場:三玖:五月",
+      "texto_en": "American Village Square: Miku/Itsuki",
+      "texto_ptbr": "Praça da American Village: Miku/Itsuki",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "ショッピングゾーンＣ:二乃",
+      "texto_en": "Shopping Zone C: Nino",
+      "texto_ptbr": "Zona de Compras C: Nino",
+      "selidx": 2
+    }
+  ]
+}

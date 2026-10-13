@@ -1,0 +1,492 @@
+{
+  "arquivo": "ca04_mv4_02",
+  "total": 81,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "This plate looks nice too.\\nI wonder if this pattern is some kind of leaf?",
+      "texto_ptbr": "Esse prato também é bonito.\\nSerá que esse padrão é algum tipo de folha?"
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "Oh, it's nice.\\nThe color is vivid, and I think it's a good product.",
+      "texto_ptbr": "Ah, é bonito.\\nA cor é vibrante, e acho que é um bom produto."
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Hey, are you two shopping together?",
+      "texto_ptbr": "Ei, vocês duas estão fazendo compras juntas?"
+    },
+    {
+      "id": 3,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, Uesugi-san, did you come over here too?",
+      "texto_ptbr": "Ah, Uesugi-san, você também veio pra cá?"
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, is there something interesting%p-2;――",
+      "texto_ptbr": "É, tem alguma coisa interessante%p-2;――"
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun!",
+      "texto_ptbr": "Fu-kun!"
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "GUAAH?!",
+      "texto_ptbr": "GUAAH?!"
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "N-Nino?!",
+      "texto_ptbr": "N-Nino?!"
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "Hey, since we've run into each other and all that,\\nlet's look around together, okay?",
+      "texto_ptbr": "Ei, já que a gente se encontrou e tal,\\nvamos olhar tudo juntos, tá?"
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "I said, don't suddenly stick to me like that.\\nIt's dangerous, isn't it?",
+      "texto_ptbr": "Eu disse, não grude em mim de repente assim.\\nÉ perigoso, não é?"
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "Awwww?\\nBut if I don't,\\nyou'll end up going somewhere else, right?",
+      "texto_ptbr": "Aaaah?\\nMas se eu não grudar,\\nvocê vai acabar indo pra outro lugar, né?"
+    },
+    {
+      "id": 11,
+      "personagem": "Yotsuba",
+      "texto_en": "U-um, Nino?",
+      "texto_ptbr": "H-hã, Nino?"
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "What?",
+      "texto_ptbr": "O quê?"
+    },
+    {
+      "id": 13,
+      "personagem": "Yotsuba",
+      "texto_en": "Well... Uesugi-san seems to be having a hard time,\\nand, I mean...like, you know?",
+      "texto_ptbr": "Bem... O Uesugi-san parece estar passando aperto,\\ne, quer dizer...tipo, sabe?"
+    },
+    {
+      "id": 14,
+      "personagem": "Nino",
+      "texto_en": "Oh, I see.",
+      "texto_ptbr": "Ah, entendi."
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "This is part of the memory making process.\\nIf you're close friends, this is normal.",
+      "texto_ptbr": "Isso faz parte de criar memórias.\\nSe são amigos próximos, isso é normal."
+    },
+    {
+      "id": 16,
+      "personagem": "Yotsuba",
+      "texto_en": "I-I see, that's right!\\nThis is normal, right?",
+      "texto_ptbr": "E-entendi, é isso mesmo!\\nIsso é normal, né?"
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "That's right, it's normal.\\nYou're overthinking things, Yotsuba.",
+      "texto_ptbr": "Isso mesmo, é normal.\\nVocê está pensando demais, Yotsuba."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "(Am I thinking too much too?\\n Am I becoming too self-conscious again%p-2;――%p;)",
+      "texto_ptbr": "(Será que eu também estou pensando demais?\\n Será que estou ficando autoconsciente demais de novo%p-2;――%p;)"
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "(No, Yotsuba is here, I'm dating her...)",
+      "texto_ptbr": "(Não, a Yotsuba está aqui, eu estou namorando com ela...)"
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Nino, wait a minute%p-2;――",
+      "texto_ptbr": "Nino, espera um pouco%p-2;――"
+    },
+    {
+      "id": 22,
+      "personagem": "Nino",
+      "texto_en": "Hey, Fu-kun! Here, come here!",
+      "texto_ptbr": "Ei, Fu-kun! Aqui, vem cá!"
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "H-hey! Don't pull me like that all of a sudden!",
+      "texto_ptbr": "E-ei! Não me puxe assim de repente!"
+    },
+    {
+      "id": 24,
+      "personagem": "Nino",
+      "texto_en": "There are a lot of pottery shops around here.\\nThere are various dishes lined up,\\nand it's fun just to look at them.",
+      "texto_ptbr": "Tem muitas lojas de cerâmica por aqui.\\nTem vários pratos enfileirados,\\ne é divertido só de olhar."
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "This is the first time I've ever gone around\\nlooking at dishes.",
+      "texto_ptbr": "É a primeira vez que saio\\nolhando pratos."
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "So, do you like anything?",
+      "texto_ptbr": "Então, você gostou de algum?"
+    },
+    {
+      "id": 27,
+      "personagem": "Yotsuba",
+      "texto_en": "Hey, Uesugi-san! What is this 'yachimun'?",
+      "texto_ptbr": "Ei, Uesugi-san! O que é esse 'yachimun'?"
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "Ah, that's a word in the Okinawan dialect\\nthat means pottery.",
+      "texto_ptbr": "Ah, é uma palavra do dialeto de Okinawa\\nque significa cerâmica."
+    },
+    {
+      "id": 29,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, I see.\\nYou know so much.",
+      "texto_ptbr": "Ah, entendi.\\nVocê sabe tanta coisa."
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "There are also pottery studios along the street,\\nso if you look for them,\\nyou can try pottery making, right?",
+      "texto_ptbr": "Também tem ateliês de cerâmica ao longo da rua,\\nentão se você procurar,\\ndá pra experimentar fazer cerâmica, né?"
+    },
+    {
+      "id": 31,
+      "personagem": "Yotsuba",
+      "texto_en": "Wow, that sounds interesting.",
+      "texto_ptbr": "Nossa, isso parece interessante."
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "Hmmm...",
+      "texto_ptbr": "Hmmm..."
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Mmm? What's the matter?",
+      "texto_ptbr": "Hm? Qual é o problema?"
+    },
+    {
+      "id": 34,
+      "personagem": "Nino",
+      "texto_en": "It's nothing. Anyway, let's look at the plates.\\nI wanted to get some new ones.",
+      "texto_ptbr": "Não é nada. Enfim, vamos olhar os pratos.\\nEu queria comprar uns novos."
+    },
+    {
+      "id": 35,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, right. Did you find some you like?",
+      "texto_ptbr": "Ah, verdade. Você achou algum de que gostou?"
+    },
+    {
+      "id": 36,
+      "personagem": "Nino",
+      "texto_en": "Hmm, actually, there are too many good things,\\nand I'm having trouble making a decision.",
+      "texto_ptbr": "Hmm, na verdade, tem coisa boa demais,\\ne estou com dificuldade pra decidir."
+    },
+    {
+      "id": 37,
+      "personagem": "Yotsuba",
+      "texto_en": "Maybe something that looks like it's Okinawa-ish\\nwould be good. Like this blue one that's kinda sea-ish,\\nor this one that's all tropical beach-ish.",
+      "texto_ptbr": "Talvez algo com uma cara meio de Okinawa\\nseria bom. Tipo esse azul meio marítimo,\\nou esse todo meio praia tropical."
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "What's with all the 'ish'?",
+      "texto_ptbr": "Por que esse monte de 'meio'?"
+    },
+    {
+      "id": 39,
+      "personagem": "Yotsuba",
+      "texto_en": "Ehehe.\\nSorry I can't express myself very well.",
+      "texto_ptbr": "Ehehe.\\nDesculpa, não sei me expressar muito bem."
+    },
+    {
+      "id": 40,
+      "personagem": "Nino",
+      "texto_en": "But, when choosing what to eat,\\nthat kind of feeling is also important, you know?",
+      "texto_ptbr": "Mas, na hora de escolher o que comer,\\nesse tipo de sensação também é importante, sabe?"
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "That feeling? What do you mean?",
+      "texto_ptbr": "Essa sensação? O que você quer dizer?"
+    },
+    {
+      "id": 42,
+      "personagem": "Nino",
+      "texto_en": "Cooking isn't just about taste, it's also about savoring\\nthe dish with your eyes. Even the same dish can give\\na different impression depending on what it's served in.",
+      "texto_ptbr": "Cozinhar não é só sobre sabor, também é saborear\\no prato com os olhos. Até o mesmo prato pode dar\\numa impressão diferente dependendo de onde é servido."
+    },
+    {
+      "id": 43,
+      "personagem": "Nino",
+      "texto_en": "Even if you don't notice it,\\nwe're both bringing out each other's charms.",
+      "texto_ptbr": "Mesmo que você não perceba,\\nos dois estão realçando o charme um do outro."
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "Well, I can see what you're trying to say...",
+      "texto_ptbr": "Bem, entendo o que você está querendo dizer..."
+    },
+    {
+      "id": 45,
+      "personagem": "Nino",
+      "texto_en": "Hey, Fu-kun?",
+      "texto_ptbr": "Ei, Fu-kun?"
+    },
+    {
+      "id": 46,
+      "personagem": "Yotsuba",
+      "texto_en": "HUH?!",
+      "texto_ptbr": "HÃ?!"
+    },
+    {
+      "id": 47,
+      "personagem": "Nino",
+      "texto_en": "I can bring out your charm, you know, Fu-kun?\\nIn exchange, Fu-kun, bring out mine%p-2;――",
+      "texto_ptbr": "Eu posso realçar o seu charme, sabe, Fu-kun?\\nEm troca, Fu-kun, realce o meu%p-2;――"
+    },
+    {
+      "id": 48,
+      "personagem": "Yotsuba",
+      "texto_en": "N-Nino!\\nHold on!",
+      "texto_ptbr": "N-Nino!\\nEspera aí!"
+    },
+    {
+      "id": 49,
+      "personagem": "Nino",
+      "texto_en": "What, Yotsuba.",
+      "texto_ptbr": "O que foi, Yotsuba."
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "(What's going on?\\n Nino suddenly got so aggressive...\\n It can't be just my imagination, though, can it?)",
+      "texto_ptbr": "(O que está acontecendo?\\n A Nino de repente ficou tão agressiva...\\n Não pode ser só imaginação minha, pode?)"
+    },
+    {
+      "id": 51,
+      "personagem": "Yotsuba",
+      "texto_en": "This!\\nHow about this dish? I think it suits your taste, Nino.",
+      "texto_ptbr": "Esse!\\nQue tal esse prato? Acho que combina com o seu gosto, Nino."
+    },
+    {
+      "id": 52,
+      "personagem": "Nino",
+      "texto_en": "Ah! How nice!",
+      "texto_ptbr": "Ah! Que lindo!"
+    },
+    {
+      "id": 53,
+      "personagem": "Nino",
+      "texto_en": "There are various types of these dishes, aren't there?\\nSeems you can collect them in a set\\nfrom large plates to small ones.",
+      "texto_ptbr": "Tem vários tipos desses pratos, né?\\nParece que dá pra colecionar em conjunto,\\ndos pratos grandes aos pequenos."
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "You don't need those, right?\\nHow many were you planning on buying?",
+      "texto_ptbr": "Você não precisa deles, precisa?\\nQuantos você estava pensando em comprar?"
+    },
+    {
+      "id": 55,
+      "personagem": "Nino",
+      "texto_en": "Well, if you want to match your mood to the dish,\\nyou can never have too many.",
+      "texto_ptbr": "Bem, se você quer combinar o humor com o prato,\\nnunca é demais ter muitos."
+    },
+    {
+      "id": 56,
+      "personagem": "Yotsuba",
+      "texto_en": "Nino really pays attention to her dishes.\\nBut, I do feel like my appetite increases\\nwhen the tableware matches the food.",
+      "texto_ptbr": "A Nino realmente se importa com os pratos.\\nMas eu sinto mesmo que meu apetite aumenta\\nquando a louça combina com a comida."
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "If you choose that many of them, won't it be difficult\\nto take them home? Even if you leave them at the hotel,\\nyou have to be careful when transporting fragile items.",
+      "texto_ptbr": "Se você escolher tantos, não vai ser difícil\\nlevar pra casa? Mesmo deixando no hotel,\\ntem que ter cuidado ao transportar itens frágeis."
+    },
+    {
+      "id": 58,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, yeah. That's true.\\nIt would be sad if we bought them\\nand they broke on the way back.",
+      "texto_ptbr": "Ah, é. Verdade.\\nSeria triste se a gente comprasse\\ne quebrasse na volta."
+    },
+    {
+      "id": 59,
+      "personagem": "Nino",
+      "texto_en": "You're too rough with your luggage.",
+      "texto_ptbr": "Você é bruta demais com a bagagem."
+    },
+    {
+      "id": 60,
+      "personagem": "Nino",
+      "texto_en": "Either way, there are delivery services, right?\\nWe can just have them delivered\\nto our apartment.",
+      "texto_ptbr": "De qualquer forma, existe serviço de entrega, né?\\nÉ só mandar entregar\\nno nosso apartamento."
+    },
+    {
+      "id": 61,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, right.\\nWe don't have to carry them ourselves.",
+      "texto_ptbr": "Ah, é.\\nA gente não precisa carregar por conta própria."
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "This is Okinawa, you know?\\nThe shipping costs would be ridiculous.",
+      "texto_ptbr": "Aqui é Okinawa, sabe?\\nO frete ia ser um absurdo."
+    },
+    {
+      "id": 63,
+      "personagem": "Nino",
+      "texto_en": "Well, compared to our travel expenses this time,\\nit's still under budget for a normal trip.",
+      "texto_ptbr": "Bem, comparado com o custo da nossa viagem dessa vez,\\nainda está abaixo do orçamento de uma viagem normal."
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "(Grr... Is this the difference\\n in the worlds we live in?!)",
+      "texto_ptbr": "(Grr... Será que essa é a diferença\\n entre os mundos em que vivemos?!)"
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "If you find something you like,\\nhow about getting a whole set in the future?",
+      "texto_ptbr": "Se você encontrar algo de que goste,\\nque tal comprar um jogo completo no futuro?"
+    },
+    {
+      "id": 66,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 67,
+      "personagem": "Nino",
+      "texto_en": "In the future?!",
+      "texto_ptbr": "No futuro?!"
+    },
+    {
+      "id": 68,
+      "personagem": "Nino",
+      "texto_en": "Oh my GOODNESS, Fu-kun.\\nYou're already thinking that far ahead.",
+      "texto_ptbr": "Meu DEUS, Fu-kun.\\nVocê já está pensando tão adiante."
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "It's not that strange.\\nYou have to think ahead and be prepared.",
+      "texto_ptbr": "Não é tão estranho.\\nTem que pensar adiante e estar preparado."
+    },
+    {
+      "id": 70,
+      "personagem": "Yotsuba",
+      "texto_en": "U-Uesugi-san?",
+      "texto_ptbr": "U-Uesugi-san?"
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "Your dream is to open your own place, right, Nino?\\nIt's not a bad idea to prepare for it now\\nby thinking ahead.",
+      "texto_ptbr": "O seu sonho é abrir o seu próprio lugar, né, Nino?\\nNão é má ideia se preparar pra isso agora\\npensando no futuro."
+    },
+    {
+      "id": 72,
+      "personagem": "Nino",
+      "texto_en": "Ah...\\nThat's what you meant. I see.",
+      "texto_ptbr": "Ah...\\nEra isso que você queria dizer. Entendi."
+    },
+    {
+      "id": 73,
+      "personagem": "Yotsuba",
+      "texto_en": "*sigh*",
+      "texto_ptbr": "*suspiro*"
+    },
+    {
+      "id": 74,
+      "personagem": "Futaro",
+      "texto_en": "What? What's wrong?",
+      "texto_ptbr": "O quê? Qual é o problema?"
+    },
+    {
+      "id": 75,
+      "personagem": "Nino",
+      "texto_en": "It's nothing.",
+      "texto_ptbr": "Não é nada."
+    },
+    {
+      "id": 76,
+      "personagem": "Nino",
+      "texto_en": "But, you remembered that much, Fu-kun...\\nThat's quite considerate of you, right?",
+      "texto_ptbr": "Mas você se lembrou disso tudo, Fu-kun...\\nÉ bem atencioso da sua parte, né?"
+    },
+    {
+      "id": 77,
+      "personagem": "Nino",
+      "texto_en": "Well okay, I think this is about it for now.\\nWe just need to have them delivered to us.",
+      "texto_ptbr": "Bem, tá, acho que por enquanto é isso.\\nÉ só mandar entregar pra gente."
+    },
+    {
+      "id": 78,
+      "personagem": "Futaro",
+      "texto_en": "Oh, you bought fewer than I expected.\\nConsidering how enthusiastic you were earlier,\\nI thought you were going to buy out everything.",
+      "texto_ptbr": "Ah, você comprou menos do que eu esperava.\\nConsiderando o quanto você estava empolgada antes,\\neu achei que você ia comprar tudo."
+    },
+    {
+      "id": 79,
+      "personagem": "Nino",
+      "texto_en": "I really want to, but if I get any more tableware,\\nI'll start having trouble finding places to put it.",
+      "texto_ptbr": "Eu quero muito, mas se eu comprar mais louça,\\nvou começar a ter dificuldade de achar lugar pra guardar."
+    },
+    {
+      "id": 80,
+      "personagem": "Futaro",
+      "texto_en": "Huhh...\\nJust how many dishes do you have...?",
+      "texto_ptbr": "Hã...\\nQuantos pratos você tem, afinal...?"
+    }
+  ]
+}

@@ -1,0 +1,390 @@
+{
+  "arquivo": "ca02_mv2_02",
+  "total": 64,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "Mmmmm, should I swim a little more?\\nThere's still time, right?",
+      "texto_ptbr": "Hmmm, será que eu nado mais um pouco?\nAinda dá tempo, né?"
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "Didn't you swim enough for now, after swimming the WHOLE\\nday?",
+      "texto_ptbr": "Você não nadou o suficiente por hoje já, depois de nadar\nO DIA INTEIRO?"
+    },
+    {
+      "id": 2,
+      "personagem": "Yotsuba",
+      "texto_en": "It just feels so good, you know?\\nThe ocean is so beautiful, and the more I swim,\\nthe more I feel like it's not enough!",
+      "texto_ptbr": "É que é muito bom, sabe?\nO mar é tão lindo, e quanto mais eu nado,\nmais sinto que não é suficiente!"
+    },
+    {
+      "id": 3,
+      "personagem": "Yotsuba",
+      "texto_en": "Come on, Nino, let's swim together!",
+      "texto_ptbr": "Vem, Nino, vamos nadar juntas!"
+    },
+    {
+      "id": 4,
+      "personagem": "Nino",
+      "texto_en": "I'm good. Right now, I feel like\\njust gazing at the ocean.",
+      "texto_ptbr": "Tô de boa. Agora eu só tô com vontade\nde ficar olhando o mar."
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Yotsuba and Nino, huh?\\nWhat are you guys up to?",
+      "texto_ptbr": "Yotsuba e Nino, é?\nO que vocês duas estão fazendo?"
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "Ah, Futaro.",
+      "texto_ptbr": "Ah, Futaro."
+    },
+    {
+      "id": 7,
+      "personagem": "Nino",
+      "texto_en": "Can't you say something?\\nYotsuba is about to go swimming AGAIN.",
+      "texto_ptbr": "Fala alguma coisa com ela.\nA Yotsuba tá querendo nadar DE NOVO."
+    },
+    {
+      "id": 8,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, I want to swim as much as I can! \\nUesugi-san, you agree, right?",
+      "texto_ptbr": "Bom, eu quero nadar o máximo que eu puder!\nUesugi-san, você concorda, né?"
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, for sure.\\nI understand the feeling.",
+      "texto_ptbr": "É, com certeza.\nEu entendo essa vontade."
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "But take a little break, too.\\nWhen you're swimming so much it's easy to\\nget dehydrated.",
+      "texto_ptbr": "Mas descansa um pouco também.\nQuando você nada demais, é fácil\nficar desidratada."
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "Well, if you put it that way, gazing at the ocean\\ndoesn't sound that bad, right?",
+      "texto_ptbr": "Bom, se você pensar assim, ficar olhando o mar\nnão parece tão ruim, né?"
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "Just relaxing, huh.",
+      "texto_ptbr": "Só relaxar, hein."
+    },
+    {
+      "id": 13,
+      "personagem": "Yotsuba",
+      "texto_en": "Hmm, I guess it's weird to\\npush yourself too hard during a vacation.",
+      "texto_ptbr": "Hmm, acho que é estranho\nse esforçar demais durante as férias."
+    },
+    {
+      "id": 14,
+      "personagem": "Nino",
+      "texto_en": "I think about that sometimes.\\nNowadays vacations are always about going \\naway somewhere, ya know?",
+      "texto_ptbr": "Eu penso nisso às vezes.\nHoje em dia, férias são sempre sobre ir\npra algum lugar, sabe?"
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "I mean, that's true, but%p-2;――",
+      "texto_ptbr": "Quer dizer, isso é verdade, mas%p-2;――"
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "I think that just being with the people you love is a great way \\nto spend your vacation.",
+      "texto_ptbr": "Eu acho que só estar com as pessoas que você ama\njá é uma ótima forma de passar as férias."
+    },
+    {
+      "id": 17,
+      "personagem": "Yotsuba",
+      "texto_en": "I see.\\nWell, I guess I'm disturbing you guys.",
+      "texto_ptbr": "Entendi.\nBom, acho que eu tô atrapalhando vocês dois."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "N-no, you're not interrupting.\\nWe came as a group to Okinawa!",
+      "texto_ptbr": "N-não, você não tá atrapalhando.\nA gente veio em grupo pra Okinawa!"
+    },
+    {
+      "id": 19,
+      "personagem": "Nino",
+      "texto_en": "Teehee, that's right.",
+      "texto_ptbr": "Hihi, isso mesmo."
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "W-well, I guess everyone has their own way\\nof spending their vacation. Some people relax at home,\\nsome people go on vacation, and some people study.",
+      "texto_ptbr": "B-bom, acho que cada um tem seu jeito\nde passar as férias. Tem gente que relaxa em casa,\ntem gente que viaja, e tem gente que estuda."
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "Studying is definitely not an option, though.",
+      "texto_ptbr": "Estudar definitivamente não é uma opção, viu."
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Oh, speaking of relaxing,\\nthere's a word in Okinawa called 'uchina time.'",
+      "texto_ptbr": "Ah, por falar em relaxar,\ntem uma expressão em Okinawa chamada 'uchina time.'"
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "Huh? What's that?",
+      "texto_ptbr": "Hã? O que é isso?"
+    },
+    {
+      "id": 24,
+      "personagem": "Yotsuba",
+      "texto_en": "It sounds like a secret technique!",
+      "texto_ptbr": "Parece um jutsu secreto!"
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "What the? A secret technique?",
+      "texto_ptbr": "O quê? Um jutsu secreto?"
+    },
+    {
+      "id": 26,
+      "personagem": "Yotsuba",
+      "texto_en": "It's like as if you're\\nmanipulating the flow of time.",
+      "texto_ptbr": "É tipo se você estivesse\nmanipulando o fluxo do tempo."
+    },
+    {
+      "id": 27,
+      "personagem": "Yotsuba",
+      "texto_en": "Secret Technique: Uchina Time!\\nNow we control the time!!",
+      "texto_ptbr": "Jutsu Secreto: Uchina Time!\nAgora controlamos o tempo!!"
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "...You're the only one who thinks that.",
+      "texto_ptbr": "...Só você que pensa assim."
+    },
+    {
+      "id": 29,
+      "personagem": "Yotsuba",
+      "texto_en": "Really?\\nI thought it sounded kind of cool.\\nWhat do you think, Nino?",
+      "texto_ptbr": "Sério?\nEu achei que soava bem legal.\nO que você acha, Nino?"
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "Don't drag me into this.",
+      "texto_ptbr": "Não me mete nessa."
+    },
+    {
+      "id": 31,
+      "personagem": "Yotsuba",
+      "texto_en": "AHH!",
+      "texto_ptbr": "AAAH!"
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Uchina time refers to the unique sense of time\\nin Okinawa.",
+      "texto_ptbr": "Uchina time se refere ao senso único de tempo\nde Okinawa."
+    },
+    {
+      "id": 33,
+      "personagem": "Nino",
+      "texto_en": "A sense of time?",
+      "texto_ptbr": "Senso de tempo?"
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Yotsuba, your imagination runs wild...\\nThat's not an ordinary thought that comes to mind.",
+      "texto_ptbr": "Yotsuba, sua imaginação não tem limites...\nNão é todo mundo que pensa numa coisa dessas."
+    },
+    {
+      "id": 35,
+      "personagem": "Yotsuba",
+      "texto_en": "Yay! I got a compliment!",
+      "texto_ptbr": "Aê! Ganhei um elogio!"
+    },
+    {
+      "id": 36,
+      "personagem": "Nino",
+      "texto_en": "Yeah, it kinda sounded like a compliment?\\nIt's an idea I couldn't come up with.",
+      "texto_ptbr": "É, meio que soou como um elogio?\nÉ uma ideia que eu nunca teria."
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Uchina time refers to the unique sense of time\\nin Okinawa.",
+      "texto_ptbr": "Uchina time se refere ao senso único de tempo\nde Okinawa."
+    },
+    {
+      "id": 38,
+      "personagem": "Nino",
+      "texto_en": "A sense of time?",
+      "texto_ptbr": "Senso de tempo?"
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "You're kinda right.",
+      "texto_ptbr": "Você meio que acertou."
+    },
+    {
+      "id": 40,
+      "personagem": "Yotsuba",
+      "texto_en": "Really?!",
+      "texto_ptbr": "Sério?!"
+    },
+    {
+      "id": 41,
+      "personagem": "Nino",
+      "texto_en": "Huh? What do you mean?\\nHave you just said that I'm correct, Futaro?",
+      "texto_ptbr": "Hã? Como assim?\nVocê acabou de dizer que eu acertei, Futaro?"
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "I'm not kidding.\\nWell, it's a unique Okinawan culture.\\nIt's not your fault if you guys don't know about it.",
+      "texto_ptbr": "Não tô brincando.\nBom, é uma cultura única de Okinawa.\nNão é culpa de vocês não saberem disso."
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "Uchina time refers to the unique sense of time\\nin Okinawa.",
+      "texto_ptbr": "Uchina time se refere ao senso único de tempo\nde Okinawa."
+    },
+    {
+      "id": 44,
+      "personagem": "Nino",
+      "texto_en": "A sense of time?",
+      "texto_ptbr": "Senso de tempo?"
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "For example, if we made plans to meet somewhere,\\nwe would set up a time and meet accordingly%p-2;――",
+      "texto_ptbr": "Por exemplo, se a gente combinasse de se encontrar em algum lugar,\na gente marcaria um horário e se encontraria conforme combinado%p-2;――"
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "In Okinawa, it's common to arrive late for a meeting,\\nand the other person won't be complaining.",
+      "texto_ptbr": "Em Okinawa, é comum chegar atrasado num encontro,\ne a outra pessoa nem vai reclamar."
+    },
+    {
+      "id": 47,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh? Is that true?",
+      "texto_ptbr": "Hã? Isso é verdade?"
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "Of course, not all Okinawans are like that.\\nIn the end, it probably depends\\non the individual's personality.",
+      "texto_ptbr": "Claro que nem todo okinawano é assim.\nNo final das contas, provavelmente depende\nda personalidade de cada um."
+    },
+    {
+      "id": 49,
+      "personagem": "Nino",
+      "texto_en": "So, Uchina time means being loose with time?",
+      "texto_ptbr": "Então, Uchina time significa ser relaxado com o tempo?"
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "...Yeah, you could say that.",
+      "texto_ptbr": "...É, pode-se dizer que sim."
+    },
+    {
+      "id": 51,
+      "personagem": "Yotsuba",
+      "texto_en": "If you're that loose with time,\\nwouldn't you have trouble catching a train,\\nfor example?",
+      "texto_ptbr": "Se você é tão relaxado assim com o tempo,\nnão ia ter problema pra pegar um trem,\npor exemplo?"
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Well, there's only one monorail in Okinawa,\\nso maybe that's a part of their unique Okinawan identity.",
+      "texto_ptbr": "Bom, só tem um monotrilho em Okinawa,\nentão talvez isso faça parte da identidade única de lá."
+    },
+    {
+      "id": 53,
+      "personagem": "Yotsuba",
+      "texto_en": "Also, when it comes to school or work,\\nit might be tough if you go by Uchina time, right?",
+      "texto_ptbr": "Além disso, quando é escola ou trabalho,\ndeve ser complicado seguir o Uchina time, né?"
+    },
+    {
+      "id": 54,
+      "personagem": "Nino",
+      "texto_en": "Apparently, they are punctual in a professionnal setting, \\nbut tardy in their private lives.",
+      "texto_ptbr": "Aparentemente, eles são pontuais no ambiente profissional,\nmas atrasados na vida pessoal."
+    },
+    {
+      "id": 55,
+      "personagem": "Yotsuba",
+      "texto_en": "Hahaha, that's true.\\nThe staff of the hotel restaurant was always on time.",
+      "texto_ptbr": "Hahaha, é verdade.\nO pessoal do restaurante do hotel sempre foi pontual."
+    },
+    {
+      "id": 56,
+      "personagem": "Yotsuba",
+      "texto_en": "But it's an interesting lifestyle.\\nFor people who live life at their own pace,\\nOkinawa might be a really nice place.",
+      "texto_ptbr": "Mas é um estilo de vida interessante.\nPra quem vive no próprio ritmo,\nOkinawa deve ser um lugar bem bacana."
+    },
+    {
+      "id": 57,
+      "personagem": "Nino",
+      "texto_en": "When traveling, you're sometimes surprised\\nby these unique cultural differences.",
+      "texto_ptbr": "Quando a gente viaja, às vezes se surpreende\ncom essas diferenças culturais únicas."
+    },
+    {
+      "id": 58,
+      "personagem": "Nino",
+      "texto_en": "It's the same overseas, isn't it?\\nI often hear that Italy's sense of time differs from that of \\nother European countries.",
+      "texto_ptbr": "É a mesma coisa no exterior, né?\nEu sempre ouço que o senso de tempo da Itália é diferente\ndos outros países europeus."
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "Oh yeah, I've heard that too.\\nTheir sense of punctuality is so different from ours it'll \\ndefinitely be causing problems.",
+      "texto_ptbr": "Ah é, eu também já ouvi isso.\nO senso de pontualidade deles é tão diferente do nosso\nque com certeza deve causar problemas."
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "Did you know that Greeks live at their own pace too?\\nMaybe they'd get along well with Okinawans.",
+      "texto_ptbr": "Você sabia que os gregos também vivem no próprio ritmo?\nTalvez eles se dessem bem com os okinawanos."
+    },
+    {
+      "id": 61,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh really, I didn't know that.",
+      "texto_ptbr": "Ah é, eu não sabia disso."
+    },
+    {
+      "id": 62,
+      "personagem": "Nino",
+      "texto_en": "...They probably have different values, right?",
+      "texto_ptbr": "...Eles devem ter valores diferentes, né?"
+    },
+    {
+      "id": 63,
+      "personagem": "Nino",
+      "texto_en": "It's interesting how people\\nare changed by the culture they are living in. \\nIt's fascinating.",
+      "texto_ptbr": "É interessante como as pessoas\nsão moldadas pela cultura em que vivem.\nÉ fascinante."
+    }
+  ]
+}

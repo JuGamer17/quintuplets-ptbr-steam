@@ -1,0 +1,84 @@
+{
+  "arquivo": "ca03_12",
+  "total": 13,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Miku",
+      "texto_en": "*sigh*",
+      "texto_ptbr": "*suspiro*"
+    },
+    {
+      "id": 1,
+      "personagem": "Miku",
+      "texto_en": "(I wasn't able to properly talk with Futaro all day today.)",
+      "texto_ptbr": "(Eu não consegui conversar direito com o Fuutarou o dia todo hoje.)"
+    },
+    {
+      "id": 2,
+      "personagem": "Miku",
+      "texto_en": "Oooohh...!",
+      "texto_ptbr": "Aaahh...!"
+    },
+    {
+      "id": 3,
+      "personagem": "Nino",
+      "texto_en": "Hey, stop kicking your feet on the bed.\\nIt stirs up dust.",
+      "texto_ptbr": "Ei, para de ficar chutando os pés na cama.\nIsso levanta poeira."
+    },
+    {
+      "id": 4,
+      "personagem": "Miku",
+      "texto_en": "Sorry...",
+      "texto_ptbr": "Desculpa..."
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "Why are you groaning like that?\\nI can feel the negative vibe spreading all across the room.",
+      "texto_ptbr": "Por que você tá gemendo desse jeito?\nDá pra sentir a vibe negativa se espalhando pelo quarto inteiro."
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "Sorry...",
+      "texto_ptbr": "Desculpa..."
+    },
+    {
+      "id": 7,
+      "personagem": "Nino",
+      "texto_en": "...I know you're probably worrying about Fu-kun\\nand getting lost in your thoughts, am I right?",
+      "texto_ptbr": "...Eu sei que você provavelmente está preocupada com o Fu-kun\ne se perdendo em pensamentos, não é?"
+    },
+    {
+      "id": 8,
+      "personagem": "Miku",
+      "texto_en": "I see, Nino has noticed it too...",
+      "texto_ptbr": "Entendo, a Nino também percebeu..."
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "It would strange to NOT notice it.",
+      "texto_ptbr": "Seria estranho NÃO perceber."
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "So?\\nDid something happen between you and Fu-kun?",
+      "texto_ptbr": "Então?\nAconteceu alguma coisa entre você e o Fu-kun?"
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "Um...it's actually not about anything that happened\\nbetween Futaro and I...",
+      "texto_ptbr": "Hum...na verdade não é sobre nada que aconteceu\nentre o Fuutarou e eu..."
+    },
+    {
+      "id": 12,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    }
+  ]
+}

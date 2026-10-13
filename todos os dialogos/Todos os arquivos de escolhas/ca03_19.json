@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca03_19",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "そうだね。\\n私たちが付き合ってるって、\\nあれでみんなに知られちゃったし。",
+      "texto_en": "That's right. Everyone found out\\nthat we were dating because of it.",
+      "texto_ptbr": "Isso mesmo. Todo mundo descobriu\nque a gente estava namorando por causa disso."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "あれは恥ずかしかった",
+      "texto_en": "That was really embarrassing.",
+      "texto_ptbr": "Aquilo foi vergonhoso.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "まあ、メリットもあったな",
+      "texto_en": "Well, there were benefits, too.",
+      "texto_ptbr": "Bom, teve seus benefícios também.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "おかげで彩りが増した",
+      "texto_en": "Because of you, it became more colorful.",
+      "texto_ptbr": "Graças a você, ficou mais colorido.",
+      "selidx": 2
+    }
+  ]
+}

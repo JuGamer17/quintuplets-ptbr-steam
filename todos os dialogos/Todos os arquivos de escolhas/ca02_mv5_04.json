@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca02_mv5_04",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "……ええと、沖縄の最南端の\\n波照間島（はてるまじま）っていう\\n離島なら見えるみたい。",
+      "texto_en": "Let's see, there's a remote island\\nin the southernmost part of Okinawa\\ncalled Hateruma Island, where you can see it.",
+      "texto_ptbr": "Vamos ver, tem uma ilha remota\\nna parte mais ao sul de Okinawa\\nchamada Ilha de Hateruma, onde dá pra ver."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "へえ、そうなのか",
+      "texto_en": "Wow, really.",
+      "texto_ptbr": "Ah, é mesmo?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "離島とか最南端とかロマンがあるな",
+      "texto_en": "How romantic.",
+      "texto_ptbr": "Ilha remota, ponto mais ao sul... tem um certo romantismo.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "星を見に行くのも悪くないな",
+      "texto_en": "Stargazing would be nice.",
+      "texto_ptbr": "Ir ver as estrelas também não seria ruim.",
+      "selidx": 2
+    }
+  ]
+}

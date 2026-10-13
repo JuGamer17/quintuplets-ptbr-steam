@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca03_mv4_01",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "もちろんです！\\nぜーんぶ保存してありますよ！",
+      "texto_en": "Of course!\\nI save all of them TOO!",
+      "texto_ptbr": "Claro!\\nEu gravo tudo também!"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "姉が好きすぎだろ",
+      "texto_en": "You love your big sis too much.",
+      "texto_ptbr": "Você gosta demais da sua irmã, hein.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "そのコレクション、興味あるな",
+      "texto_en": "I'm interested in that collection.",
+      "texto_ptbr": "Essa coleção me interessa.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "気持ちはわからなくもない",
+      "texto_en": "I can understand how you feel.",
+      "texto_ptbr": "Eu consigo entender como você se sente.",
+      "selidx": 2
+    }
+  ]
+}

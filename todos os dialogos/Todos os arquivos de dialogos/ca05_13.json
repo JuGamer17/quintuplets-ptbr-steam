@@ -1,0 +1,492 @@
+{
+  "arquivo": "ca05_13",
+  "total": 81,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(Itsuki's gotta be in her room%p-2;――%p;)",
+      "texto_ptbr": "(A Itsuki deve estar no quarto dela%p-2;――%p;)"
+    },
+    {
+      "id": 1,
+      "personagem": "???",
+      "texto_en": "EEEP?!",
+      "texto_ptbr": "AAAH?!"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Uwaa?!\\nSorry!",
+      "texto_ptbr": "Uwaa?!\\nDesculpa!"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "(What timing, someone appears\\n just as I opened my door...)",
+      "texto_ptbr": "(Que timing, alguém aparece\\n bem na hora que abri a minha porta...)"
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "Ah.",
+      "texto_ptbr": "Ah."
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "I-Itsuki?!\\nWhat are you doing in front of my room?",
+      "texto_ptbr": "I-Itsuki?!\\nO que você está fazendo na frente do meu quarto?"
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "N-no!\\nThis, um, it's not what it looks like!",
+      "texto_ptbr": "N-não!\\nIsso, hmm, não é o que parece!"
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Huh? It's not?",
+      "texto_ptbr": "Hã? Não é?"
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "I just came here right now\\nand was about to knock on your door!",
+      "texto_ptbr": "Eu acabei de chegar agora\\ne estava prestes a bater na sua porta!"
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "I definitely wasn't waiting for you to come out\\nor anything like that, you know?!",
+      "texto_ptbr": "Eu definitivamente não estava esperando você sair\\nnem nada do tipo, viu?!"
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "I-Itsuki, I gotcha. Calm down.",
+      "texto_ptbr": "I-Itsuki, entendi. Se acalma."
+    },
+    {
+      "id": 11,
+      "personagem": "Itsuki",
+      "texto_en": "After I knocked, I was just thinking about what to say\\nand got lost in thought!!",
+      "texto_ptbr": "Depois que bati, fiquei pensando no que dizer\\ne acabei me perdendo em pensamentos!!"
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Just calm down a little, okay?!",
+      "texto_ptbr": "Só se acalma um pouco, tá?!"
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "I am calm!",
+      "texto_ptbr": "Eu estou calma!"
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Well, can you explain how you're calm, then?",
+      "texto_ptbr": "Então, pode explicar como você está calma?"
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "...Oh, that actually did calm me down.",
+      "texto_ptbr": "...Ah, isso realmente me acalmou."
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*",
+      "texto_ptbr": "*suspiro*"
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "I'm sorry.\\nI got flustered because you suddenly appeared.",
+      "texto_ptbr": "Desculpa.\\nEu fiquei atrapalhada porque você apareceu de repente."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Well, even if you say that,\\nno one signals that they're exiting a room.",
+      "texto_ptbr": "Bom, mesmo que você diga isso,\\nninguém avisa que vai sair do quarto."
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "That's true...",
+      "texto_ptbr": "Isso é verdade..."
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "So, what's up?\\nDo you need something?",
+      "texto_ptbr": "Então, o que foi?\\nPrecisa de alguma coisa?"
+    },
+    {
+      "id": 21,
+      "personagem": "Itsuki",
+      "texto_en": "Umm... Well...",
+      "texto_ptbr": "Hmm... Bem..."
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "(...Oh no!\\n I'm making Itsuki uncomfortable!\\n I need to take the lead!)",
+      "texto_ptbr": "(...Ah não!\\n Estou deixando a Itsuki desconfortável!\\n Eu preciso tomar a iniciativa!)"
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "Ah, it's actually perfect timing.\\nI have something to discuss with you, Itsuki.",
+      "texto_ptbr": "Ah, na verdade é o momento perfeito.\\nEu tenho algo para conversar com você, Itsuki."
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "Y-yes!\\nWhat is it?",
+      "texto_ptbr": "S-sim!\\nO que é?"
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "You didn't see the night view from the lounge, right, Itsuki?\\nIt was really beautiful.",
+      "texto_ptbr": "Você não viu a vista noturna do lounge, né, Itsuki?\\nEra muito bonita."
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "Ichika also mentioned it.\\nShould I have gone to see it too...?",
+      "texto_ptbr": "A Ichika também comentou sobre isso.\\nEu deveria ter ido ver também...?"
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "It's no replacement,\\nbut would you like to go see\\nthe light show with me now?",
+      "texto_ptbr": "Não é a mesma coisa,\\nmas você gostaria de ir ver\\no show de luzes comigo agora?"
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "You know, at the Umikaji Terrace we went to\\nduring the day, they had information about the\\nlight shows and projection mapping.",
+      "texto_ptbr": "Sabe, no Umikaji Terrace onde a gente foi\\nde dia, tinha informações sobre os\\nshows de luzes e o projection mapping."
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "And, well, I was thinking I wanted to see it with you.",
+      "texto_ptbr": "E, bem, eu estava pensando que queria ver isso com você."
+    },
+    {
+      "id": 31,
+      "personagem": "Itsuki",
+      "texto_en": "!...",
+      "texto_ptbr": "!..."
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Of course, if you're tired, that's fine.\\nI don't want to push you or anything.",
+      "texto_ptbr": "Claro, se você estiver cansada, tudo bem.\\nEu não quero te forçar nem nada."
+    },
+    {
+      "id": 33,
+      "personagem": "Itsuki",
+      "texto_en": "Um... Would it be, just the two of us?",
+      "texto_ptbr": "Hmm... Seríamos só nós dois?"
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "I could invite everyone else,\\nif you don't wanna be alone...",
+      "texto_ptbr": "Eu poderia chamar todo mundo também,\\nse você não quiser ficar sozinha comigo..."
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "No! Just the two of us is fine!",
+      "texto_ptbr": "Não! Só nós dois está ótimo!"
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "I see, that's good.\\nI would prefer it to be just the two of us too.",
+      "texto_ptbr": "Entendo, que bom.\\nEu também preferia que fôssemos só nós dois."
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "That's, what I was also thinking...",
+      "texto_ptbr": "Era isso que eu também estava pensando..."
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "Ah! A-anyway, everything's fine!\\nLet's go together.",
+      "texto_ptbr": "Ah! D-de qualquer forma, está tudo bem!\\nVamos juntos."
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "W-well then, let's go.\\nIf we dawdle, we'll be late coming back.",
+      "texto_ptbr": "B-bom então, vamos.\\nSe ficarmos enrolando, vamos voltar tarde."
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "Ah! Please hold on!",
+      "texto_ptbr": "Ah! Espera um pouco, por favor!"
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "What is it?",
+      "texto_ptbr": "O que foi?"
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Why do you ask?\\nIsn't that obvious?",
+      "texto_ptbr": "Por que você está perguntando?\\nIsso não é óbvio?"
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "Obvious...?",
+      "texto_ptbr": "Óbvio...?"
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "We're...d-dating, aren't we?",
+      "texto_ptbr": "Nós estamos... n-namorando, não estamos?"
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "Th-that's right. It's natural.\\nBecause we're dating....",
+      "texto_ptbr": "I-isso mesmo. É natural.\\nPorque a gente está namorando...."
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "W-well then, let's go.\\nIf we dawdle, we'll be late coming back.",
+      "texto_ptbr": "B-bom então, vamos.\\nSe ficarmos enrolando, vamos voltar tarde."
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "Ah! Please hold on!",
+      "texto_ptbr": "Ah! Espera um pouco, por favor!"
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "What is it?",
+      "texto_ptbr": "O que foi?"
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, of course.\\nI want to go see it, just with you.",
+      "texto_ptbr": "Sim, claro.\\nEu quero ir ver, só com você."
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "…",
+      "texto_ptbr": "…"
+    },
+    {
+      "id": 51,
+      "personagem": "Itsuki",
+      "texto_en": "Okay, then.\\nI...also wanted to spend time with you,\\njust the two of us... I'm glad.",
+      "texto_ptbr": "Tá bom, então.\\nEu... também queria passar um tempo com você,\\nsó nós dois... Fico feliz."
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "I-I see.\\nSo, we felt the same way, huh.",
+      "texto_ptbr": "E-entendo.\\nEntão, a gente sentia o mesmo, né."
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "W-well then, let's go.\\nIf we dawdle, we'll be late coming back.",
+      "texto_ptbr": "B-bom então, vamos.\\nSe ficarmos enrolando, vamos voltar tarde."
+    },
+    {
+      "id": 54,
+      "personagem": "Itsuki",
+      "texto_en": "Ah! Please hold on!",
+      "texto_ptbr": "Ah! Espera um pouco, por favor!"
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "What is it?",
+      "texto_ptbr": "O que foi?"
+    },
+    {
+      "id": 56,
+      "personagem": "Itsuki",
+      "texto_en": "We should explain things to everyone.",
+      "texto_ptbr": "A gente devia explicar as coisas para todo mundo."
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "Explain?",
+      "texto_ptbr": "Explicar?"
+    },
+    {
+      "id": 58,
+      "personagem": "Itsuki",
+      "texto_en": "If we disappear from the hotel,\\nit'll cause a ruckus.\\nWe need to notify them.",
+      "texto_ptbr": "Se a gente sumir do hotel,\\nvai causar um alvoroço.\\nPrecisamos avisar elas."
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "Okay, then go let them know that\\nwe're going for a night walk.",
+      "texto_ptbr": "Tá bom, então avisa elas que\\nvamos dar uma volta noturna."
+    },
+    {
+      "id": 60,
+      "personagem": "Itsuki",
+      "texto_en": "...Is it truly alright?",
+      "texto_ptbr": "...Está mesmo tudo bem?"
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "We're not doing anything wrong.\\nLet's be open and honest.",
+      "texto_ptbr": "A gente não está fazendo nada de errado.\\nVamos ser abertos e honestos."
+    },
+    {
+      "id": 62,
+      "personagem": "Itsuki",
+      "texto_en": "Teehee! Yes, that's right.\\nI understand.",
+      "texto_ptbr": "Ihihi! Sim, isso mesmo.\\nEntendi."
+    },
+    {
+      "id": 63,
+      "personagem": "Itsuki",
+      "texto_en": "I sent a message to everyone.\\nThere should be no problems, now.",
+      "texto_ptbr": "Eu mandei uma mensagem para todo mundo.\\nNão deve haver problemas agora."
+    },
+    {
+      "id": 64,
+      "personagem": "Itsuki",
+      "texto_en": "Then, let's get going, Uesu... Futaro.",
+      "texto_ptbr": "Então, vamos indo, Uesu... Futaro."
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "Yeah.",
+      "texto_ptbr": "Sim."
+    },
+    {
+      "id": 66,
+      "personagem": "Itsuki",
+      "texto_en": "I'm really looking forward to it, both\\nthe light show and the projection mapping.",
+      "texto_ptbr": "Estou muito animada, tanto para\\no show de luzes quanto para o projection mapping."
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "Ah, that's right.",
+      "texto_ptbr": "Ah, é mesmo."
+    },
+    {
+      "id": 68,
+      "personagem": "Itsuki",
+      "texto_en": "Did you forget something?",
+      "texto_ptbr": "Você esqueceu de alguma coisa?"
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "Well, it's just that you haven't you told me\\nwhat you wanted with me, yet.",
+      "texto_ptbr": "Bem, é que você ainda não me disse\\no que queria falar comigo."
+    },
+    {
+      "id": 70,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, actually...it's okay.\\nIt's already taken care of.",
+      "texto_ptbr": "Ah, na verdade... tudo bem.\\nJá está resolvido."
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "That so?",
+      "texto_ptbr": "É mesmo?"
+    },
+    {
+      "id": 72,
+      "personagem": "Itsuki",
+      "texto_en": "Well, I...also wanted to spend time\\nwith you, Futaro, so I came here.",
+      "texto_ptbr": "Bem, eu... também queria passar um tempo\\ncom você, Futaro, por isso eu vim aqui."
+    },
+    {
+      "id": 73,
+      "personagem": "Itsuki",
+      "texto_en": "So, it's already...",
+      "texto_ptbr": "Então, já está..."
+    },
+    {
+      "id": 74,
+      "personagem": "Futaro",
+      "texto_en": "(Is she trying to create\\n a good atmosphere all of a sudden?)",
+      "texto_ptbr": "(Ela está tentando criar\\n um clima bom do nada?)"
+    },
+    {
+      "id": 75,
+      "personagem": "Itsuki",
+      "texto_en": "You said it, didn't you?\\nThat you wanted to spend time with me.",
+      "texto_ptbr": "Você disse isso, não disse?\\nQue queria passar um tempo comigo."
+    },
+    {
+      "id": 76,
+      "personagem": "Futaro",
+      "texto_en": "Ah... Could it be...",
+      "texto_ptbr": "Ah... Será que..."
+    },
+    {
+      "id": 77,
+      "personagem": "Itsuki",
+      "texto_en": "You invited me here, so, it's already...",
+      "texto_ptbr": "Você me chamou aqui, então, já está..."
+    },
+    {
+      "id": 78,
+      "personagem": "Futaro",
+      "texto_en": "(She came here because she wanted\\n to spend time with me!)",
+      "texto_ptbr": "(Ela veio aqui porque queria\\n passar um tempo comigo!)"
+    },
+    {
+      "id": 79,
+      "personagem": "Futaro",
+      "texto_en": "(Is she trying to create\\n a good atmosphere all of a sudden?)",
+      "texto_ptbr": "(Ela está tentando criar\\n um clima bom do nada?)"
+    },
+    {
+      "id": 80,
+      "personagem": "Futaro",
+      "texto_en": "(Don't ruin such a good mood!\\n I'll allow ZERO mistakes, Futaro!)",
+      "texto_ptbr": "(Não estraga esse clima tão bom!\\n Eu não vou permitir NENHUM erro, Futaro!)"
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "arquivo": "ca06_mv1_03",
+  "total": 68,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Yo, what are you looking at?",
+      "texto_ptbr": "Ei, o que você está olhando?"
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "What's with that expression?",
+      "texto_ptbr": "Que cara é essa?"
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "Why are you here?\\nYou probably have other places to go.",
+      "texto_ptbr": "Por que você está aqui?\\nProvavelmente tem outros lugares pra ir."
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "You also told me where you're going.\\nIn that case, the conditions should be equal, right?",
+      "texto_ptbr": "Você também me contou aonde ia.\\nNesse caso, estamos em pé de igualdade, né?"
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "...I suppose they are.\\nWell, I'm just looking at souvenirs,\\nso please feel free to do as you like.",
+      "texto_ptbr": "...Acho que sim.\\nBem, só estou olhando lembrancinhas,\\nentão fique à vontade pra fazer o que quiser."
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Fine then.",
+      "texto_ptbr": "Tá bom, então."
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "(I was thinking of confirming what her proposal\\n really meant, but it doesn't seem like\\n she's interested in talking to me.)",
+      "texto_ptbr": "(Eu estava pensando em confirmar o que a proposta dela\\n realmente queria dizer, mas não parece que\\n ela esteja interessada em falar comigo.)"
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "...Hey, Itsuki.\\nCan I ask you something?",
+      "texto_ptbr": "...Ei, Itsuki.\\nPosso te perguntar uma coisa?"
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "Wh-what is it?!",
+      "texto_ptbr": "O-o que foi?!"
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "What kind of store is this?\\nEveryone is lining up for hand towels or something.",
+      "texto_ptbr": "Que tipo de loja é essa?\\nTodo mundo está fazendo fila pra comprar toalhinhas ou algo assim."
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "This is a specialty store for small fabric items.",
+      "texto_ptbr": "Esta é uma loja especializada em pequenos artigos de tecido."
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Oh wow, that kinda store exists, eh?\\nThere's something Okinawan\\nabout all of these color schemes and designs.",
+      "texto_ptbr": "Nossa, existe esse tipo de loja, é?\\nTem algo de Okinawa\\nem todas essas combinações de cores e estampas."
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "These are Okinawan traditional dyeing techniques\\ncalled 'bingata.'\\nApparently, they're original products of this store.",
+      "texto_ptbr": "São técnicas tradicionais de tingimento de Okinawa\\nchamadas 'bingata'.\\nPelo visto, são produtos originais desta loja."
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "They're beautiful. But, would people really buy\\nand use hand towels like this? I can understand\\nif they were bath towels or handkerchiefs.",
+      "texto_ptbr": "São lindas. Mas será que as pessoas realmente comprariam\\ne usariam toalhinhas assim? Eu entenderia\\nse fossem toalhas de banho ou lenços."
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "There are many uses for them, you know?\\nYou can use them as a book cover\\nor attach handles to make them into a bag.",
+      "texto_ptbr": "Elas têm muitos usos, sabia?\\nDá pra usar como capa de livro\\nou colocar alças e transformar numa bolsa."
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "With a design like this, you could even frame it\\nand use it as interior decoration.",
+      "texto_ptbr": "Com um design assim, dá até pra emoldurar\\ne usar como decoração de interiores."
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "Don't you think it would give off\\nan Okinawan atmosphere in your room?",
+      "texto_ptbr": "Você não acha que daria um clima\\nde Okinawa no seu quarto?"
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Oh... I thought it was just something to wipe your\\nhands or sweat with, but it seems like there are many\\ndifferent uses for it, depending on your perspective.",
+      "texto_ptbr": "Ah... Eu achava que era só pra limpar as mãos\\nou o suor, mas parece que existem vários\\nusos diferentes, dependendo do ponto de vista."
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "You're quite knowledgeable, Uesugi-kun,\\nbut you seem to be a bit lacking in this area.",
+      "texto_ptbr": "Você é bem culto, Uesugi-kun,\\nmas parece que te falta um pouco nessa área."
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "I didn't use to be interested\\nin anything that wasn't related to my grades.",
+      "texto_ptbr": "Eu não costumava me interessar\\npor nada que não tivesse a ver com as minhas notas."
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "And now?",
+      "texto_ptbr": "E agora?"
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "...Being with you guys,\\nI seem to be gaining a lot of useless knowledge.",
+      "texto_ptbr": "...Estando com vocês,\\nparece que estou ganhando um monte de conhecimento inútil."
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "It's not useless knowledge.\\nIt's knowledge that enriches your heart and mind.",
+      "texto_ptbr": "Não é conhecimento inútil.\\nÉ um conhecimento que enriquece o coração e a mente."
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "So, using this hand towel for various purposes\\nis one of those knowledge tokens, eh. Well,\\nI couldn't think of anything except for wiping my hands.",
+      "texto_ptbr": "Então, usar essa toalhinha pra vários fins\\né um desses tipos de conhecimento, é? Bem,\\neu não conseguia pensar em nada além de limpar as mãos."
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "You don't need to think too hard about it.",
+      "texto_ptbr": "Você não precisa pensar tanto nisso."
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "Let's see.\\nFor example, you could use it to wrap a present,\\ncouldn't you?",
+      "texto_ptbr": "Vejamos.\\nPor exemplo, dá pra usar pra embrulhar um presente,\\nnão dá?"
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "I see.\\nI could probably do that much myself.",
+      "texto_ptbr": "Entendo.\\nAcho que isso eu conseguiria pensar sozinho."
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "Ah... If I wrap Okinawan sweets\\nwith this hand towel, it would make\\na perfect souvenir for Raiha-chan, wouldn't it.",
+      "texto_ptbr": "Ah... Se eu embrulhar doces de Okinawa\\ncom essa toalhinha, ficaria\\num souvenir perfeito pra Raiha-chan, não é?"
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "That's a great idea.\\nAlright, let's start by choosing the hand towel first!",
+      "texto_ptbr": "Ótima ideia.\\nCerto, vamos começar escolhendo a toalhinha primeiro!"
+    },
+    {
+      "id": 31,
+      "personagem": "Itsuki",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Since Raiha likes penguins,\\nmaybe a design like that would be%p-2;――",
+      "texto_ptbr": "Já que a Raiha gosta de pinguins,\\ntalvez um desenho assim seria%p-2;――"
+    },
+    {
+      "id": 33,
+      "personagem": "Itsuki",
+      "texto_en": "Wa-wait a minute, Uesugi-kun!\\nDon't steal my idea!",
+      "texto_ptbr": "E-espera aí, Uesugi-kun!\\nNão roube a minha ideia!"
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Come on, don't be so stingy.",
+      "texto_ptbr": "Ah, qual é, não seja tão mesquinha."
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Alright, I'll choose the hand towel.\\nAnd how about you choose the snacks to wrap inside?",
+      "texto_ptbr": "Certo, eu escolho a toalhinha.\\nE você escolhe os doces pra embrulhar dentro?"
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Please help me out for Raiha's sake.",
+      "texto_ptbr": "Me ajude, pelo bem da Raiha."
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "...Well, I guess there's no other choice.\\nLet's compromise on that.",
+      "texto_ptbr": "...Bem, acho que não tem outro jeito.\\nVamos fazer assim, então."
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "You have good sense.\\nA little idea can make things feel more special.",
+      "texto_ptbr": "Você tem bom senso.\\nUma pequena ideia pode deixar as coisas mais especiais."
+    },
+    {
+      "id": 39,
+      "personagem": "Itsuki",
+      "texto_en": "Heheh!\\nI think so too.",
+      "texto_ptbr": "Hehe!\\nEu também acho."
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "It's more stylish than anything else.\\nRaiha will definitely be happy.",
+      "texto_ptbr": "Fica mais estiloso do que qualquer outra coisa.\\nA Raiha com certeza vai ficar feliz."
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "I'll be happy too, if she likes it.",
+      "texto_ptbr": "Eu também vou ficar feliz, se ela gostar."
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "I'd like to do the same, but...\\nUsing the same pattern seems a bit lackluster.",
+      "texto_ptbr": "Eu queria fazer o mesmo, mas...\\nUsar o mesmo estampado parece meio sem graça."
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "Then how about I choose the snacks\\nand you choose the hand towel?",
+      "texto_ptbr": "Então que tal eu escolher os doces\\ne você escolher a toalhinha?"
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "Thanks.",
+      "texto_ptbr": "Valeu."
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "Eh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "I mean, I'm happy\\nyou're considering Raiha's feelings, too.",
+      "texto_ptbr": "Quer dizer, fico feliz\\nde você também estar pensando nos sentimentos da Raiha."
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "No, it's nothing, really.\\nIt's just something I like doing. ",
+      "texto_ptbr": "Não, não foi nada, sério.\\nÉ só uma coisa que eu gosto de fazer. "
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "I don't really think about that kinda stuff.\\nI have to choose a souvenir\\nthat she'll be happy with.",
+      "texto_ptbr": "Eu não costumo pensar nesse tipo de coisa.\\nTenho que escolher um souvenir\\ncom o qual ela fique feliz."
+    },
+    {
+      "id": 49,
+      "personagem": "Itsuki",
+      "texto_en": "...In that case, please choose the hand towel.",
+      "texto_ptbr": "...Nesse caso, por favor, escolha a toalhinha."
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "Huh?\\nThen what about you?",
+      "texto_ptbr": "Hã?\\nE você?"
+    },
+    {
+      "id": 51,
+      "personagem": "Itsuki",
+      "texto_en": "I'll choose the snacks to wrap inside. When it comes\\nto choosing delicious things, I'm more suited\\nfor the job than you, Uesugi-kun. Right?",
+      "texto_ptbr": "Eu escolho os doces pra embrulhar dentro. Quando se trata\\nde escolher coisas gostosas, sou mais adequada\\npra função do que você, Uesugi-kun. Não é?"
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "Did you find a good hand towel?",
+      "texto_ptbr": "Achou uma toalhinha boa?"
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "What about this one?\\nThe blue color looks like the sea in Okinawa,\\ndoesn't it? It's really nice.",
+      "texto_ptbr": "Que tal essa?\\nO azul parece o mar de Okinawa,\\nnão parece? É muito bonita."
+    },
+    {
+      "id": 54,
+      "personagem": "Itsuki",
+      "texto_en": "That pattern looks beautiful\\nfolded or spread out, which is nice. ",
+      "texto_ptbr": "Esse estampado fica lindo\\ndobrado ou aberto, o que é ótimo. "
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "Okay, I'll go with this one.",
+      "texto_ptbr": "Certo, vou ficar com essa."
+    },
+    {
+      "id": 56,
+      "personagem": "Itsuki",
+      "texto_en": "Now we just need to choose the sweets.",
+      "texto_ptbr": "Agora só falta escolher os doces."
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "I'm glad I had you with me, Itsuki.\\nI wouldn't have come up\\nwith something like this on my own.",
+      "texto_ptbr": "Ainda bem que você estava comigo, Itsuki.\\nEu não teria pensado\\nem algo assim sozinho."
+    },
+    {
+      "id": 58,
+      "personagem": "Itsuki",
+      "texto_en": "It's for Raiha-chan's sake.",
+      "texto_ptbr": "É pelo bem da Raiha-chan."
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "Our souvenir will be from the two of us, right?\\nI'm sure Raiha will be happy.",
+      "texto_ptbr": "O souvenir vai ser de nós dois, né?\\nTenho certeza de que a Raiha vai ficar feliz."
+    },
+    {
+      "id": 60,
+      "personagem": "Itsuki",
+      "texto_en": "Wait, from the two of us?",
+      "texto_ptbr": "Espera, de nós dois?"
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "That's right, isn't it?\\nWe're both choosing Raiha's souvenir.",
+      "texto_ptbr": "É isso mesmo, não é?\\nNós dois estamos escolhendo o souvenir da Raiha."
+    },
+    {
+      "id": 62,
+      "personagem": "Itsuki",
+      "texto_en": "That's a little, awkward...",
+      "texto_ptbr": "Isso é meio... constrangedor..."
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "Why? Is it bad if we both buy Raiha a souvenir?",
+      "texto_ptbr": "Por quê? Tem problema se nós dois comprarmos um souvenir pra Raiha?"
+    },
+    {
+      "id": 64,
+      "personagem": "Itsuki",
+      "texto_en": "No, it's not that.",
+      "texto_ptbr": "Não, não é isso."
+    },
+    {
+      "id": 65,
+      "personagem": "Itsuki",
+      "texto_en": "Anyway, let's forget about this idea.\\nI'll think of something else, so excuse me.",
+      "texto_ptbr": "Enfim, vamos esquecer essa ideia.\\nVou pensar em outra coisa, então com licença."
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "What?\\nHey, wait a minute!",
+      "texto_ptbr": "O quê?\\nEi, espera aí!"
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "(What's going on? So sudden...)",
+      "texto_ptbr": "(O que está acontecendo? Tão de repente...)"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca05_mv4_03",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "やはり、まずは定番からです！",
+      "texto_en": "Indeed, starting with the classics is always a safe bet!",
+      "texto_ptbr": "De fato, começar pelos clássicos é sempre uma aposta segura!"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "どれを選んでも美味いだろうしな",
+      "texto_en": "It'll all be delicious.",
+      "texto_ptbr": "Qualquer um que escolher vai ser gostoso.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "あえて冒険するのもありだったろうな",
+      "texto_en": "It wouldn't hurt to try something adventurous.",
+      "texto_ptbr": "Arriscar uma aventura também não seria mal.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ああ、定番にこそ実力が出るもんだ",
+      "texto_en": "Ah, well, classics are classics for a reason.",
+      "texto_ptbr": "É, é nos clássicos que aparece a qualidade de verdade.",
+      "selidx": 2
+    }
+  ]
+}

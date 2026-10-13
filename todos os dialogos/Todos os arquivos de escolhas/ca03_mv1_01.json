@@ -1,0 +1,75 @@
+{
+  "arquivo": "ca03_mv1_01",
+  "total": 7,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "おまじないみたいなものだよね。\\n海を渡れるかどうかが神頼みなんて、\\n昔の人は大変だったんだ。",
+      "texto_en": "It's guess it's like a charm, huh. Solely relying on the gods\\nto cross the sea, not knowing whether you can make it or not.\\nPeople in the past must have had a hard time.",
+      "texto_ptbr": "Acho que é tipo um amuleto, né. Depender só dos deuses\\npra cruzar o mar, sem saber se ia conseguir ou não.\\nAs pessoas antigamente devem ter passado por muita dificuldade."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "俺は乗りたくないな",
+      "texto_en": "I wouldn't want to ride on that ship.",
+      "texto_ptbr": "Eu não ia querer andar naquele navio.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "海賊だっていただろうしな",
+      "texto_en": "I bet there were pirates and stuff as well.",
+      "texto_ptbr": "Devia ter pirata também, né?",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "それだけの見返りがあったんだ",
+      "texto_en": "What they got in return was that good, huh.",
+      "texto_ptbr": "Então o retorno era tão bom assim.",
+      "selidx": 2
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "文芸展示:一花:二乃",
+      "texto_en": "Arts and Literature Exhibit: Ichika/Nino",
+      "texto_ptbr": "Exposição de Artes e Literatura: Ichika/Nino",
+      "selidx": 0
+    },
+    {
+      "id": 5,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "ホール:三玖:四葉",
+      "texto_en": "Hall: Miku/Yotsuba",
+      "texto_ptbr": "Salão: Miku/Yotsuba",
+      "selidx": 1
+    },
+    {
+      "id": 6,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "生物展示:五月:らいは",
+      "texto_en": "Biology Exhibit: Itsuki/Raiha",
+      "texto_ptbr": "Exposição de Biologia: Itsuki/Raiha",
+      "selidx": 2
+    }
+  ]
+}

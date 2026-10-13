@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca03_mv2_01",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel2",
+      "texto_jp": "だって、君が沖縄って言った時、\\n三玖も賛成してたよ？",
+      "texto_en": "Well, when you mentioned Okinawa,\\nMiku also agreed, right?",
+      "texto_ptbr": "Bom, quando você mencionou Okinawa,\\na Miku também concordou, né?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel2",
+      "texto_jp": "遠慮してたのかもしれない",
+      "texto_en": "Maybe she was holding back.",
+      "texto_ptbr": "Talvez ela estivesse se contendo.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel2",
+      "texto_jp": "ハブが怖くて嫌だったとか",
+      "texto_en": "Maybe the habu snakes scared her off.",
+      "texto_ptbr": "Talvez tenha sido medo das habu e ela não quis.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel2",
+      "texto_jp": "だったらなんで……",
+      "texto_en": "In that case, why...",
+      "texto_ptbr": "Então por que...",
+      "selidx": 2
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "arquivo": "ca01_23",
+  "total": 46,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Ichika",
+      "texto_en": "Today's meal was also delicious, wasn't it?\\nIt was so delicious that I might have eaten too much.",
+      "texto_ptbr": "A comida de hoje também estava uma delícia, né?\\nEstava tão gostosa que acho que comi demais."
+    },
+    {
+      "id": 1,
+      "personagem": "Ichika",
+      "texto_en": "All right, we have to run a lot tomorrow morning.\\nAre you ready, Futaro-kun?",
+      "texto_ptbr": "Tá bom, temos que correr bastante amanhã de manhã.\\nTá preparado, Futaro-kun?"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Why are you dragging me into this?\\nBesides, I'm pretty tired today, so I'm not sure\\nif I can wake up properly tomorrow morning.",
+      "texto_ptbr": "Por que você tá me arrastando nisso?\\nAlém disso, tô bem cansado hoje, então não sei\\nse consigo acordar direito amanhã de manhã."
+    },
+    {
+      "id": 3,
+      "personagem": "Ichika",
+      "texto_en": "Don't worry, I'll wake you up gently.",
+      "texto_ptbr": "Não se preocupa, vou te acordar gentilmente."
+    },
+    {
+      "id": 4,
+      "personagem": "Ichika",
+      "texto_en": "Hey, speaking of which,\\nwhere's Raiha-chan?\\nHasn't she come back to the room yet?",
+      "texto_ptbr": "Ei, falando nisso,\\ncadê a Raiha-chan?\\nEla ainda não voltou pro quarto?"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Oh, she came back briefly earlier,\\nbut she said she was going to Itsuki and Yotsuba's room.",
+      "texto_ptbr": "Ah, ela voltou por um momento antes,\\nmas disse que ia pro quarto da Itsuki e da Yotsuba."
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Man, she's still so energetic.\\nI don't feel like being around her anymore.",
+      "texto_ptbr": "Cara, ela ainda tá tão cheia de energia.\\nNão tenho mais disposição pra ficar perto dela."
+    },
+    {
+      "id": 7,
+      "personagem": "Ichika",
+      "texto_en": "Are you that tired?",
+      "texto_ptbr": "Você tá assim tão cansado?"
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "I'm exhausted. We ran in the morning,\\nand then went to Ocean Expo Park without resting once.",
+      "texto_ptbr": "Tô esgotado. Corremos de manhã,\\ne depois fomos pro Ocean Expo Park sem descansar nenhuma vez."
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "And after that, we played in the ocean until sunset.",
+      "texto_ptbr": "E depois disso ainda brincamos no mar até o pôr do sol."
+    },
+    {
+      "id": 10,
+      "personagem": "Ichika",
+      "texto_en": "Looking at it again, it's a schedule\\nthat would definitely tire you out.",
+      "texto_ptbr": "Olhando assim, é uma programação\\nque cansa qualquer um."
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "But you're still energetic, Ichika?",
+      "texto_ptbr": "Mas você ainda tá com energia, Ichika?"
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "I'm full of energy!\\nMy body feels warm,\\nand I feel like I can do anything right now.",
+      "texto_ptbr": "Tô cheia de energia!\\nMeu corpo tá quentinho,\\ne parece que consigo fazer qualquer coisa agora."
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "(Warm? This room has a temperature\\n that's neither hot nor cold.)",
+      "texto_ptbr": "(Quentinho? O quarto tá numa temperatura\\n que não é nem quente nem fria.)"
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "Hmm, isn't it a waste to just go to sleep like this?",
+      "texto_ptbr": "Hmm, não seria um desperdício simplesmente dormir assim?"
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "On the other hand,\\nI feel like just going to sleep right now.",
+      "texto_ptbr": "Por outro lado,\\ntenho vontade de dormir agora mesmo."
+    },
+    {
+      "id": 16,
+      "personagem": "Ichika",
+      "texto_en": "Oh, wait! We should take a bath tonight.\\nWe've been playing in the ocean,\\nso our hair will get all tangled.",
+      "texto_ptbr": "Ah, espera! A gente devia tomar banho hoje à noite.\\nFicamos brincando no mar,\\nentão nosso cabelo vai embaraçar tudo."
+    },
+    {
+      "id": 17,
+      "personagem": "Ichika",
+      "texto_en": "Do you want to take a bath together?\\nI'll wash your back for you.",
+      "texto_ptbr": "Quer tomar banho junto?\\nLavo suas costas pra você."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Th-that's, that's not allowed!\\nIf anyone finds out, they'll be EXTRAORDINARILY angry!",
+      "texto_ptbr": "Is-isso, isso não é permitido!\\nSe alguém descobrir, vão ficar EXTRAORDINARIAMENTE furiosos!"
+    },
+    {
+      "id": 19,
+      "personagem": "Ichika",
+      "texto_en": "So, as long as we keep quiet, no one will find out?",
+      "texto_ptbr": "Então, enquanto a gente ficar quieto, ninguém vai descobrir?"
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "That's not the point!",
+      "texto_ptbr": "Não é isso!"
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "It's okay.\\nWe won't make any noise.",
+      "texto_ptbr": "Tá tranquilo.\\nA gente não vai fazer barulho."
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "I said no!\\nTaking a bath together is out of the question!",
+      "texto_ptbr": "Disse que não!\\nTomar banho junto está fora de cogitação!"
+    },
+    {
+      "id": 23,
+      "personagem": "Ichika",
+      "texto_en": "Mmmh, why not?\\nI was gonna help relieve your tiredness.",
+      "texto_ptbr": "Mmmh, por quê não?\\nIa te ajudar a aliviar o cansaço."
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "(It's going to tire me out even more...)",
+      "texto_ptbr": "(Vai me cansar ainda mais...)"
+    },
+    {
+      "id": 25,
+      "personagem": "Ichika",
+      "texto_en": "Oh, I know!\\nA way to relieve your fatigue!",
+      "texto_ptbr": "Ah, já sei!\\nUm jeito de aliviar seu cansaço!"
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "Big sister Ichika will give you a massage.\\nLie down on the bed.",
+      "texto_ptbr": "A irmãzinha Ichika vai te dar uma massagem.\\nDeita na cama."
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "No, that's okay...!",
+      "texto_ptbr": "Não, tá bom...!"
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "Don't be shy. I'm sure you'll feel better, you know?\\nCome on, hurry up and take off your clothes.",
+      "texto_ptbr": "Não fica com vergonha. Tenho certeza que vai se sentir melhor, sabe?\\nVamos, tira logo a roupa."
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "You don't need to take off your clothes for a massage!",
+      "texto_ptbr": "Não precisa tirar a roupa pra fazer massagem!"
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "*sigh*\\nHey, Ichika?\\nI'm asking you seriously, are you really okay today?",
+      "texto_ptbr": "*suspiro*\\nEi, Ichika?\\nTô perguntando a sério, você tá bem hoje?"
+    },
+    {
+      "id": 31,
+      "personagem": "Ichika",
+      "texto_en": "Geez, not this again? I'm just the same as usual.",
+      "texto_ptbr": "Nossa, de novo isso? Tou igualzinha de sempre."
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "You're not acting like your usual self.\\nYou're...being too clingy.",
+      "texto_ptbr": "Você não tá agindo como de costume.\\nVocê tá...grudenta demais."
+    },
+    {
+      "id": 33,
+      "personagem": "Ichika",
+      "texto_en": "What's wrong with being clingy?\\nDoes it bother you, Futaro-kun?",
+      "texto_ptbr": "O que tem de errado em ser grudenta?\\nTe incomoda, Futaro-kun?"
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "N-no, it doesn't bother me, but...\\nI'm just worried because\\nyou've been acting unusual today%p-2;――",
+      "texto_ptbr": "N-não, não me incomoda, mas...\\nEstou preocupado porque\\nvocê tá agindo de um jeito incomum hoje%p-2;――"
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "OWAAH?!\\nWhat are you doing all of a sudden?!",
+      "texto_ptbr": "AAAAH?!\\nO que você tá fazendo de repente?!"
+    },
+    {
+      "id": 36,
+      "personagem": "Ichika",
+      "texto_en": "I said...it's nothing...",
+      "texto_ptbr": "Eu disse...que não é nada..."
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Hey, are you alright?\\nYou look like you're in pain!",
+      "texto_ptbr": "Ei, você tá bem?\\nParece que tá passando mal!"
+    },
+    {
+      "id": 38,
+      "personagem": "Ichika",
+      "texto_en": "I'm okay...\\nI just felt a little dizzy for a moment...",
+      "texto_ptbr": "Tô bem...\\nSó senti um pouco de tontura por um momento..."
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "(Whoa!!\\n Is Ichika's body unusually warm?\\n Could it be...!)",
+      "texto_ptbr": "(Caramba!!\\n O corpo da Ichika tá incomumente quente?\\n Será que...!)"
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "What do you mean you're okay?\\nYou have a fever, don't you?\\nSua temperatura não tá normal!",
+      "texto_ptbr": "Como assim tá bem?\nVocê tá com febre, né?\nSua temperatura não tá normal!"
+    },
+    {
+      "id": 41,
+      "personagem": "Ichika",
+      "texto_en": "Huh...? Couldn't be...",
+      "texto_ptbr": "Hein...? Não pode ser..."
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "You should lie down for now.\\nJust stay still, okay?",
+      "texto_ptbr": "Deita por enquanto.\\nFica quietinha, tá?"
+    },
+    {
+      "id": 43,
+      "personagem": "Ichika",
+      "texto_en": "I'm sorry...\\nMaybe I'm just being weird after all...",
+      "texto_ptbr": "Desculpa...\\nTalvez eu realmente tivesse agindo estranha..."
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "You don't have to force yourself to talk.\\nWait, I'll get some water\\nand other things ready right away!",
+      "texto_ptbr": "Não precisa forçar pra falar.\\nEspera, vou pegar água\\ne outras coisas já já!"
+    },
+    {
+      "id": 45,
+      "personagem": "Ichika",
+      "texto_en": "...Okay.",
+      "texto_ptbr": "...Certo."
+    }
+  ]
+}

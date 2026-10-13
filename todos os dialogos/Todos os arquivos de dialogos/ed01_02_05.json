@@ -1,0 +1,96 @@
+{
+  "arquivo": "ed01_02_05",
+  "total": 15,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Priest",
+      "texto_en": "Futaro. The groom.",
+      "texto_ptbr": "Fuutarou. O noivo."
+    },
+    {
+      "id": 1,
+      "personagem": "Priest",
+      "texto_en": "Do you vow to love, honor, and cherish your bride,\\nfor better or worse, in sickness and in health,\\nuntil death do you part?",
+      "texto_ptbr": "Você promete amar, honrar e valorizar a sua noiva,\\nna alegria e na tristeza, na saúde e na doença,\\naté que a morte os separe?"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "I do.",
+      "texto_ptbr": "Eu aceito."
+    },
+    {
+      "id": 3,
+      "personagem": "Priest",
+      "texto_en": "Ichika. The bride.",
+      "texto_ptbr": "Ichika. A noiva."
+    },
+    {
+      "id": 4,
+      "personagem": "Priest",
+      "texto_en": "Nino. The bride.",
+      "texto_ptbr": "Nino. A noiva."
+    },
+    {
+      "id": 5,
+      "personagem": "Priest",
+      "texto_en": "Miku. The bride.",
+      "texto_ptbr": "Miku. A noiva."
+    },
+    {
+      "id": 6,
+      "personagem": "Priest",
+      "texto_en": "Yotsuba. The bride.",
+      "texto_ptbr": "Yotsuba. A noiva."
+    },
+    {
+      "id": 7,
+      "personagem": "Priest",
+      "texto_en": "Itsuki. The bride.",
+      "texto_ptbr": "Itsuki. A noiva."
+    },
+    {
+      "id": 8,
+      "personagem": "Priest",
+      "texto_en": "Do you vow to love, honor, and cherish your groom,\\nfor better or worse, in sickness and in health,\\nuntil death do you part?",
+      "texto_ptbr": "Você promete amar, honrar e valorizar o seu noivo,\\nna alegria e na tristeza, na saúde e na doença,\\naté que a morte os separe?"
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "I do.",
+      "texto_ptbr": "Eu aceito."
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "I do.",
+      "texto_ptbr": "Eu aceito."
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "I do.",
+      "texto_ptbr": "Eu aceito."
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "I do.",
+      "texto_ptbr": "Eu aceito."
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "I do.",
+      "texto_ptbr": "Eu aceito."
+    },
+    {
+      "id": 14,
+      "personagem": "Priest",
+      "texto_en": "You may kiss the bride.",
+      "texto_ptbr": "Pode beijar a noiva."
+    }
+  ]
+}

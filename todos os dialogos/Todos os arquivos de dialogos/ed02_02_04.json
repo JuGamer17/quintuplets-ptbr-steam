@@ -1,0 +1,480 @@
+{
+  "arquivo": "ed02_02_04",
+  "total": 79,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Ahh... I'm so tired...",
+      "texto_ptbr": "Ahh... Que cansaço..."
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "I'm exhausted too...\\nI never thought I'd be this nervous.",
+      "texto_ptbr": "Eu também estou exausta...\\nNunca imaginei que ficaria tão nervosa."
+    },
+    {
+      "id": 2,
+      "personagem": "Nino",
+      "texto_en": "When I imagined my wedding I didn't feel nervous at all.\\nThat was unexpected.",
+      "texto_ptbr": "Quando eu imaginava o meu casamento, não me sentia nervosa nem um pouco.\\nIsso foi inesperado."
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Reality is something else, though.\\nThings don't always go as planned.",
+      "texto_ptbr": "A realidade é outra coisa, né.\\nAs coisas nem sempre saem como planejado."
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Anyway, we made it through somehow. Good job, Nino.",
+      "texto_ptbr": "Enfim, a gente conseguiu passar por isso de algum jeito. Bom trabalho, Nino."
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "You too, Futaro.",
+      "texto_ptbr": "Você também, Fuutarou."
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "...Looking back, my relationship with you\\nwasn't exactly what I had imagined.",
+      "texto_ptbr": "...Olhando pra trás, o meu relacionamento com você\\nnão foi exatamente o que eu tinha imaginado."
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Haha, that's probably true.",
+      "texto_ptbr": "Haha, provavelmente é verdade."
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "But, that's what made it great.\\nI loved you in my own unique way.",
+      "texto_ptbr": "Mas foi isso que tornou tudo ótimo.\\nEu amei você do meu jeito único."
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "Predictability is boring.\\nWe had an unconventional romance.",
+      "texto_ptbr": "Previsibilidade é chato.\\nTivemos um romance nada convencional."
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "Hey, don't you think so?",
+      "texto_ptbr": "Ei, você não acha?"
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Yeah.\\nYou always managed to exceed my expectations.",
+      "texto_ptbr": "É.\\nVocê sempre conseguiu superar as minhas expectativas."
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "Same goes for you, Futaro.",
+      "texto_ptbr": "O mesmo vale pra você, Fuutarou."
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "(An unconventional romance, huh?)",
+      "texto_ptbr": "(Um romance nada convencional, hein?)"
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "(I don't remember doing anything\\n that surprised Nino, but she told me what surprised her.)",
+      "texto_ptbr": "(Não me lembro de ter feito nada\\n que surpreendesse a Nino, mas ela me contou o que a surpreendeu.)"
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "...Hey.\\nDo you remember what happened at the school festival?",
+      "texto_ptbr": "...Ei.\\nVocê se lembra do que aconteceu no festival da escola?"
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "The school festival? There were a lot of things.\\nWhich one are you talking about?",
+      "texto_ptbr": "O festival da escola? Aconteceram muitas coisas.\\nDe qual você está falando?"
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Well...",
+      "texto_ptbr": "Bem..."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Obviously, I'm talking about what you did to me.",
+      "texto_ptbr": "Óbvio que estou falando do que você fez comigo."
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "About our first kiss you initiated%p-2;――",
+      "texto_ptbr": "Sobre o nosso primeiro beijo que você iniciou%p-2;――"
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "It opened my eyes and evoked my feelings for you.",
+      "texto_ptbr": "Ele abriu os meus olhos e despertou os meus sentimentos por você."
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "What's that supposed to mean?\\nIt's like you've become the princess,\\nand I become the prince.",
+      "texto_ptbr": "O que isso quer dizer?\\nÉ como se você tivesse virado a princesa,\\ne eu, o príncipe."
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "I can't change your mind, if that's the way you're going to \\nlook at it, huh?",
+      "texto_ptbr": "Não consigo te fazer mudar de ideia, se é assim que você vai \\nencarar, né?"
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "That's right.\\nI'm not the kind of princess who sits silently\\nand waits for a kiss.",
+      "texto_ptbr": "Exato.\\nEu não sou o tipo de princesa que fica sentada em silêncio\\nesperando por um beijo."
+    },
+    {
+      "id": 24,
+      "personagem": "Nino",
+      "texto_en": "I'll make sure to do enough\\nto awaken even a helpless prince.",
+      "texto_ptbr": "Vou fazer o bastante\\npra acordar até um príncipe indefeso."
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "Nino...\\nThank you. I'm truly glad you're with me.",
+      "texto_ptbr": "Nino...\\nObrigado. Estou muito feliz por você estar comigo."
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "...No, it's me who should be saying that.\\nI'm glad I met you, Futaro.",
+      "texto_ptbr": "...Não, sou eu quem devia dizer isso.\\nFico feliz por ter te conhecido, Fuutarou."
+    },
+    {
+      "id": 27,
+      "personagem": "Isanari",
+      "texto_en": "I'm coming in, Futaro.",
+      "texto_ptbr": "Tô entrando, Fuutarou."
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, okay.",
+      "texto_ptbr": "É, tá bom."
+    },
+    {
+      "id": 29,
+      "personagem": "Isanari",
+      "texto_en": "Good one.\\nIt was truly a wonderful ceremony.",
+      "texto_ptbr": "Mandou bem.\\nFoi uma cerimônia realmente maravilhosa."
+    },
+    {
+      "id": 30,
+      "personagem": "Raiha",
+      "texto_en": "Big bro, Nino-san, great job.\\nIt was incredibly beautiful.",
+      "texto_ptbr": "Onii-chan, Nino-san, mandaram bem.\\nFoi incrivelmente lindo."
+    },
+    {
+      "id": 31,
+      "personagem": "Nino",
+      "texto_en": "My new father-in-law and my new little sister Raiha-chan.",
+      "texto_ptbr": "Meu novo sogro e minha nova irmãzinha Raiha-chan."
+    },
+    {
+      "id": 32,
+      "personagem": "Nino",
+      "texto_en": "Once again from this moment onwards, as a member of the \\nUesugi family, I'll ask for your support.",
+      "texto_ptbr": "De novo, a partir deste momento, como membro da \\nfamília Uesugi, conto com o apoio de vocês."
+    },
+    {
+      "id": 33,
+      "personagem": "Isanari",
+      "texto_en": "Likewise. I'm countin' on you.",
+      "texto_ptbr": "Igualmente. Tô contando com você."
+    },
+    {
+      "id": 34,
+      "personagem": "Raiha",
+      "texto_en": "Please take care of big bro as well.",
+      "texto_ptbr": "Cuida do Onii-chan também, por favor."
+    },
+    {
+      "id": 35,
+      "personagem": "Nino",
+      "texto_en": "Yes, leave Futaro to me.",
+      "texto_ptbr": "Sim, deixa o Fuutarou comigo."
+    },
+    {
+      "id": 36,
+      "personagem": "Isanari",
+      "texto_en": "Make sure you keep that boy in line, now!",
+      "texto_ptbr": "Trate de manter esse moleque na linha, hein!"
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Dad...",
+      "texto_ptbr": "Pai..."
+    },
+    {
+      "id": 38,
+      "personagem": "Nino",
+      "texto_en": "Dad.\\nAbout the shop you lent us.\\nI've decided to leave it to Miku.",
+      "texto_ptbr": "Pai.\\nSobre a loja que o senhor nos emprestou.\\nEu decidi deixá-la com a Miku."
+    },
+    {
+      "id": 39,
+      "personagem": "Nino",
+      "texto_en": "I apologize for it\\nbecoming a half-hearted arrangement.",
+      "texto_ptbr": "Peço desculpas por isso ter\\nvirado uma solução meia-boca."
+    },
+    {
+      "id": 40,
+      "personagem": "Isanari",
+      "texto_en": "Don't sweat it.\\nYou got your own path to follow, Nino-chan.",
+      "texto_ptbr": "Relaxa.\\nVocê tem o seu próprio caminho pra seguir, Nino-chan."
+    },
+    {
+      "id": 41,
+      "personagem": "Nino",
+      "texto_en": "Thank you very much.",
+      "texto_ptbr": "Muito obrigada."
+    },
+    {
+      "id": 42,
+      "personagem": "Raiha",
+      "texto_en": "I also intend to help out at the shop\\neven more from now on.\\nPlease go to my big bro's place with peace of mind.",
+      "texto_ptbr": "Eu também pretendo ajudar ainda mais na loja\\ndaqui pra frente.\\nPode ir pra casa do Onii-chan com a cabeça tranquila."
+    },
+    {
+      "id": 43,
+      "personagem": "Nino",
+      "texto_en": "Okay.\\nTake care of Miku for me.",
+      "texto_ptbr": "Tá bom.\\nCuida da Miku por mim."
+    },
+    {
+      "id": 44,
+      "personagem": "Isanari",
+      "texto_en": "By the way%p-2;――",
+      "texto_ptbr": "Aliás%p-2;――"
+    },
+    {
+      "id": 45,
+      "personagem": "Isanari",
+      "texto_en": "Futaro!\\nIt seems even Maruo has admitted you as his son-in-law.\\nThat's great, isn't it?",
+      "texto_ptbr": "Fuutarou!\\nParece que até o Maruo te aceitou como genro.\\nIsso é ótimo, não é?"
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 47,
+      "personagem": "Nino",
+      "texto_en": "Daddy admitted Futaro?",
+      "texto_ptbr": "O papai aceitou o Fuutarou?"
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "You heard about that, old man?",
+      "texto_ptbr": "Você ouviu falar disso, velho?"
+    },
+    {
+      "id": 49,
+      "personagem": "Isanari",
+      "texto_en": "Just happened to overhear it.",
+      "texto_ptbr": "Só ouvi por acaso."
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "We still have a long way to go.",
+      "texto_ptbr": "Ainda temos um longo caminho pela frente."
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "We have to live joyfully everyday \\nto earn your Dad's recognition for sure.\\nUntil then, we'll have to give it our best shot.",
+      "texto_ptbr": "Temos que viver com alegria todos os dias \\npra conquistar com certeza o reconhecimento do seu pai.\\nAté lá, vamos ter que dar o nosso melhor."
+    },
+    {
+      "id": 52,
+      "personagem": "Nino",
+      "texto_en": "Futaro...",
+      "texto_ptbr": "Fuutarou..."
+    },
+    {
+      "id": 53,
+      "personagem": "Isanari",
+      "texto_en": "Heh...\\nYou've become a very fine man, my son.",
+      "texto_ptbr": "Heh...\\nVocê se tornou um belo homem, meu filho."
+    },
+    {
+      "id": 54,
+      "personagem": "Isanari",
+      "texto_en": "But I'll always be better than you!\\nGahaha!",
+      "texto_ptbr": "Mas eu sempre vou ser melhor que você!\\nGahaha!"
+    },
+    {
+      "id": 55,
+      "personagem": "Raiha",
+      "texto_en": "Dad, stop.",
+      "texto_ptbr": "Pai, para."
+    },
+    {
+      "id": 56,
+      "personagem": "Raiha",
+      "texto_en": "I came to get your suit, big bro.\\nGive it back to me and I'll return it.",
+      "texto_ptbr": "Vim buscar o seu terno, Onii-chan.\\nMe entrega que eu devolvo."
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "Thanks, Raiha.",
+      "texto_ptbr": "Valeu, Raiha."
+    },
+    {
+      "id": 58,
+      "personagem": "Isanari",
+      "texto_en": "See you later, then!",
+      "texto_ptbr": "Até mais, então!"
+    },
+    {
+      "id": 59,
+      "personagem": "Nino",
+      "texto_en": "...Hey.\\nWhat did Daddy say to you, Futaro?",
+      "texto_ptbr": "...Ei.\\nO que o papai te disse, Fuutarou?"
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "Ah...\\nIt's hard to put it into words.",
+      "texto_ptbr": "Ah...\\nÉ difícil colocar em palavras."
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "Your father wants you to be happy.",
+      "texto_ptbr": "O seu pai quer que você seja feliz."
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "But, you know that, of course.",
+      "texto_ptbr": "Mas você sabe disso, claro."
+    },
+    {
+      "id": 63,
+      "personagem": "Nino",
+      "texto_en": "...Yeah.",
+      "texto_ptbr": "...É."
+    },
+    {
+      "id": 64,
+      "personagem": "Nino",
+      "texto_en": "Sorry, maybe I shouldn't have asked. It's probably something \\nthat should be kept between Dad and Futaro.",
+      "texto_ptbr": "Desculpa, talvez eu não devesse ter perguntado. Deve ser algo \\nque tem que ficar entre o papai e o Fuutarou."
+    },
+    {
+      "id": 65,
+      "personagem": "Nino",
+      "texto_en": "Wait a sec! Is it really ok?\\nFutaro seemed so nervous\\nthat he almost messed up the kiss during the vow.",
+      "texto_ptbr": "Espera aí! Será que está tudo bem mesmo?\\nO Fuutarou parecia tão nervoso\\nque quase estragou o beijo durante os votos."
+    },
+    {
+      "id": 66,
+      "personagem": "Nino",
+      "texto_en": "I hope Dad wasn't disappointed by that.",
+      "texto_ptbr": "Espero que o papai não tenha ficado decepcionado com isso."
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "Th-that couldn't be helped, you know!\\nEveryone was watching...",
+      "texto_ptbr": "A-aquilo não tinha jeito, sabe!\\nTodo mundo estava olhando..."
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "Besides, for me, it was like a final exam.",
+      "texto_ptbr": "Além disso, pra mim foi como uma prova final."
+    },
+    {
+      "id": 69,
+      "personagem": "Nino",
+      "texto_en": "Teehee!\\nYou were worried about that all along.",
+      "texto_ptbr": "Teehee!\\nVocê estava preocupado com isso o tempo todo."
+    },
+    {
+      "id": 70,
+      "personagem": "Nino",
+      "texto_en": "I told you, my grading is strict.",
+      "texto_ptbr": "Eu te disse, a minha avaliação é rigorosa."
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "Even so, I had no idea that I wouldn't receive a perfect score \\nup to today.",
+      "texto_ptbr": "Mesmo assim, eu não fazia ideia de que não receberia nota máxima \\naté hoje."
+    },
+    {
+      "id": 72,
+      "personagem": "Futaro",
+      "texto_en": "Anyway, how was it?",
+      "texto_ptbr": "Enfim, como foi?"
+    },
+    {
+      "id": 73,
+      "personagem": "Nino",
+      "texto_en": "Do you really want to be rated based on such a nervously \\nperformed kiss?",
+      "texto_ptbr": "Você realmente quer ser avaliado com base em um beijo \\nfeito com tanto nervosismo?"
+    },
+    {
+      "id": 74,
+      "personagem": "Futaro",
+      "texto_en": "I was nervous, but%p-2;――%p; it was special to me.",
+      "texto_ptbr": "Eu estava nervoso, mas%p-2;――%p; foi especial pra mim."
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "You know what? I vow that, everyday from now on,\\nwe'll be living a happy life together. ",
+      "texto_ptbr": "Sabe de uma coisa? Eu prometo que, todos os dias a partir de agora,\\nvamos viver uma vida feliz juntos. "
+    },
+    {
+      "id": 76,
+      "personagem": "Nino",
+      "texto_en": "I double that.",
+      "texto_ptbr": "Eu prometo em dobro."
+    },
+    {
+      "id": 77,
+      "personagem": "Nino",
+      "texto_en": "No matter what happens,\\nI'll live my life with you, Futaro.\\nThat's my vow.",
+      "texto_ptbr": "Aconteça o que acontecer,\\nvou viver a minha vida com você, Fuutarou.\\nEssa é a minha promessa."
+    },
+    {
+      "id": 78,
+      "personagem": "Nino",
+      "texto_en": "So, of course%p-2;――",
+      "texto_ptbr": "Então, claro%p-2;――"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca02_05",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "風太郎とまたここに来られるかしら。\\nいっそ新婚旅行とか……。",
+      "texto_en": "I wonder if we can come back here together.\\nMaybe for our honeymoon...",
+      "texto_ptbr": "Será que a gente vai voltar aqui juntos.\\nTalvez pra nossa lua de mel..."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "また来ようぜ",
+      "texto_en": "Let's come back again.",
+      "texto_ptbr": "Vamos voltar aqui de novo.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "近いうちにな",
+      "texto_en": "Soon, yeah?",
+      "texto_ptbr": "Em breve, né?",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "鐘なら爺さんのところもいいな",
+      "texto_en": "The bell at your grandpa's would be nice too.",
+      "texto_ptbr": "Se é pra falar de sino, o do seu avô também é bom.",
+      "selidx": 2
+    }
+  ]
+}

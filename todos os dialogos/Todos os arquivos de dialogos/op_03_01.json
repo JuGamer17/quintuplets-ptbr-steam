@@ -1,0 +1,468 @@
+{
+  "arquivo": "op_03_01",
+  "total": 77,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(The after-party has ended.\\n It's about time. They should be coming soon.)",
+      "texto_ptbr": "(A festa de encerramento acabou.\\n Já está na hora. Elas devem chegar logo.)"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(...They will come, won't they?)",
+      "texto_ptbr": "(...Elas vão vir, não vão?)"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "(On the second night of the school festival,\\n on the way back, Ichika asked me to buy drinks at the park...)",
+      "texto_ptbr": "(Na segunda noite do festival escolar,\\n no caminho de volta, a Ichika me pediu para comprar bebidas no parque...)"
+    },
+    {
+      "id": 4,
+      "personagem": "Ichika",
+      "texto_en": "Nino wants black tea, Miku wants green tea,\\nYotsuba wants juice, and Itsuki-chan wants coffee.",
+      "texto_ptbr": "Nino quer chá preto, Miku quer chá verde,\\nYotsuba quer suco e Itsuki-chan quer café."
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "(Who would I choose?\\n I answered the question\\n by not buying anything.)",
+      "texto_ptbr": "(Quem eu escolheria?\\n Respondi à pergunta\\n não comprando nada.)"
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "(On the first day of the school festival,\\n I had already decided not to choose anyone,\\n to show that my feelings wouldn't change.)",
+      "texto_ptbr": "(No primeiro dia do festival escolar,\\n eu já tinha decidido não escolher ninguém,\\n para mostrar que meus sentimentos não mudariam.)"
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "(Ichika was clearly disappointed. No, maybe she was\\n beyond exasperated that I'm the worst,\\n a useless idiot who always depends on others.)",
+      "texto_ptbr": "(A Ichika ficou claramente decepcionada. Não, talvez ela estivesse\\n além de exasperada por eu ser o pior,\\n um idiota inútil que sempre depende dos outros.)"
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "(From the way she acted, Ichika may not come after all.\\n If she talked to the other four,\\n they may not come either.)",
+      "texto_ptbr": "(Pelo jeito dela, talvez a Ichika não venha afinal.\\n Se ela conversou com as outras quatro,\\n talvez elas também não venham.)"
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "(But, it's not like I haven't thought about it.\\n I believe this is the best way,\\n so I called all of you here.)",
+      "texto_ptbr": "(Mas não é como se eu não tivesse pensado nisso.\\n Acredito que este seja o melhor caminho,\\n por isso chamei todas vocês aqui.)"
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "!!",
+      "texto_ptbr": "!!"
+    },
+    {
+      "id": 11,
+      "personagem": "Yotsuba",
+      "texto_en": "Excuse me!\\nIs Uesugi-san here?",
+      "texto_ptbr": "Com licença!\\nUesugi-san está aqui?"
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, I am.",
+      "texto_ptbr": "Sim, sou eu."
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "What are you doing in this dark place?\\nCan you turn on the lights?",
+      "texto_ptbr": "O que você está fazendo neste lugar escuro?\\nDá pra acender as luzes?"
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Ah, well, it's not like I'm in the mood for that.",
+      "texto_ptbr": "Ah, bem, não estou com clima pra isso."
+    },
+    {
+      "id": 15,
+      "personagem": "Ichika",
+      "texto_en": "Oh, I see.",
+      "texto_ptbr": "Ah, entendi."
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "It's bright outside, so it's enough, I guess.",
+      "texto_ptbr": "Lá fora está claro, então já basta, eu acho."
+    },
+    {
+      "id": 17,
+      "personagem": "Miku",
+      "texto_en": "Yeah.\\nThe night festival technically ended,\\nbut everyone's still making noise.",
+      "texto_ptbr": "É.\\nO festival noturno tecnicamente acabou,\\nmas todo mundo ainda está fazendo barulho."
+    },
+    {
+      "id": 18,
+      "personagem": "Yotsuba",
+      "texto_en": "Just because there was an announcement,\\nit doesn't mean it's over, right?",
+      "texto_ptbr": "Só porque teve um anúncio,\\nnão quer dizer que acabou, né?"
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "So, Fu-kun?\\nThe final day is already over, but%p-2;――",
+      "texto_ptbr": "Então, Fuu-kun?\\nO último dia já acabou, mas%p-2;――"
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "You called us out here for that reason, right?",
+      "texto_ptbr": "Você nos chamou aqui por esse motivo, certo?"
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Yeah.",
+      "texto_ptbr": "Sim."
+    },
+    {
+      "id": 23,
+      "personagem": "Miku",
+      "texto_en": "Then, let us hear it.",
+      "texto_ptbr": "Então, deixe-nos ouvir."
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Okay.",
+      "texto_ptbr": "Certo."
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "I won't choose anyone.",
+      "texto_ptbr": "Eu não vou escolher ninguém."
+    },
+    {
+      "id": 27,
+      "personagem": "Miku",
+      "texto_en": "...Huh?",
+      "texto_ptbr": "...Hã?"
+    },
+    {
+      "id": 28,
+      "personagem": "Nino",
+      "texto_en": "Wha...?",
+      "texto_ptbr": "O quê...?"
+    },
+    {
+      "id": 29,
+      "personagem": "Ichika",
+      "texto_en": "*sigh*",
+      "texto_ptbr": "*suspiro*"
+    },
+    {
+      "id": 30,
+      "personagem": "Yotsuba",
+      "texto_en": "Wait a minute.\\nUm, well, what exactly does that mean?",
+      "texto_ptbr": "Espera um pouco.\\nHã, bem, o que exatamente isso quer dizer?"
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Exactly that.",
+      "texto_ptbr": "Exatamente isso."
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "Are you serious?",
+      "texto_ptbr": "Você está falando sério?"
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Of course.",
+      "texto_ptbr": "Claro."
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "!",
+      "texto_ptbr": "!"
+    },
+    {
+      "id": 35,
+      "personagem": "Nino",
+      "texto_en": "Don't fool around.",
+      "texto_ptbr": "Não brinca comigo."
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Nino...",
+      "texto_ptbr": "Nino..."
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "Even if it's you, Fu-kun, there are things\\nthat can be forgiven and things that can't. I can't\\nbelieve you won't make a choice at this point...!",
+      "texto_ptbr": "Mesmo sendo você, Fuu-kun, tem coisas\\nque podem ser perdoadas e coisas que não. Eu não\\nacredito que você não vai escolher a essa altura...!"
+    },
+    {
+      "id": 38,
+      "personagem": "Miku",
+      "texto_en": "I won't accept this either.\\nThis is not an answer.",
+      "texto_ptbr": "Eu também não vou aceitar isso.\\nIsso não é uma resposta."
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "No, it's a legit answer.\\nIt's just not what you wanted.",
+      "texto_ptbr": "Não, é uma resposta legítima.\\nSó não é o que vocês queriam."
+    },
+    {
+      "id": 40,
+      "personagem": "Nino",
+      "texto_en": "You...",
+      "texto_ptbr": "Você..."
+    },
+    {
+      "id": 41,
+      "personagem": "Ichika",
+      "texto_en": "Futaro-kun.\\nI don't think you should talk like that.\\nYou're hurting yourself too.",
+      "texto_ptbr": "Fuutarou-kun.\\nAcho que você não deveria falar assim.\\nVocê também está se machucando."
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun, I'll speak my mind here without hesitation.",
+      "texto_ptbr": "Uesugi-kun, vou falar o que penso aqui sem hesitar."
+    },
+    {
+      "id": 44,
+      "personagem": "Itsuki",
+      "texto_en": "This is the same as not giving an answer.\\nI feel like you're just running away.",
+      "texto_ptbr": "Isso é o mesmo que não dar uma resposta.\\nSinto que você está apenas fugindo."
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 46,
+      "personagem": "Yotsuba",
+      "texto_en": "I also can't accept this!\\nUesugi-san, this is too much!",
+      "texto_ptbr": "Eu também não posso aceitar isso!\\nUesugi-san, isso é demais!"
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 48,
+      "personagem": "Nino",
+      "texto_en": "Don't just stay silent, say something!",
+      "texto_ptbr": "Não fique só em silêncio, diga alguma coisa!"
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "(I knew it wouldn't be easy to accept.\\n I knew that, but...)",
+      "texto_ptbr": "(Eu sabia que não seria fácil de aceitar.\\n Eu sabia disso, mas...)"
+    },
+    {
+      "id": 51,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun!!",
+      "texto_ptbr": "Fuu-kun!!"
+    },
+    {
+      "id": 52,
+      "personagem": "Miku",
+      "texto_en": "Futaro...!",
+      "texto_ptbr": "Fuutarou...!"
+    },
+    {
+      "id": 53,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san...",
+      "texto_ptbr": "Uesugi-san..."
+    },
+    {
+      "id": 54,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 55,
+      "personagem": "Ichika",
+      "texto_en": "Hey, is this really okay?",
+      "texto_ptbr": "Ei, isso realmente está tudo bem?"
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "(Shit...!)",
+      "texto_ptbr": "(Merda...!)"
+    },
+    {
+      "id": 57,
+      "personagem": "Nino",
+      "texto_en": "...I understand.\\nBut no matter what anyone says,\\nmy feelings won't change.",
+      "texto_ptbr": "...Entendi.\\nMas não importa o que digam,\\nmeus sentimentos não vão mudar."
+    },
+    {
+      "id": 58,
+      "personagem": "Nino",
+      "texto_en": "I'll keep doing what I've been doing.\\nI'll make you face me in my own way, Fu-kun!",
+      "texto_ptbr": "Vou continuar fazendo o que venho fazendo.\\nVou te fazer me encarar do meu jeito, Fuu-kun!"
+    },
+    {
+      "id": 59,
+      "personagem": "Miku",
+      "texto_en": "Me too.",
+      "texto_ptbr": "Eu também."
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "Sorry, but my feelings also aren't going to change.\\nYou should stop. It's a waste of time.",
+      "texto_ptbr": "Desculpe, mas meus sentimentos também não vão mudar.\\nVocês deveriam parar. É perda de tempo."
+    },
+    {
+      "id": 61,
+      "personagem": "Miku",
+      "texto_en": "!",
+      "texto_ptbr": "!"
+    },
+    {
+      "id": 62,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun!",
+      "texto_ptbr": "Uesugi-kun!"
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "(Did I say too much?\\n I know that!)",
+      "texto_ptbr": "(Será que falei demais?\\n Eu sei disso!)"
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "(I don't want to make Nino or Miku\\n have these kinds of face, either!!\\n But...!)",
+      "texto_ptbr": "(Eu também não quero que a Nino ou a Miku\\n fiquem com essas caras!!\\n Mas...!)"
+    },
+    {
+      "id": 65,
+      "personagem": "Miku",
+      "texto_en": "It doesn't matter.",
+      "texto_ptbr": "Não importa."
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "!",
+      "texto_ptbr": "!"
+    },
+    {
+      "id": 67,
+      "personagem": "Nino",
+      "texto_en": "That's right, it won't be for nothing.\\nI'll make you say you like me for sure, Fu-kun.",
+      "texto_ptbr": "Isso mesmo, não vai ter sido em vão.\\nEu vou te fazer dizer que gosta de mim, com certeza, Fuu-kun."
+    },
+    {
+      "id": 68,
+      "personagem": "Miku",
+      "texto_en": "Even I will not give up\\nuntil I change your feelings, Futaro.",
+      "texto_ptbr": "Eu também não vou desistir\\naté mudar seus sentimentos, Fuutarou."
+    },
+    {
+      "id": 69,
+      "personagem": "Yotsuba",
+      "texto_en": "I'm sorry, Uesugi-san, but\\nI'll be cheering for everyone too!",
+      "texto_ptbr": "Desculpe, Uesugi-san, mas\\neu também vou torcer por todas!"
+    },
+    {
+      "id": 70,
+      "personagem": "Itsuki",
+      "texto_en": "I do not intend to approve\\nof your choice either.",
+      "texto_ptbr": "Eu não pretendo aprovar\\na sua escolha também."
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 72,
+      "personagem": "Ichika",
+      "texto_en": "Hey, Futaro-kun?\\nCould you have imagined it would turn out like this?",
+      "texto_ptbr": "Ei, Fuutarou-kun?\\nVocê poderia ter imaginado que ia acabar assim?"
+    },
+    {
+      "id": 73,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 74,
+      "personagem": "Futaro",
+      "texto_en": "(It's not like I couldn't imagine it.\\n But still, this is the best way.)",
+      "texto_ptbr": "(Não é que eu não conseguisse imaginar.\\n Mas ainda assim, este é o melhor caminho.)"
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "(My resolve, and their resolve.\\n Those two things will never overlap,\\n no matter what%p-2;――%p;)",
+      "texto_ptbr": "(Minha determinação e a determinação delas.\\n Essas duas coisas nunca vão se sobrepor,\\n aconteça o que acontecer%p-2;――%p;)"
+    },
+    {
+      "id": 76,
+      "personagem": "Futaro",
+      "texto_en": "(The conversation remained at a standstill\\n as the night went on.)",
+      "texto_ptbr": "(A conversa permaneceu num impasse\\n enquanto a noite avançava.)"
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "arquivo": "ca04_mv3_01",
+  "total": 78,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Ichika",
+      "texto_en": "Oh, Futaro-kun?\\nIt's surprising to see you interested\\nin this kind of shop.",
+      "texto_ptbr": "Ah, Fuutarou-kun?\\nÉ surpreendente te ver interessado\\nnesse tipo de loja."
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "Ah! Did you perhaps come to see me?",
+      "texto_ptbr": "Ah! Será que você veio me ver?"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "No, that's not it.\\nI just happened to see you guys going in,\\nso I stopped by.",
+      "texto_ptbr": "Não, não é isso.\\nEu só vi vocês entrando,\\nentão dei uma passada."
+    },
+    {
+      "id": 3,
+      "personagem": "Nino",
+      "texto_en": "Come on, you don't have to make excuses.\\nYou really came after us, didn't you?",
+      "texto_ptbr": "Vai, não precisa inventar desculpa.\\nVocê veio atrás da gente mesmo, né?"
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Well, um...",
+      "texto_ptbr": "Bem, hã..."
+    },
+    {
+      "id": 5,
+      "personagem": "Ichika",
+      "texto_en": "Does that mean I'm bothering you guys?",
+      "texto_ptbr": "Isso quer dizer que eu estou atrapalhando vocês?"
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Don't be ridiculous.\\nAnyway, what were you looking at?",
+      "texto_ptbr": "Que absurdo.\\nEnfim, o que vocês estavam olhando?"
+    },
+    {
+      "id": 7,
+      "personagem": "Ichika",
+      "texto_en": "I was looking at shirts and some small items.\\nThey have a great selection with good taste.",
+      "texto_ptbr": "Eu estava olhando camisetas e alguns itens pequenos.\\nTem uma ótima seleção, com muito bom gosto."
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "There are also many interesting things.\\nLet's look around together!",
+      "texto_ptbr": "Também tem muitas coisas interessantes.\\nVamos olhar juntos!"
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "Fine, I guess.\\nWhat were you looking at, Nino?",
+      "texto_ptbr": "Tá, pode ser.\\nO que você estava olhando, Nino?"
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "Masking tape. They have many different kinds here?",
+      "texto_ptbr": "Fita crepe. Tem vários tipos diferentes aqui?"
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Tape?",
+      "texto_ptbr": "Fita?"
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "Look, like this.\\nYou've seen something like this before, right?",
+      "texto_ptbr": "Olha, assim.\\nVocê já viu algo assim antes, né?"
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "This one with prints of animals and plants\\nfrom Okinawa?",
+      "texto_ptbr": "Essa com estampas de animais e plantas\\nde Okinawa?"
+    },
+    {
+      "id": 14,
+      "personagem": "Nino",
+      "texto_en": "It's one of the shop's original products.",
+      "texto_ptbr": "É um dos produtos originais da loja."
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "Hey, what's this used for?",
+      "texto_ptbr": "Ei, pra que isso serve?"
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "Decorating a notebook, adding accents to gift wrapping,\\nor using it for interior design, for example.",
+      "texto_ptbr": "Pra decorar um caderno, dar um toque especial em embrulhos de presente,\\nou usar na decoração de interiores, por exemplo."
+    },
+    {
+      "id": 17,
+      "personagem": "Ichika",
+      "texto_en": "Nino, you're good at that kind of stuff, huh.",
+      "texto_ptbr": "Nino, você é boa nesse tipo de coisa, hein."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "But masking tape isn't meant to be used\\nfor those purposes, is it?",
+      "texto_ptbr": "Mas fita crepe não foi feita pra ser usada\\nnessas finalidades, foi?"
+    },
+    {
+      "id": 19,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, it was originally intended as protective tape\\nto prevent things from getting dirty, wasn't it?",
+      "texto_ptbr": "É, ela foi feita originalmente como fita de proteção\\npra evitar que as coisas sujem, não foi?"
+    },
+    {
+      "id": 20,
+      "personagem": "Nino",
+      "texto_en": "These days, though, there are a lot of masking tapes\\nthat are designed with a focus on aesthetics.",
+      "texto_ptbr": "Hoje em dia, porém, tem muitas fitas crepe\\nfeitas com foco na estética."
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "If you use them cleverly to add a bit of variety,\\neven ordinary things can become fashionable in no time.",
+      "texto_ptbr": "Se você usar com criatividade pra dar uma variada,\\naté coisas comuns ficam estilosas rapidinho."
+    },
+    {
+      "id": 22,
+      "personagem": "Nino",
+      "texto_en": "And what about this beautiful colored one?\\nDon't you think it would look so pretty\\ndisplayed in an acrylic case?",
+      "texto_ptbr": "E que tal essa de cor linda?\\nNão acha que ficaria tão bonita\\nexposta numa caixa de acrílico?"
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "Huh? You're going to display it without even using it?\\nDoes it have to be tape for that?",
+      "texto_ptbr": "Hã? Você vai expor sem nem usar?\\nPrecisa ser fita pra isso?"
+    },
+    {
+      "id": 24,
+      "personagem": "Ichika",
+      "texto_en": "You need to start thinking more flexibly.",
+      "texto_ptbr": "Você precisa começar a pensar de forma mais flexível."
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "No, that's not the issue here.",
+      "texto_ptbr": "Não, esse não é o problema aqui."
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "Hmm, what to do.\\nI like this one, but I like this one too.",
+      "texto_ptbr": "Hmm, o que fazer.\\nEu gosto dessa, mas também gosto dessa."
+    },
+    {
+      "id": 27,
+      "personagem": "Ichika",
+      "texto_en": "Ohh, let me see.",
+      "texto_ptbr": "Ohh, deixa eu ver."
+    },
+    {
+      "id": 28,
+      "personagem": "Nino",
+      "texto_en": "This one's a blue color inspired by the sea in Okinawa,\\nbut it's painful to let go of this sky blue one.",
+      "texto_ptbr": "Essa é um azul inspirado no mar de Okinawa,\\nmas é doloroso abrir mão dessa azul-céu."
+    },
+    {
+      "id": 29,
+      "personagem": "Ichika",
+      "texto_en": "Ah, for sure, this is a tough decision.",
+      "texto_ptbr": "Ah, com certeza, é uma decisão difícil."
+    },
+    {
+      "id": 30,
+      "personagem": "Ichika",
+      "texto_en": "Well, let's put the blue ones aside for now\\nand go with something like this floral print.\\nIs this hibiscus?",
+      "texto_ptbr": "Bem, vamos deixar as azuis de lado por enquanto\\ne ir com algo assim, essa estampa floral.\\nIsso é hibisco?"
+    },
+    {
+      "id": 31,
+      "personagem": "Nino",
+      "texto_en": "D-don't confuse me!",
+      "texto_ptbr": "N-não me confunde!"
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "(Are they struggling to choose\\n which Okinawa-themed tape to buy?)",
+      "texto_ptbr": "(Elas estão com dificuldade pra escolher\\n qual fita com tema de Okinawa comprar?)"
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Why buy what you have no use for?\\nIn the end, it'll just be a waste, won't it?",
+      "texto_ptbr": "Por que comprar o que não tem utilidade?\\nNo fim, vai ser só desperdício, não vai?"
+    },
+    {
+      "id": 34,
+      "personagem": "Ichika",
+      "texto_en": "Now listen here, Futaro-kun.\\nThat kind of waste is needed in life.",
+      "texto_ptbr": "Agora escute aqui, Fuutarou-kun.\\nEsse tipo de desperdício é necessário na vida."
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "Do you think you just said something\\nwise just now?",
+      "texto_ptbr": "Você acha que acabou de dizer algo\\nsábio agora?"
+    },
+    {
+      "id": 36,
+      "personagem": "Ichika",
+      "texto_en": "You're wrong.\\nIt seems that you still lack\\nlife experience, Futaro-kun.",
+      "texto_ptbr": "Está errado.\\nParece que você ainda tem pouca\\nexperiência de vida, Fuutarou-kun."
+    },
+    {
+      "id": 37,
+      "personagem": "Nino",
+      "texto_en": "These things can raise your spirits\\nor be nourishing for your heart.",
+      "texto_ptbr": "Essas coisas podem levantar o seu astral\\nou nutrir o coração."
+    },
+    {
+      "id": 38,
+      "personagem": "Nino",
+      "texto_en": "By the way, if you had to choose one\\ncolor from these, which one would you prefer, Fu-kun?",
+      "texto_ptbr": "Aliás, se você tivesse que escolher uma\\ncor dessas, qual você preferiria, Fu-kun?"
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "I think any of them would be the same, but...\\nif I had to choose,\\nmaybe this sea-blue color would be nice.",
+      "texto_ptbr": "Acho que qualquer uma seria igual, mas...\\nse eu tivesse que escolher,\\ntalvez esse azul-mar seja legal."
+    },
+    {
+      "id": 40,
+      "personagem": "Nino",
+      "texto_en": "Okay, then I'll buy you the one you pick out, Fu-kun.",
+      "texto_ptbr": "Tá bom, então eu compro a que você escolher, Fu-kun."
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Huh?\\nAre you sure about that?",
+      "texto_ptbr": "Hã?\\nTem certeza disso?"
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "This tape has a beautiful shade of ocean blue.",
+      "texto_ptbr": "Essa fita tem um lindo tom de azul do oceano."
+    },
+    {
+      "id": 43,
+      "personagem": "Nino",
+      "texto_en": "Oh, what made that color stand out to you?",
+      "texto_ptbr": "Ah, o que fez essa cor chamar a sua atenção?"
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "What made the color stand out...?",
+      "texto_ptbr": "O que fez a cor chamar a atenção...?"
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "Perhaps it's because we played\\nin the sea yesterday.\\nThat vivid blue left quite an impression on me.",
+      "texto_ptbr": "Talvez porque a gente brincou\\nno mar ontem.\\nAquele azul vivo me marcou bastante."
+    },
+    {
+      "id": 46,
+      "personagem": "Ichika",
+      "texto_en": "Ah! I can see that!",
+      "texto_ptbr": "Ah! Dá pra entender!"
+    },
+    {
+      "id": 47,
+      "personagem": "Ichika",
+      "texto_en": "I saw the sea from both underwater while snorkeling\\nand from the sky, and everything was beautiful.",
+      "texto_ptbr": "Eu vi o mar tanto debaixo d'água, no snorkeling,\\nquanto do céu, e tudo era lindo."
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "Besides, you can't buy anything else\\nwith an Okinawan ocean motif.\\nThey say it was the store's original design.",
+      "texto_ptbr": "Além disso, não dá pra comprar mais nada\\ncom o motivo do oceano de Okinawa.\\nDizem que era o design original da loja."
+    },
+    {
+      "id": 49,
+      "personagem": "Nino",
+      "texto_en": "That's right. These might be perfect as a mementos.\\nShould we go with these?",
+      "texto_ptbr": "Isso mesmo. Elas podem ser perfeitas como lembrancinha.\\nVamos levar essas?"
+    },
+    {
+      "id": 50,
+      "personagem": "Nino",
+      "texto_en": "Okay, then I'll buy you the one you pick out, Fu-kun.",
+      "texto_ptbr": "Tá bom, então eu compro a que você escolher, Fu-kun."
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "Huh?\\nAre you sure about that?",
+      "texto_ptbr": "Hã?\\nTem certeza disso?"
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "You should think about what to do with it,\\nand then choose based on that.",
+      "texto_ptbr": "Você deveria pensar no que fazer com ela,\\ne depois escolher com base nisso."
+    },
+    {
+      "id": 53,
+      "personagem": "Ichika",
+      "texto_en": "What do you mean by 'what to do' with it?\\nYou wouldn't put it in a case?",
+      "texto_ptbr": "O que você quer dizer com 'o que fazer' com ela?\\nVocê não colocaria numa caixa?"
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "That's not what I mean.\\nFor example%p-2;――",
+      "texto_ptbr": "Não é isso que eu quis dizer.\\nPor exemplo%p-2;――"
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "If we place this floral pattern with the sky blue\\nand this ocean blue, don't you get a sense\\nof Okinawa's land, sea, and sky?",
+      "texto_ptbr": "Se a gente colocar essa estampa floral com o azul-céu\\ne esse azul-mar, não dá a sensação\\nda terra, do mar e do céu de Okinawa?"
+    },
+    {
+      "id": 56,
+      "personagem": "Ichika",
+      "texto_en": "Wow...",
+      "texto_ptbr": "Uau..."
+    },
+    {
+      "id": 57,
+      "personagem": "Nino",
+      "texto_en": "Mmm...",
+      "texto_ptbr": "Mmm..."
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "What's with THOSE reactions?",
+      "texto_ptbr": "Que reação é ESSA?"
+    },
+    {
+      "id": 59,
+      "personagem": "Ichika",
+      "texto_en": "I was thinking it's unusual for you\\nto say something so stylish, Futaro-kun.",
+      "texto_ptbr": "Eu estava pensando que é incomum\\nvocê dizer algo tão estiloso, Fuutarou-kun."
+    },
+    {
+      "id": 60,
+      "personagem": "Nino",
+      "texto_en": "Even you, Fu-kun, have good taste.\\nI feel like I've lost somehow.",
+      "texto_ptbr": "Até você, Fu-kun, tem bom gosto.\\nSinto que perdi de alguma forma."
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "Are you complimenting me?",
+      "texto_ptbr": "Isso é um elogio?"
+    },
+    {
+      "id": 62,
+      "personagem": "Ichika",
+      "texto_en": "I am.\\nCome on, don't pout like that.",
+      "texto_ptbr": "É sim.\\nVamos, não faça bico assim."
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "I'm not pouting!",
+      "texto_ptbr": "Não estou fazendo bico!"
+    },
+    {
+      "id": 64,
+      "personagem": "Nino",
+      "texto_en": "Okay, then I'll buy you the one you pick out, Fu-kun.",
+      "texto_ptbr": "Tá bom, então eu compro a que você escolher, Fu-kun."
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "Huh?\\nAre you sure about that?",
+      "texto_ptbr": "Hã?\\nTem certeza disso?"
+    },
+    {
+      "id": 66,
+      "personagem": "Nino",
+      "texto_en": "What's the issue?",
+      "texto_ptbr": "Qual é o problema?"
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "Even though you were thinking about it so much....\\nAre you sure it's okay to go with something\\nI chose on a whim?",
+      "texto_ptbr": "Mesmo você tendo pensado tanto....\\nTem certeza de que tudo bem ir com algo\\nque escolhi de qualquer jeito?"
+    },
+    {
+      "id": 68,
+      "personagem": "Nino",
+      "texto_en": "Absolutely.\\nWhat's important is that YOU choose it, Fu-kun.",
+      "texto_ptbr": "Com certeza.\\nO importante é que VOCÊ escolheu, Fu-kun."
+    },
+    {
+      "id": 69,
+      "personagem": "Nino",
+      "texto_en": "I'll make sure to display it carefully,\\nso come and see it in my room next time, okay?",
+      "texto_ptbr": "Vou ter cuidado ao expor,\\nentão venha ver no meu quarto da próxima vez, tá?"
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "Huh? A-alright...",
+      "texto_ptbr": "Hã? T-tá bom..."
+    },
+    {
+      "id": 71,
+      "personagem": "Nino",
+      "texto_en": "Teehee. I'll go buy it, then.",
+      "texto_ptbr": "Hihi. Então vou comprar."
+    },
+    {
+      "id": 72,
+      "personagem": "Futaro",
+      "texto_en": "(I wonder if there's any deeper meaning...\\n to 'come and see it in my room'...)",
+      "texto_ptbr": "(Será que tem algum significado mais profundo...\\n em 'venha ver no meu quarto'...)"
+    },
+    {
+      "id": 73,
+      "personagem": "Ichika",
+      "texto_en": "What's wrong, Futaro-kun?",
+      "texto_ptbr": "O que foi, Fuutarou-kun?"
+    },
+    {
+      "id": 74,
+      "personagem": "Futaro",
+      "texto_en": "N-no, it's nothing.",
+      "texto_ptbr": "N-não, não é nada."
+    },
+    {
+      "id": 75,
+      "personagem": "Ichika",
+      "texto_en": "Are you sure?\\nYou have a troubled look, I'd say.",
+      "texto_ptbr": "Tem certeza?\\nVocê está com cara de preocupado, eu diria."
+    },
+    {
+      "id": 76,
+      "personagem": "Futaro",
+      "texto_en": "I'm telling you, I'm fine.\\nWell, I'll try going to a different store.",
+      "texto_ptbr": "Já disse que estou bem.\\nBem, vou tentar ir em outra loja."
+    },
+    {
+      "id": 77,
+      "personagem": "Ichika",
+      "texto_en": "Okay, see you later.",
+      "texto_ptbr": "Tá bom, até mais."
+    }
+  ]
+}

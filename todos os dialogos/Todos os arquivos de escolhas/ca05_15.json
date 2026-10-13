@@ -1,0 +1,55 @@
+{
+  "arquivo": "ca05_15",
+  "total": 5,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*map",
+      "texto_jp": "dummy",
+      "texto_en": "{UNTRANSLATED}dummy",
+      "texto_ptbr": "",
+      "selidx": 0
+    },
+    {
+      "id": 1,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "広い空へと旅立ち、どこまでも泳いでいきたい。\\nそんな想像をしているのでしょうか。",
+      "texto_en": "And imagine swimming endlessly\\nin the vastness of space.",
+      "texto_ptbr": "E imaginam nadar sem parar\\nna vastidão do espaço."
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "そうかもな",
+      "texto_en": "They just might.",
+      "texto_ptbr": "Pode ser.",
+      "selidx": 0
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "きっと広さに驚くだろうな",
+      "texto_en": "They'd be surprised at how big it is.",
+      "texto_ptbr": "Elas vão ficar surpresas com o tamanho.",
+      "selidx": 1
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "五月も行ってみたいのか？",
+      "texto_en": "You wanna join them, Itsuki?",
+      "texto_ptbr": "Você também quer ir, Itsuki?",
+      "selidx": 2
+    }
+  ]
+}

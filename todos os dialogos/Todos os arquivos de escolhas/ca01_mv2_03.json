@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca01_mv2_03",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "おい……。",
+      "texto_en": "Hey...",
+      "texto_ptbr": "Ei..."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ちょっと落ち着け",
+      "texto_en": "Calm down a bit.",
+      "texto_ptbr": "Se acalma um pouco.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "服はそんなに必要ないだろ",
+      "texto_en": "She doesn't really need clothes that much.",
+      "texto_ptbr": "Ela não precisa tanto assim de roupas.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "普段使いしにくいぞ",
+      "texto_en": "You can't wear these clothes all year long.",
+      "texto_ptbr": "Não dá pra usar no dia a dia.",
+      "selidx": 2
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "arquivo": "ca03_mv5_03",
+  "total": 3,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "裏通り:一花:二乃:三玖",
+      "texto_en": "Back Street: Ichika/Nino/Miku",
+      "texto_ptbr": "Rua dos Fundos: Ichika/Nino/Miku",
+      "selidx": 0
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "お土産屋:三玖:四葉",
+      "texto_en": "Souvenir Shop: Miku/Yotsuba",
+      "texto_ptbr": "Loja de Souvenirs: Miku/Yotsuba",
+      "selidx": 1
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "大通りＢ:三玖:五月:らいは",
+      "texto_en": "Main Street B: Miku/Itsuki/Raiha",
+      "texto_ptbr": "Rua Principal B: Miku/Itsuki/Raiha",
+      "selidx": 2
+    }
+  ]
+}

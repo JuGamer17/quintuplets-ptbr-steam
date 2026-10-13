@@ -1,0 +1,408 @@
+{
+  "arquivo": "ca06_mv5_02",
+  "total": 67,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(Is that building over there the Oceanic Culture Museum?\\n Is it like an actual museum?)",
+      "texto_ptbr": "(Será que aquele prédio ali é o Museu de Cultura Oceânica?\\n Será que é um museu de verdade mesmo?)"
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, Uesugi-kun.",
+      "texto_ptbr": "Ah, Uesugi-kun."
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "You came over here, huh.\\nI didn't notice because we were inside the building.",
+      "texto_ptbr": "Você veio até aqui, hein.\\nEu nem percebi porque estávamos dentro do prédio."
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Hey.\\nSo, did you go see something else already?",
+      "texto_ptbr": "Oi.\\nEntão, você já foi ver outra coisa?"
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, I just finished\\nvisiting the Oceanic Culture Museum.",
+      "texto_ptbr": "Sim, acabei de terminar\\nde visitar o Museu de Cultura Oceânica."
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Oh, I see.\\nWhat did it have?",
+      "texto_ptbr": "Ah, entendi.\\nO que tinha lá?"
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "The exhibit showcased the history and materials\\nof how ancient people crossed the sea\\nand spread across new lands.",
+      "texto_ptbr": "A exposição mostrava a história e os materiais\\nde como os povos antigos atravessaram o mar\\ne se espalharam por novas terras."
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "There were various tools and canoes\\nused by people in ancient times on display.\\nIt was really quite impressive.",
+      "texto_ptbr": "Tinham várias ferramentas e canoas\\nusadas pelos povos antigos em exposição.\\nFoi realmente muito impressionante."
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "The way the ships were constructed\\nwas explained like in a manga,\\nso it was easy to understand, and really interesting.",
+      "texto_ptbr": "O jeito como os barcos eram construídos\\nfoi explicado tipo em um mangá,\\nentão foi fácil de entender, e bem interessante."
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "I see.",
+      "texto_ptbr": "Entendi."
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "(This vague explanation\\n sounds like something Yotsuba would say...)",
+      "texto_ptbr": "(Essa explicação vaga\\n parece algo que a Yotsuba diria...)"
+    },
+    {
+      "id": 11,
+      "personagem": "Itsuki",
+      "texto_en": "It was also fun to trace the history\\nof how people crossed the sea and spread out.",
+      "texto_ptbr": "Também foi divertido acompanhar a história\\nde como as pessoas atravessaram o mar e se espalharam."
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, around Micronesia or Polynesia, right?",
+      "texto_ptbr": "É, tipo pela Micronésia ou Polinésia, né?"
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "As expected of you, Uesugi-kun, you know a lot.",
+      "texto_ptbr": "Como esperado de você, Uesugi-kun, você sabe bastante."
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "Even so%p-2;――",
+      "texto_ptbr": "Mesmo assim%p-2;――"
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "It's amazing that people crossed the vast ocean\\nin an age of undeveloped technology to seek new lands.\\nTheir courage is quite impressive. ",
+      "texto_ptbr": "É incrível que as pessoas atravessaram o vasto oceano\\nnuma época sem tecnologia desenvolvida pra buscar novas terras.\\nA coragem delas é bem impressionante. "
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Searching for new lands beyond the horizon, huh?\\nTruly, the bravery of people from the past is admirable.",
+      "texto_ptbr": "Buscar novas terras além do horizonte, hein?\\nDe verdade, a bravura das pessoas do passado é admirável."
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "We could learn from their courage.",
+      "texto_ptbr": "A gente podia aprender com a coragem delas."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "I'll pass.\\nI have confidence\\nthat I wouldn't be the first to give up.",
+      "texto_ptbr": "Vou passar.\\nTenho confiança\\nque eu não seria o primeiro a desistir."
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "Even if you were shipwrecked,\\nyou might end up stranded on some island, you know?",
+      "texto_ptbr": "Mesmo se você naufragasse,\\npode acabar preso em alguma ilha, sabia?"
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "I don't want to test my luck like that...",
+      "texto_ptbr": "Eu não quero testar minha sorte desse jeito..."
+    },
+    {
+      "id": 21,
+      "personagem": "Itsuki",
+      "texto_en": "In Okinawa, it is believed that there is a paradise\\ncalled 'Nirai Kanai' where the gods reside across the sea.",
+      "texto_ptbr": "Em Okinawa, acredita-se que existe um paraíso\\nchamado 'Nirai Kanai' onde os deuses vivem do outro lado do mar."
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "If you're lucky, you might be able to reach it.",
+      "texto_ptbr": "Se você tiver sorte, talvez consiga chegar lá."
+    },
+    {
+      "id": 23,
+      "personagem": "Itsuki",
+      "texto_en": "Apparently, at the beginning of each year,\\nthe gods would visit Okinawa and bestows various blessings.",
+      "texto_ptbr": "Aparentemente, no começo de cada ano,\\nos deuses visitam Okinawa e concedem várias bênçãos."
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Like when you receive New Year's money, huh?",
+      "texto_ptbr": "Tipo quando você recebe o dinheiro de Ano Novo, né?"
+    },
+    {
+      "id": 25,
+      "personagem": "Itsuki",
+      "texto_en": "Really, now...\\nIf you mock faith, you'll be punished, you know?",
+      "texto_ptbr": "Sério mesmo...\\nSe você zoar da fé dos outros, vai ser castigado, sabia?"
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, sorry.\\nIn other words, it means that people in Okinawa\\nare receiving blessings from the sea.",
+      "texto_ptbr": "É, desculpa.\\nEm outras palavras, significa que as pessoas em Okinawa\\nestão recebendo bênçãos do mar."
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "Indeed, for people in Okinawa,\\nthe sea that bestows blessings is very important.",
+      "texto_ptbr": "De fato, para as pessoas de Okinawa,\\no mar que concede bênçãos é muito importante."
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "After all, it's an island surrounded by the sea.\\nThe people probably turned\\ntheir respect for the sea into faith.",
+      "texto_ptbr": "Afinal, é uma ilha cercada pelo mar.\\nAs pessoas provavelmente transformaram\\no respeito pelo mar em fé."
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "But, the idea of a paradise is mysterious, isn't it?",
+      "texto_ptbr": "Mas, a ideia de um paraíso é misteriosa, não é?"
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "Well, it's a place that becomes an object of faith.\\nJust the fact that gods live there\\nis already quite mysterious.",
+      "texto_ptbr": "Bom, é um lugar que se torna objeto de fé.\\nSó o fato de deuses viverem lá\\njá é bem misterioso."
+    },
+    {
+      "id": 31,
+      "personagem": "Itsuki",
+      "texto_en": "No, that's not what I meant.",
+      "texto_ptbr": "Não, não é isso que eu quis dizer."
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "Even if everyone has their own ideals,\\nis there really a place where everyone can be happy?",
+      "texto_ptbr": "Mesmo que todo mundo tenha seus próprios ideais,\\nexiste realmente um lugar onde todo mundo pode ser feliz?"
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Well, I don't think such a place exists.",
+      "texto_ptbr": "Bom, eu não acho que um lugar assim exista."
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "So, why do people believe in it?",
+      "texto_ptbr": "Então, por que as pessoas acreditam nisso?"
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "If you don't believe that such a place exists, \\nthere would be times when you're unable \\nto continue when the going gets tough.",
+      "texto_ptbr": "Se você não acredita que um lugar assim existe, \\nvai ter horas em que você não consegue \\ncontinuar quando as coisas ficam difíceis."
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, indeed.",
+      "texto_ptbr": "Sim, de fato."
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "But isn't that just escaping from reality?",
+      "texto_ptbr": "Mas isso não é só fugir da realidade?"
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "*sigh*\\nIt's still difficult for everyone to be happy,\\nisn't it?",
+      "texto_ptbr": "*suspiro*\\nAinda é difícil todo mundo ser feliz,\\nnão é?"
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "(...Could this be Yotsuba?)",
+      "texto_ptbr": "(...Será que essa é a Yotsuba?)"
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "It's probably something like a dream.",
+      "texto_ptbr": "Provavelmente é algo tipo um sonho."
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "A...dream?",
+      "texto_ptbr": "Um...sonho?"
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Just thinking about wanting to make a dream come true\\ncan become the driving force to move forward, you know?",
+      "texto_ptbr": "Só de pensar em querer realizar um sonho\\njá pode virar a força motriz pra seguir em frente, sabia?"
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "Whether or not there is a utopia in reality\\ndoesn't matter. Perhaps it's believing in it\\nthat's important.",
+      "texto_ptbr": "Se existe ou não uma utopia na realidade\\nnão importa. Talvez o importante seja\\nacreditar nela."
+    },
+    {
+      "id": 44,
+      "personagem": "Itsuki",
+      "texto_en": "...That might be true.",
+      "texto_ptbr": "...Talvez isso seja verdade."
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "*sigh*\\nIt's still difficult for everyone to be happy,\\nisn't it?",
+      "texto_ptbr": "*suspiro*\\nAinda é difícil todo mundo ser feliz,\\nnão é?"
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "(...Could this be Yotsuba?)",
+      "texto_ptbr": "(...Será que essa é a Yotsuba?)"
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "Even if you think it might not be possible,\\nyou can't do your best if you give up from the start.",
+      "texto_ptbr": "Mesmo que você ache que talvez não seja possível,\\nvocê não consegue dar o seu melhor se desistir logo de cara."
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "And believing that you can get a little closer, if you try.\\n...I'm sure that's how it is.",
+      "texto_ptbr": "E acreditar que você pode chegar um pouco mais perto, se tentar.\\n...Tenho certeza que é assim que funciona."
+    },
+    {
+      "id": 49,
+      "personagem": "Itsuki",
+      "texto_en": "...I think I understand, a little.",
+      "texto_ptbr": "...Acho que entendo, um pouco."
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "It's like a goal that you can't see,\\nbut you keep running, so you don't stop.",
+      "texto_ptbr": "É tipo uma meta que você não consegue ver,\\nmas continua correndo, então não para."
+    },
+    {
+      "id": 51,
+      "personagem": "Itsuki",
+      "texto_en": "*sigh*\\nIt's still difficult for everyone to be happy,\\nisn't it?",
+      "texto_ptbr": "*suspiro*\\nAinda é difícil todo mundo ser feliz,\\nnão é?"
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "(...Could this be Yotsuba?)",
+      "texto_ptbr": "(...Será que essa é a Yotsuba?)"
+    },
+    {
+      "id": 53,
+      "personagem": "Itsuki",
+      "texto_en": "...Ah.",
+      "texto_ptbr": "...Ah."
+    },
+    {
+      "id": 54,
+      "personagem": "Itsuki",
+      "texto_en": "Certainly, not everything can go as smoothly as we want.",
+      "texto_ptbr": "Certamente, nem tudo pode sair tão bem quanto a gente quer."
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "If ideals are different for everyone,\\nfinding the greatest common divisor of ideals\\nmight be the best approach.",
+      "texto_ptbr": "Se os ideais são diferentes pra cada um,\\nencontrar o máximo divisor comum dos ideais\\ntalvez seja a melhor abordagem."
+    },
+    {
+      "id": 56,
+      "personagem": "Itsuki",
+      "texto_en": "Oooohh...",
+      "texto_ptbr": "Oooohh..."
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "Hm? What happened, suddenly?",
+      "texto_ptbr": "Hm? O que aconteceu, de repente?"
+    },
+    {
+      "id": 58,
+      "personagem": "Itsuki",
+      "texto_en": "I'm in trouble...\\nMaybe I used my brain too much,\\nbut I suddenly feel hungry...",
+      "texto_ptbr": "Estou encrencada...\\nTalvez eu tenha usado o cérebro demais,\\nmas de repente estou com fome..."
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "...What the? You got me worried there.",
+      "texto_ptbr": "...Quê? Você me deixou preocupado por um momento."
+    },
+    {
+      "id": 60,
+      "personagem": "Itsuki",
+      "texto_en": "It's your fault, you know?\\nBringing up topics like greatest common divisor,\\nused in studying!",
+      "texto_ptbr": "A culpa é sua, sabia?\\nFicar trazendo assunto tipo máximo divisor comum,\\nusado pra estudar!"
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "...Hold on, wait a minute.\\nIs that really my fault?",
+      "texto_ptbr": "...Espera, calma aí.\\nIsso é mesmo culpa minha?"
+    },
+    {
+      "id": 62,
+      "personagem": "Itsuki",
+      "texto_en": "This isn't good!\\nI need to replenish my blood sugar right now!",
+      "texto_ptbr": "Isso não é bom!\\nEu preciso repor meu açúcar no sangue agora mesmo!"
+    },
+    {
+      "id": 63,
+      "personagem": "Itsuki",
+      "texto_en": "I remember there was a gelato shop nearby.\\nLet's take a break and eat something delicious!",
+      "texto_ptbr": "Eu me lembro que tinha uma sorveteria por perto.\\nVamos dar uma pausa e comer algo delicioso!"
+    },
+    {
+      "id": 64,
+      "personagem": "Itsuki",
+      "texto_en": "Well then, let's set sail\\nin search of new gelato we haven't tried yet!",
+      "texto_ptbr": "Bom, então vamos zarpar\\nem busca de novos sorvetes que ainda não experimentamos!"
+    },
+    {
+      "id": 65,
+      "personagem": "Itsuki",
+      "texto_en": "O-okay.\\nLet's go.",
+      "texto_ptbr": "T-tá bom.\\nVamos."
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "(I wonder if even the ancient people\\n who crossed the sea a long time ago\\n set off with such enthusiasm...?)",
+      "texto_ptbr": "(Será que até os povos antigos\\n que atravessaram o mar há muito tempo\\n partiram com tanto entusiasmo assim...?)"
+    }
+  ]
+}

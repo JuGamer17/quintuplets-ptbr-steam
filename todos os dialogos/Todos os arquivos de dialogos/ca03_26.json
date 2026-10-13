@@ -1,0 +1,210 @@
+{
+  "arquivo": "ca03_26",
+  "total": 34,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Yotsuba",
+      "texto_en": "Ohh! There are quite alot of shops lined up!",
+      "texto_ptbr": "Uau! Tem um monte de lojas enfileiradas!"
+    },
+    {
+      "id": 1,
+      "personagem": "Raiha",
+      "texto_en": "And it's bustling with so many people!",
+      "texto_ptbr": "E está lotado de gente!"
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "Kokusai dori is the busiest street in Naha.\\nLocal people must come to shop here too, right?",
+      "texto_ptbr": "A Kokusai Dori é a rua mais movimentada de Naha.\\nOs moradores locais também devem vir fazer compras aqui, né?"
+    },
+    {
+      "id": 3,
+      "personagem": "Miku",
+      "texto_en": "There are not only shops on the main street,\\nbut also many in the backstreets.",
+      "texto_ptbr": "Não tem lojas só na rua principal,\\ntem muitas nas ruas paralelas também."
+    },
+    {
+      "id": 4,
+      "personagem": "Ichika",
+      "texto_en": "I wonder how many shops there are\\nif we include the ones in the backstreets?",
+      "texto_ptbr": "Será quantas lojas tem\\nse incluirmos as das ruas paralelas?"
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "There are definitely too many to go around all of them.",
+      "texto_ptbr": "É óbvio que tem lojas demais pra dar conta de todas."
+    },
+    {
+      "id": 6,
+      "personagem": "Yotsuba",
+      "texto_en": "So, what should we do?\\nWe should decide on souvenirs soon.",
+      "texto_ptbr": "Então, o que a gente faz?\\nDevíamos decidir logo os souvenires."
+    },
+    {
+      "id": 7,
+      "personagem": "Ichika",
+      "texto_en": "Let's each go where we want to, freely.\\nWalking around in a group seems difficult.",
+      "texto_ptbr": "Vamos cada um pra onde quiser, livremente.\\nAndar em grupo parece complicado."
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, that's right.",
+      "texto_ptbr": "É, isso mesmo."
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "I have a shop I'm interested in, so I'll go on ahead.",
+      "texto_ptbr": "Tem uma loja que me interessa, então vou na frente."
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "(If that's the case...\\n I'll make time to talk to Miku while she's gone.)",
+      "texto_ptbr": "(Se é assim...\\n vou aproveitar a deixa pra conversar com a Miku enquanto a Nino está longe.)"
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "(I need to figure out why Miku is avoiding me%p-2;――\\n%p; We need to confirm each other's feelings for sure.\\n Everything else can wait!)",
+      "texto_ptbr": "(Eu preciso descobrir por que a Miku está me evitando%p-2;――\\n%p; A gente precisa confirmar os sentimentos um do outro, com certeza.\\n O resto pode esperar!)"
+    },
+    {
+      "id": 12,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 13,
+      "personagem": "Yotsuba",
+      "texto_en": "Hey, Miku, which shop are you going to?",
+      "texto_ptbr": "Ei, Miku, pra qual loja você vai?"
+    },
+    {
+      "id": 14,
+      "personagem": "Miku",
+      "texto_en": "Ah, umm...\\nI think I'll choose a souvenir for Dad.",
+      "texto_ptbr": "Ah, hum...\\nAcho que vou escolher um presente pro papai."
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "What do you think would be good?\\nSomething like a small item\\nhe could use for work, maybe?",
+      "texto_ptbr": "O que você acha que seria bom?\\nTalvez algo pequeno\\nque ele possa usar no trabalho?"
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Hey, Miku.",
+      "texto_ptbr": "Ei, Miku."
+    },
+    {
+      "id": 17,
+      "personagem": "Miku",
+      "texto_en": "!...\\nWh-what?",
+      "texto_ptbr": "!...\\nQ-que foi?"
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "I wanna talk to you for a bit.\\nCan you spare me some time?",
+      "texto_ptbr": "Eu quero conversar com você um pouco.\\nVocê tem um tempinho?"
+    },
+    {
+      "id": 19,
+      "personagem": "Miku",
+      "texto_en": "Huh?!\\nU-um, Futaro?",
+      "texto_ptbr": "Hã?!\\nU-um, Fuutarou?"
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "No good?",
+      "texto_ptbr": "Não pode?"
+    },
+    {
+      "id": 21,
+      "personagem": "Miku",
+      "texto_en": "I-it's not that.\\nI was thinking... I was thinking of having to talk to you too.",
+      "texto_ptbr": "N-não é isso.\\nEu estava pensando... estava pensando que também precisava falar com você."
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "I see, good.",
+      "texto_ptbr": "Entendo, que bom."
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "(First step, check.\\n Now to think about what to do\\n if she runs away now%p-2;――%p;)",
+      "texto_ptbr": "(Primeiro passo, feito.\\n Agora preciso pensar no que fazer\\n se ela fugir agora%p-2;――%p;)"
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "(No, I can't let my guard down.\\n Put aside any ulterior motives!\\n Make sure to act with sincerity and seriousness!)",
+      "texto_ptbr": "(Não, eu não posso baixar a guarda.\\n Deixa de lado qualquer segunda intenção!\\n Tenho que agir com sinceridade e seriedade!)"
+    },
+    {
+      "id": 25,
+      "personagem": "Miku",
+      "texto_en": "Wha...\\nFutaro, what's wrong?",
+      "texto_ptbr": "O quê...\\nFuutarou, o que foi?"
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "What are you talking about?",
+      "texto_ptbr": "Do que você está falando?"
+    },
+    {
+      "id": 27,
+      "personagem": "Miku",
+      "texto_en": "W-well, I just feel you're mad...",
+      "texto_ptbr": "B-bom, eu só sinto que você está bravo..."
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "I'm not angry or anything.\\nI just want to have a serious talk with you.",
+      "texto_ptbr": "Eu não estou bravo nem nada.\\nEu só quero ter uma conversa séria com você."
+    },
+    {
+      "id": 29,
+      "personagem": "Miku",
+      "texto_en": "Wha-wha-whaaa?!",
+      "texto_ptbr": "Q-q-quêêê?!"
+    },
+    {
+      "id": 30,
+      "personagem": "Miku",
+      "texto_en": "Um, Futaro.\\nI, um! Sorry!",
+      "texto_ptbr": "Hum, Fuutarou.\\nEu, hum! Desculpa!"
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Huh...",
+      "texto_ptbr": "Hã..."
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "(Damn it! Why is she running away?\\n Is there another reason why Miku is avoiding me?!)",
+      "texto_ptbr": "(Droga! Por que ela está fugindo?\\n Será que tem outro motivo pra Miku estar me evitando?!)"
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "(No, I need to confirm that!\\n Time to find Miku!)",
+      "texto_ptbr": "(Não, eu preciso confirmar isso!\\n Hora de encontrar a Miku!)"
+    }
+  ]
+}

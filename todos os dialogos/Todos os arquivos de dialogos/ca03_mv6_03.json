@@ -1,0 +1,228 @@
+{
+  "arquivo": "ca03_mv6_03",
+  "total": 37,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Raiha",
+      "texto_en": "Ah, it's big bro.",
+      "texto_ptbr": "Ah, é o Onii-chan."
+    },
+    {
+      "id": 1,
+      "personagem": "Miku",
+      "texto_en": "Huh, Futaro?!",
+      "texto_ptbr": "Hã, Fuutarou?!"
+    },
+    {
+      "id": 2,
+      "personagem": "Miku",
+      "texto_en": "W-well, I'm going to another store.\\nSee you%p-2;――",
+      "texto_ptbr": "B-bom, eu vou dar uma olhada em outra loja.\\nAté%p-2;――"
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, wait, Miku!",
+      "texto_ptbr": "Ah, espera, Miku!"
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "Okay...",
+      "texto_ptbr": "Certo..."
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Haah, haah...\\nShe ran away again...",
+      "texto_ptbr": "Haah, haah...\\nEla fugiu de novo..."
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "So, you were chasing after Miku, right?",
+      "texto_ptbr": "Então, você estava correndo atrás da Miku, né?"
+    },
+    {
+      "id": 7,
+      "personagem": "Raiha",
+      "texto_en": "Is that so?",
+      "texto_ptbr": "É mesmo?"
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, I wanted to talk to her...",
+      "texto_ptbr": "É, eu queria falar com ela..."
+    },
+    {
+      "id": 9,
+      "personagem": "Raiha",
+      "texto_en": "In situations like this, in a drama,\\nyou'd be the one grabbing Miku-san's arm,\\nshouting 'Don't go!'",
+      "texto_ptbr": "Em situações assim, num dorama,\\nvocê seria aquele que segura o braço da Miku-san,\\ngritando 'Não vai embora!'"
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "If it was Yotsuba chasing her,\\nit might work, but it'd be difficult\\nfor Uesugi-kun.",
+      "texto_ptbr": "Se fosse a Yotsuba correndo atrás dela,\\ntalvez desse certo, mas deve ser difícil\\npra você, Uesugi-kun."
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Kkh...\\nI screwed up...",
+      "texto_ptbr": "Kkh...\\nEu estraguei tudo..."
+    },
+    {
+      "id": 12,
+      "personagem": "Raiha",
+      "texto_en": "Big bro, what's the matter?",
+      "texto_ptbr": "Onii-chan, o que houve?"
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "I want to talk to Miku.\\nHowever...",
+      "texto_ptbr": "Eu quero falar com a Miku.\\nMas..."
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "She just keeps running away from you...",
+      "texto_ptbr": "Ela só fica fugindo de você..."
+    },
+    {
+      "id": 15,
+      "personagem": "Raiha",
+      "texto_en": "In situations like this, in a drama,\\nyou'd be the one grabbing Miku-san's arm,\\nshouting 'Don't go!'",
+      "texto_ptbr": "Em situações assim, num dorama,\\nvocê seria aquele que segura o braço da Miku-san,\\ngritando 'Não vai embora!'"
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "If it was Yotsuba chasing her,\\nit might work, but it'd be difficult\\nfor Uesugi-kun.",
+      "texto_ptbr": "Se fosse a Yotsuba correndo atrás dela,\\ntalvez desse certo, mas deve ser difícil\\npra você, Uesugi-kun."
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Kkh...\\nI screwed up...",
+      "texto_ptbr": "Kkh...\\nEu estraguei tudo..."
+    },
+    {
+      "id": 18,
+      "personagem": "Raiha",
+      "texto_en": "So, big bro, I see you still haven't reconciled with her yet.",
+      "texto_ptbr": "Então, Onii-chan, pelo visto você ainda não fez as pazes com ela."
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Unfortunately not...",
+      "texto_ptbr": "Infelizmente não..."
+    },
+    {
+      "id": 20,
+      "personagem": "Raiha",
+      "texto_en": "In situations like this, in a drama,\\nyou'd be the one grabbing Miku-san's arm,\\nshouting 'Don't go!'",
+      "texto_ptbr": "Em situações assim, num dorama,\\nvocê seria aquele que segura o braço da Miku-san,\\ngritando 'Não vai embora!'"
+    },
+    {
+      "id": 21,
+      "personagem": "Itsuki",
+      "texto_en": "If it was Yotsuba chasing her,\\nit might work, but it'd be difficult\\nfor Uesugi-kun.",
+      "texto_ptbr": "Se fosse a Yotsuba correndo atrás dela,\\ntalvez desse certo, mas deve ser difícil\\npra você, Uesugi-kun."
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "Kkh...\\nI screwed up...",
+      "texto_ptbr": "Kkh...\\nEu estraguei tudo..."
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "But, this is about Miku.\\nIf I give it my all, I might be able to catch up to her%p-2;――",
+      "texto_ptbr": "Mas, se é sobre a Miku,\\nse eu me esforçar ao máximo, talvez eu consiga alcançá-la%p-2;――"
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Just maybe.",
+      "texto_ptbr": "Só talvez."
+    },
+    {
+      "id": 25,
+      "personagem": "Itsuki",
+      "texto_en": "...Teehee.",
+      "texto_ptbr": "...Hihi."
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "What the hell.",
+      "texto_ptbr": "Que droga."
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "Well, how do I say it,\\nyou two are really compatible, aren't you.",
+      "texto_ptbr": "Bom, como posso dizer,\\nvocês dois combinam muito, né."
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "Since Miku is the one being chased,\\nand you're the one doing the chasing, Uesugi-kun,\\nit's like you might catch up to her, but won't%p-2;――",
+      "texto_ptbr": "Já que a Miku é a que está sendo perseguida,\\ne você é o que está perseguindo, Uesugi-kun,\\né tipo, você quase alcança ela, mas não alcança%p-2;――"
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "That's what you mean, right?",
+      "texto_ptbr": "É isso que você quer dizer, né?"
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "...I will catch up to her in no time.\\nAfter all, It's embarrassing to keep letting her run off like that.",
+      "texto_ptbr": "...Eu vou alcançá-la rapidinho.\\nAfinal, é vergonhoso ficar deixando ela fugir desse jeito."
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "That's the spirit.",
+      "texto_ptbr": "Essa é a atitude."
+    },
+    {
+      "id": 33,
+      "personagem": "Itsuki",
+      "texto_en": "However, I'm gonna say this,\\nbut just catching up isn't enough, you know?",
+      "texto_ptbr": "Só que, deixa eu te falar uma coisa,\\nsó alcançar ela não é suficiente, sabia?"
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "...Yeah, I know.",
+      "texto_ptbr": "...É, eu sei."
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "Well then, good luck, Uesugi-kun!",
+      "texto_ptbr": "Bom, então boa sorte, Uesugi-kun!"
+    },
+    {
+      "id": 36,
+      "personagem": "Raiha",
+      "texto_en": "Do your best, big bro!",
+      "texto_ptbr": "Se esforça, Onii-chan!"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "arquivo": "ca04_10",
+  "total": 5,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*map",
+      "texto_jp": "dummy",
+      "texto_en": "{UNTRANSLATED}dummy",
+      "texto_ptbr": "",
+      "selidx": 0
+    },
+    {
+      "id": 1,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "上杉さんとしては……どうでしょう？\\nこのままでいいとか、なにかありますか？",
+      "texto_en": "Uesugi-san... What do you think?\\nShould I keep talking to you this way,\\nor should I change anything?",
+      "texto_ptbr": "Uesugi-san... O que você acha?\nEu devo continuar falando com você desse jeito,\nou devo mudar alguma coisa?"
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "好きにしてくれていいぞ",
+      "texto_en": "Do whatever you feel comfortable with.",
+      "texto_ptbr": "Fica à vontade.",
+      "selidx": 0
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "そろそろタメ口でいいかもな",
+      "texto_en": "Talking to me more casually wouldn't hurt.",
+      "texto_ptbr": "Talvez já fosse hora de falar comigo de maneira mais informal.",
+      "selidx": 1
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "名前で呼んでほしくはある",
+      "texto_en": "Try calling me by my first name sometimes.",
+      "texto_ptbr": "Queria que você me chamasse pelo primeiro nome.",
+      "selidx": 2
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "arquivo": "ca02_04",
+  "total": 66,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(We finished breakfast and got into a taxi,\\n then left for Kouri Island.)",
+      "texto_ptbr": "(Terminamos o café da manhã e entramos num táxi,\\n depois partimos para a Ilha Kouri.)"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(To be precise, Okinawa and Yagaji Island\\n are connected by the Yagaji Bridge%p-2;――%p;)",
+      "texto_ptbr": "(Para ser preciso, Okinawa e a Ilha Yagaji\\n são conectadas pela Ponte Yagaji%p-2;――%p;)"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(Furthermore, Yagaji Island and Kouri Island\\n are connected by Kouri Bridge.)",
+      "texto_ptbr": "(Além disso, a Ilha Yagaji e a Ilha Kouri\\n são conectadas pela Ponte Kouri.)"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "(While enjoying the view from the Kouri Bridge\\n that stretches over the sea, we safely arrived\\n at the front of a building called Kouri Ocean Tower.)",
+      "texto_ptbr": "(Enquanto aproveitávamos a vista da Ponte Kouri\\n que se estende sobre o mar, chegamos sem problemas\\n na frente de um prédio chamado Kouri Ocean Tower.)"
+    },
+    {
+      "id": 4,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san! Did you see it? The view from the bridge!",
+      "texto_ptbr": "Uesugi-san! Você viu? A vista da ponte!"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Oh yeah, it was astounding!",
+      "texto_ptbr": "Ah sim, foi impressionante!"
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "Blue sky, white sandy beach, emerald green sea,\\nand the bright sun...",
+      "texto_ptbr": "Céu azul, praia de areia branca, mar verde-esmeralda,\\ne o sol brilhante..."
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "It truly was a breathtaking view,\\njust as the rumors say.\\nI'm getting excited about being in Okinawa!",
+      "texto_ptbr": "Foi realmente uma vista de tirar o fôlego,\\nigual ao que diziam.\\nEstou ficando animado por estar em Okinawa!"
+    },
+    {
+      "id": 8,
+      "personagem": "Raiha",
+      "texto_en": "Yeah! I was really surprised because I've never seen\\nsuch a beautiful landscape before.",
+      "texto_ptbr": "É! Fiquei muito surpresa porque nunca tinha visto\\numa paisagem tão bonita antes."
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "Futaro was so excited even in the taxi,\\nit was quite a handful.",
+      "texto_ptbr": "O Futaro estava tão empolgado mesmo dentro do táxi,\\nfoi um trabalhão."
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "Well, I can understand how he feels.\\nIt exceeded our expectations.",
+      "texto_ptbr": "Bom, dá pra entender como ele se sente.\\nSuperou as expectativas."
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "The view was so beautiful, it looked like a photograph.",
+      "texto_ptbr": "A vista era tão bonita que parecia fotografia."
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "I know, right! It was so unreal!",
+      "texto_ptbr": "É mesmo! Parecia irreal!"
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "The weather is great.\\nIt's a perfect day for sightseeing.",
+      "texto_ptbr": "O tempo tá ótimo.\\nÉ um dia perfeito pra passear."
+    },
+    {
+      "id": 14,
+      "personagem": "Yotsuba",
+      "texto_en": "I'd love to ride a bike on that bridge. Seeing the landscape \\nfrom inside the car is great, but it'd be even more satisfying\\nto feel the wind while riding on it.",
+      "texto_ptbr": "Adoraria andar de bicicleta nessa ponte. Ver a paisagem\\nde dentro do carro é ótimo, mas seria ainda mais gostoso\\nsentir o vento enquanto pedalava nela."
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "I don't know about bikes, but that bridge\\nseems to be a popular touring spot for motorcycles,\\naccording to our taxi driver.",
+      "texto_ptbr": "Não sei sobre bicicleta, mas essa ponte\\nparece ser um ponto popular para passeios de moto,\\nde acordo com o nosso motorista de táxi."
+    },
+    {
+      "id": 16,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh! It IS a popular spot!",
+      "texto_ptbr": "Oh! É um ponto popular mesmo!"
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "Touring, eh...",
+      "texto_ptbr": "Passeio de moto, hein..."
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "I heard you can get a motorcycle license in one day\\nif you study for it.",
+      "texto_ptbr": "Ouvi dizer que dá pra tirar a carteira de moto em um dia\\nse estudar pra isso."
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Hey, hold on. You might be able to get it in one day,\\nbut you still have to ride on public roads,\\nso you should practice properly.",
+      "texto_ptbr": "Ei, calma aí. Pode até ser que dê pra tirar em um dia,\\nmas você ainda vai ter que andar nas vias públicas,\\nentão precisa praticar direito."
+    },
+    {
+      "id": 20,
+      "personagem": "Miku",
+      "texto_en": "Futaro, you're still tutoring us.",
+      "texto_ptbr": "Futaro, você ainda tá nos dando aula."
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "That's not the issue here!",
+      "texto_ptbr": "Não é isso o ponto!"
+    },
+    {
+      "id": 22,
+      "personagem": "Nino",
+      "texto_en": "Wait a minute!\\nFutaro, you have a motorcycle license, right?",
+      "texto_ptbr": "Espera um momento!\\nFutaro, você tem carteira de moto, né?"
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "Well, I have one, but it's not a good idea to go on a solo tour\\nin this situation. It would be a shame to go touring\\nalone on our graduation trip, when we're all together.",
+      "texto_ptbr": "Bom, tenho sim, mas não é uma boa ideia fazer um passeio sozinho\\nnessa situação. Seria uma pena ir passear\\nsozinho na nossa viagem de formatura, quando estamos todos juntos."
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "Yeah, since we came all the way,\\nwe should be hanging out together.",
+      "texto_ptbr": "É, já que viemos até aqui,\\ndevemos ficar juntos."
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "...You're right.",
+      "texto_ptbr": "...Você tem razão."
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "(Hm?\\n What's wrong? Nino seems oddly dissatisfied.)",
+      "texto_ptbr": "(Hm?\\n O que foi? A Nino parece estranhamente insatisfeita.)"
+    },
+    {
+      "id": 27,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "Hey%p-2;――",
+      "texto_ptbr": "Ei%p-2;――"
+    },
+    {
+      "id": 29,
+      "personagem": "Nino",
+      "texto_en": "Well, never mind. We came all the way to Kouri Island,\\nso let's enjoy it to the fullest.",
+      "texto_ptbr": "Bom, esquece. Viemos até a Ilha Kouri,\\nentão vamos aproveitar ao máximo."
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "O-okay.",
+      "texto_ptbr": "T-tá bom."
+    },
+    {
+      "id": 31,
+      "personagem": "Itsuki",
+      "texto_en": "Nino, you mentioned several times\\nthat you wanted to go to Kouri Island\\nafter our destination was set to Okinawa, right?",
+      "texto_ptbr": "Nino, você mencionou várias vezes\\nque queria ir à Ilha Kouri\\ndepois que nosso destino foi definido como Okinawa, né?"
+    },
+    {
+      "id": 32,
+      "personagem": "Raiha",
+      "texto_en": "That's right.\\nWhat kind of places are there on Kouri Island?",
+      "texto_ptbr": "É mesmo.\\nQue tipo de lugares existem na Ilha Kouri?"
+    },
+    {
+      "id": 33,
+      "personagem": "Nino",
+      "texto_en": "There are many power spots on Kouri Island!\\nThe Heart Rock at Tinu Beach is one of them.",
+      "texto_ptbr": "Tem muitos pontos especiais na Ilha Kouri!\\nA Pedra do Coração na Praia Tinu é um deles."
+    },
+    {
+      "id": 34,
+      "personagem": "Raiha",
+      "texto_en": "Heart Rock?",
+      "texto_ptbr": "Pedra do Coração?"
+    },
+    {
+      "id": 35,
+      "personagem": "Nino",
+      "texto_en": "A rock that looks like a heart.",
+      "texto_ptbr": "Uma pedra que parece um coração."
+    },
+    {
+      "id": 36,
+      "personagem": "Nino",
+      "texto_en": "After all, Kouri Island is the Island of Love.\\nIt was originally called 'Kuijima.'",
+      "texto_ptbr": "Afinal, a Ilha Kouri é a Ilha do Amor.\\nOriginalmente se chamava 'Kuijima.'"
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Kuijima?",
+      "texto_ptbr": "Kuijima?"
+    },
+    {
+      "id": 38,
+      "personagem": "Nino",
+      "texto_en": "The kanji is written as 'Island of Love,'\\nbut it's read as 'Kuijima.'",
+      "texto_ptbr": "O kanji é escrito como 'Ilha do Amor,'\\nmas é lido como 'Kuijima.'"
+    },
+    {
+      "id": 39,
+      "personagem": "Nino",
+      "texto_en": "There's a legend,\\nthat's like the Okinawan version of Adam and Eve%p-2;――",
+      "texto_ptbr": "Tem uma lenda,\\nque é como a versão okinawana de Adão e Eva%p-2;――"
+    },
+    {
+      "id": 40,
+      "personagem": "Nino",
+      "texto_en": "It's said that this is the place\\nwhere the heavenly gods\\nfirst brought down a man and a woman.",
+      "texto_ptbr": "Diz-se que esse é o lugar\\nonde os deuses celestiais\\nprimeramente trouxeram um homem e uma mulher."
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "Certainly, there are similarities\\nto the Adam and Eve story.",
+      "texto_ptbr": "Certamente, tem semelhanças\\ncom a história de Adão e Eva."
+    },
+    {
+      "id": 42,
+      "personagem": "Nino",
+      "texto_en": "In addition to Tinu Beach, there are many other\\nplaces of interest, such as Chigunu Beach, which is\\nsaid to be the legendary place where the two lived.",
+      "texto_ptbr": "Além da Praia Tinu, há muitos outros\\npontos de interesse, como a Praia Chigunu, que é\\nconhecida como o lugar lendário onde os dois viveram."
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "You know a lot about it, Nino.",
+      "texto_ptbr": "Você sabe muito sobre isso, Nino."
+    },
+    {
+      "id": 44,
+      "personagem": "Nino",
+      "texto_en": "Hm-hmm, I researched it for this trip.\\nLeave everything about Kouri Island to me.",
+      "texto_ptbr": "Hm-hm, pesquisei pra essa viagem.\\nDeixa tudo sobre a Ilha Kouri comigo."
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "I wish you could reflect\\nthat enthusiasm in you studies...",
+      "texto_ptbr": "Queria que você pudesse refletir\\nesse entusiasmo nos seus estudos..."
+    },
+    {
+      "id": 46,
+      "personagem": "Nino",
+      "texto_en": "Don't say things like that anymore.\\nYou're mean.",
+      "texto_ptbr": "Não fala mais esse tipo de coisa.\\nVocê é cruel."
+    },
+    {
+      "id": 47,
+      "personagem": "Yotsuba",
+      "texto_en": "Hey, hey, before we go to the power spot,\\nlet's climb the tower over there and take a look at it!",
+      "texto_ptbr": "Ei, ei, antes de irmos ao ponto especial,\\nvamos subir naquela torre ali e dar uma olhada!"
+    },
+    {
+      "id": 48,
+      "personagem": "Ichika",
+      "texto_en": "I'm curious too.\\nIf we climb up, will we see more than we did from the bridge?",
+      "texto_ptbr": "Eu também tô curiosa.\\nSe a gente subir, vai dar pra ver mais do que vimos da ponte?"
+    },
+    {
+      "id": 49,
+      "personagem": "Nino",
+      "texto_en": "Of course! That is a scenic spot\\nwhere we'll be able to see the whole Kouri Bridge.",
+      "texto_ptbr": "Claro! Aquele é um mirante\\nde onde dá pra ver a Ponte Kouri inteira."
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "Oh, that sounds exciting!",
+      "texto_ptbr": "Oh, isso parece incrível!"
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "The view from the bridge was already amazing,\\nbut if we can see it all from there\\nit must be an incredible sight!",
+      "texto_ptbr": "A vista da ponte já era incrível,\\nmas se pudermos ver tudo dali\\ndeve ser uma vista espetacular!"
+    },
+    {
+      "id": 52,
+      "personagem": "Nino",
+      "texto_en": "And there's also a must-see tourist spot\\non the rooftop there.",
+      "texto_ptbr": "E tem também um ponto turístico que não pode deixar de ver\\nno telhado de lá."
+    },
+    {
+      "id": 53,
+      "personagem": "Ichika",
+      "texto_en": "Really? What is it?",
+      "texto_ptbr": "Sério? O que é?"
+    },
+    {
+      "id": 54,
+      "personagem": "Nino",
+      "texto_en": "That's a surprise for when we get there.",
+      "texto_ptbr": "Isso é surpresa pra quando a gente chegar lá."
+    },
+    {
+      "id": 55,
+      "personagem": "Nino",
+      "texto_en": "There should be an automatic cart\\nfrom the entrance to the observation deck.\\nLet's go for it!",
+      "texto_ptbr": "Deve ter um carrinho automático\\nda entrada até o mirante.\\nVamos lá!"
+    },
+    {
+      "id": 56,
+      "personagem": "Yotsuba",
+      "texto_en": "A cart? Sounds fun!\\nLet's ride, let's ride!",
+      "texto_ptbr": "Um carrinho? Que divertido!\\nVamos andar, vamos andar!"
+    },
+    {
+      "id": 57,
+      "personagem": "Nino",
+      "texto_en": "Come on, Futaro!\\nHurry up!",
+      "texto_ptbr": "Vamos logo, Futaro!\\nApresssa!"
+    },
+    {
+      "id": 58,
+      "personagem": "Futaro",
+      "texto_en": "H-hey, Nino! You don't have to pull me like that!",
+      "texto_ptbr": "E-ei, Nino! Não precisa me puxar assim!"
+    },
+    {
+      "id": 59,
+      "personagem": "Miku",
+      "texto_en": "...Nino, why don't you just say it?",
+      "texto_ptbr": "...Nino, por que você não fala logo?"
+    },
+    {
+      "id": 60,
+      "personagem": "Ichika",
+      "texto_en": "Oh, is it about the motorcycle?",
+      "texto_ptbr": "Ah, é sobre a moto?"
+    },
+    {
+      "id": 61,
+      "personagem": "Miku",
+      "texto_en": "She must have wanted to ride together.",
+      "texto_ptbr": "Ela devia querer andar junto."
+    },
+    {
+      "id": 62,
+      "personagem": "Ichika",
+      "texto_en": "No matter what we say,\\nNino isn't the kind of girl\\nwho could be that selfish.",
+      "texto_ptbr": "Por mais que a gente fale,\\na Nino não é o tipo de garota\\nque consegue ser assim tão egoísta."
+    },
+    {
+      "id": 63,
+      "personagem": "Ichika",
+      "texto_en": "That's why she wanted Futaro-kun to understand her.",
+      "texto_ptbr": "Por isso ela queria que o Futaro-kun a entendesse."
+    },
+    {
+      "id": 64,
+      "personagem": "Miku",
+      "texto_en": "But, it's Futaro, after all.",
+      "texto_ptbr": "Mas, afinal, é o Futaro."
+    },
+    {
+      "id": 65,
+      "personagem": "Ichika",
+      "texto_en": "Yeah, it IS Futaro-kun.",
+      "texto_ptbr": "É, É o Futaro-kun mesmo."
+    }
+  ]
+}

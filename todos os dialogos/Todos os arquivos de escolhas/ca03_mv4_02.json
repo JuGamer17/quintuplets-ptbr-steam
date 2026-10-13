@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca03_mv4_02",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "本当に孤立してる場所なんて、\\nこの世界には１つもないのかもしれないわね。",
+      "texto_en": "There may not be a single place in this world\\nthat is truly isolated.",
+      "texto_ptbr": "Talvez não exista nem um único lugar nesse mundo\nque seja realmente isolado."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "生態系は孤立するぞ",
+      "texto_en": "Some ecological systems can get isolated.",
+      "texto_ptbr": "Ecossistemas acabam isolados, sabe.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "いい言葉だな、それ",
+      "texto_en": "That's a good phrase.",
+      "texto_ptbr": "É uma boa frase, essa.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "人の意思次第ってことだな",
+      "texto_en": "That depends on human will, doesn't it?",
+      "texto_ptbr": "Então depende da vontade das pessoas, né?",
+      "selidx": 2
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "arquivo": "ca03_25",
+  "total": 29,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Ichika",
+      "texto_en": "I see.\\nSo Futaro-kun wanted to kiss Miku, huh?\\nHe was that much of a wolf, was he.",
+      "texto_ptbr": "Entendo.\\nEntão o Futaro-kun queria beijar a Miku, é?\\nEle era um lobo desses, hein."
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "He's not a wolf, you know.\\nAt best, he's just a dog.",
+      "texto_ptbr": "Ele não é um lobo, sabia.\\nNo máximo, é só um cachorro."
+    },
+    {
+      "id": 2,
+      "personagem": "Nino",
+      "texto_en": "*sigh*\\nHearing it like this, it's clear that both of them\\nare struggling with their feelings for each other.",
+      "texto_ptbr": "*suspiro*\\nOuvindo assim, dá pra ver claramente que os dois\\nestão tendo dificuldade com os sentimentos um pelo outro."
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "This...is just the difficulty of 'love', isn't it?",
+      "texto_ptbr": "Isso... é só a dificuldade do 'amor', não é?"
+    },
+    {
+      "id": 4,
+      "personagem": "Nino",
+      "texto_en": "Well, I can understand both\\nMiku and Fu-kun's feelings.",
+      "texto_ptbr": "Bom, eu consigo entender tanto\\nos sentimentos da Miku quanto os do Fu-kun."
+    },
+    {
+      "id": 5,
+      "personagem": "Yotsuba",
+      "texto_en": "Both Miku and Uesugi-san cherish each other,\\nthat's why they're struggling like this.",
+      "texto_ptbr": "A Miku e o Uesugi-san se importam muito um com o outro,\\né por isso que estão tendo essa dificuldade."
+    },
+    {
+      "id": 6,
+      "personagem": "Ichika",
+      "texto_en": "When something is important to you,\\nyou become easily frightened.\\nI guess that's just how it is for those two.",
+      "texto_ptbr": "Quando algo é importante pra você,\\nvocê fica com medo fácil.\\nAcho que é assim mesmo pra esses dois."
+    },
+    {
+      "id": 7,
+      "personagem": "Ichika",
+      "texto_en": "But still, it seems like there's not much\\nfor us to do at this point, is there?",
+      "texto_ptbr": "Mas ainda assim, parece que não tem muito\\nque a gente possa fazer nesse ponto, não é?"
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "Yeah. What they need now\\nis to confirm their feelings for each other.",
+      "texto_ptbr": "É. O que eles precisam agora\\né confirmar os sentimentos um pelo outro."
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "Of course, they'll have to do that on their own.",
+      "texto_ptbr": "Claro, eles vão ter que fazer isso sozinhos."
+    },
+    {
+      "id": 10,
+      "personagem": "Nino",
+      "texto_en": "Definitely.\\nI don't intend to meddle too much in their affairs.",
+      "texto_ptbr": "Com certeza.\\nEu não pretendo me meter demais nos assuntos deles."
+    },
+    {
+      "id": 11,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, maybe we can subtly help them out a little bit?",
+      "texto_ptbr": "Bom, talvez a gente possa dar uma ajudinha discreta?"
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "Yotsuba.\\nDon't be too nosy, okay?",
+      "texto_ptbr": "Yotsuba.\\nNão fica se metendo demais, tá?"
+    },
+    {
+      "id": 13,
+      "personagem": "Yotsuba",
+      "texto_en": "But I'm just worried.\\nUesugi-san has already failed once before.",
+      "texto_ptbr": "Mas eu só estou preocupada.\\nO Uesugi-san já falhou uma vez antes."
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "I hope he learned from his mistakes this time.",
+      "texto_ptbr": "Espero que ele tenha aprendido com os erros dessa vez."
+    },
+    {
+      "id": 15,
+      "personagem": "Yotsuba",
+      "texto_en": "Maybe...\\nwe should prepare a trump card, just in case?",
+      "texto_ptbr": "Talvez...\\na gente devesse preparar uma cartada na manga, só por precaução?"
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "...I have a bad feeling about this.",
+      "texto_ptbr": "...Estou com um pressentimento ruim sobre isso."
+    },
+    {
+      "id": 17,
+      "personagem": "Yotsuba",
+      "texto_en": "Actually, when I went to the lounge earlier,\\nI heard something interesting.",
+      "texto_ptbr": "Na verdade, quando eu fui ao lounge mais cedo,\\neu ouvi algo interessante."
+    },
+    {
+      "id": 18,
+      "personagem": "Yotsuba",
+      "texto_en": "Um, I was checking on my phone%p-2;――",
+      "texto_ptbr": "Hum, eu estava checando meu celular%p-2;――"
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "Here, here! Look!",
+      "texto_ptbr": "Olha, olha! Vê só!"
+    },
+    {
+      "id": 20,
+      "personagem": "Yotsuba",
+      "texto_en": "Tomorrow, we're planning to go to Kokusai dori\\nand then to the beach.\\nIt might come in handy if something happens.",
+      "texto_ptbr": "Amanhã, estamos planejando ir pra Kokusai Dori\\ne depois pra praia.\\nPode ser útil se alguma coisa acontecer."
+    },
+    {
+      "id": 21,
+      "personagem": "Ichika",
+      "texto_en": "...I see.\\nThis could be useful, couldn't it?",
+      "texto_ptbr": "...Entendo.\\nIsso pode ser útil, não pode?"
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "Huh?\\nA-are you serious?",
+      "texto_ptbr": "Hã?\\nV-vocês estão falando sério?"
+    },
+    {
+      "id": 23,
+      "personagem": "Ichika",
+      "texto_en": "Well, don't you think it's easier for those two\\nif we make it a little more obvious?",
+      "texto_ptbr": "Bom, você não acha que fica mais fácil pra esses dois\\nse a gente deixar um pouco mais óbvio?"
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "But, is that really a good idea...?",
+      "texto_ptbr": "Mas, isso é mesmo uma boa ideia...?"
+    },
+    {
+      "id": 25,
+      "personagem": "Yotsuba",
+      "texto_en": "Well, it's just a trump card, after all.",
+      "texto_ptbr": "Bom, é só uma cartada na manga, afinal."
+    },
+    {
+      "id": 26,
+      "personagem": "Ichika",
+      "texto_en": "Okay, then let's keep it a secret from\\nMiku and Futaro-kun until the last minute.",
+      "texto_ptbr": "Certo, então vamos manter isso em segredo\\nda Miku e do Futaro-kun até o último minuto."
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "Yeah...",
+      "texto_ptbr": "É..."
+    },
+    {
+      "id": 28,
+      "personagem": "Nino",
+      "texto_en": "Let's hope we don't have to use it, though.",
+      "texto_ptbr": "Espero que a gente não precise usar isso, de qualquer forma."
+    }
+  ]
+}

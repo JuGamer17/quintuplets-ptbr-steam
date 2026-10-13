@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca06_mv4_02",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "美味しい物は美味しいのですから、\\n堂々と好きだと言えばいいんですよ。",
+      "texto_en": "Delicious food is delicious,\\nso just say that you like it with confidence!",
+      "texto_ptbr": "Comida gostosa é gostosa,\\nentão diz que gosta com confiança!"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "それが難しいんだよ",
+      "texto_en": "That's difficult, you know.",
+      "texto_ptbr": "Isso que é difícil, sabe.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "俺はパンケーキ、好きじゃないけどな",
+      "texto_en": "I don't really like pancakes, though.",
+      "texto_ptbr": "Eu não gosto muito de panqueca, mas.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "お前の言う通りかもな",
+      "texto_en": "Maybe you're right.",
+      "texto_ptbr": "Talvez você tenha razão.",
+      "selidx": 2
+    }
+  ]
+}

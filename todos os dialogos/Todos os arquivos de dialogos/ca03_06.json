@@ -1,0 +1,186 @@
+{
+  "arquivo": "ca03_06",
+  "total": 30,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Ichika",
+      "texto_en": "Have we all finished exploring the Shurijo Castle?",
+      "texto_ptbr": "Já terminamos de explorar o Castelo Shurijo?"
+    },
+    {
+      "id": 1,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, that was fun!\\nNot only just the buildings, but the view was spectacular.",
+      "texto_ptbr": "Foi sim, foi muito divertido!\nNão só os prédios, mas a vista também foi espetacular."
+    },
+    {
+      "id": 2,
+      "personagem": "Nino",
+      "texto_en": "Was it Iri-no Azana?\\nThe view from there was amazing,\\nyou could see the whole city.",
+      "texto_ptbr": "Era o Iri-no Azana?\nA vista de lá era incrível,\ndava pra ver a cidade inteira."
+    },
+    {
+      "id": 3,
+      "personagem": "Yotsuba",
+      "texto_en": "Yeah, yeah!\\nThat place was wonderful!",
+      "texto_ptbr": "Isso, isso!\nAquele lugar era maravilhoso!"
+    },
+    {
+      "id": 4,
+      "personagem": "Nino",
+      "texto_en": "Apparently, you can also watch the sunset disappear into the sea.\\nThat's definitely gotta be romantic,\\nso I want to come back in the evening to see it.",
+      "texto_ptbr": "Aparentemente, dá pra ver o pôr do sol desaparecendo no mar também.\nIsso com certeza deve ser romântico,\nentão quero voltar de noite pra ver."
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "For me, it was definitely the main temple.\\nI was able to reflect on the history\\nof the Ryukyu Kingdom.",
+      "texto_ptbr": "Pra mim, foi com certeza o templo principal.\nConsegui refletir sobre a história\ndo Reino Ryukyu."
+    },
+    {
+      "id": 6,
+      "personagem": "Raiha",
+      "texto_en": "I'm with Itsuki-san! The picture of the dragon\\ncarved on the bright red pillar was beautiful.",
+      "texto_ptbr": "Eu concordo com a Itsuki-san! O desenho do dragão\nesculpido no pilar vermelho vivo era lindo."
+    },
+    {
+      "id": 7,
+      "personagem": "Raiha",
+      "texto_en": "What about you, Miku-san?\\nWhat was your favorite part of Shurijo Castle?",
+      "texto_ptbr": "E você, Miku-san?\nQual foi a sua parte favorita do Castelo Shurijo?"
+    },
+    {
+      "id": 8,
+      "personagem": "Miku",
+      "texto_en": "For me, it was the stone walls.\\nI realized how magnificent of a castle Shurijo is.",
+      "texto_ptbr": "Pra mim, foram as muralhas de pedra.\nPercebi o quão magnífico o castelo Shurijo é."
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "How old-fashioned.\\nBut that's something you'd say, Miku.",
+      "texto_ptbr": "Que coisa antiquada.\nMas é bem a sua cara dizer isso, Miku."
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "For me, it was the relaxing atmosphere of the 'okushoin.'\\nIsn't that right, Miku?",
+      "texto_ptbr": "Pra mim, foi a atmosfera relaxante do 'okushoin.'\nNão é mesmo, Miku?"
+    },
+    {
+      "id": 11,
+      "personagem": "Miku",
+      "texto_en": "Y-yeah, you're right.",
+      "texto_ptbr": "É-é verdade, você tem razão."
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "Oh?\\nWhen did you two have a little date?",
+      "texto_ptbr": "Ah é?\nQuando vocês dois tiveram um encontrinho?"
+    },
+    {
+      "id": 13,
+      "personagem": "Miku",
+      "texto_en": "A D-DATE?!",
+      "texto_ptbr": "U-UM ENCONTRO?!"
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "Hey, don't jump to conclusions like that.",
+      "texto_ptbr": "Ei, não tira conclusões precipitadas desse jeito."
+    },
+    {
+      "id": 15,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 16,
+      "personagem": "Yotsuba",
+      "texto_en": "Okay, next up! We've got the Prefectural Museum,\\nnicknamed 'Okimyu.'",
+      "texto_ptbr": "Certo, próximo destino! Temos o Museu Provincial,\napelidado de 'Okimyu.'"
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Okimyu?\\nIs that a word in Okinawan? What does it mean?",
+      "texto_ptbr": "Okimyu?\nIsso é uma palavra em okinawano? O que significa?"
+    },
+    {
+      "id": 18,
+      "personagem": "Yotsuba",
+      "texto_en": "It's short for Okinawa Museum.",
+      "texto_ptbr": "É a abreviação de Museu de Okinawa."
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Ah I get it.",
+      "texto_ptbr": "Ah, entendi."
+    },
+    {
+      "id": 20,
+      "personagem": "Raiha",
+      "texto_en": "Is that where you want to go, Miku-san?\\nDo you like museums?",
+      "texto_ptbr": "É pra lá que você quer ir, Miku-san?\nVocê gosta de museus?"
+    },
+    {
+      "id": 21,
+      "personagem": "Miku",
+      "texto_en": "Uh, well, not exactly.",
+      "texto_ptbr": "Uh, bem, não exatamente."
+    },
+    {
+      "id": 22,
+      "personagem": "Ichika",
+      "texto_en": "You'd said earlier\\nyou were interested in the special exhibition, Miku.",
+      "texto_ptbr": "Você tinha dito mais cedo\nque estava interessada na exposição especial, Miku."
+    },
+    {
+      "id": 23,
+      "personagem": "Miku",
+      "texto_en": "Yeah.\\nIt features the relationship\\nbetween the warlords of Kyushu and the Ryukyu Kingdom.",
+      "texto_ptbr": "É.\nEla aborda a relação\nentre os senhores feudais de Kyushu e o Reino Ryukyu."
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Oh, I see.\\nThat's something that you can't miss, Miku.",
+      "texto_ptbr": "Ah, entendi.\nIsso é algo que você não pode perder, Miku."
+    },
+    {
+      "id": 25,
+      "personagem": "Miku",
+      "texto_en": "Yeah, I'm really excited.",
+      "texto_ptbr": "É, estou bem animada."
+    },
+    {
+      "id": 26,
+      "personagem": "Nino",
+      "texto_en": "Okay, let's go.",
+      "texto_ptbr": "Certo, vamos."
+    },
+    {
+      "id": 27,
+      "personagem": "Miku",
+      "texto_en": "This time for sure, I'll go together with Futaro.",
+      "texto_ptbr": "Dessa vez com certeza, vou junto com o Fuutarou."
+    },
+    {
+      "id": 28,
+      "personagem": "Yotsuba",
+      "texto_en": "Miku? Hurry up, hurry up!",
+      "texto_ptbr": "Miku? Anda logo, anda logo!"
+    },
+    {
+      "id": 29,
+      "personagem": "Miku",
+      "texto_en": "O-okay! I'm coming!",
+      "texto_ptbr": "T-tá! Já vou!"
+    }
+  ]
+}

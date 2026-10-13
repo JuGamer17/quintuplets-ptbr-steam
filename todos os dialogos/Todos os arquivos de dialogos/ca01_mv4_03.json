@@ -1,0 +1,462 @@
+{
+  "arquivo": "ca01_mv4_03",
+  "total": 76,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Miku",
+      "texto_en": "What do you think, Raiha-chan?",
+      "texto_ptbr": "O que você acha, Raiha-chan?"
+    },
+    {
+      "id": 1,
+      "personagem": "Raiha",
+      "texto_en": "Hmm, that's difficult.\\nWhen I talk to everyone and see what they choose,\\neverything looks nice.",
+      "texto_ptbr": "Hmm, é difícil.\\nQuando converso com todo mundo e vejo o que eles escolhem,\\ntudo parece bom."
+    },
+    {
+      "id": 2,
+      "personagem": "Miku",
+      "texto_en": "Yeah, I know.\\nIt's hard to decide because everything seems so good.",
+      "texto_ptbr": "É, eu sei.\\nÉ difícil decidir porque tudo parece tão bom."
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Wait, are you guys talking about souvenirs?",
+      "texto_ptbr": "Espera, vocês estão falando de souvenirs?"
+    },
+    {
+      "id": 4,
+      "personagem": "Raiha",
+      "texto_en": "Ah, big bro!",
+      "texto_ptbr": "Ah, irmão!"
+    },
+    {
+      "id": 5,
+      "personagem": "Miku",
+      "texto_en": "That's right.\\nWe were discussing what to get together.",
+      "texto_ptbr": "Isso mesmo.\\nEstávamos discutindo o que comprar juntos."
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "Though, we haven't really decided yet.",
+      "texto_ptbr": "Mas ainda não decidimos de verdade."
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "I see.\\nWell, it IS a difficult thing to decide on.",
+      "texto_ptbr": "Entendo.\\nBem, É realmente uma coisa difícil de decidir."
+    },
+    {
+      "id": 8,
+      "personagem": "Raiha",
+      "texto_en": "But it's fun to think about it together like this too.",
+      "texto_ptbr": "Mas também é divertido pensar nisso juntos assim."
+    },
+    {
+      "id": 9,
+      "personagem": "Miku",
+      "texto_en": "What we're talking about right now\\nwill surely become a treasured memory later on.",
+      "texto_ptbr": "O que a gente está conversando agora\\ncom certeza vai se tornar uma memória preciosa depois."
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Ah, you're right.",
+      "texto_ptbr": "Ah, é verdade."
+    },
+    {
+      "id": 11,
+      "personagem": "Raiha",
+      "texto_en": "Hmmm...\\nI wonder what would work...",
+      "texto_ptbr": "Hmmm...\\nO que será que daria certo..."
+    },
+    {
+      "id": 12,
+      "personagem": "Miku",
+      "texto_en": "When we were at the aquarium gift shop earlier,\\nI thought chopsticks might be nice.",
+      "texto_ptbr": "Quando estávamos na loja de presentes do aquário antes,\\npensamos que palitinhos de comer poderiam ser uma boa."
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Chopsticks?\\nThey had those?",
+      "texto_ptbr": "Palitinhos?\\nTinham esses?"
+    },
+    {
+      "id": 14,
+      "personagem": "Miku",
+      "texto_en": "Yeah, they had cute drawings of sea creatures on them.",
+      "texto_ptbr": "É, tinham desenhos fofos de criaturas marinhas."
+    },
+    {
+      "id": 15,
+      "personagem": "Raiha",
+      "texto_en": "Since we use chopsticks every day,\\nit might be nice to remember the trip\\nevery time we use them.",
+      "texto_ptbr": "Como a gente usa palitinhos todo dia,\\npode ser bom lembrar da viagem\\ncada vez que usar."
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "That's a good idea, but...\\nit's not really a clear winner.",
+      "texto_ptbr": "É uma boa ideia, mas...\\nnão é bem uma vencedora clara."
+    },
+    {
+      "id": 17,
+      "personagem": "Raiha",
+      "texto_en": "Ah! How about a photo album\\nof pictures we took together?",
+      "texto_ptbr": "Ah! Que tal um álbum de fotos\\ndas fotos que a gente tirou juntos?"
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "...Teehee.",
+      "texto_ptbr": "...Tehehe."
+    },
+    {
+      "id": 19,
+      "personagem": "Raiha",
+      "texto_en": "Huh? What's so funny?\\nDid I say something strange?",
+      "texto_ptbr": "Hein? O que tem graça?\\nFalei alguma coisa estranha?"
+    },
+    {
+      "id": 20,
+      "personagem": "Miku",
+      "texto_en": "No, I think that's a wonderful idea.\\nAn album of everyone.",
+      "texto_ptbr": "Não, acho que é uma ideia maravilhosa.\\nUm álbum de todo mundo."
+    },
+    {
+      "id": 21,
+      "personagem": "Miku",
+      "texto_en": "I just remembered something.",
+      "texto_ptbr": "Só lembrei de uma coisa."
+    },
+    {
+      "id": 22,
+      "personagem": "Raiha",
+      "texto_en": "What's that?",
+      "texto_ptbr": "O quê?"
+    },
+    {
+      "id": 23,
+      "personagem": "Miku",
+      "texto_en": "Futaro also made us an album.\\nDuring our school trip.",
+      "texto_ptbr": "O Futaro também fez um álbum pra gente.\\nDurante nossa viagem escolar."
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "Oh, right. I remember now.",
+      "texto_ptbr": "Ah, é verdade. Lembrei agora."
+    },
+    {
+      "id": 25,
+      "personagem": "Miku",
+      "texto_en": "I guess we really do think alike since we're siblings.\\nTo come up with the same idea as Futaro.",
+      "texto_ptbr": "Acho que a gente pensa igual mesmo por ser irmão e irmã.\\nTer a mesma ideia que o Futaro."
+    },
+    {
+      "id": 26,
+      "personagem": "Raiha",
+      "texto_en": "Is that so?\\nI don't think I'm that similar to big bro,\\ncompared to you quintuplets.",
+      "texto_ptbr": "É mesmo?\\nNão acho que sou tão parecida com o irmão,\\ncomparado a vocês quintuplas."
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Please don't compare yourself to the quintuplets.",
+      "texto_ptbr": "Por favor não se compare com as quintuplas."
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "Anyway, you're all pretty different.\\nAside from your appearance,\\nyour food preferences are pretty different too, right?",
+      "texto_ptbr": "Enfim, vocês são bem diferentes umas das outras.\\nAlém da aparência,\\nas preferências alimentares de vocês também são bem diferentes, né?"
+    },
+    {
+      "id": 29,
+      "personagem": "Miku",
+      "texto_en": "That's true about food.\\nAnd also, we like different things in general, but%p-2;――",
+      "texto_ptbr": "É verdade sobre comida.\\nE também, a gente gosta de coisas diferentes no geral, mas%p-2;――"
+    },
+    {
+      "id": 30,
+      "personagem": "Miku",
+      "texto_en": "But we can still talk about things we both like, right?\\nIsn't that right, Futaro?",
+      "texto_ptbr": "Mas ainda dá pra conversar sobre coisas que ambos gostamos, né?\\nNão é mesmo, Futaro?"
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 32,
+      "personagem": "Raiha",
+      "texto_en": "Huh? What now?\\nWhat do you quintuplets all like?",
+      "texto_ptbr": "Hein? O que foi?\\nO que vocês quintuplas gostam?"
+    },
+    {
+      "id": 33,
+      "personagem": "Miku",
+      "texto_en": "Well, that would be%p-2;――",
+      "texto_ptbr": "Bom, seria%p-2;――"
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "W-wait, let's focus on the souvenir discussion!",
+      "texto_ptbr": "E-espera, vamos focar na discussão do souvenir!"
+    },
+    {
+      "id": 35,
+      "personagem": "Miku",
+      "texto_en": "Huh?\\nI wanted to talk more about what everyone likes.",
+      "texto_ptbr": "Hein?\\nQueria falar mais sobre o que todo mundo gosta."
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "That's not necessary!\\nWhile we don't need to rush to decide on a souvenir,\\nwe do need to decide eventually, right?",
+      "texto_ptbr": "Não é necessário!\\nEmbora não precisemos nos apressar pra decidir um souvenir,\\nprevisamos decidir em algum momento, né?"
+    },
+    {
+      "id": 37,
+      "personagem": "Miku",
+      "texto_en": "Teehee!\\nAlright, it can't be helped.\\nI'll stop for now.",
+      "texto_ptbr": "Tehehe!\\nTá, não tem jeito.\\nVou parar por agora."
+    },
+    {
+      "id": 38,
+      "personagem": "Raiha",
+      "texto_en": "Hmm...",
+      "texto_ptbr": "Hmm..."
+    },
+    {
+      "id": 39,
+      "personagem": "Raiha",
+      "texto_en": "Oh, I got it!\\nI know what everyone likes now.",
+      "texto_ptbr": "Ah, entendi!\\nJá sei o que todo mundo gosta."
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "Raiha, please.\\nDon't say any more.",
+      "texto_ptbr": "Raiha, por favor.\\nNão fala mais nada."
+    },
+    {
+      "id": 41,
+      "personagem": "Raiha",
+      "texto_en": "Okay.",
+      "texto_ptbr": "Tá."
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "So, about the souvenir. We were only thinking\\nabout buying something, but a different approach\\nlike a photo album might be good too.",
+      "texto_ptbr": "Então, sobre o souvenir. A gente só estava pensando\\nem comprar algo, mas uma abordagem diferente\\ncomo um álbum de fotos também pode ser bom."
+    },
+    {
+      "id": 43,
+      "personagem": "Miku",
+      "texto_en": "Hmm...other buying something...",
+      "texto_ptbr": "Hmm...além de comprar algo..."
+    },
+    {
+      "id": 44,
+      "personagem": "Miku",
+      "texto_en": "Ah.",
+      "texto_ptbr": "Ah."
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "Did you think of something?",
+      "texto_ptbr": "Pensou em alguma coisa?"
+    },
+    {
+      "id": 46,
+      "personagem": "Miku",
+      "texto_en": "How about shells we find on the beach?",
+      "texto_ptbr": "Que tal conchas que a gente achar na praia?"
+    },
+    {
+      "id": 47,
+      "personagem": "Raiha",
+      "texto_en": "Ah! That's a great idea!\\nI think that would be lovely!",
+      "texto_ptbr": "Ah! Que ideia ótima!\\nAcho que seria lindo!"
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "By the way, they were selling seashells too.\\nThe souvenir shop was selling them.",
+      "texto_ptbr": "Por falar nisso, eles também vendiam conchas.\\nA loja de souvenirs vendia."
+    },
+    {
+      "id": 49,
+      "personagem": "Miku",
+      "texto_en": "Futaro...",
+      "texto_ptbr": "Futaro..."
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "Huh? Why are you rolling your eyes?\\nYou wanted seashells, right? They were being sold,\\nso we could just pick some out there%p-2;――",
+      "texto_ptbr": "Hein? Por que você tá revirando os olhos?\\nVocê queria conchas, né? Estavam sendo vendidas,\\nentão a gente poderia só escolher algumas lá%p-2;――"
+    },
+    {
+      "id": 51,
+      "personagem": "Miku",
+      "texto_en": "That's not the point.\\nYou have to pick them up yourself.",
+      "texto_ptbr": "Não é isso.\\nVocê tem que pegar elas sozinho."
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Is that so?",
+      "texto_ptbr": "É mesmo?"
+    },
+    {
+      "id": 53,
+      "personagem": "Miku",
+      "texto_en": "That's how it is.\\nShells bought at a store and shells picked up\\nare completely different.",
+      "texto_ptbr": "É assim.\\nConchas compradas numa loja e conchas coletadas\\nsão completamente diferentes."
+    },
+    {
+      "id": 54,
+      "personagem": "Raiha",
+      "texto_en": "Big bro, you lack delicacy\\nabout these things, don't you.",
+      "texto_ptbr": "Irmão, você não tem delicadeza\\npras essas coisas, né."
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "(Pshh...\\n So Raiha thinks I'm insensitive too...)",
+      "texto_ptbr": "(Ugh...\\n Então a Raiha também acha que não tenho sensibilidade...)"
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "Come to think of it,\\nthere's a beach at this park too.",
+      "texto_ptbr": "Pensando bem,\\ntambém tem uma praia nesse parque."
+    },
+    {
+      "id": 57,
+      "personagem": "Miku",
+      "texto_en": "Emerald Beach, right?\\nIt's supposed to be really beautiful.",
+      "texto_ptbr": "A Emerald Beach, né?\\nDizem que é muito bonita."
+    },
+    {
+      "id": 58,
+      "personagem": "Raiha",
+      "texto_en": "Wow!\\nHey, hey, let's go see it,\\nregardless of whether we pick up seashells or not.",
+      "texto_ptbr": "Nossa!\\nEi, ei, vamos ver,\\nindependente de coletar conchas ou não."
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "Don't they have to match?",
+      "texto_ptbr": "Não precisam ser iguais?"
+    },
+    {
+      "id": 60,
+      "personagem": "Raiha",
+      "texto_en": "Oh, right.\\nThey won't be the same if we don't get the same ones.",
+      "texto_ptbr": "Ah, é verdade.\\nNão serão iguais se a gente não pegar as mesmas."
+    },
+    {
+      "id": 61,
+      "personagem": "Miku",
+      "texto_en": "But if we all pick them up together,\\nthe memory will be the same.\\nThat's good enough as it is.",
+      "texto_ptbr": "Mas se a gente pegar juntos,\\na memória vai ser a mesma.\\nJá tá bom assim."
+    },
+    {
+      "id": 62,
+      "personagem": "Raiha",
+      "texto_en": "Yeah, that works.",
+      "texto_ptbr": "É, dá certo assim."
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "Come to think of it,\\nthere's a beach at this park too.",
+      "texto_ptbr": "Pensando bem,\\ntambém tem uma praia nesse parque."
+    },
+    {
+      "id": 64,
+      "personagem": "Miku",
+      "texto_en": "Emerald Beach, right?\\nIt's supposed to be really beautiful.",
+      "texto_ptbr": "A Emerald Beach, né?\\nDizem que é muito bonita."
+    },
+    {
+      "id": 65,
+      "personagem": "Raiha",
+      "texto_en": "Wow!\\nHey, hey, let's go see it,\\nregardless of whether we pick up seashells or not.",
+      "texto_ptbr": "Nossa!\\nEi, ei, vamos ver,\\nindependente de coletar conchas ou não."
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "Not a bad idea.\\nIt would definitely be a memorable souvenir.",
+      "texto_ptbr": "Não é uma má ideia.\\nCom certeza seria um souvenir marcante."
+    },
+    {
+      "id": 67,
+      "personagem": "Miku",
+      "texto_en": "Yeah.\\nA lasting memory will be held within the shells.",
+      "texto_ptbr": "É.\\nUma memória duradoura ficará guardada dentro das conchas."
+    },
+    {
+      "id": 68,
+      "personagem": "Raiha",
+      "texto_en": "Whether or not the shells are pretty doesn't matter,\\nthe fact that we picked them up ourselves\\nis what's important.",
+      "texto_ptbr": "Independente de as conchas serem bonitas ou não,\\no fato de a gente ter coletado elas mesmos\\né o que importa."
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "After Ocean Expo Park, we can go to the beach\\nand if we take the time to search together,\\nit could be a great memory.",
+      "texto_ptbr": "Depois do Ocean Expo Park, a gente pode ir pra praia\\ne se levarmos o tempo pra buscar juntos,\\npode ser uma ótima memória."
+    },
+    {
+      "id": 70,
+      "personagem": "Miku",
+      "texto_en": "Yeah, I'm sure we won't forget it.",
+      "texto_ptbr": "É, tenho certeza que não vamos esquecer."
+    },
+    {
+      "id": 71,
+      "personagem": "Futaro",
+      "texto_en": "Come to think of it,\\nthere's a beach at this park too.",
+      "texto_ptbr": "Pensando bem,\\ntambém tem uma praia nesse parque."
+    },
+    {
+      "id": 72,
+      "personagem": "Miku",
+      "texto_en": "Emerald Beach, right?\\nIt's supposed to be really beautiful.",
+      "texto_ptbr": "A Emerald Beach, né?\\nDizem que é muito bonita."
+    },
+    {
+      "id": 73,
+      "personagem": "Raiha",
+      "texto_en": "Wow!\\nHey, hey, let's go see it,\\nregardless of whether we pick up seashells or not.",
+      "texto_ptbr": "Nossa!\\nEi, ei, vamos ver,\\nindependente de coletar conchas ou não."
+    },
+    {
+      "id": 74,
+      "personagem": "Miku",
+      "texto_en": "Yeah, I want to go too.",
+      "texto_ptbr": "É, eu também quero ir."
+    },
+    {
+      "id": 75,
+      "personagem": "Futaro",
+      "texto_en": "Alright, let's go see it, then.",
+      "texto_ptbr": "Tá, vamos ver então."
+    }
+  ]
+}

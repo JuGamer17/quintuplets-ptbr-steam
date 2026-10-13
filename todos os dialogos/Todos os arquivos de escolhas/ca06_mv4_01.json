@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca06_mv4_01",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "（そうだ。\\n　そもそも、この光景に見覚えが……）",
+      "texto_en": "(That's right.\\n Come to think of it, this scene is familiar...)",
+      "texto_ptbr": "(É isso mesmo.\\n Pensando bem, essa cena me é familiar...)"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "なんだっけ……",
+      "texto_en": "What was it...",
+      "texto_ptbr": "Como era mesmo...",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "五月はよく肉まんを食ってたな",
+      "texto_en": "Itsuki often eats meat buns, doesn't she?",
+      "texto_ptbr": "A Itsuki comia muito pão de carne no vapor, né?",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "お前、二乃だろ！？",
+      "texto_en": "You've gotta be Nino, right?!",
+      "texto_ptbr": "Você é a Nino, né?!",
+      "selidx": 2
+    }
+  ]
+}

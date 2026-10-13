@@ -1,0 +1,276 @@
+{
+  "arquivo": "ca02_11",
+  "total": 45,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(...Yesterday's incident\\n has left me a bit sleep-deprived.)",
+      "texto_ptbr": "(...O incidente de ontem\\n me deixou um pouco sem dormir.)"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(Maybe Nino is also feeling anxious and restless\\n because of my incompetence.)",
+      "texto_ptbr": "(Talvez a Nino também teja ansiosa e agitada\\n por causa da minha incompetência.)"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(So, should I just go for the kiss today...?!\\n But I should be the one showing initiative, not Nino!)",
+      "texto_ptbr": "(Então, será que eu devo partir pro beijo hoje...?!\\n Mas eu é que devia tomar a iniciativa, não a Nino!)"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "(However, I shouldn't be too aggressive, right?\\n I should create a situation\\n where it feels natural kissing her%p-2;――%p;)",
+      "texto_ptbr": "(Mas também não devia ser agressivo demais, né?\\n Preciso criar uma situação\\n onde seja natural a gente se beijar%p-2;――%p;)"
+    },
+    {
+      "id": 4,
+      "personagem": "Raiha",
+      "texto_en": "Hey, good morning, big bro.",
+      "texto_ptbr": "Ei, bom dia, Onii-chan."
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "H-hey. Good morning.\\nMorning to you too, Itsuki.",
+      "texto_ptbr": "E-ei. Bom dia.\\nBom dia pra você também, Itsuki."
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "Good morning.",
+      "texto_ptbr": "Bom dia."
+    },
+    {
+      "id": 7,
+      "personagem": "Raiha",
+      "texto_en": "Big bro, you seem a bit down. What's wrong?",
+      "texto_ptbr": "Onii-chan, você tá meio cabisbaixo. O que foi?"
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "No, nothing's wrong.",
+      "texto_ptbr": "Não, não tem nada."
+    },
+    {
+      "id": 9,
+      "personagem": "Nino",
+      "texto_en": "...Good morning, Futaro.",
+      "texto_ptbr": "...Bom dia, Futaro."
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "G-good morning.\\nBy the way... Did you sleep well?",
+      "texto_ptbr": "B-bom dia.\\nAliás... Dormiu bem?"
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "Yeah, I slept just fine.\\nBut you're looking sleep-deprived.",
+      "texto_ptbr": "Dormi bem sim.\\nMas você tá com cara de quem não dormiu."
+    },
+    {
+      "id": 12,
+      "personagem": "Ichika",
+      "texto_en": "What happened? Futaro-kun, you didn't get enough sleep?",
+      "texto_ptbr": "O que foi? Futaro-kun, você não dormiu o suficiente?"
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "N-no, not at all.\\nI slept well last night! I was really tired!",
+      "texto_ptbr": "N-não, de jeito nenhum.\\nDormi bem essa noite! Tava muito cansado!"
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "Hmm, is that so...?",
+      "texto_ptbr": "Hmm, foi mesmo...?"
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "Is there something you wanted to say?",
+      "texto_ptbr": "Tem algo que você queria falar?"
+    },
+    {
+      "id": 16,
+      "personagem": "Ichika",
+      "texto_en": "No, no, nothing at all.",
+      "texto_ptbr": "Não, não, nada não."
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "(She's saying that, but\\n she's clearly giving me the side eye.)",
+      "texto_ptbr": "(Ela tá falando isso, mas\\n tá claramente me olhando de canto.)"
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "(Actually nothing happened. I don't need to be nervous!)",
+      "texto_ptbr": "(Na verdade não aconteceu nada. Não preciso ficar nervoso!)"
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "Goood mooorniiing!",
+      "texto_ptbr": "Boooom diiiaaa!"
+    },
+    {
+      "id": 20,
+      "personagem": "Miku",
+      "texto_en": "Morning.\\nIs today our last day?",
+      "texto_ptbr": "Bom dia.\\nHoje é o último dia?"
+    },
+    {
+      "id": 21,
+      "personagem": "Nino",
+      "texto_en": "Yes, it is.\\nIchika woke up early today, too.",
+      "texto_ptbr": "É sim.\\nA Ichika acordou cedo hoje também."
+    },
+    {
+      "id": 22,
+      "personagem": "Ichika",
+      "texto_en": "That's right.\\nAs I felt some lovey-doveyness in the air.",
+      "texto_ptbr": "É isso.\\nPorque senti um clima de romance no ar."
+    },
+    {
+      "id": 23,
+      "personagem": "Miku",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 24,
+      "personagem": "Yotsuba",
+      "texto_en": "Are you saying, Uesugi-san and Nino used their \\nlovey-dovey powers to wake up Ichika?",
+      "texto_ptbr": "Você tá dizendo que o Uesugi-san e a Nino usaram os poderes\\ndo romance deles pra acordar a Ichika?"
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "No, I didn't use any powers to wake her up!\\nNow, instead of talking nonsense,\\nlet's check our schedule for today!",
+      "texto_ptbr": "Não, não usei poder nenhum pra acordar ela!\\nAgora, em vez de falar besteira,\\nvamos ver a programação de hoje!"
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "Today, we're going to spend the whole day at the beach.",
+      "texto_ptbr": "Hoje vamos passar o dia inteiro na praia."
+    },
+    {
+      "id": 27,
+      "personagem": "Raiha",
+      "texto_en": "Yay! We can finally swim in the BEAUTIFUL Okinawan sea!",
+      "texto_ptbr": "Eba! A gente vai finalmente nadar no mar LINDO de Okinawa!"
+    },
+    {
+      "id": 28,
+      "personagem": "Yotsuba",
+      "texto_en": "And for lunch, we'll have a barbecue on the beach!",
+      "texto_ptbr": "E no almoço, vamos fazer um churrasco na praia!"
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Does that mean we need to go shopping for ingredients\\nbefore we go swimming?\\nAnd what about the tools?",
+      "texto_ptbr": "Isso quer dizer que precisamos comprar os ingredientes\\nantes de nadar?\\nE os utensílios?"
+    },
+    {
+      "id": 30,
+      "personagem": "Yotsuba",
+      "texto_en": "No, we dont need anything. We signed up for the hotel's \\nactivity plan, so we can go empty-handed.",
+      "texto_ptbr": "Não, a gente não precisa de nada. A gente se inscreveu no plano de\\natividades do hotel, então pode ir de mãos vazias."
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Huh? We don't need anything?",
+      "texto_ptbr": "Hã? Não precisa de nada?"
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, they will prepare everything we need.",
+      "texto_ptbr": "É, eles vão preparar tudo que a gente precisa."
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Really? That's so convenient!",
+      "texto_ptbr": "Sério? Que conveniente!"
+    },
+    {
+      "id": 34,
+      "personagem": "Raiha",
+      "texto_en": "Isn't it too snobby to leave everything to them?\\nAre you sure it's okay?\\nWill we at least clean up afterwards?",
+      "texto_ptbr": "Não é muita frescura deixar tudo na mão deles?\\nTem certeza que tá tudo bem?\\nA gente pelo menos vai limpar depois?"
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "Don't worry about it.\\nLet's indulge ourselves a little.\\nIt's our graduation trip, right?",
+      "texto_ptbr": "Não precisa se preocupar com isso.\\nVamos nos mimar um pouco.\\nÉ nossa viagem de formatura, né?"
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Alright, then let's enjoy ourselves\\nto the fullest, Raiha!",
+      "texto_ptbr": "Então vamos aproveitar\\nat o máximo, Raiha!"
+    },
+    {
+      "id": 37,
+      "personagem": "Raiha",
+      "texto_en": "Okay!",
+      "texto_ptbr": "Pode deixar!"
+    },
+    {
+      "id": 38,
+      "personagem": "Nino",
+      "texto_en": "Teehee!\\nYou two are always so over-the-top.",
+      "texto_ptbr": "Hehe!\\nVocês dois são sempre tão exagerados."
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "Button it, leave us alone.\\nWe're not used to this kind of luxury.",
+      "texto_ptbr": "Para com isso, nos deixa em paz.\\nA gente não tá acostumado com esse tipo de luxo."
+    },
+    {
+      "id": 40,
+      "personagem": "Ichika",
+      "texto_en": "But it's good that Futaro-kun is feeling better.\\nIt seems like as if he had a good night's rest.",
+      "texto_ptbr": "Mas que bom que o Futaro-kun tá bem.\\nParece que ele teve uma boa noite de descanso."
+    },
+    {
+      "id": 41,
+      "personagem": "Nino",
+      "texto_en": "Ichikaaa?\\nYou need to stop bothering us already.",
+      "texto_ptbr": "Ichikaaaa?\\nVocê precisa parar de nos encher o saco."
+    },
+    {
+      "id": 42,
+      "personagem": "Ichika",
+      "texto_en": "Okay.",
+      "texto_ptbr": "Tá bom."
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "Um, did something happen?",
+      "texto_ptbr": "É... aconteceu alguma coisa?"
+    },
+    {
+      "id": 44,
+      "personagem": "Nino",
+      "texto_en": "Nothing happened.\\nYep. NOTHING.",
+      "texto_ptbr": "Não aconteceu nada.\\nIsso. NADA."
+    }
+  ]
+}

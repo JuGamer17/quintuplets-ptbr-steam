@@ -1,0 +1,36 @@
+{
+  "arquivo": "ca01_18",
+  "total": 3,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "海洋博公園広場:一花:四葉",
+      "texto_en": "Ocean Expo Park Square: Ichika/Yotsuba",
+      "texto_ptbr": "Praça do Ocean Expo Park: Ichika/Yotsuba",
+      "selidx": 0
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "イルカショー施設:三玖:五月",
+      "texto_en": "Dolphin Show Area: Miku/Itsuki",
+      "texto_ptbr": "Área do Show de Golfinhos: Miku/Itsuki",
+      "selidx": 1
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "ドリームセンター:二乃:らいは",
+      "texto_en": "Dream Center: Nino/Raiha",
+      "texto_ptbr": "Dream Center: Nino/Raiha",
+      "selidx": 2
+    }
+  ]
+}

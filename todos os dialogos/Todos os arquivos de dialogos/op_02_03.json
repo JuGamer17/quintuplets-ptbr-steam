@@ -1,0 +1,360 @@
+{
+  "arquivo": "op_02_03",
+  "total": 59,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Hey, sorry to have kept you waiting.",
+      "texto_ptbr": "Ei, desculpa a demora."
+    },
+    {
+      "id": 1,
+      "personagem": "Miku",
+      "texto_en": "...No way.",
+      "texto_ptbr": "...Não acredito."
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Yes, way.\\nI've come to see you, Miku.",
+      "texto_ptbr": "Pode acreditar.\\nVim te ver, Miku."
+    },
+    {
+      "id": 3,
+      "personagem": "Miku",
+      "texto_en": "!",
+      "texto_ptbr": "!"
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Woah!\\nHey, Miku?! Are you alright?!",
+      "texto_ptbr": "Uau!\\nEi, Miku?! Você está bem?!"
+    },
+    {
+      "id": 5,
+      "personagem": "Miku",
+      "texto_en": "*sniff* Oo-ooohh...\\nI-I'm okay...",
+      "texto_ptbr": "*fungada* Uuu-uuuh...\\nE-eu estou bem..."
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "How are you okay?",
+      "texto_ptbr": "Como assim, bem?"
+    },
+    {
+      "id": 7,
+      "personagem": "Miku",
+      "texto_en": "O-ooooohh, uh...\\nS-sorr—I...",
+      "texto_ptbr": "U-uuuuuh, hã...\\nD-desculp—eu..."
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "It's okay, don't say anything right now.\\nI'll stay by your side until you calm down.",
+      "texto_ptbr": "Tudo bem, não diga nada agora.\\nVou ficar ao seu lado até você se acalmar."
+    },
+    {
+      "id": 9,
+      "personagem": "Miku",
+      "texto_en": "Futaro...",
+      "texto_ptbr": "Fuutarou..."
+    },
+    {
+      "id": 10,
+      "personagem": "Miku",
+      "texto_en": "*sniff*...oooohh...!\\nOoooooohh!",
+      "texto_ptbr": "*fungada*...uuuuh...!\\nUuuuuuuh!"
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Hey... Why are you crying even more...?",
+      "texto_ptbr": "Ei... Por que você está chorando ainda mais...?"
+    },
+    {
+      "id": 12,
+      "personagem": "Miku",
+      "texto_en": "It's just, it's just...you, Futaro...!",
+      "texto_ptbr": "É que, é que...é você, Fuutarou...!"
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Huh me?\\nUm, so what should I do then?",
+      "texto_ptbr": "Eu?\\nHã, então o que eu devo fazer?"
+    },
+    {
+      "id": 14,
+      "personagem": "Miku",
+      "texto_en": "...Hold my hand.\\nAnd just stay by my side... That's all I need...",
+      "texto_ptbr": "...Segure minha mão.\\nE só fique ao meu lado... É só disso que preciso..."
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "Sure.",
+      "texto_ptbr": "Claro."
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Have you calmed down?",
+      "texto_ptbr": "Já se acalmou?"
+    },
+    {
+      "id": 17,
+      "personagem": "Miku",
+      "texto_en": "Uh...\\nI'm alright now.\\nSorry for bothering you.",
+      "texto_ptbr": "Hã...\\nJá estou bem.\\nDesculpe o incômodo."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Just so you know, you haven't bothered me or anything.",
+      "texto_ptbr": "Só pra constar, você não me incomodou em nada."
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "It's always been that way.\\nI've never been troubled by you, Miku.",
+      "texto_ptbr": "Sempre foi assim.\\nVocê nunca me causou problemas, Miku."
+    },
+    {
+      "id": 20,
+      "personagem": "Miku",
+      "texto_en": "Really?\\nI feel like I've troubled you quite a bit.",
+      "texto_ptbr": "Sério?\\nSinto que dei bastante trabalho pra você."
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "That's not true.\\nAfter all, you've always faced things head-on\\nand never ran away, Miku.",
+      "texto_ptbr": "Não é verdade.\\nAfinal, você sempre encarou as coisas de frente\\ne nunca fugiu, Miku."
+    },
+    {
+      "id": 22,
+      "personagem": "Miku",
+      "texto_en": "Yeah?",
+      "texto_ptbr": "É?"
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "That's right, I think you've often felt more anxious\\ncompared to your other sisters.",
+      "texto_ptbr": "É sim. Acho que você costuma se sentir mais ansiosa\\ndo que suas outras irmãs."
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "But,\\neven when you were suffering from anxiety,\\nyou never tried to run away from your problems.",
+      "texto_ptbr": "Mas,\\nmesmo quando estava sofrendo de ansiedade,\\nvocê nunca tentou fugir dos seus problemas."
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "You tried to find your own way of fighting\\nand made relentless effort to move forward.",
+      "texto_ptbr": "Você tentou encontrar o seu próprio jeito de lutar\\ne se esforçou incansavelmente para seguir em frente."
+    },
+    {
+      "id": 26,
+      "personagem": "Miku",
+      "texto_en": "Futaro...",
+      "texto_ptbr": "Fuutarou..."
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "So, about me, yeah?\\nI think I'm attracted to your willpower,\\nor rather, your earnestness... Yes, that's the word.",
+      "texto_ptbr": "Então, sobre mim, sabe?\\nAcho que me sinto atraído pela sua força de vontade,\\nou melhor, pela sua seriedade... É, essa é a palavra."
+    },
+    {
+      "id": 28,
+      "personagem": "Miku",
+      "texto_en": "!",
+      "texto_ptbr": "!"
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "I'd like to challenge the unknown with you and continuously grow together. ",
+      "texto_ptbr": "Eu gostaria de desafiar o desconhecido com você e crescermos juntos continuamente. "
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "For me, you, Miku, are a special person.",
+      "texto_ptbr": "Para mim, você, Miku, é uma pessoa especial."
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "I'm sorry for my...delayed answer.",
+      "texto_ptbr": "Desculpe pela minha...resposta atrasada."
+    },
+    {
+      "id": 32,
+      "personagem": "Miku",
+      "texto_en": "Maybe it's rather quick for you, Futaro?\\nTo be honest, I thought you'd keep me waiting\\nuntil graduation or something.",
+      "texto_ptbr": "Talvez tenha sido até rápido para você, Fuutarou?\\nPra ser sincera, achei que você ia me deixar esperando\\naté a formatura ou algo assim."
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "Don't give me that.",
+      "texto_ptbr": "Não vem com essa."
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "You guys showed your determination in this way.\\nI couldn't leave the answer hanging, right?",
+      "texto_ptbr": "Vocês mostraram a determinação de vocês desse jeito.\\nEu não podia deixar a resposta no ar, né?"
+    },
+    {
+      "id": 35,
+      "personagem": "Miku",
+      "texto_en": "Yeah.\\nI'm glad you answered properly.",
+      "texto_ptbr": "É.\\nFico feliz que você tenha respondido direito."
+    },
+    {
+      "id": 36,
+      "personagem": "Miku",
+      "texto_en": "Hey... Futaro...",
+      "texto_ptbr": "Ei... Fuutarou..."
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "What is it?",
+      "texto_ptbr": "O que foi?"
+    },
+    {
+      "id": 38,
+      "personagem": "Miku",
+      "texto_en": "I love you, Futaro.",
+      "texto_ptbr": "Eu te amo, Fuutarou."
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "!",
+      "texto_ptbr": "!"
+    },
+    {
+      "id": 40,
+      "personagem": "Miku",
+      "texto_en": "You're blushing.",
+      "texto_ptbr": "Você está corado."
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "...Me too.\\nI love you too, Miku.",
+      "texto_ptbr": "...Eu também.\\nEu também te amo, Miku."
+    },
+    {
+      "id": 42,
+      "personagem": "Miku",
+      "texto_en": "~~~~~.",
+      "texto_ptbr": "~~~~~."
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "You blushed too, didn't you?",
+      "texto_ptbr": "Você também corou, não foi?"
+    },
+    {
+      "id": 44,
+      "personagem": "Miku",
+      "texto_en": "I-I love you more.",
+      "texto_ptbr": "E-eu te amo mais."
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "What are you talking about?\\nI-I'm the one who l-loves you more, you know?",
+      "texto_ptbr": "Do que você está falando?\\nE-eu que a-amo você mais, sabia?"
+    },
+    {
+      "id": 46,
+      "personagem": "Miku",
+      "texto_en": "No, it's me.",
+      "texto_ptbr": "Não, sou eu."
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "Me!",
+      "texto_ptbr": "Eu!"
+    },
+    {
+      "id": 48,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 50,
+      "personagem": "Both",
+      "texto_en": "Pft!",
+      "texto_ptbr": "Pfft!"
+    },
+    {
+      "id": 51,
+      "personagem": "Miku",
+      "texto_en": "Teehee!\\nWhat are we doing?",
+      "texto_ptbr": "Hihi!\\nO que estamos fazendo?"
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "You've got that right.\\nJust what are we doing?",
+      "texto_ptbr": "Bem lembrado.\\nO que a gente está fazendo?"
+    },
+    {
+      "id": 53,
+      "personagem": "Miku",
+      "texto_en": "But...",
+      "texto_ptbr": "Mas..."
+    },
+    {
+      "id": 54,
+      "personagem": "Miku",
+      "texto_en": "I think this is definitely\\nwhat they call happiness.",
+      "texto_ptbr": "Acho que isso é definitivamente\\no que chamam de felicidade."
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "That's probably true.\\nHonestly, I don't feel it yet.",
+      "texto_ptbr": "Provavelmente é verdade.\\nSinceramente, ainda não sinto isso."
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "But with you here, Miku,\\nI feel like I can do anything.",
+      "texto_ptbr": "Mas com você aqui, Miku,\\nsinto que posso fazer qualquer coisa."
+    },
+    {
+      "id": 57,
+      "personagem": "Miku",
+      "texto_en": "Me too.\\nIf you're with me, Futaro,\\nI feel like I can go anywhere.",
+      "texto_ptbr": "Eu também.\\nSe você está comigo, Fuutarou,\\nsinto que posso ir a qualquer lugar."
+    },
+    {
+      "id": 58,
+      "personagem": "Miku",
+      "texto_en": "Hand in hand, we can go anywhere,\\nas far as we can go.",
+      "texto_ptbr": "De mãos dadas, podemos ir a qualquer lugar,\\naté onde conseguirmos chegar."
+    }
+  ]
+}

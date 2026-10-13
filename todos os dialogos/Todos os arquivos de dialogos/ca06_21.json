@@ -1,0 +1,126 @@
+{
+  "arquivo": "ca06_21",
+  "total": 20,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "(The graduation trip is on its fourth day today...\\n Only two days left for the quintuplets game.)",
+      "texto_ptbr": "(A viagem de formatura já está no quarto dia hoje...\\n Só sobram dois dias pro jogo das quintuplas.)"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(Yesterday, they gave me a hard time,\\n but I've pretty much figured out their tricks.)",
+      "texto_ptbr": "(Ontem, elas me deram um trabalho,\\n mas eu já peguei praticamente todos os truques delas.)"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(...Just watch.\\n I'll definitely see through their game\\n today and tomorrow!)",
+      "texto_ptbr": "(...Só espera e vê.\\n Eu com certeza vou descobrir o jogo delas\\n hoje e amanhã!)"
+    },
+    {
+      "id": 3,
+      "personagem": "???",
+      "texto_en": "Good morning.",
+      "texto_ptbr": "Bom dia."
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Hey, morning.",
+      "texto_ptbr": "Ei, bom dia."
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "Good morning.\\nIt's another nice day today.",
+      "texto_ptbr": "Bom dia.\\nHoje é mais um dia bonito."
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "You seemed pretty tired yesterday.\\nDid you sleep well?",
+      "texto_ptbr": "Você parecia bem cansado ontem.\\nDormiu bem?"
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "(Hmph...\\n I was caught off guard yesterday,\\n but I won't be surprised anymore!)",
+      "texto_ptbr": "(Hmph...\\n Fui pego de surpresa ontem,\\n mas não vou mais me surpreender!)"
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "No worries. I rested well in preparation for today.",
+      "texto_ptbr": "Sem problema. Descansei bem me preparando pra hoje."
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "That's reassuring.\\nToday's sightseeing will be enjoyable, won't it?",
+      "texto_ptbr": "Que bom saber.\\nO passeio de hoje vai ser divertido, não vai?"
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "Now then, what should we do for breakfast?\\nShould we have it at the hotel\\nor go to Ocean Expo Park first?",
+      "texto_ptbr": "Bom, o que a gente faz pro café da manhã?\\nComemos no hotel\\nou vamos direto pro Ocean Expo Park primeiro?"
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "(Already getting started, huh?\\n This seems like something Yotsuba would suggest,\\n but it's probably a setup.)",
+      "texto_ptbr": "(Já começando, hein?\\n Isso parece algo que a Yotsuba sugeriria,\\n mas provavelmente é uma armadilha.)"
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "(Don't panic, and judge calmly\\n in the face of their tricks.)",
+      "texto_ptbr": "(Não entra em pânico, julga com calma\\n diante dos truques delas.)"
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "Um, which do you prefer, Uesugi-kun?",
+      "texto_ptbr": "Hum, qual você prefere, Uesugi-kun?"
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "I don't mind either.\\nI'll go along with whatever you guys want.",
+      "texto_ptbr": "Tanto faz pra mim.\\nVou junto com o que vocês quiserem."
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "Okay. It's better to eat first...\\nbefore we get hungry on the way.",
+      "texto_ptbr": "Certo. É melhor comer primeiro...\\nantes que a gente fique com fome no caminho."
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "I should have checked for breakfast menus\\nor confirmed it last night.",
+      "texto_ptbr": "Eu devia ter checado os cardápios do café da manhã\\nou confirmado isso ontem à noite."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "(Cool, I'm doing well.\\n Today, I'll definitely get myself\\n a clue of who's who!)",
+      "texto_ptbr": "(Beleza, tô indo bem.\\n Hoje, com certeza vou conseguir\\n uma pista de quem é quem!)"
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "Hmm? Are you okay, Futaro-kun?",
+      "texto_ptbr": "Hmm? Você tá bem, Futaro-kun?"
+    }
+  ]
+}

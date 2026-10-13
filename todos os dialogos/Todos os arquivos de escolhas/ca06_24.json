@@ -1,0 +1,36 @@
+{
+  "arquivo": "ca06_24",
+  "total": 3,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "ドリームセンター:一花",
+      "texto_en": "Dream Center: Ichika",
+      "texto_ptbr": "Dream Center: Ichika",
+      "selidx": 0
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "噴水:四葉:五月",
+      "texto_en": "Fountain Plaza: Yotsuba/Itsuki",
+      "texto_ptbr": "Praça da Fonte: Yotsuba/Itsuki",
+      "selidx": 1
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "郷土村:二乃:三玖",
+      "texto_en": "Native Okinawan Village: Nino/Miku",
+      "texto_ptbr": "Vila Nativa de Okinawa: Nino/Miku",
+      "selidx": 2
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "arquivo": "ca06_11",
+  "total": 39,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Ichika",
+      "texto_en": "Right.\\nOkay, Itsuki-chan. Can you explain?",
+      "texto_ptbr": "Certo.\\nOk, Itsuki-chan. Pode explicar?"
+    },
+    {
+      "id": 1,
+      "personagem": "Yotsuba",
+      "texto_en": "What just happened?",
+      "texto_ptbr": "O que foi que aconteceu?"
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "I apologize.\\nSomething was rubbing me the wrong way.",
+      "texto_ptbr": "Peço desculpas.\\nAlguma coisa estava me incomodando."
+    },
+    {
+      "id": 3,
+      "personagem": "Miku",
+      "texto_en": "You went a bit too far.\\nFutaro wouldn't make such a decision lightly.",
+      "texto_ptbr": "Você foi um pouco longe demais.\\nO Futaro não tomaria uma decisão dessas de forma leviana."
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "No, I never intended to say that he was irresponsible.\\nIt's just that his decision seemed too selfish,\\nso I spoke out.",
+      "texto_ptbr": "Não, eu nunca quis dizer que ele foi irresponsável.\\nÉ só que a decisão dele pareceu egoísta demais,\\npor isso eu falei o que pensava."
+    },
+    {
+      "id": 5,
+      "personagem": "Nino",
+      "texto_en": "I can understand your feelings, Itsuki.",
+      "texto_ptbr": "Eu entendo como você se sente, Itsuki."
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "Nino?",
+      "texto_ptbr": "Nino?"
+    },
+    {
+      "id": 7,
+      "personagem": "Nino",
+      "texto_en": "I mean, Fu-kun has been rejecting\\nboth of our feelings since the after-party, you know?",
+      "texto_ptbr": "Quer dizer, o Fu-kun vem rejeitando\\nos sentimentos de todas nós desde a festa, sabe?"
+    },
+    {
+      "id": 8,
+      "personagem": "Miku",
+      "texto_en": "Well... That's true.",
+      "texto_ptbr": "Bem... Isso é verdade."
+    },
+    {
+      "id": 9,
+      "personagem": "Ichika",
+      "texto_en": "But in the end, most of us were dissatisfied or worried\\nabout the answer Futaro-kun gave that day.",
+      "texto_ptbr": "Mas no fim das contas, a maioria de nós ficou insatisfeita ou preocupada\\ncom a resposta que o Futaro-kun deu naquele dia."
+    },
+    {
+      "id": 10,
+      "personagem": "Yotsuba",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "Well, I'm just glad Fu-kun finally decided\\nto give an answer.",
+      "texto_ptbr": "Bom, eu só fico feliz que o Fu-kun finalmente decidiu\\ndar uma resposta."
+    },
+    {
+      "id": 12,
+      "personagem": "Nino",
+      "texto_en": "It took a while,\\nbut at least we succeeded in getting him\\nto face us.",
+      "texto_ptbr": "Demorou um pouco,\\nmas pelo menos conseguimos fazer com que ele\\nnos encarasse."
+    },
+    {
+      "id": 13,
+      "personagem": "Ichika",
+      "texto_en": "We still don't know who he will choose, though.",
+      "texto_ptbr": "Mesmo assim, ainda não sabemos quem ele vai escolher."
+    },
+    {
+      "id": 14,
+      "personagem": "Miku",
+      "texto_en": "Yeah...",
+      "texto_ptbr": "É..."
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun really intended to use this trip\\nto confirm his own feelings from the beginning.",
+      "texto_ptbr": "O Fu-kun realmente pretendia usar essa viagem\\npara confirmar os próprios sentimentos desde o início."
+    },
+    {
+      "id": 16,
+      "personagem": "Ichika",
+      "texto_en": "Well, it's just like him to be honest\\nand straightforward when admitting it himself...\\nIs he really just terrible at romance?",
+      "texto_ptbr": "Bem, é bem a cara dele ser honesto\\ne direto quando admite algo assim...\\nSerá que ele é péssimo mesmo em romance?"
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "Quite likely.",
+      "texto_ptbr": "É bem provável."
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "It's hard to imagine that he wouldn't\\nconsider everyone's feelings\\nwhile making his decision, right?",
+      "texto_ptbr": "É difícil imaginar que ele não\\nconsideraria os sentimentos de todas\\nao tomar a decisão, não é?"
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "But at least, Uesugi-san\\nis thinking about us in his own way, isn't he?",
+      "texto_ptbr": "Mas pelo menos, o Uesugi-san\\nestá pensando em nós do jeito dele, não está?"
+    },
+    {
+      "id": 20,
+      "personagem": "Miku",
+      "texto_en": "The worst-case scenario\\nis that he decides, again, to choose no one.",
+      "texto_ptbr": "O pior cenário\\né ele decidir, de novo, não escolher ninguém."
+    },
+    {
+      "id": 21,
+      "personagem": "Yotsuba",
+      "texto_en": "I-I don't think he's gonna do that.",
+      "texto_ptbr": "A-Acho que ele não vai fazer isso."
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "...Because you want to be with him.",
+      "texto_ptbr": "...Porque você quer ficar com ele."
+    },
+    {
+      "id": 23,
+      "personagem": "Both",
+      "texto_en": "Eh?!",
+      "texto_ptbr": "Ein?!"
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "No, that's not what I meant!\\nI didn't mean me!",
+      "texto_ptbr": "Não, não foi isso que eu quis dizer!\\nNão estava falando de mim!"
+    },
+    {
+      "id": 25,
+      "personagem": "Itsuki",
+      "texto_en": "He said that when we chatted earlier today.",
+      "texto_ptbr": "Ele disse isso quando conversamos mais cedo hoje."
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "I don't know if he was talking about us sisters\\nor someone specific, though.",
+      "texto_ptbr": "Só não sei se ele estava falando de nós, irmãs,\\nou de alguém específico."
+    },
+    {
+      "id": 27,
+      "personagem": "Ichika",
+      "texto_en": "It's still quite vague. But that's just like Futaro-kun.",
+      "texto_ptbr": "Ainda está bem vago. Mas isso é bem a cara do Futaro-kun."
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "I think he still hasn't made up his mind\\nabout his feelings.",
+      "texto_ptbr": "Acho que ele ainda não decidiu\\no que sente."
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "But if he's still uncertain...\\nwe can't accept half-hearted decisions like that.",
+      "texto_ptbr": "Mas se ele ainda está incerto...\\nnão podemos aceitar decisões pela metade assim."
+    },
+    {
+      "id": 30,
+      "personagem": "Nino",
+      "texto_en": "So that's why this is a trial?",
+      "texto_ptbr": "Então é por isso que isso é um teste?"
+    },
+    {
+      "id": 31,
+      "personagem": "Miku",
+      "texto_en": "But how do we test Futaro's resolve?",
+      "texto_ptbr": "Mas como testamos a determinação do Futaro?"
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 33,
+      "personagem": "Itsuki",
+      "texto_en": "This.",
+      "texto_ptbr": "Isto."
+    },
+    {
+      "id": 34,
+      "personagem": "Nino",
+      "texto_en": "...Huh?",
+      "texto_ptbr": "...Hã?"
+    },
+    {
+      "id": 35,
+      "personagem": "Miku",
+      "texto_en": "This is...",
+      "texto_ptbr": "Isso é..."
+    },
+    {
+      "id": 36,
+      "personagem": "Ichika",
+      "texto_en": "I see.",
+      "texto_ptbr": "Entendi."
+    },
+    {
+      "id": 37,
+      "personagem": "Yotsuba",
+      "texto_en": "Itsuki, are we?",
+      "texto_ptbr": "Itsuki, nós vamos...?"
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "...Yes.\\nThis is the only way, I believe.",
+      "texto_ptbr": "...Sim.\\nEsse é o único jeito, eu acredito."
+    }
+  ]
+}

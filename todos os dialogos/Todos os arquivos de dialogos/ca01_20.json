@@ -1,0 +1,702 @@
+{
+  "arquivo": "ca01_20",
+  "total": 116,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(It's usual for guys to change more quickly,\\n so they'll probably end up waiting for others, but...)",
+      "texto_ptbr": "(É normal os meninos trocarem mais rápido,\\n então provavelmente vou acabar esperando as outras, mas...)"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "They're so slow...",
+      "texto_ptbr": "Que demora..."
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "It usually takes this long\\nfor a woman to change clothes.\\nIf you're impatient, girls won't like you, you know?",
+      "texto_ptbr": "Mulher sempre demora esse tempo\\npara se trocar.\\nSe você for impaciente assim, nenhuma garota vai gostar de você, sabia?"
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Whoa?!\\nWhen did you get here?",
+      "texto_ptbr": "Uau?!\\nDesde quando você tá aqui?"
+    },
+    {
+      "id": 5,
+      "personagem": "Raiha",
+      "texto_en": "I just arrived.",
+      "texto_ptbr": "Acabei de chegar."
+    },
+    {
+      "id": 6,
+      "personagem": "Yotsuba",
+      "texto_en": "Raiha-chan, your swimsuit is so cute!\\nIt looks great on you!",
+      "texto_ptbr": "Raiha-chan, seu maiô é tão fofo!\\nFica lindo em você!"
+    },
+    {
+      "id": 7,
+      "personagem": "Raiha",
+      "texto_en": "Ehehe, thank you, Yotsuba-san.",
+      "texto_ptbr": "Ehehe, obrigada, Yotsuba-san."
+    },
+    {
+      "id": 8,
+      "personagem": "Ichika",
+      "texto_en": "We're back, Futaro-kun.",
+      "texto_ptbr": "Estamos de volta, Futaro-kun."
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "...Uh, no, I wasn't waiting at all.",
+      "texto_ptbr": "...Ahn, não, não fiquei esperando nem um pouco."
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "That's not what you said earlier.",
+      "texto_ptbr": "Não foi isso que você disse antes."
+    },
+    {
+      "id": 11,
+      "personagem": "Ichika",
+      "texto_en": "Hey, Futaro-kun.\\nHow does my swimsuit look?\\nDoes it fit properly? Is it cute?",
+      "texto_ptbr": "Ei, Futaro-kun.\\nO que você achou do meu biquíni?\\nFica bem? É fofo?"
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "I-it's...cute, yeah?",
+      "texto_ptbr": "É... é fofo, sim."
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "Hey?\\nCould you guys stop leaving us out of the conversation.\\nWe're all here together, you know.",
+      "texto_ptbr": "Ei?\\nParem de nos ignorar assim.\\nEstamos todas aqui junto, sabia?"
+    },
+    {
+      "id": 14,
+      "personagem": "Miku",
+      "texto_en": "Sometimes I forget that Ichika and Futaro\\nare on this trip with us.",
+      "texto_ptbr": "Às vezes esqueço que a Ichika e o Futaro\\nestão nessa viagem junto com a gente."
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "W-we didn't forget, you know!",
+      "texto_ptbr": "A-a gente não esqueceu, tá!"
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "Alright, now that we're all together,\\nlet's go swimming!\\nI feel like diving into the sea, right now!",
+      "texto_ptbr": "Tá bom, agora que todo mundo tá junto,\\nvamos nadar!\\nTô a fim de mergulhar no mar agora mesmo!"
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "But before that, let us hear your thoughts on our swimsuits.\\nWe went through a lot of trouble to choose \\nwhat to wear today.",
+      "texto_ptbr": "Mas antes disso, nos diga o que acha dos nossos biquínis.\\nDamos muito trabalho pra escolher\\no que usar hoje."
+    },
+    {
+      "id": 18,
+      "personagem": "Miku",
+      "texto_en": "Futaro, what do you think?",
+      "texto_ptbr": "Futaro, o que você achou?"
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Well... I think everyone looks great.",
+      "texto_ptbr": "Bom... acho que todas ficaram ótimas."
+    },
+    {
+      "id": 20,
+      "personagem": "Miku",
+      "texto_en": "You're looking away.\\nCan't you look more carefully?",
+      "texto_ptbr": "Você está desviando o olhar.\\nNão consegue olhar direito?"
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "W-what do you want me to say?!",
+      "texto_ptbr": "O-o que você quer que eu fale?!"
+    },
+    {
+      "id": 22,
+      "personagem": "Yotsuba",
+      "texto_en": "Alright, you two, that's enough.\\nCome on, Ichika is right here with us.",
+      "texto_ptbr": "Tá bom, chega.\\nVamos, a Ichika tá aqui com a gente."
+    },
+    {
+      "id": 23,
+      "personagem": "Ichika",
+      "texto_en": "Well, I don't mind, you know?\\nAs loooong as you praise me too.",
+      "texto_ptbr": "Bom, eu não me importo, sabe?\\nContanto que você me elogie taaambém."
+    },
+    {
+      "id": 24,
+      "personagem": "Miku",
+      "texto_en": "Well that's easy...",
+      "texto_ptbr": "Bem, isso é fácil..."
+    },
+    {
+      "id": 25,
+      "personagem": "Nino",
+      "texto_en": "You're different from Fu-kun.",
+      "texto_ptbr": "Você é diferente do Fu-kun."
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "Gnnhh...",
+      "texto_ptbr": "Gnhh..."
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "Umm, shall we go swimming soon?",
+      "texto_ptbr": "Hmm, a gente vai nadar logo?"
+    },
+    {
+      "id": 28,
+      "personagem": "Ichika",
+      "texto_en": "Ah, wait, wait!",
+      "texto_ptbr": "Ah, espera, espera!"
+    },
+    {
+      "id": 29,
+      "personagem": "Ichika",
+      "texto_en": "Normally, swimming would be nice,\\nbut since we're at a seaside resort,\\nlet's do some activities instead!",
+      "texto_ptbr": "Nadar é uma boa em circunstâncias normais,\\nmas já que estamos num resort à beira-mar,\\nvamos fazer algumas atividades!"
+    },
+    {
+      "id": 30,
+      "personagem": "Yotsuba",
+      "texto_en": "I agree!\\nThere are a lot of things to do here,\\nlike banana boating and parasailing.",
+      "texto_ptbr": "Concordo!\\nTem muita coisa pra fazer aqui,\\ntipo banana boat e parasail."
+    },
+    {
+      "id": 31,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san, do you have any preferences?",
+      "texto_ptbr": "Uesugi-san, você tem alguma preferência?"
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Me?\\nLet's see%p-2;――",
+      "texto_ptbr": "Eu?\\nVejamos%p-2;――"
+    },
+    {
+      "id": 33,
+      "personagem": "Ichika",
+      "texto_en": "Banana boating!",
+      "texto_ptbr": "Banana boat!"
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hein?"
+    },
+    {
+      "id": 35,
+      "personagem": "Ichika",
+      "texto_en": "I think we should try banana boating first.\\nWhat do you think, Futaro-kun?",
+      "texto_ptbr": "Acho que a gente devia tentar o banana boat primeiro.\\nO que você acha, Futaro-kun?"
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Uh, yeah.\\nThat sounds good.",
+      "texto_ptbr": "Ah, sim.\\nParece uma boa."
+    },
+    {
+      "id": 37,
+      "personagem": "Raiha",
+      "texto_en": "I've never done banana boating before!\\nThey pull you with a speedboat, right?\\nIt seems pretty fast.",
+      "texto_ptbr": "Nunca fiz banana boat!\\nEles te puxam com uma lancha, né?\\nParece bem rápido."
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, it's a little scary.",
+      "texto_ptbr": "Sim, assusta um pouco."
+    },
+    {
+      "id": 39,
+      "personagem": "Yotsuba",
+      "texto_en": "Don't worry, don't worry!\\nFor you, Itsuki, I think the thrill of the speed\\nwill become addictive.",
+      "texto_ptbr": "Não se preocupa, não se preocupa!\\nPra você, Itsuki, acho que a adrenalina da velocidade\\nvai viciar."
+    },
+    {
+      "id": 40,
+      "personagem": "Ichika",
+      "texto_en": "Okay, it's settled.\\nLet's go sign up for it right away!",
+      "texto_ptbr": "Ótimo, tá decidido.\\nVamos se inscrever agora mesmo!"
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "There are two kind of boats: for pairs,\\nor for groups.\\nWhat shall we do?",
+      "texto_ptbr": "Tem dois tipos de barco: pra dupla\\nou pra grupo.\\nO que a gente faz?"
+    },
+    {
+      "id": 42,
+      "personagem": "Yotsuba",
+      "texto_en": "Of course, go as a group%p-2;――",
+      "texto_ptbr": "Claro, em grupo%p-2;――"
+    },
+    {
+      "id": 43,
+      "personagem": "Ichika",
+      "texto_en": "Excuse me!\\nI want to ride with Futaro-kun,\\njust the two of us!",
+      "texto_ptbr": "Com licença!\\nQuero andar com o Futaro-kun,\\nsó nós dois!"
+    },
+    {
+      "id": 44,
+      "personagem": "Yotsuba",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hein?"
+    },
+    {
+      "id": 45,
+      "personagem": "Ichika",
+      "texto_en": "Futaro-kun, you'd like to ride with me, right?",
+      "texto_ptbr": "Futaro-kun, você quer andar comigo, né?"
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Ah, well, I guess so.",
+      "texto_ptbr": "Ah, bem, acho que sim."
+    },
+    {
+      "id": 47,
+      "personagem": "Ichika",
+      "texto_en": "It's good you're being honest.\\nSo, I'll be riding with Futaro-kun.",
+      "texto_ptbr": "Ainda bem que você foi honesto.\\nEntão, vou andar com o Futaro-kun."
+    },
+    {
+      "id": 48,
+      "personagem": "Nino",
+      "texto_en": "Well, it's up to you.",
+      "texto_ptbr": "Bom, é com vocês."
+    },
+    {
+      "id": 49,
+      "personagem": "Miku",
+      "texto_en": "Yes.",
+      "texto_ptbr": "É."
+    },
+    {
+      "id": 50,
+      "personagem": "Ichika",
+      "texto_en": "We got permission, so let's go!",
+      "texto_ptbr": "Temos permissão, então vamos!"
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "Hey, wait a minute!\\nDon't pull me!",
+      "texto_ptbr": "Ei, espera um pouco!\\nNão me puxa!"
+    },
+    {
+      "id": 52,
+      "personagem": "Yotsuba",
+      "texto_en": "Ooohh...\\nI'm a little surprised...",
+      "texto_ptbr": "Ooohh...\\nFiquei um pouco surpresa..."
+    },
+    {
+      "id": 53,
+      "personagem": "Itsuki",
+      "texto_en": "I was surprised too.\\nIt's rare to see Ichika act so excited.",
+      "texto_ptbr": "Eu também fiquei surpresa.\\nÉ raro ver a Ichika tão animada assim."
+    },
+    {
+      "id": 54,
+      "personagem": "Nino",
+      "texto_en": "Not that I have any complaints about their relationship,\\nbut to be so bold, you know?",
+      "texto_ptbr": "Não que eu tenha alguma reclamação sobre o relacionamento deles,\\nmas ser tão descarada assim, né?"
+    },
+    {
+      "id": 55,
+      "personagem": "Miku",
+      "texto_en": "I feel a little left out.",
+      "texto_ptbr": "Me sinto um pouco de fora."
+    },
+    {
+      "id": 56,
+      "personagem": "Yotsuba",
+      "texto_en": "Ahaha...\\nBut they're dating,\\nso this is normal, isn't it?",
+      "texto_ptbr": "Ahaha...\\nMas eles estão namorando,\\nentão é normal, né?"
+    },
+    {
+      "id": 57,
+      "personagem": "Raiha",
+      "texto_en": "Actually, I think big bro\\nshould take the lead more, though.",
+      "texto_ptbr": "Na real, acho que o meu irmão\\ndevia tomar mais iniciativa."
+    },
+    {
+      "id": 58,
+      "personagem": "Miku",
+      "texto_en": "That might be difficult for Futaro.",
+      "texto_ptbr": "Isso pode ser difícil pro Futaro."
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 60,
+      "personagem": "Ichika",
+      "texto_en": "I'm looking forward to it, Futaro-kun.\\nI wonder how fast we'll go?",
+      "texto_ptbr": "Tô ansiosa, Futaro-kun.\nSerá que vai ser rápido?"
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "Well, it's probably not that fast, eh?\\nHahahaha!",
+      "texto_ptbr": "Bom, provavelmente não é tão rápido assim, né?\\nHahahaha!"
+    },
+    {
+      "id": 62,
+      "personagem": "Ichika",
+      "texto_en": "Hey, aren't you really nervous?\\nYour voice sounds stiff?",
+      "texto_ptbr": "Ei, você não tá nervoso demais?\\nSua voz tá estranha?"
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "I'm not!",
+      "texto_ptbr": "Não tô!"
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "Whoa?!",
+      "texto_ptbr": "Caramba?!"
+    },
+    {
+      "id": 65,
+      "personagem": "Ichika",
+      "texto_en": "Eeeep!! It's so fast!!",
+      "texto_ptbr": "Aahhh!! É muito rápido!!"
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "Whoaaaaaa?! Are you serious?!\\nBanana boats are really this fast?!",
+      "texto_ptbr": "Caraaaamba?! Que é isso?!\\nBanana boat é mesmo tão rápido assim?!"
+    },
+    {
+      "id": 67,
+      "personagem": "Ichika",
+      "texto_en": "Ahahaha!\\nPara de entrar em pânico, Futaro-kun!",
+      "texto_ptbr": "Ahahaha!\nPara de entrar em pânico, Futaro-kun!"
+    },
+    {
+      "id": 68,
+      "personagem": "Futaro",
+      "texto_en": "N-no, I never expected it to be this fast%p-2;――\\n%p;Wait, that was close?! WOAH, we just got air!\\nWe were floating just now, right?!",
+      "texto_ptbr": "N-não, nunca esperava que fosse tão rápido%p-2;――\\n%p;Peraí, quase?! CARA, a gente voou!\\nA gente estava flutuando agora há pouco, né?!"
+    },
+    {
+      "id": 69,
+      "personagem": "Ichika",
+      "texto_en": "That's what makes it fun!",
+      "texto_ptbr": "É isso que tem de bom!"
+    },
+    {
+      "id": 70,
+      "personagem": "Futaro",
+      "texto_en": "F-for sure, this rush\\nand floating sensation isn't bad!",
+      "texto_ptbr": "É-é verdade, essa adrenalina\\ne essa sensação de flutuar não é ruim!"
+    },
+    {
+      "id": 71,
+      "personagem": "Ichika",
+      "texto_en": "See! That's the way!",
+      "texto_ptbr": "Tá vendo! É isso aí!"
+    },
+    {
+      "id": 72,
+      "personagem": "Futaro",
+      "texto_en": "I'm getting all excited!\\nHahahaha!",
+      "texto_ptbr": "Que emoção!\\nHahahaha!"
+    },
+    {
+      "id": 73,
+      "personagem": "Ichika",
+      "texto_en": "I know!\\nI feel like I want to shout at the top of my lungs!",
+      "texto_ptbr": "É!\\nTô com vontade de gritar com tudo que tenho!"
+    },
+    {
+      "id": 74,
+      "personagem": "Futaro",
+      "texto_en": "YODEL-AY-HEE-HOOOO...!",
+      "texto_ptbr": "IÔÔÔDEEEELAAAIIIÊ...!"
+    },
+    {
+      "id": 75,
+      "personagem": "Ichika",
+      "texto_en": "Huh? That's something you say in the mountains.",
+      "texto_ptbr": "Hein? Isso é coisa que se fala na montanha."
+    },
+    {
+      "id": 76,
+      "personagem": "Futaro",
+      "texto_en": "It's pretty much the same thing, right?\\nYou should try shouting too,\\nit's more refreshing than you think!",
+      "texto_ptbr": "É praticamente a mesma coisa, né?\\nVocê também devia tentar gritar,\\né mais refrescante do que parece!"
+    },
+    {
+      "id": 77,
+      "personagem": "Ichika",
+      "texto_en": "In that case%p-2;――",
+      "texto_ptbr": "Nesse caso%p-2;――"
+    },
+    {
+      "id": 78,
+      "personagem": "Ichika",
+      "texto_en": "Futaro-kuuun!! I love youuu!!",
+      "texto_ptbr": "Futaro-kuuun!! Eu te amooo!!"
+    },
+    {
+      "id": 79,
+      "personagem": "Futaro",
+      "texto_en": "Wai—?! What are you saying?!",
+      "texto_ptbr": "Esp—?! O que você tá falando?!"
+    },
+    {
+      "id": 80,
+      "personagem": "Ichika",
+      "texto_en": "Futaro-kuuun! I love you so muuuch!!",
+      "texto_ptbr": "Futaro-kuuun! Eu te amo demaisss!!"
+    },
+    {
+      "id": 81,
+      "personagem": "Futaro",
+      "texto_en": "C-come on!\\nWhat the hell are you saying!\\nAre you stupid? Are you really stupid?!",
+      "texto_ptbr": "C-chega!\\nQue diabos você tá falando!\\nVocê é idiota? Você é mesmo idiota?!"
+    },
+    {
+      "id": 82,
+      "personagem": "Ichika",
+      "texto_en": "I'm not stupid.\\nI'm just telling the truth.",
+      "texto_ptbr": "Não sou idiota.\\nEstou só falando a verdade."
+    },
+    {
+      "id": 83,
+      "personagem": "Futaro",
+      "texto_en": "You can't say that in public!!",
+      "texto_ptbr": "Você não pode falar isso em público!!"
+    },
+    {
+      "id": 84,
+      "personagem": "Ichika",
+      "texto_en": "It's okay.\\nNo one's listening here.",
+      "texto_ptbr": "Tá tranquilo.\\nNinguém tá ouvindo aqui."
+    },
+    {
+      "id": 85,
+      "personagem": "Futaro",
+      "texto_en": "(Th-this girl!\\n Did the adrenaline make her go nuts?!)",
+      "texto_ptbr": "(E-essa menina!\\n Será que a adrenalina fez ela enlouquecer?!)"
+    },
+    {
+      "id": 86,
+      "personagem": "Ichika",
+      "texto_en": "Come on, you too, Futaro-kun!",
+      "texto_ptbr": "Vamos, você também, Futaro-kun!"
+    },
+    {
+      "id": 87,
+      "personagem": "Futaro",
+      "texto_en": "(Did I really just say that?!)",
+      "texto_ptbr": "(Será que eu realmente disse isso?!)"
+    },
+    {
+      "id": 88,
+      "personagem": "Ichika",
+      "texto_en": "HUUURRYYY UUUP!",
+      "texto_ptbr": "LOGOOO LOGOOO!"
+    },
+    {
+      "id": 89,
+      "personagem": "Futaro",
+      "texto_en": "I-Ichika, I-I love you...",
+      "texto_ptbr": "I-Ichika, e-eu te amo..."
+    },
+    {
+      "id": 90,
+      "personagem": "Ichika",
+      "texto_en": "What?\\nIf you don't say it loudly, I can't hear you.",
+      "texto_ptbr": "O quê?\\nSe você não falar alto, não consigo te ouvir."
+    },
+    {
+      "id": 91,
+      "personagem": "Futaro",
+      "texto_en": "WOOAAAH! I'm going all out!\\nI did it, didn't I!",
+      "texto_ptbr": "UHUUUL! Vou com tudo!\\nFiz isso, né!"
+    },
+    {
+      "id": 92,
+      "personagem": "Futaro",
+      "texto_en": "Ichikaaa!! I love youuu!!",
+      "texto_ptbr": "Ichikaaa!! Eu te amooo!!"
+    },
+    {
+      "id": 93,
+      "personagem": "Ichika",
+      "texto_en": "I love you too, Futaro-kun!!\\nI love you more than anyone in the world!",
+      "texto_ptbr": "Eu também te amo, Futaro-kun!!\\nTe amo mais do que qualquer pessoa no mundo!"
+    },
+    {
+      "id": 94,
+      "personagem": "Ichika",
+      "texto_en": "*sigh* That was so much fun!\\nWe screamed so much, didn't we?",
+      "texto_ptbr": "*suspiro* Foi muito divertido!\\nGritamos tanto, né?"
+    },
+    {
+      "id": 95,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah.",
+      "texto_ptbr": "É-é."
+    },
+    {
+      "id": 96,
+      "personagem": "Ichika",
+      "texto_en": "Huh? Futaro-kun,\\nwhy do you look so down?\\nWere you that scared?",
+      "texto_ptbr": "Hein? Futaro-kun,\\npor que você tá com essa cara?\\nFicou com tanto medo assim?"
+    },
+    {
+      "id": 97,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, I was scared.\\nScared of myself\\nfor getting into such an inexplicable mood.",
+      "texto_ptbr": "É, fiquei com medo.\\nMedo de mim mesmo\\npor ter entrado naquele clima inexplicável."
+    },
+    {
+      "id": 98,
+      "personagem": "Futaro",
+      "texto_en": "No way... \\nI can't believe I acted like such an idiot...!",
+      "texto_ptbr": "Não acredito... \\nNão consigo acreditar que agi feito um idiota...!"
+    },
+    {
+      "id": 99,
+      "personagem": "Ichika",
+      "texto_en": "Geez, how many times\\nare you gonna call yourself an idiot?",
+      "texto_ptbr": "Nossa, quantas vezes\\nvocê vai se chamar de idiota?"
+    },
+    {
+      "id": 100,
+      "personagem": "Ichika",
+      "texto_en": "I was happy, you know?\\nYou told me you loved me so much.",
+      "texto_ptbr": "Fiquei feliz, sabe?\\nVocê me disse que me amava tanto."
+    },
+    {
+      "id": 101,
+      "personagem": "Ichika",
+      "texto_en": "Hey, you can tell me more, you know?\\nI...want to say it more too.",
+      "texto_ptbr": "Ei, pode me dizer mais vezes, sabe?\\nEu... também quero dizer mais."
+    },
+    {
+      "id": 102,
+      "personagem": "Futaro",
+      "texto_en": "~~~~~~!",
+      "texto_ptbr": "~~~~~~!"
+    },
+    {
+      "id": 103,
+      "personagem": "Itsuki",
+      "texto_en": "...Just when I thought they came back,\\nwhat's he wriggling about?",
+      "texto_ptbr": "...Quando pensei que eles tinham voltado,\\npor que ele tá se contorcendo assim?"
+    },
+    {
+      "id": 104,
+      "personagem": "Raiha",
+      "texto_en": "Big bro, you're being creepy.",
+      "texto_ptbr": "Onii-chan, você tá perturbador."
+    },
+    {
+      "id": 105,
+      "personagem": "Yotsuba",
+      "texto_en": "Uesugi-san? What's wrong?\\nWere you that scared of the banana boat?",
+      "texto_ptbr": "Uesugi-san? O que foi?\\nVocê ficou com tanto medo do banana boat?"
+    },
+    {
+      "id": 106,
+      "personagem": "Nino",
+      "texto_en": "Ichika.\\nWhat did you do?",
+      "texto_ptbr": "Ichika.\\nO que você fez?"
+    },
+    {
+      "id": 107,
+      "personagem": "Ichika",
+      "texto_en": "Hmm? Nothing much.\\nFutaro-kun, you're just so bold, aren't you!\\nMeu Deus!",
+      "texto_ptbr": "Hmm? Nada demais.\nFutaro-kun é tão ousado, não é!\nMeu Deus!"
+    },
+    {
+      "id": 108,
+      "personagem": "Miku",
+      "texto_en": "Futaro?",
+      "texto_ptbr": "Futaro?"
+    },
+    {
+      "id": 109,
+      "personagem": "Nino",
+      "texto_en": "Fu-kun?",
+      "texto_ptbr": "Fu-kun?"
+    },
+    {
+      "id": 110,
+      "personagem": "Futaro",
+      "texto_en": "Hey!\\nDon't say it like that, Ichika!",
+      "texto_ptbr": "Ei!\\nNão fala assim, Ichika!"
+    },
+    {
+      "id": 111,
+      "personagem": "Miku",
+      "texto_en": "What did you do?",
+      "texto_ptbr": "O que você fez?"
+    },
+    {
+      "id": 112,
+      "personagem": "Futaro",
+      "texto_en": "Well, um...",
+      "texto_ptbr": "Bom, é que..."
+    },
+    {
+      "id": 113,
+      "personagem": "Nino",
+      "texto_en": "I see, it's something you guys can't tell us.",
+      "texto_ptbr": "Entendi, é algo que vocês não podem nos contar."
+    },
+    {
+      "id": 114,
+      "personagem": "Ichika",
+      "texto_en": "Ahahaha! Hang in there, Futaro-kun!",
+      "texto_ptbr": "Ahahaha! Aguenta aí, Futaro-kun!"
+    },
+    {
+      "id": 115,
+      "personagem": "Futaro",
+      "texto_en": "Stop laughing and help me!!",
+      "texto_ptbr": "Para de rir e me ajuda!!"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "arquivo": "ca02_mv1_02",
+  "total": 7,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "でも、私はそれで充分楽しめるから。",
+      "texto_en": "Enjoy yourself. I'll be admiring the ocean.",
+      "texto_ptbr": "Se divirta. Eu vou ficar admirando o oceano."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "眺めるだけはどうなんだ？",
+      "texto_en": "Is admiring the view really good enough?",
+      "texto_ptbr": "E só ficar olhando, tá bom assim?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "どうせなら、どっちも楽しもうぜ",
+      "texto_en": "How about doing both?",
+      "texto_ptbr": "Já que é assim, vamos curtir os dois.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "海の楽しみ方も色々だな",
+      "texto_en": "There are several ways to enjoy the ocean.",
+      "texto_ptbr": "Tem várias formas de curtir o mar.",
+      "selidx": 2
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "サンセットビーチＡ:一花:五月",
+      "texto_en": "Sunset Beach A: Ichika/Raiha",
+      "texto_ptbr": "Sunset Beach A: Ichika/Itsuki",
+      "selidx": 0
+    },
+    {
+      "id": 5,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "サンセットビーチＢ:二乃:四葉",
+      "texto_en": "Sunset Beach B: Miku/Yotsuba",
+      "texto_ptbr": "Sunset Beach B: Nino/Yotsuba",
+      "selidx": 1
+    },
+    {
+      "id": 6,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "サンセットビーチＣ:三玖:らいは",
+      "texto_en": "Sunset Beach C: Nino/Itsuki",
+      "texto_ptbr": "Sunset Beach C: Miku/Raiha",
+      "selidx": 2
+    }
+  ]
+}

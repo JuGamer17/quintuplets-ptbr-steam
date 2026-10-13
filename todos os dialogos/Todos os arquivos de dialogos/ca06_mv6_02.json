@@ -1,0 +1,408 @@
+{
+  "arquivo": "ca06_mv6_02",
+  "total": 67,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Itsuki",
+      "texto_en": "Hmm...",
+      "texto_ptbr": "Hmm..."
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "Mmmmhhh...",
+      "texto_ptbr": "Mmmmhhh..."
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "What's with those serious faces, you two?\\nIs something wrong?",
+      "texto_ptbr": "O que é essa cara séria, vocês duas?\\nAlgum problema?"
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, Uesugi-kun.",
+      "texto_ptbr": "Ah, Uesugi-kun."
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "Nothing's really wrong...",
+      "texto_ptbr": "Não é bem nada..."
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Well, it definitely looks like something's up.\\nYour faces are giving it away.",
+      "texto_ptbr": "Bem, com certeza parece que tem algo acontecendo.\\nAs caras de vocês estão entregando."
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "It's really nothing important.",
+      "texto_ptbr": "Não é nada importante mesmo."
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "When we were shopping earlier, the store clerk\\ntold us we are 'churakagi' twins.",
+      "texto_ptbr": "Quando estávamos fazendo compras mais cedo, a atendente\\ndisse que somos gêmeas 'churakagi'."
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "I think it's a word in Okinawan dialect,\\nbut I don't understand the meaning,\\nand it's bothering me.",
+      "texto_ptbr": "Acho que é uma palavra do dialeto okinawano,\\nmas não entendo o significado,\\ne isso está me incomodando."
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "Do you know what it means, Uesugi-kun?",
+      "texto_ptbr": "Você sabe o que significa, Uesugi-kun?"
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "No, I'm not that familiar with it either.\\nJust some words I've seen\\nin signs and advertisements...",
+      "texto_ptbr": "Não, também não conheço muito bem.\\nSó algumas palavras que eu vi\\nem placas e propagandas..."
+    },
+    {
+      "id": 11,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, speaking of signs!\\nThe name of the aquarium here is\\n'Churaumi Aquarium,' right?",
+      "texto_ptbr": "Ah, falando em placas!\\nO nome do aquário aqui é\\n'Aquário Churaumi', né?"
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "Could it be related to THAT 'chura'?",
+      "texto_ptbr": "Será que tem relação com AQUELE 'chura'?"
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Ah, that's possible.",
+      "texto_ptbr": "Ah, é possível."
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "'Churaumi' should mean 'beautiful sea.'\\nSo it could mean 'beautiful', right?",
+      "texto_ptbr": "'Churaumi' deve significar 'mar bonito'.\\nEntão pode significar 'bonito', né?"
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "So, in other words, it could mean \\n'beautiful person'...perhaps?",
+      "texto_ptbr": "Então, em outras palavras, poderia significar \\n'pessoa bonita'... talvez?"
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "Well then...\\nIt seems like we were being complimented.",
+      "texto_ptbr": "Bem então...\\nParece que estávamos sendo elogiadas."
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "I feel kind of bad that we didn't realize \\nwe were being praised.",
+      "texto_ptbr": "Me sinto meio mal por não termos percebido \\nque estávamos sendo elogiadas."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Well, there's nothing we can do about it.\\nThese words are all new to us.",
+      "texto_ptbr": "Bem, não tem nada que a gente possa fazer.\\nEssas palavras são todas novas para nós."
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "I've learned a few things since coming to Okinawa,\\nbut there are still many words I don't understand.",
+      "texto_ptbr": "Aprendi algumas coisas desde que viemos para Okinawa,\\nmas ainda tem muitas palavras que não entendo."
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "For example, what have you learned?",
+      "texto_ptbr": "Por exemplo, o que você aprendeu?"
+    },
+    {
+      "id": 21,
+      "personagem": "Itsuki",
+      "texto_en": "'Mensoore' means 'welcome.'\\n'Niffee debiru' means 'thank you.'",
+      "texto_ptbr": "'Mensoore' significa 'bem-vindo'.\\n'Niffee debiru' significa 'obrigado'."
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "'Yonna yonna' means 'take it easy,' I think.",
+      "texto_ptbr": "'Yonna yonna' significa 'vai com calma', eu acho."
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "I see.\\nLooks like your shopping and eating spree paid off.",
+      "texto_ptbr": "Entendi.\\nParece que suas compras e sua maratona de comer valeram a pena."
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "Isn't that what it's all about though?",
+      "texto_ptbr": "Mas não é disso que se trata tudo isso?"
+    },
+    {
+      "id": 25,
+      "personagem": "Itsuki",
+      "texto_en": "Well, words used for tourists\\ntend to be biased, aren't they?",
+      "texto_ptbr": "Bem, as palavras usadas para turistas\\ntendem a ser tendenciosas, né?"
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "That's true, huh.\\nI hardly did any shopping myself.",
+      "texto_ptbr": "É verdade, né.\\nEu quase não fiz compras."
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "Please don't say such sad things...\\nI've lost the will to be angry. ",
+      "texto_ptbr": "Por favor não diz coisas tão tristes assim...\\nPerdi a vontade de ficar brava. "
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "You can still try to learn them now.\\nIt might be useful in the future.",
+      "texto_ptbr": "Você ainda pode tentar aprender agora.\\nPode ser útil no futuro."
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "Well, if you don't understand\\nwhat the other person is saying,\\nit can be difficult to respond.",
+      "texto_ptbr": "Bem, se você não entende\\no que a outra pessoa está dizendo,\\npode ser difícil responder."
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "Even though we can just look it up\\non our phones now, it's still inconvenient.\\nCommunication is the foundation of understanding.",
+      "texto_ptbr": "Mesmo podendo simplesmente pesquisar\\nno celular agora, ainda é inconveniente.\\nComunicação é a base do entendimento."
+    },
+    {
+      "id": 31,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "If we weren't able to communicate with words,\\nwhat would we do?",
+      "texto_ptbr": "Se não conseguíssemos nos comunicar com palavras,\\no que faríamos?"
+    },
+    {
+      "id": 33,
+      "personagem": "Itsuki",
+      "texto_en": "As sisters, we more or less understand each other,\\nso we might be able to figure something out...",
+      "texto_ptbr": "Como irmãs, mais ou menos nos entendemos,\\nentão talvez conseguíssemos dar um jeito..."
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "Do you really think so?",
+      "texto_ptbr": "Você acha mesmo isso?"
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "Even though we're dressed the same now%p-2;――",
+      "texto_ptbr": "Mesmo estando vestidas iguais agora%p-2;――"
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "Our personalities are completely different.\\nIt's not like when we were kids and were all the same. ",
+      "texto_ptbr": "Nossas personalidades são completamente diferentes.\\nNão é como quando éramos crianças e éramos todas iguais. "
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "That hypothetical scenario doesn't really matter.\\nSomething as unrealistic as suddenly not being\\nable to communicate isn't even worth considering.",
+      "texto_ptbr": "Esse cenário hipotético não importa muito.\\nUma coisa tão irreal quanto de repente não conseguir\\nse comunicar nem vale a pena considerar."
+    },
+    {
+      "id": 39,
+      "personagem": "Itsuki",
+      "texto_en": "Well, that's true.\\nPlease just forget what we were talking about then. ",
+      "texto_ptbr": "Bem, é verdade.\\nSó esquece o que estávamos falando então. "
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "After all, everyone changes\\nlittle by little, don't they?",
+      "texto_ptbr": "Afinal, todo mundo muda\\npouco a pouco, não é?"
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "Yet, no matter how much we change in the future,\\nI will still be...",
+      "texto_ptbr": "Ainda assim, não importa o quanto mudemos no futuro,\\neu ainda serei..."
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Things like appearance and personality\\nchange as we live.\\nThat's inevitable.",
+      "texto_ptbr": "Coisas como aparência e personalidade\\nmudam conforme vivemos.\\nIsso é inevitável."
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "But even after you've changed,\\nthere are still things you can discover, right?",
+      "texto_ptbr": "Mas mesmo depois de você mudar,\\nainda existem coisas que dá para descobrir, né?"
+    },
+    {
+      "id": 44,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, I can relate to that.",
+      "texto_ptbr": "Sim, eu entendo isso."
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "Well, I don't think it's very likely\\nthat you'll suddenly stop being able\\nto communicate in your language, is it?",
+      "texto_ptbr": "Bem, eu não acho muito provável\\nque você de repente pare de conseguir\\nse comunicar na sua língua, né?"
+    },
+    {
+      "id": 46,
+      "personagem": "Itsuki",
+      "texto_en": "It's just a hypothetical scenario.\\nDon't worry about it.",
+      "texto_ptbr": "É só um cenário hipotético.\\nNão se preocupa com isso."
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "After all, everyone changes\\nlittle by little, don't they?",
+      "texto_ptbr": "Afinal, todo mundo muda\\npouco a pouco, não é?"
+    },
+    {
+      "id": 48,
+      "personagem": "Itsuki",
+      "texto_en": "Yet, no matter how much we change in the future,\\nI will still be...",
+      "texto_ptbr": "Ainda assim, não importa o quanto mudemos no futuro,\\neu ainda serei..."
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Even if we're not the same,\\nisn't understanding each other the most important thing?\\nYou're able to imitate Itsuki to this degree.",
+      "texto_ptbr": "Mesmo que não sejamos iguais,\\nse entender não é a coisa mais importante?\\nVocê consegue imitar a Itsuki até esse ponto."
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "Well, I suppose.",
+      "texto_ptbr": "Bem, suponho que sim."
+    },
+    {
+      "id": 51,
+      "personagem": "Itsuki",
+      "texto_en": "Understanding and accepting\\nare different things...\\nbut we're quintuplets, after all.",
+      "texto_ptbr": "Entender e aceitar\\nsão coisas diferentes...\\nmas somos quintuplas, afinal."
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "That makes things such a hassle for me, though.",
+      "texto_ptbr": "Mesmo assim, isso torna as coisas um saco para mim."
+    },
+    {
+      "id": 53,
+      "personagem": "Itsuki",
+      "texto_en": "Instead of saying that,\\nwhy don't you try to make an effort\\nto understand a little better?",
+      "texto_ptbr": "Em vez de dizer isso,\\npor que você não tenta se esforçar\\npara entender um pouco melhor?"
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "Well... Maybe you're right.",
+      "texto_ptbr": "Bem... Talvez você tenha razão."
+    },
+    {
+      "id": 55,
+      "personagem": "Itsuki",
+      "texto_en": "After all, everyone changes\\nlittle by little, don't they?",
+      "texto_ptbr": "Afinal, todo mundo muda\\npouco a pouco, não é?"
+    },
+    {
+      "id": 56,
+      "personagem": "Itsuki",
+      "texto_en": "Yet, no matter how much we change in the future,\\nI will still be...",
+      "texto_ptbr": "Ainda assim, não importa o quanto mudemos no futuro,\\neu ainda serei..."
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "(...This feeling,\\n it's somewhat reminiscent of Nino.)",
+      "texto_ptbr": "(...Essa sensação,\\n lembra um pouco a Nino.)"
+    },
+    {
+      "id": 58,
+      "personagem": "Itsuki",
+      "texto_en": "Ah...",
+      "texto_ptbr": "Ah..."
+    },
+    {
+      "id": 59,
+      "personagem": "Itsuki",
+      "texto_en": "I see!\\nIf we ever can't communicate with words,\\nhow about we use gestures instead?",
+      "texto_ptbr": "Entendi!\\nSe algum dia não conseguirmos nos comunicar com palavras,\\nque tal usarmos gestos no lugar?"
+    },
+    {
+      "id": 60,
+      "personagem": "Itsuki",
+      "texto_en": "I see, that makes sense.\\nThey say body language is universal.",
+      "texto_ptbr": "Entendi, faz sentido.\\nDizem que a linguagem corporal é universal."
+    },
+    {
+      "id": 61,
+      "personagem": "Futaro",
+      "texto_en": "No, no, there are so many differences\\nin the level of communication\\nbetween verbal and nonverbal communication, right?",
+      "texto_ptbr": "Não, não, tem tantas diferenças\\nno nível de comunicação\\nentre a comunicação verbal e a não verbal, né?"
+    },
+    {
+      "id": 62,
+      "personagem": "Itsuki",
+      "texto_en": "No way! We can manage with effort and enthusiasm!",
+      "texto_ptbr": "De jeito nenhum! A gente dá conta com esforço e entusiasmo!"
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "(Hmm...\\n This doesn't feel like Nino,\\n but more like Yotsuba...)",
+      "texto_ptbr": "(Hmm...\\n Isso não parece a Nino,\\n mas mais a Yotsuba...)"
+    },
+    {
+      "id": 64,
+      "personagem": "Itsuki",
+      "texto_en": "Alright then,\\nlet me try using my gestures\\nto communicate with the shop clerk!",
+      "texto_ptbr": "Certo então,\\ndeixa eu tentar usar meus gestos\\npara me comunicar com a atendente!"
+    },
+    {
+      "id": 65,
+      "personagem": "Itsuki",
+      "texto_en": "Wait, hold on! Wouldn't that be a little unsettling...?!",
+      "texto_ptbr": "Espera, pera aí! Isso não seria meio perturbador...?!"
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "(She's already gone...\\n Oh no, she's not really going to do that, is she?)",
+      "texto_ptbr": "(Ela já foi...\\n Ah não, ela não vai fazer isso mesmo, vai?)"
+    }
+  ]
+}

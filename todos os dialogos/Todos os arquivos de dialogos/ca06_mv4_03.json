@@ -1,0 +1,288 @@
+{
+  "arquivo": "ca06_mv4_03",
+  "total": 47,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Why do you have such a serious expression?\\nWhat are you looking at?",
+      "texto_ptbr": "Por que essa cara séria?\\nO que você está olhando?"
+    },
+    {
+      "id": 2,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, Uesugi-kun?\\nI was just thinking about something.",
+      "texto_ptbr": "Ah, Uesugi-kun?\\nEu só estava pensando em uma coisa."
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "Is that a fake food display from some restaurant?\\nWhat, are you already hungry?",
+      "texto_ptbr": "Isso é uma réplica de comida de algum restaurante?\\nO quê, você já está com fome?"
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "Well, it's almost lunchtime.\\nI was looking for a good lunch spot.",
+      "texto_ptbr": "Bom, já está quase na hora do almoço.\\nEu estava procurando um bom lugar pra almoçar."
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "(Talking about food,\\n does that mean this is the actual Itsuki?\\n Or, maybe a quintuplet acting like her...)",
+      "texto_ptbr": "(Falando em comida,\\n será que essa é a Itsuki de verdade?\\n Ou talvez uma quintupla fingindo ser ela...)"
+    },
+    {
+      "id": 6,
+      "personagem": "Itsuki",
+      "texto_en": "We did come to the American Village,\\nso I thought American-style food would be good...",
+      "texto_ptbr": "Já que a gente veio pra Vila Americana,\\nachei que comida ao estilo americano seria boa..."
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Even one serving is quite a lot.\\nJust looking at it gives me heartburn.",
+      "texto_ptbr": "Só uma porção já é bastante coisa.\\nSó de olhar já me dá azia."
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "That's an American breakfast, right?",
+      "texto_ptbr": "Isso é um café da manhã americano, né?"
+    },
+    {
+      "id": 9,
+      "personagem": "Futaro",
+      "texto_en": "This is the morning menu...\\nAmericans eat this much in the morning, huh.",
+      "texto_ptbr": "Isso é o cardápio da manhã...\\nOs americanos comem tudo isso de manhã, hein."
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "The lunch menus and standard meals are over here.",
+      "texto_ptbr": "Os cardápios de almoço e refeições normais estão aqui."
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Again, what in the world is this...?\\nIs the size of this hamburger wrong?",
+      "texto_ptbr": "De novo, o que diabos é isso...?\\nO tamanho desse hambúrguer está errado?"
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "Indeed, this amount would be tough.",
+      "texto_ptbr": "De fato, essa quantidade seria difícil de comer."
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "How rare.\\nI thought you'd be able\\nto wolf something like this down, you know?",
+      "texto_ptbr": "Que raro.\\nEu achei que você conseguiria\\ndevorar algo assim numa boa, sabia?"
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "...You really are such a rude person, you know that?",
+      "texto_ptbr": "...Você é mesmo uma pessoa grosseira, sabia?"
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "Your big appetite is a well-known fact, you know?\\nThere's no point in hiding it now.",
+      "texto_ptbr": "Seu apetite gigante já é conhecido de todo mundo, sabia?\\nNão adianta esconder mais agora."
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "Uesugi-kun.\\nI won't forgive you for what you just said today.",
+      "texto_ptbr": "Uesugi-kun.\\nEu não vou te perdoar pelo que você acabou de dizer hoje."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "Don't give me 'huh!'\\nMaking jokes about being a big eater?\\nIs that what you think of me?!",
+      "texto_ptbr": "Não vem com 'hã' pra cima de mim!\\nFicar fazendo piada de eu comer muito?\\nÉ isso que você pensa de mim?!"
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "(Th-this is bad!\\n Did I really make her angry with my joke?!)",
+      "texto_ptbr": "(I-Isso é ruim!\\n Será que eu realmente a deixei brava com essa piada?!)"
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "It was just a little joke.\\nDon't get so mad.",
+      "texto_ptbr": "Foi só uma brincadeirinha.\\nNão fica tão brava assim."
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "You think you can just brush it off as a joke?\\nI'm angry about the fact\\nthat you would even joke about that kind of thing!",
+      "texto_ptbr": "Você acha que pode simplesmente empurrar isso como brincadeira?\\nEu estou brava pelo fato\\nde você sequer brincar com esse tipo de coisa!"
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "Ooo... I'm sorry,\\nI definitely went too far with that.\\nI apologize.",
+      "texto_ptbr": "Ooo... Desculpa,\\neu com certeza exagerei nessa.\\nPeço desculpas."
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "But seriously, your lack of delicacy\\nalways makes my jaw drop.",
+      "texto_ptbr": "Mas sério, sua falta de tato\\nsempre me deixa de queixo caído."
+    },
+    {
+      "id": 25,
+      "personagem": "Itsuki",
+      "texto_en": "I'm worried about whether you'll be able to\\nlive in society without causing trouble.",
+      "texto_ptbr": "Fico preocupada se você vai conseguir\\nviver em sociedade sem causar problema."
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "...Am I really that horrible of a person?",
+      "texto_ptbr": "...Eu sou mesmo uma pessoa tão horrível assim?"
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Well, you should reflect on your usual behavior too.",
+      "texto_ptbr": "Bom, você também devia refletir sobre o seu comportamento de sempre."
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "You're gonna keep this up?!",
+      "texto_ptbr": "Você vai continuar com isso?!"
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "I mean, just calm down for a moment.\\nWhere there's smoke, there's fire.",
+      "texto_ptbr": "Quer dizer, se acalma um pouco.\\nOnde há fumaça, há fogo."
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "Ooh...\\nYeah, I guess...\\nI might have a bit of a problem there...",
+      "texto_ptbr": "Ooh...\\nÉ, acho que sim...\\nTalvez eu tenha um pouco de problema com isso..."
+    },
+    {
+      "id": 31,
+      "personagem": "Futaro",
+      "texto_en": "Well, I admit I also might have gone too far.\\nWe both gotta be a little more careful, okay?",
+      "texto_ptbr": "Bom, admito que talvez eu também tenha exagerado.\\nA gente tem que ser um pouco mais cuidadoso, tá?"
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "...Alright.\\nLet's call it even this time.",
+      "texto_ptbr": "...Tudo bem.\\nVamos considerar empatado dessa vez."
+    },
+    {
+      "id": 33,
+      "personagem": "Itsuki",
+      "texto_en": "But seriously, your lack of delicacy\\nalways makes my jaw drop.",
+      "texto_ptbr": "Mas sério, sua falta de tato\\nsempre me deixa de queixo caído."
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "I'm worried about whether you'll be able to\\nlive in society without causing trouble.",
+      "texto_ptbr": "Fico preocupada se você vai conseguir\\nviver em sociedade sem causar problema."
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "...Am I really that horrible of a person?",
+      "texto_ptbr": "...Eu sou mesmo uma pessoa tão horrível assim?"
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Sorry, I went a little too far. ",
+      "texto_ptbr": "Desculpa, eu exagerei um pouco. "
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "...Do you really think that?",
+      "texto_ptbr": "...Você realmente acha isso?"
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, my bad. There are things you can and can't say\\nto even close friends, after all.",
+      "texto_ptbr": "É, foi mal. Tem coisas que você pode e não pode falar\\nnem pra amigos próximos, afinal."
+    },
+    {
+      "id": 39,
+      "personagem": "Itsuki",
+      "texto_en": "That's right.\\nYou do have trouble with that...",
+      "texto_ptbr": "Isso mesmo.\\nVocê realmente tem dificuldade com isso..."
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "Well, let's give credit where it's due.\\nYou were honest with your apology.",
+      "texto_ptbr": "Bom, vamos reconhecer o mérito quando é devido.\\nVocê foi sincero no seu pedido de desculpas."
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "But seriously, your lack of delicacy\\nalways makes my jaw drop.",
+      "texto_ptbr": "Mas sério, sua falta de tato\\nsempre me deixa de queixo caído."
+    },
+    {
+      "id": 42,
+      "personagem": "Itsuki",
+      "texto_en": "I'm worried about whether you'll be able to\\nlive in society without causing trouble.",
+      "texto_ptbr": "Fico preocupada se você vai conseguir\\nviver em sociedade sem causar problema."
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "...Am I really that horrible of a person?",
+      "texto_ptbr": "...Eu sou mesmo uma pessoa tão horrível assim?"
+    },
+    {
+      "id": 44,
+      "personagem": "Itsuki",
+      "texto_en": "You are!",
+      "texto_ptbr": "Você é sim!"
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "My goodness...\\nI'm even more worried\\nnow that you didn't even realize that.",
+      "texto_ptbr": "Minha nossa...\\nFico ainda mais preocupada\\nagora que você nem percebeu isso."
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "(I that's a bit of an exaggeration, but...\\n now that we've finally made up,\\n I should probably keep quiet.)",
+      "texto_ptbr": "(Acho que isso é meio exagero, mas...\\n já que finalmente fizemos as pazes,\\n é melhor eu ficar quieto.)"
+    }
+  ]
+}

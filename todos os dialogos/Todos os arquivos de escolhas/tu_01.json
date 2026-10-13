@@ -1,0 +1,35 @@
+{
+  "arquivo": "tu_01",
+  "total": 3,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*dummyselect1",
+      "texto_jp": "ゲームのチュートリアルを見ますか？",
+      "texto_en": "Would you like to view the game tutorial?",
+      "texto_ptbr": "Você gostaria de ver o tutorial do jogo?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*dummyselect1",
+      "texto_jp": "見る",
+      "texto_en": "Yes",
+      "texto_ptbr": "Sim",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*dummyselect1",
+      "texto_jp": "見ない",
+      "texto_en": "No",
+      "texto_ptbr": "Não",
+      "selidx": 1
+    }
+  ]
+}

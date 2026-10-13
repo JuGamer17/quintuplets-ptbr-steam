@@ -1,0 +1,45 @@
+{
+  "arquivo": "gr_06_03",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "フータロー？",
+      "texto_en": "Futaro?",
+      "texto_ptbr": "Fuutarou?"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "どっちでもいいだろ",
+      "texto_en": "I don't care either way.",
+      "texto_ptbr": "Tanto faz.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ゆいレールに乗ろうぜ",
+      "texto_en": "Let's take the Yui Rail.",
+      "texto_ptbr": "Vamos pegar o Yui Rail.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "バスに乗っておかないか？",
+      "texto_en": "Why don't we take the bus?",
+      "texto_ptbr": "Que tal pegar o ônibus?",
+      "selidx": 2
+    }
+  ]
+}

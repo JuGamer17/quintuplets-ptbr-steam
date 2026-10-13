@@ -1,0 +1,390 @@
+{
+  "arquivo": "ca06_mv3_02",
+  "total": 64,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Oh, you guys are over here.",
+      "texto_ptbr": "Ah, vocês estão aqui."
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, Uesugi-kun?\\nWhat are you doing here?",
+      "texto_ptbr": "Ah, Uesugi-kun?\\nO que você está fazendo aqui?"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "You were just talking about the Ferris Wheel earlier,\\nso I thought I'd check it out.",
+      "texto_ptbr": "Vocês estavam falando da roda-gigante agora há pouco,\\nentão pensei em dar uma olhada."
+    },
+    {
+      "id": 3,
+      "personagem": "Itsuki",
+      "texto_en": "You were listening?\\nWe have to be careful not to let our guard down.",
+      "texto_ptbr": "Você estava ouvindo?\\nTemos que tomar cuidado pra não baixar a guarda."
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Weren't you guys supposed to go to the ice cream shop?",
+      "texto_ptbr": "Vocês não iam à sorveteria?"
+    },
+    {
+      "id": 5,
+      "personagem": "Itsuki",
+      "texto_en": "We have plenty of time.\\nWe plan to enjoy the town's scenery on the way there.",
+      "texto_ptbr": "Temos bastante tempo.\\nPretendemos curtir a paisagem da cidade no caminho."
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "(Since they didn't go straight to the\\n ice cream shop, there's a high possibility\\n these two are not Itsuki...right?)",
+      "texto_ptbr": "(Como elas não foram direto pra\\n sorveteria, há uma grande chance\\n de que essas duas não sejam a Itsuki... certo?)"
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "(Alright, let's try something.)",
+      "texto_ptbr": "(Certo, vamos tentar uma coisa.)"
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Ah, come to think of it,\\nwe rode the Ferris Wheel together before.",
+      "texto_ptbr": "Ah, pensando bem,\\nnós já andamos juntos na roda-gigante antes."
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "I'm sorry, I don't recall such a memory.",
+      "texto_ptbr": "Desculpe, não me lembro disso."
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "Are you perhaps mistaking me for someone else?",
+      "texto_ptbr": "Por acaso você está me confundindo com outra pessoa?"
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Oh, was that not you?",
+      "texto_ptbr": "Ah, não era você?"
+    },
+    {
+      "id": 12,
+      "personagem": "Futaro",
+      "texto_en": "(No one recognized that,\\n so it's likely neither of them are Yotsuba.)",
+      "texto_ptbr": "(Ninguém reconheceu isso,\\n então provavelmente nenhuma das duas é a Yotsuba.)"
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "(Hold on, wait.\\n Even if one of them were Yotsuba, she's now\\n acting as 'Itsuki,' so she wouldn't know...)",
+      "texto_ptbr": "(Peraí, espera.\\n Mesmo que uma delas fosse a Yotsuba, agora ela está\\n fingindo ser a 'Itsuki', então ela não ia dizer que sabe...)"
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "Is everything okay?",
+      "texto_ptbr": "Está tudo bem?"
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "No, it's nothing.",
+      "texto_ptbr": "Não, não é nada."
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "(This is surprisingly tricky...)",
+      "texto_ptbr": "(Isso é surpreendentemente difícil...)"
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "Since there's a Ferris Wheel here,\\nwhy don't we give it a try? Not only can we see \\nthe scenery of the town but also the Okinawan ocean.",
+      "texto_ptbr": "Já que tem uma roda-gigante aqui,\\npor que não experimentamos? Dá pra ver não só \\na paisagem da cidade, mas também o mar de Okinawa."
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "In that case, why don't we ride it at night, then?",
+      "texto_ptbr": "Nesse caso, por que não andamos nela à noite, então?"
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "At night? But then,\\nit'll be too dark to see the view.",
+      "texto_ptbr": "À noite? Mas aí\\nvai estar escuro demais pra ver a vista."
+    },
+    {
+      "id": 21,
+      "personagem": "Itsuki",
+      "texto_en": "Normally, that would be the case.\\nHowever, during this time, the entire \\ncity is decorated with light displays.",
+      "texto_ptbr": "Normalmente seria assim.\\nMas nesta época, a cidade inteira \\nfica decorada com iluminações."
+    },
+    {
+      "id": 22,
+      "personagem": "Itsuki",
+      "texto_en": "Each area has a unique theme,\\nso it should be romantic\\nfrom the Ferris Wheel's perspective.",
+      "texto_ptbr": "Cada região tem um tema próprio,\\nentão deve ser romântico\\nvisto da roda-gigante."
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "(...I feel like Nino would know \\n this kind of information, right?)",
+      "texto_ptbr": "(...Acho que a Nino saberia \\n esse tipo de informação, né?)"
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "There's that kind of event, huh?",
+      "texto_ptbr": "Existe esse tipo de evento, é?"
+    },
+    {
+      "id": 25,
+      "personagem": "Itsuki",
+      "texto_en": "When I think of Okinawa,\\nI imagined seeing the clear blue skies, \\nnot the night view. ",
+      "texto_ptbr": "Quando penso em Okinawa,\\nimaginava ver o céu azul e limpo, \\nnão a vista noturna. "
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "I see. Light displays, huh? That does sound beautiful.",
+      "texto_ptbr": "Entendi. Iluminações, é? Isso parece lindo mesmo."
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "However, even the lights of everyday life \\nshouldn't be disregarded.\\nThey're proof of human existence.",
+      "texto_ptbr": "Porém, até as luzes do dia a dia \\nnão devem ser desprezadas.\\nElas são a prova da existência humana."
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "If you think about it that way,\\neven a regular night view can look beautiful.",
+      "texto_ptbr": "Se pensar assim,\\naté uma vista noturna comum pode ficar linda."
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "...That's true. This is a tourist destination,\\nbut there are also many people\\nliving their daily lives here.",
+      "texto_ptbr": "...É verdade. Aqui é um destino turístico,\\nmas também há muitas pessoas\\nvivendo o dia a dia por aqui."
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "I see...",
+      "texto_ptbr": "Entendo..."
+    },
+    {
+      "id": 31,
+      "personagem": "Itsuki",
+      "texto_en": "We have to be conscious of the fact\\nthat we are guests in this place.",
+      "texto_ptbr": "Precisamos ter consciência de que\\nsomos visitantes neste lugar."
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, if we forget that,\\nwe might unintentionally cause trouble.",
+      "texto_ptbr": "Sim, se esquecermos disso,\\npodemos acabar causando problemas sem querer."
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "What? You're suddenly serious?",
+      "texto_ptbr": "O quê? De repente você ficou séria?"
+    },
+    {
+      "id": 34,
+      "personagem": "Itsuki",
+      "texto_en": "...Are you making fun of me?",
+      "texto_ptbr": "...Está tirando sarro de mim?"
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "No, that's not what I meant.\\nI was just a little surprised.",
+      "texto_ptbr": "Não, não foi isso que eu quis dizer.\\nSó fiquei um pouco surpreso."
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "Come on...\\nEven I think about such things.",
+      "texto_ptbr": "Ah, qual é...\\nAté eu penso nessas coisas."
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "When you come to a tourist spot,\\nyou have to be careful not to go overboard.",
+      "texto_ptbr": "Quando se vai a um ponto turístico,\\né preciso tomar cuidado pra não exagerar."
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "It should be a good memory for us\\nif we're accepted by the locals.",
+      "texto_ptbr": "Vai ser uma boa lembrança pra nós\\nse formos aceitos pelos moradores."
+    },
+    {
+      "id": 39,
+      "personagem": "Itsuki",
+      "texto_en": "That's why we have to enjoy\\nthe local specialties too, right?",
+      "texto_ptbr": "É por isso que temos que aproveitar\\nas especialidades locais também, né?"
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "That's the kind of thing you tend to forget.\\nEven though it's just common sense.",
+      "texto_ptbr": "É o tipo de coisa que a gente costuma esquecer.\\nApesar de ser só bom senso."
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "You get strangely excited\\nwhen it comes to traveling.",
+      "texto_ptbr": "Você fica estranhamente animado\\nquando o assunto é viajar."
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "I-I don't want to hear that from you!",
+      "texto_ptbr": "E-eu não quero ouvir isso de você!"
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "Heheh.\\nLet's both behave properly on this trip.",
+      "texto_ptbr": "Hehe.\\nVamos os dois nos comportar direito nessa viagem."
+    },
+    {
+      "id": 44,
+      "personagem": "Futaro",
+      "texto_en": "When you come to a tourist spot,\\nyou have to be careful not to go overboard.",
+      "texto_ptbr": "Quando se vai a um ponto turístico,\\né preciso tomar cuidado pra não exagerar."
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "It should be a good memory for us\\nif we're accepted by the locals.",
+      "texto_ptbr": "Vai ser uma boa lembrança pra nós\\nse formos aceitos pelos moradores."
+    },
+    {
+      "id": 46,
+      "personagem": "Itsuki",
+      "texto_en": "That's why we have to enjoy\\nthe local specialties too, right?",
+      "texto_ptbr": "É por isso que temos que aproveitar\\nas especialidades locais também, né?"
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "It's important to have that kind of awareness.\\nWe both want to have a pleasant exchange.",
+      "texto_ptbr": "É importante ter esse tipo de consciência.\\nNós dois queremos ter uma interação agradável."
+    },
+    {
+      "id": 48,
+      "personagem": "Itsuki",
+      "texto_en": "That's right.\\nAfter all, we're just tourists.",
+      "texto_ptbr": "Isso mesmo.\\nAfinal, somos só turistas."
+    },
+    {
+      "id": 49,
+      "personagem": "Itsuki",
+      "texto_en": "We also need to have a humble attitude\\nthat allows us to learn about the local area.",
+      "texto_ptbr": "Também precisamos ter uma postura humilde\\nque nos permita aprender sobre a região."
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "When you come to a tourist spot,\\nyou have to be careful not to go overboard.",
+      "texto_ptbr": "Quando se vai a um ponto turístico,\\né preciso tomar cuidado pra não exagerar."
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "It should be a good memory for us\\nif we're accepted by the locals.",
+      "texto_ptbr": "Vai ser uma boa lembrança pra nós\\nse formos aceitos pelos moradores."
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "That's why we have to enjoy\\nthe local specialties too, right?",
+      "texto_ptbr": "É por isso que temos que aproveitar\\nas especialidades locais também, né?"
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "...Hm?\\nHow does that work out?",
+      "texto_ptbr": "...Hm?\\nComo isso funciona?"
+    },
+    {
+      "id": 54,
+      "personagem": "Itsuki",
+      "texto_en": "Knowing food is knowing the history of the land.",
+      "texto_ptbr": "Conhecer a comida é conhecer a história do lugar."
+    },
+    {
+      "id": 55,
+      "personagem": "Itsuki",
+      "texto_en": "Eating the same things as the locals\\nis what truly makes you accepted.",
+      "texto_ptbr": "Comer as mesmas coisas que os moradores\\né o que realmente faz você ser aceito."
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "(Is this Itsuki, and her obsession with food?)",
+      "texto_ptbr": "(Isso é a Itsuki e a obsessão dela por comida?)"
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "(But the way it was said just now,\\n seems a bit like Miku...)",
+      "texto_ptbr": "(Mas o jeito que ela falou agora há pouco\\n lembra um pouco a Miku...)"
+    },
+    {
+      "id": 58,
+      "personagem": "Itsuki",
+      "texto_en": "When it comes to local food, there's an old-fashioned\\nOkinawan snack called 'muchi,' you know?",
+      "texto_ptbr": "Falando de comida local, existe um lanche\\nantigo de Okinawa chamado 'muchi', sabia?"
+    },
+    {
+      "id": 59,
+      "personagem": "Itsuki",
+      "texto_en": "There's even a 'muchi Day' where people eat it\\nto ward off bad luck, and pray for good health.",
+      "texto_ptbr": "Existe até um 'Dia do muchi' em que as pessoas comem\\npra afastar o azar e rezar por boa saúde."
+    },
+    {
+      "id": 60,
+      "personagem": "Itsuki",
+      "texto_en": "It's kind of like a sweet rice cake.\\nAnd apparently, there are flavors like \\nbrown sugar and purple sweet potato.",
+      "texto_ptbr": "É meio como um bolinho de arroz doce.\\nE pelo visto tem sabores como \\naçúcar mascavo e batata-doce roxa."
+    },
+    {
+      "id": 61,
+      "personagem": "Itsuki",
+      "texto_en": "Hmm...\\nI definitely want to try that.",
+      "texto_ptbr": "Hmm...\\nQuero muito provar isso."
+    },
+    {
+      "id": 62,
+      "personagem": "Itsuki",
+      "texto_en": "Yes!\\nLet's see if we can find it for sale.",
+      "texto_ptbr": "Isso!\\nVamos ver se encontramos à venda."
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "(This Itsuki is also talking about food.\\n It seems like they're two peas in a pod...)",
+      "texto_ptbr": "(Essa Itsuki também está falando de comida.\\n Parece que elas são farinha do mesmo saco...)"
+    }
+  ]
+}

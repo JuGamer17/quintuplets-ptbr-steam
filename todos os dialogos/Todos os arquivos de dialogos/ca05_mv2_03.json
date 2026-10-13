@@ -1,0 +1,462 @@
+{
+  "arquivo": "ca05_mv2_03",
+  "total": 76,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Miku",
+      "texto_en": "This is that Shurijo Castle we went to earlier.",
+      "texto_ptbr": "Esse é aquele Castelo Shurijo que a gente foi mais cedo."
+    },
+    {
+      "id": 1,
+      "personagem": "Nino",
+      "texto_en": "Ah! There's also a picture of Umikaji Terrace!",
+      "texto_ptbr": "Ah! Também tem uma imagem do Umikaji Terrace!"
+    },
+    {
+      "id": 2,
+      "personagem": "Nino",
+      "texto_en": "I understand how the artist feels.\\nThe scenery of this place makes you want to draw it.",
+      "texto_ptbr": "Eu entendo como o artista se sente.\\nA paisagem daqui dá vontade de desenhar."
+    },
+    {
+      "id": 3,
+      "personagem": "Miku",
+      "texto_en": "Yeah, I took a photo at the same spot.",
+      "texto_ptbr": "É, eu tirei uma foto no mesmo lugar."
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Nino and Miku, eh.\\nWhat are you looking at?",
+      "texto_ptbr": "Nino e Miku, hein.\\nO que vocês estão olhando?"
+    },
+    {
+      "id": 5,
+      "personagem": "Miku",
+      "texto_en": "Ah, it's you two.",
+      "texto_ptbr": "Ah, são vocês dois."
+    },
+    {
+      "id": 6,
+      "personagem": "Nino",
+      "texto_en": "Oh, we're looking at hand-drawn postcards.\\nLook, they have illustrations of Okinawa's scenery.",
+      "texto_ptbr": "Ah, a gente está olhando uns cartões-postais desenhados à mão.\\nOlha, tem ilustrações da paisagem de Okinawa."
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "Wow...\\nThe illustrations are really detailed.",
+      "texto_ptbr": "Uau...\\nAs ilustrações são bem detalhadas."
+    },
+    {
+      "id": 8,
+      "personagem": "Nino",
+      "texto_en": "It seems like a local artist drew them.\\nIt's because they're familiar with the scenery.",
+      "texto_ptbr": "Parece que foi um artista local que desenhou.\\nÉ porque eles conhecem bem a paisagem."
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, all of them evoke the scenery of each place.",
+      "texto_ptbr": "É, todas elas transmitem a paisagem de cada lugar."
+    },
+    {
+      "id": 10,
+      "personagem": "Miku",
+      "texto_en": "What about this big bridge...\\nThe name's written, but how do you read it?",
+      "texto_ptbr": "E essa ponte grande...\\nO nome está escrito, mas como se lê?"
+    },
+    {
+      "id": 11,
+      "personagem": "Nino",
+      "texto_en": "Oh, that's Kouri Bridge.",
+      "texto_ptbr": "Ah, essa é a Ponte Kouri."
+    },
+    {
+      "id": 12,
+      "personagem": "Miku",
+      "texto_en": "You know your stuff.",
+      "texto_ptbr": "Você entende bem do assunto."
+    },
+    {
+      "id": 13,
+      "personagem": "Nino",
+      "texto_en": "I wanted to visit Kouri Island,\\nso I did some research. Well, it doesn't seem\\nlike we'll have the chance this time.",
+      "texto_ptbr": "Eu queria visitar a Ilha Kouri,\\nentão pesquisei um pouco. Bom, parece que\\nnão vamos ter a chance dessa vez."
+    },
+    {
+      "id": 14,
+      "personagem": "Futaro",
+      "texto_en": "I heard it's a famous scenic spot in Okinawa,\\nwith a bridge that spans over the sea.\\nI can understand why just by looking at this picture.",
+      "texto_ptbr": "Ouvi dizer que é um ponto turístico famoso de Okinawa,\\ncom uma ponte que atravessa o mar.\\nDá pra entender só olhando essa imagem."
+    },
+    {
+      "id": 15,
+      "personagem": "Itsuki",
+      "texto_en": "What about this one... Is it the Blue Cave?",
+      "texto_ptbr": "E essa aqui... É a Caverna Azul?"
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "I've heard of that too. Isn't it a famous diving spot?",
+      "texto_ptbr": "Já ouvi falar dessa também. Não é um ponto famoso de mergulho?"
+    },
+    {
+      "id": 17,
+      "personagem": "Nino",
+      "texto_en": "This forest-like illustration over here is beautiful too.",
+      "texto_ptbr": "Essa ilustração parecida com uma floresta aqui também é linda."
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "I wonder where it is%p-2;――",
+      "texto_ptbr": "Eu me pergunto onde fica%p-2;――"
+    },
+    {
+      "id": 19,
+      "personagem": "Miku",
+      "texto_en": "There really are so many famous places in Okinawa.\\nWith so many views I've never seen before.",
+      "texto_ptbr": "Tem realmente muitos lugares famosos em Okinawa.\\nCom tantas vistas que eu nunca tinha visto antes."
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "But I don't think everything in Okinawa\\nis illustrated in these postcards.",
+      "texto_ptbr": "Mas acho que nem tudo de Okinawa\\nestá ilustrado nesses cartões-postais."
+    },
+    {
+      "id": 21,
+      "personagem": "Itsuki",
+      "texto_en": "If we want to fully enjoy Okinawa,\\nwe'll need more than just a few days.",
+      "texto_ptbr": "Se a gente quiser aproveitar Okinawa de verdade,\\nvai precisar de mais do que só alguns dias."
+    },
+    {
+      "id": 22,
+      "personagem": "Miku",
+      "texto_en": "Maybe we should have taken a longer trip.\\nThen we could have gone to more places.",
+      "texto_ptbr": "Talvez a gente devesse ter feito uma viagem mais longa.\\nAí a gente podia ter ido pra mais lugares."
+    },
+    {
+      "id": 23,
+      "personagem": "Nino",
+      "texto_en": "Well, why don't we rent a villa\\nand stay for about a month?\\nThat would be a great way to fully enjoy Okinawa.",
+      "texto_ptbr": "Bom, que tal a gente alugar uma casa\\ne ficar cerca de um mês?\\nSeria uma ótima forma de aproveitar Okinawa de verdade."
+    },
+    {
+      "id": 24,
+      "personagem": "Miku",
+      "texto_en": "That's a great idea.\\nIt would be the ultimate trip to enjoy Okinawa.",
+      "texto_ptbr": "É uma ótima ideia.\\nSeria a viagem definitiva pra aproveitar Okinawa."
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "(Renting a villa for a month...\\n That's a trip I can't even imagine as a commoner...)",
+      "texto_ptbr": "(Alugar uma casa por um mês...\\n É uma viagem que eu nem consigo imaginar sendo um plebeu...)"
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "Th-that's not good, is it?!",
+      "texto_ptbr": "I-isso não é uma boa ideia, é?!"
+    },
+    {
+      "id": 27,
+      "personagem": "Nino",
+      "texto_en": "Huh? Why?",
+      "texto_ptbr": "Hã? Por quê?"
+    },
+    {
+      "id": 28,
+      "personagem": "Miku",
+      "texto_en": "I think it'd be fun.",
+      "texto_ptbr": "Acho que seria divertido."
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "B-because! Living under one roof with a man...\\nthat's not appropriate, is it?",
+      "texto_ptbr": "P-porque! Morar sob o mesmo teto que um homem...\\nnão é apropriado, é?"
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "WHAAA?!",
+      "texto_ptbr": "QUÊÊÊ?!"
+    },
+    {
+      "id": 31,
+      "personagem": "Nino",
+      "texto_en": "Oh, I see what you mean.",
+      "texto_ptbr": "Ah, entendo o que você quer dizer."
+    },
+    {
+      "id": 32,
+      "personagem": "Miku",
+      "texto_en": "You've lived on a deserted island with Futaro before,\\nso it's too late to be worried about that now.",
+      "texto_ptbr": "Você já morou numa ilha deserta com o Futaro antes,\\nentão já é tarde demais pra se preocupar com isso agora."
+    },
+    {
+      "id": 33,
+      "personagem": "Itsuki",
+      "texto_en": "Ooh...\\nWell, that's true...",
+      "texto_ptbr": "Ooh...\\nBom, isso é verdade..."
+    },
+    {
+      "id": 34,
+      "personagem": "Nino",
+      "texto_en": "Besides, you're blushing over something like this?",
+      "texto_ptbr": "Além disso, você está ficando vermelha por uma coisa dessas?"
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 36,
+      "personagem": "Nino",
+      "texto_en": "In the end, you're going to live with Fu-kun, right?",
+      "texto_ptbr": "No final das contas, você vai morar com o Fu-kun, né?"
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "Ah...",
+      "texto_ptbr": "Ah..."
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "L-living together!",
+      "texto_ptbr": "M-morar juntos!"
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "What are you getting all red for?\\nDon't imagine weird things.",
+      "texto_ptbr": "Por que você está ficando toda vermelha?\\nNão fica imaginando coisa estranha."
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "I-I-I, I wasn't imagining anything weird!\\nI was just imagining normal things!",
+      "texto_ptbr": "E-e-eu, eu não estava imaginando nada estranho!\\nEu estava só imaginando coisas normais!"
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "What exactly do you mean by 'normal'?",
+      "texto_ptbr": "O que exatamente você quer dizer com 'normais'?"
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "(But, well, as Nino said...\\n that day might come eventually.)",
+      "texto_ptbr": "(Mas, bom, como a Nino disse...\\n esse dia pode chegar eventualmente.)"
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "Even so, it's hard to imagine\\nsomething so far off in the future.",
+      "texto_ptbr": "Mesmo assim, é difícil imaginar\\numa coisa tão distante no futuro."
+    },
+    {
+      "id": 44,
+      "personagem": "Itsuki",
+      "texto_en": "Imagining it is certainly difficult, but%p-2;――",
+      "texto_ptbr": "Imaginar isso é realmente difícil, mas%p-2;――"
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "Well, eventually.\\nThat time might come too.",
+      "texto_ptbr": "Bom, eventualmente.\\nEsse momento também pode chegar."
+    },
+    {
+      "id": 46,
+      "personagem": "Miku",
+      "texto_en": "You're not denying it.",
+      "texto_ptbr": "Você não está negando."
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "There's no need to deny it, right?\\nIf you think about the future.",
+      "texto_ptbr": "Não tem necessidade de negar, né?\\nSe a gente pensar no futuro."
+    },
+    {
+      "id": 48,
+      "personagem": "Itsuki",
+      "texto_en": "Y-yeah...",
+      "texto_ptbr": "É-é..."
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "Even so, it's hard to imagine\\nsomething so far off in the future.",
+      "texto_ptbr": "Mesmo assim, é difícil imaginar\\numa coisa tão distante no futuro."
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "Imagining it is certainly difficult, but%p-2;――",
+      "texto_ptbr": "Imaginar isso é realmente difícil, mas%p-2;――"
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "Living together, like a family...",
+      "texto_ptbr": "Morar juntos, como uma família..."
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "A f-family?!",
+      "texto_ptbr": "U-uma família?!"
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "I mean, Itsuki, um...\\nYou did say you were considering marriage, right?",
+      "texto_ptbr": "Quer dizer, Itsuki, hum...\\nVocê disse que estava considerando casamento, né?"
+    },
+    {
+      "id": 54,
+      "personagem": "Nino",
+      "texto_en": "Yeah, she did say that.",
+      "texto_ptbr": "É, ela disse isso mesmo."
+    },
+    {
+      "id": 55,
+      "personagem": "Itsuki",
+      "texto_en": "F-family...",
+      "texto_ptbr": "F-família..."
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "...Itsuki?",
+      "texto_ptbr": "...Itsuki?"
+    },
+    {
+      "id": 57,
+      "personagem": "Itsuki",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 58,
+      "personagem": "Miku",
+      "texto_en": "She's frozen.",
+      "texto_ptbr": "Ela travou."
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "H-hey, are you alright?",
+      "texto_ptbr": "E-ei, você está bem?"
+    },
+    {
+      "id": 60,
+      "personagem": "Itsuki",
+      "texto_en": "WHAAA!!",
+      "texto_ptbr": "QUÊÊÊ!!"
+    },
+    {
+      "id": 61,
+      "personagem": "Itsuki",
+      "texto_en": "E-excuse me, I'm alright.\\nI'm back to my senses.",
+      "texto_ptbr": "M-me desculpa, estou bem.\\nVoltei a mim."
+    },
+    {
+      "id": 62,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, some day when I actually live with you, Uesu%p-2;――\\n%p;Futaro...",
+      "texto_ptbr": "Sim, algum dia quando eu realmente morar com você, Uesu%p-2;――\\n%p;Futaro..."
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "Even so, it's hard to imagine\\nsomething so far off in the future.",
+      "texto_ptbr": "Mesmo assim, é difícil imaginar\\numa coisa tão distante no futuro."
+    },
+    {
+      "id": 64,
+      "personagem": "Itsuki",
+      "texto_en": "Imagining it is certainly difficult, but%p-2;――",
+      "texto_ptbr": "Imaginar isso é realmente difícil, mas%p-2;――"
+    },
+    {
+      "id": 65,
+      "personagem": "Itsuki",
+      "texto_en": "I'm sure it will be a fun life together.\\nNo, I'll definitely make it happen!",
+      "texto_ptbr": "Tenho certeza que vai ser uma vida divertida juntos.\\nNão, eu definitivamente vou fazer isso acontecer!"
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "Y-yeah, I think so too.",
+      "texto_ptbr": "É-é, eu também acho."
+    },
+    {
+      "id": 67,
+      "personagem": "Futaro",
+      "texto_en": "(I can't imagine what it will be like,\\n but as Itsuki said, it's definitely going to be fun.)",
+      "texto_ptbr": "(Eu não consigo imaginar como vai ser,\\n mas como a Itsuki disse, com certeza vai ser divertido.)"
+    },
+    {
+      "id": 68,
+      "personagem": "Itsuki",
+      "texto_en": "W-what do you think?\\nWhy not start thinking about furniture now?\\nLike what kind of sofa we want!",
+      "texto_ptbr": "O-o que você acha?\\nPor que não começar a pensar em móveis agora?\\nTipo, que tipo de sofá a gente quer!"
+    },
+    {
+      "id": 69,
+      "personagem": "Futaro",
+      "texto_en": "I think it's a bit too early for that...\\nBut as long as it's comfortable to sit on,\\nI don't really mind.",
+      "texto_ptbr": "Acho que é um pouco cedo pra isso...\\nMas contanto que seja confortável pra sentar,\\nnão me importo muito."
+    },
+    {
+      "id": 70,
+      "personagem": "Itsuki",
+      "texto_en": "Isn't that too broad of a range?!",
+      "texto_ptbr": "Isso não é uma resposta muito genérica?!"
+    },
+    {
+      "id": 71,
+      "personagem": "Miku",
+      "texto_en": "...It's becoming their own little space, isn't it.",
+      "texto_ptbr": "...Está virando o mundinho particular deles, né."
+    },
+    {
+      "id": 72,
+      "personagem": "Nino",
+      "texto_en": "Geez.\\nI was just trying to tease them a little,\\nand they had to go and show me up like this.",
+      "texto_ptbr": "Ai, meu Deus.\\nEu só estava tentando provocar eles um pouco,\\ne eles tinham que me superar desse jeito."
+    },
+    {
+      "id": 73,
+      "personagem": "Miku",
+      "texto_en": "But, as I mentioned earlier,\\nit's surprising how proactive Itsuki has become.",
+      "texto_ptbr": "Mas, como eu já falei antes,\\né surpreendente como a Itsuki ficou proativa."
+    },
+    {
+      "id": 74,
+      "personagem": "Miku",
+      "texto_en": "I feel like she's changed since coming to Okinawa.\\nI don't know why, though.",
+      "texto_ptbr": "Sinto que ela mudou desde que a gente veio pra Okinawa.\\nMas não sei o motivo."
+    },
+    {
+      "id": 75,
+      "personagem": "Nino",
+      "texto_en": "In any case, I want her to consider\\nthe timing and situation.",
+      "texto_ptbr": "De qualquer forma, eu queria que ela considerasse\\no momento e a situação."
+    }
+  ]
+}

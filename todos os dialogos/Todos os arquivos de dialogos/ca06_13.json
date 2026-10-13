@@ -1,0 +1,402 @@
+{
+  "arquivo": "ca06_13",
+  "total": 66,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "*yawn*",
+      "texto_ptbr": "*bocejo*"
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "(In the end, I fell asleep and woke up in the morning.\\n I slept well and my body feels refreshed, but...\\n My mind still feels foggy.)",
+      "texto_ptbr": "(No fim, acabei dormindo e acordei de manhã.\\n Dormi bem e meu corpo está descansado, mas...\\n Minha mente ainda está meio embaçada.)"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "(Today's sightseeing spot is American Village, isn't it.\\n ...I need to pull myself together.)",
+      "texto_ptbr": "(O ponto turístico de hoje é a American Village, não é.\\n ...Preciso me recompor.)"
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "(Last night, I didn't have complete confidence,\\n but I realized my feelings a little bit...)",
+      "texto_ptbr": "(Ontem à noite, eu não tinha total confiança,\\n mas percebi um pouco dos meus sentimentos...)"
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "(I only have three days left.\\n I need to figure out my true feelings\\n for them, and give my answer.)",
+      "texto_ptbr": "(Só me restam três dias.\\n Preciso descobrir meus verdadeiros sentimentos\\n por elas, e dar minha resposta.)"
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "Alright, time to psych myself up.",
+      "texto_ptbr": "Certo, hora de me motivar."
+    },
+    {
+      "id": 6,
+      "personagem": "???",
+      "texto_en": "Good morning.",
+      "texto_ptbr": "Bom dia."
+    },
+    {
+      "id": 7,
+      "personagem": "Futaro",
+      "texto_en": "Yo.\\nGood mo%p-2;――",
+      "texto_ptbr": "E aí.\\nBom di%p-2;――"
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "Huh?",
+      "texto_ptbr": "Hã?"
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "Good morning.\\nIt's a beautiful day for sightseeing today, isn't it?",
+      "texto_ptbr": "Bom dia.\\nEstá um dia lindo para passear hoje, não está?"
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "Did you sleep well last night?",
+      "texto_ptbr": "Você dormiu bem ontem à noite?"
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Well, I guess...",
+      "texto_ptbr": "Bem, acho que sim..."
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "Why are you making that face this morning?",
+      "texto_ptbr": "Por que essa cara essa manhã?"
+    },
+    {
+      "id": 13,
+      "personagem": "Itsuki",
+      "texto_en": "If you're still feeling groggy, go wash your face.",
+      "texto_ptbr": "Se ainda estiver meio grogue, vá lavar o rosto."
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "In the meantime,\\nlet's decide what we want to do for breakfast.",
+      "texto_ptbr": "Enquanto isso,\\nvamos decidir o que vamos querer no café da manhã."
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 16,
+      "personagem": "Futaro",
+      "texto_en": "H-hey, Itsuki?\\nStop joking around, okay?",
+      "texto_ptbr": "E-ei, Itsuki?\\nPara de brincadeira, tá?"
+    },
+    {
+      "id": 17,
+      "personagem": "Itsuki",
+      "texto_en": "What do you mean by joking around?",
+      "texto_ptbr": "Como assim, brincadeira?"
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "You must be hungry too, Uesugi-kun!",
+      "texto_ptbr": "Você também deve estar com fome, Uesugi-kun!"
+    },
+    {
+      "id": 19,
+      "personagem": "Itsuki",
+      "texto_en": "Indeed.\\nThe start of the day\\nshould always begin with a delicious breakfast.",
+      "texto_ptbr": "De fato.\\nO começo do dia\\ndeve sempre começar com um café da manhã delicioso."
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "We had Okinawan cuisine last night,\\nso what should we have today?",
+      "texto_ptbr": "Comemos comida okinawana ontem à noite,\\nentão o que devemos comer hoje?"
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "Hey...\\nIf you're not joking, then what's going on?",
+      "texto_ptbr": "Ei...\\nSe você não está brincando, então o que está acontecendo?"
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "What's with this nightmare?\\nCould I still be dreaming?",
+      "texto_ptbr": "Que pesadelo é esse?\\nSerá que ainda estou sonhando?"
+    },
+    {
+      "id": 23,
+      "personagem": "Itsuki",
+      "texto_en": "It's no dream, you know.",
+      "texto_ptbr": "Não é sonho, sabia?"
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "...I see, this is quite troublesome.\\nIt makes me wonder what's going to happen next.",
+      "texto_ptbr": "...Entendo, isso é bem incômodo.\\nMe faz pensar no que vai acontecer a seguir."
+    },
+    {
+      "id": 25,
+      "personagem": "Itsuki",
+      "texto_en": "Do you still not understand, Uesugi-kun?",
+      "texto_ptbr": "Você ainda não entendeu, Uesugi-kun?"
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "Could it be...\\nThis is the trial you were talking about yesterday?",
+      "texto_ptbr": "Será que...\\nEsse é o teste de que você falou ontem?"
+    },
+    {
+      "id": 27,
+      "personagem": "Futaro",
+      "texto_en": "Even so, to come this far\\nonly to end up playing your famous quintuplets game.",
+      "texto_ptbr": "Mesmo assim, chegar até aqui\\nsó para acabar jogando o famoso jogo das quintuplas de vocês."
+    },
+    {
+      "id": 28,
+      "personagem": "Itsuki",
+      "texto_en": "Surely you don't think so%p-2;――\\n%p;but, by any chance, can you not tell who it is\\nyou have feelings for?",
+      "texto_ptbr": "Claro que você não pensa assim%p-2;――\\n%p;mas, por acaso, você não consegue dizer\\npor quem você sente algo?"
+    },
+    {
+      "id": 29,
+      "personagem": "Itsuki",
+      "texto_en": "Of course, THAT'S not possible. ",
+      "texto_ptbr": "Claro, ISSO não é possível. "
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "What're your intentions?\\nSurely, there must be a purpose behind all of this.",
+      "texto_ptbr": "Quais são suas intenções?\\nCom certeza deve haver um propósito por trás de tudo isso."
+    },
+    {
+      "id": 31,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, that's correct.",
+      "texto_ptbr": "Sim, isso mesmo."
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "You already know what it is, don't you?",
+      "texto_ptbr": "Você já sabe qual é, não sabe?"
+    },
+    {
+      "id": 33,
+      "personagem": "Futaro",
+      "texto_en": "...I see.\\nSo that's what you meant by a trial.",
+      "texto_ptbr": "...Entendo.\\nEntão era isso que você quis dizer com teste."
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "Even so, to come this far\\nonly to end up playing your famous quintuplets game.",
+      "texto_ptbr": "Mesmo assim, chegar até aqui\\nsó para acabar jogando o famoso jogo das quintuplas de vocês."
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "Surely you don't think so%p-2;――\\n%p;but, by any chance, can you not tell who it is\\nyou have feelings for?",
+      "texto_ptbr": "Claro que você não pensa assim%p-2;――\\n%p;mas, por acaso, você não consegue dizer\\npor quem você sente algo?"
+    },
+    {
+      "id": 36,
+      "personagem": "Itsuki",
+      "texto_en": "Of course, THAT'S not possible. ",
+      "texto_ptbr": "Claro, ISSO não é possível. "
+    },
+    {
+      "id": 37,
+      "personagem": "Futaro",
+      "texto_en": "I see, so this is the trial, huh?",
+      "texto_ptbr": "Entendo, então esse é o teste, né?"
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "(If I'm going to choose someone,\\n then I need to try and figure out who it is...)",
+      "texto_ptbr": "(Se eu vou escolher alguém,\\n preciso tentar descobrir quem é...)"
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "I understand now.\\nSo what you were saying about\\n'testing my resolve' was about this.",
+      "texto_ptbr": "Agora entendi.\\nEntão era isso que você quis dizer com\\n'testar minha determinação'."
+    },
+    {
+      "id": 40,
+      "personagem": "Itsuki",
+      "texto_en": "Indeed.",
+      "texto_ptbr": "De fato."
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "You're as sharp as ever,\\nUesugi-kun.\\nI appreciate your straightforwardness.",
+      "texto_ptbr": "Você continua tão perceptivo quanto sempre,\\nUesugi-kun.\\nAprecio sua franqueza."
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Even so, to come this far\\nonly to end up playing your famous quintuplets game.",
+      "texto_ptbr": "Mesmo assim, chegar até aqui\\nsó para acabar jogando o famoso jogo das quintuplas de vocês."
+    },
+    {
+      "id": 43,
+      "personagem": "Itsuki",
+      "texto_en": "Surely you don't think so%p-2;――\\n%p;but, by any chance, can you not tell who it is\\nyou have feelings for?",
+      "texto_ptbr": "Claro que você não pensa assim%p-2;――\\n%p;mas, por acaso, você não consegue dizer\\npor quem você sente algo?"
+    },
+    {
+      "id": 44,
+      "personagem": "Itsuki",
+      "texto_en": "Of course, THAT'S not possible. ",
+      "texto_ptbr": "Claro, ISSO não é possível. "
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "Yes, that's right.\\nIf there is love,\\nthen you should be able to tell.",
+      "texto_ptbr": "Sim, isso mesmo.\\nSe existe amor,\\nvocê deveria conseguir perceber."
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "Your reasoning is as nonsensical as ever, but...\\nI feel like I understand your feelings now.",
+      "texto_ptbr": "Seu raciocínio continua tão sem sentido quanto sempre, mas...\\nSinto que entendo seus sentimentos agora."
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "So, can you tell who is who then?",
+      "texto_ptbr": "Então, você consegue dizer quem é quem?"
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "Naturally, this is a test that's unique to only you quintuplets.\\nAlright, let's do this thing.",
+      "texto_ptbr": "Naturalmente, esse é um teste exclusivo de vocês, quintuplas.\\nCerto, vamos fazer isso."
+    },
+    {
+      "id": 49,
+      "personagem": "Itsuki",
+      "texto_en": "Understood.\\nThen, let's start the quintuplets game, Okinawa version.",
+      "texto_ptbr": "Entendido.\\nEntão, vamos começar o jogo das quintuplas, versão Okinawa."
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "I'll explain the rules.",
+      "texto_ptbr": "Vou explicar as regras."
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "Alright, please.",
+      "texto_ptbr": "Certo, pode falar."
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "The final day will be your last chance to solve this\\nquintuplets game... In other words, the deadline\\nwill be the evening of the day after tomorrow.",
+      "texto_ptbr": "O último dia será sua última chance de resolver esse\\njogo das quintuplas... Em outras palavras, o prazo\\nserá a noite de depois de amanhã."
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "So that means there's three days, including today.",
+      "texto_ptbr": "Ou seja, são três dias, contando hoje."
+    },
+    {
+      "id": 54,
+      "personagem": "Itsuki",
+      "texto_en": "Yes.\\nWe'll be taking the plane back home in the morning\\nof the sixth day, so please keep that in mind.",
+      "texto_ptbr": "Sim.\\nVamos pegar o avião de volta para casa na manhã\\ndo sexto dia, então tenha isso em mente."
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, we're flying back that day, so that's obvious.",
+      "texto_ptbr": "É, vamos voltar de avião naquele dia, então isso é óbvio."
+    },
+    {
+      "id": 56,
+      "personagem": "Itsuki",
+      "texto_en": "The rest is simple. On the evening of the final day,\\nplease confess to the person you have chosen\\nbased on your answer.",
+      "texto_ptbr": "O resto é simples. Na noite do último dia,\\npor favor, se declare para a pessoa que você escolheu\\ncom base na sua resposta."
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "...Got it.",
+      "texto_ptbr": "...Entendi."
+    },
+    {
+      "id": 58,
+      "personagem": "Itsuki",
+      "texto_en": "However.",
+      "texto_ptbr": "Porém."
+    },
+    {
+      "id": 59,
+      "personagem": "Itsuki",
+      "texto_en": "If you confess to the wrong person,\\nthen the game will be considered a failure.",
+      "texto_ptbr": "Se você se declarar para a pessoa errada,\\no jogo será considerado um fracasso."
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "What happens if I fail?",
+      "texto_ptbr": "O que acontece se eu falhar?"
+    },
+    {
+      "id": 61,
+      "personagem": "Itsuki",
+      "texto_en": "Needless to say, your confession will be invalidated.\\nUnderstood?",
+      "texto_ptbr": "Nem preciso dizer, sua declaração será invalidada.\\nEntendido?"
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "(Originally, I intended to use these three days\\n to figure out my own feelings. My task hasn't changed.)",
+      "texto_ptbr": "(Originalmente, eu pretendia usar esses três dias\\n para descobrir meus próprios sentimentos. Minha tarefa não mudou.)"
+    },
+    {
+      "id": 63,
+      "personagem": "Futaro",
+      "texto_en": "(If there is love, then I should be able to tell%p-2;――\\n%p; Hmph, a perfect challenge!)",
+      "texto_ptbr": "(Se existe amor, então eu deveria conseguir perceber%p-2;――\\n%p; Hunf, um desafio perfeito!)"
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "Understood.\\nI'll accept your game, fair and square.",
+      "texto_ptbr": "Entendido.\\nVou aceitar o seu jogo, de forma justa."
+    },
+    {
+      "id": 65,
+      "personagem": "Itsuki",
+      "texto_en": "Then, let's begin the quintuplets game.\\nLet's enjoy Okinawa sightseeing today as well,\\nUesugi-kun.",
+      "texto_ptbr": "Então, vamos começar o jogo das quintuplas.\\nVamos aproveitar o passeio por Okinawa hoje também,\\nUesugi-kun."
+    }
+  ]
+}

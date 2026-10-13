@@ -1,0 +1,75 @@
+{
+  "arquivo": "ca01_mv1_01",
+  "total": 7,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "大切なことを思い出しただけだよ！\\nお財布の紐はしっかりしておかないと。\\nちゃんと家計簿つけたりしてさ。",
+      "texto_en": "Oh, I just remembered something important!\\nYou have to keep a tight hold on your wallet.\\nMaybe even keep track of your finances if you're on a budget.",
+      "texto_ptbr": "Ah, eu acabei de me lembrar de algo importante!\\nVocê tem que segurar firme a carteira.\\nTalvez até controlar as finanças se estiver com orçamento apertado."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "お前は稼いでるけどな",
+      "texto_en": "Although you're making good money.",
+      "texto_ptbr": "Embora você ganhe bem.",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "ああ、金銭感覚は大事だぞ",
+      "texto_en": "Yeah, having a sense for money is important.",
+      "texto_ptbr": "É, ter noção de dinheiro é importante.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "さすが一花はわかってるな",
+      "texto_en": "You really get it, Ichika.",
+      "texto_ptbr": "A Ichika realmente entende, hein.",
+      "selidx": 2
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "ショップＢ:一花:三玖",
+      "texto_en": "Shop B: Ichika/Miku",
+      "texto_ptbr": "Loja B: Ichika/Miku",
+      "selidx": 0
+    },
+    {
+      "id": 5,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "大通りＢ:二乃:五月",
+      "texto_en": "Main Street B: Nino/Itsuki",
+      "texto_ptbr": "Rua Principal B: Nino/Itsuki",
+      "selidx": 1
+    },
+    {
+      "id": 6,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "お土産屋:四葉:らいは",
+      "texto_en": "Souvenir Shop: Yotsuba/Raiha",
+      "texto_ptbr": "Loja de Souvenirs: Yotsuba/Raiha",
+      "selidx": 2
+    }
+  ]
+}

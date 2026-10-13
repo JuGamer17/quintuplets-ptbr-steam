@@ -1,0 +1,402 @@
+{
+  "arquivo": "ca04_mv2_03",
+  "total": 66,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Raiha",
+      "texto_en": "Where was it, Yotsuba-san?!",
+      "texto_ptbr": "Onde foi, Yotsuba-san?!"
+    },
+    {
+      "id": 1,
+      "personagem": "Yotsuba",
+      "texto_en": "It was around here! I definitely saw it!",
+      "texto_ptbr": "Foi por aqui! Eu vi com certeza!"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "...What are you guys doing?",
+      "texto_ptbr": "...O que vocês estão fazendo?"
+    },
+    {
+      "id": 3,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah, Uesugi-san!",
+      "texto_ptbr": "Ah, Uesugi-san!"
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "Raiha was with you, huh.\\nHave you finished talking?",
+      "texto_ptbr": "A Raiha estava com você, hein.\\nJá terminaram de conversar?"
+    },
+    {
+      "id": 5,
+      "personagem": "Yotsuba",
+      "texto_en": "Yes, we're finished.",
+      "texto_ptbr": "Sim, já terminamos."
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "So, what are you doing?\\nDid you see something in the ocean?",
+      "texto_ptbr": "Então, o que vocês estão fazendo?\\nViram alguma coisa no mar?"
+    },
+    {
+      "id": 7,
+      "personagem": "Yotsuba",
+      "texto_en": "I saw a whale spout earlier!",
+      "texto_ptbr": "Eu vi uma baleia esguichando agora há pouco!"
+    },
+    {
+      "id": 8,
+      "personagem": "Futaro",
+      "texto_en": "What? A whale?",
+      "texto_ptbr": "O quê? Uma baleia?"
+    },
+    {
+      "id": 9,
+      "personagem": "Raiha",
+      "texto_en": "I missed it. Can you do it one more time, whale-san?",
+      "texto_ptbr": "Eu perdi. Dá pra fazer mais uma vez, baleia-san?"
+    },
+    {
+      "id": 10,
+      "personagem": "Futaro",
+      "texto_en": "Err, I think you might've imagined things.",
+      "texto_ptbr": "Hã, acho que você pode ter imaginado coisas."
+    },
+    {
+      "id": 11,
+      "personagem": "Yotsuba",
+      "texto_en": "I didn't imagine anything!\\nWater just shot up from the surface,\\nlike fwooosh!",
+      "texto_ptbr": "Eu não imaginei nada!\\nA água simplesmente subiu da superfície,\\ntipo fwooosh!"
+    },
+    {
+      "id": 12,
+      "personagem": "Yotsuba",
+      "texto_en": "But...it only happened once...\\nso the whale might have gone somewhere else.",
+      "texto_ptbr": "Mas...só aconteceu uma vez...\\nentão a baleia pode ter ido pra outro lugar."
+    },
+    {
+      "id": 13,
+      "personagem": "Raiha",
+      "texto_en": "I wanted to see it, too.",
+      "texto_ptbr": "Eu também queria ter visto."
+    },
+    {
+      "id": 14,
+      "personagem": "Raiha",
+      "texto_en": "Hey, big bro.\\nWhat kind of whale was it,\\nif it could be seen from here?",
+      "texto_ptbr": "Ei, Onii-chan.\\nQue tipo de baleia era,\\nse dava pra ver daqui?"
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "I'm not sure, but maybe it was a humpback whale?\\nThey come to the ocean off Okinawa\\nto raise their young during this season.",
+      "texto_ptbr": "Não tenho certeza, mas talvez fosse uma baleia-jubarte?\\nElas vêm pro mar de Okinawa\\npra criar os filhotes nessa época do ano."
+    },
+    {
+      "id": 16,
+      "personagem": "Raiha",
+      "texto_en": "What?! So can we see baby whales too?",
+      "texto_ptbr": "O quê?! Então dá pra ver filhotes de baleia também?"
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Go whale watching out to sea,\\nand there's a chance you can see parent and child.",
+      "texto_ptbr": "Se for observar baleias mar adentro,\\nexiste a chance de ver a mãe com o filhote."
+    },
+    {
+      "id": 18,
+      "personagem": "Raiha",
+      "texto_en": "I wanna see that!\\nI want to see parent and child whales spout together!",
+      "texto_ptbr": "Eu quero ver isso!\\nQuero ver mãe e filhote esguichando juntos!"
+    },
+    {
+      "id": 19,
+      "personagem": "Yotsuba",
+      "texto_en": "That would be nice. They would probably be so cute,\\nside-by-side, spouting water up in the air.",
+      "texto_ptbr": "Seria legal. Eles provavelmente seriam tão fofos,\\nlado a lado, esguichando água pro alto."
+    },
+    {
+      "id": 20,
+      "personagem": "Yotsuba",
+      "texto_en": "But, why DO whales spout water like that?",
+      "texto_ptbr": "Mas por que as baleias esguicham água assim, hein?"
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "You seemed so interested\\nin whales a moment ago.\\nDon't you know?",
+      "texto_ptbr": "Você parecia tão interessada\\nem baleias agora há pouco.\\nNão sabe?"
+    },
+    {
+      "id": 22,
+      "personagem": "Yotsuba",
+      "texto_en": "It's not a problem if I don't know, right?\\nI can still be impressed.",
+      "texto_ptbr": "Não tem problema se eu não souber, né?\\nEu ainda posso ficar impressionada."
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "That's not something to brag about.\\nFirst, try thinking about it for a minute.",
+      "texto_ptbr": "Isso não é motivo de orgulho.\\nPrimeiro, tente pensar um pouco."
+    },
+    {
+      "id": 24,
+      "personagem": "Yotsuba",
+      "texto_en": "Hm...",
+      "texto_ptbr": "Hm..."
+    },
+    {
+      "id": 25,
+      "personagem": "Yotsuba",
+      "texto_en": "Is it a greeting?\\nLike saying hello?",
+      "texto_ptbr": "Será que é um cumprimento?\\nTipo dizer oi?"
+    },
+    {
+      "id": 26,
+      "personagem": "Futaro",
+      "texto_en": "So, you're saying it's directed towards us?",
+      "texto_ptbr": "Então você está dizendo que é direcionado a nós?"
+    },
+    {
+      "id": 27,
+      "personagem": "Yotsuba",
+      "texto_en": "Yes, that's it.",
+      "texto_ptbr": "Sim, é isso."
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "So listen, whales don't need to communicate with humans\\nto live their lives.",
+      "texto_ptbr": "Escuta, as baleias não precisam se comunicar com humanos\\npra viver."
+    },
+    {
+      "id": 29,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah! That's right!",
+      "texto_ptbr": "Ah! É verdade!"
+    },
+    {
+      "id": 30,
+      "personagem": "Futaro",
+      "texto_en": "And, the answer to why they spout water\\nis because of their breathing.",
+      "texto_ptbr": "E a resposta pra por que elas esguicham água\\né por causa da respiração."
+    },
+    {
+      "id": 31,
+      "personagem": "Yotsuba",
+      "texto_en": "Breathing, huh?",
+      "texto_ptbr": "Respiração, é?"
+    },
+    {
+      "id": 32,
+      "personagem": "Futaro",
+      "texto_en": "Raiha, what about you? Do you know?",
+      "texto_ptbr": "Raiha, e você? Sabe?"
+    },
+    {
+      "id": 33,
+      "personagem": "Raiha",
+      "texto_en": "Ehehe, actually, I do.",
+      "texto_ptbr": "Ehehe, na verdade, eu sei."
+    },
+    {
+      "id": 34,
+      "personagem": "Yotsuba",
+      "texto_en": "Ohh, nice going, Raiha-chan!",
+      "texto_ptbr": "Ohh, mandou bem, Raiha-chan!"
+    },
+    {
+      "id": 35,
+      "personagem": "Futaro",
+      "texto_en": "You like to look at encyclopedias, don't you, Raiha.",
+      "texto_ptbr": "Você gosta de olhar enciclopédias, né, Raiha."
+    },
+    {
+      "id": 36,
+      "personagem": "Raiha",
+      "texto_en": "Yeah, I often look at the field guide of sea creatures.",
+      "texto_ptbr": "É, eu sempre olho o guia de criaturas marinhas."
+    },
+    {
+      "id": 37,
+      "personagem": "Yotsuba",
+      "texto_en": "Wowww, I respect you even more now!\\nSo, being studious runs in the blood\\nof the Uesugi family, huh?",
+      "texto_ptbr": "Uauuu, agora te respeito ainda mais!\\nEntão ser estudioso está no sangue\\nda família Uesugi, hein?"
+    },
+    {
+      "id": 38,
+      "personagem": "Futaro",
+      "texto_en": "(Yeah, but Dad... I wonder about him, though.\\n He used to say he was a hardcore outlaw.)",
+      "texto_ptbr": "(É, mas o pai... eu fico na dúvida sobre ele.\\n Ele costumava dizer que era um fora da lei da pesada.)"
+    },
+    {
+      "id": 39,
+      "personagem": "Futaro",
+      "texto_en": "And, the answer to why they spout water\\nis because of their breathing.",
+      "texto_ptbr": "E a resposta pra por que elas esguicham água\\né por causa da respiração."
+    },
+    {
+      "id": 40,
+      "personagem": "Yotsuba",
+      "texto_en": "Breathing, huh?",
+      "texto_ptbr": "Respiração, é?"
+    },
+    {
+      "id": 41,
+      "personagem": "Futaro",
+      "texto_en": "Well, that's an interesting idea.\\nUsing spouting for communication.",
+      "texto_ptbr": "Bem, é uma ideia interessante.\\nUsar o esguicho pra comunicação."
+    },
+    {
+      "id": 42,
+      "personagem": "Yotsuba",
+      "texto_en": "Ehehe, it's not that interesting, really.",
+      "texto_ptbr": "Ehehe, não é tão interessante assim, na verdade."
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "But who are they communicating with?\\nOther whales swim underwater, you know?",
+      "texto_ptbr": "Mas com quem elas se comunicariam?\\nAs outras baleias nadam debaixo d'água, sabe?"
+    },
+    {
+      "id": 44,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, right! It won't work if it's not visible.",
+      "texto_ptbr": "Ah, é! Não funciona se não dá pra ver."
+    },
+    {
+      "id": 45,
+      "personagem": "Futaro",
+      "texto_en": "Ah, that's why whales use ultrasound...\\nIt's called echolocation,\\nand they use it to communicate with their companions.",
+      "texto_ptbr": "Ah, por isso as baleias usam ultrassom...\\nSe chama ecolocalização,\\ne elas usam pra se comunicar com as companheiras."
+    },
+    {
+      "id": 46,
+      "personagem": "Yotsuba",
+      "texto_en": "I see, that sounds like an earth-friendly method!",
+      "texto_ptbr": "Entendi, parece um método que respeita o meio ambiente!"
+    },
+    {
+      "id": 47,
+      "personagem": "Futaro",
+      "texto_en": "That's how ecology works.\\nDon't judge things just based on how they sound.",
+      "texto_ptbr": "É assim que funciona a ecologia.\\nNão julgue as coisas só pelo som que elas têm."
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "And, the answer to why they spout water\\nis because of their breathing.",
+      "texto_ptbr": "E a resposta pra por que elas esguicham água\\né por causa da respiração."
+    },
+    {
+      "id": 49,
+      "personagem": "Yotsuba",
+      "texto_en": "Breathing, huh?",
+      "texto_ptbr": "Respiração, é?"
+    },
+    {
+      "id": 50,
+      "personagem": "Futaro",
+      "texto_en": "Unlike fish, whales breathe through their lungs.\\nIn other words, they can't breathe in water.",
+      "texto_ptbr": "Ao contrário dos peixes, as baleias respiram pelos pulmões.\\nOu seja, elas não conseguem respirar debaixo d'água."
+    },
+    {
+      "id": 51,
+      "personagem": "Yotsuba",
+      "texto_en": "Ah!\\nThat's right! Whales and dolphins are mammals!",
+      "texto_ptbr": "Ah!\\nÉ verdade! Baleias e golfinhos são mamíferos!"
+    },
+    {
+      "id": 52,
+      "personagem": "Futaro",
+      "texto_en": "Exactly.\\nIt's the same as when humans swim and take a breath.",
+      "texto_ptbr": "Exato.\\nÉ igual a quando os humanos nadam e tomam fôlego."
+    },
+    {
+      "id": 53,
+      "personagem": "Futaro",
+      "texto_en": "The breath that's forcefully exhaled\\nlooks like water spray or white mist.\\nThat's the true nature of spouting.",
+      "texto_ptbr": "A respiração expelida com força\\nparece respingo de água ou névoa branca.\\nEssa é a verdadeira natureza do esguicho."
+    },
+    {
+      "id": 54,
+      "personagem": "Raiha",
+      "texto_en": "I knew they were taking a breath,\\nbut why does it look like a fountain?",
+      "texto_ptbr": "Eu sabia que elas estavam respirando,\\nmas por que parece uma fonte?"
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "That's a good question!\\nIt's a reaction caused by temperature difference.",
+      "texto_ptbr": "Boa pergunta!\\nÉ uma reação causada pela diferença de temperatura."
+    },
+    {
+      "id": 56,
+      "personagem": "Futaro",
+      "texto_en": "The air that was warmed by the whale's body temperature\\nlooks white when it touches the cold air outside.",
+      "texto_ptbr": "O ar aquecido pela temperatura do corpo da baleia\\nfica branco quando encosta no ar frio de fora."
+    },
+    {
+      "id": 57,
+      "personagem": "Futaro",
+      "texto_en": "We also see our breath as white on a cold day,\\ndon't we?",
+      "texto_ptbr": "A gente também vê a nossa respiração branca num dia frio,\\nnão vê?"
+    },
+    {
+      "id": 58,
+      "personagem": "Raiha",
+      "texto_en": "Oh, wow! So that's the same thing!",
+      "texto_ptbr": "Nossa! Então é a mesma coisa!"
+    },
+    {
+      "id": 59,
+      "personagem": "Yotsuba",
+      "texto_en": "I see.\\nI completely thought they were spitting out seawater.",
+      "texto_ptbr": "Entendi.\\nEu tinha certeza de que elas cuspiam água do mar."
+    },
+    {
+      "id": 60,
+      "personagem": "Futaro",
+      "texto_en": "That's a common misunderstanding.\\nBut, I can understand why it might look like that.",
+      "texto_ptbr": "É um equívoco comum.\\nMas eu entendo por que pode parecer isso."
+    },
+    {
+      "id": 61,
+      "personagem": "Yotsuba",
+      "texto_en": "Hehehe, I learned something new again!",
+      "texto_ptbr": "Hehehe, aprendi algo novo de novo!"
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "Anyway, Yotsuba.\\nIsn't it time for everyone to meet up?",
+      "texto_ptbr": "Enfim, Yotsuba.\\nNão está na hora de todo mundo se encontrar?"
+    },
+    {
+      "id": 63,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, right!\\nI lost track of time during the whale lecture!",
+      "texto_ptbr": "Ah, é verdade!\\nPerdi a noção do tempo durante a aula sobre baleias!"
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "Let's summarize what we heard from the others\\nand decide what to do.",
+      "texto_ptbr": "Vamos resumir o que ouvimos dos outros\\ne decidir o que fazer."
+    },
+    {
+      "id": 65,
+      "personagem": "Yotsuba",
+      "texto_en": "Okay!",
+      "texto_ptbr": "Certo!"
+    }
+  ]
+}

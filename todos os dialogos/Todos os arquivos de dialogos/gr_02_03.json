@@ -1,0 +1,180 @@
+{
+  "arquivo": "gr_02_03",
+  "total": 29,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Miku",
+      "texto_en": "Futaro.\\nIf it's okay, I want Raiha-chan to come with us too.",
+      "texto_ptbr": "Fuutarou.\\nSe for possível, quero que a Raiha-chan venha com a gente também."
+    },
+    {
+      "id": 1,
+      "personagem": "Futaro",
+      "texto_en": "Huh? Raiha too?",
+      "texto_ptbr": "Hã? A Raiha também?"
+    },
+    {
+      "id": 2,
+      "personagem": "Miku",
+      "texto_en": "Yeah, umm...",
+      "texto_ptbr": "É, hum..."
+    },
+    {
+      "id": 3,
+      "personagem": "Miku",
+      "texto_en": "She'll be my little sister eventually,\\nso I want to get closer to her.",
+      "texto_ptbr": "Ela vai ser minha irmãzinha mais cedo ou mais tarde,\\nentão quero ficar mais próxima dela."
+    },
+    {
+      "id": 4,
+      "personagem": "Futaro",
+      "texto_en": "O-oh... I see.\\nRaiha probably feels the same way.",
+      "texto_ptbr": "A-ah... Entendo.\\nA Raiha provavelmente sente o mesmo."
+    },
+    {
+      "id": 5,
+      "personagem": "Yotsuba",
+      "texto_en": "Ooooohhh?! Is this a reverse proposal?!",
+      "texto_ptbr": "Ooooohhh?! Isso é um pedido de casamento ao contrário?!"
+    },
+    {
+      "id": 6,
+      "personagem": "Miku",
+      "texto_en": "Wha-whaaaaat?\\nN-no! That's not what I meant!",
+      "texto_ptbr": "Qu-quêêêê?\\nN-não! Não foi isso que eu quis dizer!"
+    },
+    {
+      "id": 7,
+      "personagem": "Miku",
+      "texto_en": "Ah, but of course, I do want to get married%p-2;――",
+      "texto_ptbr": "Ah, mas é claro que eu quero me casar%p-2;――"
+    },
+    {
+      "id": 8,
+      "personagem": "Miku",
+      "texto_en": "No, wait!\\nAh, ummm!",
+      "texto_ptbr": "Não, espera!\\nAh, hum!"
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "Please calm down, Miku.\\nI sort of understand what you're trying to say.",
+      "texto_ptbr": "Por favor, se acalme, Miku.\\nEu meio que entendo o que você quer dizer."
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "And Uesugi-kun,\\nwhy are you making a girl say such an important thing?",
+      "texto_ptbr": "E Uesugi-kun,\\npor que está fazendo uma garota dizer algo tão importante?"
+    },
+    {
+      "id": 11,
+      "personagem": "Futaro",
+      "texto_en": "Huh?! No, saying it here is inappropriate, isn't it?!",
+      "texto_ptbr": "Hã?! Não, dizer aqui seria inapropriado, não é?!"
+    },
+    {
+      "id": 12,
+      "personagem": "Miku",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "(No, Miku,\\n don't look at me like that!)",
+      "texto_ptbr": "(Não, Miku,\\n não me olha assim!)"
+    },
+    {
+      "id": 14,
+      "personagem": "Ichika",
+      "texto_en": "Well,\\nit's probably better to have a more romantic atmosphere\\nfor a proposal, isn't it?",
+      "texto_ptbr": "Bem,\\nprovavelmente é melhor ter um clima mais romântico\\npara um pedido de casamento, né?"
+    },
+    {
+      "id": 15,
+      "personagem": "Nino",
+      "texto_en": "But timing is also important.\\nIt's the best feeling to get to hear the words you want\\nwhen you want to hear them.",
+      "texto_ptbr": "Mas o momento também é importante.\\nÉ a melhor sensação ouvir as palavras que você quer\\nna hora em que quer ouvir."
+    },
+    {
+      "id": 16,
+      "personagem": "Nino",
+      "texto_en": "If you let your guard down like that...\\nWhat'll happen?",
+      "texto_ptbr": "Se você baixar a guarda desse jeito...\\nO que vai acontecer?"
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "......",
+      "texto_ptbr": "......"
+    },
+    {
+      "id": 18,
+      "personagem": "Futaro",
+      "texto_en": "(Let my guard down... So she's implying that\\n my relationship with Miku\\n hasn't improved much since I confessed.)",
+      "texto_ptbr": "(Baixar a guarda... Então ela está insinuando que\\n a minha relação com a Miku\\n não melhorou muito desde que me declarei.)"
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "(I had exams, and I was busy helping Yotsuba and Itsuki\\n prepare for theirs%p-2;――\\n%p; But that just sounds like an excuse, doesn't it.)",
+      "texto_ptbr": "(Eu tinha as provas e estava ocupado ajudando a Yotsuba e a Itsuki\\n a se preparar para as delas%p-2;――\\n%p; Mas isso soa só como desculpa, né.)"
+    },
+    {
+      "id": 20,
+      "personagem": "Futaro",
+      "texto_en": "(Of course, I understand.\\n Since I'm going to Tokyo, from here on out\\n we'll be forced into a long-distance relationship.)",
+      "texto_ptbr": "(É claro que eu entendo.\\n Como vou para Tóquio, daqui para a frente\\n seremos forçados a um relacionamento à distância.)"
+    },
+    {
+      "id": 21,
+      "personagem": "Futaro",
+      "texto_en": "(I don't have any intention of doubting Miku's feelings,\\n but honestly, since we're both unexperienced with\\n long-distance relationships... I'm quite anxious.)",
+      "texto_ptbr": "(Não tenho intenção de duvidar dos sentimentos da Miku,\\n mas, sinceramente, como nenhum de nós tem experiência\\n com relacionamentos à distância... estou bem ansioso.)"
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "(That's why, on this trip, I want to deepen my bond\\n with Miku even more.\\n For that reason...!)",
+      "texto_ptbr": "(Por isso, nesta viagem, quero aprofundar o meu laço\\n com a Miku ainda mais.\\n Para isso...!)"
+    },
+    {
+      "id": 23,
+      "personagem": "Futaro",
+      "texto_en": "(During this trip! I will KISS HER!!)",
+      "texto_ptbr": "(Nesta viagem! Eu vou BEIJAR ELA!!)"
+    },
+    {
+      "id": 24,
+      "personagem": "Futaro",
+      "texto_en": "(Last time,\\n I was kissed by her when she pushed me down, and\\n as a man, I'm not sure how to feel about that situation...)",
+      "texto_ptbr": "(Da última vez,\\n fui beijado por ela quando ela me derrubou, e\\n como homem, não sei bem o que sentir sobre aquela situação...)"
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "(But this time, I'll show her the kind of man I am!)",
+      "texto_ptbr": "(Mas desta vez, vou mostrar a ela o tipo de homem que eu sou!)"
+    },
+    {
+      "id": 26,
+      "personagem": "Yotsuba",
+      "texto_en": "Oh, that's right, Uesugi-san,\\ndon't worry about Raiha-chan's travel expenses!",
+      "texto_ptbr": "Ah, é verdade, Uesugi-san,\\nnão se preocupe com as despesas de viagem da Raiha-chan!"
+    },
+    {
+      "id": 27,
+      "personagem": "Ichika",
+      "texto_en": "Since we're the ones inviting her,\\nit's only natural for us to cover the cost.",
+      "texto_ptbr": "Como fomos nós que a convidamos,\\né natural que a gente cubra o custo."
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "O-okay.\\nI feel kinda bad. Thanks for the help.",
+      "texto_ptbr": "T-tá bom.\\nMe sinto meio mal. Valeu pela ajuda."
+    }
+  ]
+}

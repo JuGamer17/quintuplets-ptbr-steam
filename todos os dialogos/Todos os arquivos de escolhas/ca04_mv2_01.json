@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca04_mv2_01",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "水族館で見るクラゲは綺麗で癒やされるけど、\\nなかには物騒なのもいるんだねー。",
+      "texto_en": "Jellyfish in aquariums\\nare beautiful and soothing to watch,\\nbut there are also dangerous ones among them, huh.",
+      "texto_ptbr": "Águas-vivas em aquários\\nsão lindas e relaxantes de ver,\\nmas também tem umas perigosas entre elas, hein."
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "クラゲを見て癒やされるのか？",
+      "texto_en": "You think watching jellyfish is soothing?",
+      "texto_ptbr": "Olhar águas-vivas relaxa?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "絶対に触ったりするんじゃないぞ",
+      "texto_en": "Just be sure not to touch them.",
+      "texto_ptbr": "Nem pense em tocar nelas.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "水族館は工夫がされてるからな",
+      "texto_en": "Aquariums are designed for them.",
+      "texto_ptbr": "Os aquários são pensados pra isso.",
+      "selidx": 2
+    }
+  ]
+}

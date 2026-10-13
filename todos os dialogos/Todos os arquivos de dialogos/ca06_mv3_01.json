@@ -1,0 +1,408 @@
+{
+  "arquivo": "ca06_mv3_01",
+  "total": 67,
+  "dialogos": [
+    {
+      "id": 0,
+      "personagem": "Futaro",
+      "texto_en": "Hey.\\nYou come here right away?",
+      "texto_ptbr": "Ei.\\nVocê veio direto pra cá?"
+    },
+    {
+      "id": 1,
+      "personagem": "Itsuki",
+      "texto_en": "Oh?\\nDid you also come to eat ice cream, Uesugi-kun?",
+      "texto_ptbr": "Oh?\\nVocê também veio tomar sorvete, Uesugi-kun?"
+    },
+    {
+      "id": 2,
+      "personagem": "Futaro",
+      "texto_en": "Well, that's how it is.\\nAfter all, it was recommended by all of you.",
+      "texto_ptbr": "Bom, é isso mesmo.\\nAfinal, foi recomendado por vocês todas."
+    },
+    {
+      "id": 3,
+      "personagem": "Futaro",
+      "texto_en": "And yet, only two of you came.",
+      "texto_ptbr": "E mesmo assim, só duas de vocês vieram."
+    },
+    {
+      "id": 4,
+      "personagem": "Itsuki",
+      "texto_en": "Yes.\\nThe rest said they had a place they were curious about\\non the way and went to check it out first.",
+      "texto_ptbr": "Sim.\\nAs outras disseram que tinham um lugar que queriam conhecer\\nno caminho e foram dar uma olhada primeiro."
+    },
+    {
+      "id": 5,
+      "personagem": "Futaro",
+      "texto_en": "(Itsuki would be the one who would come here first.\\n Nino also seems to like sweets...\\n There's a possibility it could be those two.)",
+      "texto_ptbr": "(A Itsuki seria quem viria pra cá primeiro.\\n A Nino também parece gostar de doces...\\n Existe a possibilidade de serem essas duas.)"
+    },
+    {
+      "id": 6,
+      "personagem": "Futaro",
+      "texto_en": "So, is the ice cream here that famous?",
+      "texto_ptbr": "Então, o sorvete daqui é tão famoso assim?"
+    },
+    {
+      "id": 7,
+      "personagem": "Itsuki",
+      "texto_en": "When it comes to classic Okinawan ice cream,\\nthis is the place to go.",
+      "texto_ptbr": "Quando o assunto é o sorvete clássico de Okinawa,\\né aqui que se deve vir."
+    },
+    {
+      "id": 8,
+      "personagem": "Itsuki",
+      "texto_en": "Ice cream is probably really popular in Okinawa \\nsince it's warm all year round, ya know?",
+      "texto_ptbr": "O sorvete deve ser muito popular em Okinawa \\nporque é quente o ano todo, sabe?"
+    },
+    {
+      "id": 9,
+      "personagem": "Itsuki",
+      "texto_en": "By the way, the selling point\\nof this ice cream\\nis that it uses locally produced fruits!",
+      "texto_ptbr": "Aliás, o diferencial\\ndeste sorvete\\né que ele usa frutas produzidas localmente!"
+    },
+    {
+      "id": 10,
+      "personagem": "Itsuki",
+      "texto_en": "Please, take a look!\\nAll of them look delicious, don't they?",
+      "texto_ptbr": "Por favor, dê uma olhada!\\nTodos parecem deliciosos, não é?"
+    },
+    {
+      "id": 11,
+      "personagem": "Itsuki",
+      "texto_en": "They have everything from the classic flavors\\nto limited-time flavors...",
+      "texto_ptbr": "Tem de tudo, dos sabores clássicos\\naté os de edição limitada..."
+    },
+    {
+      "id": 12,
+      "personagem": "Itsuki",
+      "texto_en": "Oh, there are too many flavors to choose from!",
+      "texto_ptbr": "Ah, tem sabores demais pra escolher!"
+    },
+    {
+      "id": 13,
+      "personagem": "Futaro",
+      "texto_en": "Where do they get the locally produced fruits\\nthat they advertise?",
+      "texto_ptbr": "Quais são as frutas produzidas localmente\\nque eles anunciam?"
+    },
+    {
+      "id": 14,
+      "personagem": "Itsuki",
+      "texto_en": "Passion fruit and\\nshikuwasa citrus fruit are some of them.",
+      "texto_ptbr": "Maracujá e\\nshikuwasa, uma fruta cítrica, são algumas delas."
+    },
+    {
+      "id": 15,
+      "personagem": "Futaro",
+      "texto_en": "Yeah, shikuwasa is famous.\\nYesterday, Ichika was drinking something with shikuwasa.",
+      "texto_ptbr": "É, a shikuwasa é famosa.\\nOntem a Ichika estava bebendo algo com shikuwasa."
+    },
+    {
+      "id": 16,
+      "personagem": "Itsuki",
+      "texto_en": "If that's the case, can you imagine the taste?",
+      "texto_ptbr": "Se é assim, você consegue imaginar o sabor?"
+    },
+    {
+      "id": 17,
+      "personagem": "Futaro",
+      "texto_en": "Well, I didn't try it or anything.\\nSo, I don't know what it tastes like.",
+      "texto_ptbr": "Bom, eu não provei nem nada.\\nEntão não sei qual é o gosto."
+    },
+    {
+      "id": 18,
+      "personagem": "Itsuki",
+      "texto_en": "There are more than just fruit flavors,\\nbut also salted chinsuko biscuit and sugar cane.",
+      "texto_ptbr": "Não tem só sabores de fruta,\\ntambém tem biscoito chinsuko salgado e cana-de-açúcar."
+    },
+    {
+      "id": 19,
+      "personagem": "Futaro",
+      "texto_en": "Woah, no way?\\nI can't even imagine what that would taste like.",
+      "texto_ptbr": "Uau, sério?\\nNem consigo imaginar que gosto isso teria."
+    },
+    {
+      "id": 20,
+      "personagem": "Itsuki",
+      "texto_en": "With this many options,\\nyou'll surely find a flavor you'll like,\\nUesugi-kun.",
+      "texto_ptbr": "Com tantas opções,\\ncom certeza você vai achar um sabor de que goste,\\nUesugi-kun."
+    },
+    {
+      "id": 21,
+      "personagem": "Itsuki",
+      "texto_en": "Why don't you try a variety of them?",
+      "texto_ptbr": "Por que não experimenta vários?"
+    },
+    {
+      "id": 22,
+      "personagem": "Futaro",
+      "texto_en": "What do you mean by 'a variety'?\\nHow much are you guys planning on eating?",
+      "texto_ptbr": "Como assim, 'vários'?\\nQuanto vocês pretendem comer?"
+    },
+    {
+      "id": 23,
+      "personagem": "Itsuki",
+      "texto_en": "Let's see.\\nI'll have a double%p-2;――",
+      "texto_ptbr": "Vejamos.\\nVou querer uma bola dupla%p-2;――"
+    },
+    {
+      "id": 24,
+      "personagem": "Itsuki",
+      "texto_en": "No, with this many different kinds,\\nI might go for a triple-scoop.",
+      "texto_ptbr": "Não, com tantos tipos diferentes,\\ntalvez eu vá de três bolas."
+    },
+    {
+      "id": 25,
+      "personagem": "Futaro",
+      "texto_en": "A three-tier sort of thing?\\nRich folk, really...",
+      "texto_ptbr": "Tipo, três andares?\\nCoisa de rico, hein..."
+    },
+    {
+      "id": 26,
+      "personagem": "Itsuki",
+      "texto_en": "This much is normal, isn't it?",
+      "texto_ptbr": "Isso é o normal, não é?"
+    },
+    {
+      "id": 27,
+      "personagem": "Itsuki",
+      "texto_en": "Well, there are also exclusive goods in Okinawa\\nthat you should try.\\nYou don't want to regret not doing so.",
+      "texto_ptbr": "Além disso, existem produtos exclusivos de Okinawa\\nque você deveria provar.\\nNão vai querer se arrepender de não ter provado."
+    },
+    {
+      "id": 28,
+      "personagem": "Futaro",
+      "texto_en": "(If it were Itsuki, she might go for the triple stack.)",
+      "texto_ptbr": "(Se fosse a Itsuki, ela talvez pedisse a pilha tripla.)"
+    },
+    {
+      "id": 29,
+      "personagem": "Futaro",
+      "texto_en": "(I know Miku likes matcha,\\n but...I'm not sure about the others...)",
+      "texto_ptbr": "(Sei que a Miku gosta de matcha,\\n mas... não tenho certeza das outras...)"
+    },
+    {
+      "id": 30,
+      "personagem": "Itsuki",
+      "texto_en": "Ah, wait! There's also soft serve and crepes!",
+      "texto_ptbr": "Ah, espera! Também tem sorvete de máquina e crepes!"
+    },
+    {
+      "id": 31,
+      "personagem": "Itsuki",
+      "texto_en": "Ooohh!\\nThe choices just keep increasing.\\nThis is quite a challenge.",
+      "texto_ptbr": "Ooohh!\\nAs opções só aumentam.\\nIsso é um verdadeiro desafio."
+    },
+    {
+      "id": 32,
+      "personagem": "Itsuki",
+      "texto_en": "If you go for a crepe, you can also enjoy fresh fruit.\\nThen, I'll have a mango crepe\\nwith a double scoop of ice cream!",
+      "texto_ptbr": "Se você escolhe crepe, também dá pra aproveitar fruta fresca.\\nEntão vou querer um crepe de manga\\ncom duas bolas de sorvete!"
+    },
+    {
+      "id": 33,
+      "personagem": "Itsuki",
+      "texto_en": "I'll have a triple-scoop in a cup,\\nwith soft serve added, please.",
+      "texto_ptbr": "Vou querer três bolas no copinho,\\ncom sorvete de máquina por cima, por favor."
+    },
+    {
+      "id": 34,
+      "personagem": "Futaro",
+      "texto_en": "(This is no longer a matter of taste preferences.\\n They both ordered way too much...)",
+      "texto_ptbr": "(Isso já não é questão de preferência de sabor.\\n As duas pediram comida demais...)"
+    },
+    {
+      "id": 35,
+      "personagem": "Itsuki",
+      "texto_en": "What are you gonna choose, Uesugi-kun?",
+      "texto_ptbr": "O que você vai escolher, Uesugi-kun?"
+    },
+    {
+      "id": 36,
+      "personagem": "Futaro",
+      "texto_en": "Well, I guess I'll go with this strawberry ice cream.",
+      "texto_ptbr": "Bom, acho que vou nesse sorvete de morango."
+    },
+    {
+      "id": 37,
+      "personagem": "Itsuki",
+      "texto_en": "Mmm, it's delicious! I'll give it five stars for sure!",
+      "texto_ptbr": "Mmm, que delícia! Com certeza dou cinco estrelas!"
+    },
+    {
+      "id": 38,
+      "personagem": "Itsuki",
+      "texto_en": "I must definitely confirm that.\\nMay I have a taste of that salted chinsuko?",
+      "texto_ptbr": "Preciso confirmar isso sem falta.\\nPosso provar esse de chinsuko salgado?"
+    },
+    {
+      "id": 39,
+      "personagem": "Itsuki",
+      "texto_en": "In that case,\\nI'll have a taste of your mango crepe in exchange.",
+      "texto_ptbr": "Nesse caso,\\nem troca vou provar o seu crepe de manga."
+    },
+    {
+      "id": 40,
+      "personagem": "Futaro",
+      "texto_en": "(They both look so delicious.\\n Well, they actually taste really good.)",
+      "texto_ptbr": "(Os dois parecem tão gostosos.\\n Bom, na verdade são muito gostosos mesmo.)"
+    },
+    {
+      "id": 41,
+      "personagem": "Itsuki",
+      "texto_en": "*stare*",
+      "texto_ptbr": "*encarando*"
+    },
+    {
+      "id": 42,
+      "personagem": "Futaro",
+      "texto_en": "Hm?",
+      "texto_ptbr": "Hm?"
+    },
+    {
+      "id": 43,
+      "personagem": "Futaro",
+      "texto_en": "...Even if you stare, I'm not giving you any.",
+      "texto_ptbr": "...Mesmo que fique me encarando, não vou te dar nada."
+    },
+    {
+      "id": 44,
+      "personagem": "Itsuki",
+      "texto_en": "I-it's not like I want it or anything!",
+      "texto_ptbr": "N-não é como se eu quisesse ou algo assim!"
+    },
+    {
+      "id": 45,
+      "personagem": "Itsuki",
+      "texto_en": "But, that strawberry flavor looks delicious too...",
+      "texto_ptbr": "Mas esse sabor de morango também parece delicioso..."
+    },
+    {
+      "id": 46,
+      "personagem": "Futaro",
+      "texto_en": "It's hard to eat while being stared at like that.",
+      "texto_ptbr": "É difícil comer sendo encarado desse jeito."
+    },
+    {
+      "id": 47,
+      "personagem": "Itsuki",
+      "texto_en": "I'm still curious.\\nI'm gonna buy that strawberry ice cream as well.",
+      "texto_ptbr": "Continuo curiosa.\\nVou comprar esse sorvete de morango também."
+    },
+    {
+      "id": 48,
+      "personagem": "Futaro",
+      "texto_en": "You're still gonna eat?!",
+      "texto_ptbr": "Você ainda vai comer?!"
+    },
+    {
+      "id": 49,
+      "personagem": "Futaro",
+      "texto_en": "What? Want some?",
+      "texto_ptbr": "O quê? Quer um pouco?"
+    },
+    {
+      "id": 50,
+      "personagem": "Itsuki",
+      "texto_en": "H-how could you tell?!",
+      "texto_ptbr": "C-como você percebeu?!"
+    },
+    {
+      "id": 51,
+      "personagem": "Futaro",
+      "texto_en": "That's because you were looking at the ice cream\\nlike it's prey.",
+      "texto_ptbr": "Porque você estava olhando pro sorvete\\ncomo se fosse uma presa."
+    },
+    {
+      "id": 52,
+      "personagem": "Itsuki",
+      "texto_en": "...That's not true.\\nI wasn't thinking anything like that at all.",
+      "texto_ptbr": "...Isso não é verdade.\\nEu não estava pensando nada disso."
+    },
+    {
+      "id": 53,
+      "personagem": "Itsuki",
+      "texto_en": "...I'm still curious.\\nI'm gonna buy that strawberry ice cream as well.",
+      "texto_ptbr": "...Continuo curiosa.\\nVou comprar esse sorvete de morango também."
+    },
+    {
+      "id": 54,
+      "personagem": "Futaro",
+      "texto_en": "You're still gonna eat?!",
+      "texto_ptbr": "Você ainda vai comer?!"
+    },
+    {
+      "id": 55,
+      "personagem": "Futaro",
+      "texto_en": "If you're so curious, do you want a bite?",
+      "texto_ptbr": "Se está tão curiosa, quer uma mordida?"
+    },
+    {
+      "id": 56,
+      "personagem": "Itsuki",
+      "texto_en": "Is that alright?!",
+      "texto_ptbr": "Pode mesmo?!"
+    },
+    {
+      "id": 57,
+      "personagem": "Itsuki",
+      "texto_en": "...Wha?!",
+      "texto_ptbr": "...Quê?!"
+    },
+    {
+      "id": 58,
+      "personagem": "Itsuki",
+      "texto_en": "No, that's alright!\\nI can't take it from a man like you,\\nit's too improper.",
+      "texto_ptbr": "Não, tudo bem!\\nNão posso aceitar de um homem como você,\\né impróprio demais."
+    },
+    {
+      "id": 59,
+      "personagem": "Futaro",
+      "texto_en": "Ah...\\nYeah, sorry about that. I just said it\\nwithout thinking, like I was teasing you.",
+      "texto_ptbr": "Ah...\\nÉ, desculpa. Eu falei\\nsem pensar, como se estivesse te provocando."
+    },
+    {
+      "id": 60,
+      "personagem": "Itsuki",
+      "texto_en": "I appreciate the gesture.",
+      "texto_ptbr": "Agradeço o gesto."
+    },
+    {
+      "id": 61,
+      "personagem": "Itsuki",
+      "texto_en": "...I'm still curious.\\nI'm gonna buy that strawberry ice cream as well.",
+      "texto_ptbr": "...Continuo curiosa.\\nVou comprar esse sorvete de morango também."
+    },
+    {
+      "id": 62,
+      "personagem": "Futaro",
+      "texto_en": "You're still gonna eat?!",
+      "texto_ptbr": "Você ainda vai comer?!"
+    },
+    {
+      "id": 63,
+      "personagem": "Itsuki",
+      "texto_en": "If you eat too much,\\nyour stomach will get cold, you know?",
+      "texto_ptbr": "Se comer demais,\\nsua barriga vai gelar, sabia?"
+    },
+    {
+      "id": 64,
+      "personagem": "Futaro",
+      "texto_en": "What, why are you lecturing me about that?!",
+      "texto_ptbr": "O quê, por que você está me passando sermão sobre isso?!"
+    },
+    {
+      "id": 65,
+      "personagem": "Futaro",
+      "texto_en": "(In the end, this Itsuki bought some strawberry\\n ice cream as well, and shared it\\n with the other Itsuki.)",
+      "texto_ptbr": "(No fim, essa Itsuki também comprou um sorvete de\\n morango e dividiu\\n com a outra Itsuki.)"
+    },
+    {
+      "id": 66,
+      "personagem": "Futaro",
+      "texto_en": "(I wonder how much more they ate than I did...)",
+      "texto_ptbr": "(Me pergunto quanto elas comeram a mais do que eu...)"
+    }
+  ]
+}

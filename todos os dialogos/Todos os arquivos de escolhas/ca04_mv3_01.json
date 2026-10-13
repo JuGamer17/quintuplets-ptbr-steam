@@ -1,0 +1,75 @@
+{
+  "arquivo": "ca04_mv3_01",
+  "total": 7,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "（……沖縄モチーフのテープで迷ってるのか）",
+      "texto_en": "(Are they struggling to choose\\n which Okinawa-themed tape to buy?)",
+      "texto_ptbr": "(Elas estão com dificuldade pra escolher\\n qual fita com tema de Okinawa comprar?)"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "なぜ使う当てもない物を買うんだ？",
+      "texto_en": "Why buy what you have no use for?",
+      "texto_ptbr": "Por que comprar algo que você nem tem onde usar?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "このテープ、海の青が綺麗だな",
+      "texto_en": "This tape has a beautiful shade of ocean blue.",
+      "texto_ptbr": "Essa fita tem um azul de mar lindo.",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "飾り方を考えればいいんじゃないか？",
+      "texto_en": "You should think about what to do with it.",
+      "texto_ptbr": "Não basta pensar em como decorar?",
+      "selidx": 2
+    },
+    {
+      "id": 4,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "お土産屋:一花:五月",
+      "texto_en": "Souvenir Shop: Ichika/Itsuki",
+      "texto_ptbr": "Loja de Souvenirs: Ichika/Itsuki",
+      "selidx": 0
+    },
+    {
+      "id": 5,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "ショップＢ:二乃:四葉",
+      "texto_en": "Shop B: Nino/Yotsuba",
+      "texto_ptbr": "Loja B: Nino/Yotsuba",
+      "selidx": 1
+    },
+    {
+      "id": 6,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*mapselect",
+      "texto_jp": "裏通り:三玖:らいは",
+      "texto_en": "Back Street: Miku/Raiha",
+      "texto_ptbr": "Rua dos Fundos: Miku/Raiha",
+      "selidx": 2
+    }
+  ]
+}

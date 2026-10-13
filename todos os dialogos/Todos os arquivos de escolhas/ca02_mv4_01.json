@@ -1,0 +1,45 @@
+{
+  "arquivo": "ca02_mv4_01",
+  "total": 4,
+  "dialogos": [
+    {
+      "id": 0,
+      "tipo": "pergunta",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "（ぐぬっ……。\\n　確かに無茶ぶりではあるが！）",
+      "texto_en": "(Gghhnn...\\n This request is indeed a bit unreasonable!)",
+      "texto_ptbr": "(Gghhnn...\n Esse pedido é meio absurdo mesmo!)"
+    },
+    {
+      "id": 1,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "定番でいいんじゃないか",
+      "texto_en": "Why not go with a classic?",
+      "texto_ptbr": "Por que não ir no clássico?",
+      "selidx": 0
+    },
+    {
+      "id": 2,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "パッケージで選ぶのはどうだ",
+      "texto_en": "How about choosing by the packaging?",
+      "texto_ptbr": "Que tal escolher pela embalagem?",
+      "selidx": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escolha",
+      "personagem": "",
+      "cena": "*sel1",
+      "texto_jp": "調味料もいいかもしれない",
+      "texto_en": "Seasonings might be good.",
+      "texto_ptbr": "Tempero também pode ser uma boa.",
+      "selidx": 2
+    }
+  ]
+}
