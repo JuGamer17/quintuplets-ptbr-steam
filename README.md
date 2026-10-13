@@ -30,7 +30,7 @@ chmod +x instalar.sh
 ```
 
 ### Windows
-1. Baixe o arquivo [Instalar_Traducao_PTBR_Gotoubun_Five_Memories.exe](Windows/Instalar_Traducao_PTBR_Gotoubun_Five_Memories.exe) e execute-o.
+1. Baixe o arquivo [Instalar_Traducao_PTBR_Gotoubun_Five_Memories.exe](https://github.com/JuGamer17/quintuplets-ptbr-steam/releases/tag/1.0) e execute-o.
 2. É possivel que o Windows reclame pr ser um .exe não verificado, apenas selecione para executar mesmo assim, e caso não se sinta confortavel com isso pode ver o codigo do instalador [Aqui](/Windows/instalador/Instalador_Traducao_PTBR.iss).
 3. Selecione a pasta do jogo (E para ser pego automaticamente caso baixado pela Steam).
 4. Instale e abra o jogo.
